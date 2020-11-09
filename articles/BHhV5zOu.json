@@ -1,14 +1,14 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
-  "targetLanguage" : "serbocroatian",
-  "author" : "laura.schrettl@kurier.at (Laura Schrettl)",
-  "publisher" : "kurier.at",
-  "articleContent" : [ "Die interaktiven Karten zeigen, wie die Situation aktuell in den Bundesländern aussieht, wie viel getestet wird und wie viele Fälle es bisher in den Bezirken gab." ],
   "id" : "BHhV5zOu",
-  "category" : "CHRONICLE",
   "url" : "https://kurier.at/chronik/oesterreich/coronavirus-so-viele-infizierte-gibt-es-in-ihrem-bezirk/400788029",
+  "category" : "CHRONICLE",
+  "publisher" : "kurier.at",
+  "author" : "laura.schrettl@kurier.at (Laura Schrettl)",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "serbocroatian",
+  "articleTitle" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
   "articleTitleTranslated" : "Koronavirus: trenutni broj zaraženih u Austriji",
+  "articleContent" : [ "Die interaktiven Karten zeigen, wie die Situation aktuell in den Bundesländern aussieht, wie viel getestet wird und wie viele Fälle es bisher in den Bezirken gab." ],
   "articleContentTranslated" : [ "Interaktivne karte pokazuju kakva je trenutna situacija u saveznim državama, koliko se ispituje i koliko je slučajeva do sada bilo u okruzima." ]
 }
