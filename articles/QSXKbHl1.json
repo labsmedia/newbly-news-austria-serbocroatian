@@ -1,13 +1,13 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Sechs Teamspieler von Salzburg CoV-positiv",
-  "targetLanguage" : "serbocroatian",
-  "publisher" : "sport.orf.at",
-  "articleContent" : [ "Sechs Teamspieler von Salzburg CoV-positiv Sechs für diverse Nationalteams einberufene Spieler von Red Bull Salzburg haben laut einer Aussendung des heimischen Serienmeisters einen positiven Coronavirus-Test abgeliefert.", "Wie die „Bullen“ am Montag mitteilten, habe eine extra für diese Gruppe durchgeführte Testreihe dieses Resultat geliefert, über das der Club am Sonntagabend in Kenntnis gesetzt worden sei.", "Vorerst seien alle Nationalteamabstellungen abgesagt worden.  Die betroffenen Spieler seien aktuell ohne Symptome und hätten sich bereits in Quarantäne begeben, schrieb Salzburg." ],
   "id" : "QSXKbHl1",
-  "category" : "SPORT",
   "url" : "https://sport.orf.at/stories/3069141/",
+  "category" : "SPORT",
+  "publisher" : "sport.orf.at",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "serbocroatian",
+  "articleTitle" : "Sechs Teamspieler von Salzburg CoV-positiv",
   "articleTitleTranslated" : "Šest momčadi iz Salzburg CoV pozitivno",
+  "articleContent" : [ "Sechs Teamspieler von Salzburg CoV-positiv Sechs für diverse Nationalteams einberufene Spieler von Red Bull Salzburg haben laut einer Aussendung des heimischen Serienmeisters einen positiven Coronavirus-Test abgeliefert.", "Wie die „Bullen“ am Montag mitteilten, habe eine extra für diese Gruppe durchgeführte Testreihe dieses Resultat geliefert, über das der Club am Sonntagabend in Kenntnis gesetzt worden sei.", "Vorerst seien alle Nationalteamabstellungen abgesagt worden.  Die betroffenen Spieler seien aktuell ohne Symptome und hätten sich bereits in Quarantäne begeben, schrieb Salzburg.", "Der Rest des Teams befinde sich in Mannschaftsquarantäne und dürfe nur zwischen Wohnung, Trainings- bzw.  Spielort pendeln." ],
   "articleContentTranslated" : [ "Šest timskih igrača iz Salzburga pozitivno na CoV Šest igrača iz Red Bull Salzburga pozvanih u razne nacionalne momčadi isporučili su pozitivan test na koronavirus prema emitiranju domaćih prvaka serije.", "Kao što su \"policajci\" najavili u ponedjeljak, niz testova provedenih posebno za ovu skupinu donio je ovaj rezultat, o čemu je klub obaviješten u nedjelju navečer.", "Za sada su otkazani svi rasporedi reprezentacija. Pogođeni igrači trenutno su bez simptoma i već su ušli u karantenu, napisao je Salzburg." ]
 }
