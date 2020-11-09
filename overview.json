@@ -1,0 +1,225 @@
+{
+  "categories" : [ {
+    "category" : "POLITICS",
+    "newsArticles" : [ {
+      "id" : "CB2xkmBg",
+      "imgUrl" : "https://image.kurier.at/images/original/4743714/20201106-ABD0011-1-1.jpg",
+      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
+      "titleTarget" : "Anschober prijeti da će pooštriti djelomično zaključavanje",
+      "url" : "https://kurier.at/politik/inland/anschober-droht-mit-verschaerfung-des-teil-lockdowns/401090832"
+    }, {
+      "id" : "D4H3HHUX",
+      "imgUrl" : "https://image.kurier.at/images/original/4259903/46-164068050.jpg",
+      "titleSource" : "Woche der Entscheidung: Letzte Chance für die Corona-Wende",
+      "titleTarget" : "Tjedan odluke: zadnja šansa za preokret u Coroni",
+      "url" : "https://kurier.at/politik/inland/woche-der-entscheidung-letzte-chance-fuer-die-corona-wende/401090913"
+    }, {
+      "id" : "8ZaAQlYr",
+      "imgUrl" : "https://image.kurier.at/images/original/4189145/20200311-ABD0097-1-1.jpg",
+      "titleSource" : "Schul-Lockdown: Schäden für alle sind größer als befürchtet",
+      "titleTarget" : "Zaključavanje škole: šteta za sve veće je nego što se strahuje",
+      "url" : "https://kurier.at/politik/inland/schul-lockdown-schaeden-fuer-alle-sind-groesser-als-befuerchtet/401090940"
+    }, {
+      "id" : "JKmZY7Yt",
+      "imgUrl" : "https://image.kurier.at/images/original/4748628/46-164857551.jpg",
+      "titleSource" : "Justizministerin Zadić in Selbst-Isolation",
+      "titleTarget" : "Ministar pravosuđa Zadić u samoizolaciji",
+      "url" : "https://kurier.at/politik/inland/justizministerin-zadic-in-selbst-isolation/401091606"
+    }, {
+      "id" : "dwzafNee",
+      "imgUrl" : "https://image.kurier.at/images/original/1744311/46-58503927.jpg",
+      "titleSource" : "Gedenken: Die Nacht, in der die Synagogen brannten",
+      "titleTarget" : "Komemoracija: Noć kad su sinagoge gorjele",
+      "url" : "https://kurier.at/politik/inland/gedenken-die-nacht-in-der-die-synagogen-brannten/401091414"
+    }, {
+      "id" : "S7e925D8",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/9/d/5894813/CORONAVIRUS-PK-COVID-19-VORGEHEN-IN-BILDUNGSEINRICHTUNGEN-FASSMANN_1604930826523181_v0_h.jpg",
+      "titleSource" : "ÖH fordert Rücktritt von Bildungsminister Heinz Faßmann",
+      "titleTarget" : "ÖH poziva na ostavku ministra obrazovanja Heinza Faßmanna",
+      "url" : "https://www.diepresse.com/5894813/Beschluss_OeH-fordert-Ruecktritt-von-Bildungsminister-Heinz-Fassmann?from=rss"
+    }, {
+      "id" : "GIXokI8g",
+      "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
+      "titleSource" : "Österreich im \"Teil-Lockdown\": Diese Regeln gelten jetzt",
+      "url" : "https://kurier.at/politik/inland/lockdown-diese-corona-regeln-gelten-ab-dienstag-0000-uhr/401083170"
+    } ]
+  }, {
+    "category" : "ECONOMICS",
+    "newsArticles" : [ {
+      "id" : "B5lpNAdo",
+      "imgUrl" : "https://image.kurier.at/images/original/4620992/46-163582645.jpg",
+      "titleSource" : "BioNTech plant Zulassungsantrag für Corona‐Impfstoff",
+      "titleTarget" : "BioNTech planira zahtjev za odobrenje cjepiva protiv korone",
+      "url" : "https://kurier.at/wirtschaft/biontech-plant-zulassungsantrag-fuer-corona-impfstoff/401091657"
+    }, {
+      "id" : "kvI9HxdX",
+      "imgUrl" : "https://image.kurier.at/images/original/4647896/46-166403358.jpg",
+      "titleSource" : "Tourismus: \"Werden weitere Zuschüsse brauchen\"",
+      "url" : "https://kurier.at/wirtschaft/tourismus-werden-weitere-zuschuesse-brauchen/401091060"
+    }, {
+      "id" : "wAcZKsb7",
+      "imgUrl" : "https://image.kurier.at/images/original/4742202/46-168656349.jpg",
+      "titleSource" : "Über unsere Liebe zu Bewertungen, Ranglisten und Vergleichen",
+      "titleTarget" : "O našoj ljubavi prema recenzijama, ljestvicama i usporedbama",
+      "url" : "https://kurier.at/wirtschaft/karriere/ueber-unsere-liebe-zu-bewertungen-ranglisten-und-vergleichen/401088156"
+    }, {
+      "id" : "qgrKmENT",
+      "imgUrl" : "https://image.kurier.at/images/original/4697412/78370011356966558_BLD_Online.jpg",
+      "titleSource" : "Österreichs Export-Rückgang verstärkte sich im August wieder etwas",
+      "titleTarget" : "Pad izvoza Austrije nešto se intenzivirao u kolovozu",
+      "url" : "https://kurier.at/wirtschaft/oesterreichs-export-rueckgang-verstaerkte-sich-im-august-wieder-etwas/401091468"
+    }, {
+      "id" : "mvOu3nls",
+      "imgUrl" : "https://image.kurier.at/images/original/4747647/46-110980614.jpg",
+      "titleSource" : "Europas Leitbörsen zur Eröffnung mit deutlichen Zugewinnen",
+      "titleTarget" : "Vodeće europske burze s jasnim dobitkom na otvaranju",
+      "url" : "https://kurier.at/wirtschaft/europas-leitboersen-zur-eroeffnung-mit-deutlichen-zugewinnen/401091318"
+    }, {
+      "id" : "jUwwMvPl",
+      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
+      "titleSource" : "Ölpreise deutlich gestiegen",
+      "titleTarget" : "Cijene nafte znatno su porasle",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-deutlich-gestiegen/401091111"
+    }, {
+      "id" : "o1JoIZcO",
+      "imgUrl" : "https://image.kurier.at/images/original/4223291/46-163735382.jpg",
+      "titleSource" : "Goldpreis steigt nach Biden-Sieg auf höchsten Stand seit September",
+      "titleTarget" : "Cijena zlata raste na najvišu razinu od rujna nakon pobjede Bidena",
+      "url" : "https://kurier.at/wirtschaft/goldpreis-steigt-nach-biden-sieg-auf-hoechsten-stand-seit-september/401091663"
+    } ]
+  }, {
+    "category" : "CHRONICLE",
+    "newsArticles" : [ {
+      "id" : "YD5GDZTn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/1/d/5894429/Lockdown_h.jpg",
+      "titleSource" : "Anschober droht mit Verschärfung des Teil-Lockdowns",
+      "titleTarget" : "Anschober prijeti da će pooštriti djelomično zaključavanje",
+      "url" : "https://www.diepresse.com/5894429/Coronakrise_Anschober-droht-mit-Verschaerfung-des-TeilLockdowns?from=rss"
+    }, {
+      "id" : "Ghsb4QoS",
+      "imgUrl" : "https://image.kurier.at/images/original/4747839/foto_004_c_bmi_.jpg",
+      "titleSource" : "Terror-Razzia: Weder Waffen noch Sprengstoff gefunden",
+      "titleTarget" : "Teroristička racija: nije pronađeno ni oružje ni eksploziv",
+      "url" : "https://kurier.at/chronik/oesterreich/razzien-bei-muslimbruderschaft-60-wohnungen-durchsucht/401091099"
+    }, {
+      "id" : "eplmg7fQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4748883/46-168523372.jpg",
+      "titleSource" : "Fast 5.600 CoV-Neuinfektionen in Österreich; Aschbacher: 500.000 Arbeitslose bis Jahresende",
+      "titleTarget" : "Gotovo 5.600 novih infekcija CoV-om u Austriji; Aschbacher: 500.000 nezaposlenih do kraja godine",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-anschober-droht-mit-verschaerfung-schulschliessung-schaeden-groesser-als-befuerchtet/401091045"
+    }, {
+      "id" : "FvEd5iJl",
+      "imgUrl" : "https://image.kurier.at/images/original/4748634/46-168769043.jpg",
+      "titleSource" : "Trotz Corona: 8.000 Besucher bei Möbelhaus-Eröffnung am Wochenende",
+      "titleTarget" : "Unatoč Coroni: 8.000 posjetitelja u trgovini namještaja otvorenoj tijekom vikenda",
+      "url" : "https://kurier.at/chronik/oesterreich/8000-besucher-bei-moebelhaus-eroeffnung-kulturzentrum-reagiert-mit-humor/401091501"
+    }, {
+      "id" : "yLAo27zO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/87/crops/w=1280/746556_opener_259087_andrangmoebelhauseroeffnunglutz2.jpg?s=6a8f0cd5e7d393145f809ea26864ef763336c3bd",
+      "titleSource" : "Debatte um Wiedereröffnung von Möbelhaus",
+      "titleTarget" : "Rasprava o ponovnom otvaranju trgovine namještaja",
+      "url" : "https://salzburg.orf.at/stories/3075033/"
+    }, {
+      "id" : "dq8SVobM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/17/crops/w=1280/735528_opener_255317_biosampak-salami-v2.jpg?s=13456f3e31fbd57656aec11b4bae11e259d311f3",
+      "titleSource" : "Bio-Verpackung „made in Klagenfurt“",
+      "titleTarget" : "Organsko pakiranje \"proizvedeno u Klagenfurtu\"",
+      "url" : "https://kaernten.orf.at/stories/3073577/"
+    }, {
+      "id" : "AZpPMon3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/09/crops/w=1280/746930_opener_259209_bergungbrandberg1.jpg?s=acc46fcebe9b9c680c2178b855f38f101344ae3d",
+      "titleSource" : "Bergnot bei Hochtour im Zillertal",
+      "titleTarget" : "Planinske poteškoće tijekom visokih tura u Zillertalu",
+      "url" : "https://tirol.orf.at/stories/3075092/"
+    } ]
+  }, {
+    "category" : "CULTURE",
+    "newsArticles" : [ {
+      "id" : "AjMH8uqg",
+      "imgUrl" : "https://image.kurier.at/images/original/4746834/46-166278284.jpg",
+      "titleSource" : "Österreichischer Buchpreis: Von der Bagage zum Krakadzil",
+      "titleTarget" : "Austrijska knjižna nagrada: Od prtljage do Krakadzila",
+      "url" : "https://kurier.at/kultur/buch/oesterreichischer-buchpreis-von-der-bagage-zum-krakadzil/401090586"
+    }, {
+      "id" : "uFfeWUv7",
+      "imgUrl" : "https://image.kurier.at/images/original/4747359/46-168725250.jpg",
+      "titleSource" : "Argentinischer Filmemacher Solanas ist tot",
+      "titleTarget" : "Argentinski filmaš Solanas je mrtav",
+      "url" : "https://kurier.at/kultur/argentinischer-filmemacher-solanas-ist-tot/401090865"
+    }, {
+      "id" : "Abmv7VV4",
+      "imgUrl" : "https://image.kurier.at/images/original/4748607/46-107788903.jpg",
+      "titleSource" : "Nach Streit mit Verlag: Autorin Maron wechselt zu Hoffmann und Campe",
+      "titleTarget" : "Nakon spora s izdavačem: Autor Maron mijenja se u Hoffmann und Campe",
+      "url" : "https://kurier.at/kultur/nach-streit-mit-verlag-autorin-maron-wechselt-zu-hoffmann-und-campe/401091579"
+    }, {
+      "id" : "7hrpni4P",
+      "imgUrl" : "https://image.kurier.at/images/original/4748478/46-145245717.jpg",
+      "titleSource" : "Trump-Imitator Baldwin: \"War nie so überglücklich, einen Job zu verlieren\"",
+      "url" : "https://kurier.at/kultur/medien/trump-imitator-baldwin-war-nie-so-uebergluecklich-einen-job-zu-verlieren/401091531"
+    }, {
+      "id" : "4VUifZoS",
+      "imgUrl" : "https://image.kurier.at/images/original/4748406/46-167124448.jpg",
+      "titleSource" : "BTS: Eine Boyband als Taktgeber des Kunstbetriebs",
+      "titleTarget" : "BTS: Dječački bend koji određuje tempo umjetničkog svijeta",
+      "url" : "https://kurier.at/kultur/bts-eine-boyband-als-taktgeber-des-kunstbetriebs/401091339"
+    }, {
+      "id" : "rzl4wFns",
+      "imgUrl" : "https://image.kurier.at/images/original/4748229/46-168766230.jpg",
+      "titleSource" : "Volkstheater startet in erste Voges-Spielzeit: Von Jandl bis Meese",
+      "titleTarget" : "Volkstheater započinje u prvoj sezoni Vogesa: od Jandla do Meesea",
+      "url" : "https://kurier.at/kultur/volkstheater-startet-in-erste-voges-spielzeit-von-jandl-bis-meese/401091336"
+    }, {
+      "id" : "h6NDgmtt",
+      "imgUrl" : "https://image.kurier.at/images/original/3896615/78452305851504144_BLD_Online.jpg",
+      "titleSource" : "Koreanische Boygroup BTS größter Gewinner bei MTV Europe Music Awards",
+      "titleTarget" : "Korejski dječački bend BTS najveći dobitnik na dodjeli glazbenih nagrada MTV Europe",
+      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-groesster-gewinner-bei-mtv-europe-music-awards/401091159"
+    } ]
+  }, {
+    "category" : "HEALTH",
+    "newsArticles" : [ ]
+  }, {
+    "category" : "SPORT",
+    "newsArticles" : [ {
+      "id" : "v448tqLB",
+      "imgUrl" : "https://image.kurier.at/images/original/4747569/46-168755075.jpg",
+      "titleSource" : "Remis im Spitzenspiel: Rapid beendet die Salzburger Siegesserie",
+      "titleTarget" : "Ždrijeb u vrhunskoj igri: Rapid završava pobjednički niz Salzburga",
+      "url" : "https://kurier.at/sport/fussball/11-unentschieden-rapid-wien-beendet-die-bundesliga-siegesserie-von-red-bull-salzburg/401090634"
+    }, {
+      "id" : "TAcIIrGX",
+      "imgUrl" : "https://image.kurier.at/images/original/4747671/46-168755070.jpg",
+      "titleSource" : "Kühbauer nach dem Hit gegen Salzburg: \"Das macht riesige Freude\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-trainer-kuehbauer-nach-dem-11-im-hit-gegen-salzburg-das-macht-riesige-freude/401090985"
+    }, {
+      "id" : "ZJKIDZnH",
+      "titleSource" : "LASK bleibt sicher in Erfolgsspur",
+      "titleTarget" : "LASK će zasigurno ostati na putu ka uspjehu",
+      "url" : "https://sport.orf.at/stories/3069117/"
+    }, {
+      "id" : "kMJQeI1K",
+      "titleSource" : "Salzburg meldet neuen CoV-Cluster",
+      "titleTarget" : "Salzburg izvještava o novom klasteru CoV",
+      "url" : "https://sport.orf.at/stories/3069142/"
+    }, {
+      "id" : "QSXKbHl1",
+      "titleSource" : "Sechs Teamspieler von Salzburg CoV-positiv",
+      "titleTarget" : "Šest momčadi iz Salzburg CoV pozitivno",
+      "url" : "https://sport.orf.at/stories/3069141/"
+    }, {
+      "id" : "ZhLmgsxi",
+      "imgUrl" : "https://image.kurier.at/images/original/4747992/46-168753760.jpg",
+      "titleSource" : "Nach Kracher bei Rapid: Sechs positive Corona-Fälle bei Salzburg",
+      "titleTarget" : "Nakon Krachera u Rapidu: Šest pozitivnih slučajeva Corone u blizini Salzburga",
+      "url" : "https://kurier.at/sport/fussball/nach-liga-kracher-bei-rapid-wien-sechs-positive-corona-faelle-bei-red-bull-salzburg/401091255"
+    }, {
+      "id" : "anwgcaHm",
+      "titleSource" : "Interimscoach Milot neuer Cheftrainer von Steyr",
+      "titleTarget" : "Privremeni trener Milot novi je glavni trener u Steyru",
+      "url" : "https://sport.orf.at/stories/3069126/"
+    } ]
+  } ],
+  "country" : "austria",
+  "language" : "serbocroatian"
+}
