@@ -1,13 +1,13 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Justizministerin Zadić in Selbst-Isolation",
-  "targetLanguage" : "serbocroatian",
-  "publisher" : "kurier.at",
-  "articleContent" : [ "Salzburgs Bürgermeister Preuner positiv getestet Am Freitag wurde bekannt, dass sich der Salzburger Bürgermeister Harald Preuner mit dem Coronavirus infiziert hat.", "Nachdem ein PCR-Test bei ihm positiv ausgefallen ist, musste der Stadtchef in Quarantäne.  Die Amtsgeschäfte übernimmt vorübergehend die zweite Bürgermeister-Stellvertreterin und Parteifreundin Preuners, Barbara Unterkofler.", "Preuner ist der Aussendung zufolge symptomfrei, \"es geht ihm soweit gut\", hieß es.  Der Bürgermeister hatte sich nur vorsorglich testen lassen, weil sich ein enger Mitarbeiter von SPÖ-Vbgm.", "Bernhard Auinger mit dem Corona-Virus angesteckt hatte.  Als Kontaktperson 1 wurde daher auch Auinger abgesondert und zum Test aufgefordert.  Dieser fiel aber negativ aus, wie ebenfalls heute Abend bekannt wurde." ],
   "id" : "JKmZY7Yt",
-  "category" : "POLITICS",
   "url" : "https://kurier.at/politik/inland/justizministerin-zadic-in-selbst-isolation/401091606",
+  "category" : "POLITICS",
+  "publisher" : "kurier.at",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "serbocroatian",
+  "articleTitle" : "Justizministerin Zadić in Selbst-Isolation",
   "articleTitleTranslated" : "Ministar pravosuđa Zadić u samoizolaciji",
+  "articleContent" : [ "Salzburgs Bürgermeister Preuner positiv getestet Am Freitag wurde bekannt, dass sich der Salzburger Bürgermeister Harald Preuner mit dem Coronavirus infiziert hat.", "Nachdem ein PCR-Test bei ihm positiv ausgefallen ist, musste der Stadtchef in Quarantäne.  Die Amtsgeschäfte übernimmt vorübergehend die zweite Bürgermeister-Stellvertreterin und Parteifreundin Preuners, Barbara Unterkofler.", "Preuner ist der Aussendung zufolge symptomfrei, \"es geht ihm soweit gut\", hieß es.  Der Bürgermeister hatte sich nur vorsorglich testen lassen, weil sich ein enger Mitarbeiter von SPÖ-Vbgm.", "Bernhard Auinger mit dem Corona-Virus angesteckt hatte.  Als Kontaktperson 1 wurde daher auch Auinger abgesondert und zum Test aufgefordert.  Dieser fiel aber negativ aus, wie ebenfalls heute Abend bekannt wurde.", "Auinger kann nach aktuellem Stand am Donnerstag wieder ins Büro im Schloss Mirabell zurückkehren." ],
   "articleContentTranslated" : [ "Gradonačelnik Salzburga Preuner bio na pozitivnom testiranju U petak je postalo poznato da je gradonačelnik Salzburga Harald Preuner zaražen virusom korone.", "Nakon što je PCR test za njega bio pozitivan, gradski pročelnik morao je biti u karanteni. Službeni posao privremeno preuzima druga zamjenica gradonačelnika i stranačka prijateljica Preunera, Barbara Unterkofler.", "Prema emisiji, Preuner je bez simptoma, \"zasad mu ide dobro\", navodi se. Gradonačelnik se samo testirao iz predostrožnosti zbog bliskog zaposlenika SPÖ-Vbgm.", "Bernhard Auinger zarazio se virusom korone. Auinger je zbog toga također odvojen kao kontakt osoba 1 i zatraženo da obavi test. Ali ovo je bilo negativno, kao što se također postalo poznato večeras." ]
 }
