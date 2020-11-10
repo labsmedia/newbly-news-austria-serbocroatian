@@ -2,29 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "GIXokI8g",
-      "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
-      "titleSource" : "Österreich im \"Teil-Lockdown\": Diese Regeln gelten jetzt",
-      "titleTarget" : "Austrija u \"djelomičnom zaključavanju\": Ova pravila sada vrijede",
-      "url" : "https://kurier.at/politik/inland/lockdown-diese-corona-regeln-gelten-ab-dienstag-0000-uhr/401083170"
+      "id" : "vRKSYA2p",
+      "imgUrl" : "https://image.kurier.at/images/original/4750557/46-168609463.jpg",
+      "titleSource" : "Ausgangsbeschränkungen werden bis 22.11. verlängert",
+      "titleTarget" : "Ograničenja izlaza su do 22.11. produžen",
+      "url" : "https://kurier.at/politik/inland/coronavirus-ausgangsbeschraenkungen-werden-um-zehn-tage-verlaengert/401092644"
     }, {
-      "id" : "o2qpeVxI",
-      "imgUrl" : "https://image.kurier.at/images/original/4656913/78370011356625816_BLD_Online.jpg",
-      "titleSource" : "Kampf dem Terror: Kurz reist am Dienstag zu Macron nach Frankreich",
-      "titleTarget" : "Borba protiv terora: Kurz putuje u utorak u Macron u Francusku",
-      "url" : "https://kurier.at/politik/inland/kampf-dem-terror-kurz-reist-am-dienstag-zu-macron-nach-frankreich/401091735"
-    }, {
-      "id" : "JKmZY7Yt",
-      "imgUrl" : "https://image.kurier.at/images/original/4748628/46-164857551.jpg",
-      "titleSource" : "Justizministerin Zadić in Selbst-Isolation",
-      "titleTarget" : "Ministar pravosuđa Zadić u samoizolaciji",
-      "url" : "https://kurier.at/politik/inland/justizministerin-zadic-in-selbst-isolation/401091606"
-    }, {
-      "id" : "EMF181G0",
-      "imgUrl" : "https://image.kurier.at/images/original/4746081/46-168704287.jpg",
-      "titleSource" : "Anschober: \"Gute Chance\" für Corona-Vakzine Anfang 2021",
-      "titleTarget" : "Anschober: \"Dobra šansa\" za koronska cjepiva početkom 2021. godine",
-      "url" : "https://kurier.at/politik/inland/anschober-gute-chance-fuer-corona-vakzine-anfang-2021/401092146"
+      "id" : "D7xkon3v",
+      "imgUrl" : "https://image.kurier.at/images/original/4725846/20201028-ABD0090-1-1.jpg",
+      "titleSource" : "ÖVP fordert Wiedereinführung von Intensivmedizin als Fach für Chirurgen",
+      "titleTarget" : "ÖVP poziva na ponovno uvođenje intenzivne medicine kao specijalista za kirurge",
+      "url" : "https://kurier.at/politik/inland/oevp-fordert-wiedereinfuehrung-von-intensivmedizin-als-fach-fuer-chirurgen/401092770"
     }, {
       "id" : "weCNg6Dt",
       "imgUrl" : "https://image.kurier.at/images/original/4745817/78350011457383838_BLD_Online.jpg",
@@ -38,20 +26,32 @@
       "titleTarget" : "Michel u posjetu sućuti Beču: Ideja za \"EU institut za izobrazbu imama\"",
       "url" : "https://kurier.at/politik/inland/michel-bei-kondolenz-besuch-in-wien-idee-zu-eu-institut-zur-ausbildung-von-imamen/401092179"
     }, {
-      "id" : "lJB3Afuu",
-      "imgUrl" : "https://image.kurier.at/images/original/4734084/20201101-ABD0158-1-1.jpg",
-      "titleSource" : "U-Ausschuss: Sobotka will in Nationalbibliothek ausweichen",
-      "titleTarget" : "Odbor U: Sobotka želi ići u nacionalnu knjižnicu",
-      "url" : "https://kurier.at/politik/inland/untersuchungsausschuss-sobotka-will-in-die-nationalbibliothek-ausweichen/401091882"
+      "id" : "vurq54wj",
+      "imgUrl" : "https://image.kurier.at/images/original/4653434/20200923-ABD0013-1-1.jpg",
+      "titleSource" : "Schramböck: \"Es braucht wirtschaftlichen Lawinenschutz\"",
+      "titleTarget" : "Schramböck: \"Potrebna je ekonomska zaštita od lavina\"",
+      "url" : "https://kurier.at/politik/inland/live-wie-es-auf-oesterreichs-arbeitsmarkt-aussieht/401092515"
+    }, {
+      "id" : "00aEjLl8",
+      "imgUrl" : "https://image.kurier.at/images/original/4638848/46-167363127.jpg",
+      "titleSource" : "Klimaschutzministerium neu organisiert",
+      "titleTarget" : "Ministarstvo zaštite klime reorganizirano",
+      "url" : "https://kurier.at/politik/inland/klimaschutzministerium-neu-organisiert/401093010"
+    }, {
+      "id" : "smmkyOij",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/7/c/5895548/881EA4E6-5ADF-446F-AFD3-AC8CF40FA55A_v0_h.jpg",
+      "titleSource" : "Nach Terror: Österreich droht Verurteilung in Straßburg",
+      "titleTarget" : "Nakon terora: Austrija je u Strasbourgu osuđena",
+      "url" : "https://www.diepresse.com/5895548/Entschaedigung_Oesterreich-droht-Verurteilung-in-Strassburg?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "fxzJz1Bc",
-      "imgUrl" : "https://image.kurier.at/images/original/1921489/ketchup-006_APA_Gero%252BBreloer.jpg",
-      "titleSource" : "Werbeverbot für ungesunde Lebensmittel befürchtet: Branche in Aufruhr",
-      "titleTarget" : "Boji se zabrane oglašavanja nezdrave hrane: Industrija u previranju",
-      "url" : "https://kurier.at/wirtschaft/werbeverbot-fuer-ungesunde-lebensmittel-befuerchtet-branche-in-aufruhr/401091705"
+      "id" : "cwVSmVhE",
+      "imgUrl" : "https://image.kurier.at/images/original/4750371/46-168497278.jpg",
+      "titleSource" : "Geschäfte schließen ab morgen bereits um 19 Uhr",
+      "titleTarget" : "Trgovine će se zatvoriti sutra u 19 sati",
+      "url" : "https://kurier.at/wirtschaft/geschaefte-schliessen-ab-morgen-bereits-um-19-uhr/401092542"
     }, {
       "id" : "3qxP88Rj",
       "imgUrl" : "https://image.kurier.at/images/original/1836369/KonjunkturCBuongiornocom_400x318.jpg",
@@ -65,119 +65,118 @@
       "titleTarget" : "voestalpine: Veliki gubici u prvom poluvremenu",
       "url" : "https://kurier.at/wirtschaft/voestalpine-massive-verluste-zum-halbjahr/401092347"
     }, {
-      "id" : "aMYhed3y",
-      "imgUrl" : "https://image.kurier.at/images/original/4748217/46-164264731.jpg",
-      "titleSource" : "Coronavirus: Schulschließungen ziehen hohe Kosten nach sich",
-      "titleTarget" : "Koronavirus: Zatvaranje škola rezultira visokim troškovima",
-      "url" : "https://kurier.at/wirtschaft/coronavirus-schulschliessungen-ziehen-hohe-kosten-nach-sich/401091861"
-    }, {
-      "id" : "yF0SFfPC",
-      "imgUrl" : "https://image.kurier.at/images/original/4722174/78370011357187136_BLD_Online.jpg",
-      "titleSource" : "Arbeitsministerin erwartet 500.000 Arbeitslose bis Ende des Jahres",
-      "titleTarget" : "Ministar rada očekuje 500.000 nezaposlenih do kraja godine",
-      "url" : "https://kurier.at/wirtschaft/arbeitsministerin-erwartet-500000-arbeitslose-bis-ende-des-jahres/401091765"
-    }, {
       "id" : "f1TzkpOJ",
       "imgUrl" : "https://image.kurier.at/images/original/4062498/78370011352679120_BLD_Online.jpg",
       "titleSource" : "Boeing 737 Max könnte noch im November Starterlaubnis erhalten",
       "titleTarget" : "Boeing 737 Max mogao bi dobiti dopuštenje za polijetanje u studenom",
       "url" : "https://kurier.at/wirtschaft/boeing-737-max-koennte-noch-im-november-starterlaubnis-erhalten/401092356"
     }, {
-      "id" : "36A7a2AW",
-      "imgUrl" : "https://image.kurier.at/images/original/4749726/46-168776482.jpg",
-      "titleSource" : "Streetwear-Label Supreme für 2,1 Mrd. Dollar verkauft",
-      "titleTarget" : "Oznaka Streetwear Supreme prodana je za 2,1 milijardu dolara",
-      "url" : "https://kurier.at/wirtschaft/streetwear-label-supreme-fuer-21-mrd-dollar-verkauft/401092128"
+      "id" : "HSHhvXZ6",
+      "imgUrl" : "https://image.kurier.at/images/original/4708224/46-168070543.jpg",
+      "titleSource" : "Strom aus erneuerbaren Energiequellen legt weiter stark zu",
+      "titleTarget" : "Električna energija iz obnovljivih izvora energije i dalje snažno raste",
+      "url" : "https://kurier.at/wirtschaft/strom-aus-erneuerbaren-energiequellen-legt-weiter-stark-zu/401092995"
+    }, {
+      "id" : "yRqbS1J2",
+      "imgUrl" : "https://image.kurier.at/images/original/4751238/46-168789801.jpg",
+      "titleSource" : "Agrana-Zuckerfabrik dürfte durch Nothilfen für Rübenbauern gerettet sein",
+      "titleTarget" : "Tvornicu šećera Agrana vjerojatno će spasiti hitna pomoć poljoprivrednicima repe",
+      "url" : "https://kurier.at/wirtschaft/agrana-zuckerfabrik-duerfte-durch-nothilfen-fuer-ruebenbauern-gerettet-sein/401093115"
+    }, {
+      "id" : "wIaEDj48",
+      "imgUrl" : "https://image.kurier.at/images/original/56865/46-69907938.jpg",
+      "titleSource" : "China mit niedrigster Inflation seit 2009",
+      "titleTarget" : "Kina ima najnižu inflaciju od 2009. godine",
+      "url" : "https://kurier.at/wirtschaft/china-mit-niedrigster-inflation-seit-2009/401092452"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "FvEd5iJl",
-      "imgUrl" : "https://image.kurier.at/images/original/4748634/46-168769043.jpg",
-      "titleSource" : "Trotz Corona: 8.000 Besucher bei Möbelhaus-Eröffnung am Wochenende",
-      "titleTarget" : "Unatoč Coroni: 8.000 posjetitelja u trgovini namještaja otvorenoj tijekom vikenda",
-      "url" : "https://kurier.at/chronik/oesterreich/8000-besucher-bei-moebelhaus-eroeffnung-kulturzentrum-reagiert-mit-humor/401091501"
+      "id" : "FG7RZx3H",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/01/crops/w=1280/748017_opener_259601_foto_02.jpg?s=f3de8de7b48823793faa78240627dfb6bbf103b5",
+      "titleSource" : "Auffahrunfall nach Wildwechsel",
+      "titleTarget" : "Sudar straga nakon prelaska jelena",
+      "url" : "https://kaernten.orf.at/stories/3075243/"
     }, {
-      "id" : "udRssjWX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/84/crops/w=1280/732277_opener_254184_image.jpg?s=0b07a312cde0a4c75f30a5e60709a8d81b034e7d",
-      "titleSource" : "Zahl der CoV-Infizierten wieder gesunken",
-      "titleTarget" : "Broj ljudi zaraženih CoV-om ponovno je pao",
-      "url" : "https://tirol.orf.at/stories/3075204/"
-    }, {
-      "id" : "BHhV5zOu",
-      "imgUrl" : "https://image.kurier.at/images/original/4277528/illus_corona_24.4_oe_bezirke.png",
-      "titleSource" : "Coronavirus: Aktuelle Infektionszahlen in Österreich",
-      "titleTarget" : "Koronavirus: trenutni broj zaraženih u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-so-viele-infizierte-gibt-es-in-ihrem-bezirk/400788029"
-    }, {
-      "id" : "4ots5ZtW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/71/crops/w=1280/747681_opener_259471_moebelhaus1.jpg?s=179bfb8b557d5a03d35763b64c7f94b710cd825b",
-      "titleSource" : "Möbelhaus-Eröffnung: Für Kultur Ungleichbehandlung",
-      "titleTarget" : "Otvaranje prodavaonice namještaja: nejednak tretman kulture",
-      "url" : "https://salzburg.orf.at/stories/3075199/"
-    }, {
-      "id" : "AIUDacH1",
-      "imgUrl" : "https://image.kurier.at/images/original/4749720/46-168746645.jpg",
-      "titleSource" : "Illegaler Waffenhandel: Drei Mal verurteilt, doch nie in Haft",
-      "titleTarget" : "Nelegalna trgovina oružjem: tri puta osuđivana, ali nikada u zatvoru",
-      "url" : "https://kurier.at/chronik/oesterreich/illegaler-waffenhandel-drei-mal-verurteilt-doch-nie-in-haft/401092122"
-    }, {
-      "id" : "r3ikEL32",
-      "imgUrl" : "https://image.kurier.at/images/original/4748127/46-168709491.jpg",
-      "titleSource" : "Fast 5.600 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "Gotovo 5600 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/etwas-mehr-als-5500-neue-corona-infektionen-in-oesterreich/401091270"
+      "id" : "rBz7f8bU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/27/crops/w=1280/748077_opener_259627_handel_schliessung_19_uhr_a.jpg?s=cbfe56d8267f0f6944e134a64386d4450371a0e1",
+      "titleSource" : "Handel schließt ab morgen um 19.00 Uhr",
+      "titleTarget" : "Trgovanje se zatvara sutra u 19:00",
+      "url" : "https://oesterreich.orf.at/stories/3075267/"
     }, {
       "id" : "CKarIoMg",
-      "imgUrl" : "https://image.kurier.at/images/original/4516610/46-165802616.jpg",
-      "titleSource" : "Ab morgen: Geschäfte schließen um 19 Uhr; Kinderärzte gegen Schulschließungen",
+      "imgUrl" : "https://image.kurier.at/images/original/4690587/46-167997860.jpg",
+      "titleSource" : "Mehr als 6.100 Neuinfektionen in Österreich; EU sicherte sich Biontech-Impfstoff",
       "titleTarget" : "Od sutra: trgovine se zatvaraju u 19 sati; Pedijatri protiv zatvaranja škola",
       "url" : "https://kurier.at/chronik/oesterreich/forscher-sind-im-kritischen-bereich-angekommen-spitaeler-fahren-operationen-zurueck/401092296"
+    }, {
+      "id" : "gNbKNbzR",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/77/crops/w=1280/747909_opener_259577_murmel.jpg?s=e39e25097105220f8f396da521e32d7876339a3c",
+      "titleSource" : "Fleischfressende Murmeltiere",
+      "titleTarget" : "Mesojedi svizci",
+      "url" : "https://tirol.orf.at/stories/3075240/"
+    }, {
+      "id" : "Jj03kSs6",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/36/54/crops/w=1280/674427_opener_232654_1df23fd5-b9ba-4844-9233-19b33b9bc9e9.jpg?s=6d388f4235cc02d346e81a2e04837abfe9d35532",
+      "titleSource" : "Schulschließungen schaffen Langzeitprobleme",
+      "titleTarget" : "Zatvaranje škola stvara dugoročne probleme",
+      "url" : "https://tirol.orf.at/stories/3075301/"
+    }, {
+      "id" : "HiNE6QpU",
+      "imgUrl" : "https://image.kurier.at/images/original/4735938/46-167961868.jpg",
+      "titleSource" : "Hausdurchsuchungen bei Rechtsextremen in sieben Bundesländern",
+      "titleTarget" : "Kućne pretrage desničarskih ekstremista u sedam saveznih država",
+      "url" : "https://kurier.at/chronik/oesterreich/hausdurchsuchungen-bei-rechtsextremen-in-sieben-bundeslaendern/401093130"
+    }, {
+      "id" : "A5rUeBwJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4707678/46-168266108.jpg",
+      "titleSource" : "Mehr als 6.100 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "Više od 6.100 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-6100-neue-corona-infektionen-in-oesterreich/401092605"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "nGAlmsQQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4746831/46-166278454.jpg",
-      "titleSource" : "Xaver Bayer erhält Österreichischen Buchpreis",
-      "titleTarget" : "Xaver Bayer dobio je austrijsku nagradu za knjigu",
-      "url" : "https://kurier.at/kultur/buchpreis-sieger-xaver-bayer-faengt-harmlos-mit-camembert-an/401091744"
-    }, {
-      "id" : "7hrpni4P",
-      "imgUrl" : "https://image.kurier.at/images/original/4748478/46-145245717.jpg",
-      "titleSource" : "Trump-Imitator Baldwin: \"War nie so überglücklich, einen Job zu verlieren\"",
-      "titleTarget" : "Trumpov imitator Baldwin: \"Nikad nije bio toliko presretan što je izgubio posao\"",
-      "url" : "https://kurier.at/kultur/medien/trump-imitator-baldwin-war-nie-so-uebergluecklich-einen-job-zu-verlieren/401091531"
-    }, {
       "id" : "jeLxNsfy",
       "imgUrl" : "https://image.kurier.at/images/original/4749147/46-168725064.jpg",
       "titleSource" : "Neue Folgen von \"Meiberger\" auf ServusTV",
       "titleTarget" : "Nove epizode \"Meibergera\" na ServusTV",
       "url" : "https://kurier.at/kultur/neue-folgen-von-meiberger-auf-servustv/401091933"
     }, {
-      "id" : "X9TlSFkw",
-      "imgUrl" : "https://image.kurier.at/images/original/4749516/46-54197233.jpg",
-      "titleSource" : "Zeitzeuge George Newman (1924–2020) verstorben",
-      "titleTarget" : "Preminuo je suvremeni svjedok George Newman (1924–2020)",
-      "url" : "https://kurier.at/kultur/zeitzeuge-george-newman-1924-2020-verstorben/401091987"
+      "id" : "VKmHzevb",
+      "titleSource" : "Nun trauert Schlagerstar Heintje um seine Mama",
+      "titleTarget" : "Sada pop zvijezda Heintje oplakuje svoju mamu",
+      "url" : "https://kurier.at/kultur/nun-trauert-schlagerstar-heintje-um-seine-mama/401092719"
     }, {
-      "id" : "Ei9mEjJh",
-      "imgUrl" : "https://image.kurier.at/images/original/2356890/marvelous-mrs-maisel_6.jpg",
-      "titleSource" : "Amazon startet \"Watch Party\" fürs gemeinsame Streamen",
-      "titleTarget" : "Amazon pokreće \"Watch Party\" za dijeljeni streaming",
-      "url" : "https://kurier.at/kultur/medien/amazon-startet-watch-party-fuers-gemeinsame-streamen/401092083"
+      "id" : "GHSD3ekX",
+      "imgUrl" : "https://image.kurier.at/images/original/4485110/46-165827137.jpg",
+      "titleSource" : "\"Undine\" und \"Berlin Alexanderplatz\" für Europäischen Filmpreis nominiert",
+      "titleTarget" : "\"Undine\" i \"Berlin Alexanderplatz\" nominirani za europsku filmsku nagradu",
+      "url" : "https://kurier.at/kultur/undine-und-berlin-alexanderplatz-fuer-europaeischen-filmpreis-nominiert/401093055"
     }, {
-      "id" : "jO5AWRaT",
-      "imgUrl" : "https://image.kurier.at/images/original/3518884/46-146433954.jpg",
-      "titleSource" : "Causa Erl: 177.100 Euro Strafzahlung für Kuhn und Festspiele",
-      "titleTarget" : "Causa Erl: 177.100 eura kazne za Kuhn i Festival",
-      "url" : "https://kurier.at/kultur/causa-erl-177100-euro-strafzahlung-fuer-kuhn-und-festspiele/401091957"
+      "id" : "iOa7SThk",
+      "imgUrl" : "https://image.kurier.at/images/original/4752003/46-168784969.jpg",
+      "titleSource" : "\"Schwere Gewichte\": Doku über Österreichs stärkste Familie",
+      "titleTarget" : "\"Teški utezi\": Dokumentarni film o najjačoj austrijskoj obitelji",
+      "url" : "https://kurier.at/kultur/schwere-gewichte-doku-ueber-oesterreichs-staerkste-familie/401093331"
     }, {
-      "id" : "DQ4EY5ZV",
-      "imgUrl" : "https://image.kurier.at/images/original/4684035/46-167158929.jpg",
-      "titleSource" : "Netflix testet klassisch-lineares Fernsehen in Frankreich",
-      "titleTarget" : "Netflix testira klasičnu linearnu televiziju u Francuskoj",
-      "url" : "https://kurier.at/kultur/medien/netflix-testet-klassisch-lineares-fernsehen-in-frankreich/401091939"
+      "id" : "YrhPWp2c",
+      "imgUrl" : "https://image.kurier.at/images/original/4751373/46-168201954.jpg",
+      "titleSource" : "Neues bei Netflix: \"Barbaren\" bekommt Staffel 2, Olli Schulz baut ein Hausboot",
+      "titleTarget" : "Vijesti s Netflixa: \"Barbari\" dobivaju drugu sezonu, Olli Schulz gradi kućni čamac",
+      "url" : "https://kurier.at/kultur/medien/neues-bei-netflix-barbaren-bekommt-staffel-2-olli-schulz-baut-ein-hausboot/401093163"
+    }, {
+      "id" : "rbT7luCl",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/8/0/5895296/_spiegel-1_1605010737476749.jpg",
+      "titleSource" : "Sexistische Fragen? Ex-Politikerin verteidigt Spiegel-Interviewer",
+      "titleTarget" : "Seksistička pitanja? Bivši političar branio je intervjuera za Spiegela",
+      "url" : "https://www.diepresse.com/5895296/Sexistische-Fragen-ExPolitikerin-verteidigt-SpiegelInterviewer?from=rss"
+    }, {
+      "id" : "TgWBdXJx",
+      "imgUrl" : "https://image.kurier.at/images/original/4750329/bildschirmfoto_2020-11-10_um_09.47.39.png",
+      "titleSource" : "Pannen vor dem Terror: Stellvertreter-Debatte bei \"Im Zentrum\"",
+      "titleTarget" : "Kvarovi prije terora: zamjenica rasprave u \"U središtu\"",
+      "url" : "https://kurier.at/kultur/medien/pannen-vor-dem-terror-in-wien-stellvertreter-debatte-fuer-kickl-und-nehammer-bei-orf-talk-im-zentrum/401092278"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,36 +189,37 @@
       "titleTarget" : "Svi igrači Salzburga testirani su na CoV negativno",
       "url" : "https://sport.orf.at/stories/3069166/"
     }, {
-      "id" : "WYekwbCd",
-      "titleSource" : "Österreicher fahren im Herbst die Ernte ein",
-      "titleTarget" : "Austrijanci berbu unose na jesen",
-      "url" : "https://sport.orf.at/stories/3069149/"
-    }, {
       "id" : "8cOVcIua",
       "imgUrl" : "https://image.kurier.at/images/original/4749924/46-168755135.jpg",
       "titleSource" : "Bänderriss! Rapid-Kapitän Ljubicic fällt mehrere Wochen aus",
       "titleTarget" : "Slomljeni ligament! Brzi kapetan Ljubičić odsutan je nekoliko tjedana",
       "url" : "https://kurier.at/sport/fussball/baenderriss-rapid-kapitaen-ljubicic-faellt-mehrere-wochen-aus/401092224"
     }, {
+      "id" : "8osVba53",
+      "titleSource" : "Labor erklärt Testkonfusion bei Salzburger Fußballern",
+      "titleTarget" : "Laboratorij objašnjava zabunu na testovima među nogometašima Salzburga",
+      "url" : "https://sport.orf.at/stories/3069189/"
+    }, {
+      "id" : "cJEO5s98",
+      "imgUrl" : "https://image.kurier.at/images/original/4750620/46-121961385.jpg",
+      "titleSource" : "Kombinierer Gruber nach Herz-OP: \"Das ist mein größter Sieg!\"",
+      "titleTarget" : "Kombinirani Gruber nakon operacije srca: \"Ovo je moja najveća pobjeda!\"",
+      "url" : "https://kurier.at/sport/wintersport/kombinierer-gruber-nach-herz-op-das-ist-mein-groesster-sieg/401092689"
+    }, {
+      "id" : "eUzxXENS",
+      "titleSource" : "Spannung vor Sportlerwahl 2020",
+      "titleTarget" : "Uzbuđenje pred izbore sportaša 2020",
+      "url" : "https://sport.orf.at/stories/3069156/"
+    }, {
+      "id" : "0JazQcPw",
+      "titleSource" : "Grünes Licht für Grubers Karrierefortsetzung",
+      "titleTarget" : "Zeleno svjetlo za nastavak Gruberove karijere",
+      "url" : "https://sport.orf.at/stories/3069181/"
+    }, {
       "id" : "WY6vXwjf",
       "titleSource" : "KAC rutscht gegen Nachzügler Dornbirn aus",
       "titleTarget" : "KAC se okliznuo protiv zaostalih Dornbirna",
       "url" : "https://sport.orf.at/stories/3069163/"
-    }, {
-      "id" : "n5Y3v9vH",
-      "titleSource" : "Nach neuerlichen CoV-Tests: Alle Salzburg-Spieler negativ",
-      "titleTarget" : "Nakon novih CoV testova: svi igrači Salzburga negativni",
-      "url" : "https://sport.orf.at/stories/3069167/"
-    }, {
-      "id" : "85uMGx5r",
-      "titleSource" : "Salzburg-Cluster zieht weite Kreise",
-      "titleTarget" : "Skupina Salzburg crta široke krugove",
-      "url" : "https://sport.orf.at/stories/3069154/"
-    }, {
-      "id" : "mD4Jbu5j",
-      "titleSource" : "Erstes Teamtraining mit nur 13 Spielern",
-      "titleTarget" : "Trening prve momčadi sa samo 13 igrača",
-      "url" : "https://sport.orf.at/stories/3069160/"
     } ]
   } ],
   "country" : "austria",
