@@ -1,13 +1,13 @@
 {
-  "sourceCountry" : "austria",
-  "articleTitle" : "Netflix testet klassisch-lineares Fernsehen in Frankreich",
-  "targetLanguage" : "serbocroatian",
-  "publisher" : "kurier.at",
-  "articleContent" : [ "Der Streamingdienst Netflix testet in Frankreich einen linearen Kanal.  Das neue, TV-ähnliche Angebot sei in der vergangenen Woche für einige Kundinnen und Kunden gestartet und solle bis Anfang Dezember für alle Nutzer in Frankreich verfügbar sein, teilte das US-Unternehmen mit.", "\"In Frankreich ist das traditionelle Fernsehen nach wie vor sehr beliebt bei Menschen, die sich einfach nur \"zurücklehnen\" wollen, ohne sich für eine bestimmte Sendung entscheiden zu müssen.\"", "Das neue Feature heiße \"Direct\".  Es handle sich um einen Echtzeitdienst, in dem vorab festgelegte Inhalte gezeigt werden.  Anstatt sich also für einen Film oder eine Serie entscheiden zu müssen, können Nutzerinnen und Nutzer einfach wie beim Fernsehgucken drauf los schauen." ],
   "id" : "DQ4EY5ZV",
-  "category" : "CULTURE",
   "url" : "https://kurier.at/kultur/medien/netflix-testet-klassisch-lineares-fernsehen-in-frankreich/401091939",
+  "category" : "CULTURE",
+  "publisher" : "kurier.at",
+  "sourceCountry" : "austria",
   "sourceLanguage" : "german",
+  "targetLanguage" : "serbocroatian",
+  "articleTitle" : "Netflix testet klassisch-lineares Fernsehen in Frankreich",
   "articleTitleTranslated" : "Netflix testira klasičnu linearnu televiziju u Francuskoj",
+  "articleContent" : [ "Der Streamingdienst Netflix testet in Frankreich einen linearen Kanal.  Das neue, TV-ähnliche Angebot sei in der vergangenen Woche für einige Kundinnen und Kunden gestartet und solle bis Anfang Dezember für alle Nutzer in Frankreich verfügbar sein, teilte das US-Unternehmen mit.", "\"In Frankreich ist das traditionelle Fernsehen nach wie vor sehr beliebt bei Menschen, die sich einfach nur \"zurücklehnen\" wollen, ohne sich für eine bestimmte Sendung entscheiden zu müssen.\"", "Das neue Feature heiße \"Direct\".  Es handle sich um einen Echtzeitdienst, in dem vorab festgelegte Inhalte gezeigt werden.  Anstatt sich also für einen Film oder eine Serie entscheiden zu müssen, können Nutzerinnen und Nutzer einfach wie beim Fernsehgucken drauf los schauen.", "Das Unternehmen bestätigte auf Nachfrage, dass Frankreich derzeit das einzige Land sei, in dem diese Funktion getestet werde." ],
   "articleContentTranslated" : [ "Streaming usluga Netflix testira linearni kanal u Francuskoj. Nova ponuda nalik TV-u pokrenuta je prošlog tjedna za neke kupce i trebala bi biti dostupna svim korisnicima u Francuskoj do početka prosinca, najavila je američka tvrtka.", "\"U Francuskoj je tradicionalna televizija još uvijek vrlo popularna među ljudima koji samo žele 'sjediti', a da ne moraju odabrati određeni program.\"", "Nova značajka naziva se \"Direct\". To je usluga u stvarnom vremenu u kojoj se prikazuje unaprijed određeni sadržaj. Dakle, umjesto da se moraju odlučiti za film ili seriju, korisnici to mogu jednostavno gledati kao da gledaju televiziju." ]
 }
