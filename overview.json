@@ -2,17 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "EXoJMJh9",
-      "imgUrl" : "https://image.kurier.at/images/original/4751538/46-168791998.jpg",
-      "titleSource" : "Kurz bei Macron: IS-Kämpfer nach Gefängnis \"ständig überwachen\"",
-      "titleTarget" : "Ukratko o Macronu: \"Stalno nadgledajte\" borce IS-a nakon zatvora",
-      "url" : "https://kurier.at/politik/inland/kurz-bei-macron-staerkerer-schutz-der-eu-aussengrenzen-als-terrorpraevention/401093343"
-    }, {
-      "id" : "D7xkon3v",
-      "imgUrl" : "https://image.kurier.at/images/original/4725846/20201028-ABD0090-1-1.jpg",
-      "titleSource" : "ÖVP fordert Wiedereinführung von Intensivmedizin als Fach für Chirurgen",
-      "titleTarget" : "ÖVP poziva na ponovno uvođenje intenzivne medicine kao specijalista za kirurge",
-      "url" : "https://kurier.at/politik/inland/oevp-fordert-wiedereinfuehrung-von-intensivmedizin-als-fach-fuer-chirurgen/401092770"
+      "id" : "ZzM4atBe",
+      "imgUrl" : "https://image.kurier.at/images/original/4739367/46-165823573.jpg",
+      "titleSource" : "\"Tickende Zeitbomben\": Regierung will Gefährder \"wegsperren\"",
+      "titleTarget" : "\"Otkucavanje tempiranih bombi\": vlada želi \"zaključati\" prijetnje",
+      "url" : "https://kurier.at/politik/inland/anti-terror-paket-regierung-beschliesst-20-massnahmen/401093967"
     }, {
       "id" : "p8HFkgwo",
       "imgUrl" : "https://image.kurier.at/images/original/4737369/78350011457315082_BLD_Online.jpg",
@@ -32,50 +26,32 @@
       "titleTarget" : "Koronavirus: Zatvaranje škola uzrokuje \"ogromne troškove\"",
       "url" : "https://kurier.at/politik/inland/coronavirus-schulschliessungen-verursachen-enorme-kosten/401093529"
     }, {
-      "id" : "02xeLSzO",
-      "imgUrl" : "https://image.kurier.at/images/original/4752072/ema_dsc5938_hires-min.jpg",
-      "titleSource" : "Corona: SPÖ will der Verlängerung des Lockdowns zustimmen",
-      "titleTarget" : "Corona: SPÖ želi pristati na produženje zaključavanja",
-      "url" : "https://kurier.at/politik/inland/corona-spoe-will-der-verlaengerung-des-lockdowns-zustimmen/401093430"
+      "id" : "BNX69NwE",
+      "imgUrl" : "https://image.kurier.at/images/original/4682493/46-167700390.jpg",
+      "titleSource" : "Coronavirus - Breite Front gegen mögliche Schulschließungen",
+      "titleTarget" : "Koronavirus - široka fronta protiv mogućih zatvaranja škola",
+      "url" : "https://kurier.at/politik/inland/coronavirus-breite-front-gegen-moegliche-schulschliessungen/401094195"
     }, {
-      "id" : "00aEjLl8",
-      "imgUrl" : "https://image.kurier.at/images/original/4638848/46-167363127.jpg",
-      "titleSource" : "Klimaschutzministerium neu organisiert",
-      "titleTarget" : "Ministarstvo zaštite klime reorganizirano",
-      "url" : "https://kurier.at/politik/inland/klimaschutzministerium-neu-organisiert/401093010"
+      "id" : "thFrlB9h",
+      "imgUrl" : "https://image.kurier.at/images/original/4193918/46-162956594.jpg",
+      "titleSource" : "Coronavirus - Lehrer wollen Aufwandsentschädigung für Fernunterricht",
+      "titleTarget" : "Koronavirus - učitelji žele naknadu za učenje na daljinu",
+      "url" : "https://kurier.at/politik/inland/coronavirus-lehrer-wollen-aufwandsentschaedigung-fuer-fernunterricht/401093769"
+    }, {
+      "id" : "gLYu1lv2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/2/2/5895970/FE40880C-2159-4BDA-BFA5-74671AAF695B_v0_h.jpg",
+      "titleSource" : "Anti-Terror-Paket: Das wollen natürlich die Grünen auch",
+      "titleTarget" : "Antiteroristički paket: Naravno, zeleni to također žele",
+      "url" : "https://www.diepresse.com/5895970/Massnahmen_AntiTerrorPaket_Das-wollen-natuerlich-die-Gruenen-auch?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "LPVLCfwQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4752174/46-168796365.jpg",
-      "titleSource" : "Österreicher sparen sich durch die Corona-Krise",
-      "titleTarget" : "Austrijanci se spašavaju kroz krizu u Coroni",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-sparen-sich-durch-die-corona-krise/401093475"
-    }, {
-      "id" : "HSHhvXZ6",
-      "imgUrl" : "https://image.kurier.at/images/original/4708224/46-168070543.jpg",
-      "titleSource" : "Strom aus erneuerbaren Energiequellen legt weiter stark zu",
-      "titleTarget" : "Električna energija iz obnovljivih izvora energije i dalje snažno raste",
-      "url" : "https://kurier.at/wirtschaft/strom-aus-erneuerbaren-energiequellen-legt-weiter-stark-zu/401092995"
-    }, {
-      "id" : "0bczHHbU",
-      "imgUrl" : "https://image.kurier.at/images/original/4752255/46-145658315.jpg",
-      "titleSource" : "Ex-Google-Chef beantragte in Zypern \"goldenen Pass\"",
-      "titleTarget" : "Bivši šef Googlea prijavio se za \"zlatnu putovnicu\" na Cipru",
-      "url" : "https://kurier.at/wirtschaft/ex-google-chef-beantragte-in-zypern-goldenen-pass/401093499"
-    }, {
-      "id" : "bnQHxVKu",
-      "imgUrl" : "https://image.kurier.at/images/original/4752144/46-84746370.jpg",
-      "titleSource" : "1,5 Prozent mehr Gehalt auch in der IT-Branche",
-      "titleTarget" : "1,5 posto više plaće također u IT industriji",
-      "url" : "https://kurier.at/wirtschaft/15-prozent-mehr-gehalt-auch-in-der-it-branche/401093454"
-    }, {
-      "id" : "yRqbS1J2",
-      "imgUrl" : "https://image.kurier.at/images/original/4751238/46-168789801.jpg",
-      "titleSource" : "Agrana-Zuckerfabrik dürfte durch Nothilfen für Rübenbauern gerettet sein",
-      "titleTarget" : "Tvornicu šećera Agrana vjerojatno će spasiti hitna pomoć poljoprivrednicima repe",
-      "url" : "https://kurier.at/wirtschaft/agrana-zuckerfabrik-duerfte-durch-nothilfen-fuer-ruebenbauern-gerettet-sein/401093115"
+      "id" : "rHIpl6xP",
+      "imgUrl" : "https://image.kurier.at/images/original/4753311/46-168810444.jpg",
+      "titleSource" : "\"Muss man 18-Jährige vor Käpt'n Iglo und Fischstäbchen schützen?\"",
+      "titleTarget" : "\"Morate li zaštititi 18-godišnjake od kapetana Igloa i ribljih prstiju?\"",
+      "url" : "https://kurier.at/wirtschaft/muss-man-18-jaehrige-vor-kaeptn-iglo-und-fischstaebchen-schuetzen/401094129"
     }, {
       "id" : "d9HhNzg3",
       "imgUrl" : "https://image.kurier.at/images/original/4542431/78350011455681204_BLD_Online.jpg",
@@ -83,65 +59,89 @@
       "titleTarget" : "Bavarski Söder za kvotu žena u njemačkim korporacijama",
       "url" : "https://kurier.at/wirtschaft/bayerns-soeder-fuer-frauenquote-in-deutschen-konzern-vorstaenden/401093754"
     }, {
-      "id" : "7feBzkXH",
-      "imgUrl" : "https://image.kurier.at/images/original/4751742/46-168678880.jpg",
-      "titleSource" : "Taubenabwehr: Ist der Vermieter zuständig?",
-      "titleTarget" : "Golubova obrana: je li stanodavac odgovoran?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/taubenabwehr-ist-der-vermieter-zustaendig/401093307"
+      "id" : "hhSnETND",
+      "imgUrl" : "https://image.kurier.at/images/original/4700118/20201015-ABD0104-1-1.jpg",
+      "titleSource" : "Bei MAN geht nichts mehr: Verhandlung über Stellenabbau abgebrochen",
+      "titleTarget" : "U MAN-u više ništa ne funkcionira: Otkazani pregovori o ukidanju radnih mjesta",
+      "url" : "https://kurier.at/wirtschaft/bei-man-geht-nichts-mehr-verhandlung-ueber-stellenabbau-abgebrochen/401094048"
+    }, {
+      "id" : "LPVLCfwQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4752174/46-168796365.jpg",
+      "titleSource" : "Österreicher sparen sich durch die Corona-Krise",
+      "titleTarget" : "Austrijanci se spašavaju kroz krizu u Coroni",
+      "url" : "https://kurier.at/wirtschaft/oesterreicher-sparen-sich-durch-die-corona-krise/401093475"
+    }, {
+      "id" : "0bczHHbU",
+      "imgUrl" : "https://image.kurier.at/images/original/4752255/46-145658315.jpg",
+      "titleSource" : "Ex-Google-Chef beantragte in Zypern \"goldenen Pass\"",
+      "titleTarget" : "Bivši šef Googlea prijavio se za \"zlatnu putovnicu\" na Cipru",
+      "url" : "https://kurier.at/wirtschaft/ex-google-chef-beantragte-in-zypern-goldenen-pass/401093499"
+    }, {
+      "id" : "HXjiZnwg",
+      "imgUrl" : "https://image.kurier.at/images/original/4754076/46-163481044.jpg",
+      "titleSource" : "Zu enge Schulungsräume? Maskenpflicht soll Kurse retten",
+      "titleTarget" : "Prostorije za trening preuske? Zahtjev za maskom trebao bi spasiti tečajeve",
+      "url" : "https://kurier.at/wirtschaft/zu-enge-schulungsraeume-maskenpflicht-soll-kurse-retten/401094573"
+    }, {
+      "id" : "Kz2DsgBH",
+      "imgUrl" : "https://image.kurier.at/images/original/97695/frauenquote-000_AP_Nigel%252BTreblin.jpg",
+      "titleSource" : "Markus Söder für Frauenquote in DAX-Vorständen",
+      "titleTarget" : "Markus Söder za kvotu žena na DAX pločama",
+      "url" : "https://kurier.at/wirtschaft/markus-soeder-fuer-frauenquote-in-dax-vorstaenden/401094564"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "oSk6PGrx",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/70/crops/w=1280/493876_opener_166370_p3050028.jpg?s=9ece11393a7c9ee161737aa34b2a1315f28e9f33",
-      "titleSource" : "Infektiologe Weiss: „Es ist fünf vor zwölf“",
-      "titleTarget" : "Infektiolog Weiss: \"Pet je do dvanaest\"",
-      "url" : "https://tirol.orf.at/stories/3075399/"
+      "id" : "5EkgYCPU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/20/crops/w=1280/747568_opener_259420_bergung_der_gletscherbahn-garnitur_von_kaprun.jpg?s=6791bd82214eaa71f2322b1202f99d76134dd82d",
+      "titleSource" : "20 Jahre Kaprun-Unglück: Ein langer Weg zurück",
+      "titleTarget" : "20 godina katastrofe u Kaprunu: dalek put unatrag",
+      "url" : "https://salzburg.orf.at/stories/3075130/"
     }, {
-      "id" : "J7EeHQ7W",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/60/crops/w=1280/748771_opener_259860_unbenanntdddd-1.jpg?s=a69befbc38cd37d43599310088bfa07346364ae4",
-      "titleSource" : "Krankenhaus Hall schließt Psychotherapie-Station",
-      "titleTarget" : "Bolnička dvorana zatvara odjel za psihoterapiju",
-      "url" : "https://tirol.orf.at/stories/3075358/"
+      "id" : "Z1jZZHDg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/76/crops/w=1280/749060_opener_259976_apfel.jpg?s=6ea2d4a11bd6940c5753b9f8bb07065797c09bb5",
+      "titleSource" : "4.000 Jahre alter Apfel aus Oberlaa",
+      "titleTarget" : "4.000 godina stara jabuka iz Oberle",
+      "url" : "https://wien.orf.at/stories/3075415/"
     }, {
-      "id" : "HiNE6QpU",
-      "imgUrl" : "https://image.kurier.at/images/original/4735938/46-167961868.jpg",
-      "titleSource" : "Hausdurchsuchungen bei Rechtsextremen in sieben Bundesländern",
-      "titleTarget" : "Kućne pretrage desničarskih ekstremista u sedam saveznih država",
-      "url" : "https://kurier.at/chronik/oesterreich/hausdurchsuchungen-bei-rechtsextremen-in-sieben-bundeslaendern/401093130"
+      "id" : "kk7tqi0i",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/05/27/crops/w=1280/449463_opener_149627_landtag.jpg?s=dee2581540e001f3909ae9ad8d66d2bc12ab5a16",
+      "titleSource" : "Landtag: Vom „Zusammenhalt“ zu kritischen Fragen",
+      "titleTarget" : "Landtag: Od \"kohezije\" do kritičnih pitanja",
+      "url" : "https://salzburg.orf.at/stories/3075531/"
     }, {
-      "id" : "BwLwspf5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/49/crops/w=1280/748990_opener_259949_gepa_full_8223_gepa-202011101011240115.jpg?s=d5d6cc4231d11b1a87fab118d4861488ef44af7a",
-      "titleSource" : "Thiem und Dadic Sportler des Jahres",
-      "titleTarget" : "Thiem i Dadić sportaši godine",
-      "url" : "https://noe.orf.at/stories/3075380/"
+      "id" : "dDMztVwY",
+      "imgUrl" : "https://image.kurier.at/images/original/4752954/46-168495579.jpg",
+      "titleSource" : "Die aktuelle Corona-Lage: Mehr als 7.500 Neuinfektionen in Österreich",
+      "titleTarget" : "Trenutna situacija s koronom: Više od 7.500 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/die-aktuelle-corona-lage-7514-neuinfektionen-in-oesterreich/401093757"
     }, {
-      "id" : "A5rUeBwJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4707678/46-168266108.jpg",
-      "titleSource" : "Mehr als 6.100 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "Više od 6.100 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-6100-neue-corona-infektionen-in-oesterreich/401092605"
+      "id" : "RHQujF1Z",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/72/crops/w=1280/749310_opener_260072_prinzenpaar_2021.jpg?s=d95722f0de73c6f8a8465584db65018e86ad400c",
+      "titleSource" : "Villach präsentiert Prinzenpaare",
+      "titleTarget" : "Beljak predstavlja parove prinčeva",
+      "url" : "https://kaernten.orf.at/stories/3075459/"
     }, {
-      "id" : "exl8Pc1t",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/74/crops/w=1280/748807_opener_259874_bildschirmfoto_2020-11-10_um_17.12.06_2.jpg?s=3be38bca9d7368e4fc181061e8494784bc4616cd",
-      "titleSource" : "Zweiter Lockdown in Südtirol ab Samstag",
-      "titleTarget" : "Druga blokada u Južnom Tirolu od subote",
-      "url" : "https://tirol.orf.at/stories/3075348/"
+      "id" : "flQircUA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/98/crops/w=1280/749335_opener_259698_1.jpg?s=8c94e4c1bc4f0cf2caac618a18348f4989d9cd1e",
+      "titleSource" : "Bedingte Haft für Lokführer nach tödlichem Unfall",
+      "titleTarget" : "Uvjetni zatvor za strojovođe nakon fatalne nesreće",
+      "url" : "https://steiermark.orf.at/stories/3075255/"
     }, {
-      "id" : "YQ59IaBI",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
-      "titleSource" : "Angespannte Lage bei Intensivbetten",
-      "titleTarget" : "Napeta situacija na krevetima za intenzivnu njegu",
-      "url" : "https://ooe.orf.at/stories/3075406/"
+      "id" : "Irf7DRwO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/38/73/crops/w=1280/296943_opener_91873__d857333.jpg?s=5fba7136fd2e85e517e52b0dbeb2857fa2771985",
+      "titleSource" : "Trotz Quarantäne verreist: 29-Jähriger verurteilt",
+      "titleTarget" : "Putovao unatoč karanteni: 29-godišnjak je osuđen",
+      "url" : "https://salzburg.orf.at/stories/3075389/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "iOa7SThk",
-      "imgUrl" : "https://image.kurier.at/images/original/4752003/46-168784969.jpg",
-      "titleSource" : "\"Schwere Gewichte\": Doku über Österreichs stärkste Familie",
-      "titleTarget" : "\"Teški utezi\": Dokumentarni film o najjačoj austrijskoj obitelji",
-      "url" : "https://kurier.at/kultur/schwere-gewichte-doku-ueber-oesterreichs-staerkste-familie/401093331"
+      "id" : "sVbRU6ys",
+      "imgUrl" : "https://image.kurier.at/images/original/4752891/321.jpg",
+      "titleSource" : "Otto-Mauer-Preis geht an Barbara Kapusta",
+      "titleTarget" : "Nagradu Otto Mauer dobiva Barbara Kapusta",
+      "url" : "https://kurier.at/kultur/otto-mauer-preis-geht-an-barbara-kapusta/401093829"
     }, {
       "id" : "4KpmPSjQ",
       "imgUrl" : "https://image.kurier.at/images/original/4198325/46-143103613.jpg",
@@ -149,34 +149,35 @@
       "titleTarget" : "Thomas Stipsits pobijedio u \"Salzburg Bull 2021\"",
       "url" : "https://kurier.at/kultur/thomas-stipsits-gewinnt-den-salzburger-stier-2021/401093637"
     }, {
-      "id" : "VKmHzevb",
-      "titleSource" : "Nun trauert Schlagerstar Heintje um seine Mama",
-      "titleTarget" : "Sada pop zvijezda Heintje oplakuje svoju mamu",
-      "url" : "https://kurier.at/kultur/nun-trauert-schlagerstar-heintje-um-seine-mama/401092719"
-    }, {
-      "id" : "43hUTmde",
-      "imgUrl" : "https://image.kurier.at/images/original/4749723/46-168776630.jpg",
-      "titleSource" : "Der Skateshop um 2,1 Milliarden",
-      "titleTarget" : "Trgovina klizaljkama za 2,1 milijardu",
-      "url" : "https://kurier.at/kultur/der-skateshop-um-21-milliarden/401093247"
-    }, {
       "id" : "rxGv9tkp",
       "imgUrl" : "https://image.kurier.at/images/original/4751673/46-168701703.jpg",
       "titleSource" : "Elektro-Pop-Duo Mynth: Von Unsicherheit zum Optimismus",
       "titleTarget" : "Electro-pop duo Mynth: Od neizvjesnosti do optimizma",
       "url" : "https://kurier.at/kultur/elektro-pop-duo-mynth-von-unsicherheit-zum-optimismus/401093259"
     }, {
-      "id" : "YrhPWp2c",
-      "imgUrl" : "https://image.kurier.at/images/original/4751373/46-168201954.jpg",
-      "titleSource" : "Neues bei Netflix: \"Barbaren\" bekommt Staffel 2, Olli Schulz baut ein Hausboot",
-      "titleTarget" : "Vijesti s Netflixa: \"Barbari\" dobivaju drugu sezonu, Olli Schulz gradi kućni čamac",
-      "url" : "https://kurier.at/kultur/medien/neues-bei-netflix-barbaren-bekommt-staffel-2-olli-schulz-baut-ein-hausboot/401093163"
+      "id" : "G7FZeyap",
+      "imgUrl" : "https://image.kurier.at/images/original/4753938/46-146853403.jpg",
+      "titleSource" : "Campino hofft auf ein Comeback großer Konzerte",
+      "titleTarget" : "Campino se nada velikom koncertnom povratku",
+      "url" : "https://kurier.at/kultur/campino-hofft-auf-ein-comeback-grosser-konzerte/401094471"
     }, {
-      "id" : "GHSD3ekX",
-      "imgUrl" : "https://image.kurier.at/images/original/4485110/46-165827137.jpg",
-      "titleSource" : "\"Undine\" und \"Berlin Alexanderplatz\" für Europäischen Filmpreis nominiert",
-      "titleTarget" : "\"Undine\" i \"Berlin Alexanderplatz\" nominirani za europsku filmsku nagradu",
-      "url" : "https://kurier.at/kultur/undine-und-berlin-alexanderplatz-fuer-europaeischen-filmpreis-nominiert/401093055"
+      "id" : "muUR1IR7",
+      "imgUrl" : "https://image.kurier.at/images/original/4752918/46-149650816.jpg",
+      "titleSource" : "Corona-Hilfe: 18,5 Millionen für Bundesmuseen und Bundestheater",
+      "titleTarget" : "Koronska pomoć: 18,5 milijuna za savezne muzeje i savezna kazališta",
+      "url" : "https://kurier.at/kultur/corona-hilfe-185-millionen-fuer-bundesmuseen-und-bundestheater/401093880"
+    }, {
+      "id" : "JU1eJNe2",
+      "imgUrl" : "https://image.kurier.at/images/original/3650564/46-147706254.jpg",
+      "titleSource" : "Trenklers Tratsch: Die Baustellen auf der Bundesmuseumsautobahn",
+      "titleTarget" : "Trenklerovi tračevi: gradilišta na autocesti saveznog muzeja",
+      "url" : "https://kurier.at/kultur/trenklers-tratsch-die-baustellen-auf-der-bundesmuseumsautobahn/401093883"
+    }, {
+      "id" : "43hUTmde",
+      "imgUrl" : "https://image.kurier.at/images/original/4749723/46-168776630.jpg",
+      "titleSource" : "Der Skateshop um 2,1 Milliarden",
+      "titleTarget" : "Trgovina klizaljkama za 2,1 milijardu",
+      "url" : "https://kurier.at/kultur/der-skateshop-um-21-milliarden/401093247"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,31 +196,32 @@
       "titleTarget" : "Dadić i Thiem sportaši godine",
       "url" : "https://sport.orf.at/stories/3069196/"
     }, {
-      "id" : "8osVba53",
-      "titleSource" : "Labor erklärt Testkonfusion bei Salzburger Fußballern",
-      "titleTarget" : "Laboratorij objašnjava zabunu na testovima među nogometašima Salzburga",
-      "url" : "https://sport.orf.at/stories/3069189/"
+      "id" : "Q28bloIN",
+      "imgUrl" : "https://image.kurier.at/images/original/4752726/obs_20201111_obs0005.jpg",
+      "titleSource" : "Hermann Maier zeigt, wie Skifahren trotz Corona funktionieren kann",
+      "titleTarget" : "Hermann Maier pokazuje kako skijanje može funkcionirati unatoč Coroni",
+      "url" : "https://kurier.at/sport/wintersport/video-hermann-maier-zeigt-wie-skifahren-trotz-corona-funktionieren-kann/401093730"
     }, {
-      "id" : "aFmYtfbN",
-      "titleSource" : "Nüßle dank Wildcard bei German Masters Qualifier",
-      "titleTarget" : "Nüßle zahvaljujući zamjenskim znakovima u njemačkom Masters kvalifikatoru",
-      "url" : "https://sport.orf.at/stories/3069185/"
+      "id" : "YO8QFnjf",
+      "imgUrl" : "https://image.kurier.at/images/original/4752831/46-166868023.jpg",
+      "titleSource" : "Alaba-Vater: David \"enttäuscht und verletzt\"",
+      "titleTarget" : "Otac Alabe: David \"razočaran i povrijeđen\"",
+      "url" : "https://kurier.at/sport/fussball/oefb-star-david-alaba-gedachte-der-terroropfer-in-wien/401093799"
     }, {
-      "id" : "cJEO5s98",
-      "imgUrl" : "https://image.kurier.at/images/original/4750620/46-121961385.jpg",
-      "titleSource" : "Kombinierer Gruber nach Herz-OP: \"Das ist mein größter Sieg!\"",
-      "titleTarget" : "Kombinirani Gruber nakon operacije srca: \"Ovo je moja najveća pobjeda!\"",
-      "url" : "https://kurier.at/sport/wintersport/kombinierer-gruber-nach-herz-op-das-ist-mein-groesster-sieg/401092689"
+      "id" : "nv9a2Pbz",
+      "titleSource" : "Luxemburg-Test für Foda nicht „sinnlos“",
+      "titleTarget" : "Luksemburški test za Fodu nije \"besmislen\"",
+      "url" : "https://sport.orf.at/stories/3069188/"
     }, {
-      "id" : "0JazQcPw",
-      "titleSource" : "Grünes Licht für Grubers Karrierefortsetzung",
-      "titleTarget" : "Zeleno svjetlo za nastavak Gruberove karijere",
-      "url" : "https://sport.orf.at/stories/3069181/"
+      "id" : "Btwd05tL",
+      "titleSource" : "ÖVV organisiert Training für den Nachwuchs",
+      "titleTarget" : "ÖVV organizira trening za sljedeću generaciju",
+      "url" : "https://sport.orf.at/stories/3069212/"
     }, {
-      "id" : "MrVTrRt9",
-      "titleSource" : "Test gegen ÖFB-Team als Aufwärmübung",
-      "titleTarget" : "Testirajte protiv ÖFB tima kao vježbu zagrijavanja",
-      "url" : "https://sport.orf.at/stories/3069146/"
+      "id" : "DdPiXMSe",
+      "titleSource" : "Zauberschlag von Rahm sorgt für Aufsehen",
+      "titleTarget" : "Čarolija kreme izaziva pomutnju",
+      "url" : "https://sport.orf.at/stories/3069205/"
     } ]
   } ],
   "country" : "austria",
