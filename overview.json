@@ -2,29 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "ZzM4atBe",
-      "imgUrl" : "https://image.kurier.at/images/original/4739367/46-165823573.jpg",
-      "titleSource" : "\"Tickende Zeitbomben\": Regierung will Gefährder \"wegsperren\"",
-      "titleTarget" : "\"Otkucavanje tempiranih bombi\": vlada želi \"zaključati\" prijetnje",
-      "url" : "https://kurier.at/politik/inland/anti-terror-paket-regierung-beschliesst-20-massnahmen/401093967"
+      "id" : "iEn9uGlE",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/e/c/5896428/30AF6EA4-B2F4-4529-99C1-B78B2340D000_v0_h.jpg",
+      "titleSource" : "Anschober: Massen in Einkaufszentren \"besorgniserregend\"",
+      "titleTarget" : "Anschober: mase u trgovačkim centrima \"zabrinjavaju\"",
+      "url" : "https://www.diepresse.com/5896428/Corona_Anschober_Massen-in-Einkaufszentren-besorgniserregend?from=rss"
     }, {
-      "id" : "n8yOskWm",
-      "imgUrl" : "https://image.kurier.at/images/original/4754415/46-167908018.jpg",
-      "titleSource" : "Eurofighter-Verfahren endgültig eingestellt",
-      "titleTarget" : "Postupak Eurofightera konačno je obustavljen",
-      "url" : "https://kurier.at/politik/inland/eurofighter-verfahren-endgueltig-eingestellt/401094717"
+      "id" : "2EBbU4G8",
+      "imgUrl" : "https://image.kurier.at/images/original/4734843/20201102-ABD0037-1-1.jpg",
+      "titleSource" : "\"Besorgniserregend\": Anschober-Appell wegen Massen in Einkaufszentren",
+      "titleTarget" : "\"Što se tiče\": Apel za sidro zbog gužve u trgovačkim centrima",
+      "url" : "https://kurier.at/politik/inland/anschober-appell-wegen-massen-in-einkaufszentren/401095374"
     }, {
-      "id" : "BNX69NwE",
-      "imgUrl" : "https://image.kurier.at/images/original/4682493/46-167700390.jpg",
-      "titleSource" : "Coronavirus - Breite Front gegen mögliche Schulschließungen",
-      "titleTarget" : "Koronavirus - široka fronta protiv mogućih zatvaranja škola",
-      "url" : "https://kurier.at/politik/inland/coronavirus-breite-front-gegen-moegliche-schulschliessungen/401094195"
-    }, {
-      "id" : "cSJliHci",
-      "imgUrl" : "https://image.kurier.at/images/original/4754436/46-168768285.jpg",
-      "titleSource" : "Pannen vor Terror-Akt: Strafrechtlerin könnte Untersuchungskommission leiten",
-      "titleTarget" : "Kvarovi prije terorističkog čina: kazneni odvjetnik mogao bi voditi istražno povjerenstvo",
-      "url" : "https://kurier.at/politik/inland/terror-in-wien-strafrechts-expertin-zerbes-soll-untersuchungskommission-leiten/401094738"
+      "id" : "DJUxsBtT",
+      "imgUrl" : "https://image.kurier.at/images/original/4747317/78350011457406896_BLD_Online.jpg",
+      "titleSource" : "Anschober: Die nächsten 48 Stunden entscheiden",
+      "titleTarget" : "Anschober: Odlučite sljedećih 48 sati",
+      "url" : "https://kurier.at/politik/inland/anschober-es-ist-davon-auszugehen-dass-die-heutigen-zahlen-hoeher-sind/401095008"
     }, {
       "id" : "zFJupuM6",
       "imgUrl" : "https://image.kurier.at/images/original/4745775/78350011457383410_BLD_Online.jpg",
@@ -32,83 +26,77 @@
       "titleTarget" : "Corona: Bez poboljšanja, pa se policijski sat produžuje",
       "url" : "https://kurier.at/politik/inland/coronavirus-keine-verbesserungen-deshalb-wird-ausgangssperre-verlaengert/401094759"
     }, {
-      "id" : "CUgrUJV2",
-      "imgUrl" : "https://image.kurier.at/images/original/4754256/46-109165681.jpg",
-      "titleSource" : "Wer die Terror-Pannenserie aufklären soll: \"Zu viele sind verbandelt\"",
-      "titleTarget" : "Tko bi trebao raščistiti seriju terorističkih raspada: \"Previše ih je povezano\"",
-      "url" : "https://kurier.at/politik/inland/wer-die-terror-pannenserie-aufklaeren-soll-zu-viele-sind-verbandelt/401094648"
+      "id" : "aAvheQLD",
+      "imgUrl" : "https://image.kurier.at/images/original/4755066/46-168638315.jpg",
+      "titleSource" : "Terrorattentat: Kickl nimmt via Facebook Van der Bellen in die Pflicht",
+      "titleTarget" : "Teroristički napad: Kickl vodi Van der Bellena na dužnost putem Facebooka",
+      "url" : "https://kurier.at/politik/inland/terrorattentat-kickl-nimmt-via-facebook-van-der-bellen-in-die-pflicht/401095230"
     }, {
-      "id" : "0zelMU3r",
-      "imgUrl" : "https://image.kurier.at/images/original/4754361/46-168774859.jpg",
-      "titleSource" : "Terror: Koalition plant Entschädigungsfonds für Gewaltopfer",
-      "titleTarget" : "Teror: Koalicija planira fond odšteta za žrtve nasilja",
-      "url" : "https://kurier.at/politik/inland/terror-koalition-plant-entschaedigungsfonds-fuer-gewaltopfer/401094696"
+      "id" : "EwIoE230",
+      "imgUrl" : "https://image.kurier.at/images/original/4748829/20201109-ABD0072-1-1.jpg",
+      "titleSource" : "Antisemitismus:  \"43 antisemitische Vorfälle pro Monat sind 43 zu viel\"",
+      "titleTarget" : "Antisemitizam: \"43 antisemitska incidenta mjesečno su 43 previše\"",
+      "url" : "https://kurier.at/politik/inland/antisemitismus-43-antisemitische-vorfaelle-pro-monat-sind-43-zu-viel/401095686"
+    }, {
+      "id" : "n8yOskWm",
+      "imgUrl" : "https://image.kurier.at/images/original/4754415/46-167908018.jpg",
+      "titleSource" : "Eurofighter-Verfahren endgültig eingestellt",
+      "titleTarget" : "Postupak Eurofightera konačno je obustavljen",
+      "url" : "https://kurier.at/politik/inland/eurofighter-verfahren-endgueltig-eingestellt/401094717"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "rHIpl6xP",
-      "imgUrl" : "https://image.kurier.at/images/original/4753311/46-168810444.jpg",
-      "titleSource" : "\"Muss man 18-Jährige vor Käpt'n Iglo und Fischstäbchen schützen?\"",
-      "titleTarget" : "\"Morate li zaštititi 18-godišnjake od kapetana Igloa i ribljih prstiju?\"",
-      "url" : "https://kurier.at/wirtschaft/muss-man-18-jaehrige-vor-kaeptn-iglo-und-fischstaebchen-schuetzen/401094129"
+      "id" : "ShItnG47",
+      "imgUrl" : "https://image.kurier.at/images/original/1372752/Kellner.jpg",
+      "titleSource" : "Rechtsanspruch auf 100 Euro für alle Gastro-Mitarbeiter",
+      "titleTarget" : "Zakonsko pravo na 100 eura za sve zaposlenike u ugostiteljstvu",
+      "url" : "https://kurier.at/wirtschaft/rechtsanspruch-auf-100-euro-fuer-alle-gastro-mitarbeiter/401095794"
     }, {
-      "id" : "HXjiZnwg",
-      "imgUrl" : "https://image.kurier.at/images/original/4754076/46-163481044.jpg",
-      "titleSource" : "Zu enge Schulungsräume? Maskenpflicht soll Kurse retten",
-      "titleTarget" : "Prostorije za trening preuske? Zahtjev za maskom trebao bi spasiti tečajeve",
-      "url" : "https://kurier.at/wirtschaft/zu-enge-schulungsraeume-maskenpflicht-soll-kurse-retten/401094573"
+      "id" : "a2EaWMxe",
+      "imgUrl" : "https://image.kurier.at/images/original/4755345/46-168830546.jpg",
+      "titleSource" : "AMS-Chef Kopf verteidigt Kurse trotz hoher Infektionszahlen",
+      "titleTarget" : "Šef AMS-a Kopf brani tečajeve unatoč velikom broju infekcija",
+      "url" : "https://kurier.at/wirtschaft/ams-chef-kopf-verteidigt-kurse-trotz-hoher-infektionszahlen/401095413"
     }, {
-      "id" : "hhSnETND",
-      "imgUrl" : "https://image.kurier.at/images/original/4700118/20201015-ABD0104-1-1.jpg",
-      "titleSource" : "Bei MAN geht nichts mehr: Verhandlung über Stellenabbau abgebrochen",
-      "titleTarget" : "U MAN-u više ništa ne funkcionira: Otkazani pregovori o ukidanju radnih mjesta",
-      "url" : "https://kurier.at/wirtschaft/bei-man-geht-nichts-mehr-verhandlung-ueber-stellenabbau-abgebrochen/401094048"
+      "id" : "hICCI0te",
+      "imgUrl" : "https://image.kurier.at/images/original/4730148/20201030-ABD0057-1-1.jpg",
+      "titleSource" : "ÖGB-Präsident für \"Überbrückungsgeld\" bis zur Pension",
+      "titleTarget" : "Predsjednik ÖGB-a za \"premošćivanje doplatka\" do mirovine",
+      "url" : "https://kurier.at/wirtschaft/oegb-praesident-fuer-ueberbrueckungsgeld-bis-zur-pension/401095989"
     }, {
-      "id" : "twl8E05a",
-      "imgUrl" : "https://image.kurier.at/images/original/169860/onlineshopping-000_18PERCENTGREY%252B-%252BFOTOLIA%252B17911354_18percentgrey_Fotolia.jpg",
-      "titleSource" : "Online-Shopping boomt: Ein Fünftel kauft 2020 mehr im Netz",
-      "titleTarget" : "Internetska kupnja cvjeta: petina će 2020. kupiti više putem interneta",
-      "url" : "https://kurier.at/wirtschaft/online-shopping-boomt-ein-fuenftel-kauft-2020-mehr-im-netz/401094669"
+      "id" : "QizDiThW",
+      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
+      "titleSource" : "Auszahlung des Umsatzersatz beginnt",
+      "titleTarget" : "Počinje isplata naknade za prodaju",
+      "url" : "https://kurier.at/wirtschaft/auszahlung-des-umsatzersatz-beginnt/401095383"
     }, {
-      "id" : "Kz2DsgBH",
-      "imgUrl" : "https://image.kurier.at/images/original/97695/frauenquote-000_AP_Nigel%252BTreblin.jpg",
-      "titleSource" : "Markus Söder für Frauenquote in DAX-Vorständen",
-      "titleTarget" : "Markus Söder za kvotu žena na DAX pločama",
-      "url" : "https://kurier.at/wirtschaft/markus-soeder-fuer-frauenquote-in-dax-vorstaenden/401094564"
+      "id" : "Bs1T0iU4",
+      "imgUrl" : "https://image.kurier.at/images/original/4517774/78370011355494584_BLD_Online.jpg",
+      "titleSource" : "Deutsche Abhängigkeit von China-Importen hoch wie nie",
+      "titleTarget" : "Ovisnost Njemačke o uvozu Kine veća je nego ikad",
+      "url" : "https://kurier.at/wirtschaft/deutsche-abhaengigkeit-von-china-importen-hoch-wie-nie/401095110"
     }, {
-      "id" : "ffvTaN5f",
-      "imgUrl" : "https://image.kurier.at/images/original/2751389/78470026143869002_BLD_Online.jpg",
-      "titleSource" : "Nur minimale Umsatzeinbußen bei Mayr-Melnhof",
-      "titleTarget" : "Samo minimalni gubitak prodaje u Mayr-Melnhofu",
-      "url" : "https://kurier.at/wirtschaft/nur-minimale-umsatzeinbussen-bei-mayr-melnhof/401094888"
+      "id" : "erS2Mufw",
+      "imgUrl" : "https://image.kurier.at/images/original/4549691/78370011355727828_BLD_Online.jpg",
+      "titleSource" : "Wirtschaft in Ost- und Südosteuropa schrumpft um 4,5 Prozent",
+      "titleTarget" : "Gospodarstvo u istočnoj i jugoistočnoj Europi smanjuje se za 4,5 posto",
+      "url" : "https://kurier.at/wirtschaft/wirtschaft-in-ost-und-suedosteuropa-schrumpft-um-45-prozent/401095131"
     }, {
-      "id" : "4pJCgSsl",
-      "imgUrl" : "https://image.kurier.at/images/original/4205525/20200318-ABD0044-1-1.jpg",
-      "titleSource" : "Strabag nach drei Quartalen auf Kurs",
-      "titleTarget" : "Strabag na stazi nakon tri četvrtine",
-      "url" : "https://kurier.at/wirtschaft/strabag-nach-drei-quartalen-auf-kurs/401094858"
+      "id" : "l5D1d8Ff",
+      "imgUrl" : "https://image.kurier.at/images/original/4756137/46-168832115.jpg",
+      "titleSource" : "Corona: dm-Chef warnt vor „künstlicher Stützung der Schwachen“",
+      "titleTarget" : "Corona: šef dm-a upozorava na \"umjetnu potporu slabima\"",
+      "url" : "https://kurier.at/wirtschaft/corona-dm-chef-warnt-vor-kuenstlicher-stuetzung-der-schwachen/401095821"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "VFzpLsFw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/78/crops/w=1280/750079_opener_260378_f76c6020-a1bb-4c8f-a6a1-388de03c6b50.jpg?s=7ca0fc9b037a222e72d8d873314d64b6c542af41",
-      "titleSource" : "ORF-Legende Pert Oberhauser gestorben",
-      "titleTarget" : "Legenda ORF-a Pert Oberhauser umro je",
-      "url" : "https://steiermark.orf.at/stories/3075555/"
-    }, {
-      "id" : "YRUxL091",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/48/crops/w=1280/488877_opener_164548_meldungsliste135.jpg?s=5d05d020f05c504ed90df3eca75caeac49dbd662",
-      "titleSource" : "IT-Problem verursacht CoV-Rekordwerte",
-      "titleTarget" : "IT problem uzrokuje vrijednosti zapisa CoV",
-      "url" : "https://wien.orf.at/stories/3075554/"
-    }, {
-      "id" : "dDMztVwY",
-      "imgUrl" : "https://image.kurier.at/images/original/4752954/46-168495579.jpg",
-      "titleSource" : "Die aktuelle Corona-Lage: Mehr als 7.500 Neuinfektionen in Österreich",
-      "titleTarget" : "Trenutna situacija s koronom: Više od 7.500 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/die-aktuelle-corona-lage-7514-neuinfektionen-in-oesterreich/401093757"
+      "id" : "fvBk8MMS",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/24/27/crops/w=1280/184475_opener_48027_eurofighter_heer.jpg?s=0e1868fd4716feff36e91202dc92192afe372c6c",
+      "titleSource" : "Eurofighter-Verfahren: Einstellung für Doskozil „ein Skandal“",
+      "titleTarget" : "Postupak Eurofighter-a: stav za Doskozila \"skandal\"",
+      "url" : "https://burgenland.orf.at/stories/3075632/"
     }, {
       "id" : "ezea5NT1",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/54/crops/w=1280/748148_opener_259654_20201109_schuhe_f_r_sehbehinderte_00_00_45_02.jpg?s=df65e25a06c85ebc04305ac46e67b91ea1abcc00",
@@ -116,38 +104,68 @@
       "titleTarget" : "Cipele visoke tehnologije pomažu slabovidnima",
       "url" : "https://kaernten.orf.at/stories/3075249/"
     }, {
-      "id" : "OmSCahMV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/80/crops/w=1280/749875_opener_260280_s18.jpg?s=72780659424b731c0bf6e3cb870982276b75b2cb",
-      "titleSource" : "S18: ASFINAG entscheidet sich für CP-Variante",
-      "titleTarget" : "S18: ASFINAG se odlučuje za CP varijantu",
-      "url" : "https://vorarlberg.orf.at/stories/3075520/"
-    }, {
       "id" : "pnSHiGA7",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/96/crops/w=1280/742247_opener_257596_tatort3.jpg?s=a1f833bd81147e9476cadfb78ad6510110652384",
       "titleSource" : "Friedhof verweigert Attentäter Begräbnis",
       "titleTarget" : "Groblje uskraćeno za ukop bombe",
       "url" : "https://wien.orf.at/stories/3075575/"
     }, {
-      "id" : "I6RbVwWB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/04/21/crops/w=1280/443232_opener_147221_20200123_085017.jpg?s=ed148b1600b821ce5ef5a422574d67e121ef1226",
-      "titleSource" : "Wr. Neustadt: Krise kostet elf Mio. Euro",
-      "titleTarget" : "Wr. Neustadt: Kriza košta jedanaest milijuna eura",
-      "url" : "https://noe.orf.at/stories/3075495/"
+      "id" : "N1Qx7CmF",
+      "imgUrl" : "https://image.kurier.at/images/original/4755735/46-168126238.jpg",
+      "titleSource" : "Neuer Höchststand: 9.262 Fälle in 24 Stunden gemeldet",
+      "titleTarget" : "Novi maksimum: u 24 sata prijavljeno je 9.262 slučaja",
+      "url" : "https://kurier.at/chronik/oesterreich/neuer-hoechststand-9262-faelle-in-24-stunden-gemeldet/401093757"
+    }, {
+      "id" : "nyA51cPm",
+      "imgUrl" : "https://image.kurier.at/images/original/4754775/46-168818053.jpg",
+      "titleSource" : "Corona-Datensystem EMS: \"Ausgelegt für 7.000 Salmonellenfälle im Jahr\"",
+      "titleTarget" : "Corona podatkovni sustav EMS: \"Dizajniran za 7.000 slučajeva salmonele godišnje\"",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-datensystem-ems-ausgelegt-fuer-7000-salmonellenfaelle-im-jahr/401094936"
+    }, {
+      "id" : "x97CshRg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/86/crops/w=1280/685191_opener_236686_leben_im_alter_5.jpg?s=8c312cebd88302297e227560d29860eb3f99aca6",
+      "titleSource" : "Pflegepersonal sieht sich am Limit",
+      "titleTarget" : "Sestrinsko osoblje vidi se na granici",
+      "url" : "https://ooe.orf.at/stories/3075673/"
+    }, {
+      "id" : "zzOCONRB",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/25/crops/w=1280/745302_opener_258625____kh_bg_pflege_in_coronazeiten_200511_00_00_22_10.jpg?s=1e03a0295b9e4e1e7287da794c631e6ee70b09bd",
+      "titleSource" : "Hilferufe aus den Krankenhäusern",
+      "titleTarget" : "Pozivi za pomoć iz bolnica",
+      "url" : "https://tirol.orf.at/stories/3075657/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "G7FZeyap",
-      "imgUrl" : "https://image.kurier.at/images/original/4753938/46-146853403.jpg",
-      "titleSource" : "Campino hofft auf ein Comeback großer Konzerte",
-      "titleTarget" : "Campino se nada velikom koncertnom povratku",
-      "url" : "https://kurier.at/kultur/campino-hofft-auf-ein-comeback-grosser-konzerte/401094471"
+      "id" : "RgmWwWHW",
+      "imgUrl" : "https://image.kurier.at/images/original/4754874/46-168829877.jpg",
+      "titleSource" : "TV-Quoten: \"Vienna Blood\"-Wiederholung schlägt Ländermatch",
+      "titleTarget" : "TV rejting: Ponavljanje \"Bečke krvi\" pobijedilo je meč u državi",
+      "url" : "https://kurier.at/kultur/medien/tv-quoten-vienna-blood-wiederholung-schlaegt-laendermatch/401095182"
+    }, {
+      "id" : "vNJq0gRf",
+      "imgUrl" : "https://image.kurier.at/images/original/1902823/46-38574889.jpg",
+      "titleSource" : "Für immer Young: Neil ist 75",
+      "titleTarget" : "Zauvijek mlad: Neil ima 75 godina",
+      "url" : "https://kurier.at/kultur/fuer-immer-young-neil-ist-75/401095284"
     }, {
       "id" : "6aYbpLPk",
       "imgUrl" : "https://image.kurier.at/images/original/4754634/46-163440138.jpg",
       "titleSource" : "Neuer Film von Tom Hanks kommt nur in den USA ins Kino",
       "titleTarget" : "Novi film Toma Hanksa dolazi u kina samo u SAD-u",
       "url" : "https://kurier.at/kultur/neuer-film-von-tom-hanks-kommt-nur-in-den-usa-ins-kino/401094924"
+    }, {
+      "id" : "3slzUuxr",
+      "imgUrl" : "https://image.kurier.at/images/original/4753914/46-168807099.jpg",
+      "titleSource" : "Ariana Grande: Mehr Pose als Lust in den Bett-Positionen",
+      "titleTarget" : "Ariana Grande: Više položaja, nego užitka u položajima u krevetu",
+      "url" : "https://kurier.at/kultur/ariana-grande-mehr-pose-als-lust-in-den-bett-positionen/401094462"
+    }, {
+      "id" : "oRkNm4MV",
+      "imgUrl" : "https://image.kurier.at/images/original/4755072/46-29798876.jpg",
+      "titleSource" : "Verdacht auf Schlaganfall bei Karl Dall: Stopp von \"Rote Rosen\"-Dreh",
+      "titleTarget" : "Sumnja na moždani udar kod Karla Dalla: zaustavljanje snimanja \"Rote Rosen\"",
+      "url" : "https://kurier.at/kultur/verdacht-auf-schlaganfall-bei-karl-dall-stopp-von-rote-rosen-dreh/401095236"
     }, {
       "id" : "dM3rBOlP",
       "imgUrl" : "https://image.kurier.at/images/original/4754613/46-168313484.jpg",
@@ -160,24 +178,6 @@
       "titleSource" : "Kruder & Dorfmeister: Debütalbum mit 25 Jahren Verspätung",
       "titleTarget" : "Kruder & Dorfmeister: Debitantski album kasni 25 godina",
       "url" : "https://kurier.at/kultur/kruder-dorfmeisters-debuetalbum-1995-downbeat-im-lockdown/401094426"
-    }, {
-      "id" : "3slzUuxr",
-      "imgUrl" : "https://image.kurier.at/images/original/4753914/46-168807099.jpg",
-      "titleSource" : "Ariana Grande: Mehr Pose als Lust in den Bett-Positionen",
-      "titleTarget" : "Ariana Grande: Više položaja, nego užitka u položajima u krevetu",
-      "url" : "https://kurier.at/kultur/ariana-grande-mehr-pose-als-lust-in-den-bett-positionen/401094462"
-    }, {
-      "id" : "qvMQkVPU",
-      "imgUrl" : "https://image.kurier.at/images/original/4754070/46-70441869.jpg",
-      "titleSource" : "Mayer verteilt wieder Millionen, aber es reicht bei Weitem nicht",
-      "titleTarget" : "Mayer ponovno distribuira milijune, ali to nije ni blizu dovoljno",
-      "url" : "https://kurier.at/kultur/mayer-verteilt-wieder-millionen-aber-es-reicht-bei-weitem-nicht/401094576"
-    }, {
-      "id" : "RgmWwWHW",
-      "imgUrl" : "https://image.kurier.at/images/original/4754874/46-168829877.jpg",
-      "titleSource" : "TV-Quoten: \"Vienna Blood\"-Wiederholung schlägt Ländermatch",
-      "titleTarget" : "TV rejting: Ponavljanje \"Bečke krvi\" pobijedilo je meč u državi",
-      "url" : "https://kurier.at/kultur/medien/tv-quoten-vienna-blood-wiederholung-schlaegt-laendermatch/401095182"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,6 +185,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "4tiTgrCM",
+      "titleSource" : "Sonderlob von Foda für zwei LASK-Spieler",
+      "titleTarget" : "Posebna pohvala Fode za dva LASK igrača",
+      "url" : "https://sport.orf.at/stories/3069243/"
+    }, {
       "id" : "FmLX6P6f",
       "titleSource" : "Österreich besteht Test in Luxemburg",
       "titleTarget" : "Austrija položila test u Luksemburgu",
@@ -200,27 +205,22 @@
       "titleTarget" : "Finska iznenađuje svjetske prvake Francusku",
       "url" : "https://sport.orf.at/stories/3069239/"
     }, {
-      "id" : "L4EAkSNX",
-      "imgUrl" : "https://image.kurier.at/images/original/4754058/46-168204029.jpg",
-      "titleSource" : "\"Härtetest\": ÖSV-Oldie Reichelt hat auch mit 40 noch nicht genug",
-      "titleTarget" : "\"Test izdržljivosti\": ÖSV oldie Reichelt nije imao dovoljno ni sa 40 godina",
-      "url" : "https://kurier.at/sport/wintersport/haertetest-fuer-den-kopf-oesv-oldie-hannes-reichelt-hat-auch-mit-40-noch-nicht-genug/401094567"
+      "id" : "H8bGtxjD",
+      "imgUrl" : "https://image.kurier.at/images/original/4754430/46-168823113.jpg",
+      "titleSource" : "ÖFB-Noten nach dem Testspielsieg: Gleich drei Totalversager",
+      "titleTarget" : "ÖFB zabija nakon pobjede u testnoj igri: ukupno tri neuspjeha",
+      "url" : "https://kurier.at/sport/fussball/oefb-noten-nach-dem-testspielsieg-in-luxemburg-gleich-drei-totalversager/401094708"
     }, {
-      "id" : "wdg4ST8H",
-      "imgUrl" : "https://image.kurier.at/images/original/4715385/46-163940477.jpg",
-      "titleSource" : "Maradona begibt sich wegen Alkoholismus in Behandlung",
-      "titleTarget" : "Maradona traži liječenje od alkoholizma",
-      "url" : "https://kurier.at/sport/fussball/fussball-idol-maradona-begibt-sich-wegen-alkoholismus-in-behandlung/401094447"
+      "id" : "mNSnMNBJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4755888/46-150900703.jpg",
+      "titleSource" : "Rückkehr aus China: Marko Arnautovic verstärkt das ÖFB-Team",
+      "titleTarget" : "Povratak iz Kine: Marko Arnautović pojačava ÖFB momčad",
+      "url" : "https://kurier.at/sport/fussball/von-china-nach-wien-marko-arnautovic-verstaerkt-das-oefb-team-in-der-nations-league/401095701"
     }, {
-      "id" : "yYRXZE7K",
-      "titleSource" : "Hasenhüttl: Southampton-Erfolge durch CoV-Umstände",
-      "titleTarget" : "Hasenhüttl: Southampton je uspio zbog okolnosti CoV-a",
-      "url" : "https://sport.orf.at/stories/3069245/"
-    }, {
-      "id" : "19Wp8dSg",
-      "titleSource" : "Maradona aus Krankenhaus entlassen",
-      "titleTarget" : "Maradona pušten iz bolnice",
-      "url" : "https://sport.orf.at/stories/3069240/"
+      "id" : "1g7sruvQ",
+      "titleSource" : "Thiem bei ATP Finals in Nadal-Gruppe",
+      "titleTarget" : "Thiem na ATP finalu u Nadal grupi",
+      "url" : "https://sport.orf.at/stories/3069265/"
     } ]
   } ],
   "country" : "austria",
