@@ -2,35 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "Z66rbNU4",
-      "imgUrl" : "https://image.kurier.at/images/original/4732371/20201031-ABD0132-1-1.jpg",
-      "titleSource" : "Harter Corona-Lockdown: Jetzt kommen Ausgangsbeschränkungen rund um die Uhr",
-      "titleTarget" : "Čvrsto zaključavanje korone: Sad izlazna ograničenja dolaze neprestano",
-      "url" : "https://kurier.at/politik/inland/harter-corona-lockdown-jetzt-kommen-ausgangsbeschraenkungen-rund-um-die-uhr/401096508"
-    }, {
-      "id" : "cXUcx0ON",
-      "imgUrl" : "https://image.kurier.at/images/original/4732371/20201031-ABD0132-1-1.jpg",
-      "titleSource" : "Corona-Lockdown soll schärfer werden: 24-Stunden-Ausgangssperre",
-      "titleTarget" : "Zaključavanje Corone treba pooštriti: 24-satni policijski čas",
-      "url" : "https://kurier.at/politik/inland/corona-krise-ausgangsbeschraenkung-ab-dienstag/401096508"
-    }, {
-      "id" : "NysFVcn0",
-      "imgUrl" : "https://image.kurier.at/images/original/4732371/20201031-ABD0132-1-1.jpg",
-      "titleSource" : "\"Harter\" Lockdown von Dienstag bis 8. Dezember in Planung?",
-      "titleTarget" : "\"Tvrdo\" zaključavanje planirano od utorka do 8. prosinca?",
-      "url" : "https://kurier.at/politik/inland/lockdown-am-samstag-verkuendet-kanzler-kurz-weitere-massnahmen/401096508"
-    }, {
       "id" : "PpDwbaBa",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/7/5896983/6691C5B4-9F58-4C0A-B297-7EBF7C36DDEA_v0_h.jpg",
       "titleSource" : "\"März-ähnlicher Lockdown\" ab nächster Woche",
       "titleTarget" : "\"Zaključavanje nalik ožujku\" počevši od sljedećeg tjedna",
       "url" : "https://www.diepresse.com/5896983/CoronaMassnahmen_Maerzaehnlicher-Lockdown-ab-naechster-Woche?from=rss"
     }, {
-      "id" : "0hB2Jyho",
-      "imgUrl" : "https://image.kurier.at/images/original/4756632/46-168709145.jpg",
-      "titleSource" : "Statistiker Neuwirth kritisiert zu späten Lockdown: \"Anstieg war im August erkennbar\"",
-      "titleTarget" : "Statističar Neuwirth kritizira kasno zaključavanje: \"Porast je bio primjetan u kolovozu\"",
-      "url" : "https://kurier.at/politik/inland/statistiker-neuwirth-kritisiert-zu-spaeten-lockdown-anstieg-war-im-august-absehbar/401096142"
+      "id" : "Oex4hMGE",
+      "imgUrl" : "https://image.kurier.at/images/original/4758582/46-19811198.jpg",
+      "titleSource" : "\"Gefahr im Verzug\": So soll der neue, harte Lockdown aussehen",
+      "titleTarget" : "\"Neposredna opasnost\": Tako bi trebalo izgledati novo, čvrsto zaključavanje",
+      "url" : "https://kurier.at/politik/inland/gefahr-im-verzug-jetzt-kommt-der-harte-lockdown/401097249"
     }, {
       "id" : "hPQV44gg",
       "imgUrl" : "https://image.kurier.at/images/original/4747455/46-168652904.jpg",
@@ -43,15 +25,39 @@
       "titleSource" : "Corona: Schulen bereiten sich auf Lockdown vor",
       "titleTarget" : "Corona: Škole se pripremaju za zaključavanje",
       "url" : "https://kurier.at/politik/inland/corona-schulen-bereiten-sich-auf-lockdown-vor/401097102"
+    }, {
+      "id" : "hqJE7RKE",
+      "imgUrl" : "https://image.kurier.at/images/original/4755882/81670356457470056_BLD_Online.jpg",
+      "titleSource" : "Corona: Slowakei informierte Österreich über Massentests",
+      "titleTarget" : "Corona: Slovačka je obavijestila Austriju o masovnim testovima",
+      "url" : "https://kurier.at/politik/inland/corona-slowakei-informierte-oesterreich-ueber-massentests/401096919"
+    }, {
+      "id" : "zdLkk6Ow",
+      "imgUrl" : "https://image.kurier.at/images/original/4757343/46-168825622.jpg",
+      "titleSource" : "Terrorattentat: Mehr als 1.500 Beschwerden beim Presserat",
+      "titleTarget" : "Teroristički napad: Više od 1500 žalbi vijeću za tisak",
+      "url" : "https://kurier.at/politik/inland/terrorattentat-mehr-als-1500-beschwerden-beim-presserat/401096586"
+    }, {
+      "id" : "2LirmAj3",
+      "imgUrl" : "https://image.kurier.at/images/original/3675185/78350011449842424_BLD_Online.jpg",
+      "titleSource" : "Terrorattentat: Kommissionsbericht wird veröffentlicht",
+      "titleTarget" : "Teroristički napad: objavljuje se izvješće Komisije",
+      "url" : "https://kurier.at/politik/inland/terrorattentat/401096340"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "Jko0iblj",
-      "imgUrl" : "https://image.kurier.at/images/original/4756596/46-164262935.jpg",
-      "titleSource" : "Pelzhaus in Kopenhagen schließt wegen Nerz-Massenkeulung",
-      "titleTarget" : "Koža s krznom u Kopenhagenu zatvara se zbog oduzimanja mase nerca",
-      "url" : "https://kurier.at/wirtschaft/pelzhaus-in-kopenhagen-schliesst-wegen-nerz-massenkeulung/401096106"
+      "id" : "ffBvVwWZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4758396/46-167654508.jpg",
+      "titleSource" : "Handelsverband fordert Geld und klare Regeln",
+      "titleTarget" : "Trgovačko udruženje zahtijeva novac i jasna pravila",
+      "url" : "https://kurier.at/wirtschaft/handelsverband-fordert-geld-und-klare-regeln/401097171"
+    }, {
+      "id" : "IFrcuc9x",
+      "imgUrl" : "https://image.kurier.at/images/original/4743786/20201106-ABD0019-1-1.jpg",
+      "titleSource" : "Harter Lockdown: 40 oder 80% Umsatzersatz für den Handel?",
+      "titleTarget" : "Teško zaključavanje: Zamjena prihoda od 40 ili 80% za maloprodaju?",
+      "url" : "https://kurier.at/wirtschaft/verschaerfter-lockdown-bluemel-verspricht-hilfe-fuer-betriebe/401097369"
     }, {
       "id" : "GyXpH0kw",
       "imgUrl" : "https://image.kurier.at/images/original/4689879/46-163909233.jpg",
@@ -82,12 +88,6 @@
       "titleSource" : "Disney macht weiter Verlust, Streaming-Geschäft boomt aber",
       "titleTarget" : "Disney i dalje gubi novac, ali streaming posao cvjeta",
       "url" : "https://kurier.at/wirtschaft/disney-macht-weiter-verlust-streaming-geschaeft-boomt-aber/401096370"
-    }, {
-      "id" : "VerqzHKy",
-      "imgUrl" : "https://image.kurier.at/images/original/3567079/81650355549105086_BLD_Online.jpg",
-      "titleSource" : "Deutsche Regierung: Wirtschaftserholung bricht im 4. Quartal nicht ab",
-      "titleTarget" : "Njemačka vlada: Ekonomski oporavak ne prestaje u četvrtom tromjesečju",
-      "url" : "https://kurier.at/wirtschaft/deutsche-regierung-wirtschaftserholung-bricht-im-4-quartal-nicht-ab/401096514"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -104,17 +104,17 @@
       "titleTarget" : "Situacija u bolnicama dolazi do vrhunca",
       "url" : "https://vorarlberg.orf.at/stories/3075869/"
     }, {
-      "id" : "WANT3hdn",
-      "imgUrl" : "https://image.kurier.at/images/original/4616474/corona-ampel_1.png",
-      "titleSource" : "Corona-Ampel: Die aktuelle Schaltung auf Gemeindeebene im Überblick",
-      "titleTarget" : "Koronski semafor: Pregled trenutnog kruga na razini zajednice",
-      "url" : "https://kurier.at/chronik/oesterreich/so-sieht-die-aktuelle-corona-ampel-aus/401021141"
-    }, {
       "id" : "T0OY09Bs",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/90/crops/w=1280/752070_opener_261090_intensivpfleger.jpg?s=1017746f0baa6df1a8e50238b4d242d0353617c4",
       "titleSource" : "Intensivpatienten kämpfen mit Atemnot und Angst",
       "titleTarget" : "Pacijenti na intenzivnoj njezi bore se s otežanim disanjem i strahom",
       "url" : "https://vorarlberg.orf.at/stories/3075901/"
+    }, {
+      "id" : "WANT3hdn",
+      "imgUrl" : "https://image.kurier.at/images/original/4616474/corona-ampel_1.png",
+      "titleSource" : "Corona-Ampel: Die aktuelle Schaltung auf Gemeindeebene im Überblick",
+      "titleTarget" : "Koronski semafor: Pregled trenutnog kruga na razini zajednice",
+      "url" : "https://kurier.at/chronik/oesterreich/so-sieht-die-aktuelle-corona-ampel-aus/401021141"
     }, {
       "id" : "1bRCyTH6",
       "imgUrl" : "https://image.kurier.at/images/original/4758234/46-168611159.jpg",
@@ -122,31 +122,32 @@
       "titleTarget" : "\"Dramatična situacija\" u vorarlberškim bolnicama",
       "url" : "https://kurier.at/chronik/oesterreich/dramatische-situation-in-vorarlbergs-krankenhaeusern/401097093"
     }, {
-      "id" : "40qHbax2",
-      "titleSource" : "Maskenverweigerer in U-Bahn  vor Gericht abgeblitzt",
-      "titleTarget" : "Maska odbijenicu u podzemnoj željeznici na sudu",
-      "url" : "https://wien.orf.at/stories/3075859/"
-    }, {
       "id" : "0LahWHBC",
       "imgUrl" : "https://image.kurier.at/images/original/4756797/46-168652944.jpg",
       "titleSource" : "Coronafälle in Österreich: Das sind die aktuell am stärksten betroffenen Bezirke",
       "titleTarget" : "Slučajevi korone u Austriji: Ovo su trenutno najviše pogođeni okruzi",
       "url" : "https://kurier.at/chronik/oesterreich/coronafaelle-in-oesterreich-das-sind-die-aktuell-am-staerksten-betroffenen-bezirke/401096217"
+    }, {
+      "id" : "W3b5Y4lP",
+      "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
+      "titleSource" : "Wieder Höchstwert: 9.568 Neuinfektionen österreichweit",
+      "titleTarget" : "Opet velika vrijednost: 9 568 novih infekcija u cijeloj Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/wieder-hoechstwert-9568-neuinfektionen-oesterreichweit/401093757"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "bu292NIg",
-      "imgUrl" : "https://image.kurier.at/images/original/4757478/gutenachtoesterreich_00.png",
-      "titleSource" : "Klien kämpft um seine Show: Voting-Erfolg beim Kabarettpreis",
-      "titleTarget" : "Klien se bori za svoju emisiju: Uspjeh u glasanju na dodjeli kabarea",
-      "url" : "https://kurier.at/kultur/medien/kabarettpreis-peter-klien-kaempft-mit-voting-erfolg-um-seine-show-gute-nacht-oesterreich/401096763"
-    }, {
       "id" : "lmDMdYA2",
       "imgUrl" : "https://image.kurier.at/images/original/4712235/echomedia-gratisbuch-wien.png",
       "titleSource" : "Gratisbuch wird ab sofort verteilt: \"29 Kurzgeschichten aus Wien\"",
       "titleTarget" : "Sada se distribuira besplatna knjiga: \"29 kratkih priča iz Beča\"",
       "url" : "https://kurier.at/kultur/gratisbuch-wird-ab-freitag-verteilt-29-kurzgeschichten-aus-wien/401096895"
+    }, {
+      "id" : "bu292NIg",
+      "imgUrl" : "https://image.kurier.at/images/original/4757478/gutenachtoesterreich_00.png",
+      "titleSource" : "Klien kämpft um seine Show: Voting-Erfolg beim Kabarettpreis",
+      "titleTarget" : "Klien se bori za svoju emisiju: Uspjeh u glasanju na dodjeli kabarea",
+      "url" : "https://kurier.at/kultur/medien/kabarettpreis-peter-klien-kaempft-mit-voting-erfolg-um-seine-show-gute-nacht-oesterreich/401096763"
     }, {
       "id" : "Hq5NT66i",
       "imgUrl" : "https://image.kurier.at/images/original/4756908/46-106488770.jpg",
@@ -172,11 +173,11 @@
       "titleTarget" : "Festival arhitekture: Otvorena kuća ove godine na mreži",
       "url" : "https://kurier.at/kultur/festival-der-architektur-open-house-heuer-online/401096487"
     }, {
-      "id" : "BV8YIfcq",
-      "imgUrl" : "https://image.kurier.at/images/original/4758285/46-148139965.jpg",
-      "titleSource" : "\"Matrix\"-Dreh: Party im Studio Babelsberg, laut Studio-Chef Dreharbeiten",
-      "titleTarget" : "Snimanje \"Matrice\": Zabava u studiju Babelsberg, prema riječima šefa studija, snimanje",
-      "url" : "https://kurier.at/kultur/matrix-dreh-party-im-studio-babelsberg-laut-studio-chef-dreharbeiten/401097129"
+      "id" : "ULJ1R2M0",
+      "imgUrl" : "https://image.kurier.at/images/original/4250999/46-112249150.jpg",
+      "titleSource" : "R&B-Star The Weeknd soll beim Super Bowl auftreten",
+      "titleTarget" : "R&B zvijezda The Weeknd trebao bi nastupiti na Super Bowlu",
+      "url" : "https://kurier.at/kultur/rb-star-the-weeknd-soll-beim-super-bowl-auftreten/401096673"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,20 +185,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "qRd85sHy",
-      "titleSource" : "Szoboszlai-Tor rettet Ungarn EM-Ticket",
-      "titleTarget" : "Szoboszlai-Tor spašava mađarsku EM kartu",
-      "url" : "https://sport.orf.at/stories/3069276/"
-    }, {
-      "id" : "RlRDV6iG",
-      "titleSource" : "Hamilton greift nach siebentem WM-Titel",
-      "titleTarget" : "Hamilton poseže za sedmim svjetskim naslovom",
-      "url" : "https://sport.orf.at/stories/3069244/"
-    }, {
       "id" : "KPzY7sRZ",
       "titleSource" : "Spätes Highlight für Jürgen Melzer",
       "titleTarget" : "Kasni vrhunac za Jürgena Melzera",
       "url" : "https://sport.orf.at/stories/3069292/"
+    }, {
+      "id" : "3Ydr48z2",
+      "imgUrl" : "https://image.kurier.at/images/original/4758729/46-147023661.jpg",
+      "titleSource" : "2:3 in der Türkei: Österreichs U21 verspielt die EM-Chance",
+      "titleTarget" : "2: 3 u Turskoj: Austrijski U21 prokockali su priliku za EM",
+      "url" : "https://kurier.at/sport/fussball/23-in-der-tuerkei-oesterreichs-u21-verspielt-die-em-chance/401097324"
+    }, {
+      "id" : "EkYf1gjp",
+      "titleSource" : "Geteilte Meinungen zu November-Spielen",
+      "titleTarget" : "Podijeljena mišljenja o igrama u studenom",
+      "url" : "https://sport.orf.at/stories/3069263/"
     }, {
       "id" : "K77qhjyM",
       "imgUrl" : "https://image.kurier.at/images/original/4756956/46-158923342.jpg",
@@ -217,10 +219,10 @@
       "titleTarget" : "Jürgen Melzer po treći se put plasirao u ATP finale",
       "url" : "https://kurier.at/sport/tennis/tennis-juergen-melzer-zum-dritten-mal-fuer-atp-finals-qualifiziert/401096781"
     }, {
-      "id" : "sMkup69Z",
-      "titleSource" : "Erste Frau in MLB in Führungsposition",
-      "titleTarget" : "Prva žena u MLB-u na rukovodećem mjestu",
-      "url" : "https://sport.orf.at/stories/3069305/"
+      "id" : "RVzCXI9p",
+      "titleSource" : "Wiesberger nach zweiter Masters-Runde mit Cut-Chancen",
+      "titleTarget" : "Wiesberger nakon druge runde Mastersa s presječenim izgledima",
+      "url" : "https://sport.orf.at/stories/3069318/"
     } ]
   } ],
   "country" : "austria",
