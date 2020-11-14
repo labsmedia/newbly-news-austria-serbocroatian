@@ -2,57 +2,51 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "Oex4hMGE",
-      "imgUrl" : "https://image.kurier.at/images/original/4758582/46-19811198.jpg",
-      "titleSource" : "\"Gefahr im Verzug\": So soll der neue, harte Lockdown aussehen",
-      "titleTarget" : "\"Neposredna opasnost\": Tako bi trebalo izgledati novo, čvrsto zaključavanje",
-      "url" : "https://kurier.at/politik/inland/gefahr-im-verzug-jetzt-kommt-der-harte-lockdown/401097249"
+      "id" : "lVwLsxke",
+      "imgUrl" : "https://image.kurier.at/images/original/4759569/46-168865170.jpg",
+      "titleSource" : "Harte Lockdown-Maßnahmen ab Dienstag: Der gesamte Entwurf im Detail",
+      "titleTarget" : "Mjere žestokog zaključavanja od utorka: detaljan cijeli nacrt",
+      "url" : "https://kurier.at/politik/inland/harte-lockdown-massnahmen-ab-dienstag-der-gesamte-entwurf-im-detail/401097510"
     }, {
-      "id" : "PpDwbaBa",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/7/5896983/6691C5B4-9F58-4C0A-B297-7EBF7C36DDEA_v0_h.jpg",
-      "titleSource" : "\"März-ähnlicher Lockdown\" ab nächster Woche",
-      "titleTarget" : "\"Zaključavanje nalik ožujku\" počevši od sljedećeg tjedna",
-      "url" : "https://www.diepresse.com/5896983/CoronaMassnahmen_Maerzaehnlicher-Lockdown-ab-naechster-Woche?from=rss"
+      "id" : "yKhpaIyV",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/3/9/5897529/C127C03F-A5AB-4391-A307-7BDFE14AA63D_v0_h.jpg",
+      "titleSource" : "Ausgangsbeschränkungen auch tagsüber: Was in der Verordnung steht",
+      "titleTarget" : "Ograničenja izlaza i tijekom dana: Što je u uredbi",
+      "url" : "https://www.diepresse.com/5897529/CoronaMassnahmen_Ausgangsbeschraenkungen-auch-tagsueber_Was-in?from=rss"
     }, {
-      "id" : "eCacZ4pn",
-      "imgUrl" : "https://image.kurier.at/images/original/4757649/20201113-ABD0039-1-1.jpg",
-      "titleSource" : "Corona: Schulen bereiten sich auf Lockdown vor",
-      "titleTarget" : "Corona: Škole se pripremaju za zaključavanje",
-      "url" : "https://kurier.at/politik/inland/corona-schulen-bereiten-sich-auf-lockdown-vor/401097102"
+      "id" : "tILBF52A",
+      "imgUrl" : "https://image.kurier.at/images/original/4759356/46-168881242.jpg",
+      "titleSource" : "Intensivmediziner: Gesundheitssystem völlig ausgelastet, Triage steht bevor",
+      "titleTarget" : "Liječnik intenzivne njege: Zdravstveni sustav u potpunosti iskorišten, predstoji trijaža",
+      "url" : "https://kurier.at/politik/inland/pk-im-live-stream-so-beurteilen-intensivmediziner-die-lage/401097624"
     }, {
-      "id" : "hqJE7RKE",
-      "imgUrl" : "https://image.kurier.at/images/original/4755882/81670356457470056_BLD_Online.jpg",
-      "titleSource" : "Corona: Slowakei informierte Österreich über Massentests",
-      "titleTarget" : "Corona: Slovačka je obavijestila Austriju o masovnim testovima",
-      "url" : "https://kurier.at/politik/inland/corona-slowakei-informierte-oesterreich-ueber-massentests/401096919"
+      "id" : "tnDRMZD0",
+      "imgUrl" : "https://image.kurier.at/images/original/4759563/46-168883474.jpg",
+      "titleSource" : "Live-Stream: Schulen schließen, Kurz: \"Treffen Sie niemanden\"",
+      "titleTarget" : "Prijenos uživo: škole se zatvaraju, ukratko: \"Ne upoznaj nikoga\"",
+      "url" : "https://kurier.at/politik/inland/live-stream-regierung-verkuendet-harten-lockdown/401097747"
     }, {
-      "id" : "zdLkk6Ow",
-      "imgUrl" : "https://image.kurier.at/images/original/4757343/46-168825622.jpg",
-      "titleSource" : "Terrorattentat: Mehr als 1.500 Beschwerden beim Presserat",
-      "titleTarget" : "Teroristički napad: Više od 1500 žalbi vijeću za tisak",
-      "url" : "https://kurier.at/politik/inland/terrorattentat-mehr-als-1500-beschwerden-beim-presserat/401096586"
+      "id" : "1ADyDRgJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4759563/46-168883474.jpg",
+      "titleSource" : "Regierung zu Lockdown: \"Treffen Sie niemanden\"; \"Letzte Chance, Kollaps zu verhindern\"",
+      "titleTarget" : "Vlada o zaključavanju: \"Ne upoznajte nikoga\"; \"Posljednja šansa da se spriječi kolaps\"",
+      "url" : "https://kurier.at/politik/inland/regierung-zu-lockdown-treffen-sie-niemanden-letzte-chance-kollaps-zu-verhindern/401097747"
     }, {
-      "id" : "2LirmAj3",
-      "imgUrl" : "https://image.kurier.at/images/original/3675185/78350011449842424_BLD_Online.jpg",
-      "titleSource" : "Terrorattentat: Kommissionsbericht wird veröffentlicht",
-      "titleTarget" : "Teroristički napad: objavljuje se izvješće Komisije",
-      "url" : "https://kurier.at/politik/inland/terrorattentat/401096340"
+      "id" : "ywBt0wjK",
+      "imgUrl" : "https://image.kurier.at/images/original/4742160/78350011457353508_BLD_Online.jpg",
+      "titleSource" : "Schulen müssen auf Distance Learning umstellen",
+      "titleTarget" : "Škole se moraju prebaciti na učenje na daljinu",
+      "url" : "https://kurier.at/politik/inland/live-stream-so-geht-es-mit-schulen-wirtschaft-und-arbeit-weiter/401097753"
     }, {
-      "id" : "Qlq2WslF",
-      "imgUrl" : "https://image.kurier.at/images/original/4714365/81731350857099944_BLD_Online.jpg",
-      "titleSource" : "Coronavirus: Szenarien für die Schule",
-      "titleTarget" : "Koronavirus: scenariji za školu",
-      "url" : "https://kurier.at/politik/inland/coronavirus-szenarien-fuer-die-schule/401096679"
+      "id" : "93X3zwIa",
+      "imgUrl" : "https://image.kurier.at/images/original/4758903/46-168610613.jpg",
+      "titleSource" : "Vorschlag: Schüler in Hotels unterrichten",
+      "titleTarget" : "Prijedlog: podučavati studente u hotelima",
+      "url" : "https://kurier.at/politik/inland/vorschlag-schueler-in-hotels-unterrichten/401097477"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ffBvVwWZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4758396/46-167654508.jpg",
-      "titleSource" : "Handelsverband fordert Geld und klare Regeln",
-      "titleTarget" : "Trgovačko udruženje zahtijeva novac i jasna pravila",
-      "url" : "https://kurier.at/wirtschaft/handelsverband-fordert-geld-und-klare-regeln/401097171"
-    }, {
       "id" : "IFrcuc9x",
       "imgUrl" : "https://image.kurier.at/images/original/4743786/20201106-ABD0019-1-1.jpg",
       "titleSource" : "Harter Lockdown: 40 oder 80% Umsatzersatz für den Handel?",
@@ -65,11 +59,23 @@
       "titleTarget" : "Commerzialbank: Republika će platiti odštetu od 303 milijuna eura",
       "url" : "https://kurier.at/wirtschaft/commerzial-republik-soll-303-millionen-euro-schadenersatz-zahlen/401096901"
     }, {
-      "id" : "GyXpH0kw",
-      "imgUrl" : "https://image.kurier.at/images/original/4689879/46-163909233.jpg",
-      "titleSource" : "Idee aus Deutschland: Kommt jetzt die Home-Office-Steuer?",
-      "titleTarget" : "Ideja iz Njemačke: dolazi li sada porez na kućni ured?",
-      "url" : "https://kurier.at/wirtschaft/idee-aus-deutschland-kommt-jetzt-die-home-office-steuer/401097258"
+      "id" : "bIAjmSNQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4759068/46-168775587.jpg",
+      "titleSource" : "Ermittlungen wegen Wahlbetrug bei Wirtschaftskammerwahl im Burgenland",
+      "titleTarget" : "Istrage o izbornoj prijevari na izborima za Gospodarsku komoru u Gradišću",
+      "url" : "https://kurier.at/wirtschaft/ermittlungen-wegen-wahlbetrug-bei-wirtschaftskammerwahl-im-burgenland/401097633"
+    }, {
+      "id" : "A0IZ1Pvt",
+      "imgUrl" : "https://image.kurier.at/images/original/4759290/46-149603567.jpg",
+      "titleSource" : "Corona: Virenbelastetes Fleisch aus Südamerika in China gefunden",
+      "titleTarget" : "Corona: Meso zagađeno virusima iz Južne Amerike pronađeno u Kini",
+      "url" : "https://kurier.at/wirtschaft/corona-virenbelastetes-fleisch-aus-suedamerika-in-china-gefunden/401097672"
+    }, {
+      "id" : "W8Syite9",
+      "imgUrl" : "https://image.kurier.at/images/original/4759206/46-76335570.jpg",
+      "titleSource" : "Corona: Steuergeld auch für Glücksspielautomaten",
+      "titleTarget" : "Corona: Novac za porez i za automate za igre na sreću",
+      "url" : "https://kurier.at/wirtschaft/corona-steuergeld-auch-fuer-gluecksspielautomaten/401097660"
     }, {
       "id" : "bEdlhO3G",
       "imgUrl" : "https://image.kurier.at/images/original/4003689/46-149269440.jpg",
@@ -77,107 +83,95 @@
       "titleTarget" : "Pogled na tržište nekretnina - što je sljedeće?",
       "url" : "https://kurier.at/wirtschaft/immobiz/ein-blick-auf-den-immobilienmarkt-wie-gehts-weiter/401095524"
     }, {
-      "id" : "PENDKoQa",
-      "imgUrl" : "https://image.kurier.at/images/original/4755405/46-168829044.jpg",
-      "titleSource" : "Einmal Taiwanesisch freihaus",
-      "titleTarget" : "Jedan tajvanski slobodni dom",
-      "url" : "https://kurier.at/wirtschaft/karriere/einmal-taiwanesisch-freihaus/401095443"
-    }, {
-      "id" : "lFXtVf42",
-      "imgUrl" : "https://image.kurier.at/images/original/4755471/46-168772524.jpg",
-      "titleSource" : "Second-Hand-Händler: „Wir geben Dingen ein zweites Leben“",
-      "titleTarget" : "Prodavač rabljenih automobila: \"Dajemo stvarima drugi život\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/second-hand-haendler-wir-geben-dingen-ein-zweites-leben/401095470"
+      "id" : "N2asVgWT",
+      "imgUrl" : "https://image.kurier.at/images/original/4758945/46-163716696.jpg",
+      "titleSource" : "Trio stahl in Tirol vor Eingangstüren deponierte Pakete",
+      "titleTarget" : "Trio je ukrao pakete položene ispred ulaznih vrata u Tirolu",
+      "url" : "https://kurier.at/wirtschaft/trio-stahl-in-tirol-vor-eingangstueren-deponierte-pakete/401097528"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "xUSx933F",
-      "imgUrl" : "https://image.kurier.at/images/original/4756911/46-168818051.jpg",
-      "titleSource" : "Corona-Gurgeltests in Schulen: 40 von 10.000 Teilnehmern positiv",
-      "titleTarget" : "Testovi za ispiranje grla Corona u školama: 40 od 10 000 sudionika pozitivno",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-gurgeltests-in-schulen-40-von-10000-teilnehmern-positiv/401096331"
+      "id" : "3bHUOGTg",
+      "imgUrl" : "https://image.kurier.at/images/original/4759071/46-168879961.jpg",
+      "titleSource" : "Vor dem harten Lockdown: Lange Schlangen vor den Geschäften",
+      "titleTarget" : "Prije teškog zaključavanja: Dugi redovi ispred trgovina",
+      "url" : "https://kurier.at/chronik/oesterreich/vor-dem-harten-lockdown-lange-schlangen-vor-den-geschaeften/401097576"
     }, {
-      "id" : "bFRTHWXw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/70/crops/w=1280/751202_opener_260770_abd0024.jpg?s=14c086b5318767dfbda1770ca5e1aa0da5d4122c",
-      "titleSource" : "NEOS für Unterricht in Hotel-Seminarräumen",
-      "titleTarget" : "NEOS za lekcije u hotelskim seminarskim sobama",
-      "url" : "https://tirol.orf.at/stories/3075932/"
+      "id" : "mOs2BTFV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/02/crops/w=1280/752606_opener_261302_whatsapp_image_2020-11-14_at_12.46.12.jpeg?s=07775b59cd8a5107de720798255c6adecfcd1b91",
+      "titleSource" : "Ansturm im Handel vor zweitem Lockdown",
+      "titleTarget" : "Jurite u maloprodaju prije drugog zaključavanja",
+      "url" : "https://kaernten.orf.at/stories/3075961/"
     }, {
-      "id" : "T0OY09Bs",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/90/crops/w=1280/752070_opener_261090_intensivpfleger.jpg?s=1017746f0baa6df1a8e50238b4d242d0353617c4",
-      "titleSource" : "Intensivpatienten kämpfen mit Atemnot und Angst",
-      "titleTarget" : "Pacijenti na intenzivnoj njezi bore se s otežanim disanjem i strahom",
-      "url" : "https://vorarlberg.orf.at/stories/3075901/"
+      "id" : "K0bzOdZX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/02/crops/w=1280/752606_opener_261302_whatsapp_image_2020-11-14_at_12.46.12.jpeg?s=07775b59cd8a5107de720798255c6adecfcd1b91",
+      "titleSource" : "Großer Ansturm auf Geschäfte",
+      "titleTarget" : "Velika navala za posao",
+      "url" : "https://oesterreich.orf.at/stories/3075971/"
     }, {
-      "id" : "1bRCyTH6",
-      "imgUrl" : "https://image.kurier.at/images/original/4758234/46-168611159.jpg",
-      "titleSource" : "\"Dramatische Situation\" in Vorarlbergs Krankenhäusern",
-      "titleTarget" : "\"Dramatična situacija\" u vorarlberškim bolnicama",
-      "url" : "https://kurier.at/chronik/oesterreich/dramatische-situation-in-vorarlbergs-krankenhaeusern/401097093"
+      "id" : "az6FtzXc",
+      "imgUrl" : "https://image.kurier.at/images/original/4184216/46-162749798.jpg",
+      "titleSource" : "Österreich mit höchster Corona-Neuinfektionsrate weltweit",
+      "titleTarget" : "Austrija s najvećom stopom nove infekcije koronom u svijetu",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-mit-hoechster-corona-neuinfektionsrate-weltweit/401097702"
     }, {
-      "id" : "WANT3hdn",
-      "imgUrl" : "https://image.kurier.at/images/original/4616474/corona-ampel_1.png",
-      "titleSource" : "Corona-Ampel: Die aktuelle Schaltung auf Gemeindeebene im Überblick",
-      "titleTarget" : "Koronski semafor: Pregled trenutnog kruga na razini zajednice",
-      "url" : "https://kurier.at/chronik/oesterreich/so-sieht-die-aktuelle-corona-ampel-aus/401021141"
+      "id" : "9bXImIQZ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/53/crops/w=1280/752498_opener_261253_bgld_wko_wahlbetrug_mib.jpg?s=34bdc0a1eac9606dcd17196aec35a1e3af0462ec",
+      "titleSource" : "„Profil“: Wahlbetrug bei WK-Wahl",
+      "titleTarget" : "\"Profil\": izborna prijevara na izborima za WK",
+      "url" : "https://burgenland.orf.at/stories/3075945/"
     }, {
-      "id" : "0LahWHBC",
-      "imgUrl" : "https://image.kurier.at/images/original/4756797/46-168652944.jpg",
-      "titleSource" : "Coronafälle in Österreich: Das sind die aktuell am stärksten betroffenen Bezirke",
-      "titleTarget" : "Slučajevi korone u Austriji: Ovo su trenutno najviše pogođeni okruzi",
-      "url" : "https://kurier.at/chronik/oesterreich/coronafaelle-in-oesterreich-das-sind-die-aktuell-am-staerksten-betroffenen-bezirke/401096217"
+      "id" : "AS1oNGKj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/21/93/crops/w=1280/567018_opener_193193_post-paketzentrum-07.jpg?s=dfe3cf8a90b54493145a64ba91990ae34348ac08",
+      "titleSource" : "Pakete vor Wohnungstüren gestohlen",
+      "titleTarget" : "Paketi ukradeni ispred vrata stana",
+      "url" : "https://tirol.orf.at/stories/3075935/"
     }, {
-      "id" : "W3b5Y4lP",
-      "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
-      "titleSource" : "Wieder Höchstwert: 9.568 Neuinfektionen österreichweit",
-      "titleTarget" : "Opet velika vrijednost: 9 568 novih infekcija u cijeloj Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/wieder-hoechstwert-9568-neuinfektionen-oesterreichweit/401093757"
+      "id" : "0JJrT7fT",
+      "imgUrl" : "https://image.kurier.at/images/original/4759269/46-168866608.jpg",
+      "titleSource" : "85 neue Todesfälle; Neuinfektionen: Österreich weltweit Spitzenreiter",
+      "titleTarget" : "85 novih smrtnih slučajeva; Nove infekcije: Austrija prednjači u svijetu",
+      "url" : "https://kurier.at/chronik/oesterreich/endspurt-die-letzten-meter-vor-dem-impfstoff-ziel-kommt-eine-home-office-steuer/401097429"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "lmDMdYA2",
-      "imgUrl" : "https://image.kurier.at/images/original/4712235/echomedia-gratisbuch-wien.png",
-      "titleSource" : "Gratisbuch wird ab sofort verteilt: \"29 Kurzgeschichten aus Wien\"",
-      "titleTarget" : "Sada se distribuira besplatna knjiga: \"29 kratkih priča iz Beča\"",
-      "url" : "https://kurier.at/kultur/gratisbuch-wird-ab-freitag-verteilt-29-kurzgeschichten-aus-wien/401096895"
-    }, {
-      "id" : "bu292NIg",
-      "imgUrl" : "https://image.kurier.at/images/original/4757478/gutenachtoesterreich_00.png",
-      "titleSource" : "Klien kämpft um seine Show: Voting-Erfolg beim Kabarettpreis",
-      "titleTarget" : "Klien se bori za svoju emisiju: Uspjeh u glasanju na dodjeli kabarea",
-      "url" : "https://kurier.at/kultur/medien/kabarettpreis-peter-klien-kaempft-mit-voting-erfolg-um-seine-show-gute-nacht-oesterreich/401096763"
-    }, {
       "id" : "gQHxU52M",
       "imgUrl" : "https://image.kurier.at/images/original/4756839/46-167497041.jpg",
       "titleSource" : "Buchkritik: Gerd Schilddorfer und sein \"Tartarus Projekt\"",
       "titleTarget" : "Prikaz knjige: Gerd Schilddorfer i njegov \"Projekt Tartarus\"",
       "url" : "https://kurier.at/kultur/buch/buchkritik-gerd-schilddorfer-und-sein-tartarus-projekt/401096271"
     }, {
-      "id" : "Hq5NT66i",
-      "imgUrl" : "https://image.kurier.at/images/original/4756908/46-106488770.jpg",
-      "titleSource" : "Josef Winklers außerirdisches Alphabet wird fortgesetzt",
-      "titleTarget" : "Vanzemaljska abeceda Josefa Winklera nastavlja se",
-      "url" : "https://kurier.at/kultur/buch/josef-winklers-ausserirdisches-alphabet-wird-fortgesetzt/401096274"
+      "id" : "8Pr3jJbP",
+      "imgUrl" : "https://image.kurier.at/images/original/4759236/46-168878874.jpg",
+      "titleSource" : "Dancing Stars: 848.000 sahen Aus für Oberhauser",
+      "titleTarget" : "Dancing Stars: 848 000 pazilo je na Oberhausera",
+      "url" : "https://kurier.at/kultur/medien/dancing-stars-848000-sahen-aus-fuer-oberhauser/401097675"
     }, {
-      "id" : "TFegvQwO",
-      "imgUrl" : "https://image.kurier.at/images/original/2728589/78452305843677496_BLD_Online.jpg",
-      "titleSource" : "Arnold Schwarzenegger bekommt Spionage-Serie bei Netflix",
-      "titleTarget" : "Arnold Schwarzenegger dobiva špijunsku seriju na Netflixu",
-      "url" : "https://kurier.at/kultur/medien/arnold-schwarzenegger-bekommt-spionage-serie-bei-netflix/401096244"
+      "id" : "yspRAPFK",
+      "imgUrl" : "https://image.kurier.at/images/original/4758993/46-105180934.jpg",
+      "titleSource" : "Scala in Mailand: Corona-Cluster mit 50 Infizierten",
+      "titleTarget" : "Scala u Milanu: Grozd Corona s 50 zaraženih",
+      "url" : "https://kurier.at/kultur/scala-in-mailand-corona-cluster-mit-50-infizierten/401097573"
     }, {
-      "id" : "kWQu6WRr",
-      "imgUrl" : "https://image.kurier.at/images/original/4756821/apv_friends_12c_warner_bros._entertainment_inc.v4.9.2.jpg",
-      "titleSource" : "\"Friends\"-Reunion auf 2021 verschoben",
-      "titleTarget" : "Okupljanje \"prijatelja\" odgođeno za 2021",
-      "url" : "https://kurier.at/kultur/medien/friends-reunion-auf-2021-verschoben/401096262"
+      "id" : "zRBjIlBG",
+      "imgUrl" : "https://image.kurier.at/images/original/4758723/46-154573457.jpg",
+      "titleSource" : "Will Smith noch einmal als \"Prinz von Bel Air\": So emotional ist die Reunion",
+      "titleTarget" : "Will Smith ponovno kao \"Princ s Bel Aira\": Okupljanje je tako emotivno",
+      "url" : "https://kurier.at/kultur/will-smith-noch-einmal-als-prinz-von-bel-air-so-emotional-ist-die-reunion/401097315"
     }, {
-      "id" : "Bh0W5vQN",
-      "imgUrl" : "https://image.kurier.at/images/original/4757352/46-168854008.jpg",
-      "titleSource" : "Festival der Architektur: Open House heuer online",
-      "titleTarget" : "Festival arhitekture: Otvorena kuća ove godine na mreži",
-      "url" : "https://kurier.at/kultur/festival-der-architektur-open-house-heuer-online/401096487"
+      "id" : "oc3GfcrI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/a/1/5897633/90E95C16-0DEC-4FE0-9D39-81BE2C1B485E_1605363538620851.jpg",
+      "titleSource" : "The Antlers: Jetzt verwelken die Blumen",
+      "titleTarget" : "Rogovi: Sad cvijeće blijedi",
+      "url" : "https://www.diepresse.com/5897633/Song-der-Woche_The-Antlers_Jetzt-verwelken-die-Blumen?from=rss"
+    }, {
+      "id" : "IYUSafQA",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/b/7/5897399/9B22674F-85B8-4279-84DC-C759F0732269_1605292633797327.jpg",
+      "titleSource" : "Mord in High-gate: Ein cleverer Todesfall",
+      "titleTarget" : "Ubojstvo u High-gateu: Pametna smrt",
+      "url" : "https://www.diepresse.com/5897399/Buchbesprechung_Mord-in-Highgate_Ein-cleverer-Todesfall?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,11 +179,31 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "3Ydr48z2",
-      "imgUrl" : "https://image.kurier.at/images/original/4758729/46-147023661.jpg",
-      "titleSource" : "2:3 in der Türkei: Österreichs U21 verspielt die EM-Chance",
-      "titleTarget" : "2: 3 u Turskoj: Austrijski U21 prokockali su priliku za EM",
-      "url" : "https://kurier.at/sport/fussball/23-in-der-tuerkei-oesterreichs-u21-verspielt-die-em-chance/401097324"
+      "id" : "EIliidqh",
+      "imgUrl" : "https://image.kurier.at/images/original/4759062/46-161851851.jpg",
+      "titleSource" : "Verständnis des organisierten Sports für neue Corona-Maßnahmen",
+      "titleTarget" : "Razumijevanje organiziranog sporta za nove mjere korone",
+      "url" : "https://kurier.at/sport/profisport-auch-mit-niedrigem-corona-infektionsgrad-erlaubt/401097630"
+    }, {
+      "id" : "0aja6y9k",
+      "titleSource" : "Profisport mit niedrigem Infektionsgrad erlaubt",
+      "titleTarget" : "Dopušten profesionalni sport s malim stupnjem zaraze",
+      "url" : "https://sport.orf.at/stories/3069329/"
+    }, {
+      "id" : "8rWPLQAH",
+      "titleSource" : "Stroll holt sich Pole in Istanbul",
+      "titleTarget" : "Šetnja zauzima pol u Istanbulu",
+      "url" : "https://sport.orf.at/stories/3069323/"
+    }, {
+      "id" : "QsDFKzF3",
+      "titleSource" : "Norwegens Team darf nicht nach Wien",
+      "titleTarget" : "Norveška momčad ne smije ići u Beč",
+      "url" : "https://sport.orf.at/stories/3069335/"
+    }, {
+      "id" : "T0luOl9U",
+      "titleSource" : "Mir zeigt in Valencia-Quali Nerven",
+      "titleTarget" : "Pokažite mi živce u kvalifikacijama za Valenciju",
+      "url" : "https://sport.orf.at/stories/3069336/"
     }, {
       "id" : "YJWnVtrV",
       "imgUrl" : "https://image.kurier.at/images/original/4758144/46-130126596.jpg",
@@ -197,33 +211,11 @@
       "titleTarget" : "ÖFB tim: Čekanje podlog brata Arnautovića",
       "url" : "https://kurier.at/sport/fussball/oefb-team-das-warten-auf-schmaehbruder-arnautovic/401097054"
     }, {
-      "id" : "EkYf1gjp",
-      "titleSource" : "Geteilte Meinungen zu November-Spielen",
-      "titleTarget" : "Podijeljena mišljenja o igrama u studenom",
-      "url" : "https://sport.orf.at/stories/3069263/"
-    }, {
-      "id" : "K77qhjyM",
-      "imgUrl" : "https://image.kurier.at/images/original/4756956/46-158923342.jpg",
-      "titleSource" : "Wegen Corona: Flugverbot für die Skispringerinnen",
-      "titleTarget" : "Zbog Corone: zabrana leta za skakače",
-      "url" : "https://kurier.at/sport/wintersport/wegen-corona-flugverbot-fuer-die-skispringerinnen/401096412"
-    }, {
-      "id" : "YqVeIqUS",
-      "imgUrl" : "https://image.kurier.at/images/original/4757610/46-168855174.jpg",
-      "titleSource" : "Salzburgs Szoboszlai landet auf \"AS\"-Titelseite - und bald bei Real?",
-      "titleTarget" : "Salzburški Szoboszlai slijeće na naslovnicu \"AS\" - a uskoro i u Real?",
-      "url" : "https://kurier.at/sport/fussball/fussball-salzburg-star-szoboszlai-landet-auf-as-titelseite-bald-bei-real/401096745"
-    }, {
-      "id" : "LKfheSdT",
-      "imgUrl" : "https://image.kurier.at/images/original/4757676/46-168547208.jpg",
-      "titleSource" : "Jürgen Melzer zum dritten Mal für ATP Finals qualifiziert",
-      "titleTarget" : "Jürgen Melzer po treći se put plasirao u ATP finale",
-      "url" : "https://kurier.at/sport/tennis/tennis-juergen-melzer-zum-dritten-mal-fuer-atp-finals-qualifiziert/401096781"
-    }, {
-      "id" : "v4jljPhn",
-      "titleSource" : "Freude über Arnautovic-Rückkehr",
-      "titleTarget" : "Radost zbog Arnautovićeva povratka",
-      "url" : "https://sport.orf.at/stories/3069303/"
+      "id" : "3Ydr48z2",
+      "imgUrl" : "https://image.kurier.at/images/original/4758729/46-147023661.jpg",
+      "titleSource" : "2:3 in der Türkei: Österreichs U21 verspielt die EM-Chance",
+      "titleTarget" : "2: 3 u Turskoj: Austrijski U21 prokockali su priliku za EM",
+      "url" : "https://kurier.at/sport/fussball/23-in-der-tuerkei-oesterreichs-u21-verspielt-die-em-chance/401097324"
     } ]
   } ],
   "country" : "austria",
