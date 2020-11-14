@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "PpDwbaBa",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/7/5896983/6691C5B4-9F58-4C0A-B297-7EBF7C36DDEA_v0_h.jpg",
-      "titleSource" : "\"März-ähnlicher Lockdown\" ab nächster Woche",
-      "titleTarget" : "\"Zaključavanje nalik ožujku\" počevši od sljedećeg tjedna",
-      "url" : "https://www.diepresse.com/5896983/CoronaMassnahmen_Maerzaehnlicher-Lockdown-ab-naechster-Woche?from=rss"
-    }, {
       "id" : "Oex4hMGE",
       "imgUrl" : "https://image.kurier.at/images/original/4758582/46-19811198.jpg",
       "titleSource" : "\"Gefahr im Verzug\": So soll der neue, harte Lockdown aussehen",
       "titleTarget" : "\"Neposredna opasnost\": Tako bi trebalo izgledati novo, čvrsto zaključavanje",
       "url" : "https://kurier.at/politik/inland/gefahr-im-verzug-jetzt-kommt-der-harte-lockdown/401097249"
     }, {
-      "id" : "hPQV44gg",
-      "imgUrl" : "https://image.kurier.at/images/original/4747455/46-168652904.jpg",
-      "titleSource" : "Spitalskapazitäten: 50 Prozent Intensivbetten belegt",
-      "titleTarget" : "Kapacitet bolnice: 50 posto zauzetih kreveta za intenzivnu njegu",
-      "url" : "https://kurier.at/politik/inland/spitalskapazitaeten-50-prozent-intensivbetten-belegt/401096112"
+      "id" : "PpDwbaBa",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/7/5896983/6691C5B4-9F58-4C0A-B297-7EBF7C36DDEA_v0_h.jpg",
+      "titleSource" : "\"März-ähnlicher Lockdown\" ab nächster Woche",
+      "titleTarget" : "\"Zaključavanje nalik ožujku\" počevši od sljedećeg tjedna",
+      "url" : "https://www.diepresse.com/5896983/CoronaMassnahmen_Maerzaehnlicher-Lockdown-ab-naechster-Woche?from=rss"
     }, {
       "id" : "eCacZ4pn",
       "imgUrl" : "https://image.kurier.at/images/original/4757649/20201113-ABD0039-1-1.jpg",
@@ -43,6 +37,12 @@
       "titleSource" : "Terrorattentat: Kommissionsbericht wird veröffentlicht",
       "titleTarget" : "Teroristički napad: objavljuje se izvješće Komisije",
       "url" : "https://kurier.at/politik/inland/terrorattentat/401096340"
+    }, {
+      "id" : "Qlq2WslF",
+      "imgUrl" : "https://image.kurier.at/images/original/4714365/81731350857099944_BLD_Online.jpg",
+      "titleSource" : "Coronavirus: Szenarien für die Schule",
+      "titleTarget" : "Koronavirus: scenariji za školu",
+      "url" : "https://kurier.at/politik/inland/coronavirus-szenarien-fuer-die-schule/401096679"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,35 +59,35 @@
       "titleTarget" : "Teško zaključavanje: Zamjena prihoda od 40 ili 80% za maloprodaju?",
       "url" : "https://kurier.at/wirtschaft/verschaerfter-lockdown-bluemel-verspricht-hilfe-fuer-betriebe/401097369"
     }, {
+      "id" : "MCF7jC5w",
+      "imgUrl" : "https://image.kurier.at/images/original/4702620/20201016-ABD0050-1-1.jpg",
+      "titleSource" : "Commerzialbank: Republik soll 303 Millionen Euro Schadenersatz zahlen",
+      "titleTarget" : "Commerzialbank: Republika će platiti odštetu od 303 milijuna eura",
+      "url" : "https://kurier.at/wirtschaft/commerzial-republik-soll-303-millionen-euro-schadenersatz-zahlen/401096901"
+    }, {
       "id" : "GyXpH0kw",
       "imgUrl" : "https://image.kurier.at/images/original/4689879/46-163909233.jpg",
       "titleSource" : "Idee aus Deutschland: Kommt jetzt die Home-Office-Steuer?",
       "titleTarget" : "Ideja iz Njemačke: dolazi li sada porez na kućni ured?",
       "url" : "https://kurier.at/wirtschaft/idee-aus-deutschland-kommt-jetzt-die-home-office-steuer/401097258"
     }, {
-      "id" : "554tnHSR",
-      "imgUrl" : "https://image.kurier.at/images/original/4757502/78370011357483408_BLD_Online.jpg",
-      "titleSource" : "Handels-KV: Arbeiter erhalten auch Lohnplus von 1,5 Prozent",
-      "titleTarget" : "Komercijalni KV: radnici također primaju plaće od 1,5 posto",
-      "url" : "https://kurier.at/wirtschaft/handels-kv-arbeiter-erhalten-auch-lohnplus-von-15-prozent/401097183"
+      "id" : "bEdlhO3G",
+      "imgUrl" : "https://image.kurier.at/images/original/4003689/46-149269440.jpg",
+      "titleSource" : "Ein Blick auf den Immobilienmarkt - wie geht’s weiter?",
+      "titleTarget" : "Pogled na tržište nekretnina - što je sljedeće?",
+      "url" : "https://kurier.at/wirtschaft/immobiz/ein-blick-auf-den-immobilienmarkt-wie-gehts-weiter/401095524"
     }, {
-      "id" : "vSLJV1P6",
-      "imgUrl" : "https://image.kurier.at/images/original/4319786/post.jpg",
-      "titleSource" : "Post kämpft mit rückläufigen Briefen und Startkosten für bank99",
-      "titleTarget" : "Pošta se bori s padom slova i početnim troškovima banke99",
-      "url" : "https://kurier.at/wirtschaft/post-kaempft-mit-ruecklaeufigen-briefen-und-startkosten-fuer-bank99/401096250"
+      "id" : "PENDKoQa",
+      "imgUrl" : "https://image.kurier.at/images/original/4755405/46-168829044.jpg",
+      "titleSource" : "Einmal Taiwanesisch freihaus",
+      "titleTarget" : "Jedan tajvanski slobodni dom",
+      "url" : "https://kurier.at/wirtschaft/karriere/einmal-taiwanesisch-freihaus/401095443"
     }, {
-      "id" : "XL6V7Ahh",
-      "imgUrl" : "https://image.kurier.at/images/original/1287216/Leere_Taschen_Pleite_Insolvenz_c_dpa_Heiko-Wolfram.jpg",
-      "titleSource" : "Weiterhin wenige Insolvenzen bei Unternehmen in Deutschland",
-      "titleTarget" : "Još uvijek nekoliko bankrota među tvrtkama u Njemačkoj",
-      "url" : "https://kurier.at/wirtschaft/weiterhin-wenige-insolvenzen-bei-unternehmen-in-deutschland/401096325"
-    }, {
-      "id" : "kCXVzBsy",
-      "imgUrl" : "https://image.kurier.at/images/original/2088877/disney_paris-000_Reuters_BENOIT%252BTESSIER.jpg",
-      "titleSource" : "Disney macht weiter Verlust, Streaming-Geschäft boomt aber",
-      "titleTarget" : "Disney i dalje gubi novac, ali streaming posao cvjeta",
-      "url" : "https://kurier.at/wirtschaft/disney-macht-weiter-verlust-streaming-geschaeft-boomt-aber/401096370"
+      "id" : "lFXtVf42",
+      "imgUrl" : "https://image.kurier.at/images/original/4755471/46-168772524.jpg",
+      "titleSource" : "Second-Hand-Händler: „Wir geben Dingen ein zweites Leben“",
+      "titleTarget" : "Prodavač rabljenih automobila: \"Dajemo stvarima drugi život\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/second-hand-haendler-wir-geben-dingen-ein-zweites-leben/401095470"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,11 +98,11 @@
       "titleTarget" : "Testovi za ispiranje grla Corona u školama: 40 od 10 000 sudionika pozitivno",
       "url" : "https://kurier.at/chronik/oesterreich/corona-gurgeltests-in-schulen-40-von-10000-teilnehmern-positiv/401096331"
     }, {
-      "id" : "UHWcRPhe",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/80/crops/w=1280/751772_opener_260980_pk.jpeg?s=63760cb23aa7375aedae87990b3bc37dd9cd3cf6",
-      "titleSource" : "Situation in den Spitälern spitzt sich zu",
-      "titleTarget" : "Situacija u bolnicama dolazi do vrhunca",
-      "url" : "https://vorarlberg.orf.at/stories/3075869/"
+      "id" : "bFRTHWXw",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/70/crops/w=1280/751202_opener_260770_abd0024.jpg?s=14c086b5318767dfbda1770ca5e1aa0da5d4122c",
+      "titleSource" : "NEOS für Unterricht in Hotel-Seminarräumen",
+      "titleTarget" : "NEOS za lekcije u hotelskim seminarskim sobama",
+      "url" : "https://tirol.orf.at/stories/3075932/"
     }, {
       "id" : "T0OY09Bs",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/90/crops/w=1280/752070_opener_261090_intensivpfleger.jpg?s=1017746f0baa6df1a8e50238b4d242d0353617c4",
@@ -110,17 +110,17 @@
       "titleTarget" : "Pacijenti na intenzivnoj njezi bore se s otežanim disanjem i strahom",
       "url" : "https://vorarlberg.orf.at/stories/3075901/"
     }, {
-      "id" : "WANT3hdn",
-      "imgUrl" : "https://image.kurier.at/images/original/4616474/corona-ampel_1.png",
-      "titleSource" : "Corona-Ampel: Die aktuelle Schaltung auf Gemeindeebene im Überblick",
-      "titleTarget" : "Koronski semafor: Pregled trenutnog kruga na razini zajednice",
-      "url" : "https://kurier.at/chronik/oesterreich/so-sieht-die-aktuelle-corona-ampel-aus/401021141"
-    }, {
       "id" : "1bRCyTH6",
       "imgUrl" : "https://image.kurier.at/images/original/4758234/46-168611159.jpg",
       "titleSource" : "\"Dramatische Situation\" in Vorarlbergs Krankenhäusern",
       "titleTarget" : "\"Dramatična situacija\" u vorarlberškim bolnicama",
       "url" : "https://kurier.at/chronik/oesterreich/dramatische-situation-in-vorarlbergs-krankenhaeusern/401097093"
+    }, {
+      "id" : "WANT3hdn",
+      "imgUrl" : "https://image.kurier.at/images/original/4616474/corona-ampel_1.png",
+      "titleSource" : "Corona-Ampel: Die aktuelle Schaltung auf Gemeindeebene im Überblick",
+      "titleTarget" : "Koronski semafor: Pregled trenutnog kruga na razini zajednice",
+      "url" : "https://kurier.at/chronik/oesterreich/so-sieht-die-aktuelle-corona-ampel-aus/401021141"
     }, {
       "id" : "0LahWHBC",
       "imgUrl" : "https://image.kurier.at/images/original/4756797/46-168652944.jpg",
@@ -149,6 +149,12 @@
       "titleTarget" : "Klien se bori za svoju emisiju: Uspjeh u glasanju na dodjeli kabarea",
       "url" : "https://kurier.at/kultur/medien/kabarettpreis-peter-klien-kaempft-mit-voting-erfolg-um-seine-show-gute-nacht-oesterreich/401096763"
     }, {
+      "id" : "gQHxU52M",
+      "imgUrl" : "https://image.kurier.at/images/original/4756839/46-167497041.jpg",
+      "titleSource" : "Buchkritik: Gerd Schilddorfer und sein \"Tartarus Projekt\"",
+      "titleTarget" : "Prikaz knjige: Gerd Schilddorfer i njegov \"Projekt Tartarus\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-gerd-schilddorfer-und-sein-tartarus-projekt/401096271"
+    }, {
       "id" : "Hq5NT66i",
       "imgUrl" : "https://image.kurier.at/images/original/4756908/46-106488770.jpg",
       "titleSource" : "Josef Winklers außerirdisches Alphabet wird fortgesetzt",
@@ -172,12 +178,6 @@
       "titleSource" : "Festival der Architektur: Open House heuer online",
       "titleTarget" : "Festival arhitekture: Otvorena kuća ove godine na mreži",
       "url" : "https://kurier.at/kultur/festival-der-architektur-open-house-heuer-online/401096487"
-    }, {
-      "id" : "ULJ1R2M0",
-      "imgUrl" : "https://image.kurier.at/images/original/4250999/46-112249150.jpg",
-      "titleSource" : "R&B-Star The Weeknd soll beim Super Bowl auftreten",
-      "titleTarget" : "R&B zvijezda The Weeknd trebao bi nastupiti na Super Bowlu",
-      "url" : "https://kurier.at/kultur/rb-star-the-weeknd-soll-beim-super-bowl-auftreten/401096673"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,16 +185,17 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "KPzY7sRZ",
-      "titleSource" : "Spätes Highlight für Jürgen Melzer",
-      "titleTarget" : "Kasni vrhunac za Jürgena Melzera",
-      "url" : "https://sport.orf.at/stories/3069292/"
-    }, {
       "id" : "3Ydr48z2",
       "imgUrl" : "https://image.kurier.at/images/original/4758729/46-147023661.jpg",
       "titleSource" : "2:3 in der Türkei: Österreichs U21 verspielt die EM-Chance",
       "titleTarget" : "2: 3 u Turskoj: Austrijski U21 prokockali su priliku za EM",
       "url" : "https://kurier.at/sport/fussball/23-in-der-tuerkei-oesterreichs-u21-verspielt-die-em-chance/401097324"
+    }, {
+      "id" : "YJWnVtrV",
+      "imgUrl" : "https://image.kurier.at/images/original/4758144/46-130126596.jpg",
+      "titleSource" : "ÖFB-Team: Das Warten auf Schmähbruder Arnautovic",
+      "titleTarget" : "ÖFB tim: Čekanje podlog brata Arnautovića",
+      "url" : "https://kurier.at/sport/fussball/oefb-team-das-warten-auf-schmaehbruder-arnautovic/401097054"
     }, {
       "id" : "EkYf1gjp",
       "titleSource" : "Geteilte Meinungen zu November-Spielen",
@@ -219,10 +220,10 @@
       "titleTarget" : "Jürgen Melzer po treći se put plasirao u ATP finale",
       "url" : "https://kurier.at/sport/tennis/tennis-juergen-melzer-zum-dritten-mal-fuer-atp-finals-qualifiziert/401096781"
     }, {
-      "id" : "RVzCXI9p",
-      "titleSource" : "Wiesberger nach zweiter Masters-Runde mit Cut-Chancen",
-      "titleTarget" : "Wiesberger nakon druge runde Mastersa s presječenim izgledima",
-      "url" : "https://sport.orf.at/stories/3069318/"
+      "id" : "v4jljPhn",
+      "titleSource" : "Freude über Arnautovic-Rückkehr",
+      "titleTarget" : "Radost zbog Arnautovićeva povratka",
+      "url" : "https://sport.orf.at/stories/3069303/"
     } ]
   } ],
   "country" : "austria",
