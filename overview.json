@@ -14,17 +14,17 @@
       "titleTarget" : "Liječnik intenzivne njege: Zdravstveni sustav u potpunosti iskorišten, predstoji trijaža",
       "url" : "https://kurier.at/politik/inland/pk-im-live-stream-so-beurteilen-intensivmediziner-die-lage/401097624"
     }, {
-      "id" : "yKhpaIyV",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/3/9/5897529/C127C03F-A5AB-4391-A307-7BDFE14AA63D_v0_h.jpg",
-      "titleSource" : "Ausgangsbeschränkungen auch tagsüber: Was in der Verordnung steht",
-      "titleTarget" : "Ograničenja izlaza i tijekom dana: Što je u uredbi",
-      "url" : "https://www.diepresse.com/5897529/CoronaMassnahmen_Ausgangsbeschraenkungen-auch-tagsueber_Was-in?from=rss"
-    }, {
       "id" : "1ADyDRgJ",
       "imgUrl" : "https://image.kurier.at/images/original/4759563/46-168883474.jpg",
       "titleSource" : "Regierung zu Lockdown: \"Treffen Sie niemanden\"; \"Letzte Chance, Kollaps zu verhindern\"",
       "titleTarget" : "Vlada o zaključavanju: \"Ne upoznajte nikoga\"; \"Posljednja šansa da se spriječi kolaps\"",
       "url" : "https://kurier.at/politik/inland/regierung-zu-lockdown-treffen-sie-niemanden-letzte-chance-kollaps-zu-verhindern/401097747"
+    }, {
+      "id" : "yKhpaIyV",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/3/9/5897529/C127C03F-A5AB-4391-A307-7BDFE14AA63D_v0_h.jpg",
+      "titleSource" : "Ausgangsbeschränkungen auch tagsüber: Was in der Verordnung steht",
+      "titleTarget" : "Ograničenja izlaza i tijekom dana: Što je u uredbi",
+      "url" : "https://www.diepresse.com/5897529/CoronaMassnahmen_Ausgangsbeschraenkungen-auch-tagsueber_Was-in?from=rss"
     }, {
       "id" : "5yNF129G",
       "imgUrl" : "https://image.kurier.at/images/original/4759692/46-164645182.jpg",
@@ -38,21 +38,15 @@
       "titleTarget" : "Škole se moraju prebaciti na učenje na daljinu",
       "url" : "https://kurier.at/politik/inland/live-stream-so-geht-es-mit-schulen-wirtschaft-und-arbeit-weiter/401097753"
     }, {
-      "id" : "TNiMOZof",
-      "imgUrl" : "https://image.kurier.at/images/original/4758831/46-168680673.jpg",
-      "titleSource" : "Anti-Terror-Paket: Zadić schließt Präventivhaft aus",
-      "titleTarget" : "Antiteroristički paket: Zadić isključuje preventivni pritvor",
-      "url" : "https://kurier.at/politik/inland/anti-terror-paket-zadic-schliesst-praeventivhaft-aus/401097432"
+      "id" : "QMgdFlKT",
+      "imgUrl" : "https://image.kurier.at/images/original/4191158/46-163423699.jpg",
+      "titleSource" : "Lockdown: Schulen für alle offen, die Unterstützung benötigen",
+      "titleTarget" : "Zaključavanje: škole otvorene za sve kojima je potrebna podrška",
+      "url" : "https://kurier.at/politik/inland/lockdown-so-geht-es-in-den-schulen-weiter/401097990"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "MCF7jC5w",
-      "imgUrl" : "https://image.kurier.at/images/original/4702620/20201016-ABD0050-1-1.jpg",
-      "titleSource" : "Commerzialbank: Republik soll 303 Millionen Euro Schadenersatz zahlen",
-      "titleTarget" : "Commerzialbank: Republika će platiti odštetu od 303 milijuna eura",
-      "url" : "https://kurier.at/wirtschaft/commerzial-republik-soll-303-millionen-euro-schadenersatz-zahlen/401096901"
-    }, {
       "id" : "bIAjmSNQ",
       "imgUrl" : "https://image.kurier.at/images/original/4759068/46-168775587.jpg",
       "titleSource" : "Ermittlungen wegen Wahlbetrug bei Wirtschaftskammerwahl im Burgenland",
@@ -61,9 +55,15 @@
     }, {
       "id" : "4o2jqvmi",
       "imgUrl" : "https://image.kurier.at/images/original/4758396/46-167654508.jpg",
-      "titleSource" : "Händler: „Weihnachtsertrag widmen wir heuer Amerika“",
+      "titleSource" : "Händler: \"Weihnachtsertrag widmen wir heuer Amerika\"",
       "titleTarget" : "Trgovac: \"Ove godine posvećujemo božićni urod Americi\"",
       "url" : "https://kurier.at/wirtschaft/haendler-weihnachtsertrag-widmen-wir-heuer-amerika/401097858"
+    }, {
+      "id" : "clZdrjbR",
+      "imgUrl" : "https://image.kurier.at/images/original/4759965/46-168892479.jpg",
+      "titleSource" : "China schmiedet größten Freihandelspakt der Welt",
+      "titleTarget" : "Kina je sklopila najveći svjetski pakt o slobodnoj trgovini",
+      "url" : "https://kurier.at/wirtschaft/wirtschaft-von-innen/china-schmiedet-groessten-freihandelspakt-der-welt/401097999"
     }, {
       "id" : "W8Syite9",
       "imgUrl" : "https://image.kurier.at/images/original/4759206/46-76335570.jpg",
@@ -71,23 +71,23 @@
       "titleTarget" : "Corona: Novac za porez i za automate za igre na sreću",
       "url" : "https://kurier.at/wirtschaft/corona-steuergeld-auch-fuer-gluecksspielautomaten/401097660"
     }, {
-      "id" : "bEdlhO3G",
-      "imgUrl" : "https://image.kurier.at/images/original/4003689/46-149269440.jpg",
-      "titleSource" : "Ein Blick auf den Immobilienmarkt - wie geht’s weiter?",
-      "titleTarget" : "Pogled na tržište nekretnina - što je sljedeće?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/ein-blick-auf-den-immobilienmarkt-wie-gehts-weiter/401095524"
+      "id" : "GyBpN54Z",
+      "imgUrl" : "https://image.kurier.at/images/original/4754487/46-168778005.jpg",
+      "titleSource" : "Interview: \"Niemand kommt zur Cobra wegen der Bezahlung\"",
+      "titleTarget" : "Intervju: \"Nitko ne dolazi na naplatu u Cobru\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/interview-niemand-kommt-zur-cobra-wegen-der-bezahlung/401094816"
     }, {
-      "id" : "lFXtVf42",
-      "imgUrl" : "https://image.kurier.at/images/original/4755471/46-168772524.jpg",
-      "titleSource" : "Second-Hand-Händler: „Wir geben Dingen ein zweites Leben“",
-      "titleTarget" : "Prodavač rabljenih automobila: \"Dajemo stvarima drugi život\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/second-hand-haendler-wir-geben-dingen-ein-zweites-leben/401095470"
+      "id" : "h1XgyazO",
+      "imgUrl" : "https://image.kurier.at/images/original/4755540/46-168785432.jpg",
+      "titleSource" : "Alles neu: Zukünftige Materialien und Fertigteile am Bau",
+      "titleTarget" : "Sve novo: budući materijali i montažni dijelovi u gradnji",
+      "url" : "https://kurier.at/wirtschaft/immobiz/alles-neu-zukuenftige-materialien-und-fertigteile-am-bau/401095536"
     }, {
-      "id" : "N2asVgWT",
-      "imgUrl" : "https://image.kurier.at/images/original/4758945/46-163716696.jpg",
-      "titleSource" : "Trio stahl in Tirol vor Eingangstüren deponierte Pakete",
-      "titleTarget" : "Trio je ukrao pakete položene ispred ulaznih vrata u Tirolu",
-      "url" : "https://kurier.at/wirtschaft/trio-stahl-in-tirol-vor-eingangstueren-deponierte-pakete/401097528"
+      "id" : "wdwgQbVk",
+      "imgUrl" : "https://image.kurier.at/images/original/3437239/46-109944910.jpg",
+      "titleSource" : "Arbeitnehmer berichten, dass ihre Chefs Covid-19 verharmlosen",
+      "titleTarget" : "Radnici izvještavaju da njihovi šefovi igraju protiv Covid-19",
+      "url" : "https://kurier.at/wirtschaft/arbeitnehmer-berichten-dass-ihre-chef-covid-19-verharmlosen/401098050"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -110,12 +110,6 @@
       "titleTarget" : "Wallner: \"Nužno se zaustavlja\"",
       "url" : "https://vorarlberg.orf.at/stories/3075999/"
     }, {
-      "id" : "0JJrT7fT",
-      "imgUrl" : "https://image.kurier.at/images/original/4759269/46-168866608.jpg",
-      "titleSource" : "85 neue Todesfälle; Neuinfektionen: Österreich weltweit Spitzenreiter",
-      "titleTarget" : "85 novih smrtnih slučajeva; Nove infekcije: Austrija prednjači u svijetu",
-      "url" : "https://kurier.at/chronik/oesterreich/endspurt-die-letzten-meter-vor-dem-impfstoff-ziel-kommt-eine-home-office-steuer/401097429"
-    }, {
       "id" : "9MjEgMNj",
       "imgUrl" : "https://image.kurier.at/images/original/4759290/46-149603567.jpg",
       "titleSource" : "Corona: Virenbelastetes Fleisch aus Südamerika in China gefunden",
@@ -128,20 +122,26 @@
       "titleTarget" : "Operacija \"Luxor\": osigurano više od 20 milijuna eura imovine",
       "url" : "https://kurier.at/chronik/oesterreich/operation-luxor-ueber-20-millionen-euro-vermoegen-sichergestellt/401097669"
     }, {
-      "id" : "2U3SUe5R",
-      "imgUrl" : "https://image.kurier.at/images/original/4303100/46-163489294.jpg",
-      "titleSource" : "Mitten im Lockdown wird noch einmal gewählt",
-      "titleTarget" : "Usred zaključavanja još su jedan izbori",
-      "url" : "https://kurier.at/chronik/oesterreich/mitten-im-lockdown-wird-noch-einmal-gewaehlt/401097144"
+      "id" : "ewjdByUj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/91/crops/w=1280/749353_opener_260091_pa_batgur1.jpg?s=740084caab53d9b96d804d124e2cf0197255bf0c",
+      "titleSource" : "Tiergarten rettete Schildkröte vor Aussterben",
+      "titleTarget" : "Tiergarten je spasio kornjače od izumiranja",
+      "url" : "https://wien.orf.at/stories/3075466/"
+    }, {
+      "id" : "O1RXbrkA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/71/crops/w=1280/737658_opener_256071_dosko_.jpg?s=025bc96289e24978da5b44960011414247bde37b",
+      "titleSource" : "Doskozil: Harter Lockdown war vermeidbar",
+      "titleTarget" : "Doskozil: Moguće je izbjeći teško zaključavanje",
+      "url" : "https://burgenland.orf.at/stories/3075993/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "gQHxU52M",
-      "imgUrl" : "https://image.kurier.at/images/original/4756839/46-167497041.jpg",
-      "titleSource" : "Buchkritik: Gerd Schilddorfer und sein \"Tartarus Projekt\"",
-      "titleTarget" : "Prikaz knjige: Gerd Schilddorfer i njegov \"Projekt Tartarus\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-gerd-schilddorfer-und-sein-tartarus-projekt/401096271"
+      "id" : "JFAzeuMl",
+      "imgUrl" : "https://image.kurier.at/images/original/4759836/46-168628500.jpg",
+      "titleSource" : "ORF hält auch im Lockdown an \"Dancing Stars\" fest",
+      "titleTarget" : "ORF se drži \"Dancing Stars\" čak i u zaključavanju",
+      "url" : "https://kurier.at/kultur/medien/orf-haelt-auch-im-lockdown-an-dancing-stars-fest/401097906"
     }, {
       "id" : "yspRAPFK",
       "imgUrl" : "https://image.kurier.at/images/original/4758993/46-105180934.jpg",
@@ -149,17 +149,23 @@
       "titleTarget" : "Scala u Milanu: Grozd Corona s 50 zaraženih",
       "url" : "https://kurier.at/kultur/scala-in-mailand-corona-cluster-mit-50-infizierten/401097573"
     }, {
-      "id" : "JFAzeuMl",
-      "imgUrl" : "https://image.kurier.at/images/original/4759836/46-168628500.jpg",
-      "titleSource" : "ORF hält auch im Lockdown an \"Dancing Stars\" fest",
-      "titleTarget" : "ORF se drži \"Dancing Stars\" čak i u zaključavanju",
-      "url" : "https://kurier.at/kultur/medien/orf-haelt-auch-im-lockdown-an-dancing-stars-fest/401097906"
-    }, {
       "id" : "8Pr3jJbP",
       "imgUrl" : "https://image.kurier.at/images/original/4759236/46-168878874.jpg",
       "titleSource" : "Dancing Stars: 848.000 sahen Aus für Oberhauser",
       "titleTarget" : "Dancing Stars: 848 000 pazilo je na Oberhausera",
       "url" : "https://kurier.at/kultur/medien/dancing-stars-848000-sahen-aus-fuer-oberhauser/401097675"
+    }, {
+      "id" : "HCGXB8l1",
+      "imgUrl" : "https://image.kurier.at/images/original/4760052/46-105377633.jpg",
+      "titleSource" : "Chefin der Nationalbibliothek kritisiert Verordnungstext, Bibliotheken schließen",
+      "titleTarget" : "Voditelj Nacionalne knjižnice kritizira tekst propisa, knjižnice se zatvaraju",
+      "url" : "https://kurier.at/kultur/chefin-der-nationalbibliothek-kritisiert-verordnungstext-bibliotheken-schliessen/401098077"
+    }, {
+      "id" : "duaUAMnM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/9/5891321/8428068E-383B-4928-BA39-40AE257FE98C_v0_l.jpg",
+      "titleSource" : "Musiksalon Nr. 12: Verhindertes Strauss-Glück",
+      "titleTarget" : "Glazbeni salon br. 12: Spriječena Straussova sreća",
+      "url" : "https://www.diepresse.com/5896089/Hoertipp_Musiksalon-Nr-12_Verhindertes-StraussGlueck?from=rss"
     }, {
       "id" : "j1gPcd8e",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/0/c/5897740/Frueherer-Bild--Chefredakteur-Guenter-PRINZ-mit-91-Jahren-verstorben-Archivfoto-Guenter-PRINZ-Gonther-Chefredakte_1605383320018430.jpg",
@@ -172,12 +178,6 @@
       "titleSource" : "The Antlers: Jetzt verwelken die Blumen",
       "titleTarget" : "Rogovi: Sad cvijeće blijedi",
       "url" : "https://www.diepresse.com/5897633/Song-der-Woche_The-Antlers_Jetzt-verwelken-die-Blumen?from=rss"
-    }, {
-      "id" : "IYUSafQA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/b/7/5897399/9B22674F-85B8-4279-84DC-C759F0732269_1605292633797327.jpg",
-      "titleSource" : "Mord in High-gate: Ein cleverer Todesfall",
-      "titleTarget" : "Ubojstvo u High-gateu: Pametna smrt",
-      "url" : "https://www.diepresse.com/5897399/Buchbesprechung_Mord-in-Highgate_Ein-cleverer-Todesfall?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,27 +185,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "EIliidqh",
-      "imgUrl" : "https://image.kurier.at/images/original/4759062/46-161851851.jpg",
-      "titleSource" : "Verständnis des organisierten Sports für neue Corona-Maßnahmen",
-      "titleTarget" : "Razumijevanje organiziranog sporta za nove mjere korone",
-      "url" : "https://kurier.at/sport/profisport-auch-mit-niedrigem-corona-infektionsgrad-erlaubt/401097630"
-    }, {
       "id" : "eVobeSuc",
       "imgUrl" : "https://image.kurier.at/images/original/4759794/46-168756890.jpg",
       "titleSource" : "Große Erleichterung: Spitzensport im Lockdown weiter möglich",
       "titleTarget" : "Veliko olakšanje: vrhunski sport i dalje je moguć u zaključavanju",
       "url" : "https://kurier.at/sport/grosse-erleichterung-spitzensport-im-lockdown-weiter-moeglich-hobbysport-wird-hingegen-komplett/401097630"
     }, {
-      "id" : "0aja6y9k",
-      "titleSource" : "Profisport mit niedrigem Infektionsgrad erlaubt",
-      "titleTarget" : "Dopušten profesionalni sport s malim stupnjem zaraze",
-      "url" : "https://sport.orf.at/stories/3069329/"
-    }, {
-      "id" : "8rWPLQAH",
-      "titleSource" : "Stroll holt sich Pole in Istanbul",
-      "titleTarget" : "Šetnja zauzima pol u Istanbulu",
-      "url" : "https://sport.orf.at/stories/3069323/"
+      "id" : "Dq5D20Xz",
+      "titleSource" : "Österreich winkt kampflos Gruppensieg",
+      "titleTarget" : "Austrija pobjeđuje u skupini bez borbe",
+      "url" : "https://sport.orf.at/stories/3069342/"
     }, {
       "id" : "YQb9CCFW",
       "imgUrl" : "https://image.kurier.at/images/original/4759308/46-159907806.jpg",
@@ -213,15 +202,27 @@
       "titleTarget" : "Karana u Coroni: Norveški tim ne smije napustiti zemlju",
       "url" : "https://kurier.at/sport/fussball/corona-quarantaene-norwegens-team-darf-das-land-nicht-verlassen/401097714"
     }, {
-      "id" : "Dq5D20Xz",
-      "titleSource" : "Österreich winkt kampflos Gruppensieg",
-      "titleTarget" : "Austrija pobjeđuje u skupini bez borbe",
-      "url" : "https://sport.orf.at/stories/3069342/"
+      "id" : "KOfkNRxv",
+      "imgUrl" : "https://image.kurier.at/images/original/4759173/46-146701606.jpg",
+      "titleSource" : "Warum Ernst Hausleitner diesmal nicht Formel 1 kommentieren kann",
+      "titleTarget" : "Zašto Ernst Hausleitner ovaj put ne može komentirati Formulu 1",
+      "url" : "https://kurier.at/sport/motorsport/motorsport-medien-orf-warum-ernst-hausleitner-diesmal-nicht-die-formel-1-kommentieren-kann/401097657"
     }, {
-      "id" : "T0luOl9U",
-      "titleSource" : "Mir zeigt in Valencia-Quali Nerven",
-      "titleTarget" : "Pokažite mi živce u kvalifikacijama za Valenciju",
-      "url" : "https://sport.orf.at/stories/3069336/"
+      "id" : "oAplU18D",
+      "imgUrl" : "https://image.kurier.at/images/original/4759332/46-168879210.jpg",
+      "titleSource" : "Riesen-Theater im Qualifying: Lance Stroll auf Startplatz 1",
+      "titleTarget" : "Divovsko kazalište u kvalifikacijama: Lance Stroll na poziciji mreže 1",
+      "url" : "https://kurier.at/sport/motorsport/riesen-theater-im-formel-1-qualifying-lance-stroll-auf-startplatz-1/401097711"
+    }, {
+      "id" : "pwIwptmD",
+      "titleSource" : "Stand bei Thiem – Tsitsipas ab etwa 15.00 Uhr",
+      "titleTarget" : "Stanite u Thiem - Tsitsipas oko 15 sati.",
+      "url" : "https://sport.orf.at/stories/3069361/"
+    }, {
+      "id" : "QTjzQx95",
+      "titleSource" : "Foda fordert fünften Sieg in Folge",
+      "titleTarget" : "Foda traži petu pobjedu zaredom",
+      "url" : "https://sport.orf.at/stories/3069331/"
     } ]
   } ],
   "country" : "austria",
