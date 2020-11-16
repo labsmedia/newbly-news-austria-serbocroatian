@@ -8,17 +8,11 @@
       "titleTarget" : "Ukratko: testovi mase na kraju zaključavanja",
       "url" : "https://kurier.at/politik/inland/kurz-massentests-am-ende-des-lockdowns/401098107"
     }, {
-      "id" : "lkNd6vFf",
-      "imgUrl" : "https://image.kurier.at/images/original/4759746/46-168819786.jpg",
-      "titleSource" : "Melisa Erkurt: Jugendliche entwickeln Verschwörungstheorien zum Terror",
-      "titleTarget" : "Melisa Erkurt: Mladi razvijaju teorije zavjere o teroru",
-      "url" : "https://kurier.at/politik/inland/melisa-erkurt-jugendliche-entwickeln-verschwoerungstheorien-zum-terror/401097864"
-    }, {
-      "id" : "QMgdFlKT",
-      "imgUrl" : "https://image.kurier.at/images/original/4191158/46-163423699.jpg",
-      "titleSource" : "Lockdown: Schulen für alle offen, die Unterstützung benötigen",
-      "titleTarget" : "Zaključavanje: škole otvorene za sve kojima je potrebna podrška",
-      "url" : "https://kurier.at/politik/inland/lockdown-so-geht-es-in-den-schulen-weiter/401097990"
+      "id" : "AFCl584k",
+      "imgUrl" : "https://image.kurier.at/images/original/4761138/46-168883973.jpg",
+      "titleSource" : "Anschober pocht bei Massentests auf Freiwilligkeit",
+      "titleTarget" : "Anchober inzistira na tome da su masovni testovi dobrovoljni",
+      "url" : "https://kurier.at/politik/inland/anschober-pocht-bei-massentests-auf-freiwilligkeit/401098545"
     }, {
       "id" : "H9EtN0L7",
       "imgUrl" : "https://image.kurier.at/images/original/4760871/46-168900578.jpg",
@@ -26,71 +20,83 @@
       "titleTarget" : "Nacionalno vijeće: Zaključavanje u glavnom odboru odobreno vladinim glasovima",
       "url" : "https://kurier.at/politik/inland/nationalrat-lockdown-im-hauptausschuss-mit-regierungsstimmen-genehmigt/401098416"
     }, {
-      "id" : "am0qLy7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4759950/46-168443976.jpg",
-      "titleSource" : "Contact-Tracing: 1.035 Soldaten jetzt im Einsatz",
-      "titleTarget" : "Traženje kontakata: 1.035 vojnika sada u akciji",
-      "url" : "https://kurier.at/politik/inland/contact-tracing-1035-soldaten-jetzt-im-einsatz/401097993"
+      "id" : "bypoYqq4",
+      "imgUrl" : "https://image.kurier.at/images/original/4761138/46-168883973.jpg",
+      "titleSource" : "Anschober: Massentests an Gesamtbevölkerung noch offen",
+      "titleTarget" : "Sidro: masovni testovi za opću populaciju i dalje su otvoreni",
+      "url" : "https://kurier.at/politik/inland/live-so-viele-oesterreicher-nutzen-die-stopp-corona-app/401098647"
     }, {
-      "id" : "5fwerv9I",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/b/7/5897911/2E2A5060-275D-45BB-A2E5-5908F0D1233E_v0_h.jpg",
-      "titleSource" : "SPÖ stimmt gegen Verschärfungen und warnt vor drittem Lockdown",
-      "titleTarget" : "SPÖ glasuje protiv pooštravanja i upozorava na treće zaključavanje",
-      "url" : "https://www.diepresse.com/5897911/Coronavirus_SPOe-stimmt-gegen-Verschaerfungen-und-warnt-vor?from=rss"
+      "id" : "mxg9Zb9D",
+      "imgUrl" : "https://image.kurier.at/images/original/4761504/46-168884001.jpg",
+      "titleSource" : "Kurz: \"Massentests, um Weihnachtsfest zu ermöglichen\"",
+      "titleTarget" : "Ukratko: \"Masovni testovi kako bi Božić bio moguć\"",
+      "url" : "https://kurier.at/politik/inland/kurz-freiwillige-massentests-als-angebot/401098812"
+    }, {
+      "id" : "nG10JuqK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/7/5898151/74BE8F5D-261C-4B62-9E12-CCC1A30949C5_v0_h.jpg",
+      "titleSource" : "Kurz: Freiwillige Massentests als \"Angebot\"",
+      "titleTarget" : "Ukratko: Dobrovoljni masovni testovi kao \"ponuda\"",
+      "url" : "https://www.diepresse.com/5898151/Kurz_Freiwillige-Massentests-als-Angebot?from=rss"
+    }, {
+      "id" : "vIULTS12",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/a/5898154/218A943B-D7A2-49F9-A0AD-50AB90C6CBF7_v0_h.jpg",
+      "titleSource" : "Ende der Hacklerregelung: FPÖ fürchtet Anstieg der Altersarmut",
+      "titleTarget" : "Kraj propisa o hakerima: FPÖ strahuje od porasta siromaštva u starosti",
+      "url" : "https://www.diepresse.com/5898154/Ende-der-Hacklerregelung_FPOe-fuerchtet-Anstieg-der-Altersarmut?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "wdwgQbVk",
-      "imgUrl" : "https://image.kurier.at/images/original/3437239/46-109944910.jpg",
-      "titleSource" : "Arbeitnehmer berichten, dass ihre Chefs Covid-19 verharmlosen",
-      "titleTarget" : "Radnici izvještavaju da njihovi šefovi igraju protiv Covid-19",
-      "url" : "https://kurier.at/wirtschaft/arbeitnehmer-berichten-dass-ihre-chef-covid-19-verharmlosen/401098050"
+      "id" : "uM6oQ0ej",
+      "imgUrl" : "https://image.kurier.at/images/original/4761114/46-163612074.jpg",
+      "titleSource" : "Statt Hacklerregelung kommt \"Frühstarterbonus\" ab 2022",
+      "titleTarget" : "Umjesto propisa o hakiranju, od 2022. bit će \"bonus za početnike\"",
+      "url" : "https://kurier.at/wirtschaft/statt-hacklerregelung-kommt-fruehstarterbonus-ab-2022/401098527"
     }, {
-      "id" : "GyBpN54Z",
-      "imgUrl" : "https://image.kurier.at/images/original/4754487/46-168778005.jpg",
-      "titleSource" : "Interview: \"Niemand kommt zur Cobra wegen der Bezahlung\"",
-      "titleTarget" : "Intervju: \"Nitko ne dolazi na naplatu u Cobru\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/interview-niemand-kommt-zur-cobra-wegen-der-bezahlung/401094816"
+      "id" : "r4zZdB7t",
+      "imgUrl" : "https://image.kurier.at/images/original/4305809/81650355554537628_BLD_Online.jpg",
+      "titleSource" : "Haushalte: Strom war im September um 5,3 Prozent teurer",
+      "titleTarget" : "Kućanstva: Struja je u rujnu bila skuplja za 5,3 posto",
+      "url" : "https://kurier.at/wirtschaft/haushalte-strom-war-im-september-um-53-prozent-teurer/401098626"
     }, {
-      "id" : "clZdrjbR",
-      "imgUrl" : "https://image.kurier.at/images/original/4759965/46-168892479.jpg",
-      "titleSource" : "China schmiedet größten Freihandelspakt der Welt",
-      "titleTarget" : "Kina je sklopila najveći svjetski pakt o slobodnoj trgovini",
-      "url" : "https://kurier.at/wirtschaft/wirtschaft-von-innen/china-schmiedet-groessten-freihandelspakt-der-welt/401097999"
+      "id" : "xwI6lIwi",
+      "imgUrl" : "https://image.kurier.at/images/original/4734336/78370011357292888_BLD_Online.jpg",
+      "titleSource" : "Coronakrise treibt mobiles Banking kräftig an",
+      "titleTarget" : "Kriza Corone snažno pokreće mobilno bankarstvo",
+      "url" : "https://kurier.at/wirtschaft/coronakrise-treibt-mobiles-banking-kraeftig-an/401098575"
     }, {
-      "id" : "4Ypkz1fC",
-      "imgUrl" : "https://image.kurier.at/images/original/4760115/46-168883801.jpg",
-      "titleSource" : "Weitere 22 Milliarden Euro Coronahilfen für deutsche Wirtschaft",
-      "titleTarget" : "Još 22 milijarde eura pomoći u obliku korone za njemačko gospodarstvo",
-      "url" : "https://kurier.at/wirtschaft/wirtschaft-von-innen/weitere-22-milliarden-euro-coronahilfen-fuer-deutsche-wirtschaft/401098155"
+      "id" : "PGc5hPIW",
+      "imgUrl" : "https://image.kurier.at/images/original/4755375/46-168771950.jpg",
+      "titleSource" : "Zur Lage im Handel: „Konsum ist Psychologie“",
+      "titleTarget" : "O situaciji u maloprodaji: \"Potrošnja je psihologija\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/zur-lage-im-handel-konsum-ist-psychologie/401095404"
     }, {
-      "id" : "h1XgyazO",
-      "imgUrl" : "https://image.kurier.at/images/original/4755540/46-168785432.jpg",
-      "titleSource" : "Alles neu: Zukünftige Materialien und Fertigteile am Bau",
-      "titleTarget" : "Sve novo: budući materijali i montažni dijelovi u gradnji",
-      "url" : "https://kurier.at/wirtschaft/immobiz/alles-neu-zukuenftige-materialien-und-fertigteile-am-bau/401095536"
+      "id" : "FkKHfI5x",
+      "imgUrl" : "https://image.kurier.at/images/original/2300613/20171012-ABD0133-1-1.jpg",
+      "titleSource" : "Frauen in Topetage börsennotierter deutscher Unternehmen verdienen mehr als Männer",
+      "titleTarget" : "Žene na najvišem katu njemačkih tvrtki koje kotiraju na berzi zarađuju više od muškaraca",
+      "url" : "https://kurier.at/wirtschaft/frauen-in-der-topetage-boersennotierter-deutscher-unternehmen-verdienen-mehr-als-maenner/401098755"
     }, {
-      "id" : "kqTH2jzE",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/f/d/5897981/BB5FD286-6E31-4E80-AF1E-7C87D51D00EC_v0_l.jpg",
-      "titleSource" : "Finanzindustrie ist ethischer als erwartet",
-      "titleTarget" : "Financijska industrija etičnija je nego što se očekivalo",
-      "url" : "https://www.diepresse.com/5897981/Finanzindustrie-ist-ethischer-als-erwartet?from=rss"
+      "id" : "FuHHoxhu",
+      "imgUrl" : "https://image.kurier.at/images/original/4131909/46-159958252.jpg",
+      "titleSource" : "Etihad kündigt Flüge zwischen Tel Aviv und Abu Dhabi an",
+      "titleTarget" : "Etihad najavljuje letove između Tel Aviva i Abu Dhabija",
+      "url" : "https://kurier.at/wirtschaft/etihad-kuendigt-fluege-zwischen-tel-aviv-und-abu-dhabi-an/401098746"
     }, {
-      "id" : "IDwTIhq7",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/f/1/4/5898004/CC2DF4F0-A550-44E0-AEE4-64C18B438A6A_v0_h.jpg",
-      "titleSource" : "\"Es gibt nichts schönzureden\": Humanic entschuldigt sich für Rabattaktion",
-      "titleTarget" : "\"Nema se čega zatajiti\": Humanic se ispričava zbog kampanje s popustom",
-      "url" : "https://www.diepresse.com/5898004/Handel_Es-gibt-nichts-schoenzureden_Humanic-entschuldigt-sich?from=rss"
+      "id" : "4x59g07Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4421492/46-164879014.jpg",
+      "titleSource" : "Nissan erwägt Verkauf von Beteiligung an Mitsubishi Motors",
+      "titleTarget" : "Nissan razmišlja o prodaji svog udjela u Mitsubishi Motorsu",
+      "url" : "https://kurier.at/wirtschaft/nissan-erwaegt-verkauf-von-beteiligung-an-mitsubishi-motors/401098701"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "zRoV1oZW",
-      "imgUrl" : "https://image.kurier.at/images/original/4759815/46-168881317.jpg",
-      "titleSource" : "AHS-Direktor wehrt sich gegen Rauswurf durch die Diözese",
-      "titleTarget" : "Ravnatelj AHS-a brani se od protjerivanja iz biskupije",
-      "url" : "https://kurier.at/chronik/oesterreich/ahs-direktor-wehrt-sich-gegen-rauswurf-durch-die-dioezese/401097891"
+      "id" : "o0I5sIGC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
+      "titleSource" : "„Harter Lockdown ist sinnvolle Maßnahme“",
+      "titleTarget" : "\"Tvrdo zaključavanje je razumna mjera\"",
+      "url" : "https://noe.orf.at/stories/3076032/"
     }, {
       "id" : "4Mq2ag3T",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/01/crops/w=1280/750743_opener_260601_neos2.jpg?s=db2819bf2488b1918d95fe35305032a86b5fc31e",
@@ -98,23 +104,23 @@
       "titleTarget" : "Završeni crveno-ružičasti pregovori",
       "url" : "https://wien.orf.at/stories/3076078/"
     }, {
-      "id" : "xyYfPBuu",
-      "imgUrl" : "https://image.kurier.at/images/original/4760172/46-168866607.jpg",
-      "titleSource" : "\"Zeit im Bild\"-Moderatorin positiv getestet; WHO meldet neuen Rekordwert",
-      "titleTarget" : "Voditelj \"Zeit im Bild\" bio je pozitivan; 5.665 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/infektiologe-sofort-an-die-massnahmen-halten-neuinfektionen-oesterreich-ist-spitzenreiter/401097972"
+      "id" : "T3mDZTzk",
+      "imgUrl" : "https://image.kurier.at/images/original/4761081/46-168471079.jpg",
+      "titleSource" : "Kontakte: Nur ein \"Einzelner\" darf anderen Haushalt treffen",
+      "titleTarget" : "Kontakti: Samo \"pojedinac\" može upoznati druga kućanstva",
+      "url" : "https://kurier.at/chronik/oesterreich/kontakte-nur-ein-einzelner-darf-anderen-haushalt-treffen/401098494"
     }, {
-      "id" : "o0I5sIGC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
-      "titleSource" : "„Harter Lockdown ist sinnvolle Maßnahme“",
-      "titleTarget" : "\"Tvrdo zaključavanje je razumna mjera\"",
-      "url" : "https://noe.orf.at/stories/3076032/"
+      "id" : "vxR65XXs",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/39/crops/w=1280/753724_opener_261739_wave1.jpg?s=95d9e747877bcb2f9baf1bf8e9b24a65995bb8b9",
+      "titleSource" : "Dem Wörgler Wave droht die Schließung",
+      "titleTarget" : "Wörglerovom valu prijeti zatvaranje",
+      "url" : "https://tirol.orf.at/stories/3076116/"
     }, {
-      "id" : "r66C3TGa",
-      "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
-      "titleSource" : "5.665 Neuinfektionen in Österreich",
-      "titleTarget" : "5.665 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/5665-neuinfektionen-in-oesterreich/401093757"
+      "id" : "qjhTkwER",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/54/crops/w=1280/751146_opener_260754_2020112_kh_zahlenchaos_bei_infektionsmeldungen_201112_00_00_01_01.jpg?s=7ca4d0ed342699e200309269f497c69989c058cb",
+      "titleSource" : "Soldaten helfen beim Contact-Tracing",
+      "titleTarget" : "Vojnici pomažu u traženju kontakata",
+      "url" : "https://steiermark.orf.at/stories/3075765/"
     }, {
       "id" : "I5LhAgMU",
       "imgUrl" : "https://image.kurier.at/images/original/4760829/46-168671194.jpg",
@@ -122,11 +128,11 @@
       "titleTarget" : "Prijavljeno 574 prekršaja noćnog policijskog sata",
       "url" : "https://kurier.at/chronik/oesterreich/574-verstoesse-gegen-naechtliche-ausgangssperre-angezeigt/401098383"
     }, {
-      "id" : "EO6JbeF3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/90/crops/w=1280/753591_opener_261690_sonnenbaden.jpg?s=d3df544bb5a19562e42b73dc2308140f3eea3c57",
-      "titleSource" : "Autofreies Wochenende am Gaisberg",
-      "titleTarget" : "Vikend bez automobila na Gaisbergu",
-      "url" : "https://salzburg.orf.at/stories/3076098/"
+      "id" : "r66C3TGa",
+      "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
+      "titleSource" : "5.665 Neuinfektionen in Österreich",
+      "titleTarget" : "5.665 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/5665-neuinfektionen-in-oesterreich/401093757"
     } ]
   }, {
     "category" : "CULTURE",
@@ -137,17 +143,23 @@
       "titleTarget" : "Voditeljica ORF-a Nadja Bernhard testirala se pozitivno na Coronu",
       "url" : "https://kurier.at/kultur/medien/orf-moderatorin-nadja-bernhard-positiv-auf-corona-getestet/401098371"
     }, {
-      "id" : "HCGXB8l1",
-      "imgUrl" : "https://image.kurier.at/images/original/4760052/46-105377633.jpg",
-      "titleSource" : "Chefin der Nationalbibliothek kritisiert Verordnungstext, Bibliotheken schließen",
-      "titleTarget" : "Voditelj Nacionalne knjižnice kritizira tekst propisa, knjižnice se zatvaraju",
-      "url" : "https://kurier.at/kultur/chefin-der-nationalbibliothek-kritisiert-verordnungstext-bibliotheken-schliessen/401098077"
-    }, {
       "id" : "iyzH0gPn",
       "imgUrl" : "https://image.kurier.at/images/original/4760124/46-168831506.jpg",
       "titleSource" : "Kultur-Lockdown: Diese Premieren müssen verschoben werden",
       "titleTarget" : "Zaključavanje kulture: ove premijere moraju se odgoditi",
       "url" : "https://kurier.at/kultur/kultur-lockdown-diese-premieren-muessen-verschoben-werden/401098170"
+    }, {
+      "id" : "Uo49l6YA",
+      "imgUrl" : "https://image.kurier.at/images/original/4761600/46-168705679.jpg",
+      "titleSource" : "Anträge auf Künstler-Sonderbonus ab Dienstag möglich",
+      "titleTarget" : "Od utorka moguće prijave za specijalni bonus za umjetnike",
+      "url" : "https://kurier.at/kultur/antraege-auf-kuenstler-sonderbonus-ab-dienstag-moeglich/401098890"
+    }, {
+      "id" : "pvYmMq5q",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/9/5891321/8428068E-383B-4928-BA39-40AE257FE98C_v0_l.jpg",
+      "titleSource" : "Musiksalon Nr. 13: Was sollen die Philharmoniker auf Tournee spielen?",
+      "titleTarget" : "Glazbeni salon br. 13: Što bi Filharmonija trebala svirati na turneji?",
+      "url" : "https://www.diepresse.com/5897900/Hoertipp_Musiksalon-Nr-13_Was-sollen-die-Philharmoniker-auf?from=rss"
     }, {
       "id" : "HhsfdUCE",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/d/d/5897949/62F6DF5F-9315-481F-B4D7-5398F149E633_v0_l.jpg",
@@ -160,12 +172,6 @@
       "titleSource" : "ORF-Moderatorin Nadja Bernhard an Covid-19 erkrankt",
       "titleTarget" : "Voditeljica ORF-a Nadja Bernhard razboljela se od Covid-19",
       "url" : "https://www.diepresse.com/5897945/Coronavirus_ORFModeratorin-Nadja-Bernhard-an-Covid19-erkrankt?from=rss"
-    }, {
-      "id" : "duaUAMnM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/9/5891321/8428068E-383B-4928-BA39-40AE257FE98C_v0_l.jpg",
-      "titleSource" : "Musiksalon Nr. 12: Verhindertes Strauss-Glück",
-      "titleTarget" : "Glazbeni salon br. 12: Spriječena Straussova sreća",
-      "url" : "https://www.diepresse.com/5896089/Hoertipp_Musiksalon-Nr-12_Verhindertes-StraussGlueck?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,16 +191,21 @@
       "titleTarget" : "Liga nacija: Austrija se sramoti - i pobjeđuje",
       "url" : "https://kurier.at/sport/fussball/fussball-nations-league-oesterreich-dreht-die-partie-gegen-nordirland/401098302"
     }, {
-      "id" : "H8z8pcL2",
-      "titleSource" : "Sabalenka gewinnt WTA-Turnier in Linz",
-      "titleTarget" : "Sabalenka je osvojila WTA turnir u Linzu",
-      "url" : "https://sport.orf.at/stories/3069373/"
-    }, {
       "id" : "MPkU7Mzw",
       "imgUrl" : "https://image.kurier.at/images/original/4760769/46-168897674.jpg",
       "titleSource" : "ATP Finals: Erfolgreiche Revanche von Dominic Thiem",
       "titleTarget" : "ATP finale: Uspješna osveta Dominica Thiema",
       "url" : "https://kurier.at/sport/tennis/tennis-atp-finals-erfolgreiche-revanche-von-dominic-thiem/401098044"
+    }, {
+      "id" : "H8z8pcL2",
+      "titleSource" : "Sabalenka gewinnt WTA-Turnier in Linz",
+      "titleTarget" : "Sabalenka je osvojila WTA turnir u Linzu",
+      "url" : "https://sport.orf.at/stories/3069373/"
+    }, {
+      "id" : "AwTg1Df0",
+      "titleSource" : "Norweger dürfen mit Ersatzteam nach Wien",
+      "titleTarget" : "Norvežani smiju put Beča s zamjenskim timom",
+      "url" : "https://sport.orf.at/stories/3069397/"
     }, {
       "id" : "txEx2hma",
       "imgUrl" : "https://image.kurier.at/images/original/4760700/46-168899329.jpg",
@@ -207,12 +218,6 @@
       "titleSource" : "Rekordmann Hamilton: \"Wollte nicht, dass sie meine Tränen sehen\"",
       "titleTarget" : "Rekorder Hamilton: \"Nisam htio da mi vide suze\"",
       "url" : "https://kurier.at/sport/motorsport/lewis-hamilton-und-der-7-wm-titel-in-der-formel-1-das-uebertrifft-meine-traeume/401098212"
-    }, {
-      "id" : "vMJbOwJh",
-      "imgUrl" : "https://image.kurier.at/images/original/4760070/46-167245729.jpg",
-      "titleSource" : "Norwegens Rumänien-Spiel abgesagt, Not-Elf gegen Österreich?",
-      "titleTarget" : "Otkazana utakmica norveške Rumunjske, hitni tim protiv Austrije?",
-      "url" : "https://kurier.at/sport/fussball/corona-chaos-in-nations-league-norwegens-rumaenien-spiel-abgesagt-not-elf-gegen-oesterreich/401098074"
     } ]
   } ],
   "country" : "austria",
