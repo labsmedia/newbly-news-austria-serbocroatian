@@ -8,12 +8,6 @@
       "titleTarget" : "Ukratko: testovi mase na kraju zaključavanja",
       "url" : "https://kurier.at/politik/inland/kurz-massentests-am-ende-des-lockdowns/401098107"
     }, {
-      "id" : "Wu4r1IVs",
-      "imgUrl" : "https://image.kurier.at/images/original/4656913/78370011356625816_BLD_Online.jpg",
-      "titleSource" : "Kurz verteidigt Schließung der Schulen: \"Tausende Schüler sind infiziert\"",
-      "titleTarget" : "Ukratko brani zatvaranje škola: \"Tisuće učenika su zaražene\"",
-      "url" : "https://kurier.at/politik/inland/kurz-verteidigt-schliessung-der-schulen-tausende-schueler-sind-infiziert/401098107"
-    }, {
       "id" : "lkNd6vFf",
       "imgUrl" : "https://image.kurier.at/images/original/4759746/46-168819786.jpg",
       "titleSource" : "Melisa Erkurt: Jugendliche entwickeln Verschwörungstheorien zum Terror",
@@ -25,6 +19,12 @@
       "titleSource" : "Lockdown: Schulen für alle offen, die Unterstützung benötigen",
       "titleTarget" : "Zaključavanje: škole otvorene za sve kojima je potrebna podrška",
       "url" : "https://kurier.at/politik/inland/lockdown-so-geht-es-in-den-schulen-weiter/401097990"
+    }, {
+      "id" : "H9EtN0L7",
+      "imgUrl" : "https://image.kurier.at/images/original/4760871/46-168900578.jpg",
+      "titleSource" : "Nationalrat: Lockdown im Hauptausschuss mit Regierungsstimmen genehmigt",
+      "titleTarget" : "Nacionalno vijeće: Zaključavanje u glavnom odboru odobreno vladinim glasovima",
+      "url" : "https://kurier.at/politik/inland/nationalrat-lockdown-im-hauptausschuss-mit-regierungsstimmen-genehmigt/401098416"
     }, {
       "id" : "am0qLy7W",
       "imgUrl" : "https://image.kurier.at/images/original/4759950/46-168443976.jpg",
@@ -70,59 +70,72 @@
       "titleSource" : "Alles neu: Zukünftige Materialien und Fertigteile am Bau",
       "titleTarget" : "Sve novo: budući materijali i montažni dijelovi u gradnji",
       "url" : "https://kurier.at/wirtschaft/immobiz/alles-neu-zukuenftige-materialien-und-fertigteile-am-bau/401095536"
+    }, {
+      "id" : "kqTH2jzE",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/f/d/5897981/BB5FD286-6E31-4E80-AF1E-7C87D51D00EC_v0_l.jpg",
+      "titleSource" : "Finanzindustrie ist ethischer als erwartet",
+      "titleTarget" : "Financijska industrija etičnija je nego što se očekivalo",
+      "url" : "https://www.diepresse.com/5897981/Finanzindustrie-ist-ethischer-als-erwartet?from=rss"
+    }, {
+      "id" : "IDwTIhq7",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/f/1/4/5898004/CC2DF4F0-A550-44E0-AEE4-64C18B438A6A_v0_h.jpg",
+      "titleSource" : "\"Es gibt nichts schönzureden\": Humanic entschuldigt sich für Rabattaktion",
+      "titleTarget" : "\"Nema se čega zatajiti\": Humanic se ispričava zbog kampanje s popustom",
+      "url" : "https://www.diepresse.com/5898004/Handel_Es-gibt-nichts-schoenzureden_Humanic-entschuldigt-sich?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "qzXWzSmI",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/30/crops/w=1280/520878_opener_176030_auva.jpg?s=b85e67ce2c5018be6c3aac0bae199fc78495f7f3",
-      "titleSource" : "Wien bittet pensionierte Ärzte um Hilfe",
-      "titleTarget" : "Beč traži pomoć umirovljenih liječnika",
-      "url" : "https://wien.orf.at/stories/3076049/"
-    }, {
-      "id" : "VWUaB1K2",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/25/crops/w=1280/745302_opener_258625____kh_bg_pflege_in_coronazeiten_200511_00_00_22_10.jpg?s=1e03a0295b9e4e1e7287da794c631e6ee70b09bd",
-      "titleSource" : "Noch 16 Intensivbetten frei in Vorarlberg",
-      "titleTarget" : "U Vorarlbergu je još uvijek dostupno 16 kreveta za intenzivnu njegu",
-      "url" : "https://vorarlberg.orf.at/stories/3076036/"
-    }, {
       "id" : "zRoV1oZW",
       "imgUrl" : "https://image.kurier.at/images/original/4759815/46-168881317.jpg",
       "titleSource" : "AHS-Direktor wehrt sich gegen Rauswurf durch die Diözese",
       "titleTarget" : "Ravnatelj AHS-a brani se od protjerivanja iz biskupije",
       "url" : "https://kurier.at/chronik/oesterreich/ahs-direktor-wehrt-sich-gegen-rauswurf-durch-die-dioezese/401097891"
     }, {
-      "id" : "m2dAzwHU",
-      "titleSource" : "Schuldirektor kämpft gegen Kündigung",
-      "titleTarget" : "Ravnatelj škole bori se protiv otkaza",
-      "url" : "https://burgenland.orf.at/stories/3076040/"
-    }, {
-      "id" : "bNHjiXNW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/18/73/crops/w=1280/545067_opener_185073_circus2.jpg?s=750780666cbbab3d578775b154feb59ac7b08478",
-      "titleSource" : "Frauen von Kamel gebissen",
-      "titleTarget" : "Žene koje je ugrizla deva",
-      "url" : "https://ooe.orf.at/stories/3076058/"
+      "id" : "4Mq2ag3T",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/01/crops/w=1280/750743_opener_260601_neos2.jpg?s=db2819bf2488b1918d95fe35305032a86b5fc31e",
+      "titleSource" : "Rot-Pink-Verhandlungen abgeschlossen",
+      "titleTarget" : "Završeni crveno-ružičasti pregovori",
+      "url" : "https://wien.orf.at/stories/3076078/"
     }, {
       "id" : "xyYfPBuu",
       "imgUrl" : "https://image.kurier.at/images/original/4760172/46-168866607.jpg",
-      "titleSource" : "\"Zeit im Bild\"-Moderatorin positiv getestet; 5.665 Neuinfektionen in Ö",
+      "titleSource" : "\"Zeit im Bild\"-Moderatorin positiv getestet; WHO meldet neuen Rekordwert",
       "titleTarget" : "Voditelj \"Zeit im Bild\" bio je pozitivan; 5.665 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/infektiologe-sofort-an-die-massnahmen-halten-neuinfektionen-oesterreich-ist-spitzenreiter/401097972"
     }, {
-      "id" : "aZpqUY8s",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/24/89/crops/w=1280/583623_opener_199189_hofburg.jpg?s=69531d6308d423a1890c9117ca706533b0ce5e37",
-      "titleSource" : "Auch Bibliotheken müssen schließen",
-      "titleTarget" : "Knjižnice se također moraju zatvoriti",
-      "url" : "https://wien.orf.at/stories/3076037/"
+      "id" : "o0I5sIGC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
+      "titleSource" : "„Harter Lockdown ist sinnvolle Maßnahme“",
+      "titleTarget" : "\"Tvrdo zaključavanje je razumna mjera\"",
+      "url" : "https://noe.orf.at/stories/3076032/"
+    }, {
+      "id" : "r66C3TGa",
+      "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
+      "titleSource" : "5.665 Neuinfektionen in Österreich",
+      "titleTarget" : "5.665 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/5665-neuinfektionen-in-oesterreich/401093757"
+    }, {
+      "id" : "I5LhAgMU",
+      "imgUrl" : "https://image.kurier.at/images/original/4760829/46-168671194.jpg",
+      "titleSource" : "574 Verstöße gegen nächtliche Ausgangssperre angezeigt",
+      "titleTarget" : "Prijavljeno 574 prekršaja noćnog policijskog sata",
+      "url" : "https://kurier.at/chronik/oesterreich/574-verstoesse-gegen-naechtliche-ausgangssperre-angezeigt/401098383"
+    }, {
+      "id" : "EO6JbeF3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/90/crops/w=1280/753591_opener_261690_sonnenbaden.jpg?s=d3df544bb5a19562e42b73dc2308140f3eea3c57",
+      "titleSource" : "Autofreies Wochenende am Gaisberg",
+      "titleTarget" : "Vikend bez automobila na Gaisbergu",
+      "url" : "https://salzburg.orf.at/stories/3076098/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "JFAzeuMl",
-      "imgUrl" : "https://image.kurier.at/images/original/4759836/46-168628500.jpg",
-      "titleSource" : "ORF hält auch im Lockdown an \"Dancing Stars\" fest",
-      "titleTarget" : "ORF se drži \"Dancing Stars\" čak i u zaključavanju",
-      "url" : "https://kurier.at/kultur/medien/orf-haelt-auch-im-lockdown-an-dancing-stars-fest/401097906"
+      "id" : "baDdueTU",
+      "imgUrl" : "https://image.kurier.at/images/original/4627379/46-163074700.jpg",
+      "titleSource" : "ORF-Moderatorin Nadja Bernhard positiv auf Corona getestet",
+      "titleTarget" : "Voditeljica ORF-a Nadja Bernhard testirala se pozitivno na Coronu",
+      "url" : "https://kurier.at/kultur/medien/orf-moderatorin-nadja-bernhard-positiv-auf-corona-getestet/401098371"
     }, {
       "id" : "HCGXB8l1",
       "imgUrl" : "https://image.kurier.at/images/original/4760052/46-105377633.jpg",
@@ -136,11 +149,11 @@
       "titleTarget" : "Zaključavanje kulture: ove premijere moraju se odgoditi",
       "url" : "https://kurier.at/kultur/kultur-lockdown-diese-premieren-muessen-verschoben-werden/401098170"
     }, {
-      "id" : "baDdueTU",
-      "imgUrl" : "https://image.kurier.at/images/original/4627379/46-163074700.jpg",
-      "titleSource" : "ORF-Moderatorin Nadja Bernhard positiv auf Corona getestet",
-      "titleTarget" : "Voditeljica ORF-a Nadja Bernhard testirala se pozitivno na Coronu",
-      "url" : "https://kurier.at/kultur/medien/orf-moderatorin-nadja-bernhard-positiv-auf-corona-getestet/401098371"
+      "id" : "HhsfdUCE",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/d/d/5897949/62F6DF5F-9315-481F-B4D7-5398F149E633_v0_l.jpg",
+      "titleSource" : "Miss Piggy wird zur Influencerin",
+      "titleTarget" : "Gospođica Piggy postaje influencerica",
+      "url" : "https://www.diepresse.com/5897949/Streaming_Miss-Piggy-wird-zur-Influencerin?from=rss"
     }, {
       "id" : "zuZI9Py2",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/d/9/5897945/1832F974-4AD1-4CC8-B617-C2A8142579D5_v0_h.jpg",
@@ -153,12 +166,6 @@
       "titleSource" : "Musiksalon Nr. 12: Verhindertes Strauss-Glück",
       "titleTarget" : "Glazbeni salon br. 12: Spriječena Straussova sreća",
       "url" : "https://www.diepresse.com/5896089/Hoertipp_Musiksalon-Nr-12_Verhindertes-StraussGlueck?from=rss"
-    }, {
-      "id" : "j1gPcd8e",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/0/c/5897740/Frueherer-Bild--Chefredakteur-Guenter-PRINZ-mit-91-Jahren-verstorben-Archivfoto-Guenter-PRINZ-Gonther-Chefredakte_1605383320018430.jpg",
-      "titleSource" : "Früherer \"Bild\"-Chefredakteur Günter Prinz gestorben",
-      "titleTarget" : "Preminuo je bivši glavni urednik \"Bild\" Günter Prinz",
-      "url" : "https://www.diepresse.com/5897740/Frueherer-BildChefredakteur-Guenter-Prinz-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -166,32 +173,22 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "eVobeSuc",
-      "imgUrl" : "https://image.kurier.at/images/original/4759794/46-168756890.jpg",
-      "titleSource" : "Große Erleichterung: Spitzensport im Lockdown weiter möglich",
-      "titleTarget" : "Veliko olakšanje: vrhunski sport i dalje je moguć u zaključavanju",
-      "url" : "https://kurier.at/sport/grosse-erleichterung-spitzensport-im-lockdown-weiter-moeglich-hobbysport-wird-hingegen-komplett/401097630"
-    }, {
       "id" : "KFQoiLIG",
       "imgUrl" : "https://image.kurier.at/images/original/4760271/46-168896414.jpg",
       "titleSource" : "Rekordtitel fixiert: Hamilton ist zum siebenten Mal Weltmeister",
       "titleTarget" : "Popravljen rekordni naslov: Hamilton je sedmi put svjetski prvak",
       "url" : "https://kurier.at/sport/motorsport/formel-1-lewis-hamilton-siegt-in-der-tuerkei-und-ist-zum-siebenten-mal-weltmeister/401098086"
     }, {
-      "id" : "Dq5D20Xz",
-      "titleSource" : "Österreich winkt kampflos Gruppensieg",
-      "titleTarget" : "Austrija pobjeđuje u skupini bez borbe",
-      "url" : "https://sport.orf.at/stories/3069342/"
+      "id" : "UVGL7UH0",
+      "imgUrl" : "https://image.kurier.at/images/original/4761006/20201115-ABD0083-1-1.jpg",
+      "titleSource" : "Nations League: Österreich blamiert sich - und gewinnt",
+      "titleTarget" : "Liga nacija: Austrija se sramoti - i pobjeđuje",
+      "url" : "https://kurier.at/sport/fussball/fussball-nations-league-oesterreich-dreht-die-partie-gegen-nordirland/401098302"
     }, {
-      "id" : "1kFJaoK7",
-      "titleSource" : "Hamilton krönt siebenten WM-Titel mit Sieg",
-      "titleTarget" : "Hamilton je sedmi naslov svjetskog prvaka okrunio pobjedom",
-      "url" : "https://sport.orf.at/stories/3069359/"
-    }, {
-      "id" : "QnffLCv1",
-      "titleSource" : "Sieben Südkoreaner in Wiener Neustadt CoV-positiv",
-      "titleTarget" : "Sedam Južnokorejaca u Wiener Neustadt CoV pozitivno",
-      "url" : "https://sport.orf.at/stories/3069363/"
+      "id" : "H8z8pcL2",
+      "titleSource" : "Sabalenka gewinnt WTA-Turnier in Linz",
+      "titleTarget" : "Sabalenka je osvojila WTA turnir u Linzu",
+      "url" : "https://sport.orf.at/stories/3069373/"
     }, {
       "id" : "MPkU7Mzw",
       "imgUrl" : "https://image.kurier.at/images/original/4760769/46-168897674.jpg",
@@ -199,10 +196,23 @@
       "titleTarget" : "ATP finale: Uspješna osveta Dominica Thiema",
       "url" : "https://kurier.at/sport/tennis/tennis-atp-finals-erfolgreiche-revanche-von-dominic-thiem/401098044"
     }, {
-      "id" : "H8z8pcL2",
-      "titleSource" : "Sabalenka gewinnt WTA-Turnier in Linz",
-      "titleTarget" : "Sabalenka je osvojila WTA turnir u Linzu",
-      "url" : "https://sport.orf.at/stories/3069373/"
+      "id" : "txEx2hma",
+      "imgUrl" : "https://image.kurier.at/images/original/4760700/46-168899329.jpg",
+      "titleSource" : "Fußball-England trauert um Ex-Team-Tormann",
+      "titleTarget" : "Nogomet Engleska oplakuje bivšeg vratara momčadi",
+      "url" : "https://kurier.at/sport/fussball/fussball-england-trauert-um-ex-team-tormann-ray-clemence/401098347"
+    }, {
+      "id" : "nQl4uM9G",
+      "imgUrl" : "https://image.kurier.at/images/original/4760337/46-168895653.jpg",
+      "titleSource" : "Rekordmann Hamilton: \"Wollte nicht, dass sie meine Tränen sehen\"",
+      "titleTarget" : "Rekorder Hamilton: \"Nisam htio da mi vide suze\"",
+      "url" : "https://kurier.at/sport/motorsport/lewis-hamilton-und-der-7-wm-titel-in-der-formel-1-das-uebertrifft-meine-traeume/401098212"
+    }, {
+      "id" : "vMJbOwJh",
+      "imgUrl" : "https://image.kurier.at/images/original/4760070/46-167245729.jpg",
+      "titleSource" : "Norwegens Rumänien-Spiel abgesagt, Not-Elf gegen Österreich?",
+      "titleTarget" : "Otkazana utakmica norveške Rumunjske, hitni tim protiv Austrije?",
+      "url" : "https://kurier.at/sport/fussball/corona-chaos-in-nations-league-norwegens-rumaenien-spiel-abgesagt-not-elf-gegen-oesterreich/401098074"
     } ]
   } ],
   "country" : "austria",
