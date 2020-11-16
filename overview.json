@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "F15DxOYw",
-      "imgUrl" : "https://image.kurier.at/images/original/4656913/78370011356625816_BLD_Online.jpg",
-      "titleSource" : "Kurz: Massentests am Ende des Lockdowns",
-      "titleTarget" : "Ukratko: testovi mase na kraju zaključavanja",
-      "url" : "https://kurier.at/politik/inland/kurz-massentests-am-ende-des-lockdowns/401098107"
+      "id" : "mxg9Zb9D",
+      "imgUrl" : "https://image.kurier.at/images/original/4761504/46-168884001.jpg",
+      "titleSource" : "Kurz: \"Massentests, um Weihnachtsfest zu ermöglichen\"",
+      "titleTarget" : "Ukratko: \"Masovni testovi kako bi Božić bio moguć\"",
+      "url" : "https://kurier.at/politik/inland/kurz-freiwillige-massentests-als-angebot/401098812"
+    }, {
+      "id" : "QuCePp9Y",
+      "imgUrl" : "https://image.kurier.at/images/original/2320887/46-104058098.jpg",
+      "titleSource" : "Rendi-Wagner \"eine auflegen\": ÖVP-Urgestein Khol entschuldigt sich",
+      "titleTarget" : "Rendi-Wagner \"spusti slušalicu\": veteran ÖVP-a Khol se ispričava",
+      "url" : "https://kurier.at/politik/inland/oevp-urgestein-khol-meint-man-solle-rendi-wagner-nach-kritik-eine-auflegen/401099322"
     }, {
       "id" : "AFCl584k",
       "imgUrl" : "https://image.kurier.at/images/original/4761138/46-168883973.jpg",
@@ -14,101 +20,83 @@
       "titleTarget" : "Anchober inzistira na tome da su masovni testovi dobrovoljni",
       "url" : "https://kurier.at/politik/inland/anschober-pocht-bei-massentests-auf-freiwilligkeit/401098545"
     }, {
-      "id" : "H9EtN0L7",
-      "imgUrl" : "https://image.kurier.at/images/original/4760871/46-168900578.jpg",
-      "titleSource" : "Nationalrat: Lockdown im Hauptausschuss mit Regierungsstimmen genehmigt",
-      "titleTarget" : "Nacionalno vijeće: Zaključavanje u glavnom odboru odobreno vladinim glasovima",
-      "url" : "https://kurier.at/politik/inland/nationalrat-lockdown-im-hauptausschuss-mit-regierungsstimmen-genehmigt/401098416"
+      "id" : "dsZoBT8Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4745958/46-168629113.jpg",
+      "titleSource" : "Van der Bellen: \"Wir gehen gemeinsam durch diesen Lockdown\"",
+      "titleTarget" : "Van der Bellen: \"Zajedno prolazimo kroz ovo zaključavanje\"",
+      "url" : "https://kurier.at/politik/inland/van-der-bellen-wir-gehen-gemeinsam-durch-diesen-lockdown/401099412"
+    }, {
+      "id" : "tA0lsllr",
+      "imgUrl" : "https://image.kurier.at/images/original/4762119/46-101163552.jpg",
+      "titleSource" : "60 Euro Pensionszuschlag statt Hacklerregelung: Kritik von allen Seiten",
+      "titleTarget" : "Dodatak na mirovinu od 60 eura umjesto hakiranja propisa: kritika sa svih strana",
+      "url" : "https://kurier.at/politik/inland/60-euro-pensionszuschlag-statt-hacklerregelung-kritik-von-allen-seiten/401099100"
+    }, {
+      "id" : "Rv4Ds4BK",
+      "imgUrl" : "https://image.kurier.at/images/original/4762008/46-168808324.jpg",
+      "titleSource" : "Testen der Bevölkerung: Experten bezweifeln den Sinn",
+      "titleTarget" : "Testiranje populacije: stručnjaci sumnjaju u smisao",
+      "url" : "https://kurier.at/politik/inland/testen-der-bevoelkerung-experten-bezweifeln-den-sinn/401099061"
     }, {
       "id" : "bypoYqq4",
       "imgUrl" : "https://image.kurier.at/images/original/4761138/46-168883973.jpg",
       "titleSource" : "Anschober: Massentests an Gesamtbevölkerung noch offen",
       "titleTarget" : "Sidro: masovni testovi za opću populaciju i dalje su otvoreni",
       "url" : "https://kurier.at/politik/inland/live-so-viele-oesterreicher-nutzen-die-stopp-corona-app/401098647"
-    }, {
-      "id" : "mxg9Zb9D",
-      "imgUrl" : "https://image.kurier.at/images/original/4761504/46-168884001.jpg",
-      "titleSource" : "Kurz: \"Massentests, um Weihnachtsfest zu ermöglichen\"",
-      "titleTarget" : "Ukratko: \"Masovni testovi kako bi Božić bio moguć\"",
-      "url" : "https://kurier.at/politik/inland/kurz-freiwillige-massentests-als-angebot/401098812"
-    }, {
-      "id" : "nG10JuqK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/7/5898151/74BE8F5D-261C-4B62-9E12-CCC1A30949C5_v0_h.jpg",
-      "titleSource" : "Kurz: Freiwillige Massentests als \"Angebot\"",
-      "titleTarget" : "Ukratko: Dobrovoljni masovni testovi kao \"ponuda\"",
-      "url" : "https://www.diepresse.com/5898151/Kurz_Freiwillige-Massentests-als-Angebot?from=rss"
-    }, {
-      "id" : "vIULTS12",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/a/5898154/218A943B-D7A2-49F9-A0AD-50AB90C6CBF7_v0_h.jpg",
-      "titleSource" : "Ende der Hacklerregelung: FPÖ fürchtet Anstieg der Altersarmut",
-      "titleTarget" : "Kraj propisa o hakerima: FPÖ strahuje od porasta siromaštva u starosti",
-      "url" : "https://www.diepresse.com/5898154/Ende-der-Hacklerregelung_FPOe-fuerchtet-Anstieg-der-Altersarmut?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "r0Q54Hzq",
+      "imgUrl" : "https://image.kurier.at/images/original/4736940/46-166037860.jpg",
+      "titleSource" : "Spar, Hofer und Lidl wollen Sortiment im Lockdown nicht einschränken",
+      "titleTarget" : "Spar, Hofer i Lidl ne žele ograničiti domet u zaključavanju",
+      "url" : "https://kurier.at/wirtschaft/spar-hofer-und-lidl-wollen-sortiment-im-lockdown-nicht-einschraenken/401099277"
+    }, {
       "id" : "uM6oQ0ej",
       "imgUrl" : "https://image.kurier.at/images/original/4761114/46-163612074.jpg",
       "titleSource" : "Statt Hacklerregelung kommt \"Frühstarterbonus\" ab 2022",
       "titleTarget" : "Umjesto propisa o hakiranju, od 2022. bit će \"bonus za početnike\"",
       "url" : "https://kurier.at/wirtschaft/statt-hacklerregelung-kommt-fruehstarterbonus-ab-2022/401098527"
     }, {
-      "id" : "r4zZdB7t",
-      "imgUrl" : "https://image.kurier.at/images/original/4305809/81650355554537628_BLD_Online.jpg",
-      "titleSource" : "Haushalte: Strom war im September um 5,3 Prozent teurer",
-      "titleTarget" : "Kućanstva: Struja je u rujnu bila skuplja za 5,3 posto",
-      "url" : "https://kurier.at/wirtschaft/haushalte-strom-war-im-september-um-53-prozent-teurer/401098626"
+      "id" : "ZSKFR3Yw",
+      "imgUrl" : "https://image.kurier.at/images/original/4761210/46-168863230.jpg",
+      "titleSource" : "Manner Schnitten: Keine Reisen, keine Mitbringsel",
+      "titleTarget" : "Manner Schnitten: Nema putovanja, nema suvenira",
+      "url" : "https://kurier.at/wirtschaft/manner-schnitten-keine-reisen-keine-mitbringsel/401098632"
     }, {
-      "id" : "xwI6lIwi",
-      "imgUrl" : "https://image.kurier.at/images/original/4734336/78370011357292888_BLD_Online.jpg",
-      "titleSource" : "Coronakrise treibt mobiles Banking kräftig an",
-      "titleTarget" : "Kriza Corone snažno pokreće mobilno bankarstvo",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-treibt-mobiles-banking-kraeftig-an/401098575"
+      "id" : "mMlx59e7",
+      "imgUrl" : "https://image.kurier.at/images/original/4753521/46-168794116.jpg",
+      "titleSource" : "BioNTech-Aktien unter Druck, Moderna-Impfstoff auch hoch wirksam",
+      "titleTarget" : "Zalihe BioNTech-a pod pritiskom, cjepivo Moderna također je vrlo učinkovito",
+      "url" : "https://kurier.at/wirtschaft/biontech-aktien-unter-druck-moderna-impfstoff-auch-hoch-wirksam/401099223"
     }, {
-      "id" : "PGc5hPIW",
-      "imgUrl" : "https://image.kurier.at/images/original/4755375/46-168771950.jpg",
-      "titleSource" : "Zur Lage im Handel: „Konsum ist Psychologie“",
-      "titleTarget" : "O situaciji u maloprodaji: \"Potrošnja je psihologija\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/zur-lage-im-handel-konsum-ist-psychologie/401095404"
+      "id" : "Wi0SpqAS",
+      "imgUrl" : "https://image.kurier.at/images/original/4111425/46-157448682.jpg",
+      "titleSource" : "Winter-Lockdown könnte Tirol 2,9 Mrd. Euro kosten",
+      "titleTarget" : "Zimsko zaključavanje moglo bi Tirol koštati 2,9 milijardi eura",
+      "url" : "https://kurier.at/wirtschaft/winter-lockdown-koennte-tirol-29-mrd-euro-kosten/401098869"
     }, {
-      "id" : "FkKHfI5x",
-      "imgUrl" : "https://image.kurier.at/images/original/2300613/20171012-ABD0133-1-1.jpg",
-      "titleSource" : "Frauen in Topetage börsennotierter deutscher Unternehmen verdienen mehr als Männer",
-      "titleTarget" : "Žene na najvišem katu njemačkih tvrtki koje kotiraju na berzi zarađuju više od muškaraca",
-      "url" : "https://kurier.at/wirtschaft/frauen-in-der-topetage-boersennotierter-deutscher-unternehmen-verdienen-mehr-als-maenner/401098755"
+      "id" : "qTKUg6GR",
+      "imgUrl" : "https://image.kurier.at/images/original/4690176/46-167971198.jpg",
+      "titleSource" : "IHS: Lockdown könnte pro Woche 1 bis 1,5 Milliarden Euro kosten",
+      "titleTarget" : "IHS: Zaključavanje bi moglo koštati 1 do 1,5 milijardi eura tjedno",
+      "url" : "https://kurier.at/wirtschaft/kocher-lockdown-koennte-pro-woche-1-bis-15-mrd-euro-kosten/401099214"
     }, {
-      "id" : "FuHHoxhu",
-      "imgUrl" : "https://image.kurier.at/images/original/4131909/46-159958252.jpg",
-      "titleSource" : "Etihad kündigt Flüge zwischen Tel Aviv und Abu Dhabi an",
-      "titleTarget" : "Etihad najavljuje letove između Tel Aviva i Abu Dhabija",
-      "url" : "https://kurier.at/wirtschaft/etihad-kuendigt-fluege-zwischen-tel-aviv-und-abu-dhabi-an/401098746"
-    }, {
-      "id" : "4x59g07Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4421492/46-164879014.jpg",
-      "titleSource" : "Nissan erwägt Verkauf von Beteiligung an Mitsubishi Motors",
-      "titleTarget" : "Nissan razmišlja o prodaji svog udjela u Mitsubishi Motorsu",
-      "url" : "https://kurier.at/wirtschaft/nissan-erwaegt-verkauf-von-beteiligung-an-mitsubishi-motors/401098701"
+      "id" : "SeWgZour",
+      "imgUrl" : "https://image.kurier.at/images/original/4722174/78370011357187136_BLD_Online.jpg",
+      "titleSource" : "Coronakrise: AMS stellt die meisten Schulungen auf Fernlehre um",
+      "titleTarget" : "Koronska kriza: AMS pretvara većinu tečajeva u učenje na daljinu",
+      "url" : "https://kurier.at/wirtschaft/coronakrise-ams-stellt-die-meisten-schulungen-auf-fernlehre-um/401099022"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "o0I5sIGC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
-      "titleSource" : "„Harter Lockdown ist sinnvolle Maßnahme“",
-      "titleTarget" : "\"Tvrdo zaključavanje je razumna mjera\"",
-      "url" : "https://noe.orf.at/stories/3076032/"
-    }, {
-      "id" : "4Mq2ag3T",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/01/crops/w=1280/750743_opener_260601_neos2.jpg?s=db2819bf2488b1918d95fe35305032a86b5fc31e",
-      "titleSource" : "Rot-Pink-Verhandlungen abgeschlossen",
-      "titleTarget" : "Završeni crveno-ružičasti pregovori",
-      "url" : "https://wien.orf.at/stories/3076078/"
-    }, {
-      "id" : "T3mDZTzk",
-      "imgUrl" : "https://image.kurier.at/images/original/4761081/46-168471079.jpg",
-      "titleSource" : "Kontakte: Nur ein \"Einzelner\" darf anderen Haushalt treffen",
-      "titleTarget" : "Kontakti: Samo \"pojedinac\" može upoznati druga kućanstva",
-      "url" : "https://kurier.at/chronik/oesterreich/kontakte-nur-ein-einzelner-darf-anderen-haushalt-treffen/401098494"
+      "id" : "WI8YZ7jY",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/97/crops/w=1280/743972_opener_258197_laerm1.jpeg?s=bb14717051af394a91afecb22d12ca3dca18bc4a",
+      "titleSource" : "Kärntens erste „grüne“ Lärmschutzwand",
+      "titleTarget" : "Prva \"zelena\" zaštitna izolacija u Koruškoj",
+      "url" : "https://kaernten.orf.at/stories/3074877/"
     }, {
       "id" : "vxR65XXs",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/39/crops/w=1280/753724_opener_261739_wave1.jpg?s=95d9e747877bcb2f9baf1bf8e9b24a65995bb8b9",
@@ -116,44 +104,62 @@
       "titleTarget" : "Wörglerovom valu prijeti zatvaranje",
       "url" : "https://tirol.orf.at/stories/3076116/"
     }, {
+      "id" : "385PX43h",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/19/crops/w=1280/684336_opener_236319_hebein5.jpg?s=b46bc96f294001665dac7260b8f5b7a0fe0c2166",
+      "titleSource" : "Kein Posten für Birgit Hebein im Klub",
+      "titleTarget" : "Nema pozicije za Birgit Hebein u klubu",
+      "url" : "https://wien.orf.at/stories/3076076/"
+    }, {
+      "id" : "T3mDZTzk",
+      "imgUrl" : "https://image.kurier.at/images/original/4761081/46-168471079.jpg",
+      "titleSource" : "Kontakte: Nur ein \"Einzelner\" darf anderen Haushalt treffen",
+      "titleTarget" : "Kontakti: Samo \"pojedinac\" može upoznati druga kućanstva",
+      "url" : "https://kurier.at/chronik/oesterreich/kontakte-nur-ein-einzelner-darf-anderen-haushalt-treffen/401098494"
+    }, {
       "id" : "qjhTkwER",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/54/crops/w=1280/751146_opener_260754_2020112_kh_zahlenchaos_bei_infektionsmeldungen_201112_00_00_01_01.jpg?s=7ca4d0ed342699e200309269f497c69989c058cb",
       "titleSource" : "Soldaten helfen beim Contact-Tracing",
       "titleTarget" : "Vojnici pomažu u traženju kontakata",
       "url" : "https://steiermark.orf.at/stories/3075765/"
     }, {
-      "id" : "I5LhAgMU",
-      "imgUrl" : "https://image.kurier.at/images/original/4760829/46-168671194.jpg",
-      "titleSource" : "574 Verstöße gegen nächtliche Ausgangssperre angezeigt",
-      "titleTarget" : "Prijavljeno 574 prekršaja noćnog policijskog sata",
-      "url" : "https://kurier.at/chronik/oesterreich/574-verstoesse-gegen-naechtliche-ausgangssperre-angezeigt/401098383"
+      "id" : "tuMRuGaK",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/29/38/crops/w=1280/625461_opener_214738_bildung_schule_wien_gymnasium_11_zko.jpg?s=5236fc92ff4d6ce34dc694d125a77fbe3dcc1263",
+      "titleSource" : "Viele wollen Betreuung an Schulen nutzen",
+      "titleTarget" : "Mnogi žele koristiti podršku u školama",
+      "url" : "https://wien.orf.at/stories/3076137/"
     }, {
-      "id" : "r66C3TGa",
+      "id" : "alginJIC",
       "imgUrl" : "https://image.kurier.at/images/original/4757382/illu_corona_statistik_1.png",
-      "titleSource" : "5.665 Neuinfektionen in Österreich",
-      "titleTarget" : "5.665 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/5665-neuinfektionen-in-oesterreich/401093757"
+      "titleSource" : "4.657 Neuinfektionen in Österreich",
+      "titleTarget" : "4.657 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/4657-neuinfektionen-in-oesterreich/401093757"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "baDdueTU",
-      "imgUrl" : "https://image.kurier.at/images/original/4627379/46-163074700.jpg",
-      "titleSource" : "ORF-Moderatorin Nadja Bernhard positiv auf Corona getestet",
-      "titleTarget" : "Voditeljica ORF-a Nadja Bernhard testirala se pozitivno na Coronu",
-      "url" : "https://kurier.at/kultur/medien/orf-moderatorin-nadja-bernhard-positiv-auf-corona-getestet/401098371"
+      "id" : "5E1eXuA6",
+      "imgUrl" : "https://image.kurier.at/images/original/4762089/46-166201778.jpg",
+      "titleSource" : "Kultur-Lockdown: Pianist Krumpöck will Verfassungsklage einbringen",
+      "titleTarget" : "Zaključavanje kulture: pijanist Krumpöck želi podnijeti ustavnu tužbu",
+      "url" : "https://kurier.at/kultur/kultur-lockdown-pianist-krumpoeck-will-verfassungsklage-einbringen/401099085"
     }, {
-      "id" : "iyzH0gPn",
-      "imgUrl" : "https://image.kurier.at/images/original/4760124/46-168831506.jpg",
-      "titleSource" : "Kultur-Lockdown: Diese Premieren müssen verschoben werden",
-      "titleTarget" : "Zaključavanje kulture: ove premijere moraju se odgoditi",
-      "url" : "https://kurier.at/kultur/kultur-lockdown-diese-premieren-muessen-verschoben-werden/401098170"
+      "id" : "CfeMzy59",
+      "imgUrl" : "https://image.kurier.at/images/original/4760103/46-168863544.jpg",
+      "titleSource" : "Mit \"Expedition Arktis\" und Thunberg in die Epizentren des Klimawandels",
+      "titleTarget" : "S \"Expedition Arktis\" i Thunbergom u epicentre klimatskih promjena",
+      "url" : "https://kurier.at/kultur/medien/mit-expedition-arktis-und-thunberg-in-die-epizentren-des-klimawandels/401098665"
     }, {
       "id" : "Uo49l6YA",
       "imgUrl" : "https://image.kurier.at/images/original/4761600/46-168705679.jpg",
       "titleSource" : "Anträge auf Künstler-Sonderbonus ab Dienstag möglich",
       "titleTarget" : "Od utorka moguće prijave za specijalni bonus za umjetnike",
       "url" : "https://kurier.at/kultur/antraege-auf-kuenstler-sonderbonus-ab-dienstag-moeglich/401098890"
+    }, {
+      "id" : "cNaIqCyd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/6/5898262/The-coronavirus-disease-COVID-19-outbreak-in-Barcelona_160552715337256_v0_h.jpg",
+      "titleSource" : "Kultur-Lockdown: Pianist Krumpöck will Verfassungsklage einbringen",
+      "titleTarget" : "Zaključavanje kulture: pijanist Krumpöck želi podnijeti ustavnu tužbu",
+      "url" : "https://www.diepresse.com/5898262/Recht_KulturLockdown_Pianist-Krumpoeck-will-Verfassungsklage?from=rss"
     }, {
       "id" : "pvYmMq5q",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/9/5891321/8428068E-383B-4928-BA39-40AE257FE98C_v0_l.jpg",
@@ -166,12 +172,6 @@
       "titleSource" : "Miss Piggy wird zur Influencerin",
       "titleTarget" : "Gospođica Piggy postaje influencerica",
       "url" : "https://www.diepresse.com/5897949/Streaming_Miss-Piggy-wird-zur-Influencerin?from=rss"
-    }, {
-      "id" : "zuZI9Py2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/d/9/5897945/1832F974-4AD1-4CC8-B617-C2A8142579D5_v0_h.jpg",
-      "titleSource" : "ORF-Moderatorin Nadja Bernhard an Covid-19 erkrankt",
-      "titleTarget" : "Voditeljica ORF-a Nadja Bernhard razboljela se od Covid-19",
-      "url" : "https://www.diepresse.com/5897945/Coronavirus_ORFModeratorin-Nadja-Bernhard-an-Covid19-erkrankt?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -179,45 +179,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "KFQoiLIG",
-      "imgUrl" : "https://image.kurier.at/images/original/4760271/46-168896414.jpg",
-      "titleSource" : "Rekordtitel fixiert: Hamilton ist zum siebenten Mal Weltmeister",
-      "titleTarget" : "Popravljen rekordni naslov: Hamilton je sedmi put svjetski prvak",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-lewis-hamilton-siegt-in-der-tuerkei-und-ist-zum-siebenten-mal-weltmeister/401098086"
-    }, {
       "id" : "UVGL7UH0",
       "imgUrl" : "https://image.kurier.at/images/original/4761006/20201115-ABD0083-1-1.jpg",
       "titleSource" : "Nations League: Österreich blamiert sich - und gewinnt",
       "titleTarget" : "Liga nacija: Austrija se sramoti - i pobjeđuje",
       "url" : "https://kurier.at/sport/fussball/fussball-nations-league-oesterreich-dreht-die-partie-gegen-nordirland/401098302"
     }, {
-      "id" : "MPkU7Mzw",
-      "imgUrl" : "https://image.kurier.at/images/original/4760769/46-168897674.jpg",
-      "titleSource" : "ATP Finals: Erfolgreiche Revanche von Dominic Thiem",
-      "titleTarget" : "ATP finale: Uspješna osveta Dominica Thiema",
-      "url" : "https://kurier.at/sport/tennis/tennis-atp-finals-erfolgreiche-revanche-von-dominic-thiem/401098044"
-    }, {
-      "id" : "H8z8pcL2",
-      "titleSource" : "Sabalenka gewinnt WTA-Turnier in Linz",
-      "titleTarget" : "Sabalenka je osvojila WTA turnir u Linzu",
-      "url" : "https://sport.orf.at/stories/3069373/"
-    }, {
       "id" : "AwTg1Df0",
       "titleSource" : "Norweger dürfen mit Ersatzteam nach Wien",
       "titleTarget" : "Norvežani smiju put Beča s zamjenskim timom",
       "url" : "https://sport.orf.at/stories/3069397/"
     }, {
-      "id" : "txEx2hma",
-      "imgUrl" : "https://image.kurier.at/images/original/4760700/46-168899329.jpg",
-      "titleSource" : "Fußball-England trauert um Ex-Team-Tormann",
-      "titleTarget" : "Nogomet Engleska oplakuje bivšeg vratara momčadi",
-      "url" : "https://kurier.at/sport/fussball/fussball-england-trauert-um-ex-team-tormann-ray-clemence/401098347"
+      "id" : "U4mYN6IZ",
+      "titleSource" : "Hans Niessl: \"Es muss eine Bewegungsoffensive geben\"",
+      "titleTarget" : "Hans Niessl: \"Mora postojati ofenziva pokreta\"",
+      "url" : "https://kurier.at/sport/hans-niessl-es-muss-eine-bewegungsoffensive-geben/401099496"
     }, {
-      "id" : "nQl4uM9G",
-      "imgUrl" : "https://image.kurier.at/images/original/4760337/46-168895653.jpg",
-      "titleSource" : "Rekordmann Hamilton: \"Wollte nicht, dass sie meine Tränen sehen\"",
-      "titleTarget" : "Rekorder Hamilton: \"Nisam htio da mi vide suze\"",
-      "url" : "https://kurier.at/sport/motorsport/lewis-hamilton-und-der-7-wm-titel-in-der-formel-1-das-uebertrifft-meine-traeume/401098212"
+      "id" : "NZTZ7EWF",
+      "titleSource" : "Djokovic startet ATP-Finals mit lockerem Sieg",
+      "titleTarget" : "Đoković laganom pobjedom započinje ATP finale",
+      "url" : "https://sport.orf.at/stories/3069413/"
+    }, {
+      "id" : "av81EYl1",
+      "imgUrl" : "https://image.kurier.at/images/original/4761387/46-168904067.jpg",
+      "titleSource" : "ÖFB-Teamchef Foda nach Sieg sauer: \"Kann es nicht mehr hören\"",
+      "titleTarget" : "Šef ÖFB tima Foda ljut nakon pobjede: \"Ne čujem više\"",
+      "url" : "https://kurier.at/sport/fussball/oefb-teamchef-foda-nach-sieg-gegen-nordirland-in-nations-league-sauer-kann-es-nicht-mehr-hoeren/401098734"
+    }, {
+      "id" : "lYT8rWdq",
+      "imgUrl" : "https://image.kurier.at/images/original/4762530/46-168907125.jpg",
+      "titleSource" : "Vor ÖFB-Duell mit Norwegen: Arnautovic \"100 Prozent fit\"",
+      "titleTarget" : "Prije dvoboja ÖFB-a s Norveškom: Arnautović \"100 posto u formi\"",
+      "url" : "https://kurier.at/sport/fussball/vor-oefb-duell-mit-norwegen-marko-arnautovic-100-prozent-fit/401099343"
+    }, {
+      "id" : "tGXTJPAM",
+      "titleSource" : "„Joker“ bringen Wende gegen Nordirland",
+      "titleTarget" : "\"Joker\" preokreće stvari protiv Sjeverne Irske",
+      "url" : "https://sport.orf.at/stories/3069393/"
     } ]
   } ],
   "country" : "austria",
