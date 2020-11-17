@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "QuCePp9Y",
-      "imgUrl" : "https://image.kurier.at/images/original/2320887/46-104058098.jpg",
-      "titleSource" : "Rendi-Wagner \"eine auflegen\": ÖVP-Urgestein Khol entschuldigt sich",
-      "titleTarget" : "Rendi-Wagner \"spusti slušalicu\": veteran ÖVP-a Khol se ispričava",
-      "url" : "https://kurier.at/politik/inland/oevp-urgestein-khol-meint-man-solle-rendi-wagner-nach-kritik-eine-auflegen/401099322"
-    }, {
-      "id" : "Rv4Ds4BK",
-      "imgUrl" : "https://image.kurier.at/images/original/4762008/46-168808324.jpg",
-      "titleSource" : "Testen der Bevölkerung: Experten bezweifeln den Sinn",
-      "titleTarget" : "Testiranje populacije: stručnjaci sumnjaju u smisao",
-      "url" : "https://kurier.at/politik/inland/testen-der-bevoelkerung-experten-bezweifeln-den-sinn/401099061"
-    }, {
-      "id" : "dsZoBT8Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4745958/46-168629113.jpg",
-      "titleSource" : "Van der Bellen: \"Wir gehen gemeinsam durch diesen Lockdown\"",
-      "titleTarget" : "Van der Bellen: \"Zajedno prolazimo kroz ovo zaključavanje\"",
-      "url" : "https://kurier.at/politik/inland/van-der-bellen-wir-gehen-gemeinsam-durch-diesen-lockdown/401099412"
-    }, {
-      "id" : "Aznx4lVl",
-      "imgUrl" : "https://image.kurier.at/images/original/4762818/46-164380289.jpg",
-      "titleSource" : "Corona: Friseure und Kosmetiker erhalten 100 Euro als Trinkgeld-Ersatz",
-      "titleTarget" : "Corona: Frizeri i kozmetičari dobivaju 100 eura kao zamjenu za napojnicu",
-      "url" : "https://kurier.at/politik/inland/corona-friseure-und-kosmetiker-erhalten-100-euro-als-trinkgeld-ersatz/401099505"
+      "id" : "5Ftr6iAZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4518812/46-163627619.jpg",
+      "titleSource" : "Budgetdebatte: Kickl bezeichnet Finanzminister als \"Demenzpatienten\"",
+      "titleTarget" : "Rasprava o proračunu: Kickl ministra financija naziva \"pacijentom s demencijom\"",
+      "url" : "https://kurier.at/politik/inland/nationalrat-kickl-bezeichnet-finanzminister-als-demenzpatienten/401100219"
     }, {
       "id" : "3rZ0FbDc",
       "imgUrl" : "https://image.kurier.at/images/original/4763175/46-168807646.jpg",
@@ -32,50 +14,56 @@
       "titleTarget" : "Borba protiv korone: Rendi-Wagner predstavlja plan u pet točaka",
       "url" : "https://kurier.at/politik/inland/corona-rendi-wagner-mit-fuenf-punkte-plan/401099745"
     }, {
-      "id" : "tA0lsllr",
-      "imgUrl" : "https://image.kurier.at/images/original/4762119/46-101163552.jpg",
-      "titleSource" : "60 Euro Pensionszuschlag statt Hacklerregelung: Kritik von allen Seiten",
-      "titleTarget" : "Dodatak na mirovinu od 60 eura umjesto hakiranja propisa: kritika sa svih strana",
-      "url" : "https://kurier.at/politik/inland/60-euro-pensionszuschlag-statt-hacklerregelung-kritik-von-allen-seiten/401099100"
+      "id" : "Enz6gkz0",
+      "imgUrl" : "https://image.kurier.at/images/original/4761798/20201116-ABD0034-1-1.jpg",
+      "titleSource" : "Anschober zu Corona-Lage: Stabilisierung auf \"dramatisch hohem Niveau\"",
+      "titleTarget" : "Situacija s Coronom: Stabilizacija na \"dramatično visokoj razini\"",
+      "url" : "https://kurier.at/politik/inland/anschober-zu-corona-lage-stabilisierung-auf-dramatisch-hohem-niveau/401100534"
     }, {
-      "id" : "JllxyGFm",
-      "imgUrl" : "https://image.kurier.at/images/original/4694667/20201013-ABD0007-1-1.jpg",
-      "titleSource" : "Grasser-Prozess: Urteilsverkündung wegen Lockdown verschoben",
-      "titleTarget" : "Suđenje Grasseru: presuda odgođena zbog zaključavanja",
-      "url" : "https://kurier.at/politik/inland/grasser-prozess-urteilsverkuendung-wegen-lockdown-verschoben/401099328"
+      "id" : "WkqdOrnC",
+      "imgUrl" : "https://image.kurier.at/images/original/4763967/46-168912012.jpg",
+      "titleSource" : "\"Sind inzwischen dunkel-dunkelrot\": Wie Kurz den Lockdown erklärt",
+      "titleTarget" : "\"Jesu li sada tamno-tamnocrvene\": Kako Kurz objašnjava zaključavanje",
+      "url" : "https://kurier.at/politik/inland/kurz-erklaert-lockdown-auf-oe3-wir-sind-inzwischen-dunkel-dunkelrot/401100207"
+    }, {
+      "id" : "oZVi0p6f",
+      "imgUrl" : "https://image.kurier.at/images/original/4763955/46-168934202.jpg",
+      "titleSource" : "Budget 2021: Stärkster Einbruch seit dem Zweiten Weltkrieg",
+      "titleTarget" : "Proračun 2021: Najgora kriza od Drugog svjetskog rata",
+      "url" : "https://kurier.at/politik/inland/budget-2021-staerkster-einbruch-seit-dem-zweiten-weltkrieg/401100186"
+    }, {
+      "id" : "x8N8lp8I",
+      "imgUrl" : "https://image.kurier.at/images/original/4764510/46-168866300.jpg",
+      "titleSource" : "Corona-Plan von Türkis-Grün: Sinn der Massentests in der Slowakei umstritten",
+      "titleTarget" : "Plan tirkizno-zelene korone: Značenje testova mase u Slovačkoj je kontroverzno",
+      "url" : "https://kurier.at/politik/inland/corona-plan-von-tuerkis-gruen-sinn-der-massentests-in-der-slowakei-umstritten/401100474"
+    }, {
+      "id" : "W6L7C7ZN",
+      "imgUrl" : "https://image.kurier.at/images/original/4726215/46-168073560.jpg",
+      "titleSource" : "Verfassungsexperte Funk: Ausgangsregeln \"missglückt\" und \"sehr unerfreulich\"",
+      "titleTarget" : "Ustavni stručnjak Funk: početna pravila \"neuspješna\" i \"vrlo neugodna\"",
+      "url" : "https://kurier.at/politik/inland/verfassungsexperte-funk-ausgangsregeln-missglueckt-und-sehr-unerfreulich/401100384"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "r0Q54Hzq",
-      "imgUrl" : "https://image.kurier.at/images/original/4736940/46-166037860.jpg",
-      "titleSource" : "Spar, Hofer und Lidl wollen Sortiment im Lockdown nicht einschränken",
-      "titleTarget" : "Spar, Hofer i Lidl ne žele ograničiti domet u zaključavanju",
-      "url" : "https://kurier.at/wirtschaft/spar-hofer-und-lidl-wollen-sortiment-im-lockdown-nicht-einschraenken/401099277"
+      "id" : "fUCRMYPo",
+      "imgUrl" : "https://image.kurier.at/images/original/4763511/20201117-ABD0031-1-1.jpg",
+      "titleSource" : "Umsatzersatz, Fixkostenzuschuss: Ab Montag zu beantragen",
+      "titleTarget" : "Zamjena prodaje, subvencija s fiksnim troškovima: zatražit će se od ponedjeljka",
+      "url" : "https://kurier.at/wirtschaft/umsatzersatz-fixkostenzuschuss-ab-montag-zu-beantragen/401100051"
     }, {
-      "id" : "mMlx59e7",
-      "imgUrl" : "https://image.kurier.at/images/original/4753521/46-168794116.jpg",
-      "titleSource" : "BioNTech-Aktien unter Druck, Moderna-Impfstoff auch hoch wirksam",
-      "titleTarget" : "Zalihe BioNTech-a pod pritiskom, cjepivo Moderna također je vrlo učinkovito",
-      "url" : "https://kurier.at/wirtschaft/biontech-aktien-unter-druck-moderna-impfstoff-auch-hoch-wirksam/401099223"
+      "id" : "1apady4U",
+      "imgUrl" : "https://image.kurier.at/images/original/4763427/46-168921945.jpg",
+      "titleSource" : "Onlinehandel: Wer vom Lockdown am meisten profitiert",
+      "titleTarget" : "Internetska trgovina: tko će najviše profitirati od zaključavanja",
+      "url" : "https://kurier.at/wirtschaft/onlinehandel-wer-vom-lockdown-am-meisten-profitiert/401099931"
     }, {
-      "id" : "SeWgZour",
-      "imgUrl" : "https://image.kurier.at/images/original/4722174/78370011357187136_BLD_Online.jpg",
-      "titleSource" : "Coronakrise: AMS stellt die meisten Schulungen auf Fernlehre um",
-      "titleTarget" : "Koronska kriza: AMS pretvara većinu tečajeva u učenje na daljinu",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-ams-stellt-die-meisten-schulungen-auf-fernlehre-um/401099022"
-    }, {
-      "id" : "DVULIlr0",
-      "imgUrl" : "https://image.kurier.at/images/original/4758645/46-168820783.jpg",
-      "titleSource" : "Corona-Impfstoffe: BioNTech kommt auch bei Entwicklung in China voran",
-      "titleTarget" : "Koronska cjepiva: BioNTech također napreduje s razvojem u Kini",
-      "url" : "https://kurier.at/wirtschaft/corona-impfstoffe-biontech-kommt-auch-bei-entwicklung-in-china-voran/401099055"
-    }, {
-      "id" : "qTKUg6GR",
-      "imgUrl" : "https://image.kurier.at/images/original/4690176/46-167971198.jpg",
-      "titleSource" : "IHS: Lockdown könnte pro Woche 1 bis 1,5 Milliarden Euro kosten",
-      "titleTarget" : "IHS: Zaključavanje bi moglo koštati 1 do 1,5 milijardi eura tjedno",
-      "url" : "https://kurier.at/wirtschaft/kocher-lockdown-koennte-pro-woche-1-bis-15-mrd-euro-kosten/401099214"
+      "id" : "YnEFC2ZE",
+      "imgUrl" : "https://image.kurier.at/images/original/4757103/46-168837639.jpg",
+      "titleSource" : "Steil nach unten: 70 Prozent weniger Fluggäste in Schwechat",
+      "titleTarget" : "Strmo prema dolje: 70 posto manje putnika u Schwechatu",
+      "url" : "https://kurier.at/wirtschaft/steil-nach-unten-70-prozent-weniger-fluggaeste-in-schwechat/401099838"
     }, {
       "id" : "WMAI6lo0",
       "imgUrl" : "https://image.kurier.at/images/original/4684794/20201008-ABD0016-1-1.jpg",
@@ -83,70 +71,87 @@
       "titleTarget" : "Wirecard: osnovna djelatnost prodana Santanderu",
       "url" : "https://kurier.at/wirtschaft/wirecard-kerngeschaeft-an-santander-verkauft/401099646"
     }, {
-      "id" : "inwsuKYv",
-      "imgUrl" : "https://image.kurier.at/images/original/4229693/78370011353969780_BLD_Online.jpg",
-      "titleSource" : "Österreicher haben kurze Wege zum nächsten Bankomaten",
-      "titleTarget" : "Austrijanci imaju kratku udaljenost do najbližeg bankomata",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-haben-kurze-wege-zum-naechsten-bankomaten/401099271"
+      "id" : "52hhjYBG",
+      "imgUrl" : "https://image.kurier.at/images/original/4656607/78370011356625330_BLD_Online.jpg",
+      "titleSource" : "Übernahme der Casinos Austria durch tschechische Sazka-Gruppe bewilligt",
+      "titleTarget" : "Odobreno preuzimanje kazina Austrije od strane češke grupe Sazka",
+      "url" : "https://kurier.at/wirtschaft/uebernahme-der-casinos-austria-durch-tschechische-sazka-gruppe-bewilligt/401100276"
+    }, {
+      "id" : "zJk1ZnEP",
+      "imgUrl" : "https://image.kurier.at/images/original/3476053/46-62942008.jpg",
+      "titleSource" : "Gute Nachrichten von Rosenbauer: Mehr Umsatz, mehr Gewinn",
+      "titleTarget" : "Dobre vijesti od Rosenbauera: više prometa, više profita",
+      "url" : "https://kurier.at/wirtschaft/gute-nachrichten-von-rosenbauer-mehr-umsatz-mehr-gewinn/401100156"
+    }, {
+      "id" : "FqPkp43U",
+      "imgUrl" : "https://image.kurier.at/images/original/4636466/78370011356458138_BLD_Online.jpg",
+      "titleSource" : "Mehr als 82.700 Menschen krisenbedingt ohne Job",
+      "titleTarget" : "Više od 82.700 ljudi bez posla zbog krize",
+      "url" : "https://kurier.at/wirtschaft/arbeitsmarktkrise-613602-menschen-ohne-job-oder-in-kurzarbeit/401100009"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "PTCxCHKp",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/15/crops/w=1280/754736_opener_262115_201116_bh_neuerungen_jagdwesen_00.01.07.11.jpg?s=1d231650b5d027199be010a49a2217ad6fc55a44",
-      "titleSource" : "Jagdgesetz: Gatterjagd bleibt, Verband entmachtet",
-      "titleTarget" : "Zakon o lovstvu: lov na vrata ostaje, udruženje obespravljeno",
-      "url" : "https://burgenland.orf.at/stories/3076244/"
+      "id" : "HTePoKzm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/69/crops/w=1280/755141_opener_262269_lewit.jpg?s=930a0ad00f4672c1b6955a59f19445fae1404b7e",
+      "titleSource" : "Holocaust-Überlebender Aba Lewit tot",
+      "titleTarget" : "Preživjeli holokaust Aba Lewit mrtav",
+      "url" : "https://wien.orf.at/stories/3076328/"
     }, {
-      "id" : "KQUm6bUl",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/36/19/crops/w=1280/281228_opener_85819_bodensee_voegel.jpg?s=017d04b3490bf48569614c7187fc153d1cae54b0",
-      "titleSource" : "Geflügelpest im Anmarsch",
-      "titleTarget" : "Ptičja gripa na pristupu",
-      "url" : "https://vorarlberg.orf.at/stories/3076277/"
+      "id" : "6V0VPPJf",
+      "imgUrl" : "https://image.kurier.at/images/original/4761870/20201116-ABD0051-1-1.jpg",
+      "titleSource" : "Trotz Lockdowns: Waffen, Tiere und Reisen dürfen verkauft werden",
+      "titleTarget" : "Unatoč zaključavanju: oružje, životinje i putovanja mogu se prodati",
+      "url" : "https://kurier.at/chronik/oesterreich/trotz-lockdown-waffen-tiere-und-reisen-duerfen-verkauft-werden/401100129"
     }, {
-      "id" : "RWZSiIsC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/50/crops/w=1280/754614_opener_262050_test_5.jpg?s=ef3192b301007ab59fd41e4ec439c5cc881a6efd",
-      "titleSource" : "Privater Corona-Testcontainer in Eisenstadt",
-      "titleTarget" : "Privatni kontejner za testiranje korone u Eisenstadtu",
-      "url" : "https://burgenland.orf.at/stories/3076221/"
+      "id" : "u9i9oNWP",
+      "titleSource" : "Fliegerbombe in Augarten entschärft",
+      "titleTarget" : "Zračna bomba razbijena u Augartenu",
+      "url" : "https://wien.orf.at/stories/3076365/"
     }, {
-      "id" : "tIYpkzle",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/34/crops/w=1280/749222_opener_260034_merk__fuerop_abd0007_1.jpg?s=d38cee8ef4ffe58f41e95d8b2fadaaed56c03cfe",
-      "titleSource" : "Mehr als „Mundl“: Karl Merkatz wird 90",
-      "titleTarget" : "Više od \"Mundla\": Karl Merkatz navršava 90 godina",
-      "url" : "https://noe.orf.at/stories/3075441/"
-    }, {
-      "id" : "iVcUjWy1",
-      "titleSource" : "Positive Person im Bus von Bosnien nach Graz",
-      "titleTarget" : "Pozitivna osoba u autobusu iz Bosne za Graz",
-      "url" : "https://steiermark.orf.at/stories/3076247/"
+      "id" : "17la8EPG",
+      "titleSource" : "Sonderschulen fühlen sich im Stich gelassen",
+      "titleTarget" : "Specijalne škole osjećaju se napušteno",
+      "url" : "https://wien.orf.at/stories/3076308/"
     }, {
       "id" : "UQvnoBPe",
-      "imgUrl" : "https://image.kurier.at/images/original/4759716/46-168865172.jpg",
-      "titleSource" : "Kurz: \"dunkelrotes\" Österreich zum Lockdown-Start; 5.984 neue positive Tests",
+      "imgUrl" : "https://image.kurier.at/images/original/4764999/46-168692329.jpg",
+      "titleSource" : "In der Schweiz sind alle Intensivbetten belegt; 5.984 Neuinfektionen in Österreich",
       "titleTarget" : "Ukratko: \"tamnocrvena\" Austrija na početku zaključavanja; 5.984 novih pozitivnih testova",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-liveticker-oesterreich-wieder-im-voll-lockdown-biden-stimmt-usa-auf-dunklen-winter-ein/401099730"
     }, {
-      "id" : "avNR3AJq",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/93/crops/w=1280/754916_opener_262193_link_oest_kurzparkzone_doh.jpg?s=b6bfbf718857fc76e2e62e36aa71c7bd7760f149",
-      "titleSource" : "Aufhebung der Kurzparkzonen wieder Thema",
-      "titleTarget" : "Uklanjanje kratkoročnih zona parkiranja opet tema",
-      "url" : "https://oesterreich.orf.at/stories/3076236/"
+      "id" : "0vrTVCGQ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/64/crops/w=1280/495769_opener_167064_7948ba69-22c5-4a9b-8ed1-df056fe97baa.jpg?s=6ad01bca9fe64f96b558cc46aaf177ae3680410c",
+      "titleSource" : "AUA streicht Gratissnacks an Bord",
+      "titleTarget" : "AUA poklanja besplatne grickalice na brodu",
+      "url" : "https://wien.orf.at/stories/3076339/"
+    }, {
+      "id" : "tyZrq0Yz",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/36/21/crops/w=1280/285188_opener_87321_education-908512.jpg?s=d2dcd5a21f0502360c63cfcb22902486b1f51350",
+      "titleSource" : "Schülerbetreuung: Nachfrage deutlich größer",
+      "titleTarget" : "Briga o studentima: potražnja znatno veća",
+      "url" : "https://vorarlberg.orf.at/stories/3076307/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "5E1eXuA6",
-      "imgUrl" : "https://image.kurier.at/images/original/4762089/46-166201778.jpg",
-      "titleSource" : "Kultur-Lockdown: Pianist Krumpöck will Verfassungsklage einbringen",
-      "titleTarget" : "Zaključavanje kulture: pijanist Krumpöck želi podnijeti ustavnu tužbu",
-      "url" : "https://kurier.at/kultur/kultur-lockdown-pianist-krumpoeck-will-verfassungsklage-einbringen/401099085"
+      "id" : "qc6DqWgq",
+      "imgUrl" : "https://image.kurier.at/images/original/4764207/46-168920766.jpg",
+      "titleSource" : "Von Delon bis zur Queen: Radiosender veröffentlicht fälschlicherweise rund 100 Nachrufe",
+      "titleTarget" : "Od Delona do kraljice: Radio stanice pogrešno objavljuju oko 100 osmrtnica",
+      "url" : "https://kurier.at/kultur/medien/von-delon-bis-zur-queen-radiosender-veroeffentlicht-faelschlicherweise-rund-100-nachrufe/401100321"
     }, {
-      "id" : "tvtuW0DL",
-      "imgUrl" : "https://image.kurier.at/images/original/4763349/46-107558147.jpg",
-      "titleSource" : "Dieser Hitchcock-Thriller wird neu verfilmt - aus der Sicht der Frau",
-      "titleTarget" : "Ovaj Hitchcockov triler bit će prepravljen sa ženskog gledišta",
-      "url" : "https://kurier.at/kultur/medien/dieser-hitchcock-thriller-wird-neu-verfilmt-aus-der-sicht-der-frau/401099871"
+      "id" : "Khx86kZY",
+      "imgUrl" : "https://image.kurier.at/images/original/4762086/46-168480472.jpg",
+      "titleSource" : "... und wieder 21 Bücher, ganz kurz",
+      "titleTarget" : "... i opet 21 knjigu, vrlo kratko",
+      "url" : "https://kurier.at/kultur/buch/und-wieder-21-buecher-ganz-kurz/401099184"
+    }, {
+      "id" : "RI3QAKlG",
+      "imgUrl" : "https://image.kurier.at/images/original/4303688/78350011454520496_BLD_Online.jpg",
+      "titleSource" : "Barack Obama gibt Rap-Videos Mitschuld an Beliebtheit von Donald Trump",
+      "titleTarget" : "Barack Obama za popularnost Donalda Trumpa krivi rap spotove",
+      "url" : "https://kurier.at/kultur/barack-obama-gibt-rap-videos-mitschuld-an-beliebtheit-von-donald-trump/401100117"
     }, {
       "id" : "pU8nhHSs",
       "imgUrl" : "https://image.kurier.at/images/original/4763277/46-167309527.jpg",
@@ -154,29 +159,23 @@
       "titleTarget" : "Taylor Swift uzima svoju staru glazbu nakon spora oko glazbenih prava",
       "url" : "https://kurier.at/kultur/taylor-swift-nimmt-nach-streit-um-musikrechte-ihre-alte-musik-neu-auf/401099820"
     }, {
+      "id" : "tvtuW0DL",
+      "imgUrl" : "https://image.kurier.at/images/original/4763349/46-107558147.jpg",
+      "titleSource" : "Dieser Hitchcock-Thriller wird neu verfilmt - aus der Sicht der Frau",
+      "titleTarget" : "Ovaj Hitchcockov triler bit će prepravljen sa ženskog gledišta",
+      "url" : "https://kurier.at/kultur/medien/dieser-hitchcock-thriller-wird-neu-verfilmt-aus-der-sicht-der-frau/401099871"
+    }, {
       "id" : "wetCs4du",
       "imgUrl" : "https://image.kurier.at/images/original/4763307/46-156748578.jpg",
       "titleSource" : "Regisseur Judd Apatow dreht Pandemie-Komödie für Netflix",
       "titleTarget" : "Redatelj Judd Apatow za Netflix snima pandemijsku komediju",
       "url" : "https://kurier.at/kultur/medien/regisseur-judd-apatow-dreht-pandemie-komoedie-fuer-netflix/401099835"
     }, {
-      "id" : "096rtP2q",
-      "imgUrl" : "https://image.kurier.at/images/original/4762317/46-168910068.jpg",
-      "titleSource" : "\"Sie wollen uns erzählen\": Tocotronic-Songtexte als Comic",
-      "titleTarget" : "\"Žele nam reći\": Tekst pjesme Tocotronic kao strip",
-      "url" : "https://kurier.at/kultur/sie-wollen-uns-erzaehlen-tocotronic-songtexte-als-comic/401099373"
-    }, {
-      "id" : "CfeMzy59",
-      "imgUrl" : "https://image.kurier.at/images/original/4760103/46-168863544.jpg",
-      "titleSource" : "Mit \"Expedition Arktis\" und Thunberg in die Epizentren des Klimawandels",
-      "titleTarget" : "S \"Expedition Arktis\" i Thunbergom u epicentre klimatskih promjena",
-      "url" : "https://kurier.at/kultur/medien/mit-expedition-arktis-und-thunberg-in-die-epizentren-des-klimawandels/401098665"
-    }, {
-      "id" : "RHmaEXXh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/f/5/5898741/Meister-Eder-und-sein-Pumuckl-Pumuckl-und-die-Ostereier_1605608015879337_v0_h.jpg",
-      "titleSource" : "Der Pumuckl kehrt zurück: Was reimt sich auf Remake?",
-      "titleTarget" : "Vraća se Pumuckl: što se rimuje s remakeom?",
-      "url" : "https://www.diepresse.com/5898741/Der-Pumuckl-kehrt-zurueck_Was-reimt-sich-auf-Remake?from=rss"
+      "id" : "pdxIKZz8",
+      "imgUrl" : "https://image.kurier.at/images/original/4763889/ansa_sauermann_gwenmeta2.jpg",
+      "titleSource" : "Ansa Sauermann: \"Ich komme zu spät und bleibe zu lang\"",
+      "titleTarget" : "Ansa Sauermann: \"Kasnim i ostajem predugo\"",
+      "url" : "https://kurier.at/kultur/ansa-sauermann-ich-komme-zu-spaet-und-bleibe-zu-lang/401099994"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,15 +183,27 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "Vr4izMIg",
+      "titleSource" : "Thiem zwingt Nadal in die Knie",
+      "titleTarget" : "Thiem prisiljava Nadala na koljena",
+      "url" : "https://sport.orf.at/stories/3069434/"
+    }, {
       "id" : "0t4A4YYf",
       "titleSource" : "Norwegens B-Elf motiviert für Wien",
       "titleTarget" : "Norveški B-Elf motivira za Beč",
       "url" : "https://sport.orf.at/stories/3069408/"
     }, {
-      "id" : "U4mYN6IZ",
-      "titleSource" : "Hans Niessl: \"Es muss eine Bewegungsoffensive geben\"",
-      "titleTarget" : "Hans Niessl: \"Mora postojati ofenziva pokreta\"",
-      "url" : "https://kurier.at/sport/hans-niessl-es-muss-eine-bewegungsoffensive-geben/401099496"
+      "id" : "yD76upkD",
+      "imgUrl" : "https://image.kurier.at/images/original/4763604/46-168884018.jpg",
+      "titleSource" : "Norwegen warnt vor ÖFB-Spiel: \"Kann zu Infektionen kommen\"",
+      "titleTarget" : "Norveška upozorava na igru ÖFB: \"Mogu se dogoditi infekcije\"",
+      "url" : "https://kurier.at/sport/fussball/norwegen-warnt-vor-oefb-spiel-kann-zu-infektionen-kommen/401100000"
+    }, {
+      "id" : "RY49g3XZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4763100/46-168482306.jpg",
+      "titleSource" : "Für die Fivers beginnt der Lockdown mit einer schweren Prüfung",
+      "titleTarget" : "Za Fiverse zaključavanje započinje teškim iskušenjem",
+      "url" : "https://kurier.at/sport/handball-fuer-die-fivers-faengt-der-lockdown-mit-einer-schweren-pruefung-an/401099670"
     }, {
       "id" : "EnVRDNuC",
       "imgUrl" : "https://image.kurier.at/images/original/4762998/46-168679329.jpg",
@@ -200,26 +211,17 @@
       "titleTarget" : "Hoće li Haaland u subotu riskirati dvije godine zatvora zbog Herthe?",
       "url" : "https://kurier.at/sport/fussball/einsatz-trotz-quarantaene-riskiert-haaland-am-samstag-wegen-hertha-zwei-jahre-haft/401099601"
     }, {
-      "id" : "NZTZ7EWF",
-      "titleSource" : "Djokovic startet ATP-Finals mit lockerem Sieg",
-      "titleTarget" : "Đoković laganom pobjedom započinje ATP finale",
-      "url" : "https://sport.orf.at/stories/3069413/"
+      "id" : "d4qFRqzb",
+      "imgUrl" : "https://image.kurier.at/images/original/4764570/46-161591696.jpg",
+      "titleSource" : "Coronaalarm: Startverbot  für Österreichs Bobpiloten",
+      "titleTarget" : "Alarm na Coroni: pokretanje zabrane austrijskim bob pilotima",
+      "url" : "https://kurier.at/sport/wintersport/coronaalarm-startverbot-fuer-oesterreichs-bobpiloten/401100528"
     }, {
-      "id" : "hSkHo6Sv",
-      "titleSource" : "Hamilton gehen die Ziele nicht aus",
-      "titleTarget" : "Hamiltonu ne ponestaje golova",
-      "url" : "https://sport.orf.at/stories/3069406/"
-    }, {
-      "id" : "lYT8rWdq",
-      "imgUrl" : "https://image.kurier.at/images/original/4762530/46-168907125.jpg",
-      "titleSource" : "Vor ÖFB-Duell mit Norwegen: Arnautovic \"100 Prozent fit\"",
-      "titleTarget" : "Prije dvoboja ÖFB-a s Norveškom: Arnautović \"100 posto u formi\"",
-      "url" : "https://kurier.at/sport/fussball/vor-oefb-duell-mit-norwegen-marko-arnautovic-100-prozent-fit/401099343"
-    }, {
-      "id" : "19yuLuZ1",
-      "titleSource" : "Zuversicht gegen Norwegens Notelf",
-      "titleTarget" : "Povjerenje protiv norveškog Notelfa",
-      "url" : "https://sport.orf.at/stories/3069411/"
+      "id" : "emQUaij7",
+      "imgUrl" : "https://image.kurier.at/images/original/4763379/46-168929239.jpg",
+      "titleSource" : "NFL: Chicago Bears verloren Spiel und Quarterback Foles",
+      "titleTarget" : "NFL: Chicago Bearsi izgubili su utakmicu i Quarterback Folesa",
+      "url" : "https://kurier.at/sport/nfl-chicago-chicago-bears-verloren-spiel-und-quarterback-nick-foles/401099895"
     } ]
   } ],
   "country" : "austria",
