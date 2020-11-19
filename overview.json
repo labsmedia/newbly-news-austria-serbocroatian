@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "4DWp7crs",
-      "imgUrl" : "https://image.kurier.at/images/original/4731636/20201031-ABD0014-1-1.jpg",
-      "titleSource" : "Rendi-Wagner spricht sich nach Lockdown für kontrolliertes Hochfahren aus",
-      "titleTarget" : "Rendi-Wagner zagovara kontrolirano pokretanje nakon zaključavanja",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-spricht-sich-nach-lockdown-fuer-kontrolliertes-hochfahren-aus/401100843"
+      "id" : "vHflt2UF",
+      "imgUrl" : "https://image.kurier.at/images/original/4766730/46-168920591.jpg",
+      "titleSource" : "Mehr als die Hälfte glaubt, Maßnahmen schaden mehr als Covid selbst",
+      "titleTarget" : "Više od polovice vjeruje da su mjere štetnije od samog Covida",
+      "url" : "https://kurier.at/politik/inland/mehr-als-die-haelfte-glaubt-massnahmen-schaden-mehr-als-covid-selbst/401101878"
     }, {
       "id" : "LS8SK8Tb",
       "imgUrl" : "https://image.kurier.at/images/original/3149069/46-138480494.jpg",
@@ -14,11 +14,11 @@
       "titleTarget" : "Corona: Nema gubitka dječjeg dodatka",
       "url" : "https://kurier.at/politik/inland/corona-keine-einbussen-bei-kindergeld/401101254"
     }, {
-      "id" : "vHflt2UF",
-      "imgUrl" : "https://image.kurier.at/images/original/4766730/46-168920591.jpg",
-      "titleSource" : "Mehr als die Hälfte glaubt, Maßnahmen schaden mehr als Covid selbst",
-      "titleTarget" : "Više od polovice vjeruje da su mjere štetnije od samog Covida",
-      "url" : "https://kurier.at/politik/inland/mehr-als-die-haelfte-glaubt-massnahmen-schaden-mehr-als-covid-selbst/401101878"
+      "id" : "sz6iqSCb",
+      "imgUrl" : "https://image.kurier.at/images/original/4733475/reisepass-handy.jpg",
+      "titleSource" : "Einbürgerungen: Zahl um 16,7 Prozent gesunken",
+      "titleTarget" : "Naturalizacije: broj se smanjio za 16,7 posto",
+      "url" : "https://kurier.at/politik/inland/einbuergerungen-zahl-um-167-prozent-gesunken/401101161"
     }, {
       "id" : "83ItC18p",
       "imgUrl" : "https://image.kurier.at/images/original/648102/43950011418954446_BLD_Online.jpg",
@@ -32,44 +32,38 @@
       "titleTarget" : "Prva runda razgovora o masovnim ispitivanjima u Saveznoj kancelariji",
       "url" : "https://kurier.at/politik/inland/erste-gespraechsrunde-zu-massentests-im-bundeskanzleramt/401101668"
     }, {
+      "id" : "Cc6DznVX",
+      "imgUrl" : "https://image.kurier.at/images/original/3850268/46-107930340.jpg",
+      "titleSource" : "Tag zwei der Budgetwoche: Heftige Kritik an Schulschließungen",
+      "titleTarget" : "Drugi dan proračunskog tjedna: Oštre kritike zbog zatvaranja škola",
+      "url" : "https://kurier.at/politik/inland/tag-zwei-der-budgetwoche-heftige-kritik-an-schulschliessungen/401102085"
+    }, {
       "id" : "nVmcVRMG",
       "imgUrl" : "https://image.kurier.at/images/original/4751379/20201110-ABD0072-1-1.jpg",
       "titleSource" : "Hass im Netz: Niedrigere Strafen für \"Upskirting\"",
       "titleTarget" : "Internet mržnja: niže kazne za upskirting",
       "url" : "https://kurier.at/politik/inland/hass-im-netz-niedrigere-strafen-fuer-upskirting/401101212"
-    }, {
-      "id" : "sz6iqSCb",
-      "imgUrl" : "https://image.kurier.at/images/original/4733475/reisepass-handy.jpg",
-      "titleSource" : "Einbürgerungen: Zahl um 16,7 Prozent gesunken",
-      "titleTarget" : "Naturalizacije: broj se smanjio za 16,7 posto",
-      "url" : "https://kurier.at/politik/inland/einbuergerungen-zahl-um-167-prozent-gesunken/401101161"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "SHkGO81n",
-      "imgUrl" : "https://image.kurier.at/images/original/4294454/20200505-ABD0055-1-1.jpg",
-      "titleSource" : "Reisebüros entsetzt - es gibt keinen Umsatzersatz",
-      "titleTarget" : "Zaprepaštene turističke agencije - prodaja ne može nadomjestiti zamjenu",
-      "url" : "https://kurier.at/wirtschaft/reisebueros-entsetzt-es-gibt-keinen-umsatzersatz/401101539"
-    }, {
       "id" : "9pdD1le9",
       "imgUrl" : "https://image.kurier.at/images/original/4762956/20201116-ABD0124-1-1.jpg",
       "titleSource" : "Im Handel drohen durch den Lockdown rund 6.000 Pleiten",
       "titleTarget" : "Zaključavanje prijeti oko 6000 bankrota u maloprodaji",
       "url" : "https://kurier.at/wirtschaft/im-handel-drohen-durch-den-lockdown-rund-6000-pleiten/401101503"
     }, {
-      "id" : "EXXnBQnX",
-      "imgUrl" : "https://image.kurier.at/images/original/310854/kapsch-005_AP_Hans%252BPunz.jpg",
-      "titleSource" : "Kapsch TrafficCom erwartungsgemäß im Halbjahr mit hohem Verlust",
-      "titleTarget" : "Kao što se i očekivalo, Kapsch TrafficCom je u prvoj polovici godine zabilježio velik gubitak",
-      "url" : "https://kurier.at/wirtschaft/kapsch-trafficcom-erwartungsgemaess-im-halbjahr-mit-hohem-verlust/401100990"
+      "id" : "SHkGO81n",
+      "imgUrl" : "https://image.kurier.at/images/original/4294454/20200505-ABD0055-1-1.jpg",
+      "titleSource" : "Reisebüros entsetzt - es gibt keinen Umsatzersatz",
+      "titleTarget" : "Zaprepaštene turističke agencije - prodaja ne može nadomjestiti zamjenu",
+      "url" : "https://kurier.at/wirtschaft/reisebueros-entsetzt-es-gibt-keinen-umsatzersatz/401101539"
     }, {
-      "id" : "F55UBRjR",
-      "imgUrl" : "https://image.kurier.at/images/original/4762962/20201116-ABD0126-1-1.jpg",
-      "titleSource" : "„Corona ist der Brandbeschleuniger für Entwicklung im stationären Handel“",
-      "titleTarget" : "\"Corona je akcelerator požara za razvoj u stacionarnoj maloprodaji\"",
-      "url" : "https://kurier.at/wirtschaft/corona-ist-der-brandbeschleuniger-fuer-entwicklung-im-stationaeren-handel/401100747"
+      "id" : "H0kBXAja",
+      "imgUrl" : "https://image.kurier.at/images/original/31275/uniqa-000_Deutsch%252BGerhard.jpg",
+      "titleSource" : "UNIQA streicht 600 Stellen, hauptsächlich in Österreich",
+      "titleTarget" : "UNIQA smanjuje 600 radnih mjesta, uglavnom u Austriji",
+      "url" : "https://kurier.at/wirtschaft/uniqa-streicht-600-stellen-hauptsaechlich-in-oesterreich/401102028"
     }, {
       "id" : "Q8HVRONd",
       "imgUrl" : "https://image.kurier.at/images/original/4766133/46-168957132.jpg",
@@ -88,15 +82,21 @@
       "titleSource" : "Startschuss für 5G in Frankreich",
       "titleTarget" : "Početni udarac za 5G u Francuskoj",
       "url" : "https://kurier.at/wirtschaft/startschuss-fuer-5g-in-frankreich/401101683"
+    }, {
+      "id" : "Oq7TdMGi",
+      "imgUrl" : "https://image.kurier.at/images/original/4766346/46-79646481.jpg",
+      "titleSource" : "Bis zu 40 Prozent der Sportfachhändler laut Branchenangaben bedroht",
+      "titleTarget" : "Prema industriji, ugroženo je do 40 posto sportskih trgovaca",
+      "url" : "https://kurier.at/wirtschaft/bis-zu-40-prozent-der-sportfachhaendler-laut-branchenangaben-bedroht/401101602"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "2ehPofFC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/28/94/crops/w=1280/617584_opener_211794_kurz.jpg?s=6aa2f1bb9bc36603b8b0fbb99d5670c9f0895e15",
-      "titleSource" : "Zweifel am CoV-Krisenmanagement steigt",
-      "titleTarget" : "Sumnje u vezi s kriznim upravljanjem CoV sve su veće",
-      "url" : "https://wien.orf.at/stories/3076556/"
+      "id" : "HhQOwOzl",
+      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
+      "titleSource" : "Corona: Jeder zweite in Österreich kennt jemand positiv getesteten",
+      "titleTarget" : "Corona: Svaka druga osoba u Austriji poznaje nekoga tko je imao pozitivan test",
+      "url" : "https://kurier.at/chronik/oesterreich/jeder-zweite-in-oesterreich-kennt-jemand-positiv-getesteten/401101197"
     }, {
       "id" : "VhaDJfFi",
       "imgUrl" : "https://image.kurier.at/images/original/3418753/46-145306215.jpg",
@@ -104,35 +104,35 @@
       "titleTarget" : "Mödling: Pekara domaćin zatvara se nakon 94 godine",
       "url" : "https://kurier.at/chronik/oesterreich/moedling-hostienbaeckerei-schliesst-nach-94-jahren/401100837"
     }, {
-      "id" : "QaluiEpS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/41/53/crops/w=1280/714293_opener_247553_wien-wahl_oevp_bluemel_.jpg?s=acbff98e8618c2055c52796d940795c2fe4e9d4a",
-      "titleSource" : "Parteiausschluss von ÖVP-Mandatarin",
-      "titleTarget" : "Isključenje mandata ÖVP-a iz stranke",
-      "url" : "https://wien.orf.at/stories/3076501/"
-    }, {
-      "id" : "CeIMgaqF",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/79/crops/w=1280/755991_opener_262579_michael2.jpg?s=1e89f2b13dd0c305c78dcfbdeadcbcd765af5190",
-      "titleSource" : "Autoreduzierte City: Konzept bis 2022",
-      "titleTarget" : "Grad smanjenog automobila: koncept do 2022. godine",
-      "url" : "https://wien.orf.at/stories/3076453/"
-    }, {
       "id" : "G1nW0Gqn",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/26/90/crops/w=1280/199631_opener_53590_s_115_stifterhaus2_druck.jpg?s=07a5dbc535d5173fbf88fe8588e3c479a863e3cf",
       "titleSource" : "Erinnerung an Eugenie Kain",
       "titleTarget" : "Sjetivši se Eugenie Cain",
       "url" : "https://ooe.orf.at/stories/3076533/"
     }, {
-      "id" : "LOkX3Yio",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/41/crops/w=1280/472659_opener_158441_on-2020-02-17-18h24m52s682.jpg?s=5e4d4e37319e13a92c364147938b1a47eb803a81",
-      "titleSource" : "Pflegepersonal: Hilferuf an die Politik",
-      "titleTarget" : "Sestrinsko osoblje: poziv političarima u pomoć",
-      "url" : "https://tirol.orf.at/stories/3076498/"
+      "id" : "Vrfca6Fp",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/38/crops/w=1280/756587_opener_262838_aafe91c7-24f6-4ed1-b253-cfcd7bf06c58.jpg?s=d43876a0f3740dbb47a19c3e66ac1dc31cd5b876",
+      "titleSource" : "Wie sich Aerosole in Räumen ausbreiten",
+      "titleTarget" : "Kako se aerosoli šire u sobama",
+      "url" : "https://noe.orf.at/stories/3076595/"
     }, {
-      "id" : "Zr0DbqgK",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/59/crops/w=1280/747354_opener_259359_gedenken1.jpg?s=47762668f8ac77131a1988b493240842fcdddc06",
-      "titleSource" : "Weitere mögliche Panne vor Attentat",
-      "titleTarget" : "Još jedan mogući slom prije napada",
-      "url" : "https://wien.orf.at/stories/3076559/"
+      "id" : "EV1n8Y5S",
+      "imgUrl" : "https://image.kurier.at/images/original/4766751/46-168279314.jpg",
+      "titleSource" : "6.000 Pleiten im Handel durch Lockdown; 100 Corona-Tote binnen 24 Stunden",
+      "titleTarget" : "6.000 bankrota u trgovini zbog zaključavanja; 100 smrtnih slučajeva od korone u roku od 24 sata",
+      "url" : "https://kurier.at/chronik/oesterreich/experten-erwarten-tausende-geschaeftsschliessungen-frankreich-ueberschreitet-2-mio-marke/401100915"
+    }, {
+      "id" : "JCFjOgfq",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/30/67/crops/w=1280/631326_opener_216867_building-blocks-4913375_1920.jpg?s=34827a6f363b45965bebfd865e83b27ab94332d9",
+      "titleSource" : "Kiga-Pädagogen fehlt „Wertschätzung“",
+      "titleTarget" : "Odgajateljima Kige nedostaje \"zahvalnosti\"",
+      "url" : "https://steiermark.orf.at/stories/3076513/"
+    }, {
+      "id" : "pvh6iJmi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/76/crops/w=1280/752077_opener_261076_img_6438.jpg?s=34caa09e92040643eb7dbd1a7ae47d760e106afa",
+      "titleSource" : "Wetterphänomen: Himmel leuchtet",
+      "titleTarget" : "Vremenski fenomen: nebo svijetli",
+      "url" : "https://wien.orf.at/stories/3075903/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -185,32 +185,27 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "1gk3v80g",
-      "titleSource" : "Deutschland läuft in historisches Debakel",
-      "titleTarget" : "Njemačka nailazi na povijesni debakl",
-      "url" : "https://sport.orf.at/stories/3069462/"
-    }, {
       "id" : "xGFP73tR",
       "imgUrl" : "https://image.kurier.at/images/original/2589166/46-107275599.jpg",
       "titleSource" : "Neues Anti-Doping-Gesetz: Besserer Schutz für Hobbysportler",
       "titleTarget" : "Novi antidoping zakon: bolja zaštita za amaterske sportaše",
       "url" : "https://kurier.at/sport/regierung-beschloss-neues-anti-doping-gesetz-besserer-schutz-fuer-hobbysportler/401101401"
     }, {
-      "id" : "mChQRNO8",
-      "imgUrl" : "https://image.kurier.at/images/original/4765236/46-168948012.jpg",
-      "titleSource" : "Furiose Spanier überrollen hilflose Deutsche - 6:0",
-      "titleTarget" : "Bijesni Španjolci prevrću nemoćne Nijemce - 6-0",
-      "url" : "https://kurier.at/sport/fussball/furiose-spanier-ueberrollen-hilflose-deutsche-60/401100849"
+      "id" : "ScWVVvqI",
+      "titleSource" : "Schockstarre in Deutschland nach 0:6",
+      "titleTarget" : "Šok u Njemačkoj nakon 0: 6",
+      "url" : "https://sport.orf.at/stories/3069476/"
     }, {
       "id" : "x2MjnWGk",
       "titleSource" : "Thiem setzt in London Rufzeichen",
       "titleTarget" : "Thiem postavlja pozivne znakove u Londonu",
       "url" : "https://sport.orf.at/stories/3069456/"
     }, {
-      "id" : "ScWVVvqI",
-      "titleSource" : "Schockstarre in Deutschland nach 0:6",
-      "titleTarget" : "Šok u Njemačkoj nakon 0: 6",
-      "url" : "https://sport.orf.at/stories/3069476/"
+      "id" : "Rd7Jgb88",
+      "imgUrl" : "https://image.kurier.at/images/original/4767138/46-168970224.jpg",
+      "titleSource" : "ÖFB-Team: Mit einer Enttäuschung zum Nations-League-Aufstieg",
+      "titleTarget" : "ÖFB tim: S razočaranjem zbog promocije Lige nacija",
+      "url" : "https://kurier.at/sport/fussball/nations-league-oefb-team-schafft-trotz-blamage-den-aufstieg/401101779"
     }, {
       "id" : "NhyzH5sq",
       "imgUrl" : "https://image.kurier.at/images/original/4765539/46-168944083.jpg",
@@ -218,10 +213,16 @@
       "titleTarget" : "Thiem nakon svečanosti protiv Nadala: \"Dugo ću ga pamtiti\"",
       "url" : "https://kurier.at/sport/tennis/dominic-thiem-nach-sieg-gegen-nadal-bei-atp-finals-werde-mich-lange-daran-erinnern/401101095"
     }, {
-      "id" : "YXKii3GF",
-      "titleSource" : "Fivers überraschen auf Europacup-Bühne",
-      "titleTarget" : "Fivers iznenađuje na pozornici Europskog kupa",
-      "url" : "https://sport.orf.at/stories/3069458/"
+      "id" : "LSv1zb3O",
+      "imgUrl" : "https://image.kurier.at/images/original/4767042/20201118-ABD0088-1-1.jpg",
+      "titleSource" : "Nations League live: Österreich - Norwegen 0:1",
+      "titleTarget" : "Liga nacija uživo: Austrija - Norveška 0: 1",
+      "url" : "https://kurier.at/sport/fussball/nations-league-im-live-ticker-so-steht-es-bei-oesterreich-gegen-norwegen/401101779"
+    }, {
+      "id" : "jN7GkTJN",
+      "titleSource" : "ÖFB-Startelf mit Arnautovic und Ranftl",
+      "titleTarget" : "ÖFB starta jedanaest s Arnautovićem i Ranftlom",
+      "url" : "https://sport.orf.at/stories/3069487/"
     } ]
   } ],
   "country" : "austria",
