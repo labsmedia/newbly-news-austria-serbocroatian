@@ -8,18 +8,6 @@
       "titleTarget" : "Više od polovice vjeruje da su mjere štetnije od samog Covida",
       "url" : "https://kurier.at/politik/inland/mehr-als-die-haelfte-glaubt-massnahmen-schaden-mehr-als-covid-selbst/401101878"
     }, {
-      "id" : "LS8SK8Tb",
-      "imgUrl" : "https://image.kurier.at/images/original/3149069/46-138480494.jpg",
-      "titleSource" : "Corona: Keine Einbußen bei Kindergeld",
-      "titleTarget" : "Corona: Nema gubitka dječjeg dodatka",
-      "url" : "https://kurier.at/politik/inland/corona-keine-einbussen-bei-kindergeld/401101254"
-    }, {
-      "id" : "sz6iqSCb",
-      "imgUrl" : "https://image.kurier.at/images/original/4733475/reisepass-handy.jpg",
-      "titleSource" : "Einbürgerungen: Zahl um 16,7 Prozent gesunken",
-      "titleTarget" : "Naturalizacije: broj se smanjio za 16,7 posto",
-      "url" : "https://kurier.at/politik/inland/einbuergerungen-zahl-um-167-prozent-gesunken/401101161"
-    }, {
       "id" : "83ItC18p",
       "imgUrl" : "https://image.kurier.at/images/original/648102/43950011418954446_BLD_Online.jpg",
       "titleSource" : "Sicherheitsbericht 2019: Erhebliche Gefahr durch Dschihad-Rückkehrer",
@@ -38,11 +26,22 @@
       "titleTarget" : "Drugi dan proračunskog tjedna: Oštre kritike zbog zatvaranja škola",
       "url" : "https://kurier.at/politik/inland/tag-zwei-der-budgetwoche-heftige-kritik-an-schulschliessungen/401102085"
     }, {
-      "id" : "nVmcVRMG",
-      "imgUrl" : "https://image.kurier.at/images/original/4751379/20201110-ABD0072-1-1.jpg",
-      "titleSource" : "Hass im Netz: Niedrigere Strafen für \"Upskirting\"",
-      "titleTarget" : "Internet mržnja: niže kazne za upskirting",
-      "url" : "https://kurier.at/politik/inland/hass-im-netz-niedrigere-strafen-fuer-upskirting/401101212"
+      "id" : "bYZwunec",
+      "titleSource" : "Burgenland: Landesrat Dorner positiv auf Corona getestet",
+      "titleTarget" : "Gradišće: Provincijski vijećnik Dorner bio je pozitivan na Coronu",
+      "url" : "https://www.diepresse.com/5899828/Betrieb-laeuft-normal-weiter_Burgenland_Landesrat-Dorner-positiv?from=rss"
+    }, {
+      "id" : "KTLjVzSO",
+      "imgUrl" : "https://image.kurier.at/images/original/4270388/78350011454271822_BLD_Online.jpg",
+      "titleSource" : "Hohe Belastung durch Distance Learning aber Eltern mit Lehrern zufrieden",
+      "titleTarget" : "Veliki teret učenja na daljinu, ali roditelji zadovoljni učiteljima",
+      "url" : "https://kurier.at/politik/inland/hohe-belastung-durch-distance-learning-aber-eltern-mit-lehrern-zufrieden/401102547"
+    }, {
+      "id" : "yBKMRR5d",
+      "imgUrl" : "https://image.kurier.at/images/original/4767654/46-168915195.jpg",
+      "titleSource" : "Ärztekammer liefert Vorschläge, um Pandemie unter Kontrolle zu bringen",
+      "titleTarget" : "Liječničko udruženje daje prijedloge da se pandemija stavi pod kontrolu",
+      "url" : "https://kurier.at/politik/inland/aerztekammer-liefert-vorschlaege-um-pandemie-unter-kontrolle-zu-bringen/401102487"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,11 +58,23 @@
       "titleTarget" : "Zaprepaštene turističke agencije - prodaja ne može nadomjestiti zamjenu",
       "url" : "https://kurier.at/wirtschaft/reisebueros-entsetzt-es-gibt-keinen-umsatzersatz/401101539"
     }, {
+      "id" : "eQd5BVId",
+      "imgUrl" : "https://image.kurier.at/images/original/3269726/46-143783248.jpg",
+      "titleSource" : "Frächter zittern vor \"Dominoeffekt\" im kommenden Jahr",
+      "titleTarget" : "Prijevoz tereta drhti pred \"domino efektom\" u narednoj godini",
+      "url" : "https://kurier.at/wirtschaft/fraechter-zittern-vor-dominoeffekt-im-kommenden-jahr/401101983"
+    }, {
       "id" : "H0kBXAja",
       "imgUrl" : "https://image.kurier.at/images/original/31275/uniqa-000_Deutsch%252BGerhard.jpg",
       "titleSource" : "UNIQA streicht 600 Stellen, hauptsächlich in Österreich",
       "titleTarget" : "UNIQA smanjuje 600 radnih mjesta, uglavnom u Austriji",
       "url" : "https://kurier.at/wirtschaft/uniqa-streicht-600-stellen-hauptsaechlich-in-oesterreich/401102028"
+    }, {
+      "id" : "ndTNB9Y9",
+      "imgUrl" : "https://image.kurier.at/images/original/4767309/46-168945183.jpg",
+      "titleSource" : "Weihnachtsgeschäft: \"Gewinnen wird 2020 keiner mehr\"",
+      "titleTarget" : "Božićni posao: \"2020. više nitko neće pobijediti\"",
+      "url" : "https://kurier.at/wirtschaft/weihnachtsgeschaeft-gewinnen-wird-2020-keiner-mehr/401102208"
     }, {
       "id" : "Q8HVRONd",
       "imgUrl" : "https://image.kurier.at/images/original/4766133/46-168957132.jpg",
@@ -71,38 +82,20 @@
       "titleTarget" : "Naljepnica za 2021. godinu bit će dostupna od četvrtka",
       "url" : "https://kurier.at/wirtschaft/ab-donnerstag-gibt-es-die-klebevignette-fuer-2021/401101488"
     }, {
-      "id" : "xs6gPwWl",
-      "imgUrl" : "https://image.kurier.at/images/original/4307276/78350011454550006_BLD_Online.jpg",
-      "titleSource" : "Keine kontaktlosen Abholstationen im Buchhandel",
-      "titleTarget" : "U knjižarama nema beskontaktnih stanica za preuzimanje",
-      "url" : "https://kurier.at/wirtschaft/keine-kontaktlosen-abholstationen-im-buchhandel/401101896"
-    }, {
-      "id" : "9w5f7vf3",
-      "imgUrl" : "https://image.kurier.at/images/original/4730604/mi-10t-pro_5-front.jpg",
-      "titleSource" : "Startschuss für 5G in Frankreich",
-      "titleTarget" : "Početni udarac za 5G u Francuskoj",
-      "url" : "https://kurier.at/wirtschaft/startschuss-fuer-5g-in-frankreich/401101683"
-    }, {
-      "id" : "Oq7TdMGi",
-      "imgUrl" : "https://image.kurier.at/images/original/4766346/46-79646481.jpg",
-      "titleSource" : "Bis zu 40 Prozent der Sportfachhändler laut Branchenangaben bedroht",
-      "titleTarget" : "Prema industriji, ugroženo je do 40 posto sportskih trgovaca",
-      "url" : "https://kurier.at/wirtschaft/bis-zu-40-prozent-der-sportfachhaendler-laut-branchenangaben-bedroht/401101602"
+      "id" : "Q8RdVn89",
+      "imgUrl" : "https://image.kurier.at/images/original/4767375/46-168973571.jpg",
+      "titleSource" : "UNIQA hat Gewinn in ersten drei Quartalen gehalten",
+      "titleTarget" : "UNIQA je zadržala dobit u prva tri kvartala",
+      "url" : "https://kurier.at/wirtschaft/uniqa-hat-gewinn-in-ersten-drei-quartalen-gehalten/401102274"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "HhQOwOzl",
-      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
-      "titleSource" : "Corona: Jeder zweite in Österreich kennt jemand positiv getesteten",
-      "titleTarget" : "Corona: Svaka druga osoba u Austriji poznaje nekoga tko je imao pozitivan test",
-      "url" : "https://kurier.at/chronik/oesterreich/jeder-zweite-in-oesterreich-kennt-jemand-positiv-getesteten/401101197"
-    }, {
-      "id" : "VhaDJfFi",
-      "imgUrl" : "https://image.kurier.at/images/original/3418753/46-145306215.jpg",
-      "titleSource" : "Mödling: Hostienbäckerei schließt nach 94 Jahren",
-      "titleTarget" : "Mödling: Pekara domaćin zatvara se nakon 94 godine",
-      "url" : "https://kurier.at/chronik/oesterreich/moedling-hostienbaeckerei-schliesst-nach-94-jahren/401100837"
+      "id" : "XOz40pc3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/31/crops/w=1280/754034_opener_261831_x1.jpg?s=62f39168cb2ccbda6712988ee1f3302f9337e147",
+      "titleSource" : "Großer Felssturz auf dem Dachstein",
+      "titleTarget" : "Veliki pad kamena na Dachsteinu",
+      "url" : "https://salzburg.orf.at/stories/3076160/"
     }, {
       "id" : "G1nW0Gqn",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/26/90/crops/w=1280/199631_opener_53590_s_115_stifterhaus2_druck.jpg?s=07a5dbc535d5173fbf88fe8588e3c479a863e3cf",
@@ -116,23 +109,28 @@
       "titleTarget" : "Kako se aerosoli šire u sobama",
       "url" : "https://noe.orf.at/stories/3076595/"
     }, {
-      "id" : "EV1n8Y5S",
-      "imgUrl" : "https://image.kurier.at/images/original/4766751/46-168279314.jpg",
-      "titleSource" : "6.000 Pleiten im Handel durch Lockdown; 100 Corona-Tote binnen 24 Stunden",
-      "titleTarget" : "6.000 bankrota u trgovini zbog zaključavanja; 100 smrtnih slučajeva od korone u roku od 24 sata",
-      "url" : "https://kurier.at/chronik/oesterreich/experten-erwarten-tausende-geschaeftsschliessungen-frankreich-ueberschreitet-2-mio-marke/401100915"
-    }, {
       "id" : "JCFjOgfq",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/30/67/crops/w=1280/631326_opener_216867_building-blocks-4913375_1920.jpg?s=34827a6f363b45965bebfd865e83b27ab94332d9",
       "titleSource" : "Kiga-Pädagogen fehlt „Wertschätzung“",
       "titleTarget" : "Odgajateljima Kige nedostaje \"zahvalnosti\"",
       "url" : "https://steiermark.orf.at/stories/3076513/"
     }, {
-      "id" : "pvh6iJmi",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/76/crops/w=1280/752077_opener_261076_img_6438.jpg?s=34caa09e92040643eb7dbd1a7ae47d760e106afa",
-      "titleSource" : "Wetterphänomen: Himmel leuchtet",
-      "titleTarget" : "Vremenski fenomen: nebo svijetli",
-      "url" : "https://wien.orf.at/stories/3075903/"
+      "id" : "AOJhavkr",
+      "titleSource" : "Wien fordert Kündigungsschutz für säumige Mieter",
+      "titleTarget" : "Beč traži zaštitu od otkaza za stanare koji ne ispunjavaju uvjete",
+      "url" : "https://wien.orf.at/stories/3076622/"
+    }, {
+      "id" : "IsRxgo44",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/07/71/crops/w=1280/466142_opener_155871_human-763144_1920.jpg?s=ab13da941a051281cec4b8ab2816d6cd0f35eeaa",
+      "titleSource" : "CoV: Zahlreiche Kinder bleiben auf der Strecke",
+      "titleTarget" : "CoV: Brojna djeca padaju pored puta",
+      "url" : "https://vorarlberg.orf.at/stories/3076615/"
+    }, {
+      "id" : "CHlfCurc",
+      "imgUrl" : "https://image.kurier.at/images/original/4767777/46-168930266.jpg",
+      "titleSource" : "Eltern: Kritik an Schulschließung - mit Lehrern zufrieden + Mehr CoV-Tote in Heimen",
+      "titleTarget" : "Roditelji: kritika zbog zatvaranja škole - zadovoljni učiteljima + više smrtnih slučajeva zbog povreda žena u domovima",
+      "url" : "https://kurier.at/chronik/oesterreich/massiver-anstieg-an-corona-toten-in-pflegeheimen-antigen-tests-ab-sofort-in-apotheken/401102193"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,23 +141,29 @@
       "titleTarget" : "Razmatranja gumba za početnu stranicu: Gdje ste zapravo kod kuće?",
       "url" : "https://kurier.at/kultur/ueberlegungen-zum-home-button-wo-ist-man-eigentlich-zu-hause/401100801"
     }, {
-      "id" : "J7RZlMHj",
-      "imgUrl" : "https://image.kurier.at/images/original/4765143/46-168941473.jpg",
-      "titleSource" : "Räuberin Riefenstahl - eine Neubetrachtung",
-      "titleTarget" : "Razbojnik Riefenstahl - novi izgled",
-      "url" : "https://kurier.at/kultur/raeuberin-riefenstahl-eine-neubetrachtung/401100816"
+      "id" : "gjDoIgNm",
+      "imgUrl" : "https://image.kurier.at/images/original/4767357/46-163514952.jpg",
+      "titleSource" : "\"Der Stadion-Rock ist zurück\": Neue Tour von Guns N'Roses",
+      "titleTarget" : "\"Stadion se vratio\": Nova turneja Guns N'Rosesa",
+      "url" : "https://kurier.at/kultur/der-stadion-rock-ist-zurueck-neue-tour-von-guns-nroses/401102256"
     }, {
-      "id" : "gHiWrZBb",
-      "imgUrl" : "https://image.kurier.at/images/original/4764639/46-168931429.jpg",
-      "titleSource" : "Gentleman ist überzeugt: „Kultur ist nicht verzichtbar“",
-      "titleTarget" : "Gospodin je uvjeren: \"Kultura se ne može osloboditi\"",
-      "url" : "https://kurier.at/kultur/gentleman-ist-ueberzeugt-kultur-ist-nicht-verzichtbar/401100567"
+      "id" : "07PTsCI1",
+      "imgUrl" : "https://image.kurier.at/images/original/4767393/46-166745750.jpg",
+      "titleSource" : "\"Worte können töten\": Will Smith entschuldigt sich bei \"Prinz von Bel Air\"-Darstellerin",
+      "titleTarget" : "\"Riječi mogu ubiti\": Will Smith se ispričava glumici \"Prince Of Bel Air\"",
+      "url" : "https://kurier.at/kultur/medien/worte-koennen-toeten-will-smith-entschuldigt-sich-bei-prinz-von-bel-air-darstellerin/401102295"
     }, {
-      "id" : "qH5kqULr",
-      "imgUrl" : "https://image.kurier.at/images/original/4765146/46-168938759.jpg",
-      "titleSource" : "ORF-\"Freistunde\": Distanzlernen mit Fernsehunterstützung",
-      "titleTarget" : "ORF \"besplatni sat\": učenje na daljinu uz televizijsku podršku",
-      "url" : "https://kurier.at/kultur/orf-freistunde-distanzlernen-mit-fernsehunterstuetzung/401100819"
+      "id" : "lmubSnTt",
+      "imgUrl" : "https://image.kurier.at/images/original/4767363/46-168972557.jpg",
+      "titleSource" : "\"Wonder Woman\" startet in Amerika zugleich im Kino und im Streaming",
+      "titleTarget" : "\"Wonder Woman\" istodobno započinje u Americi u kinu i u streamingu",
+      "url" : "https://kurier.at/kultur/wonder-woman-startet-in-amerika-zugleich-im-kino-und-im-streaming/401102268"
+    }, {
+      "id" : "NhBIXRWc",
+      "imgUrl" : "https://image.kurier.at/images/original/4766658/46-80363175.jpg",
+      "titleSource" : "Birdy: Für vier Songs ein letztes Mal unendlich traurig",
+      "titleTarget" : "Birdy: Posljednji put, beskrajno tužan zbog četiri pjesme",
+      "url" : "https://kurier.at/kultur/birdy-fuer-vier-songs-ein-letztes-mal-unendlich-traurig/401101797"
     }, {
       "id" : "gzYj2hZS",
       "imgUrl" : "https://image.kurier.at/images/original/4766697/46-167473958.jpg",
@@ -172,12 +176,6 @@
       "titleSource" : "Neues Medienpaket: ORF in zehn Jahren barrierefrei",
       "titleTarget" : "Novi medijski paket: ORF dostupan za deset godina",
       "url" : "https://kurier.at/kultur/medien/neues-medienpaket-orf-in-zehn-jahren-barrierefrei/401101416"
-    }, {
-      "id" : "lfp7TUM6",
-      "imgUrl" : "https://image.kurier.at/images/original/4765641/p4com_mediateaser_syt_1160x450px_d.jpg",
-      "titleSource" : "Puls4 startet 2021 neue Talent-Show",
-      "titleTarget" : "Puls4 pokreće novi talent show 2021. godine",
-      "url" : "https://kurier.at/kultur/medien/puls4-startet-2021-neue-talent-show/401101173"
     } ]
   }, {
     "category" : "HEALTH",
@@ -191,15 +189,10 @@
       "titleTarget" : "Novi antidoping zakon: bolja zaštita za amaterske sportaše",
       "url" : "https://kurier.at/sport/regierung-beschloss-neues-anti-doping-gesetz-besserer-schutz-fuer-hobbysportler/401101401"
     }, {
-      "id" : "ScWVVvqI",
-      "titleSource" : "Schockstarre in Deutschland nach 0:6",
-      "titleTarget" : "Šok u Njemačkoj nakon 0: 6",
-      "url" : "https://sport.orf.at/stories/3069476/"
-    }, {
-      "id" : "x2MjnWGk",
-      "titleSource" : "Thiem setzt in London Rufzeichen",
-      "titleTarget" : "Thiem postavlja pozivne znakove u Londonu",
-      "url" : "https://sport.orf.at/stories/3069456/"
+      "id" : "1jRGjuoU",
+      "titleSource" : "ÖFB-Team rettet Remis gegen Notelf",
+      "titleTarget" : "Momčad ÖFB-a spašava remi protiv Notelfa",
+      "url" : "https://sport.orf.at/stories/3069488/"
     }, {
       "id" : "Rd7Jgb88",
       "imgUrl" : "https://image.kurier.at/images/original/4767138/46-168970224.jpg",
@@ -207,22 +200,27 @@
       "titleTarget" : "ÖFB tim: S razočaranjem zbog promocije Lige nacija",
       "url" : "https://kurier.at/sport/fussball/nations-league-oefb-team-schafft-trotz-blamage-den-aufstieg/401101779"
     }, {
-      "id" : "NhyzH5sq",
-      "imgUrl" : "https://image.kurier.at/images/original/4765539/46-168944083.jpg",
-      "titleSource" : "Thiem nach Gala gegen Nadal: \"Werde mich lange daran erinnern\"",
-      "titleTarget" : "Thiem nakon svečanosti protiv Nadala: \"Dugo ću ga pamtiti\"",
-      "url" : "https://kurier.at/sport/tennis/dominic-thiem-nach-sieg-gegen-nadal-bei-atp-finals-werde-mich-lange-daran-erinnern/401101095"
+      "id" : "uLAPPi3C",
+      "imgUrl" : "https://image.kurier.at/images/original/4766328/46-168947903.jpg",
+      "titleSource" : "Trauer um Extremsportler: Red-Bull-Athlet tödlich verunglückt",
+      "titleTarget" : "Žalovanje za ekstremnim sportašima: Sportaš Red Bull-a imao je fatalnu nesreću",
+      "url" : "https://kurier.at/sport/trauer-um-extremsportler-red-bull-athlet-vince-reffet-toedlich-verunglueckt/401101626"
     }, {
-      "id" : "LSv1zb3O",
-      "imgUrl" : "https://image.kurier.at/images/original/4767042/20201118-ABD0088-1-1.jpg",
-      "titleSource" : "Nations League live: Österreich - Norwegen 0:1",
-      "titleTarget" : "Liga nacija uživo: Austrija - Norveška 0: 1",
-      "url" : "https://kurier.at/sport/fussball/nations-league-im-live-ticker-so-steht-es-bei-oesterreich-gegen-norwegen/401101779"
+      "id" : "CxMXKQIw",
+      "imgUrl" : "https://image.kurier.at/images/original/4766421/46-149927058.jpg",
+      "titleSource" : "Skistar Feller: \"Ich hätte nie gedacht, dass Papasein so cool ist\"",
+      "titleTarget" : "Skijaška zvijezda Feller: \"Nikad nisam mislio da je biti otac tako cool\"",
+      "url" : "https://kurier.at/sport/wintersport/skistar-feller-ich-haette-nie-gedacht-dass-papa-sein-so-cool-ist/401101734"
     }, {
       "id" : "jN7GkTJN",
       "titleSource" : "ÖFB-Startelf mit Arnautovic und Ranftl",
       "titleTarget" : "ÖFB starta jedanaest s Arnautovićem i Ranftlom",
       "url" : "https://sport.orf.at/stories/3069487/"
+    }, {
+      "id" : "zPpSe1le",
+      "titleSource" : "Grbic als neuer Torgarant Österreichs",
+      "titleTarget" : "Grbić kao novi garant Austrije",
+      "url" : "https://sport.orf.at/stories/3069498/"
     } ]
   } ],
   "country" : "austria",
