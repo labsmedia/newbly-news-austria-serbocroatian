@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "KTLjVzSO",
-      "imgUrl" : "https://image.kurier.at/images/original/4270388/78350011454271822_BLD_Online.jpg",
-      "titleSource" : "Hohe Belastung durch Distance Learning aber Eltern mit Lehrern zufrieden",
-      "titleTarget" : "Veliki teret učenja na daljinu, ali roditelji zadovoljni učiteljima",
-      "url" : "https://kurier.at/politik/inland/hohe-belastung-durch-distance-learning-aber-eltern-mit-lehrern-zufrieden/401102547"
-    }, {
       "id" : "yBKMRR5d",
       "imgUrl" : "https://image.kurier.at/images/original/4767654/46-168915195.jpg",
       "titleSource" : "Ärztekammer liefert Vorschläge, um Pandemie unter Kontrolle zu bringen",
       "titleTarget" : "Liječničko udruženje daje prijedloge da se pandemija stavi pod kontrolu",
       "url" : "https://kurier.at/politik/inland/aerztekammer-liefert-vorschlaege-um-pandemie-unter-kontrolle-zu-bringen/401102487"
+    }, {
+      "id" : "KTLjVzSO",
+      "imgUrl" : "https://image.kurier.at/images/original/4270388/78350011454271822_BLD_Online.jpg",
+      "titleSource" : "Hohe Belastung durch Distance Learning aber Eltern mit Lehrern zufrieden",
+      "titleTarget" : "Veliki teret učenja na daljinu, ali roditelji zadovoljni učiteljima",
+      "url" : "https://kurier.at/politik/inland/hohe-belastung-durch-distance-learning-aber-eltern-mit-lehrern-zufrieden/401102547"
     }, {
       "id" : "qPZQdBij",
       "imgUrl" : "https://image.kurier.at/images/original/4767828/46-165589759.jpg",
@@ -20,11 +20,11 @@
       "titleTarget" : "Sporazum o povećanju plaća državnim službenicima za 1,45 posto",
       "url" : "https://kurier.at/politik/inland/einigung-auf-gehaltserhoehung-fuer-beamte-um-145-prozent/401102601"
     }, {
-      "id" : "Cc6DznVX",
-      "imgUrl" : "https://image.kurier.at/images/original/3850268/46-107930340.jpg",
-      "titleSource" : "Tag zwei der Budgetwoche: Heftige Kritik an Schulschließungen",
-      "titleTarget" : "Drugi dan proračunskog tjedna: Oštre kritike zbog zatvaranja škola",
-      "url" : "https://kurier.at/politik/inland/tag-zwei-der-budgetwoche-heftige-kritik-an-schulschliessungen/401102085"
+      "id" : "yHiezJzx",
+      "imgUrl" : "https://image.kurier.at/images/original/4764327/20201117-ABD0125-1-1.jpg",
+      "titleSource" : "Umfrage ortet hohe Akzeptanz der Maßnahmen",
+      "titleTarget" : "Anketa utvrđuje da su mjere visoko prihvaćene",
+      "url" : "https://kurier.at/politik/inland/umfrage-ortet-hohe-akzeptanz-der-massnahmen/401102970"
     }, {
       "id" : "088HtpUh",
       "imgUrl" : "https://image.kurier.at/images/original/4769106/20201118-_dsc9763-bearbeitet-bmdw.jpg",
@@ -32,17 +32,17 @@
       "titleTarget" : "Digitalna vozačka dozvola trebala bi doći na proljeće 2021. godine",
       "url" : "https://kurier.at/politik/inland/digitaler-fuehrerschein-soll-im-fruehling-2021-kommen/401103165"
     }, {
-      "id" : "yHiezJzx",
-      "imgUrl" : "https://image.kurier.at/images/original/4764327/20201117-ABD0125-1-1.jpg",
-      "titleSource" : "Umfrage ortet hohe Akzeptanz der Maßnahmen",
-      "titleTarget" : "Anketa utvrđuje da su mjere visoko prihvaćene",
-      "url" : "https://kurier.at/politik/inland/umfrage-ortet-hohe-akzeptanz-der-massnahmen/401102970"
+      "id" : "Yvnr0LRj",
+      "imgUrl" : "https://image.kurier.at/images/original/4756392/46-167435126.jpg",
+      "titleSource" : "Sonntagsöffnung nach dem Lockdown? ÖGB-Chef ist erwartungsgemäß skeptisch",
+      "titleTarget" : "Nedjeljno otvaranje nakon zaključavanja? Očekivano, šef ÖGB-a je skeptičan",
+      "url" : "https://kurier.at/politik/inland/sonntagsoeffnung-nach-dem-lockdown-oegb-chef-ist-erwartungsgemaess-skeptisch/401103558"
     }, {
-      "id" : "3RO7cQ8I",
-      "imgUrl" : "https://image.kurier.at/images/original/4768185/46-168979350.jpg",
-      "titleSource" : "Scharfe Oppositionskritik vor Budget-Abschluss im Nationalrat",
-      "titleTarget" : "Oštre kritike oporbe prije zaključenja proračuna u Nacionalnom vijeću",
-      "url" : "https://kurier.at/politik/inland/scharfe-oppositionskritik-vor-budget-abschluss-im-nationalrat/401102730"
+      "id" : "eTuCi1Je",
+      "imgUrl" : "https://image.kurier.at/images/original/4754934/78350011457466086_BLD_Online.jpg",
+      "titleSource" : "Corona: Tanner in Quarantäne",
+      "titleTarget" : "Corona: Tanner u karanteni",
+      "url" : "https://kurier.at/politik/inland/corona-tanner-in-quarantaene/401103441"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,23 +59,11 @@
       "titleTarget" : "Nova taksi pravila znače \"smrtni udarac\"",
       "url" : "https://www.diepresse.com/5899920/Lenker_Neue-TaxiRegeln-bedeuten-Todesstoss?from=rss"
     }, {
-      "id" : "eQd5BVId",
-      "imgUrl" : "https://image.kurier.at/images/original/3269726/46-143783248.jpg",
-      "titleSource" : "Frächter zittern vor \"Dominoeffekt\" im kommenden Jahr",
-      "titleTarget" : "Prijevoz tereta drhti pred \"domino efektom\" u narednoj godini",
-      "url" : "https://kurier.at/wirtschaft/fraechter-zittern-vor-dominoeffekt-im-kommenden-jahr/401101983"
-    }, {
       "id" : "T9fO9EOU",
       "imgUrl" : "https://image.kurier.at/images/original/4767894/46-150542137.jpg",
       "titleSource" : "Corona-positiv? Obacht bei der Mülltrennung",
       "titleTarget" : "Korona pozitivna? Pazite pri odvajanju otpada",
       "url" : "https://kurier.at/wirtschaft/corona-positiv-obacht-bei-der-muelltrennung/401102634"
-    }, {
-      "id" : "ndTNB9Y9",
-      "imgUrl" : "https://image.kurier.at/images/original/4767309/46-168945183.jpg",
-      "titleSource" : "Weihnachtsgeschäft: \"Gewinnen wird 2020 keiner mehr\"",
-      "titleTarget" : "Božićni posao: \"2020. više nitko neće pobijediti\"",
-      "url" : "https://kurier.at/wirtschaft/weihnachtsgeschaeft-gewinnen-wird-2020-keiner-mehr/401102208"
     }, {
       "id" : "L6ECa4WX",
       "imgUrl" : "https://image.kurier.at/images/original/4767645/46-144785778.jpg",
@@ -83,56 +71,67 @@
       "titleTarget" : "Vozači poštanskih brodova žele pregradne zidove",
       "url" : "https://kurier.at/wirtschaft/postbus-lenker-fordern-trennwaende/401102463"
     }, {
+      "id" : "cFARLd7a",
+      "imgUrl" : "https://image.kurier.at/images/original/4769418/46-168977440.jpg",
+      "titleSource" : "UNIQA verdient bestens, baut aber Mitarbeiter ab",
+      "titleTarget" : "UNIQA zarađuje najbolje, ali smanjuje zaposlenike",
+      "url" : "https://kurier.at/wirtschaft/uniqa-verdient-bestens-baut-aber-mitarbeiter-ab/401103240"
+    }, {
       "id" : "Q8RdVn89",
       "imgUrl" : "https://image.kurier.at/images/original/4767375/46-168973571.jpg",
       "titleSource" : "UNIQA hat Gewinn in ersten drei Quartalen gehalten",
       "titleTarget" : "UNIQA je zadržala dobit u prva tri kvartala",
       "url" : "https://kurier.at/wirtschaft/uniqa-hat-gewinn-in-ersten-drei-quartalen-gehalten/401102274"
+    }, {
+      "id" : "REDTtwyS",
+      "imgUrl" : "https://image.kurier.at/images/original/4765554/78370011357555214_BLD_Online.jpg",
+      "titleSource" : "Wohnungspreise steigen in Coronakrise weiter nach oben",
+      "titleTarget" : "Cijene stanova nastavljaju rasti u koronskoj krizi",
+      "url" : "https://kurier.at/wirtschaft/wohnungspreise-steigen-in-coronakrise-weiter-nach-oben/401103237"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "XOz40pc3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/31/crops/w=1280/754034_opener_261831_x1.jpg?s=62f39168cb2ccbda6712988ee1f3302f9337e147",
-      "titleSource" : "Großer Felssturz auf dem Dachstein",
-      "titleTarget" : "Veliki pad kamena na Dachsteinu",
-      "url" : "https://salzburg.orf.at/stories/3076160/"
-    }, {
       "id" : "zlN2KHpv",
       "imgUrl" : "https://image.kurier.at/images/original/4258322/46-163890819.jpg",
       "titleSource" : "Massiver Anstieg an Covid-Toten in Pflegeheimen",
       "titleTarget" : "Masivan porast smrtnosti od Covida u staračkim domovima",
       "url" : "https://kurier.at/chronik/oesterreich/massiver-anstieg-an-covid-toten-in-pflegeheimen/401102196"
     }, {
+      "id" : "NitYdRZx",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/15/crops/w=1280/757658_opener_263215_image.ashx.jpg?s=02da1a0e91b0c5cb2cc5b4e8e93b463020634b83",
+      "titleSource" : "Neue 24-Stunden-Betreuung für Obdachlose",
+      "titleTarget" : "Nova 24-satna briga o beskućnicima",
+      "url" : "https://salzburg.orf.at/stories/3076705/"
+    }, {
+      "id" : "buDRMwPW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/34/crops/w=1280/536428_opener_181934_k5.jpg?s=f0dbd5378740dd0f234b2e05b778bc57fbc74f3e",
+      "titleSource" : "Druck auf Intensivstationen steigt",
+      "titleTarget" : "Pritisak na jedinice intenzivne njege raste",
+      "url" : "https://burgenland.orf.at/stories/3076689/"
+    }, {
+      "id" : "2N5D04El",
+      "titleSource" : "Erster Unfall mit Wasserstoffzug",
+      "titleTarget" : "Prva nesreća s vodikovim vlakom",
+      "url" : "https://noe.orf.at/stories/3076806/"
+    }, {
       "id" : "CHlfCurc",
       "imgUrl" : "https://image.kurier.at/images/original/4769787/46-102053516.jpg",
-      "titleSource" : "Wie eine Hochzeit zum Superspreader-Event wurde; Ein Covid-19-Toter alle 17 Sekunden",
+      "titleSource" : "Wie eine Hochzeit zum Superspreader-Event wurde; das Rennen um den Impfstoff",
       "titleTarget" : "Roditelji: kritika zbog zatvaranja škole - zadovoljni učiteljima + više smrtnih slučajeva zbog povreda žena u domovima",
       "url" : "https://kurier.at/chronik/oesterreich/massiver-anstieg-an-corona-toten-in-pflegeheimen-antigen-tests-ab-sofort-in-apotheken/401102193"
-    }, {
-      "id" : "7sEFydgQ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/00/crops/w=1280/757084_opener_263000_113209_kreamtorium.jpg?s=97d26c5cd5923e38e455c7e297099d22b2f896e4",
-      "titleSource" : "Bestatter ließ falsche Leiche einäschern",
-      "titleTarget" : "Undertaker je kremirao pogrešno tijelo",
-      "url" : "https://noe.orf.at/stories/3076692/"
-    }, {
-      "id" : "RotSbcGH",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/10/crops/w=1280/474962_opener_159310_c-_users_bauerbri_appdata_local_temp_zfg3q9xl.jpg?s=0a81998d2ce86436337c0b1542fc3b2b5eb7427f",
-      "titleSource" : "Müll aus Covid-Haushalten nicht trennen",
-      "titleTarget" : "Ne odvajajte otpad iz kućanstava Covid",
-      "url" : "https://ooe.orf.at/stories/3076675/"
-    }, {
-      "id" : "wQJZBVhA",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/02/crops/w=1280/757104_opener_263002_unbenannt-3.jpg?s=8849142e70ed40c26c1ed77ce0c9869e5141d585",
-      "titleSource" : "Belastung für Personal wird immer größer",
-      "titleTarget" : "Opterećenje osoblja raste",
-      "url" : "https://tirol.orf.at/stories/3076702/"
     }, {
       "id" : "Juwl5FzV",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "Aktuelle Corona-Zahlen: Erneut knapp 7.000 Fälle in Österreich",
       "titleTarget" : "Trenutni brojevi korona: Opet gotovo 7.000 slučajeva u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-erneut-knapp-7000-faelle-in-oesterreich/401102631"
+    }, {
+      "id" : "CN8N6R7e",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/14/crops/w=1280/757654_opener_263214_unbddddenannt-4.jpg?s=7110f770dbe80c1b1d6f749dbe982dfa9c3ffb1f",
+      "titleSource" : "Vor 100 Jahren Auszug der Südtiroler Abgeordneten",
+      "titleTarget" : "Prije 100 godina parlamentarci iz Južnog Tirola iselili su se",
+      "url" : "https://tirol.orf.at/stories/3076795/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -155,17 +154,17 @@
       "titleTarget" : "Izašao za Ribarskog: Stefan Jürgens napušta \"SOKO Donau\"",
       "url" : "https://kurier.at/kultur/medien/stefan-juergens-steigt-bei-soko-donau-aus/401103324"
     }, {
-      "id" : "8UPt74EW",
-      "imgUrl" : "https://image.kurier.at/images/original/4769109/46-119829831.jpg",
-      "titleSource" : "Was kommt nach Adolf? \"Der Vorname\" bekommt Fortsetzung",
-      "titleTarget" : "Što dolazi nakon Adolfa? \"Prvo ime\" se nastavlja",
-      "url" : "https://kurier.at/kultur/was-kommt-nach-adolf-der-vorname-bekommt-fortsetzung-der-nachname/401103114"
-    }, {
       "id" : "07PTsCI1",
       "imgUrl" : "https://image.kurier.at/images/original/4767393/46-166745750.jpg",
       "titleSource" : "\"Worte können töten\": Will Smith entschuldigt sich bei \"Prinz von Bel Air\"-Darstellerin",
       "titleTarget" : "\"Riječi mogu ubiti\": Will Smith se ispričava glumici \"Prince Of Bel Air\"",
       "url" : "https://kurier.at/kultur/medien/worte-koennen-toeten-will-smith-entschuldigt-sich-bei-prinz-von-bel-air-darstellerin/401102295"
+    }, {
+      "id" : "8UPt74EW",
+      "imgUrl" : "https://image.kurier.at/images/original/4769109/46-119829831.jpg",
+      "titleSource" : "Was kommt nach Adolf? \"Der Vorname\" bekommt Fortsetzung",
+      "titleTarget" : "Što dolazi nakon Adolfa? \"Prvo ime\" se nastavlja",
+      "url" : "https://kurier.at/kultur/was-kommt-nach-adolf-der-vorname-bekommt-fortsetzung-der-nachname/401103114"
     }, {
       "id" : "lmubSnTt",
       "imgUrl" : "https://image.kurier.at/images/original/4767363/46-168972557.jpg",
@@ -173,11 +172,11 @@
       "titleTarget" : "\"Wonder Woman\" istodobno započinje u Americi u kinu i u streamingu",
       "url" : "https://kurier.at/kultur/wonder-woman-startet-in-amerika-zugleich-im-kino-und-im-streaming/401102268"
     }, {
-      "id" : "VYqXrQyL",
-      "imgUrl" : "https://image.kurier.at/images/original/4769283/46-168983802.jpg",
-      "titleSource" : "Albertina-Chef auf YouTube zur Corona-Lage: \"Baue nicht auf Lotto-Sechser\"",
-      "titleTarget" : "Albertina šefica na YouTubeu o situaciji u Coroni: \"Ne oslanjajte se na lutrijske šesterce\"",
-      "url" : "https://kurier.at/kultur/albertina-chef-schroeder-ich-baue-nicht-auf-einen-lotto-zwoelfer/401103186"
+      "id" : "NhBIXRWc",
+      "imgUrl" : "https://image.kurier.at/images/original/4766658/46-80363175.jpg",
+      "titleSource" : "Birdy: Für vier Songs ein letztes Mal unendlich traurig",
+      "titleTarget" : "Birdy: Posljednji put, beskrajno tužan zbog četiri pjesme",
+      "url" : "https://kurier.at/kultur/birdy-fuer-vier-songs-ein-letztes-mal-unendlich-traurig/401101797"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,36 +189,36 @@
       "titleTarget" : "Jato umire da prvo utvrdi svoj položaj",
       "url" : "https://sport.orf.at/stories/3069509/"
     }, {
-      "id" : "1jRGjuoU",
-      "titleSource" : "ÖFB-Team rettet Remis gegen Notelf",
-      "titleTarget" : "Momčad ÖFB-a spašava remi protiv Notelfa",
-      "url" : "https://sport.orf.at/stories/3069488/"
-    }, {
-      "id" : "Rd7Jgb88",
-      "imgUrl" : "https://image.kurier.at/images/original/4767138/46-168970224.jpg",
-      "titleSource" : "ÖFB-Team: Mit einer Enttäuschung zum Nations-League-Aufstieg",
-      "titleTarget" : "ÖFB tim: S razočaranjem zbog promocije Lige nacija",
-      "url" : "https://kurier.at/sport/fussball/nations-league-oefb-team-schafft-trotz-blamage-den-aufstieg/401101779"
+      "id" : "VWgKWvPq",
+      "imgUrl" : "https://image.kurier.at/images/original/4768959/46-168962579.jpg",
+      "titleSource" : "Trotz Corona-Pandemie: 50.000 Zuschauer bei Rugby-Spiel",
+      "titleTarget" : "Unatoč pandemiji korone: 50 000 gledatelja u ragbi igri",
+      "url" : "https://kurier.at/sport/trotz-corona-pandemie-50000-zuschauer-bei-rugby-spiel-in-australien/401103045"
     }, {
       "id" : "CfPuyt2c",
       "titleSource" : "Thiem kann befreit aufspielen",
       "titleTarget" : "Thiem može igrati slobodno",
       "url" : "https://sport.orf.at/stories/3069472/"
     }, {
-      "id" : "AHlJu2fZ",
-      "titleSource" : "Teamchef Foda wirbt um Nachsicht",
-      "titleTarget" : "Šef tima Foda poziva na popuštanje",
-      "url" : "https://sport.orf.at/stories/3069501/"
-    }, {
       "id" : "MFKWDDVS",
       "titleSource" : "Coach Guardiola hält Manchester City die Treue",
       "titleTarget" : "Trener Guardiola ostaje vjeran Manchester Cityju",
       "url" : "https://sport.orf.at/stories/3069516/"
     }, {
+      "id" : "4LCppYFa",
+      "titleSource" : "„Wölfinnen“ spielen im Konzert der Großen",
+      "titleTarget" : "\"Vukovi\" sviraju u dogovoru s velikanima",
+      "url" : "https://sport.orf.at/stories/3069528/"
+    }, {
       "id" : "z5LgXcZM",
       "titleSource" : "Neuseelands neuer „Flieger“ ist vom Stapel",
       "titleTarget" : "Lansiran je novi “Flyer” na Novom Zelandu",
       "url" : "https://sport.orf.at/stories/3069508/"
+    }, {
+      "id" : "AHlJu2fZ",
+      "titleSource" : "Teamchef Foda wirbt um Nachsicht",
+      "titleTarget" : "Šef tima Foda poziva na popuštanje",
+      "url" : "https://sport.orf.at/stories/3069501/"
     } ]
   } ],
   "country" : "austria",
