@@ -2,35 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "2NRohDmx",
-      "imgUrl" : "https://image.kurier.at/images/original/4770681/46-168999156.jpg",
-      "titleSource" : "Nach Terroranschlag: Opposition will den Verfassungsschutz kontrollieren",
-      "titleTarget" : "Nakon terorističkog napada: Oporba želi kontrolirati zaštitu ustava",
-      "url" : "https://kurier.at/politik/inland/nach-terroranschlag-opposition-will-den-verfassungsschutz-kontrollieren/401103810"
-    }, {
-      "id" : "FSZknxVK",
-      "imgUrl" : "https://image.kurier.at/images/original/4772097/46-168708698.jpg",
-      "titleSource" : "Massentests ab 5. Dezember: Start mit Lehrern und Polizisten",
-      "titleTarget" : "Masovna ispitivanja od 5. prosinca: započnite s učiteljima i policajcima",
-      "url" : "https://kurier.at/politik/inland/massentests-ab-5-dezember-start-mit-lehrern-und-polizisten/401104674"
-    }, {
-      "id" : "3UVbB6on",
-      "imgUrl" : "https://image.kurier.at/images/original/4741362/20201105-ABD0024-1-1.jpg",
-      "titleSource" : "SPÖ beklagt Pensionskürzungen für alle",
-      "titleTarget" : "SPÖ se žali na smanjenje rezanja mirovina za sve",
-      "url" : "https://kurier.at/politik/inland/spoe-beklagt-pensionskuerzungen-fuer-alle/401104242"
-    }, {
-      "id" : "cILFjyy5",
-      "imgUrl" : "https://image.kurier.at/images/original/4466108/46-165506317.jpg",
-      "titleSource" : "Welche Teststrategie Pflegeheime besser schützen sollte",
-      "titleTarget" : "Koja bi strategija ispitivanja trebala bolje zaštititi staračke domove",
-      "url" : "https://kurier.at/politik/inland/welche-teststrategie-pflegeheime-am-besten-schuetzt/401105010"
-    }, {
-      "id" : "CmVvyoAK",
-      "imgUrl" : "https://image.kurier.at/images/original/4069434/81731350852740990_BLD_Online.jpg",
-      "titleSource" : "Nationalrat beschließt Ethikunterricht",
-      "titleTarget" : "Nacionalno vijeće odobrava lekcije iz etike",
-      "url" : "https://kurier.at/politik/inland/nationalrat-beschliesst-ethikunterricht/401104200"
+      "id" : "BJ29LUhZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4772478/46-167326882.jpg",
+      "titleSource" : "Grüne Pläne für Öko-Steuerreform: SUV höher besteuern - ohne Ausnahmen",
+      "titleTarget" : "Zeleni planovi za reformu eko-poreza: porezni SUV-ovi veći - bez izuzetaka",
+      "url" : "https://kurier.at/politik/inland/suv-werden-hoeher-besteuert-ohne-ausnahmen/401105100"
     }, {
       "id" : "VP7gAmPe",
       "imgUrl" : "https://image.kurier.at/images/original/4771965/46-167877769.jpg",
@@ -38,38 +14,50 @@
       "titleTarget" : "Novi bonus za nezaposlenost u prosincu: detaljna pravila",
       "url" : "https://kurier.at/politik/inland/neuer-arbeitslosenbonus-im-dezember-die-regeln-im-detail/401104872"
     }, {
-      "id" : "wnaa7j3f",
-      "imgUrl" : "https://image.kurier.at/images/original/4745511/regierung_c_apa.jpg",
-      "titleSource" : "Vertrauen in Regierung zwar gesunken, aber größer als vor Corona",
-      "titleTarget" : "Povjerenje u vladu smanjilo se, ali veće nego prije Corone",
-      "url" : "https://kurier.at/politik/inland/vertrauen-in-regierung-zwar-gesunken-aber-groesser-als-vor-corona/401104092"
+      "id" : "bpGtA3B3",
+      "imgUrl" : "https://image.kurier.at/images/original/4772496/46-168686665.jpg",
+      "titleSource" : "Bekam Kickl Info zu Islamisten-Razzia von ehemaliger Leibgarde im LVT?",
+      "titleTarget" : "Je li Kickl informacije o islamističkom prepadu dobivao od bivših spasilaca u LVT-u?",
+      "url" : "https://kurier.at/politik/inland/bekam-kickl-info-zu-islamisten-razzia-von-ehemaliger-leibgarde-im-lvt/401105292"
+    }, {
+      "id" : "cILFjyy5",
+      "imgUrl" : "https://image.kurier.at/images/original/4466108/46-165506317.jpg",
+      "titleSource" : "Welche Teststrategie Pflegeheime besser schützen sollte",
+      "titleTarget" : "Koja bi strategija ispitivanja trebala bolje zaštititi staračke domove",
+      "url" : "https://kurier.at/politik/inland/welche-teststrategie-pflegeheime-am-besten-schuetzt/401105010"
+    }, {
+      "id" : "7m3FDFAn",
+      "imgUrl" : "https://image.kurier.at/images/original/4772013/46-107245485.jpg",
+      "titleSource" : "Wird der Test-Tag wie ein Wahltag? Experte: \"Wir müssen das Virus abwählen\"",
+      "titleTarget" : "Hoće li testni dan biti kao dan izbora? Stručnjak: \"Moramo izglasati virus\"",
+      "url" : "https://kurier.at/politik/inland/wird-der-test-tag-wie-ein-wahltag-experte-wir-muessen-das-virus-abwaehlen/401104908"
+    }, {
+      "id" : "dHiOvwRo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/e/3/5901027/45825AC4-49F8-4071-BE73-C81B0B4E5D18_v0_l.jpg",
+      "titleSource" : "Hebein nach Demontage im Klub: \"Ja, es gibt einen Riss durch unsere Partei\"",
+      "titleTarget" : "Hebein nakon demontaže u klubu: \"Da, došlo je do raskola u našoj stranci\"",
+      "url" : "https://www.diepresse.com/5901027/Landesversammlung_Hebein-nach-Demontage-im-Klub_Ja-es-gibt-einen?from=rss"
+    }, {
+      "id" : "qQLtU7Za",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/c/0/5900992/B47F64EB-521F-4E3F-9D0F-205992DE7168_v0_l.jpg",
+      "titleSource" : "\"Die Stinker werden teurer\": Grüne präsentieren weitere Schritte zur Öko-Steuerreform",
+      "titleTarget" : "\"Smrdljivi poskupljuju\": Zeleni predstavljaju daljnje korake prema reformi eko-poreza",
+      "url" : "https://www.diepresse.com/5900992/Klimaschutz_Die-Stinker-werden-teurer_Gruene-praesentieren?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "i4Ae1m72",
-      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
-      "titleSource" : "Fixkostenzuschuss 2 kann bis zu 3 Mio. Euro je Firma ausmachen",
-      "titleTarget" : "Subvencija s fiksnim troškovima 2 može iznositi do 3 milijuna eura po tvrtki",
-      "url" : "https://kurier.at/wirtschaft/fixkostenzuschuss-2-kann-bis-zu-3-mio-euro-je-firma-ausmachen/401104659"
-    }, {
-      "id" : "yIoWH9QK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/1/9/5899545/Mayor-De-Blasio-Announces-Sweeping-Environmental-Sustainability-Plan-For-New-York-City_1605881244337750_v0_h.jpg",
-      "titleSource" : "Mieter mit Messie-Syndrom muss aus Wohnung ausziehen",
-      "titleTarget" : "Stanari s messie sindromom moraju se iseliti iz svog doma",
-      "url" : "https://www.diepresse.com/5899545/Streitfall-der-Woche_Mieter-mit-MessieSyndrom-muss-aus-Wohnung?from=rss"
-    }, {
       "id" : "pHfjC7Xc",
       "imgUrl" : "https://image.kurier.at/images/original/4767747/46-168961321.jpg",
       "titleSource" : "Gut geliefert: Haubenniveau im Homeoffice",
       "titleTarget" : "Dobro isporučeno: razina nape u kućnom uredu",
       "url" : "https://kurier.at/wirtschaft/karriere/gut-geliefert-haubenniveau-im-homeoffice-vom-sans-souci-wien/401102877"
     }, {
-      "id" : "8p4JrBTM",
-      "imgUrl" : "https://image.kurier.at/images/original/4771848/46-166720379.jpg",
-      "titleSource" : "Austro Control: Grundsatzeinigung auf Sparpaket",
-      "titleTarget" : "Austro Control: Načelni sporazum o štednom paketu",
-      "url" : "https://kurier.at/wirtschaft/austro-control-grundsatzeinigung-auf-sparpaket/401104788"
+      "id" : "9gvXP7Mm",
+      "imgUrl" : "https://image.kurier.at/images/original/4772547/46-163456527.jpg",
+      "titleSource" : "Appell an Spar, Lidl und Hofer: \"Schränkt euer Sortiment ein!\"",
+      "titleTarget" : "Apel Sparu, Lidlu i Hoferu: \"Ograničite svoj domet!\"",
+      "url" : "https://kurier.at/wirtschaft/appell-an-spar-lidl-und-hofer-schraenkt-euer-sortiment-ein/401105298"
     }, {
       "id" : "aC1V67LZ",
       "imgUrl" : "https://image.kurier.at/images/original/4769052/46-168940639.jpg",
@@ -77,89 +65,83 @@
       "titleTarget" : "Tri žarišna mjesta: Ulaganje u nekretnine sada se isplati",
       "url" : "https://kurier.at/wirtschaft/immobiz/drei-hotspots-hier-lohnt-sich-jetzt-eine-immobilieninvestition/401103087"
     }, {
-      "id" : "pbKxuVk5",
-      "imgUrl" : "https://image.kurier.at/images/original/4740936/78370011357348074_BLD_Online.jpg",
-      "titleSource" : "AUA verbrennt täglich ein bis zwei Millionen Euro",
-      "titleTarget" : "AUA sagorijeva jedan do dva milijuna eura svaki dan",
-      "url" : "https://kurier.at/wirtschaft/aua-verbrennt-taeglich-ein-bis-zwei-millionen-euro/401104035"
+      "id" : "Rskqt8Fo",
+      "imgUrl" : "https://image.kurier.at/images/original/4617026/46-166737812.jpg",
+      "titleSource" : "USA erhöhen Druck auf Firmen bei Nord Stream 2",
+      "titleTarget" : "SAD pojačavaju pritisak na tvrtke u Sjevernom toku 2",
+      "url" : "https://kurier.at/wirtschaft/usa-erhoehen-druck-auf-firmen-bei-nord-stream-2/401105166"
     }, {
-      "id" : "faTjVymm",
-      "imgUrl" : "https://image.kurier.at/images/original/4538132/81710357855642760_BLD_Online.jpg",
-      "titleSource" : "A1 mit 40 Prozent Marktanteil größter Mobilfunkanbieter",
-      "titleTarget" : "A1 je najveći mobilni operater s 40 posto tržišnog udjela",
-      "url" : "https://kurier.at/wirtschaft/a1-mit-40-prozent-marktanteil-groesster-mobilfunkanbieter/401104152"
+      "id" : "XUCwZiXM",
+      "imgUrl" : "https://image.kurier.at/images/original/4768851/46-168931436.jpg",
+      "titleSource" : "Wie Corona der Wirtschaft die Planungssicherheit nimmt",
+      "titleTarget" : "Kako Corona oduzima sigurnost planiranju gospodarstvu",
+      "url" : "https://kurier.at/wirtschaft/karriere/wie-corona-der-wirtschaft-die-planungssicherheit-nimmt/401102979"
+    }, {
+      "id" : "TCehFf4j",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/a/e/5/5901029/657DAD6F-6CC0-4ADB-AC28-AD17123FB1F0_v0_l.jpg",
+      "titleSource" : "Einschnitte bei der \"Hacklerregelung\": Dicke Luft bei Seniorenvertretern",
+      "titleTarget" : "Urezi u \"propisu o hakerima\": Loš zrak za starije predstavnike",
+      "url" : "https://www.diepresse.com/5901029/Pensionsreform_Einschnitte-bei-der-Hacklerregelung_Dicke-Luft-bei?from=rss"
+    }, {
+      "id" : "D6cvvcyH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/a/e/5/5901029/657DAD6F-6CC0-4ADB-AC28-AD17123FB1F0_v0_l.jpg",
+      "titleSource" : "Wegen Einschnitten bei Hacklerregelung: Dicke Luft bei Seniorenvertretern",
+      "titleTarget" : "Zbog smanjenja propisa o Hackleru: Loš zrak za starije predstavnike",
+      "url" : "https://www.diepresse.com/5901029/Pensionsreform_Wegen-Einschnitten-bei-Hacklerregelung_Dicke-Luft?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Q3cIGnyw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/01/crops/w=1280/473585_opener_158801_einkauf_im_einzelhandel_.jpg?s=88cfc3ca28450598deddcfab8513fa2eaadaded1",
-      "titleSource" : "Shoppingtouren ins Ausland laut Gantner verboten",
-      "titleTarget" : "Prema Gantneru, izleti u inozemstvo zabranjeni su",
-      "url" : "https://vorarlberg.orf.at/stories/3076909/"
-    }, {
-      "id" : "YdyQro2Y",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/93/crops/w=1280/758700_opener_263593_f20b063a-e845-4b15-975c-d57839a8f4d5.jpg?s=50ac714b01411bfd2b423a4778ae67a3181906ef",
-      "titleSource" : "Situation in den Spitälern spitzt sich zu",
-      "titleTarget" : "Situacija u bolnicama dolazi do vrhunca",
-      "url" : "https://steiermark.orf.at/stories/3076919/"
-    }, {
-      "id" : "mLzs3G9r",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/40/crops/w=1280/758815_opener_263640_image_11.jpg?s=937b9a92ee2b4ff789f3880997e8351d72261bb5",
-      "titleSource" : "Lockdown: Tierheime, Gnadenhöfe in Not",
-      "titleTarget" : "Zaključavanje: skloništa za životinje, utočišta u potrebi",
-      "url" : "https://salzburg.orf.at/stories/3076964/"
-    }, {
       "id" : "fZFNgM2h",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/27/crops/w=1280/759094_opener_263727_img-20201121-wa0003.jpg?s=fadd0367ba400c0847f112183464083ef53de3cb",
       "titleSource" : "Wolf in Siedlung gesichtet",
       "titleTarget" : "Vuk uočen u naselju",
       "url" : "https://vorarlberg.orf.at/stories/3077000/"
     }, {
-      "id" : "Iaz5uNPk",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/30/42/crops/w=1280/585902_opener_68242_domkirche_st_poelten_02_coe.jpg?s=c71371e8e3213def9bef426342b3b8b9598e2a29",
-      "titleSource" : "St. Pölten: Parken in Kurzparkzonen kostenlos",
-      "titleTarget" : "St. Pölten: Besplatno parkiranje u zonama kratkotrajnog parkiranja",
-      "url" : "https://noe.orf.at/stories/3076947/"
+      "id" : "YLu47TaK",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "6611 Neuinfektionen in Österreich - wieder über 100 Todesfälle in 24 Stunden",
+      "titleTarget" : "6611 novih infekcija u Austriji - opet preko 100 smrtnih slučajeva u 24 sata",
+      "url" : "https://kurier.at/chronik/oesterreich/6611-neuinfektionen-in-oesterreich/401105028"
     }, {
-      "id" : "oeLphnlG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/72/crops/w=1280/758922_opener_263672_20201120_lokalaugenschein_kaernten_netz_00_00_29_09.jpg?s=82538695d368d7b4842e7a97d24992c01b8ef9d4",
-      "titleSource" : "Neuer Kabelpflug verlegt Stromkabel schneller",
-      "titleTarget" : "Novi kabelski plug brže postavlja energetske kabele",
-      "url" : "https://kaernten.orf.at/stories/3076967/"
+      "id" : "Ac2FOfgk",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/39/crops/w=1280/751119_opener_260739_bh_landtag_3_c0003_00.11.07.07.jpg?s=2395cfbe8a98b83b1bde6bfb6e8832f67cd2b774",
+      "titleSource" : "Landeshauptmann Doskozil CoV-positiv",
+      "titleTarget" : "Guverner Doskozil CoV pozitivan",
+      "url" : "https://burgenland.orf.at/stories/3077079/"
     }, {
-      "id" : "W0mQVkLC",
-      "imgUrl" : "https://image.kurier.at/images/original/4772145/46-168936005.jpg",
-      "titleSource" : "Österreicher sind im zweiten Lockdown mehr unterwegs; Trump-Sohn infiziert",
-      "titleTarget" : "Austrijanci su više u pokretu u drugom zaključavanju; Trump sin zaražen",
-      "url" : "https://kurier.at/chronik/oesterreich/bewegungsdaten-oesterreicher-im-zweiten-lockdown-mehr-unterwegs-trump-sohn-infiziert/401104974"
+      "id" : "HVVurGBQ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/42/88/crops/w=1280/722918_opener_250788_krankenhausbett.jpg?s=7bef5a07a02640ca3a9ededb473ca869ff3d5eae",
+      "titleSource" : "Land Tirol meldet 20 weitere Todesopfer",
+      "titleTarget" : "Država Tirol izvijestila je o još 20 smrtnih slučajeva",
+      "url" : "https://tirol.orf.at/stories/3076995/"
+    }, {
+      "id" : "xDUTu8C0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/13/crops/w=1280/759365_opener_263813_bolide20201119.jpg?s=d5b1b313a4e725b0c466dde4170882b3853c9f5f",
+      "titleSource" : "Feuerkugel über Oberösterreich",
+      "titleTarget" : "Vatrena kugla nad Gornjom Austrijom",
+      "url" : "https://ooe.orf.at/stories/3077048/"
+    }, {
+      "id" : "dr0tr6wX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/35/crops/w=1280/759118_opener_263735_kh_adventmaerkte_201121_00_00_53_01.jpg?s=dfa91404db951b33422c96e0923a2973358336ae",
+      "titleSource" : "Fast alle Adventmärkte abgesagt",
+      "titleTarget" : "Otkazane su gotovo sve adventske tržnice",
+      "url" : "https://kaernten.orf.at/stories/3076999/"
+    }, {
+      "id" : "5qu86my7",
+      "imgUrl" : "https://image.kurier.at/images/original/4772181/46-168266141.jpg",
+      "titleSource" : "Corona in Österreich: Diese Bezirke sind aktuell am stärksten betroffen",
+      "titleTarget" : "Corona u Austriji: Ova su područja trenutno najviše pogođena",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-in-oesterreich-diese-bezirke-sind-aktuell-am-staerksten-betroffen/401105043"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "qqxfQmRL",
-      "imgUrl" : "https://image.kurier.at/images/original/4770483/78452305857585542_BLD_Online.jpg",
-      "titleSource" : "Angelina Jolie übernimmt Film-Projekt über Kriegsfotografen",
-      "titleTarget" : "Angelina Jolie preuzima filmski projekt o ratnim fotografima",
-      "url" : "https://kurier.at/kultur/angelina-jolie-uebernimmt-film-projekt-ueber-kriegsfotografen/401104137"
-    }, {
       "id" : "t2pd5lRV",
       "imgUrl" : "https://image.kurier.at/images/original/4770201/46-167516103.jpg",
       "titleSource" : "Buchkritik: Roman Ehrlich und der Untergang von „Malé“",
       "titleTarget" : "Recenzija knjige: Roman Ehrlich i propast \"Maléa\"",
       "url" : "https://kurier.at/kultur/buch/buchkritik-roman-ehrlich-und-der-untergang-von-male/401103765"
-    }, {
-      "id" : "Ah7r4Pef",
-      "imgUrl" : "https://image.kurier.at/images/original/4770204/46-167596775.jpg",
-      "titleSource" : "Buchkritik: Lydia David und \"Es ist, wie's ist\"",
-      "titleTarget" : "Recenzija knjige: Lydia David i \"Takvo je kakvo je\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-lydia-david-und-es-ist-wies-ist/401103762"
-    }, {
-      "id" : "a74yOVQU",
-      "imgUrl" : "https://image.kurier.at/images/original/4770207/46-103347064.jpg",
-      "titleSource" : "Ken Follett: Wie aus ein paar Hütten \"Kingsbridge\" wurde",
-      "titleTarget" : "Ken Follett: Kako je nekoliko kabina postalo Kingsbridge",
-      "url" : "https://kurier.at/kultur/buch/ken-follett-wie-aus-ein-paar-huetten-kingsbridge-wurde/401103759"
     }, {
       "id" : "o85HlXCW",
       "imgUrl" : "https://image.kurier.at/images/original/4771923/46-168996180.jpg",
@@ -167,17 +149,35 @@
       "titleTarget" : "Elvis Costello zahtijeva ljubav i oprost za debelog idiota i ostale",
       "url" : "https://kurier.at/kultur/elvis-costello-fordert-liebe-und-vergebung-fuer-den-fetten-idioten-und-andere/401104836"
     }, {
+      "id" : "a74yOVQU",
+      "imgUrl" : "https://image.kurier.at/images/original/4770207/46-103347064.jpg",
+      "titleSource" : "Ken Follett: Wie aus ein paar Hütten \"Kingsbridge\" wurde",
+      "titleTarget" : "Ken Follett: Kako je nekoliko kabina postalo Kingsbridge",
+      "url" : "https://kurier.at/kultur/buch/ken-follett-wie-aus-ein-paar-huetten-kingsbridge-wurde/401103759"
+    }, {
+      "id" : "eGPYgPYr",
+      "imgUrl" : "https://image.kurier.at/images/original/3480022/46-144663421.jpg",
+      "titleSource" : "Bela B. spielt im neuen \"Polizeiruf\" aus Rostock einen arroganten Rockstar",
+      "titleTarget" : "Bela B. glumi arogantnu rock zvijezdu u novom \"Polizeirufu\" iz Rostocka",
+      "url" : "https://kurier.at/kultur/medien/bela-b-spielt-im-neuen-polizeiruf-aus-rostock-einen-arroganten-rockstar/401105274"
+    }, {
+      "id" : "ygrPs48h",
+      "imgUrl" : "https://image.kurier.at/images/original/4772199/orf_noberbuch_20201121101624.jpg",
+      "titleSource" : "\"Dancing Stars\": 913.000 sahen Aus für Ushakova",
+      "titleTarget" : "\"Dancing Stars\": 913 000 pazilo je na Ushakovu",
+      "url" : "https://kurier.at/kultur/medien/dancing-stars-913000-sahen-aus-fuer-ushakova/401105121"
+    }, {
       "id" : "zZOMQmGD",
       "imgUrl" : "https://image.kurier.at/images/original/3576856/st3-production-still-8_1.jpg",
       "titleSource" : "Netflix stellt Neuzugänge bei \"Stranger Things\" vor",
       "titleTarget" : "Netflix uvodi nove dodatke u \"Stranger Things\"",
       "url" : "https://kurier.at/kultur/medien/netflix-stellt-neuzugaenge-bei-stranger-things-vor/401105031"
     }, {
-      "id" : "Jc85f8GK",
-      "imgUrl" : "https://image.kurier.at/images/original/4771815/latteigel.jpg",
-      "titleSource" : "Er schuf \"Latte Igel\": Kinderbuchautor Sebastian Lybeck gestorben",
-      "titleTarget" : "Stvorio je \"Latte Igel\": umro je autor dječje knjige Sebastian Lybeck",
-      "url" : "https://kurier.at/kultur/er-schuf-latte-igel-kinderbuchautor-sebastian-lybeck-gestorben/401104755"
+      "id" : "U1zfGt1V",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/a/3/5900707/618781A7-8386-44C6-A984-9B45909513D0_v0_l.jpg",
+      "titleSource" : "Was ein Mann in einer Frauenseele anrichtet",
+      "titleTarget" : "Što muškarac radi u ženskoj duši",
+      "url" : "https://www.diepresse.com/5900707/ORF_Was-ein-Mann-in-einer-Frauenseele-anrichtet?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,44 +185,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "gzXBXkSH",
-      "imgUrl" : "https://image.kurier.at/images/original/4770756/46-168261623.jpg",
-      "titleSource" : "Ski-Routinier Mölgg hat Corona: \"Ich bin elend beinander\"",
-      "titleTarget" : "Skijaški veteran Mölgg ima Coronu: \"Jadni smo zajedno\"",
-      "url" : "https://kurier.at/sport/wintersport/ski-routinier-moelgg-hat-corona-ich-bin-elend-beinander/401104158"
+      "id" : "HhTRKnTE",
+      "imgUrl" : "https://image.kurier.at/images/original/4772928/46-169025422.jpg",
+      "titleSource" : "ATP Finals: Thiem nach Krimi gegen Djokovic im Endspiel",
+      "titleTarget" : "ATP finale: Thiem nakon zločina nad Đokovićem u finalu",
+      "url" : "https://kurier.at/sport/tennis/tennis-atp-finals-thiem-nach-krimi-gegen-djokovic-im-endspiel/401105193"
     }, {
-      "id" : "Q7h6XM5H",
-      "titleSource" : "Krssakova kämpft sich zu EM-Silber",
-      "titleTarget" : "Krssakova se bori za EM srebro",
-      "url" : "https://sport.orf.at/stories/3069556/"
+      "id" : "ReLX4IgC",
+      "titleSource" : "Thiem zieht nach Krimi ins Finale ein",
+      "titleTarget" : "Thiem kreće u finale nakon krimi trilera",
+      "url" : "https://sport.orf.at/stories/3069597/"
+    }, {
+      "id" : "01gXqQ7M",
+      "titleSource" : "Österreich gewinnt Team-Bewerb in Wisla",
+      "titleTarget" : "Austrija je pobijedila u ekipnom natjecanju u Wisli",
+      "url" : "https://sport.orf.at/stories/3069598/"
     }, {
       "id" : "Cshj66jJ",
       "titleSource" : "Kurioser Aufstieg für Melzer/Roger-Vasselin",
       "titleTarget" : "Znatiželjan uspon za Melzera / Rogera-Vasselina",
       "url" : "https://sport.orf.at/stories/3069566/"
     }, {
-      "id" : "n7Kfh1LP",
-      "imgUrl" : "https://image.kurier.at/images/original/4771176/46-168996887.jpg",
-      "titleSource" : "Wegen Corona: Rapid erstmals seit acht Jahren mit Verlusten",
-      "titleTarget" : "Zbog Corone: Rapid prvi put u osam godina s gubicima",
-      "url" : "https://kurier.at/sport/fussball/fussball-wegen-corona-rapid-erstmals-seit-acht-jahren-mit-verlusten/401104422"
+      "id" : "p0ZAqwgO",
+      "imgUrl" : "https://image.kurier.at/images/original/4772394/46-169018911.jpg",
+      "titleSource" : "Historischer Erfolg: Erster Podestplatz für Bobpilotin Katrin Beierl",
+      "titleTarget" : "Povijesni uspjeh: Prvo postolje za pilota boba Katrin Beierl",
+      "url" : "https://kurier.at/sport/wintersport/historischer-erfolg-erster-podestplatz-fuer-bobpilotin-katrin-beierl/401105091"
+    }, {
+      "id" : "j3lcbjl6",
+      "titleSource" : "Thiem kämpft um zweites London-Finale",
+      "titleTarget" : "Thiem se bori za drugo londonsko finale",
+      "url" : "https://sport.orf.at/stories/3069539/"
     }, {
       "id" : "KpaPJJBF",
       "titleSource" : "ÖSV-Damen in Levi auf Stockerljagd",
       "titleTarget" : "ÖSV žene u Leviju u lovu na postolje",
       "url" : "https://sport.orf.at/stories/3069538/"
-    }, {
-      "id" : "p0ZAqwgO",
-      "imgUrl" : "https://image.kurier.at/images/original/3905135/46-142976584.jpg",
-      "titleSource" : "Historischer Erfolg: Erster Podestplatz für Bobpilotin Katrin Beierl",
-      "titleTarget" : "Povijesni uspjeh: Prvo postolje za pilota boba Katrin Beierl",
-      "url" : "https://kurier.at/sport/wintersport/historischer-erfolg-erster-podestplatz-fuer-bobpilotin-katrin-beierl/401105091"
-    }, {
-      "id" : "jcb9oReU",
-      "imgUrl" : "https://image.kurier.at/images/original/4771281/46-155180005.jpg",
-      "titleSource" : "ÖSV-Slalomhoffnung Truppe: \"Mit Druck kann ich nicht fahren\"",
-      "titleTarget" : "ÖSV slalomska nada: \"Ne mogu voziti pod pritiskom\"",
-      "url" : "https://kurier.at/sport/wintersport/oesv-slalomhoffnung-truppe-mit-druck-kann-ich-nicht-fahren/401104545"
     } ]
   } ],
   "country" : "austria",
