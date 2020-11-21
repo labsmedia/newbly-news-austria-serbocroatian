@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "2NRohDmx",
+      "imgUrl" : "https://image.kurier.at/images/original/4770681/46-168999156.jpg",
+      "titleSource" : "Nach Terroranschlag: Opposition will den Verfassungsschutz kontrollieren",
+      "titleTarget" : "Nakon terorističkog napada: Oporba želi kontrolirati zaštitu ustava",
+      "url" : "https://kurier.at/politik/inland/nach-terroranschlag-opposition-will-den-verfassungsschutz-kontrollieren/401103810"
+    }, {
       "id" : "AYcOsw7E",
       "imgUrl" : "https://image.kurier.at/images/original/4766406/46-168954991.jpg",
       "titleSource" : "Österreichs Pharma-Branche: Drei Impfstoffe unmittelbar vor Zulassung",
       "titleTarget" : "Austrijska farmaceutska industrija: tri cjepiva neposredno prije odobrenja",
       "url" : "https://kurier.at/politik/inland/pharma-branche-zur-impfung-drei-impfstoffe-unmittelbar-vor-zulassung/401103993"
-    }, {
-      "id" : "Z6C0dOfO",
-      "imgUrl" : "https://image.kurier.at/images/original/4770876/46-168837621.jpg",
-      "titleSource" : "Massentests starten in Österreich mit Pädagogen am 5. Dezember",
-      "titleTarget" : "Masovna ispitivanja počinju u Austriji s prosvjetnim radnicima 5. prosinca",
-      "url" : "https://kurier.at/politik/inland/massentests-fuer-paedagogen-starten-am-5-dezember/401104263"
     }, {
       "id" : "3UVbB6on",
       "imgUrl" : "https://image.kurier.at/images/original/4741362/20201105-ABD0024-1-1.jpg",
@@ -20,11 +20,11 @@
       "titleTarget" : "SPÖ se žali na smanjenje rezanja mirovina za sve",
       "url" : "https://kurier.at/politik/inland/spoe-beklagt-pensionskuerzungen-fuer-alle/401104242"
     }, {
-      "id" : "Yvnr0LRj",
-      "imgUrl" : "https://image.kurier.at/images/original/4756392/46-167435126.jpg",
-      "titleSource" : "Sonntagsöffnung nach dem Lockdown? ÖGB-Chef ist erwartungsgemäß skeptisch",
-      "titleTarget" : "Nedjeljno otvaranje nakon zaključavanja? Očekivano, šef ÖGB-a je skeptičan",
-      "url" : "https://kurier.at/politik/inland/sonntagsoeffnung-nach-dem-lockdown-oegb-chef-ist-erwartungsgemaess-skeptisch/401103558"
+      "id" : "FSZknxVK",
+      "imgUrl" : "https://image.kurier.at/images/original/4770267/78350011457585172_BLD_Online.jpg",
+      "titleSource" : "Massentests ab 5. Dezember: Start mit Lehrern und Polizisten",
+      "titleTarget" : "Masovna ispitivanja od 5. prosinca: započnite s učiteljima i policajcima",
+      "url" : "https://kurier.at/politik/inland/massentests-ab-5-dezember-start-mit-lehrern-und-polizisten/401104674"
     }, {
       "id" : "EY6aGmiN",
       "imgUrl" : "https://image.kurier.at/images/original/4706136/46-166756857.jpg",
@@ -40,7 +40,7 @@
     }, {
       "id" : "x12hzBGY",
       "imgUrl" : "https://image.kurier.at/images/original/4763592/20201117-ABD0040-1-1.jpg",
-      "titleSource" : "Nach Panne im Nationalrat: Budgetbeschluss muss wiederholt werden",
+      "titleSource" : "Nach Panne: Sondersitzung für Finanzrahmen nötig",
       "titleTarget" : "Nakon sloma u Nacionalnom vijeću: odluka o proračunu mora se ponoviti",
       "url" : "https://kurier.at/politik/inland/erneut-budget-panne-im-nationalrat/401103915"
     } ]
@@ -52,6 +52,18 @@
       "titleSource" : "Preisabsprachen am Bau: Wettbewerbsbehörde beantragt Geldbußen",
       "titleTarget" : "Utvrđivanje cijena na gradilištu: Tijelo za zaštitu tržišnog natjecanja podnosi zahtjev za novčanom kaznom",
       "url" : "https://kurier.at/wirtschaft/verbotene-preisabsprachen-bundeswettbewerbsbehoerde-beantragt-geldbussen/401103849"
+    }, {
+      "id" : "i4Ae1m72",
+      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
+      "titleSource" : "Fixkostenzuschuss 2 kann bis zu 3 Mio. Euro je Firma ausmachen",
+      "titleTarget" : "Subvencija s fiksnim troškovima 2 može iznositi do 3 milijuna eura po tvrtki",
+      "url" : "https://kurier.at/wirtschaft/fixkostenzuschuss-2-kann-bis-zu-3-mio-euro-je-firma-ausmachen/401104659"
+    }, {
+      "id" : "8p4JrBTM",
+      "imgUrl" : "https://image.kurier.at/images/original/4771848/46-166720379.jpg",
+      "titleSource" : "Austro Control: Grundsatzeinigung auf Sparpaket",
+      "titleTarget" : "Austro Control: Načelni sporazum o štednom paketu",
+      "url" : "https://kurier.at/wirtschaft/austro-control-grundsatzeinigung-auf-sparpaket/401104788"
     }, {
       "id" : "yIoWH9QK",
       "imgUrl" : "https://media.diepresse.com/images/uploads/5/1/9/5899545/Mayor-De-Blasio-Announces-Sweeping-Environmental-Sustainability-Plan-For-New-York-City_1605881244337750_v0_h.jpg",
@@ -76,18 +88,6 @@
       "titleSource" : "Umdasch: Wolfgang Litzlbauer folgt auf Andreas Ludwig ",
       "titleTarget" : "Umdasch: Wolfgang Litzlbauer naslijedio je Andreasa Ludwiga",
       "url" : "https://kurier.at/wirtschaft/umdasch-wolfgang-litzlbauer-folgt-auf-andreas-ludwig/401104734"
-    }, {
-      "id" : "i4Ae1m72",
-      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
-      "titleSource" : "Fixkostenzuschuss 2 kann bis zu 3 Mio. Euro je Firma ausmachen",
-      "titleTarget" : "Subvencija s fiksnim troškovima 2 može iznositi do 3 milijuna eura po tvrtki",
-      "url" : "https://kurier.at/wirtschaft/fixkostenzuschuss-2-kann-bis-zu-3-mio-euro-je-firma-ausmachen/401104659"
-    }, {
-      "id" : "VJo9I9XA",
-      "imgUrl" : "https://image.kurier.at/images/original/4612304/78370011356254040_BLD_Online.jpg",
-      "titleSource" : "Swarovski: Oppositionelle brachten erste Klagen ein",
-      "titleTarget" : "Swarovski: Članovi oporbe podnijeli su početne žalbe",
-      "url" : "https://kurier.at/wirtschaft/swarovski-oppositionelle-brachten-erste-klagen-ein/401104629"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,23 +98,17 @@
       "titleTarget" : "Prema Gantneru, izleti u inozemstvo zabranjeni su",
       "url" : "https://vorarlberg.orf.at/stories/3076909/"
     }, {
-      "id" : "qOqHb1dS",
-      "imgUrl" : "https://image.kurier.at/images/original/4771869/46-168997385.jpg",
-      "titleSource" : "Ö: 6.668 Neuinfektionen; Frankreich hat Höhepunkt überwunden",
-      "titleTarget" : "Austrija: 6.668 novih infekcija; Francuska je dostigla vrhunac",
-      "url" : "https://kurier.at/chronik/oesterreich/teiber-reiche-sollen-krisen-kasse-fuellen-wie-eine-hochzeit-zum-superspreader-event-wurde/401103624"
-    }, {
       "id" : "YdyQro2Y",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/93/crops/w=1280/758700_opener_263593_f20b063a-e845-4b15-975c-d57839a8f4d5.jpg?s=50ac714b01411bfd2b423a4778ae67a3181906ef",
       "titleSource" : "Situation in den Spitälern spitzt sich zu",
       "titleTarget" : "Situacija u bolnicama dolazi do vrhunca",
       "url" : "https://steiermark.orf.at/stories/3076919/"
     }, {
-      "id" : "lo2IpE1b",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/88/crops/w=1280/750962_opener_260688_c0020.jpg?s=a21b771f0834b032c741a2aa26ef6e7e17255d03",
-      "titleSource" : "Uni Graz: CoV-Massentest dauert Monate",
-      "titleTarget" : "Uni Graz: Ispitivanje mase CoV traje mjesecima",
-      "url" : "https://steiermark.orf.at/stories/3076849/"
+      "id" : "qOqHb1dS",
+      "imgUrl" : "https://image.kurier.at/images/original/4771869/46-168997385.jpg",
+      "titleSource" : "Ö: 6.668 Neuinfektionen; Frankreich hat Höhepunkt überwunden",
+      "titleTarget" : "Austrija: 6.668 novih infekcija; Francuska je dostigla vrhunac",
+      "url" : "https://kurier.at/chronik/oesterreich/teiber-reiche-sollen-krisen-kasse-fuellen-wie-eine-hochzeit-zum-superspreader-event-wurde/401103624"
     }, {
       "id" : "2o13UqP3",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -122,16 +116,23 @@
       "titleTarget" : "Trenutni brojevi korona: 6.668 slučajeva i više od 100 smrtnih slučajeva u jednom danu",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-erneut-mehr-als-100-todesfaelle-an-einem-tag/401103825"
     }, {
-      "id" : "h7VrhsNd",
-      "titleSource" : "18-Jährige in Zugstoilette vergewaltigt",
-      "titleTarget" : "18-godišnjak je silovao u toaletu u vlaku",
-      "url" : "https://noe.orf.at/stories/3076842/"
+      "id" : "3akkK8Pe",
+      "imgUrl" : "https://image.kurier.at/images/original/4769658/46-168983214.jpg",
+      "titleSource" : "Salzburger Hostel wird Winter-Notquartier für Obdachlose",
+      "titleTarget" : "Salzburški hostel postaje zimski utočište za beskućnike",
+      "url" : "https://kurier.at/chronik/oesterreich/salzburger-hostel-wird-winter-notquartier-fuer-obdachlose/401103390"
     }, {
-      "id" : "wqOAQ2ED",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/39/crops/w=1280/718775_opener_237739_volle_busse_in_coronazeiten_c0043_00.00.02.01.jpg?s=73c17ca6a723b0166d6bab5c0445151906cb03cd",
-      "titleSource" : "Gestaffelter Unterricht von Vorteil in Öffis",
-      "titleTarget" : "Koraci u nastavi prednost su u javnom prijevozu",
-      "url" : "https://vorarlberg.orf.at/stories/3076945/"
+      "id" : "mLzs3G9r",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/40/crops/w=1280/758815_opener_263640_image_11.jpg?s=937b9a92ee2b4ff789f3880997e8351d72261bb5",
+      "titleSource" : "Lockdown: Tierheime, Gnadenhöfe in Not",
+      "titleTarget" : "Zaključavanje: skloništa za životinje, utočišta u potrebi",
+      "url" : "https://salzburg.orf.at/stories/3076964/"
+    }, {
+      "id" : "Iaz5uNPk",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/30/42/crops/w=1280/585902_opener_68242_domkirche_st_poelten_02_coe.jpg?s=c71371e8e3213def9bef426342b3b8b9598e2a29",
+      "titleSource" : "St. Pölten: Parken in Kurzparkzonen kostenlos",
+      "titleTarget" : "St. Pölten: Besplatno parkiranje u zonama kratkotrajnog parkiranja",
+      "url" : "https://noe.orf.at/stories/3076947/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -160,12 +161,6 @@
       "titleTarget" : "7 zabavnih serija koje će nas zabavljati u zaključavanju",
       "url" : "https://kurier.at/kultur/medien/7-lustige-serien-die-uns-im-lockdown-unterhalten/401103297"
     }, {
-      "id" : "PCmOpREp",
-      "imgUrl" : "https://image.kurier.at/images/original/4769898/46-168746838.jpg",
-      "titleSource" : "Gemischte Platte: Urlaub in Polen, Eels und Alpine Dweller",
-      "titleTarget" : "Mješoviti pladanj: Odmor u Poljskoj, jegulje i alpski stanovnici",
-      "url" : "https://kurier.at/kultur/gemischte-platte-urlaub-in-polen-eels-und-alpine-dweller/401103507"
-    }, {
       "id" : "Jc85f8GK",
       "imgUrl" : "https://image.kurier.at/images/original/4771815/latteigel.jpg",
       "titleSource" : "Er schuf \"Latte Igel\": Kinderbuchautor Sebastian Lybeck gestorben",
@@ -177,6 +172,12 @@
       "titleSource" : "Wieder Museum in Deutschland von Attacken betroffen",
       "titleTarget" : "Napadi su ponovno pogodili muzej u Njemačkoj",
       "url" : "https://kurier.at/kultur/wieder-museum-in-deutschland-von-attacken-betroffen/401104404"
+    }, {
+      "id" : "aEBu9YeG",
+      "imgUrl" : "https://image.kurier.at/images/original/4770789/46-168916089.jpg",
+      "titleSource" : "John Lueftner: \"Das Testen ist schon fast Teil des Normalbetriebs\"",
+      "titleTarget" : "John Lueftner: \"Testiranje je gotovo dio normalnog rada\"",
+      "url" : "https://kurier.at/kultur/john-lueftner-das-testen-ist-schon-fast-teil-des-normalbetriebs/401104215"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,16 +191,21 @@
       "titleTarget" : "Skijaški veteran Mölgg ima Coronu: \"Jadni smo zajedno\"",
       "url" : "https://kurier.at/sport/wintersport/ski-routinier-moelgg-hat-corona-ich-bin-elend-beinander/401104158"
     }, {
-      "id" : "4LCppYFa",
-      "titleSource" : "„Wölfinnen“ spielen im Konzert der Großen",
-      "titleTarget" : "\"Vukovi\" sviraju u dogovoru s velikanima",
-      "url" : "https://sport.orf.at/stories/3069528/"
-    }, {
       "id" : "a66FXWlq",
       "imgUrl" : "https://image.kurier.at/images/original/4200992/46-162788021.jpg",
       "titleSource" : "Perfekter Winterstart: Skeletonstar Janine Flock gewinnt in Sigulda",
       "titleTarget" : "Savršen zimski početak: Zvijezda kostura Janine Flock pobjeđuje u Siguldi",
       "url" : "https://kurier.at/sport/wintersport/perfekter-winterstart-skeletonstar-janine-flock-gewinnt-in-sigulda/401104008"
+    }, {
+      "id" : "Cshj66jJ",
+      "titleSource" : "Kurioser Aufstieg für Melzer/Roger-Vasselin",
+      "titleTarget" : "Znatiželjan uspon za Melzera / Rogera-Vasselina",
+      "url" : "https://sport.orf.at/stories/3069566/"
+    }, {
+      "id" : "Q7h6XM5H",
+      "titleSource" : "Krssakova kämpft sich zu EM-Silber",
+      "titleTarget" : "Krssakova se bori za EM srebro",
+      "url" : "https://sport.orf.at/stories/3069556/"
     }, {
       "id" : "n7Kfh1LP",
       "imgUrl" : "https://image.kurier.at/images/original/4771176/46-168996887.jpg",
@@ -207,20 +213,16 @@
       "titleTarget" : "Zbog Corone: Rapid prvi put u osam godina s gubicima",
       "url" : "https://kurier.at/sport/fussball/fussball-wegen-corona-rapid-erstmals-seit-acht-jahren-mit-verlusten/401104422"
     }, {
-      "id" : "hjEmQ1T9",
-      "titleSource" : "Slalom-Damen für Levi guter Dinge",
-      "titleTarget" : "Žene slaloma za Levi dobre volje",
-      "url" : "https://sport.orf.at/stories/3069467/"
+      "id" : "jcb9oReU",
+      "imgUrl" : "https://image.kurier.at/images/original/4771281/46-155180005.jpg",
+      "titleSource" : "ÖSV-Slalomhoffnung Truppe: \"Mit Druck kann ich nicht fahren\"",
+      "titleTarget" : "ÖSV slalomska nada: \"Ne mogu voziti pod pritiskom\"",
+      "url" : "https://kurier.at/sport/wintersport/oesv-slalomhoffnung-truppe-mit-druck-kann-ich-nicht-fahren/401104545"
     }, {
-      "id" : "gUfJLv6j",
-      "titleSource" : "Nadal nach Sieg über Tsitsipas im London-Semifinale",
-      "titleTarget" : "Nadal nakon što je u polufinalu Londona svladao Tsitsipasa",
-      "url" : "https://sport.orf.at/stories/3069536/"
-    }, {
-      "id" : "CCdS72wB",
-      "titleSource" : "Thompson verpasst auch nächste NBA-Saison",
-      "titleTarget" : "Thompson također propušta sljedeću NBA sezonu",
-      "url" : "https://sport.orf.at/stories/3069531/"
+      "id" : "FkQAHmLq",
+      "titleSource" : "FIFA: Infrastruktur in Katar zu 90 Prozent fertig",
+      "titleTarget" : "FIFA: Infrastruktura u Kataru spremna je za 90 posto",
+      "url" : "https://sport.orf.at/stories/3069551/"
     } ]
   } ],
   "country" : "austria",
