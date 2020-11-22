@@ -2,47 +2,47 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "BJ29LUhZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4772478/46-167326882.jpg",
-      "titleSource" : "Grüne Pläne für Öko-Steuerreform: SUV höher besteuern - ohne Ausnahmen",
-      "titleTarget" : "Zeleni planovi za reformu eko-poreza: porezni SUV-ovi veći - bez izuzetaka",
-      "url" : "https://kurier.at/politik/inland/suv-werden-hoeher-besteuert-ohne-ausnahmen/401105100"
-    }, {
       "id" : "bpGtA3B3",
       "imgUrl" : "https://image.kurier.at/images/original/4772496/46-168686665.jpg",
       "titleSource" : "ÖVP-Vorwurf: Bekam Kickl Info zu Razzia von Ex-Leibgarde im LVT?",
       "titleTarget" : "Je li Kickl informacije o islamističkom prepadu dobivao od bivših spasilaca u LVT-u?",
       "url" : "https://kurier.at/politik/inland/bekam-kickl-info-zu-islamisten-razzia-von-ehemaliger-leibgarde-im-lvt/401105292"
     }, {
-      "id" : "cILFjyy5",
-      "imgUrl" : "https://image.kurier.at/images/original/4466108/46-165506317.jpg",
-      "titleSource" : "Welche Teststrategie Pflegeheime besser schützen sollte",
-      "titleTarget" : "Koja bi strategija ispitivanja trebala bolje zaštititi staračke domove",
-      "url" : "https://kurier.at/politik/inland/welche-teststrategie-pflegeheime-am-besten-schuetzt/401105010"
-    }, {
       "id" : "J6ECuAf6",
       "imgUrl" : "https://image.kurier.at/images/original/4773072/46-169003760.jpg",
-      "titleSource" : "EU reserviert 1,2 Milliarden Impfdosen",
+      "titleSource" : "Corona: Wie die Marktmacht EU die Europäer mit Impfungen versorgt",
       "titleTarget" : "EU rezervira 1,2 milijarde doza cjepiva",
       "url" : "https://kurier.at/politik/inland/eu-reserviert-12-milliarden-impfdosen/401105349"
     }, {
       "id" : "w9EeBjsg",
       "imgUrl" : "https://image.kurier.at/images/original/4773075/46-68296553.jpg",
-      "titleSource" : "Ex-Weltmeister & Hotelier Walchhofer: „Corona ist wie ein Ritt über die Streif“",
+      "titleSource" : "Ex-Weltmeister & Hotelier Walchhofer: \"Corona ist wie ein Ritt über die Streif\"",
       "titleTarget" : "Bivši svjetski prvak i hotelijer Walchhofer: \"Corona je poput vožnje preko Streifa\"",
       "url" : "https://kurier.at/politik/inland/ex-weltmeister-hotelier-walchhofer-corona-ist-wie-ein-ritt-ueber-die-streif/401105355"
+    }, {
+      "id" : "SOESJvwk",
+      "imgUrl" : "https://image.kurier.at/images/original/4773396/46-168811951.jpg",
+      "titleSource" : "Kogler über Ende des Lockdowns: Schrittweise Öffnung ab 7. Dezember dürfte halten",
+      "titleTarget" : "Kogler o kraju zaključavanja: Trebalo bi održati postupno otvaranje od 7. prosinca",
+      "url" : "https://kurier.at/politik/inland/kogler-ueber-ende-des-lockdowns-schrittweise-oeffnung-ab-7-dezember-duerfte-halten/401105694"
+    }, {
+      "id" : "3484knWC",
+      "imgUrl" : "https://image.kurier.at/images/original/4773339/46-168852302.jpg",
+      "titleSource" : "SPÖ-Bürgermeister schlagen Alarm: \"Corona treibt Gemeinden in Finanzdesaster\"",
+      "titleTarget" : "Gradonačelnici SPÖ oglašavaju uzbunu: \"Corona tjera zajednice u financijsku katastrofu\"",
+      "url" : "https://kurier.at/politik/inland/spoe-buergermeister-schlagen-alarm-corona-treibt-gemeinden-in-finanzdesaster/401105667"
+    }, {
+      "id" : "0lApza2R",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/d/9/5901273/RUNDER-TISCH-ALTERSEINSAMKEIT-KOROSEC_1606034377701552_v0_h.jpg",
+      "titleSource" : "\"Übernehme gerne die Rolle der reschen Alten\": Ingrid Korosec wird 80",
+      "titleTarget" : "\"Sretna sam što preuzimam ulogu svježe starice\": Ingrid Korosec navršava 80 godina",
+      "url" : "https://www.diepresse.com/5901273/Seniorenrat_Uebernehme-gerne-die-Rolle-der-reschen-Alten_Ingrid?from=rss"
     }, {
       "id" : "dHiOvwRo",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/e/3/5901027/45825AC4-49F8-4071-BE73-C81B0B4E5D18_v0_l.jpg",
       "titleSource" : "Hebein nach Demontage im Klub: \"Ja, es gibt einen Riss durch unsere Partei\"",
       "titleTarget" : "Hebein nakon demontaže u klubu: \"Da, došlo je do raskola u našoj stranci\"",
       "url" : "https://www.diepresse.com/5901027/Landesversammlung_Hebein-nach-Demontage-im-Klub_Ja-es-gibt-einen?from=rss"
-    }, {
-      "id" : "qQLtU7Za",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/c/0/5900992/B47F64EB-521F-4E3F-9D0F-205992DE7168_v0_l.jpg",
-      "titleSource" : "\"Die Stinker werden teurer\": Grüne präsentieren weitere Schritte zur Öko-Steuerreform",
-      "titleTarget" : "\"Smrdljivi poskupljuju\": Zeleni predstavljaju daljnje korake prema reformi eko-poreza",
-      "url" : "https://www.diepresse.com/5900992/Klimaschutz_Die-Stinker-werden-teurer_Gruene-praesentieren?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,11 +53,23 @@
       "titleTarget" : "Apel Sparu, Lidlu i Hoferu: \"Ograničite svoj domet!\"",
       "url" : "https://kurier.at/wirtschaft/appell-an-spar-lidl-und-hofer-schraenkt-euer-sortiment-ein/401105298"
     }, {
-      "id" : "pHfjC7Xc",
-      "imgUrl" : "https://image.kurier.at/images/original/4767747/46-168961321.jpg",
-      "titleSource" : "Gut geliefert: Haubenniveau im Homeoffice",
-      "titleTarget" : "Dobro isporučeno: razina nape u kućnom uredu",
-      "url" : "https://kurier.at/wirtschaft/karriere/gut-geliefert-haubenniveau-im-homeoffice-vom-sans-souci-wien/401102877"
+      "id" : "afPl04H6",
+      "imgUrl" : "https://image.kurier.at/images/original/4767576/46-168925642.jpg",
+      "titleSource" : "Mit dem Sauerteig nach Mexiko",
+      "titleTarget" : "Kiselom tijestom u Meksiko",
+      "url" : "https://kurier.at/wirtschaft/karriere/mit-dem-sauerteig-nach-mexiko-die-baeckerei-bret-and-zel-von-josef-hader/401102796"
+    }, {
+      "id" : "4XD7s9BP",
+      "imgUrl" : "https://image.kurier.at/images/original/4772694/46-168976973.jpg",
+      "titleSource" : "kauftregional: Das regionale Amazon im Mini-Format",
+      "titleTarget" : "Kauftregional: regionalni Amazon u mini formatu",
+      "url" : "https://kurier.at/wirtschaft/kauftregional-das-regionale-amazon-im-mini-format/401105352"
+    }, {
+      "id" : "08K4Y6Os",
+      "imgUrl" : "https://image.kurier.at/images/original/4693881/46-164085724.jpg",
+      "titleSource" : "Online einkaufen: 15.000 heimische Web-Shops gegen Amazon",
+      "titleTarget" : "Kupite putem interneta: 15.000 domaćih web trgovina protiv Amazona",
+      "url" : "https://kurier.at/wirtschaft/online-einkaufen-15000-heimische-web-shops-gegen-amazon/401105334"
     }, {
       "id" : "Rskqt8Fo",
       "imgUrl" : "https://image.kurier.at/images/original/4617026/46-166737812.jpg",
@@ -65,29 +77,17 @@
       "titleTarget" : "SAD pojačavaju pritisak na tvrtke u Sjevernom toku 2",
       "url" : "https://kurier.at/wirtschaft/usa-erhoehen-druck-auf-firmen-bei-nord-stream-2/401105166"
     }, {
-      "id" : "aC1V67LZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4769052/46-168940639.jpg",
-      "titleSource" : "Drei Hotspots: Hier lohnt sich jetzt eine Immobilieninvestition",
-      "titleTarget" : "Tri žarišna mjesta: Ulaganje u nekretnine sada se isplati",
-      "url" : "https://kurier.at/wirtschaft/immobiz/drei-hotspots-hier-lohnt-sich-jetzt-eine-immobilieninvestition/401103087"
+      "id" : "klBio6MB",
+      "imgUrl" : "https://image.kurier.at/images/original/4770846/46-168868115.jpg",
+      "titleSource" : "Adventkranz selbst gemacht: So geht's",
+      "titleTarget" : "Domaći adventski vijenac: ovako to djeluje",
+      "url" : "https://kurier.at/wirtschaft/immobiz/adventkranz-selbst-gemacht/401104269"
     }, {
-      "id" : "XUCwZiXM",
-      "imgUrl" : "https://image.kurier.at/images/original/4768851/46-168931436.jpg",
-      "titleSource" : "Wie Corona der Wirtschaft die Planungssicherheit nimmt",
-      "titleTarget" : "Kako Corona oduzima sigurnost planiranju gospodarstvu",
-      "url" : "https://kurier.at/wirtschaft/karriere/wie-corona-der-wirtschaft-die-planungssicherheit-nimmt/401102979"
-    }, {
-      "id" : "TCehFf4j",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/a/e/5/5901029/657DAD6F-6CC0-4ADB-AC28-AD17123FB1F0_v0_l.jpg",
-      "titleSource" : "Einschnitte bei der \"Hacklerregelung\": Dicke Luft bei Seniorenvertretern",
-      "titleTarget" : "Urezi u \"propisu o hakerima\": Loš zrak za starije predstavnike",
-      "url" : "https://www.diepresse.com/5901029/Pensionsreform_Einschnitte-bei-der-Hacklerregelung_Dicke-Luft-bei?from=rss"
-    }, {
-      "id" : "fMg29wXv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/a/9/0/5900944/AEB5B679-CC7F-4EE3-8101-498C8FA1A145_v0_l.jpg",
-      "titleSource" : "Coronahilfen: Verlängerung auf dem Weg",
-      "titleTarget" : "Pomoć za koronu: produženje na putu",
-      "url" : "https://www.diepresse.com/5900944/Covid19_Coronahilfen_Verlaengerung-auf-dem-Weg?from=rss"
+      "id" : "X7AGygvx",
+      "imgUrl" : "https://image.kurier.at/images/original/4772697/46-169001721.jpg",
+      "titleSource" : "Nunu Kaller: Zu Weihnachten \"doppelt Freude schenken“",
+      "titleTarget" : "Nunu Kaller: \"Poklonite dvaput radost\" na Božić",
+      "url" : "https://kurier.at/wirtschaft/nunu-kaller-zu-weihnachten-doppelt-freude-schenken/401105361"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -110,49 +110,37 @@
       "titleTarget" : "Guverner Doskozil CoV pozitivan",
       "url" : "https://burgenland.orf.at/stories/3077079/"
     }, {
-      "id" : "YLu47TaK",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "6611 Neuinfektionen in Österreich - wieder über 100 Todesfälle in 24 Stunden",
-      "titleTarget" : "6611 novih infekcija u Austriji - opet preko 100 smrtnih slučajeva u 24 sata",
-      "url" : "https://kurier.at/chronik/oesterreich/6611-neuinfektionen-in-oesterreich/401105028"
-    }, {
-      "id" : "5qu86my7",
-      "imgUrl" : "https://image.kurier.at/images/original/4772181/46-168266141.jpg",
-      "titleSource" : "Corona in Österreich: Diese Bezirke sind aktuell am stärksten betroffen",
-      "titleTarget" : "Corona u Austriji: Ova su područja trenutno najviše pogođena",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-in-oesterreich-diese-bezirke-sind-aktuell-am-staerksten-betroffen/401105043"
+      "id" : "FA9ooPrr",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/32/63/crops/w=1280/247587_opener_72563_fireworks-879461_1920.jpg?s=0b93a6e3559c2e7747b546d16b8a3778d67a478b",
+      "titleSource" : "Feuerwerksverbot zu Silvester angedacht",
+      "titleTarget" : "Zabrana vatrometa planirana za doček Nove godine",
+      "url" : "https://ooe.orf.at/stories/3077115/"
     }, {
       "id" : "9nFUGmNW",
       "titleSource" : "Deutscher Literaturpreis für Heinz Janisch",
       "titleTarget" : "Nagrada za njemačku književnost za Heinza Janischa",
       "url" : "https://burgenland.orf.at/stories/3076977/"
     }, {
-      "id" : "W0mQVkLC",
-      "imgUrl" : "https://image.kurier.at/images/original/4556189/20200803-ABD0098-1-1.jpg",
-      "titleSource" : "Doskozil positiv getestet; Putin bietet der Welt seinen Impfstoff an",
-      "titleTarget" : "Austrijanci su više u pokretu u drugom zaključavanju; Trump sin zaražen",
-      "url" : "https://kurier.at/chronik/oesterreich/bewegungsdaten-oesterreicher-im-zweiten-lockdown-mehr-unterwegs-trump-sohn-infiziert/401104974"
+      "id" : "liWSzcXH",
+      "imgUrl" : "https://image.kurier.at/images/original/4772796/46-168860514.jpg",
+      "titleSource" : "Tiersuchverein: Hilfe, wer hat mein Haustier gesehen?",
+      "titleTarget" : "Klub za traženje životinja: pomoć, tko je vidio mog ljubimca?",
+      "url" : "https://kurier.at/chronik/oesterreich/tiersuchverein-hilfe-wer-hat-mein-haustier-gesehen/401105415"
+    }, {
+      "id" : "JDIX8scX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/06/crops/w=1280/753114_opener_261506_kh_lokalaugenschein_lesachtal_201114_00_01_13_14.jpg?s=129a6ffa2a0f5a54ba017ed46fd89d564ec41415",
+      "titleSource" : "B111 nach Sturmtief Vaia „winterfit“",
+      "titleTarget" : "B111 nakon oluje Vaia \"zimski fit\"",
+      "url" : "https://kaernten.orf.at/stories/3076030/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "t2pd5lRV",
-      "imgUrl" : "https://image.kurier.at/images/original/4770201/46-167516103.jpg",
-      "titleSource" : "Buchkritik: Roman Ehrlich und der Untergang von „Malé“",
-      "titleTarget" : "Recenzija knjige: Roman Ehrlich i propast \"Maléa\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-roman-ehrlich-und-der-untergang-von-male/401103765"
-    }, {
-      "id" : "o85HlXCW",
-      "imgUrl" : "https://image.kurier.at/images/original/4771923/46-168996180.jpg",
-      "titleSource" : "Elvis Costello fordert Liebe und Vergebung für den fetten Idioten und andere",
-      "titleTarget" : "Elvis Costello zahtijeva ljubav i oprost za debelog idiota i ostale",
-      "url" : "https://kurier.at/kultur/elvis-costello-fordert-liebe-und-vergebung-fuer-den-fetten-idioten-und-andere/401104836"
-    }, {
-      "id" : "a74yOVQU",
-      "imgUrl" : "https://image.kurier.at/images/original/4770207/46-103347064.jpg",
-      "titleSource" : "Ken Follett: Wie aus ein paar Hütten \"Kingsbridge\" wurde",
-      "titleTarget" : "Ken Follett: Kako je nekoliko kabina postalo Kingsbridge",
-      "url" : "https://kurier.at/kultur/buch/ken-follett-wie-aus-ein-paar-huetten-kingsbridge-wurde/401103759"
+      "id" : "rBaCbDRv",
+      "imgUrl" : "https://image.kurier.at/images/original/4771596/46-168977482.jpg",
+      "titleSource" : "Künstler Viktor Rogy: Der Eremit von gegenüber",
+      "titleTarget" : "Umjetnik Viktor Rogy: Pustinjak s druge strane ulice",
+      "url" : "https://kurier.at/kultur/kuenstler-viktor-rogy-der-eremit-von-gegenueber/401104656"
     }, {
       "id" : "eGPYgPYr",
       "imgUrl" : "https://image.kurier.at/images/original/3480022/46-144663421.jpg",
@@ -160,23 +148,17 @@
       "titleTarget" : "Bela B. glumi arogantnu rock zvijezdu u novom \"Polizeirufu\" iz Rostocka",
       "url" : "https://kurier.at/kultur/medien/bela-b-spielt-im-neuen-polizeiruf-aus-rostock-einen-arroganten-rockstar/401105274"
     }, {
-      "id" : "ygrPs48h",
-      "imgUrl" : "https://image.kurier.at/images/original/4772199/orf_noberbuch_20201121101624.jpg",
-      "titleSource" : "\"Dancing Stars\": 913.000 sahen Aus für Ushakova",
-      "titleTarget" : "\"Dancing Stars\": 913 000 pazilo je na Ushakovu",
-      "url" : "https://kurier.at/kultur/medien/dancing-stars-913000-sahen-aus-fuer-ushakova/401105121"
-    }, {
-      "id" : "zZOMQmGD",
-      "imgUrl" : "https://image.kurier.at/images/original/3576856/st3-production-still-8_1.jpg",
-      "titleSource" : "Netflix stellt Neuzugänge bei \"Stranger Things\" vor",
-      "titleTarget" : "Netflix uvodi nove dodatke u \"Stranger Things\"",
-      "url" : "https://kurier.at/kultur/medien/netflix-stellt-neuzugaenge-bei-stranger-things-vor/401105031"
-    }, {
       "id" : "U1zfGt1V",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/a/3/5900707/618781A7-8386-44C6-A984-9B45909513D0_v0_l.jpg",
       "titleSource" : "Was ein Mann in einer Frauenseele anrichtet",
       "titleTarget" : "Što muškarac radi u ženskoj duši",
       "url" : "https://www.diepresse.com/5900707/ORF_Was-ein-Mann-in-einer-Frauenseele-anrichtet?from=rss"
+    }, {
+      "id" : "R2qSrb7j",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/b/5901051/01F2CE1B-DBEA-431F-AEA3-85AC2F1CEA80_v0_l.jpg",
+      "titleSource" : "Hier sind sie schon, die Glocken",
+      "titleTarget" : "Evo ih, zvona",
+      "url" : "https://www.diepresse.com/5901051/Song-der-Woche_Hier-sind-sie-schon-die-Glocken?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,11 +172,6 @@
       "titleTarget" : "ATP finale: Thiem nakon zločina nad Đokovićem u finalu",
       "url" : "https://kurier.at/sport/tennis/tennis-atp-finals-thiem-nach-krimi-gegen-djokovic-im-endspiel/401105193"
     }, {
-      "id" : "ReLX4IgC",
-      "titleSource" : "Thiem zieht nach Krimi ins Finale ein",
-      "titleTarget" : "Thiem kreće u finale nakon krimi trilera",
-      "url" : "https://sport.orf.at/stories/3069597/"
-    }, {
       "id" : "SIkVbTCw",
       "titleSource" : "Auch Melzer steht in London im Endspiel",
       "titleTarget" : "Melzer je također u finalu u Londonu",
@@ -205,22 +182,27 @@
       "titleTarget" : "Domaći poraz Salzburga protiv oluje",
       "url" : "https://sport.orf.at/stories/3069602/"
     }, {
-      "id" : "01gXqQ7M",
-      "titleSource" : "Österreich gewinnt Team-Bewerb in Wisla",
-      "titleTarget" : "Austrija je pobijedila u ekipnom natjecanju u Wisli",
-      "url" : "https://sport.orf.at/stories/3069598/"
+      "id" : "WqWwnP4g",
+      "titleSource" : "ÖTV-Asse hoffen auf historische Coups",
+      "titleTarget" : "ÖTV se nada nada za povijesne pučeve",
+      "url" : "https://sport.orf.at/stories/3069619/"
     }, {
-      "id" : "p0ZAqwgO",
-      "imgUrl" : "https://image.kurier.at/images/original/4772394/46-169018911.jpg",
-      "titleSource" : "Historischer Erfolg: Erster Podestplatz für Bobpilotin Katrin Beierl",
-      "titleTarget" : "Povijesni uspjeh: Prvo postolje za pilota boba Katrin Beierl",
-      "url" : "https://kurier.at/sport/wintersport/historischer-erfolg-erster-podestplatz-fuer-bobpilotin-katrin-beierl/401105091"
+      "id" : "Qhf6NYIO",
+      "imgUrl" : "https://image.kurier.at/images/original/4772613/46-168860689.jpg",
+      "titleSource" : "MotoGP anno 2020: Viele Überraschungen, eine Sensation",
+      "titleTarget" : "MotoGP anno 2020: Mnogo iznenađenja, senzacija",
+      "url" : "https://kurier.at/sport/motorsport/motogp-anno-2020-viele-ueberraschungen-eine-sensation/401105331"
     }, {
-      "id" : "qECCnUj5",
-      "imgUrl" : "https://image.kurier.at/images/original/4770972/46-163865567.jpg",
-      "titleSource" : "Fußball-Wunderkinder: Nur wenige schafften die große Karriere",
-      "titleTarget" : "Nogometna čudesa: samo je nekolicina napravila sjajne karijere",
-      "url" : "https://kurier.at/sport/fussball/fussball-wunderkinder-nur-wenige-schafften-die-grosse-karriere/401104326"
+      "id" : "axD0A7Pu",
+      "titleSource" : "Furioser Haaland erledigt Hertha",
+      "titleTarget" : "Hertha radi bijesnog Halanda",
+      "url" : "https://sport.orf.at/stories/3069618/"
+    }, {
+      "id" : "DJa8O4sp",
+      "imgUrl" : "https://image.kurier.at/images/original/4772520/46-169019001.jpg",
+      "titleSource" : "Damen-Slalom in Levi: Vlhova siegt vor Shiffrin und Liensberger",
+      "titleTarget" : "Slalom za žene u Leviju: Vlhova pobjeđuje ispred Shiffrina i Liensbergera",
+      "url" : "https://kurier.at/sport/wintersport/damen-slalom-in-levi-vlhova-siegt-vor-shiffrin-und-liensberger/401105118"
     } ]
   } ],
   "country" : "austria",
