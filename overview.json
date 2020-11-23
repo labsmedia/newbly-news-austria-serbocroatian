@@ -8,17 +8,17 @@
       "titleTarget" : "Gradonačelnici SPÖ oglašavaju uzbunu: \"Corona tjera zajednice u financijsku katastrofu\"",
       "url" : "https://kurier.at/politik/inland/spoe-buergermeister-schlagen-alarm-corona-treibt-gemeinden-in-finanzdesaster/401105667"
     }, {
-      "id" : "SOESJvwk",
-      "imgUrl" : "https://image.kurier.at/images/original/4773396/46-168811951.jpg",
-      "titleSource" : "Kogler über Ende des Lockdowns: Schrittweise Öffnung ab 7. Dezember dürfte halten",
-      "titleTarget" : "Kogler o kraju zaključavanja: Trebalo bi održati postupno otvaranje od 7. prosinca",
-      "url" : "https://kurier.at/politik/inland/kogler-ueber-ende-des-lockdowns-schrittweise-oeffnung-ab-7-dezember-duerfte-halten/401105694"
-    }, {
       "id" : "K66SDunx",
       "imgUrl" : "https://image.kurier.at/images/original/4773615/46-168999883.jpg",
       "titleSource" : "Anschober nach hohem Sonntagswert: Teil-Lockdown brachte nicht viel",
       "titleTarget" : "Usidrenje nakon visoke nedjeljne vrijednosti: Djelomično zaključavanje nije donijelo puno",
       "url" : "https://kurier.at/politik/inland/anschober-dramtisch-hoher-wert-teil-lockdown-brachte-nicht-viel/401105808"
+    }, {
+      "id" : "SOESJvwk",
+      "imgUrl" : "https://image.kurier.at/images/original/4773396/46-168811951.jpg",
+      "titleSource" : "Kogler über Ende des Lockdowns: Schrittweise Öffnung ab 7. Dezember dürfte halten",
+      "titleTarget" : "Kogler o kraju zaključavanja: Trebalo bi održati postupno otvaranje od 7. prosinca",
+      "url" : "https://kurier.at/politik/inland/kogler-ueber-ende-des-lockdowns-schrittweise-oeffnung-ab-7-dezember-duerfte-halten/401105694"
     }, {
       "id" : "YRlfHWRl",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/5/c/5901404/CORONA-2-LOCKDOWN--WIENER-INNENSTADT_1606059261486671.jpg",
@@ -65,17 +65,17 @@
       "titleTarget" : "Merkel imenuje žene u njemačke tvrtke u izvršnom odboru",
       "url" : "https://kurier.at/wirtschaft/merkel-verordnet-deutschen-unternehmen-frauen-im-vorstand/401105853"
     }, {
-      "id" : "08K4Y6Os",
-      "imgUrl" : "https://image.kurier.at/images/original/4693881/46-164085724.jpg",
-      "titleSource" : "Online einkaufen: 15.000 heimische Web-Shops gegen Amazon",
-      "titleTarget" : "Kupite putem interneta: 15.000 domaćih web trgovina protiv Amazona",
-      "url" : "https://kurier.at/wirtschaft/online-einkaufen-15000-heimische-web-shops-gegen-amazon/401105334"
-    }, {
       "id" : "klBio6MB",
       "imgUrl" : "https://image.kurier.at/images/original/4770846/46-168868115.jpg",
       "titleSource" : "Adventkranz selbst gemacht: So geht's",
       "titleTarget" : "Domaći adventski vijenac: ovako to djeluje",
       "url" : "https://kurier.at/wirtschaft/immobiz/adventkranz-selbst-gemacht/401104269"
+    }, {
+      "id" : "b9DbY7TH",
+      "imgUrl" : "https://image.kurier.at/images/original/4774317/46-105715460.jpg",
+      "titleSource" : "Staatsschulden steigen: Wer soll das bezahlen?",
+      "titleTarget" : "Povećanje nacionalnog duga: tko bi to trebao platiti?",
+      "url" : "https://kurier.at/wirtschaft/staatsschulden-steigen-wer-soll-das-bezahlen/401105913"
     }, {
       "id" : "rx7gaSe1",
       "imgUrl" : "https://image.kurier.at/images/original/4773969/46-110766417.jpg",
@@ -86,23 +86,17 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "FA9ooPrr",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/32/63/crops/w=1280/247587_opener_72563_fireworks-879461_1920.jpg?s=0b93a6e3559c2e7747b546d16b8a3778d67a478b",
-      "titleSource" : "Feuerwerksverbot zu Silvester angedacht",
-      "titleTarget" : "Zabrana vatrometa planirana za doček Nove godine",
-      "url" : "https://ooe.orf.at/stories/3077115/"
-    }, {
       "id" : "liWSzcXH",
       "imgUrl" : "https://image.kurier.at/images/original/4772796/46-168860514.jpg",
       "titleSource" : "Tiersuchverein: Hilfe, wer hat mein Haustier gesehen?",
       "titleTarget" : "Klub za traženje životinja: pomoć, tko je vidio mog ljubimca?",
       "url" : "https://kurier.at/chronik/oesterreich/tiersuchverein-hilfe-wer-hat-mein-haustier-gesehen/401105415"
     }, {
-      "id" : "KhOp79Xs",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/34/crops/w=1280/760023_opener_264034_tour-1.jpg?s=115d37f1b1e2aa9efb1cdcd8e2a1b249b326aa59",
-      "titleSource" : "Tourismus: Viele Stornierungen für Dezember",
-      "titleTarget" : "Turizam: Mnogo otkazivanja za prosinac",
-      "url" : "https://vorarlberg.orf.at/stories/3077086/"
+      "id" : "KJtBTzUy",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/41/06/crops/w=1280/711076_opener_246406_uni.jpg?s=81e22f2411ec0530a41dd56ee20f2eed3b58caa7",
+      "titleSource" : "Vergleich mit NS-Pogrom: Wirbel um Islamforscher der Uni",
+      "titleTarget" : "Usporedba s nacističkim pogromom: Vrtlog oko istraživača islama na sveučilištu",
+      "url" : "https://salzburg.orf.at/stories/3077151/"
     }, {
       "id" : "382qi2yB",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/06/crops/w=1280/759350_opener_263806_image_14.jpg?s=552d1c1f2c95b1c7d1aea58aabd0ae4939f554fd",
@@ -110,23 +104,29 @@
       "titleTarget" : "Katolički podcast s biblijskim tekstovima uspješan",
       "url" : "https://salzburg.orf.at/stories/3077047/"
     }, {
-      "id" : "6UKG9XWX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/75/crops/w=1280/759851_opener_263975_phoca_thumb_l_bird20juvenile20m20unsld202.jpg?s=5cf7425512247c61e1132ebe01dd5e4666e544f4",
-      "titleSource" : "Waldrappe vermutlich illegal abgeschossen",
-      "titleTarget" : "Ćelave ibise vjerojatno su ilegalno oborene",
-      "url" : "https://vorarlberg.orf.at/stories/3077097/"
-    }, {
-      "id" : "lnxGzoEO",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/68/crops/w=1280/760150_opener_264068_nikolo.jpg?s=b040e20535248674d2507c47053f1e13f83dc9b0",
-      "titleSource" : "NEOS und FPÖ: Nikolaus-Brauch ermöglichen",
-      "titleTarget" : "NEOS i FPÖ: omogućiti Nikolausov običaj",
-      "url" : "https://tirol.orf.at/stories/3077143/"
+      "id" : "dP016qaE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/52/crops/w=1280/759479_opener_263852_yun00044.jpg?s=f2740170b5c21f16fb117d1310daf0719cf5abdf",
+      "titleSource" : "Aufregung um Brunner Naherholungsgebiet",
+      "titleTarget" : "Uzbuđenje u rekreacijskom području Brunner",
+      "url" : "https://noe.orf.at/stories/3076980/"
     }, {
       "id" : "aKVIeun7",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "5.226 Neuinfektionen laut Anschober \"dramatischer\" Sonntagswert",
       "titleTarget" : "Prema Anschoberu, 5.226 novih infekcija bila je \"dramatična\" nedjeljna brojka",
       "url" : "https://kurier.at/chronik/oesterreich/5226-neuinfektionen-in-oesterreich/401105637"
+    }, {
+      "id" : "azKKIvkl",
+      "imgUrl" : "https://image.kurier.at/images/original/4773627/46-168914278.jpg",
+      "titleSource" : "Anschober: Teil-Lockdown hat wenig gebracht; Südtiroler Tests zogen Massen an",
+      "titleTarget" : "Anschober: Djelomično zaključavanje nije učinilo puno; Južnotirolski testovi privukli su mnoštvo",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-bekommt-zwei-prozent-der-europaeischen-impfdosen-doskozil-positiv-getestet/401104974"
+    }, {
+      "id" : "xUCNJlr3",
+      "imgUrl" : "https://image.kurier.at/images/original/4774545/46-169034123.jpg",
+      "titleSource" : "WHO-Experte warnt vor dritter Welle - Rotkreuz-Manager nennt Zeitraum",
+      "titleTarget" : "Stručnjak WHO upozorava na treći val - razdoblje imenovanja upravitelja Crvenog križa",
+      "url" : "https://kurier.at/chronik/oesterreich/who-experte-nabarro-warnt-vor-dritter-welle-rotes-kreuz-manager-foitik-pflichtet-bei/401105958"
     } ]
   }, {
     "category" : "CULTURE",
@@ -161,21 +161,28 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "WqWwnP4g",
-      "titleSource" : "ÖTV-Asse hoffen auf historische Coups",
-      "titleTarget" : "ÖTV se nada nada za povijesne pučeve",
-      "url" : "https://sport.orf.at/stories/3069619/"
+      "id" : "o15QC97B",
+      "imgUrl" : "https://image.kurier.at/images/original/4774575/46-169044162.jpg",
+      "titleSource" : "Wie im Vorjahr: Thiem verliert ATP-Finals-Endspiel",
+      "titleTarget" : "Kao i prethodne godine: Thiem gubi finale ATP finala",
+      "url" : "https://kurier.at/sport/tennis/tennis-nach-10-satzfuehrung-thiem-verliert-atp-finals-endspiel/401105649"
+    }, {
+      "id" : "FMPLyIHk",
+      "imgUrl" : "https://image.kurier.at/images/original/4774560/46-169043956.jpg",
+      "titleSource" : "ATP Finale live: Auch Thiem - Medwedew wird zum Thriller",
+      "titleTarget" : "ATP finale uživo: Thiem - Medvedev je također triler",
+      "url" : "https://kurier.at/sport/tennis/tennis-atp-finale-live-so-steht-es-bei-thiem-medwedew/401105649"
     }, {
       "id" : "zjOK41Gt",
       "titleSource" : "Vlhova in Levi nicht zu schlagen",
       "titleTarget" : "Vlhova u Leviju se ne može pobijediti",
       "url" : "https://sport.orf.at/stories/3069645/"
     }, {
-      "id" : "1Xn8VJbs",
-      "imgUrl" : "https://image.kurier.at/images/original/4773312/46-169027657.jpg",
-      "titleSource" : "Vor dem großen Finale in London: Thiem führt gegen Medwedew 3:1",
-      "titleTarget" : "Prije velikog finala u Londonu: Thiem vodi 3-1 protiv Medvedeva",
-      "url" : "https://kurier.at/sport/tennis/vor-dem-grossen-finale-in-london-thiem-fuehrt-gegen-medwedew-31/401105649"
+      "id" : "ECLHAhuC",
+      "imgUrl" : "https://image.kurier.at/images/original/4774461/46-169041159.jpg",
+      "titleSource" : "Tor-Spektakel: Ried bestraft Rapid-Hollywood",
+      "titleTarget" : "Cilj spektakl: Ried kažnjava Rapid Hollywood",
+      "url" : "https://kurier.at/sport/fussball/fussball-bundesliga-ried-gewinnt-das-tor-spektakel-gegen-rapid/401105964"
     }, {
       "id" : "Qhf6NYIO",
       "imgUrl" : "https://image.kurier.at/images/original/4772613/46-168860689.jpg",
@@ -183,22 +190,16 @@
       "titleTarget" : "MotoGP anno 2020: Mnogo iznenađenja, senzacija",
       "url" : "https://kurier.at/sport/motorsport/motogp-anno-2020-viele-ueberraschungen-eine-sensation/401105331"
     }, {
-      "id" : "axD0A7Pu",
-      "titleSource" : "Furioser Haaland erledigt Hertha",
-      "titleTarget" : "Hertha radi bijesnog Halanda",
-      "url" : "https://sport.orf.at/stories/3069618/"
+      "id" : "HkzUUqTf",
+      "titleSource" : "Thiem verpasst Triumph in London",
+      "titleTarget" : "Thiem je propustio trijumf u Londonu",
+      "url" : "https://sport.orf.at/stories/3069644/"
     }, {
       "id" : "JwIq7YQ4",
       "imgUrl" : "https://image.kurier.at/images/original/4772577/46-94690586.jpg",
       "titleSource" : "In Ried rumort es bei der Rapid-Rückkehr",
       "titleTarget" : "U Riedu tutnji kad se Rapid vrati",
       "url" : "https://kurier.at/sport/fussball/fussball-bundesliga-sonntagsspiel-in-ried-rumorts-bei-der-rueckkehr-von-rapid/401105316"
-    }, {
-      "id" : "kBWApf4o",
-      "imgUrl" : "https://image.kurier.at/images/original/4774377/46-169041227.jpg",
-      "titleSource" : "Huber sprang in Wisla aufs Stockerl, Kraft verpasste das Finale",
-      "titleTarget" : "Huber je skočio na postolje u Wisli, Kraft je propustio finale",
-      "url" : "https://kurier.at/sport/wintersport/skispringen-huber-sprang-in-wisla-aufs-stockerl-kraft-verpasste-das-finale/401105901"
     } ]
   } ],
   "country" : "austria",
