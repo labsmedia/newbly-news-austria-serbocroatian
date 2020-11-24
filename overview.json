@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "oTVzLrpV",
-      "imgUrl" : "https://image.kurier.at/images/original/4775412/46-166737530.jpg",
-      "titleSource" : "\"Fakten helfen\": Zwei VP-Ministerinnen für Abtreibungsstatistik",
-      "titleTarget" : "\"Činjenice pomažu\": Dva ministra potpredsjednika za statistiku pobačaja",
-      "url" : "https://kurier.at/politik/inland/fakten-helfen-zwei-vp-ministerinnen-fuer-abtreibungsstatistik/401106603"
+      "id" : "Ht2cuiHz",
+      "imgUrl" : "https://image.kurier.at/images/original/4775310/20201123-ABD0041-1-1.jpg",
+      "titleSource" : "Covid-19: Mehr als die Hälfte der Österreicher soll im Sommer 2021 geimpft sein",
+      "titleTarget" : "Covid-19: Više od polovice Austrijanaca trebalo bi biti cijepljeno u ljeto 2021. godine",
+      "url" : "https://kurier.at/politik/inland/so-sieht-die-oesterreichische-covid-19-impfstrategie-aus/401107533"
+    }, {
+      "id" : "ePZuyyay",
+      "imgUrl" : "https://image.kurier.at/images/original/4777698/46-168883907.jpg",
+      "titleSource" : "Regierung verdoppelt Inseratenbudget und plant Kampagne für Eigen-PR",
+      "titleTarget" : "Vlada udvostručuje proračun za oglašavanje i planira kampanju za samopromociju",
+      "url" : "https://kurier.at/politik/inland/regierung-will-sich-um-30-mio-euro-selbst-bewerben/401108022"
     }, {
       "id" : "z0XuSpxw",
       "imgUrl" : "https://image.kurier.at/images/original/4776615/46-168572444.jpg",
@@ -14,125 +20,117 @@
       "titleTarget" : "Ubrzo nakon razgovora sa zemljama: \"Dva odlučujuća čimbenika\"",
       "url" : "https://kurier.at/politik/inland/kurz-nach-gespraech-mit-laendern-zwei-entscheidende-faktoren/401107368"
     }, {
+      "id" : "x4fLotUY",
+      "imgUrl" : "https://image.kurier.at/images/original/4777578/46-165722114.jpg",
+      "titleSource" : "Statt Weihnachtsfeiern: 365-Euro-Gutscheine für Mitarbeiter",
+      "titleTarget" : "Umjesto božićnih domjenaka: bon od 365 eura za zaposlenike",
+      "url" : "https://kurier.at/politik/inland/statt-weihnachtsfeiern-365-euro-gutscheine-fuer-mitarbeiter/401107890"
+    }, {
       "id" : "xiuGJ2d8",
       "imgUrl" : "https://image.kurier.at/images/original/4745004/46-166492704.jpg",
       "titleSource" : "Mahrer: \"Wenn bis Weihnachten zu ist, spazieren wir zum wirschaftspolitischen Zentralfriedhof\"",
       "titleTarget" : "Mahrer: \"Kad je blizu Božić, odšetamo do središnjeg gospodarskog groblja\"",
       "url" : "https://kurier.at/politik/inland/mahrer-wenn-bis-weihnachten-zu-ist-spazieren-wir-zum-wirschaftspolitischen-zentralfriedhof/401107359"
     }, {
-      "id" : "Ht2cuiHz",
-      "imgUrl" : "https://image.kurier.at/images/original/4775310/20201123-ABD0041-1-1.jpg",
-      "titleSource" : "Covid-19: Mehr als die Hälfte der Österreicher soll im Sommer 2021 geimpft sein",
-      "titleTarget" : "Covid-19: Više od polovice Austrijanaca trebalo bi biti cijepljeno u ljeto 2021. godine",
-      "url" : "https://kurier.at/politik/inland/so-sieht-die-oesterreichische-covid-19-impfstrategie-aus/401107533"
+      "id" : "AuKrmaNl",
+      "imgUrl" : "https://image.kurier.at/images/original/4777953/46-167149950.jpg",
+      "titleSource" : "Testunwillige Lehrer könnten zu FFP2-Masken im Unterricht verpflichtet werden",
+      "titleTarget" : "Nastavnici koji nisu voljni testirati mogli bi biti obvezni koristiti FFP2 maske u učionici",
+      "url" : "https://kurier.at/politik/inland/verfassungsjurist-lehrer-oder-beamte-koennen-nicht-zu-massentest-gezwungen-werden/401108001"
     }, {
-      "id" : "3xWucghI",
-      "imgUrl" : "https://image.kurier.at/images/original/4771638/46-168825633.jpg",
-      "titleSource" : "Entschädigung für Terror-Opfer: Derzeit 40 bis 50 Betroffene",
-      "titleTarget" : "Naknada za žrtve terorizma: trenutno 40 do 50 žrtava",
-      "url" : "https://kurier.at/politik/inland/anschlag-in-wien-opferrechte-derzeit-40-bis-50-betroffene/401107269"
-    }, {
-      "id" : "Q1R4XGor",
-      "imgUrl" : "https://image.kurier.at/images/original/4776714/46-39800108.jpg",
-      "titleSource" : "Ehemaliger Staatssekretär Albin Schober verstorben",
-      "titleTarget" : "Preminuo je bivši državni tajnik Albin Schober",
-      "url" : "https://kurier.at/politik/inland/ehemaliger-staatssekretaer-albin-schober-verstorben/401107479"
-    }, {
-      "id" : "m2FPV35u",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/2/4/5902116/2624A844-CEC3-4C46-8D13-D0B9F4240297_v0_h.jpg",
-      "titleSource" : "Impfkampagne startet im Jänner mit über 65-Jährigen",
-      "titleTarget" : "Kampanja cijepljenja započinje u siječnju s osobama starijim od 65 godina",
-      "url" : "https://www.diepresse.com/5902116/Coronavirus_Impfkampagne-startet-im-Jaenner-mit-Menschen-ueber-65?from=rss"
+      "id" : "h1TFcy2F",
+      "imgUrl" : "https://image.kurier.at/images/original/4778163/46-166737548.jpg",
+      "titleSource" : "Grüne sind gegen Statistik zu Abtreibungen, ÖVP-Ministerinnen dafür",
+      "titleTarget" : "Zeleni su protiv statistike o pobačajima, ministri ÖVP-a su za",
+      "url" : "https://kurier.at/politik/inland/gruene-sind-gegen-statistik-zu-abtreibungen-oevp-ministerinnen-dafuer/401108301"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "4KkCBhav",
-      "imgUrl" : "https://image.kurier.at/images/original/4407089/7841473.jpg",
-      "titleSource" : "Neos-Idee: Weihnachtsgutscheine bis zu 500 Euro lohnsteuerfrei",
-      "titleTarget" : "Neos ideja: božićni bonovi do 500 eura bez poreza na dohodak",
-      "url" : "https://kurier.at/wirtschaft/neos-idee-weihnachtsgutscheine-bis-zu-500-euro-lohnsteuerfrei/401107026"
+      "id" : "ESf6EU70",
+      "imgUrl" : "https://image.kurier.at/images/original/4668451/46-167789247.jpg",
+      "titleSource" : "Coronakrise: Kärntner Skigebiete wollen im Dezember aufsperren",
+      "titleTarget" : "Koronska kriza: Koruška skijaška područja žele se otvoriti u prosincu",
+      "url" : "https://kurier.at/wirtschaft/coronakrise-kaerntner-skigebiete-wollen-im-dezember-aufsperren/401107749"
     }, {
-      "id" : "RnIvhH9O",
-      "imgUrl" : "https://image.kurier.at/images/original/4189265/81670356453660732_BLD_Online.jpg",
-      "titleSource" : "Weltgrößter Hersteller von OP-Handschuhen muss viele Werke schließen",
-      "titleTarget" : "Najveći svjetski proizvođač kirurških rukavica mora zatvoriti mnoge pogone",
-      "url" : "https://kurier.at/wirtschaft/weltgroesster-hersteller-von-op-handschuhen-muss-viele-werke-schliessen/401107140"
+      "id" : "JLxn02UF",
+      "imgUrl" : "https://image.kurier.at/images/original/4110102/46-155893517.jpg",
+      "titleSource" : "Tesla‐Chef Musk überholt Bill Gates in Milliardärs‐Rangliste",
+      "titleTarget" : "Teslin šef Musk prestigao je Billa Gatesa na ljestvici milijardera",
+      "url" : "https://kurier.at/wirtschaft/tesla-chef-musk-ueberholt-bill-gates-in-milliardaers-rangliste/401108118"
     }, {
-      "id" : "wuHxSNQP",
-      "imgUrl" : "https://image.kurier.at/images/original/2075146/bier-000_dpa_Stephan%252BJansen.jpg",
-      "titleSource" : "Gastronomie-Lockdown bringt Lebensmittelbranche in Bedrängnis",
-      "titleTarget" : "Zaključavanje gastronomije dovodi prehrambenu industriju u teški položaj",
-      "url" : "https://kurier.at/wirtschaft/gastronomie-lockdown-bringt-lebensmittelbranche-in-bedraengnis/401106849"
+      "id" : "3kiq7hvc",
+      "imgUrl" : "https://image.kurier.at/images/original/4765776/homeoffice-magenta.jpg",
+      "titleSource" : "Schreibtisch, Sessel, Arbeitszeit: Woran es im Homeoffice hapert",
+      "titleTarget" : "Stol, fotelja, radno vrijeme: Ono što nedostaje kućnom uredu",
+      "url" : "https://kurier.at/wirtschaft/schreibtisch-sessel-arbeitszeit-woran-es-im-homeoffice-hapert/401107938"
     }, {
-      "id" : "7dVP4bZp",
-      "imgUrl" : "https://image.kurier.at/images/original/4425035/8172861.jpg",
-      "titleSource" : "Einkommensungleichheit in Österreich größer als gedacht",
-      "titleTarget" : "Nejednakost dohotka u Austriji veća od očekivane",
-      "url" : "https://kurier.at/wirtschaft/einkommensungleichheit-in-oesterreich-groesser-als-gedacht/401106714"
+      "id" : "WdvmlXmV",
+      "imgUrl" : "https://image.kurier.at/images/original/4484807/78370011355238142_BLD_Online.jpg",
+      "titleSource" : "Lufthansa will keinen Impfnachweis von Passagieren - Qantas schon",
+      "titleTarget" : "Lufthansa ne želi da se putnici cijepe - Qantas to želi",
+      "url" : "https://kurier.at/wirtschaft/aua-mutter-lufthansa-will-keinen-impfnachweis-von-passagieren/401107860"
     }, {
-      "id" : "LMiEycfa",
-      "imgUrl" : "https://image.kurier.at/images/original/4776264/46-168938007.jpg",
-      "titleSource" : "Weihnachten: Droht heuer Skiurlaubsverbot statt Ski-Opening?",
-      "titleTarget" : "Božić: Postoji li prijetnja zabranom skijaškog odmora umjesto otvaranja skija ove godine?",
-      "url" : "https://kurier.at/wirtschaft/weihnachten-droht-heuer-skiurlaubsverbot-statt-ski-opening/401107155"
+      "id" : "oxoAe3O8",
+      "imgUrl" : "https://image.kurier.at/images/original/4236098/78370011354019920_BLD_Online.jpg",
+      "titleSource" : "Bei SPAR kommt kein Palmöl auf den Keksteller",
+      "titleTarget" : "U SPAR-u na pločici s kolačićima nema palminog ulja",
+      "url" : "https://kurier.at/wirtschaft/bei-spar-kommt-kein-palmoel-auf-den-keksteller/401107722"
     }, {
-      "id" : "KIp06fbt",
-      "imgUrl" : "https://image.kurier.at/images/original/4776276/46-166041190.jpg",
-      "titleSource" : "Windkraftbranche fordert mehr Geld für schlechtere Standorte",
-      "titleTarget" : "Industrija vjetroelektrana zahtijeva više novca za lošije lokacije",
-      "url" : "https://kurier.at/wirtschaft/windkraftbranche-fordert-mehr-geld-fuer-schlechtere-standorte/401107176"
+      "id" : "4bsHcl7P",
+      "imgUrl" : "https://image.kurier.at/images/original/4776819/46-169262166.jpg",
+      "titleSource" : "Modelleisenbahnhersteller Märklin mit hoher Nachfrage in Coronakrise",
+      "titleTarget" : "Model proizvođač željeznica Märklin s velikom potražnjom u krizi s krunom",
+      "url" : "https://kurier.at/wirtschaft/modelleisenbahnhersteller-maerklin-mit-hoher-nachfrage-in-coronakrise/401107512"
     }, {
-      "id" : "UsD6qdHq",
-      "imgUrl" : "https://image.kurier.at/images/original/4776993/46-103833409.jpg",
-      "titleSource" : "AIT-Studie: Ältere Personen sind offen für automatisierte Mobilität",
-      "titleTarget" : "AIT studija: Stariji ljudi otvoreni su za automatiziranu mobilnost",
-      "url" : "https://kurier.at/wirtschaft/ait-studie-aeltere-personen-sind-offen-fuer-automatisierte-mobilitaet/401107626"
+      "id" : "Z7GQyO85",
+      "imgUrl" : "https://image.kurier.at/images/original/4623539/78350011456348586_BLD_Online.jpg",
+      "titleSource" : "Europaparlament macht Weg frei für Sammelklagen in allen EU‐Ländern",
+      "titleTarget" : "Europski parlament oslobađa put zajedničkim tužbama u svim zemljama EU-a",
+      "url" : "https://kurier.at/wirtschaft/europaparlament-macht-weg-frei-fuer-sammelklagen-in-allen-eu-laendern/401107848"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "eH7w8TKJ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/93/crops/w=1280/759905_opener_263993_img_5591.jpg?s=19c5de0883bb996c651a1b6eec03d0e18d6934bd",
-      "titleSource" : "Balken zu: Händler kämpfen gegen Amazon",
-      "titleTarget" : "Zatvoreni lokali: Trgovci se bore protiv Amazona",
-      "url" : "https://noe.orf.at/stories/3076720/"
+      "id" : "asSac5EQ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/96/crops/w=1280/761803_opener_264696_image_1.jpg?s=2e87c610c75935969b10032f7f411296e569bb42",
+      "titleSource" : "Letzter Vorhang für Clown Galetti (†)",
+      "titleTarget" : "Posljednja zavjesa za klauna Galettija (†)",
+      "url" : "https://vorarlberg.orf.at/stories/3077392/"
     }, {
-      "id" : "mU7rg0kA",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/74/crops/w=1280/760974_opener_264374_guelle_2.jpg?s=0f73e560f0eec8f3ecb9ebbbd6f8a61fae99dbb1",
-      "titleSource" : "Gülle-Ausbringung auf einer Alpe sorgt für Diskussion",
-      "titleTarget" : "Tekući gnoj koji se širi alpom izaziva raspravu",
-      "url" : "https://vorarlberg.orf.at/stories/3077261/"
+      "id" : "LKLJ7lkZ",
+      "titleSource" : "Einbrecher auch nach Covid-Gesetz angezeigt",
+      "titleTarget" : "Provalnici su se također javili prema zakonu Covid",
+      "url" : "https://wien.orf.at/stories/3077464/"
     }, {
-      "id" : "0YD1zevZ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/82/crops/w=1280/761486_opener_264582_image_1.jpg?s=840a97c707bb5c45e54c191836ac78fcf0d670dd",
-      "titleSource" : "Alter Grundverkauf geprüft: Unerlaubte Spekulation?",
-      "titleTarget" : "Provjerene stare nekretnine: Neovlaštene špekulacije?",
-      "url" : "https://salzburg.orf.at/stories/3077355/"
+      "id" : "5krs4ujh",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/09/crops/w=1280/761850_opener_264709_02.jpg?s=001268c78f01f9cb4438ce5e8c69dcd975aab9fb",
+      "titleSource" : "Anschlag auf Moschee: Heeresoffiziere vor Gericht",
+      "titleTarget" : "Napad na džamiju: Vojni časnici na sudu",
+      "url" : "https://steiermark.orf.at/stories/3077314/"
     }, {
-      "id" : "tUteev1A",
-      "imgUrl" : "https://image.kurier.at/images/original/3875387/46-150200909.jpg",
-      "titleSource" : "Polizei: Ausufernder Einsatz für die Gesichtserkennung",
-      "titleTarget" : "Policija: Opsežna uporaba za prepoznavanje lica",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-ausufernder-einsatz-fuer-die-gesichtserkennung/401106882"
+      "id" : "qTYCSwiS",
+      "titleSource" : "Tote 13-Jährige: Eltern müssen fünf Jahre in Haft",
+      "titleTarget" : "Mrtvi 13-godišnjaci: Roditelji su u zatvoru pet godina",
+      "url" : "https://noe.orf.at/stories/3077398/"
     }, {
-      "id" : "ZvYnPz5L",
-      "imgUrl" : "https://image.kurier.at/images/original/4776144/46-167742608.jpg",
-      "titleSource" : "Haslauer glaubt an offene Hotels zu Weihnachten",
-      "titleTarget" : "Haslauer vjeruje u otvorene hotele za Božić",
-      "url" : "https://kurier.at/chronik/oesterreich/salzburgs-landeshauptmann-haslauer-glaubt-an-offene-hotels-zu-weihnachten/401107089"
+      "id" : "PMBTDLY2",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/63/crops/w=1280/761702_opener_264663_orf_ritomas_20201124094126.jpg?s=5356a6f35bd4ea3f694c85b0da4978500ff3d84b",
+      "titleSource" : "Oberösterreicher knackt Million",
+      "titleTarget" : "Gornji Austrijanci ispucaju milijun",
+      "url" : "https://ooe.orf.at/stories/3077387/"
     }, {
-      "id" : "Jd8vNbSk",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/94/crops/w=1280/752348_opener_261194_dominik_oberhofer_2018_14.jpg?s=8770fd482cb92ea49fa901926fdfa4fc09f82509",
-      "titleSource" : "NEOS wirft Platter Realitätsverweigerung vor",
-      "titleTarget" : "NEOS optužuje Plattera da negira stvarnost",
-      "url" : "https://tirol.orf.at/stories/3077335/"
+      "id" : "yQq9sdPV",
+      "imgUrl" : "https://image.kurier.at/images/original/4778064/teaserbildwellen.jpg",
+      "titleSource" : "Trendwende im Kampf gegen Corona: Was uns die Infektionszahlen sagen",
+      "titleTarget" : "Preokret trenda u borbi protiv Corone: Što nam govore brojke zaraze",
+      "url" : "https://kurier.at/chronik/oesterreich/trendwende-im-kampf-gegen-corona-was-uns-die-infektionszahlen-sagen/401108088"
     }, {
-      "id" : "hxTQVGYQ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/68/crops/w=1280/754492_opener_261968_dsc08757.jpg?s=0cf1a6140437798d45635bb6cecae9b5baf1ef08",
-      "titleSource" : "Universität distanziert sich von Islamforscher",
-      "titleTarget" : "Sveučilište se ograđuje od istraživača islama",
-      "url" : "https://salzburg.orf.at/stories/3077265/"
+      "id" : "rYQNqxSS",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "4.377 Neuinfektionen in Österreich",
+      "titleTarget" : "4.377 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/4377-neuinfektionen-in-oesterreich/401107686"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,23 +147,11 @@
       "titleTarget" : "Gornji Austrijanci pucaju na milijune: jeste li znali?",
       "url" : "https://kurier.at/kultur/medien/oberoesterreicher-knackt-die-million-bei-millionenshow-haetten-sies-gewusst/401107257"
     }, {
-      "id" : "jB8kS58z",
-      "imgUrl" : "https://image.kurier.at/images/original/3824324/46-104229043.jpg",
-      "titleSource" : "\"Idiot Prayer\": Nick Cave, live im leeren Konzertsaal, ist eine Musik des Jahres",
-      "titleTarget" : "\"Idiotska molitva\": Nick Cave, uživo u praznoj koncertnoj dvorani, glazba je godine",
-      "url" : "https://kurier.at/kultur/idiot-prayer-nick-cave-live-im-leeren-konzertsaal-ist-eine-musik-des-jahres/401107011"
-    }, {
-      "id" : "i5xv0XEy",
-      "imgUrl" : "https://image.kurier.at/images/original/4775697/bildschirmfoto_2020-11-23_um_15.01.35.png",
-      "titleSource" : "Corona-Diskussion im ORF: \"Ich war ein wilder Hund mit einem Schlurf\"",
-      "titleTarget" : "Corona rasprava o ORF-u: \"Bio sam divlji pas sa preokretom\"",
-      "url" : "https://kurier.at/kultur/medien/corona-diskussion-bei-im-zentrum-im-orf-ich-war-ein-wilder-hund-mit-einem-schlurf/401106906"
-    }, {
-      "id" : "JUKM1iHj",
-      "imgUrl" : "https://image.kurier.at/images/original/4775511/46-168955761.jpg",
-      "titleSource" : "Körperkontakt im Datenraum: Barbara Kapusta erhält Otto Mauer-Preis",
-      "titleTarget" : "Tjelesni kontakt u podatkovnoj sobi: Barbara Kapusta dobiva nagradu Otto Mauer",
-      "url" : "https://kurier.at/kultur/koerperkontakt-im-datenraum-barbara-kapusta-erhaelt-otto-mauer-preis/401106720"
+      "id" : "Jlp2EweW",
+      "imgUrl" : "https://image.kurier.at/images/original/4777986/barbaren.jpg",
+      "titleSource" : "\"Die Barbaren\" stellen neuen Startrekord bei Netflix auf",
+      "titleTarget" : "\"Barbari\" postavili su novi rekord na Netflixu",
+      "url" : "https://kurier.at/kultur/medien/die-barbaren-stellen-neuen-startrekord-bei-netflix-auf/401108196"
     }, {
       "id" : "r6bu8WWw",
       "imgUrl" : "https://image.kurier.at/images/original/4776219/pw_-_49_-_meiberger_-_auf_der_anderen_seite_-_08.jpg",
@@ -173,10 +159,22 @@
       "titleTarget" : "Glumica Tanja Raunig: U glavi sudskog liječnika",
       "url" : "https://kurier.at/kultur/medien/schauspielerin-tanja-raunig-im-kopf-der-rechtsmedizinerin/401107125"
     }, {
-      "id" : "PszykulE",
-      "titleSource" : "Maler Robert Hammerstiel ist gestorben",
-      "titleTarget" : "Umro je slikar Robert Hammerstiel",
-      "url" : "https://kurier.at/kultur/maler-robert-hammerstiel-ist-gestorben/401107593"
+      "id" : "JUKM1iHj",
+      "imgUrl" : "https://image.kurier.at/images/original/4775511/46-168955761.jpg",
+      "titleSource" : "Körperkontakt im Datenraum: Barbara Kapusta erhält Otto Mauer-Preis",
+      "titleTarget" : "Tjelesni kontakt u podatkovnoj sobi: Barbara Kapusta dobiva nagradu Otto Mauer",
+      "url" : "https://kurier.at/kultur/koerperkontakt-im-datenraum-barbara-kapusta-erhaelt-otto-mauer-preis/401106720"
+    }, {
+      "id" : "95U7Ifzy",
+      "imgUrl" : "https://image.kurier.at/images/original/4776294/46-151077309.jpg",
+      "titleSource" : "Rea Garvey fragt: \"Was für eine freie Welt ist das denn?\"",
+      "titleTarget" : "Rea Garvey pita: \"Kakav je to slobodan svijet?\"",
+      "url" : "https://kurier.at/kultur/rea-garvey-fragt-was-fuer-eine-freie-welt-ist-das-denn/401107185"
+    }, {
+      "id" : "wOLE8aUS",
+      "titleSource" : "Opernsänger Hugh Beresford in Wien verstorben",
+      "titleTarget" : "U Beču je umro operni pjevač Hugh Beresford",
+      "url" : "https://kurier.at/kultur/opernsaenger-hugh-beresford-in-wien-verstorben/401107692"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,42 +182,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tknksDCc",
-      "titleSource" : "Rapid-Ärger über eigene „Dummheit“",
-      "titleTarget" : "Brza ljutnja zbog vlastite \"gluposti\"",
-      "url" : "https://sport.orf.at/stories/3069678/"
+      "id" : "uSJsKxej",
+      "titleSource" : "Terminstress für Spieler als Trugschluss",
+      "titleTarget" : "Stres zbog krajnjeg roka za igrače kao zabludu",
+      "url" : "https://sport.orf.at/stories/3069693/"
+    }, {
+      "id" : "oDf00s4l",
+      "titleSource" : "Olympiasiegerin wird neue Cheftrainerin",
+      "titleTarget" : "Olimpijski prvak postaje novi glavni trener",
+      "url" : "https://sport.orf.at/stories/3069712/"
     }, {
       "id" : "hnAJP1EI",
       "titleSource" : "Platz eins für Thiem in Reichweite",
       "titleTarget" : "Prvo mjesto za Thiem nadohvat ruke",
       "url" : "https://sport.orf.at/stories/3069679/"
     }, {
-      "id" : "YFDOW4nQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4775262/46-169046057.jpg",
-      "titleSource" : "Thiem plant nach Märchenjahr Angriff \"weiter nach oben\"",
-      "titleTarget" : "Thiem planira \"dalje\" nakon napada iz bajke",
-      "url" : "https://kurier.at/sport/tennis/tennis-star-thiem-ueber-corona-jahr-2020-habe-ein-lebensziel-erreicht/401106516"
-    }, {
-      "id" : "uSJsKxej",
-      "titleSource" : "Terminstress für Spieler als Trugschluss",
-      "titleTarget" : "Stres zbog krajnjeg roka za igrače kao zabludu",
-      "url" : "https://sport.orf.at/stories/3069693/"
+      "id" : "8ZNhdhmx",
+      "titleSource" : "„Gravierender“ Anstieg bei arbeitslosen Profis",
+      "titleTarget" : "\"Ozbiljan\" porast nezaposlenih stručnjaka",
+      "url" : "https://sport.orf.at/stories/3069720/"
     }, {
       "id" : "DYuR4zSm",
       "titleSource" : "Sturm trifft mit Rückenwind auf Wacker",
       "titleTarget" : "Storm pogodi Wackera stražnjim vjetrom",
       "url" : "https://sport.orf.at/stories/3069681/"
     }, {
-      "id" : "eE7PNmzG",
-      "imgUrl" : "https://image.kurier.at/images/original/4776966/46-169181198.jpg",
-      "titleSource" : "NFL: Buccaneers-Niederlage nach Brady-Fehlern gegen Rams",
-      "titleTarget" : "NFL: Buccaneersi poraženi nakon Bradyjevih pogrešaka protiv Ramsa",
-      "url" : "https://kurier.at/sport/nfl-buccaneers-niederlage-nach-brady-fehlern-gegen-rams/401107632"
+      "id" : "wpSj9XOt",
+      "titleSource" : "Coronavirus stoppt Schwarz vor Lech/Zürs",
+      "titleTarget" : "Koronavirus zaustavlja Schwarza ispred Lecha / Zürsa",
+      "url" : "https://sport.orf.at/stories/3069717/"
     }, {
-      "id" : "VlAHgxkZ",
-      "titleSource" : "Spielstände der Gruppenphase ab 18.55 Uhr",
-      "titleTarget" : "Rezultati grupne faze od 18,55 sati.",
-      "url" : "https://sport.orf.at/stories/3069708/"
+      "id" : "ofgt8swd",
+      "imgUrl" : "https://image.kurier.at/images/original/4775694/46-168693742.jpg",
+      "titleSource" : "Rapids englische Woche: Erst nach Irland, dann gegen Austria",
+      "titleTarget" : "Engleski brzi tjedan: prvo u Irsku, a zatim protiv Austrije",
+      "url" : "https://kurier.at/sport/fussball/rapid-eine-englische-woche-mit-einer-reise-nach-irland/401106894"
     } ]
   } ],
   "country" : "austria",
