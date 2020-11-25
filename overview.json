@@ -8,12 +8,6 @@
       "titleTarget" : "Vlada udvostručuje proračun za oglašavanje i planira kampanju za samopromociju",
       "url" : "https://kurier.at/politik/inland/regierung-will-sich-um-30-mio-euro-selbst-bewerben/401108022"
     }, {
-      "id" : "Ht2cuiHz",
-      "imgUrl" : "https://image.kurier.at/images/original/4775310/20201123-ABD0041-1-1.jpg",
-      "titleSource" : "Covid-19: Mehr als die Hälfte der Österreicher soll im Sommer 2021 geimpft sein",
-      "titleTarget" : "Covid-19: Više od polovice Austrijanaca trebalo bi biti cijepljeno u ljeto 2021. godine",
-      "url" : "https://kurier.at/politik/inland/so-sieht-die-oesterreichische-covid-19-impfstrategie-aus/401107533"
-    }, {
       "id" : "x4fLotUY",
       "imgUrl" : "https://image.kurier.at/images/original/4777578/46-165722114.jpg",
       "titleSource" : "Statt Weihnachtsfeiern: 365-Euro-Gutscheine für Mitarbeiter",
@@ -32,17 +26,23 @@
       "titleTarget" : "Zeleni su protiv statistike o pobačajima, ministri ÖVP-a su za",
       "url" : "https://kurier.at/politik/inland/gruene-sind-gegen-statistik-zu-abtreibungen-oevp-ministerinnen-dafuer/401108301"
     }, {
+      "id" : "1Oz0O9vA",
+      "imgUrl" : "https://image.kurier.at/images/original/4779054/46-168915195.jpg",
+      "titleSource" : "Ärzte-Chef: \"Massentest hilfreich, aber kein Freibrief zum Partyfeiern\"",
+      "titleTarget" : "Šef liječnika: \"Masovni test koristan, ali ne i dozvola za zabavu\"",
+      "url" : "https://kurier.at/politik/inland/aerzte-chef-massentest-hilfreich-aber-kein-freibrief-zum-partyfeiern/401108649"
+    }, {
       "id" : "Y38QvoWb",
       "imgUrl" : "https://image.kurier.at/images/original/4777923/46-169054904.jpg",
       "titleSource" : "Anschober: Kein Contact Tracing nach flächendeckenden Massentests",
       "titleTarget" : "Sidro: Nema traga za kontaktima nakon opsežnih ispitivanja mase",
       "url" : "https://kurier.at/politik/inland/anschober-kein-vollstaendiges-contact-tracing-nach-massentests/401108148"
     }, {
-      "id" : "zyOseLnp",
-      "imgUrl" : "https://image.kurier.at/images/original/4777776/46-169358330.jpg",
-      "titleSource" : "Gewaltschutz-Gipfel: Regierung investiert in Beratung",
-      "titleTarget" : "Summit o zaštiti od nasilja: Vlada ulaže u savjete",
-      "url" : "https://kurier.at/politik/inland/gewaltschutz-gipfel-regierung-investiert-in-beratung/401108076"
+      "id" : "1YehlrSu",
+      "imgUrl" : "https://image.kurier.at/images/original/4666363/78350011456704856_BLD_Online.jpg",
+      "titleSource" : "Parlament mietet um 500.000 Euro Ausweichquartier für Ausschuss an",
+      "titleTarget" : "Parlament iznajmljuje alternativne prostorije za odbor za 500.000 eura",
+      "url" : "https://kurier.at/politik/inland/parlament-mietet-um-500000-euro-ausweichquartier-fuer-ausschuss-an/401108790"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,12 +52,6 @@
       "titleSource" : "Lufthansa will keinen Impfnachweis von Passagieren - Qantas schon",
       "titleTarget" : "Lufthansa ne želi da se putnici cijepe - Qantas to želi",
       "url" : "https://kurier.at/wirtschaft/aua-mutter-lufthansa-will-keinen-impfnachweis-von-passagieren/401107860"
-    }, {
-      "id" : "ESf6EU70",
-      "imgUrl" : "https://image.kurier.at/images/original/4668451/46-167789247.jpg",
-      "titleSource" : "Coronakrise: Kärntner Skigebiete wollen im Dezember aufsperren",
-      "titleTarget" : "Koronska kriza: Koruška skijaška područja žele se otvoriti u prosincu",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-kaerntner-skigebiete-wollen-im-dezember-aufsperren/401107749"
     }, {
       "id" : "JLxn02UF",
       "imgUrl" : "https://image.kurier.at/images/original/4110102/46-155893517.jpg",
@@ -71,23 +65,29 @@
       "titleTarget" : "160 milijuna doza: Komisija EU sklapa ugovor s proizvođačem cjepiva Moderna",
       "url" : "https://kurier.at/wirtschaft/160-millionen-dosen-eu-kommission-fixiert-vertrag-mit-impfhersteller-moderna/401108382"
     }, {
-      "id" : "oxoAe3O8",
-      "imgUrl" : "https://image.kurier.at/images/original/4236098/78370011354019920_BLD_Online.jpg",
-      "titleSource" : "Bei SPAR kommt kein Palmöl auf den Keksteller",
-      "titleTarget" : "U SPAR-u na pločici s kolačićima nema palminog ulja",
-      "url" : "https://kurier.at/wirtschaft/bei-spar-kommt-kein-palmoel-auf-den-keksteller/401107722"
-    }, {
       "id" : "3kiq7hvc",
       "imgUrl" : "https://image.kurier.at/images/original/4765776/homeoffice-magenta.jpg",
       "titleSource" : "Schreibtisch, Sessel, Arbeitszeit: Woran es im Homeoffice hapert",
       "titleTarget" : "Stol, fotelja, radno vrijeme: Ono što nedostaje kućnom uredu",
       "url" : "https://kurier.at/wirtschaft/schreibtisch-sessel-arbeitszeit-woran-es-im-homeoffice-hapert/401107938"
     }, {
-      "id" : "Z7GQyO85",
-      "imgUrl" : "https://image.kurier.at/images/original/4623539/78350011456348586_BLD_Online.jpg",
-      "titleSource" : "Europaparlament macht Weg frei für Sammelklagen in allen EU‐Ländern",
-      "titleTarget" : "Europski parlament oslobađa put zajedničkim tužbama u svim zemljama EU-a",
-      "url" : "https://kurier.at/wirtschaft/europaparlament-macht-weg-frei-fuer-sammelklagen-in-allen-eu-laendern/401107848"
+      "id" : "5kiucBrx",
+      "imgUrl" : "https://image.kurier.at/images/original/4778814/46-169007883.jpg",
+      "titleSource" : "Die Anleger sind zu optimistisch",
+      "titleTarget" : "Ulagači su previše optimistični",
+      "url" : "https://kurier.at/wirtschaft/die-anleger-sind-zu-optimistisch/401108511"
+    }, {
+      "id" : "EUjCvEM3",
+      "imgUrl" : "https://image.kurier.at/images/original/1373694/zte.jpg",
+      "titleSource" : "US-Aufsicht: Chinesische Telekomfirma ZTE ist \"Sicherheitsrisiko\"",
+      "titleTarget" : "Američki nadzor: Kineska telekomunikacijska tvrtka ZTE predstavlja \"sigurnosni rizik\"",
+      "url" : "https://kurier.at/wirtschaft/us-aufsicht-chinesische-telekomfirma-zte-ist-sicherheitsrisiko/401108823"
+    }, {
+      "id" : "B3GNuCGo",
+      "imgUrl" : "https://image.kurier.at/images/original/4768713/20201119-ABD0106-1-1.jpg",
+      "titleSource" : "Wirtschaftsweise: Lockdown-Verlängerung schwächt nicht Konjunktur",
+      "titleTarget" : "Ekonomija: Proširenje blokade ne slabi gospodarstvo",
+      "url" : "https://kurier.at/wirtschaft/wirtschaftsweise-lockdown-verlaengerung-schwaecht-nicht-konjunktur/401108832"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -104,62 +104,56 @@
       "titleTarget" : "Preokret trenda u borbi protiv Corone: Što nam govore brojke zaraze",
       "url" : "https://kurier.at/chronik/oesterreich/trendwende-im-kampf-gegen-corona-was-uns-die-infektionszahlen-sagen/401108088"
     }, {
-      "id" : "Y5M2fzD2",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/14/crops/w=1280/755847_opener_262514_coronateststation2020.11.17-188.jpg?s=8988062a3c9e424720c3f4df71313827f604067e",
-      "titleSource" : "80 Teststationen für flächendeckende Massentests",
-      "titleTarget" : "80 ispitnih stanica za opsežna ispitivanja mase",
-      "url" : "https://vorarlberg.orf.at/stories/3077500/"
+      "id" : "eOw1hmy0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/44/crops/w=1280/762481_opener_264944_skiing-4835024_1920.jpg?s=2912f90b475c97084fe9b33695efbbce36370705",
+      "titleSource" : "Diskussion um Skifahrverbot über Weihnachten",
+      "titleTarget" : "Rasprava o zabrani skijanja tijekom Božića",
+      "url" : "https://vorarlberg.orf.at/stories/3077516/"
     }, {
-      "id" : "rYQNqxSS",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "4.377 Neuinfektionen in Österreich",
-      "titleTarget" : "4.377 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/4377-neuinfektionen-in-oesterreich/401107686"
-    }, {
-      "id" : "IPti4pct",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/36/crops/w=1280/762289_opener_181736_x2.jpg?s=88302baccd7ad2a14c1b6571c1082a081ec6599b",
-      "titleSource" : "Produktionsfehler bei FFP2 Schutzmasken?",
-      "titleTarget" : "Pogreška u proizvodnji zaštitnih maski FFP2?",
-      "url" : "https://salzburg.orf.at/stories/3077486/"
-    }, {
-      "id" : "oBEmuaBu",
-      "imgUrl" : "https://image.kurier.at/images/original/3348523/46-143376811.jpg",
-      "titleSource" : "IGGÖ trennt sich von Militär-Imam - und kritisiert Ministerium",
-      "titleTarget" : "IGGÖ se odvaja od vojnog imama - i kritizira ministarstvo",
-      "url" : "https://kurier.at/chronik/oesterreich/iggoe-trennt-sich-von-militaer-imam-und-kritisiert-ministerium/401107554"
+      "id" : "jHjuX4IP",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/23/80/crops/w=1280/169331_opener_42880_themenbild_mietwagenservice_taxi_uber_.jpg?s=2c3e0b212f76687820b6eb529a8832decc7b7a85",
+      "titleSource" : "Taxi-Demo gegen „Sozialdumping“",
+      "titleTarget" : "Taksi demonstracija protiv \"socijalnog dampinga\"",
+      "url" : "https://wien.orf.at/stories/3077459/"
     }, {
       "id" : "NME7KONh",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/61/crops/w=1280/762285_opener_264861_feuerwehr1.jpg?s=87f374790850de9e68f1c05c7ac724de96a0c06a",
       "titleSource" : "Feuerwehr bietet Hilfe bei Massentests an",
       "titleTarget" : "Vatrogasci nude pomoć u masovnim testovima",
       "url" : "https://noe.orf.at/stories/3077484/"
+    }, {
+      "id" : "iQ7hxnh0",
+      "imgUrl" : "https://image.kurier.at/images/original/4736742/78350011457312004_BLD_Online.jpg",
+      "titleSource" : "Grenze zu Bayern: Antrag zweier Schüler kippt Testpflicht für Pendler",
+      "titleTarget" : "Granica s Bavarskom: Prijava dvojice učenika poništava obvezno testiranje za putnike",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-testpflicht-fuer-grenzpendler-in-bayern-ausser-kraft/401108421"
+    }, {
+      "id" : "GP8Ur2PC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/32/81/crops/w=1280/250297_opener_73581_bruecke5.jpg?s=8c567023c98090de6a3b5b371cee0dad204cf587",
+      "titleSource" : "Testpflicht für Pendler nach Bayern gefallen",
+      "titleTarget" : "Otkazana obveza testiranja za putnike u Bavarsku",
+      "url" : "https://salzburg.orf.at/stories/3077522/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "JUKM1iHj",
-      "imgUrl" : "https://image.kurier.at/images/original/4775511/46-168955761.jpg",
-      "titleSource" : "Körperkontakt im Datenraum: Barbara Kapusta erhält Otto Mauer-Preis",
-      "titleTarget" : "Tjelesni kontakt u podatkovnoj sobi: Barbara Kapusta dobiva nagradu Otto Mauer",
-      "url" : "https://kurier.at/kultur/koerperkontakt-im-datenraum-barbara-kapusta-erhaelt-otto-mauer-preis/401106720"
-    }, {
       "id" : "Jlp2EweW",
       "imgUrl" : "https://image.kurier.at/images/original/4777986/barbaren.jpg",
       "titleSource" : "\"Die Barbaren\" stellen neuen Startrekord bei Netflix auf",
       "titleTarget" : "\"Barbari\" postavili su novi rekord na Netflixu",
       "url" : "https://kurier.at/kultur/medien/die-barbaren-stellen-neuen-startrekord-bei-netflix-auf/401108196"
     }, {
-      "id" : "r6bu8WWw",
-      "imgUrl" : "https://image.kurier.at/images/original/4776219/pw_-_49_-_meiberger_-_auf_der_anderen_seite_-_08.jpg",
-      "titleSource" : "Schauspielerin Tanja Raunig: Im Kopf der Rechtsmedizinerin",
-      "titleTarget" : "Glumica Tanja Raunig: U glavi sudskog liječnika",
-      "url" : "https://kurier.at/kultur/medien/schauspielerin-tanja-raunig-im-kopf-der-rechtsmedizinerin/401107125"
+      "id" : "1ksPXURK",
+      "imgUrl" : "https://image.kurier.at/images/original/4778322/sharktank_5-byaaronhader.jpg",
+      "titleSource" : "Sharktank mit \"Bad Energy“ gegen die Corona-Tristesse",
+      "titleTarget" : "Sharktank s \"Lošom energijom\" protiv turobnosti korone",
+      "url" : "https://kurier.at/kultur/sharktank-mit-bad-energy-gegen-die-corona-tristesse/401108322"
     }, {
-      "id" : "95U7Ifzy",
-      "imgUrl" : "https://image.kurier.at/images/original/4776294/46-151077309.jpg",
-      "titleSource" : "Rea Garvey fragt: \"Was für eine freie Welt ist das denn?\"",
-      "titleTarget" : "Rea Garvey pita: \"Kakav je to slobodan svijet?\"",
-      "url" : "https://kurier.at/kultur/rea-garvey-fragt-was-fuer-eine-freie-welt-ist-das-denn/401107185"
+      "id" : "D68zUzq7",
+      "imgUrl" : "https://image.kurier.at/images/original/4765515/81452305857555040_BLD_Online.jpg",
+      "titleSource" : "Bieber enttäuscht über Grammy-Nominierung: \"Changes\" ist doch R&B",
+      "titleTarget" : "Bieber razočaran nominacijom za Grammy: \"Promjene\" su R&B",
+      "url" : "https://kurier.at/kultur/bieber-enttaeuscht-ueber-grammy-nominierung-changes-ist-doch-rb/401108751"
     }, {
       "id" : "1M1iynul",
       "imgUrl" : "https://image.kurier.at/images/original/4778943/46-168794412.jpg",
@@ -173,11 +167,17 @@
       "titleTarget" : "1,8 milijuna eura za ekspresionističku damu: aukcija u Beču",
       "url" : "https://kurier.at/kultur/18-millionen-euro-fuer-expressionisten-dame-auktion-in-wien/401108613"
     }, {
-      "id" : "ONq2atiK",
-      "imgUrl" : "https://image.kurier.at/images/original/4447898/46-165339483.jpg",
-      "titleSource" : "Beyonce dominiert Grammy-Nominierungen",
-      "titleTarget" : "Beyonce dominira nominacijama za Grammy",
-      "url" : "https://kurier.at/kultur/beyonce-dominiert-grammy-nominierungen/401108622"
+      "id" : "dLKUv2eM",
+      "imgUrl" : "https://image.kurier.at/images/original/4241654/46-163923394.jpg",
+      "titleSource" : "Nach Aus für \"SOKO Kitz\": Linz wird neue \"SOKO\"-Stadt",
+      "titleTarget" : "Nakon završetka \"SOKO Kitz\": Linz postaje novi \"SOKO\" grad",
+      "url" : "https://kurier.at/kultur/medien/nach-aus-fuer-soko-kitz-linz-wird-neue-soko-stadt/401109045"
+    }, {
+      "id" : "y5gfCi67",
+      "imgUrl" : "https://image.kurier.at/images/original/4778079/lil_zoo_in_action_c_little_shao_red_bull_content_pool.jpg",
+      "titleSource" : "Breakdance-Weltfinale in Salzburg: Lil Zoo setzt auf Heimvorteil",
+      "titleTarget" : "Svjetsko finale breakdancea u Salzburgu: Zoološki vrt Lil oslanja se na domaću prednost",
+      "url" : "https://kurier.at/kultur/red-bull-bc-one-finale-in-salzburg-lil-zoo-setzt-auf-heimvorteil/401108244"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,21 +195,22 @@
       "titleTarget" : "Koronavirus zaustavlja Schwarza ispred Lecha / Zürsa",
       "url" : "https://sport.orf.at/stories/3069717/"
     }, {
-      "id" : "oDf00s4l",
-      "titleSource" : "Olympiasiegerin wird neue Cheftrainerin",
-      "titleTarget" : "Olimpijski prvak postaje novi glavni trener",
-      "url" : "https://sport.orf.at/stories/3069712/"
+      "id" : "vVpkHXYX",
+      "titleSource" : "Sturm müht sich über Hürde Wacker",
+      "titleTarget" : "Oluja se bori oko prepreke Wacker",
+      "url" : "https://sport.orf.at/stories/3069738/"
     }, {
-      "id" : "8ZNhdhmx",
-      "titleSource" : "„Gravierender“ Anstieg bei arbeitslosen Profis",
-      "titleTarget" : "\"Ozbiljan\" porast nezaposlenih stručnjaka",
-      "url" : "https://sport.orf.at/stories/3069720/"
+      "id" : "72p8C3hE",
+      "imgUrl" : "https://image.kurier.at/images/original/4779339/46-149270063.jpg",
+      "titleSource" : "Thiem 2021 zum dritten Mal beim Laver Cup dabei",
+      "titleTarget" : "Thiem će biti treći put na Laver Cupu 2021. godine",
+      "url" : "https://kurier.at/sport/tennis/tennis-thiem-2021-zum-dritten-mal-beim-laver-cup-dabei/401108919"
     }, {
-      "id" : "ofgt8swd",
-      "imgUrl" : "https://image.kurier.at/images/original/4775694/46-168693742.jpg",
-      "titleSource" : "Rapids englische Woche: Erst nach Irland, dann gegen Austria",
-      "titleTarget" : "Engleski brzi tjedan: prvo u Irsku, a zatim protiv Austrije",
-      "url" : "https://kurier.at/sport/fussball/rapid-eine-englische-woche-mit-einer-reise-nach-irland/401106894"
+      "id" : "ZsrzFdig",
+      "imgUrl" : "https://image.kurier.at/images/original/3952940/46-143915371.jpg",
+      "titleSource" : "WM-Held Franz-Josef Rehrl: \"Bei mir ist einiges falsch gelaufen\"",
+      "titleTarget" : "Junak Svjetskog kupa Franz-Josef Rehrl: \"Sa mnom je puno pošlo po zlu\"",
+      "url" : "https://kurier.at/sport/wintersport/wm-held-und-kombinierer-franz-josef-rehrl-bei-mir-ist-einiges-falsch-gelaufen/401108298"
     }, {
       "id" : "2mUggAPA",
       "imgUrl" : "https://image.kurier.at/images/original/4777617/46-168230922.jpg",
@@ -217,11 +218,10 @@
       "titleTarget" : "Pozitivan test korone: Skistar Schwarz propustio je domaći Svjetski kup",
       "url" : "https://kurier.at/sport/wintersport/positiver-covid-test-skistar-marco-schwarz-verpasst-den-heimweltcup/401107965"
     }, {
-      "id" : "YZ7p7hhS",
-      "imgUrl" : "https://image.kurier.at/images/original/3066465/78410270745491574_BLD_Online.jpg",
-      "titleSource" : "Corona-Chaos: Die Australian Open werden wohl verschoben",
-      "titleTarget" : "Kaos u Coroni: Australian Open vjerojatno će biti odgođen",
-      "url" : "https://kurier.at/sport/tennis/corona-chaos-die-australian-open-werden-wohl-verschoben/401108496"
+      "id" : "GKOqz3Cj",
+      "titleSource" : "Umstrittener Elfer hält Paris SG im Rennen",
+      "titleTarget" : "Kontroverzni 911 održava Paris SG u pogonu",
+      "url" : "https://sport.orf.at/stories/3069740/"
     } ]
   } ],
   "country" : "austria",
