@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "5JymsDMb",
+      "imgUrl" : "https://image.kurier.at/images/original/4781232/46-169392140.jpg",
+      "titleSource" : "Schadhafte Masken aus China: FPÖ fordert Anschober-Ablöse",
+      "titleTarget" : "Oštećene maske iz Kine: FPÖ poziva na sidreni prijenos",
+      "url" : "https://kurier.at/politik/inland/schadhafte-masken-aus-china-fpoe-fordert-anschober-abloese/401109981"
+    }, {
       "id" : "lzdOuaqz",
       "imgUrl" : "https://image.kurier.at/images/original/4756362/46-168837584.jpg",
       "titleSource" : "FPÖ ruft indirekt zum Boykott der Massentests auf - ÖVP schäumt",
       "titleTarget" : "FPÖ neizravno poziva na bojkot masovnih testova - ÖVP se pjeni",
       "url" : "https://kurier.at/politik/inland/coronavirus-fpoe-ruft-indirekt-zum-boykott-der-massentests-auf/401109117"
-    }, {
-      "id" : "t0XRivot",
-      "imgUrl" : "https://image.kurier.at/images/original/4779726/20201125-ABD0036-1-1.jpg",
-      "titleSource" : "\"Sehr, sehr behutsam\": Öffnungsplan nach dem Lockdown kommt nächste Woche",
-      "titleTarget" : "\"Vrlo, vrlo pažljivo\": Plan otvaranja nakon zaključavanja dolazi sljedeći tjedan",
-      "url" : "https://kurier.at/politik/inland/corona-tests-und-impfung-als-licht-am-ende-des-tunnels/401109150"
     }, {
       "id" : "hO92lKhq",
       "imgUrl" : "https://image.kurier.at/images/original/4708092/46-168134052.jpg",
@@ -20,11 +20,11 @@
       "titleTarget" : "Masovni testovi: FPÖ redovi unatrag, nema preporuke da se ne sudjeluje",
       "url" : "https://kurier.at/politik/inland/massentests-fpoe-rudert-zurueck-keine-empfehlung-zur-nicht-teilnahme/401109804"
     }, {
-      "id" : "1YehlrSu",
-      "imgUrl" : "https://image.kurier.at/images/original/4666363/78350011456704856_BLD_Online.jpg",
-      "titleSource" : "Parlament mietet um 500.000 Euro Ausweichquartier für Ausschuss an",
-      "titleTarget" : "Parlament iznajmljuje alternativne prostorije za odbor za 500.000 eura",
-      "url" : "https://kurier.at/politik/inland/parlament-mietet-um-500000-euro-ausweichquartier-fuer-ausschuss-an/401108790"
+      "id" : "t0XRivot",
+      "imgUrl" : "https://image.kurier.at/images/original/4779726/20201125-ABD0036-1-1.jpg",
+      "titleSource" : "\"Sehr, sehr behutsam\": Öffnungsplan nach dem Lockdown kommt nächste Woche",
+      "titleTarget" : "\"Vrlo, vrlo pažljivo\": Plan otvaranja nakon zaključavanja dolazi sljedeći tjedan",
+      "url" : "https://kurier.at/politik/inland/corona-tests-und-impfung-als-licht-am-ende-des-tunnels/401109150"
     }, {
       "id" : "Z16GbDz1",
       "imgUrl" : "https://image.kurier.at/images/original/4766022/46-167203898.jpg",
@@ -32,21 +32,27 @@
       "titleTarget" : "Justiz-Online donosi pristup datotekama besplatno",
       "url" : "https://kurier.at/politik/inland/justiz-online-bringt-gebuehrenfreie-akteneinsicht/401109387"
     }, {
-      "id" : "B0MNy7Ts",
-      "imgUrl" : "https://image.kurier.at/images/original/4599467/46-143422317.jpg",
-      "titleSource" : "Mindeststudienleistung hinuntergeschraubt",
-      "titleTarget" : "Zajebana minimalna akademska postignuća",
-      "url" : "https://kurier.at/politik/inland/mindeststudienleistung-hinuntergeschraubt/401108973"
+      "id" : "O4pOxKUl",
+      "imgUrl" : "https://image.kurier.at/images/original/4781358/46-170536300.jpg",
+      "titleSource" : "Drozda über Ibiza-Video: „Mir kam es halbseiden vor“",
+      "titleTarget" : "Drozda na videu na Ibizi: \"Djelovalo mi je napola svilenkasto\"",
+      "url" : "https://kurier.at/politik/inland/drozda-ueber-ibiza-video-mir-kam-es-halbseiden-vor/401110128"
     }, {
-      "id" : "HSDtpWWO",
-      "imgUrl" : "https://image.kurier.at/images/original/4779300/46-167845354.jpg",
-      "titleSource" : "Erinnern mit Blick nach vorne: Zukunftsfonds feiert 15-jähriges Bestehen",
-      "titleTarget" : "Sjećanje s pogledom unaprijed: Zukunftsfonds slavi 15. godišnjicu",
-      "url" : "https://kurier.at/politik/inland/erinnern-mit-blick-nach-vorne-zukunftsfonds-feiert-15-jaehriges-bestehen/401108874"
+      "id" : "m7o79Ztn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/8/2/5903234/NATIONALRATSSITZUNG-KRAINER--BLMEL_160638256183729_v0_h.jpg",
+      "titleSource" : "Nationalrat korrigiert Budget-\"Lapsus\"",
+      "titleTarget" : "Nacionalno vijeće ispravlja proračunski \"propust\"",
+      "url" : "https://www.diepresse.com/5903234/Nationalrat-korrigiert-BudgetLapsus?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "amnC46fn",
+      "imgUrl" : "https://image.kurier.at/images/original/4781124/46-168942523.jpg",
+      "titleSource" : "Wiens Kammerchef will Erlaubnis für Warenabholung im Handel",
+      "titleTarget" : "Šef bečke komore traži dozvolu za prikupljanje robe od trgovaca",
+      "url" : "https://kurier.at/wirtschaft/wiens-kammerchef-will-erlaubnis-fuer-warenabholung-im-handel/401109873"
+    }, {
       "id" : "IGktS7WN",
       "imgUrl" : "https://image.kurier.at/images/original/4761864/20201116-ABD0049-1-1.jpg",
       "titleSource" : "Coronahilfen: Handel bekommt über eine Milliarde zurück",
@@ -59,11 +65,17 @@
       "titleTarget" : "Insider: IBM želi smanjiti 10.000 radnih mjesta u Europi",
       "url" : "https://kurier.at/wirtschaft/insider-ibm-will-in-europa-10000-stellen-streichen/401109399"
     }, {
-      "id" : "8lQqNmmA",
-      "imgUrl" : "https://image.kurier.at/images/original/4230662/78350011453977184_BLD_Online.jpg",
-      "titleSource" : "Lohn von deutschen Supermarktverkäufern in Coronakrise gesunken",
-      "titleTarget" : "Plaće njemačkih prodavača supermarketa pale su u koronskoj krizi",
-      "url" : "https://kurier.at/wirtschaft/lohn-von-deutschen-supermarktverkaeufern-in-coronakrise-gesunken/401109000"
+      "id" : "DqpZOhn8",
+      "imgUrl" : "https://image.kurier.at/images/original/4780335/46-163642297.jpg",
+      "titleSource" : "Ständig neue Covid-Regeln: \"Personalverrechnung vor Kollaps\"",
+      "titleTarget" : "Stalno nova Covid pravila: \"Obračun plaća prije kolapsa\"",
+      "url" : "https://kurier.at/wirtschaft/staendig-neue-covid-regeln-loesen-buerokratie-chaos-aus/401109663"
+    }, {
+      "id" : "3wjKt7dc",
+      "imgUrl" : "https://image.kurier.at/images/original/4781106/78370011357672798_BLD_Online.jpg",
+      "titleSource" : "Ehemaliger Weltbankpräsident Wolfensohn gestorben",
+      "titleTarget" : "Preminuo je bivši predsjednik Svjetske banke Wolfensohn",
+      "url" : "https://kurier.at/wirtschaft/ehemaliger-weltbankpraesident-wolfensohn-gestorben/401109927"
     }, {
       "id" : "iEeuALO3",
       "imgUrl" : "https://image.kurier.at/images/original/1434243/usa-flagge.jpg",
@@ -71,23 +83,11 @@
       "titleTarget" : "Unatoč Coroni: Amerika je u ljeto rasla rekordnom brzinom",
       "url" : "https://kurier.at/wirtschaft/trotz-corona-us-wirtschaft-wuchs-im-sommer-im-rekordtempo/401109441"
     }, {
-      "id" : "pMWiflFW",
-      "imgUrl" : "https://image.kurier.at/images/original/4071699/81650355552759448_BLD_Online.jpg",
-      "titleSource" : "Kritik an EU-Kommission nach Auftrag an US-Investor Blackrock",
-      "titleTarget" : "Kritika EU komisije nakon naredbe američkog investitora Blackrocka",
-      "url" : "https://kurier.at/wirtschaft/kritik-an-eu-kommission-nach-auftrag-an-us-investor-blackrock/401109003"
-    }, {
-      "id" : "EUjCvEM3",
-      "imgUrl" : "https://image.kurier.at/images/original/1373694/zte.jpg",
-      "titleSource" : "US-Aufsicht: Chinesische Telekomfirma ZTE ist \"Sicherheitsrisiko\"",
-      "titleTarget" : "Američki nadzor: Kineska telekomunikacijska tvrtka ZTE predstavlja \"sigurnosni rizik\"",
-      "url" : "https://kurier.at/wirtschaft/us-aufsicht-chinesische-telekomfirma-zte-ist-sicherheitsrisiko/401108823"
-    }, {
-      "id" : "B3GNuCGo",
-      "imgUrl" : "https://image.kurier.at/images/original/4768713/20201119-ABD0106-1-1.jpg",
-      "titleSource" : "Wirtschaftsweise: Lockdown-Verlängerung schwächt nicht Konjunktur",
-      "titleTarget" : "Ekonomija: Proširenje blokade ne slabi gospodarstvo",
-      "url" : "https://kurier.at/wirtschaft/wirtschaftsweise-lockdown-verlaengerung-schwaecht-nicht-konjunktur/401108832"
+      "id" : "P0skKP22",
+      "imgUrl" : "https://image.kurier.at/images/original/3938141/78370011351803718_BLD_Online.jpg",
+      "titleSource" : "Forderungen von 510 Mio. Euro im Konkurs der Ex-Meinl-Bank",
+      "titleTarget" : "Potraživanja od 510 milijuna eura u stečaju Ex-Meinl-banke",
+      "url" : "https://kurier.at/wirtschaft/forderungen-von-510-mio-euro-im-konkurs-der-ex-meinl-bank/401110113"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,29 +98,11 @@
       "titleTarget" : "Zatvaranje škola: Roditelji više vole VfGH",
       "url" : "https://noe.orf.at/stories/3077669/"
     }, {
-      "id" : "WAhYXvux",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/46/crops/w=1280/754799_opener_262146_20201116_kh_antigentests_201116_00_00_17_11.jpg?s=04b690b6aaefe927c692302d711270c39c7a4fda",
-      "titleSource" : "Land: Massentests noch vor Weihnachten",
-      "titleTarget" : "Zemlja: masovna ispitivanja prije Božića",
-      "url" : "https://kaernten.orf.at/stories/3077703/"
-    }, {
       "id" : "LmlaIkEN",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/40/crops/w=1280/763713_opener_265440_seilbahnen_1.jpg?s=80d083a3a0b52e4003a58ac3e9b1b8e69a311f03",
       "titleSource" : "Skigebiete wollen heuer noch öffnen",
       "titleTarget" : "Skijališta se žele otvoriti ove godine",
       "url" : "https://vorarlberg.orf.at/stories/3077656/"
-    }, {
-      "id" : "vXHgYzQv",
-      "imgUrl" : "https://image.kurier.at/images/original/4762869/46-17918045.jpg",
-      "titleSource" : "Trotz Corona-Pandemie: Nikolo darf doch kommen",
-      "titleTarget" : "Unatoč pandemiji korone: Nikolo smije doći",
-      "url" : "https://kurier.at/chronik/oesterreich/trotz-corona-pandemie-nikolo-darf-doch-kommen/401108988"
-    }, {
-      "id" : "wn2j81sC",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "5.802 Corona-Neuinfektionen in Österreich",
-      "titleTarget" : "5.802 nove infekcije koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/5802-corona-neuinfektionen-in-oesterreich/401108886"
     }, {
       "id" : "tBjJfUDk",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/26/crops/w=1280/763446_opener_265326_3image.ashx.jpg?s=f8a784d9791ee2868da770ca9d5b2b12328ab000",
@@ -128,27 +110,33 @@
       "titleTarget" : "Nezaposleni se prekvalificiraju u njegovatelje",
       "url" : "https://salzburg.orf.at/stories/3077688/"
     }, {
+      "id" : "WAhYXvux",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/46/crops/w=1280/754799_opener_262146_20201116_kh_antigentests_201116_00_00_17_11.jpg?s=04b690b6aaefe927c692302d711270c39c7a4fda",
+      "titleSource" : "Land: Massentests noch vor Weihnachten",
+      "titleTarget" : "Zemlja: masovna ispitivanja prije Božića",
+      "url" : "https://kaernten.orf.at/stories/3077703/"
+    }, {
       "id" : "951xriai",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/30/crops/w=1280/763690_opener_265430_roco3.jpg?s=ba28b34d38c1bc3862e9075949a3a7e5b0cbdcf6",
       "titleSource" : "Modellbahnhersteller Roco wieder im Plus",
       "titleTarget" : "Model proizvođač željeznica Roco opet u plusu",
       "url" : "https://salzburg.orf.at/stories/3077706/"
+    }, {
+      "id" : "L6wNFj6N",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/17/crops/w=1280/763821_opener_265317_zuers5.jpg?s=889165e09f2f364a4989098b1d248e08f9957a0b",
+      "titleSource" : "Flexenarena: Qualifikation startet um 10 Uhr",
+      "titleTarget" : "Flexenarena: Kvalifikacija započinje u 10 sati",
+      "url" : "https://vorarlberg.orf.at/stories/3077597/"
+    }, {
+      "id" : "eRjCeByZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4780110/46-156597014.jpg",
+      "titleSource" : "Verfassungsschutz-Bericht: Mehr Straftaten durch Linksextreme",
+      "titleTarget" : "Izvješće o ustavnoj zaštiti: Više zločina lijevih ekstremista",
+      "url" : "https://kurier.at/chronik/oesterreich/verfassungsschutz-bericht-deutlich-mehr-taten-durch-linksextreme/401109549"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "1ksPXURK",
-      "imgUrl" : "https://image.kurier.at/images/original/4778322/sharktank_5-byaaronhader.jpg",
-      "titleSource" : "Sharktank mit \"Bad Energy“ gegen die Corona-Tristesse",
-      "titleTarget" : "Sharktank s \"Lošom energijom\" protiv turobnosti korone",
-      "url" : "https://kurier.at/kultur/sharktank-mit-bad-energy-gegen-die-corona-tristesse/401108322"
-    }, {
-      "id" : "dLKUv2eM",
-      "imgUrl" : "https://image.kurier.at/images/original/4241654/46-163923394.jpg",
-      "titleSource" : "Nach Aus für \"SOKO Kitz\": Linz wird neue \"SOKO\"-Stadt",
-      "titleTarget" : "Nakon završetka \"SOKO Kitz\": Linz postaje novi \"SOKO\" grad",
-      "url" : "https://kurier.at/kultur/medien/nach-aus-fuer-soko-kitz-linz-wird-neue-soko-stadt/401109045"
-    }, {
       "id" : "AnWqi35U",
       "imgUrl" : "https://image.kurier.at/images/original/4778241/46-169262527.jpg",
       "titleSource" : "\"Her Story\" auf Sky: Vier Frauen für ein Halleluja",
@@ -161,23 +149,35 @@
       "titleTarget" : "Nakon hita \"The Crown\": Netflix ulaže milijardu u britanske produkcije",
       "url" : "https://kurier.at/kultur/medien/nach-the-crown-erfolg-netflix-steckt-1-milliarde-in-britische-produktionen/401109138"
     }, {
-      "id" : "y5gfCi67",
-      "imgUrl" : "https://image.kurier.at/images/original/4778079/lil_zoo_in_action_c_little_shao_red_bull_content_pool.jpg",
-      "titleSource" : "Breakdance-Weltfinale in Salzburg: Lil Zoo setzt auf Heimvorteil",
-      "titleTarget" : "Svjetsko finale breakdancea u Salzburgu: Zoološki vrt Lil oslanja se na domaću prednost",
-      "url" : "https://kurier.at/kultur/red-bull-bc-one-finale-in-salzburg-lil-zoo-setzt-auf-heimvorteil/401108244"
+      "id" : "IyRKEWE9",
+      "imgUrl" : "https://image.kurier.at/images/original/4781298/46-104188659.jpg",
+      "titleSource" : "Bestseller von Joachim Meyerhoff wird verfilmt",
+      "titleTarget" : "Snima se bestseler Joachima Meyerhoffa",
+      "url" : "https://kurier.at/kultur/bestseller-von-joachim-meyerhoff-wird-verfilmt/401110038"
     }, {
-      "id" : "D68zUzq7",
-      "imgUrl" : "https://image.kurier.at/images/original/4765515/81452305857555040_BLD_Online.jpg",
-      "titleSource" : "Bieber enttäuscht über Grammy-Nominierung: \"Changes\" ist doch R&B",
-      "titleTarget" : "Bieber razočaran nominacijom za Grammy: \"Promjene\" su R&B",
-      "url" : "https://kurier.at/kultur/bieber-enttaeuscht-ueber-grammy-nominierung-changes-ist-doch-rb/401108751"
+      "id" : "cWCeoi8D",
+      "imgUrl" : "https://image.kurier.at/images/original/4781208/46-168313532.jpg",
+      "titleSource" : "Mads Mikkelsen ersetzt Johnny Depp offiziell als Grindelwald",
+      "titleTarget" : "Mads Mikkelsen službeno zamjenjuje Johnnyja Deppa kao Grindelwald",
+      "url" : "https://kurier.at/kultur/mads-mikkelsen-ersetzt-johnny-depp-offiziell-als-grindelwald/401109969"
+    }, {
+      "id" : "m1Utw78w",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/b/5903211/FANTASTIC-BEASTS-THE-CRIMES-OF-GRINDELWALD-Johnny-Depp-2018-ph-Jaap-Buitendijk--2018-Warner-Bros-Ent-All-Rights_1606382131645653_v0_h.jpg",
+      "titleSource" : "Mads Mikkelsen ersetzt Johnny Depp in \"Phantastische Tierwesen\"",
+      "titleTarget" : "Mads Mikkelsen zamjenjuje Johnnyja Deppa u filmu Fantastične zvijeri",
+      "url" : "https://www.diepresse.com/5903211/Film_Mads-Mikkelsen-ersetzt-Johnny-Depp-in-Phantastische-Tierwesen?from=rss"
     }, {
       "id" : "Lvh6zC6t",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
       "titleSource" : "Musiksalon Nr. 21: \"Die Frau ohne Schatten\"",
       "titleTarget" : "Glazbeni salon br. 21: \"Žena bez sjene\"",
       "url" : "https://www.diepresse.com/5902769/HoerTipp_Musiksalon-Nr-21_Die-Frau-ohne-Schatten?from=rss"
+    }, {
+      "id" : "i55VzxBV",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/8/7/5902983/MIAMI-FL-OCTOBER-24-The-Weeknd-performs-during-the-Starboy-World-Tour-at-the-American-Airlines-Arena-in-Miami-October-2_1606318055548523.jpg",
+      "titleSource" : "Scharfe Kritik an Grammy-Nominierungen",
+      "titleTarget" : "Oštra kritika nominacija za Grammy",
+      "url" : "https://www.diepresse.com/5902983/Scharfe-Kritik-an-GrammyNominierungen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -201,27 +201,27 @@
       "titleTarget" : "Diego Maradona je mrtav",
       "url" : "https://sport.orf.at/stories/3069765/"
     }, {
+      "id" : "JYRd1oUb",
+      "titleSource" : "Viertligist Vienna kickt Altach raus",
+      "titleTarget" : "Četvrta divizija Beč izbacila je Altacha",
+      "url" : "https://sport.orf.at/stories/3069780/"
+    }, {
       "id" : "7PQGaHT8",
       "imgUrl" : "https://image.kurier.at/images/original/4326377/maradonna11-212x300.jpg",
       "titleSource" : "Der Tag, an dem ich mich in Maradona verliebte",
       "titleTarget" : "Dan kad sam se zaljubila u Maradonu",
       "url" : "https://kurier.at/sport/fussball/der-tag-an-dem-ich-mich-in-maradona-verliebte/400848998"
     }, {
-      "id" : "JYRd1oUb",
-      "titleSource" : "Viertligist Vienna kickt Altach raus",
-      "titleTarget" : "Četvrta divizija Beč izbacila je Altacha",
-      "url" : "https://sport.orf.at/stories/3069780/"
+      "id" : "q15F2I7E",
+      "titleSource" : "Weltweite Trauer um „ewigen Diego“",
+      "titleTarget" : "Svjetska žalost za \"vječnim Diegom\"",
+      "url" : "https://sport.orf.at/stories/3069772/"
     }, {
-      "id" : "SZ1Rq9UW",
-      "titleSource" : "Coronavirus-Ausbruch bei Österreichs Herren",
-      "titleTarget" : "Izbijanje koronavirusa među austrijskim muškarcima",
-      "url" : "https://sport.orf.at/stories/3069754/"
-    }, {
-      "id" : "JEv84ZRR",
-      "imgUrl" : "https://image.kurier.at/images/original/3262598/78390011546969134_BLD_Online.jpg",
-      "titleSource" : "Mehrere Corona-Fälle bei ÖSV-Adlern - Team zurückgezogen",
-      "titleTarget" : "Nekoliko slučajeva korone u ÖSV-Adler - povučen tim",
-      "url" : "https://kurier.at/sport/wintersport/skispringen-mehrere-corona-faelle-bei-oesv-adlern-schlierenzauer-aschenwald-widhoelzl-betroffen/401109087"
+      "id" : "S6K5eRRD",
+      "imgUrl" : "https://image.kurier.at/images/original/4781271/46-170604914.jpg",
+      "titleSource" : "Die Sportwelt trauert: \"Maradona ist nicht tot, er ist unsterblich\"",
+      "titleTarget" : "Svijet sporta tuguje: \"Maradona nije mrtav, on je besmrtan\"",
+      "url" : "https://kurier.at/sport/fussball/die-sportwelt-trauert-um-fussball-legende-diego-maradona-jetzt-ist-zeit-fuer-traenen/401109768"
     } ]
   } ],
   "country" : "austria",
