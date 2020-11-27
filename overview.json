@@ -2,26 +2,20 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "C0YlhBBc",
-      "imgUrl" : "https://image.kurier.at/images/original/4782609/46-170863317.jpg",
-      "titleSource" : "Kurz in Biotech-Fabrik: \"Impfung wird Game Changer\"",
-      "titleTarget" : "Ukratko u biotehničkoj tvornici: \"Cijepljenje postaje mjenjač igre\"",
-      "url" : "https://kurier.at/politik/inland/kurz-in-biotech-fabrik-impfung-wird-game-changer/401110740"
+      "id" : "YBg0i7lv",
+      "imgUrl" : "https://image.kurier.at/images/original/380979/ski-000_dpa_Karl-Josef%252BHildenbrand.jpg",
+      "titleSource" : "Köstinger: \"Virus verbreitet sich nicht auf Skipisten\"",
+      "titleTarget" : "Köstinger: \"Virus se ne širi na skijalištima\"",
+      "url" : "https://kurier.at/politik/inland/koestinger-virus-verbreitet-sich-nicht-auf-skipisten/401111514"
     }, {
-      "id" : "J0V0RuJN",
-      "imgUrl" : "https://image.kurier.at/images/original/4781808/46-150648259.jpg",
-      "titleSource" : "Statistik Austria: Hohe Dunkelziffer bei Corona-Infektionen",
-      "titleTarget" : "Statistika Austrije: velik broj neprijavljenih slučajeva koronskih infekcija",
-      "url" : "https://kurier.at/politik/inland/statistik-austria-hohe-dunkelziffer-bei-corona-infektionen/401110326"
-    }, {
-      "id" : "6AfVKGf4",
-      "imgUrl" : "https://image.kurier.at/images/original/4782495/46-163845894.jpg",
-      "titleSource" : "\"Billige Ressource\": Zivildiener könnten bis August 2021 zwangsverlängert werden",
-      "titleTarget" : "\"Jeftin resurs\": Državni službenici mogli bi se prisilno produžiti do kolovoza 2021. godine",
-      "url" : "https://kurier.at/politik/inland/billige-ressource-zivildiener-koennten-bis-august-2021-zwangsverlaengert-werden/401110575"
+      "id" : "5J5edceH",
+      "imgUrl" : "https://image.kurier.at/images/original/4784988/46-171945968.jpg",
+      "titleSource" : "Anschober: \"Harter Lockdown wirkt\", sehr hohe Zahl an Todesfällen",
+      "titleTarget" : "Anschober: \"Snažno zaključavanje djeluje\", vrlo velik broj smrtnih slučajeva",
+      "url" : "https://kurier.at/politik/inland/anschober-pk-wie-schlimm-ist-die-lage-auf-den-intensivstationen/401111484"
     }, {
       "id" : "yHzdrWRQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4784472/weihnachtsgutscheine-4834.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4784700/46-165722065.jpg",
       "titleSource" : "Gutscheine statt Weihnachtsfeiern: Das sind die Details",
       "titleTarget" : "Bonovi umjesto božićnih domjenaka: ovo su detalji",
       "url" : "https://kurier.at/politik/inland/gutscheine-statt-weihnachtsfeiern-das-sind-die-details/401111745"
@@ -32,151 +26,158 @@
       "titleTarget" : "Von der Leyen: \"Početak cijepljenja u Europi već je moguć u prosincu\"",
       "url" : "https://kurier.at/politik/inland/von-der-leyen-impfstart-in-europa-schon-im-dezember-moeglich/401111724"
     }, {
+      "id" : "cSBP26o6",
+      "imgUrl" : "https://image.kurier.at/images/original/4785291/46-170832396.jpg",
+      "titleSource" : "Zitate der Woche: \"Halb Europa ist im Frühjahr von Ischgl aus mit infiziert worden\"",
+      "titleTarget" : "Citati tjedna: \"Pola Europe zaraženo je od Ischgla na proljeće\"",
+      "url" : "https://kurier.at/politik/inland/zitate-der-woche-halb-europa-ist-im-fruehjahr-von-ischgl-aus-mit-infiziert-worden/401112006"
+    }, {
       "id" : "UCibfRVd",
       "imgUrl" : "https://image.kurier.at/images/original/4784265/46-168073115.jpg",
       "titleSource" : "Spätere Matura, reduzierter Stoff - Öffnungsplan aber noch unklar",
       "titleTarget" : "Kasnija matura, smanjeni materijal - ali plan otvaranja još uvijek nije jasan",
       "url" : "https://kurier.at/politik/inland/zentralmatura-2021-beginnt-erst-am-20-mai/401111547"
     }, {
-      "id" : "NQzYY8Lx",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/c/e/5903822/D9FCA1D2-F422-405E-AA51-5320ED7034CC_v0_l.jpg",
-      "titleSource" : "Urteil im Prozess gegen Grasser fällt am 4. Dezember",
-      "titleTarget" : "Presuda u procesu protiv Grassera bit će izrečena 4. prosinca",
-      "url" : "https://www.diepresse.com/5903822/Causa-Buwog_Urteil-im-Prozess-gegen-Grasser-faellt-am-4-Dezember?from=rss"
+      "id" : "VYuddzjl",
+      "imgUrl" : "https://image.kurier.at/images/original/4770867/46-164856371.jpg",
+      "titleSource" : "Wegen Corona: Schulen sollen auf freien Zwickeltag verzichten",
+      "titleTarget" : "Zbog Corone: Škole bi se trebale odreći besplatnog Zwickeltaga",
+      "url" : "https://kurier.at/politik/inland/wegen-corona-schulen-sollen-auf-freien-zwickeltag-verzichten/401112150"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "xQnm09MQ",
-      "imgUrl" : "https://image.kurier.at/images/original/3846626/78370011351136804_BLD_Online.jpg",
-      "titleSource" : "Mehrheit gegen Sonntagsöffnung vor Weihnachten",
-      "titleTarget" : "Većina protiv nedjeljnog otvaranja prije Božića",
-      "url" : "https://kurier.at/wirtschaft/mehrheit-gegen-sonntagsoeffnung-vor-weihnachten/401110650"
-    }, {
-      "id" : "3f5mLDi1",
-      "imgUrl" : "https://image.kurier.at/images/original/4703310/46-167541627.jpg",
-      "titleSource" : "SPÖ-Sozialsprecher Muchitsch pocht weiter auf bezahlte Maskenpause",
-      "titleTarget" : "Glasnogovornik SPÖ-a Muchitsch i dalje inzistira na plaćenoj pauzi maski",
-      "url" : "https://kurier.at/wirtschaft/spoe-sozialsprecher-muchitsch-pocht-weiter-auf-bezahlte-maskenpause/401111025"
-    }, {
-      "id" : "MguO1yHP",
-      "imgUrl" : "https://image.kurier.at/images/original/4531544/46-165806495.jpg",
-      "titleSource" : "Konjunkturerholung: Der Frühling kommt bestimmt",
-      "titleTarget" : "Ekonomski oporavak: Proljeće definitivno dolazi",
-      "url" : "https://kurier.at/wirtschaft/konjunkturerholung-der-fruehling-kommt-bestimmt/401110638"
-    }, {
       "id" : "5pjW5e6S",
       "imgUrl" : "https://image.kurier.at/images/original/4783968/46-163716696.jpg",
       "titleSource" : "Lockdown und Vorweihnachtszeit: Paketzusteller vor dem Kollaps",
       "titleTarget" : "Zaključavanje i predbožićno razdoblje: usluga dostave paketa na rubu kolapsa",
       "url" : "https://kurier.at/wirtschaft/paketzusteller-vor-dem-kollaps/401111346"
     }, {
-      "id" : "uUSP4pKU",
-      "imgUrl" : "https://image.kurier.at/images/original/3158669/78370011346202496_BLD_Online.jpg",
-      "titleSource" : "Fusion von XXXLutz mit Tessner: Erste Hürde genommen",
-      "titleTarget" : "Spajanje XXXLutza s Tessnerom: Prva zapreka je uklonjena",
-      "url" : "https://kurier.at/wirtschaft/fusion-von-xxxlutz-mit-tessner-erste-huerde-genommen/401110929"
+      "id" : "P2HZ91Lm",
+      "imgUrl" : "https://image.kurier.at/images/original/4785639/46-168786773.jpg",
+      "titleSource" : "Nun fix: Agrana-Zuckerfabrik in Leopoldsdorf bleibt",
+      "titleTarget" : "Sada popravimo: ostaje tvornica šećera Agrana u Leopoldsdorfu",
+      "url" : "https://kurier.at/wirtschaft/nun-fix-agrana-zuckerfabrik-in-leopoldsdorf-bleibt/401112156"
     }, {
-      "id" : "7rDrPWDv",
-      "imgUrl" : "https://image.kurier.at/images/original/3830036/78370011351010682_BLD_Online.jpg",
-      "titleSource" : "Printmedien erzielten 2019 600 Mio. direkte Wertschöpfung",
-      "titleTarget" : "Tiskani mediji generirali su 600 milijuna izravne dodane vrijednosti u 2019",
-      "url" : "https://kurier.at/wirtschaft/printmedien-erzielten-2019-600-mio-direkte-wertschoepfung/401110482"
+      "id" : "dL1qnEcv",
+      "imgUrl" : "https://image.kurier.at/images/original/4785564/46-143111533.jpg",
+      "titleSource" : "Rene Benko kaufte Gut mit 1.200 Hektar Wald im Murtal",
+      "titleTarget" : "Rene Benko kupio je imanje s 1.200 hektara šume na Murtalu",
+      "url" : "https://kurier.at/wirtschaft/rene-benko-kaufte-gut-mit-1200-hektar-wald-im-murtal/401112105"
     }, {
-      "id" : "PkUfmToj",
-      "imgUrl" : "https://image.kurier.at/images/original/4784082/46-167652694.jpg",
-      "titleSource" : "China führt Antidumping-Maßnahmen gegen australischen Wein ein",
-      "titleTarget" : "Kina uvodi antidampinške mjere protiv australskog vina",
-      "url" : "https://kurier.at/wirtschaft/china-fuehrt-antidumping-massnahmen-gegen-australischen-wein-ein/401111400"
+      "id" : "LT0wsLwM",
+      "imgUrl" : "https://image.kurier.at/images/original/4785462/46-168954248.jpg",
+      "titleSource" : "Schlechte Obsternte: Weniger Äpfel und Zwetschken, kaum Marillen",
+      "titleTarget" : "Loša berba voća: manje jabuka i šljiva, malo marelica",
+      "url" : "https://kurier.at/wirtschaft/schlechte-obsternte-weniger-aepfel-und-zwetschken-kaum-marillen/401112069"
+    }, {
+      "id" : "iWIpYcMZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4784967/46-168729285.jpg",
+      "titleSource" : "Porsche Holding Salzburg richtet Geschäft neu aus",
+      "titleTarget" : "Porsche Holding Salzburg preuređuje poslovanje",
+      "url" : "https://kurier.at/wirtschaft/porsche-holding-salzburg-richtet-geschaeft-neu-aus/401111889"
+    }, {
+      "id" : "y40TmmCZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4784406/46-166755228.jpg",
+      "titleSource" : "Oberbank verdiente in den ersten drei Quartalen 2020 weniger",
+      "titleTarget" : "Oberbank je manje zarađivala u prva tri kvartala 2020. godine",
+      "url" : "https://kurier.at/wirtschaft/oberbank-verdiente-in-den-ersten-drei-quartalen-2020-weniger/401111631"
+    }, {
+      "id" : "Pe9DR0z8",
+      "imgUrl" : "https://image.kurier.at/images/original/4784181/46-65703370.jpg",
+      "titleSource" : "adidas soll Reebok-Verkauf vorbereiten",
+      "titleTarget" : "adidas priprema Reebok prodaju",
+      "url" : "https://kurier.at/wirtschaft/adidas-soll-reebok-verkauf-vorbereiten/401111478"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "B83hMF3T",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/82/crops/w=1280/764783_opener_265882_2.jpg?s=071f10b6b30d6274548742b5e7bf8903ba852a18",
-      "titleSource" : "Anti-Lockdown Demo in Saalfelden",
-      "titleTarget" : "Demonstracija protiv zaključavanja u Saalfeldenu",
-      "url" : "https://salzburg.orf.at/stories/3077834/"
+      "id" : "Ksr2p2lx",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/77/crops/w=1280/765630_opener_266177_20201127_073605_002.jpg?s=78190d0c3f5d1095a6f2869f0743852dbe04da49",
+      "titleSource" : "Kalb musste zweimal gerettet werden",
+      "titleTarget" : "Kalb je morao biti spašen dva puta",
+      "url" : "https://kaernten.orf.at/stories/3078013/"
     }, {
-      "id" : "V8XfXhx1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/23/38/crops/w=1280/580458_opener_198038_masken1.jpg?s=42e15d6ca76428a917153e5288e24df3fb2dd685",
-      "titleSource" : "Ermittlungen gegen Schranz eingestellt",
-      "titleTarget" : "Obustavljena istraga protiv Schranza",
-      "url" : "https://tirol.orf.at/stories/3077921/"
+      "id" : "P0cTYgj9",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "4.954 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "4.954 nove infekcije koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/4954-neue-corona-infektionen-in-oesterreich/401111520"
     }, {
       "id" : "w3zeYuvG",
       "imgUrl" : "https://image.kurier.at/images/original/4784085/46-168808287.jpg",
-      "titleSource" : "Vorbereitung für Corona-Massentests laufen an",
+      "titleSource" : "Corona-Massentests: Kostenfrage nicht gänzlich geklärt",
       "titleTarget" : "Počinju pripreme za masne testove korone",
       "url" : "https://kurier.at/chronik/oesterreich/vorbereitung-fuer-corona-massentests-laufen-an/401111406"
     }, {
-      "id" : "5q57Nyyn",
-      "titleSource" : "Angriff auf Rabbiner in Wien-Landstraße",
-      "titleTarget" : "Napad na rabine u Beču-Landstrasse",
-      "url" : "https://wien.orf.at/stories/3077928/"
+      "id" : "ms0oZFWa",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/24/crops/w=1280/492877_opener_166024_hallenbad_neusiedl_c0001_00.00.00.06.jpg?s=c35efe182121e1a21d5b6056e09c587e4472fc8c",
+      "titleSource" : "Neusiedl: Denkmalschutz für Hallenbad fix",
+      "titleTarget" : "Neusiedl: Fiksna zaštita spomenika za zatvoreni bazen",
+      "url" : "https://burgenland.orf.at/stories/3077988/"
     }, {
-      "id" : "aX9AR0ql",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/90/crops/w=1280/764823_opener_158990_operette_3.jpg?s=248eafabf5e5951896064a5ea53a8d220039413c",
-      "titleSource" : "Haydn-Konservatorium wird private Hochschule",
-      "titleTarget" : "Konzervatorij Haydn postaje privatno sveučilište",
-      "url" : "https://burgenland.orf.at/stories/3077905/"
+      "id" : "mKPXNW3r",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/15/crops/w=1280/765217_opener_266015_pa_faultier1.jpg?s=bd8d3616809a4833772c30922e059cd8e95e6376",
+      "titleSource" : "Faultier-Nachwuchs in Schönbrunn",
+      "titleTarget" : "Ljenjiv potomci u Schönbrunnu",
+      "url" : "https://wien.orf.at/stories/3077950/"
     }, {
-      "id" : "RRdW6yQR",
-      "imgUrl" : "https://image.kurier.at/images/original/4754538/46-168301051.jpg",
-      "titleSource" : "Verbraucherschutzverein kündigt weitere Klagen zu Ischgl an",
-      "titleTarget" : "Udruga za zaštitu potrošača najavljuje daljnje tužbe protiv Ischgla",
-      "url" : "https://kurier.at/chronik/oesterreich/verbraucherschutzverein-kuendigt-weitere-klagen-zu-ischgl-an/401110323"
+      "id" : "h5bW0koi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/28/41/crops/w=1280/612771_opener_210041_staatsoper.jpg?s=5e422a63cba63cf07f9c62898c7284c54fe5aa8a",
+      "titleSource" : "Staatsoper spielt fürs Fernsehen",
+      "titleTarget" : "Državna opera igra za televiziju",
+      "url" : "https://wien.orf.at/stories/3077997/"
     }, {
-      "id" : "0l0gr4IT",
-      "imgUrl" : "https://image.kurier.at/images/original/380979/ski-000_dpa_Karl-Josef%252BHildenbrand.jpg",
-      "titleSource" : "4.954 Neuinfektionen in Ö; Köstinger: \"Virus verbreitet sich nicht auf Skipisten\"",
-      "titleTarget" : "4.954 novih infekcija u Austriji; Köstinger: \"Virus se ne širi na skijalištima\"",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-in-oesterreich-die-ampel-bleibt-rot-trump-impfstoff-wird-naechste-woche-ausgeliefert/401111295"
+      "id" : "NDu9hdOx",
+      "imgUrl" : "https://image.kurier.at/images/original/4783926/46-168266144.jpg",
+      "titleSource" : "In Österreich nichts Neues: Die Ampel bleibt rot",
+      "titleTarget" : "U Austriji ništa novo: semafor ostaje crven",
+      "url" : "https://kurier.at/chronik/oesterreich/in-oesterreich-nichts-neues-die-ampel-bleibt-rot/401111334"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "20AQnofB",
-      "imgUrl" : "https://image.kurier.at/images/original/4782921/46-170600749.jpg",
-      "titleSource" : "\"Licht ins Dunkel\": Gabalier hat \"mit rechtem Gedankengut gar nichts am Hut\"",
-      "titleTarget" : "\"Licht ins Dunkel\": Gabalier \"nema nikakve veze s desničarskim idejama\"",
-      "url" : "https://kurier.at/kultur/medien/licht-ins-dunkel-gabalier-hat-mit-rechtem-gedankengut-gar-nichts-am-hut/401110863"
+      "id" : "8YUEBJQb",
+      "imgUrl" : "https://image.kurier.at/images/original/4783344/46-170784694.jpg",
+      "titleSource" : "\"The Third Day\": Jude Law, gefangen in der vermeintlichen Idylle",
+      "titleTarget" : "\"Treći dan\": Jude Law, zarobljen u tobožnjoj idili",
+      "url" : "https://kurier.at/kultur/medien/the-third-day-jude-law-gefangen-in-der-vermeintlichen-idylle/401111049"
     }, {
-      "id" : "gzQI0bSU",
-      "imgUrl" : "https://image.kurier.at/images/original/4782858/46-169007590.jpg",
-      "titleSource" : "Netflix-Serie \"Das Damengambit\" löst Schach-Begeisterung aus",
-      "titleTarget" : "Netflixova serija \"Kraljičin gambit\" izaziva šahovski entuzijazam",
-      "url" : "https://kurier.at/kultur/medien/netflix-serie-das-damengambit-loest-schach-begeisterung-aus/401110842"
+      "id" : "KaiinsIt",
+      "imgUrl" : "https://image.kurier.at/images/original/4783338/46-170784695.jpg",
+      "titleSource" : "Mini-Serie \"Des\": David Tennant als freundlicher Serienkiller",
+      "titleTarget" : "Mini-serija \"Des\": David Tennant kao prijateljski serijski ubojica",
+      "url" : "https://kurier.at/kultur/medien/mini-serie-des-david-tennant-als-freundlicher-serienkiller/401111052"
     }, {
-      "id" : "B2wN3uGa",
-      "imgUrl" : "https://image.kurier.at/images/original/4480241/20200625-ABD0129-1-1.jpg",
-      "titleSource" : "Niavaranis \"Theater im Park\" geht 2021 in die Verlängerung",
-      "titleTarget" : "Niavaranijev \"Theatre im Park\" produžit će se 2021. godine",
-      "url" : "https://kurier.at/kultur/niavaranis-theater-im-park-geht-2021-in-die-verlaengerung/401110371"
+      "id" : "rPNfd0WM",
+      "imgUrl" : "https://image.kurier.at/images/original/4784628/46-166592062.jpg",
+      "titleSource" : "Schreibwettbewerb für Jugendliche: Unmut über den Klimawandel",
+      "titleTarget" : "Natjecanje za pisanje mladih: nezadovoljstvo klimatskim promjenama",
+      "url" : "https://kurier.at/kultur/schreibwettbewerb-fuer-jugendliche-unmut-ueber-den-klimawandel/401111712"
     }, {
-      "id" : "ZK5apaXT",
-      "imgUrl" : "https://image.kurier.at/images/original/4782282/201124klimt.jpg",
-      "titleSource" : "Leopold Museum erhielt Klimt-Bild geschenkt",
-      "titleTarget" : "Muzej Leopold dobio je na poklon Klimtovu sliku",
-      "url" : "https://kurier.at/kultur/leopold-museum-erhielt-klimt-bild-geschenkt/401110557"
+      "id" : "kOxLH44S",
+      "imgUrl" : "https://image.kurier.at/images/original/4785684/46-112344413.jpg",
+      "titleSource" : "Kafka-Brief verkauft, verschollener Kauffmann-Brief aufgetaucht",
+      "titleTarget" : "Kafkino pismo prodano, izgubljeno Kauffmannovo pismo pronađeno",
+      "url" : "https://kurier.at/kultur/kafka-brief-verkauft-verschollener-kauffmann-brief-aufgetaucht/401112132"
     }, {
-      "id" : "e5E3HFDl",
-      "imgUrl" : "https://image.kurier.at/images/original/4783365/46-149264527.jpg",
-      "titleSource" : "Jeannee wegen Beleidigung und übler Nachrede verurteilt",
-      "titleTarget" : "Jeannee osuđena za uvredu i klevetu",
-      "url" : "https://kurier.at/kultur/medien/jeannee-wegen-beleidigung-und-uebler-nachrede-verurteilt/401111070"
+      "id" : "B5sN3Lmv",
+      "imgUrl" : "https://image.kurier.at/images/original/4785216/46-64340110.jpg",
+      "titleSource" : "Programmvorschau: Kunsthaus Bregenz will im Dezember wieder starten",
+      "titleTarget" : "Pregled programa: Kunsthaus Bregenz želi ponovno započeti u prosincu",
+      "url" : "https://kurier.at/kultur/programmvorschau-kunsthaus-bregenz-will-im-dezember-wieder-starten/401111955"
     }, {
-      "id" : "gUpHMZF5",
-      "imgUrl" : "https://image.kurier.at/images/original/4782621/46-170932964.jpg",
-      "titleSource" : "TV-Quoten: Bauern-Liebe und Corona-Doku top",
-      "titleTarget" : "TV rejting: Farmerova ljubav i vrhunski dokumentarni film Corona",
-      "url" : "https://kurier.at/kultur/medien/tv-quoten-bauern-liebe-und-corona-doku-top/401110839"
+      "id" : "ja6DmVXJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4786047/46-161048713.jpg",
+      "titleSource" : "Baby Yoda hat jetzt einen Namen",
+      "titleTarget" : "Baby Yoda sada ima ime",
+      "url" : "https://kurier.at/kultur/medien/baby-yoda-hat-jetzt-einen-namen/401112330"
     }, {
-      "id" : "ENomT18b",
-      "imgUrl" : "https://image.kurier.at/images/original/4782846/46-170600788.jpg",
-      "titleSource" : "\"Licht ins Dunkel\": Tenor Bocelli will \"der Welt das Spirituelle zurückgeben“",
-      "titleTarget" : "\"Licht ins Dunkel\": Tenor Bocelli želi \"svijetu vratiti duhovno\"",
-      "url" : "https://kurier.at/kultur/medien/licht-ins-dunkel-tenor-bocelli-will-der-welt-das-spirituelle-zurueckgeben/401110830"
+      "id" : "uBUKtUCr",
+      "imgUrl" : "https://image.kurier.at/images/original/4785798/46-168704686.jpg",
+      "titleSource" : "Förderungen für Kulturinitiativen erhöht, Gutscheinlösung verlängert",
+      "titleTarget" : "Povećalo se financiranje kulturnih inicijativa, proširilo rješenje za vouchere",
+      "url" : "https://kurier.at/kultur/im-zuge-der-corona-krise-foerderungen-fuer-kulturinitiativen-erhoeht-gutscheinloesung-verlaengert/401112225"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,21 +185,28 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "36xys8s5",
-      "titleSource" : "Maradonas Tod bewegt die Massen",
-      "titleTarget" : "Maradonina smrt pokreće mase",
-      "url" : "https://sport.orf.at/stories/3069810/"
+      "id" : "1SHVTNFF",
+      "imgUrl" : "https://image.kurier.at/images/original/4784520/46-139019720.jpg",
+      "titleSource" : "Vor dem Derby: \"Didi Kühbauer brennt auf seine Rückkehr\"",
+      "titleTarget" : "Prije derbija: \"Didi Kühbauer željan povratka\"",
+      "url" : "https://kurier.at/sport/fussball/vor-dem-wiener-derby-ist-der-rapid-trainer-zurueck-didi-kuehbauer-brennt-auf-seine-rueckkehr/401111685"
     }, {
-      "id" : "dQFpgIsW",
-      "imgUrl" : "https://image.kurier.at/images/original/4781745/46-170732422.jpg",
-      "titleSource" : "\"Gott ist tot\": Die \"gequälte Seele\" der Legende Maradona",
-      "titleTarget" : "\"Bog je mrtav\": \"napaćena duša\" legende Maradone",
-      "url" : "https://kurier.at/sport/fussball/gott-ist-tot-argentiniens-legende-diego-maradona-zwischen-fussball-und-selbstzerstoerung/401110257"
+      "id" : "bNHj0lSG",
+      "titleSource" : "Pertl überrascht in Parallel-Qualifikation",
+      "titleTarget" : "Pertl iznenađuje u paralelnim kvalifikacijama",
+      "url" : "https://sport.orf.at/stories/3069871/"
     }, {
-      "id" : "0nEMdVv5",
-      "titleSource" : "Rapid stößt Tür zur K.-o.-Phase wieder auf",
-      "titleTarget" : "Rapid ponovno gura vrata do faze nokauta",
-      "url" : "https://sport.orf.at/stories/3069852/"
+      "id" : "kWTdCiYQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4784526/46-169002889.jpg",
+      "titleSource" : "Zweites Rennen, zweiter Sieg für Skeletonstar Janine Flock",
+      "titleTarget" : "Druga utrka, druga pobjeda zvijezde kostura Janine Flock",
+      "url" : "https://kurier.at/sport/wintersport/zweites-rennen-zweiter-sieg-fuer-skeletonstar-janine-flock/401111718"
+    }, {
+      "id" : "LAFMaJSM",
+      "imgUrl" : "https://image.kurier.at/images/original/4783227/46-170940090.jpg",
+      "titleSource" : "Maradona in Neapel: Messias der Fans, Freund der Mafia",
+      "titleTarget" : "Maradona u Napulju: Mesija navijača, prijatelj mafije",
+      "url" : "https://kurier.at/sport/maradona-in-neapel-messias-der-fans-freund-der-mafia/401111022"
     }, {
       "id" : "VmyyFSjN",
       "imgUrl" : "https://image.kurier.at/images/original/4783779/46-171313059.jpg",
@@ -206,21 +214,15 @@
       "titleTarget" : "Navijači su provalili u vladino sjedište na Maradoni",
       "url" : "https://kurier.at/sport/fussball/fans-drangen-bei-maradona-totenwache-in-regierungssitz-ein/401110155"
     }, {
-      "id" : "tDyT2QzG",
-      "imgUrl" : "https://image.kurier.at/images/original/4783794/46-171406409.jpg",
-      "titleSource" : "Europa League: Rapid siegt in Dublin und bucht Finale gegen Molde",
-      "titleTarget" : "Europska liga: Brze pobjede u Dublinu i finale knjiga protiv Moldea",
-      "url" : "https://kurier.at/sport/fussball/europa-league-rapid-siegt-in-dublin-und-fixiert-finale-gegen-molde/401111028"
+      "id" : "hhnQ2eLc",
+      "titleSource" : "ÖFB-Frauen stehen vor größter Prüfung",
+      "titleTarget" : "ÖFB žene suočene su s najvećim testom",
+      "url" : "https://sport.orf.at/stories/3069808/"
     }, {
-      "id" : "EF9U34tM",
-      "titleSource" : "Vlhova vollendet in Zürs Siegeshattrick",
-      "titleTarget" : "Vlhova ostvarila u Zürsovom hat triku",
-      "url" : "https://sport.orf.at/stories/3069843/"
-    }, {
-      "id" : "HfoGGpoS",
-      "titleSource" : "Spielstände der ICE Hockey League ab 17.30 Uhr",
-      "titleTarget" : "Rezultati ICE hokejaške lige od 17.30.",
-      "url" : "https://sport.orf.at/stories/3069864/"
+      "id" : "0nEMdVv5",
+      "titleSource" : "Rapid stößt Tür zur K.-o.-Phase wieder auf",
+      "titleTarget" : "Rapid ponovno gura vrata do faze nokauta",
+      "url" : "https://sport.orf.at/stories/3069852/"
     } ]
   } ],
   "country" : "austria",
