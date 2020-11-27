@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "5JymsDMb",
-      "imgUrl" : "https://image.kurier.at/images/original/4781232/46-169392140.jpg",
-      "titleSource" : "Schadhafte Masken aus China: FPÖ fordert Anschober-Ablöse",
-      "titleTarget" : "Oštećene maske iz Kine: FPÖ poziva na sidreni prijenos",
-      "url" : "https://kurier.at/politik/inland/schadhafte-masken-aus-china-fpoe-fordert-anschober-abloese/401109981"
-    }, {
       "id" : "C0YlhBBc",
       "imgUrl" : "https://image.kurier.at/images/original/4782609/46-170863317.jpg",
       "titleSource" : "Kurz in Biotech-Fabrik: \"Impfung wird Game Changer\"",
@@ -26,22 +20,29 @@
       "titleTarget" : "\"Jeftin resurs\": Državni službenici mogli bi se prisilno produžiti do kolovoza 2021. godine",
       "url" : "https://kurier.at/politik/inland/billige-ressource-zivildiener-koennten-bis-august-2021-zwangsverlaengert-werden/401110575"
     }, {
-      "id" : "O4pOxKUl",
-      "imgUrl" : "https://image.kurier.at/images/original/4781358/46-170536300.jpg",
-      "titleSource" : "Drozda über Ibiza-Video: „Mir kam es halbseiden vor“",
-      "titleTarget" : "Drozda na videu na Ibizi: \"Djelovalo mi je napola svilenkasto\"",
-      "url" : "https://kurier.at/politik/inland/drozda-ueber-ibiza-video-mir-kam-es-halbseiden-vor/401110128"
+      "id" : "yHzdrWRQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4784472/weihnachtsgutscheine-4834.jpg",
+      "titleSource" : "Gutscheine statt Weihnachtsfeiern: Das sind die Details",
+      "titleTarget" : "Bonovi umjesto božićnih domjenaka: ovo su detalji",
+      "url" : "https://kurier.at/politik/inland/gutscheine-statt-weihnachtsfeiern-das-sind-die-details/401111745"
     }, {
-      "id" : "TvS8vuWP",
-      "titleSource" : "Spionagefall in Bundesheer laut Geheimdienstexperte größer als angenommen",
-      "titleTarget" : "Prema obavještajnom stručnjaku, slučaj špijunaže u oružanim snagama veći je nego što se očekivalo",
-      "url" : "https://www.diepresse.com/5903709/Verfassungsschutzbericht_Spionagefall-in-Bundesheer-laut?from=rss"
+      "id" : "3wZi425D",
+      "imgUrl" : "https://image.kurier.at/images/original/4784559/46-171925044.jpg",
+      "titleSource" : "Von der Leyen: \"Impfstart in Europa schon im Dezember möglich\"",
+      "titleTarget" : "Von der Leyen: \"Početak cijepljenja u Europi već je moguć u prosincu\"",
+      "url" : "https://kurier.at/politik/inland/von-der-leyen-impfstart-in-europa-schon-im-dezember-moeglich/401111724"
     }, {
-      "id" : "j67Mpelf",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/3/8/5903416/A-general-view-during-Austrias-Finance-Minister-Gernot-Bluemel-budget-speech-in-the-parliament-in-Vienna_1606398689717710.jpg",
-      "titleSource" : "Jetzt aber: Finanzrahmen bis 2024 beschlossen",
-      "titleTarget" : "Ali sada: Odlučio se financijski okvir do 2024. godine",
-      "url" : "https://www.diepresse.com/5903416/Parlament_Jetzt-aber_Finanzrahmen-bis-2024-beschlossen?from=rss"
+      "id" : "UCibfRVd",
+      "imgUrl" : "https://image.kurier.at/images/original/4784265/46-168073115.jpg",
+      "titleSource" : "Spätere Matura, reduzierter Stoff - Öffnungsplan aber noch unklar",
+      "titleTarget" : "Kasnija matura, smanjeni materijal - ali plan otvaranja još uvijek nije jasan",
+      "url" : "https://kurier.at/politik/inland/zentralmatura-2021-beginnt-erst-am-20-mai/401111547"
+    }, {
+      "id" : "NQzYY8Lx",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/c/e/5903822/D9FCA1D2-F422-405E-AA51-5320ED7034CC_v0_l.jpg",
+      "titleSource" : "Urteil im Prozess gegen Grasser fällt am 4. Dezember",
+      "titleTarget" : "Presuda u procesu protiv Grassera bit će izrečena 4. prosinca",
+      "url" : "https://www.diepresse.com/5903822/Causa-Buwog_Urteil-im-Prozess-gegen-Grasser-faellt-am-4-Dezember?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,11 +53,11 @@
       "titleTarget" : "Većina protiv nedjeljnog otvaranja prije Božića",
       "url" : "https://kurier.at/wirtschaft/mehrheit-gegen-sonntagsoeffnung-vor-weihnachten/401110650"
     }, {
-      "id" : "DqpZOhn8",
-      "imgUrl" : "https://image.kurier.at/images/original/4780335/46-163642297.jpg",
-      "titleSource" : "Ständig neue Covid-Regeln: \"Personalverrechnung vor Kollaps\"",
-      "titleTarget" : "Stalno nova Covid pravila: \"Obračun plaća prije kolapsa\"",
-      "url" : "https://kurier.at/wirtschaft/staendig-neue-covid-regeln-loesen-buerokratie-chaos-aus/401109663"
+      "id" : "3f5mLDi1",
+      "imgUrl" : "https://image.kurier.at/images/original/4703310/46-167541627.jpg",
+      "titleSource" : "SPÖ-Sozialsprecher Muchitsch pocht weiter auf bezahlte Maskenpause",
+      "titleTarget" : "Glasnogovornik SPÖ-a Muchitsch i dalje inzistira na plaćenoj pauzi maski",
+      "url" : "https://kurier.at/wirtschaft/spoe-sozialsprecher-muchitsch-pocht-weiter-auf-bezahlte-maskenpause/401111025"
     }, {
       "id" : "MguO1yHP",
       "imgUrl" : "https://image.kurier.at/images/original/4531544/46-165806495.jpg",
@@ -64,11 +65,11 @@
       "titleTarget" : "Ekonomski oporavak: Proljeće definitivno dolazi",
       "url" : "https://kurier.at/wirtschaft/konjunkturerholung-der-fruehling-kommt-bestimmt/401110638"
     }, {
-      "id" : "3f5mLDi1",
-      "imgUrl" : "https://image.kurier.at/images/original/4703310/46-167541627.jpg",
-      "titleSource" : "SPÖ-Sozialsprecher Muchitsch pocht weiter auf bezahlte Maskenpause",
-      "titleTarget" : "Glasnogovornik SPÖ-a Muchitsch i dalje inzistira na plaćenoj pauzi maski",
-      "url" : "https://kurier.at/wirtschaft/spoe-sozialsprecher-muchitsch-pocht-weiter-auf-bezahlte-maskenpause/401111025"
+      "id" : "5pjW5e6S",
+      "imgUrl" : "https://image.kurier.at/images/original/4783968/46-163716696.jpg",
+      "titleSource" : "Lockdown und Vorweihnachtszeit: Paketzusteller vor dem Kollaps",
+      "titleTarget" : "Zaključavanje i predbožićno razdoblje: usluga dostave paketa na rubu kolapsa",
+      "url" : "https://kurier.at/wirtschaft/paketzusteller-vor-dem-kollaps/401111346"
     }, {
       "id" : "uUSP4pKU",
       "imgUrl" : "https://image.kurier.at/images/original/3158669/78370011346202496_BLD_Online.jpg",
@@ -82,56 +83,55 @@
       "titleTarget" : "Tiskani mediji generirali su 600 milijuna izravne dodane vrijednosti u 2019",
       "url" : "https://kurier.at/wirtschaft/printmedien-erzielten-2019-600-mio-direkte-wertschoepfung/401110482"
     }, {
-      "id" : "P0skKP22",
-      "imgUrl" : "https://image.kurier.at/images/original/3938141/78370011351803718_BLD_Online.jpg",
-      "titleSource" : "Forderungen von 510 Mio. Euro im Konkurs der Ex-Meinl-Bank",
-      "titleTarget" : "Potraživanja od 510 milijuna eura u stečaju Ex-Meinl-banke",
-      "url" : "https://kurier.at/wirtschaft/forderungen-von-510-mio-euro-im-konkurs-der-ex-meinl-bank/401110113"
+      "id" : "PkUfmToj",
+      "imgUrl" : "https://image.kurier.at/images/original/4784082/46-167652694.jpg",
+      "titleSource" : "China führt Antidumping-Maßnahmen gegen australischen Wein ein",
+      "titleTarget" : "Kina uvodi antidampinške mjere protiv australskog vina",
+      "url" : "https://kurier.at/wirtschaft/china-fuehrt-antidumping-massnahmen-gegen-australischen-wein-ein/401111400"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "v2ON9HeD",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "5.526 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "5.526 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/5526-neue-corona-infektionen-in-oesterreich/401110131"
-    }, {
-      "id" : "ChXlnUk3",
-      "imgUrl" : "https://image.kurier.at/images/original/4783818/46-170862093.jpg",
-      "titleSource" : "Trump: Covid-Impfstoff wird nächste Woche ausgeliefert; Slowakei rückt von Massentests ab",
-      "titleTarget" : "Masovna ispitivanja u Beču od 2. do 13. prosinca; Slovačka se odmiče od masovnih ispitivanja",
-      "url" : "https://kurier.at/chronik/oesterreich/auch-deutschland-fuer-skifahr-verbot-fpoe-rudert-bei-massentest-kritik-zurueck/401109882"
-    }, {
-      "id" : "LK5CCV1m",
-      "imgUrl" : "https://image.kurier.at/images/original/4781322/46-169126264.jpg",
-      "titleSource" : "Steirische Spitäler bitten pensioniertes Personal um Hilfe in der Corona-Pandemie",
-      "titleTarget" : "Štajerske bolnice mole umirovljeno osoblje za pomoć u pandemiji korone",
-      "url" : "https://kurier.at/chronik/oesterreich/steirische-spitaeler-bitten-pensioniertes-personal-um-hilfe-in-der-corona-pandemie/401110092"
-    }, {
-      "id" : "yYBjVtrb",
-      "imgUrl" : "https://image.kurier.at/images/original/4754358/46-168774883.jpg",
-      "titleSource" : "Terroranschlag: Waren heimische Kirchen im Visier?",
-      "titleTarget" : "Teroristički napad: jesu li mjesne crkve bile meta?",
-      "url" : "https://kurier.at/chronik/oesterreich/pressekonferenz-neuigkeiten-zum-terroranschlag-in-wien/401110179"
-    }, {
-      "id" : "r2Y28Kom",
-      "imgUrl" : "https://image.kurier.at/images/original/4781184/46-169122079.jpg",
-      "titleSource" : "Corona-Massentests: Welches Bundesland wann testet",
-      "titleTarget" : "Koronski testovi mase: koja savezna država testira kada",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-massentests-westen-startet-frueher-wien-wartet-noch-ab/401109963"
-    }, {
       "id" : "B83hMF3T",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/82/crops/w=1280/764783_opener_265882_2.jpg?s=071f10b6b30d6274548742b5e7bf8903ba852a18",
       "titleSource" : "Anti-Lockdown Demo in Saalfelden",
       "titleTarget" : "Demonstracija protiv zaključavanja u Saalfeldenu",
       "url" : "https://salzburg.orf.at/stories/3077834/"
     }, {
-      "id" : "n4T8WkOE",
-      "imgUrl" : "https://image.kurier.at/images/original/4781412/46-168194794.jpg",
-      "titleSource" : "Haslauer will Massentests \"wie Wahlen organisieren\"",
-      "titleTarget" : "Haslauer želi organizirati masovne testove \"poput izbora\"",
-      "url" : "https://kurier.at/chronik/oesterreich/haslauer-will-massentests-wie-wahlen-organisieren/401110146"
+      "id" : "V8XfXhx1",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/23/38/crops/w=1280/580458_opener_198038_masken1.jpg?s=42e15d6ca76428a917153e5288e24df3fb2dd685",
+      "titleSource" : "Ermittlungen gegen Schranz eingestellt",
+      "titleTarget" : "Obustavljena istraga protiv Schranza",
+      "url" : "https://tirol.orf.at/stories/3077921/"
+    }, {
+      "id" : "w3zeYuvG",
+      "imgUrl" : "https://image.kurier.at/images/original/4784085/46-168808287.jpg",
+      "titleSource" : "Vorbereitung für Corona-Massentests laufen an",
+      "titleTarget" : "Počinju pripreme za masne testove korone",
+      "url" : "https://kurier.at/chronik/oesterreich/vorbereitung-fuer-corona-massentests-laufen-an/401111406"
+    }, {
+      "id" : "5q57Nyyn",
+      "titleSource" : "Angriff auf Rabbiner in Wien-Landstraße",
+      "titleTarget" : "Napad na rabine u Beču-Landstrasse",
+      "url" : "https://wien.orf.at/stories/3077928/"
+    }, {
+      "id" : "aX9AR0ql",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/90/crops/w=1280/764823_opener_158990_operette_3.jpg?s=248eafabf5e5951896064a5ea53a8d220039413c",
+      "titleSource" : "Haydn-Konservatorium wird private Hochschule",
+      "titleTarget" : "Konzervatorij Haydn postaje privatno sveučilište",
+      "url" : "https://burgenland.orf.at/stories/3077905/"
+    }, {
+      "id" : "RRdW6yQR",
+      "imgUrl" : "https://image.kurier.at/images/original/4754538/46-168301051.jpg",
+      "titleSource" : "Verbraucherschutzverein kündigt weitere Klagen zu Ischgl an",
+      "titleTarget" : "Udruga za zaštitu potrošača najavljuje daljnje tužbe protiv Ischgla",
+      "url" : "https://kurier.at/chronik/oesterreich/verbraucherschutzverein-kuendigt-weitere-klagen-zu-ischgl-an/401110323"
+    }, {
+      "id" : "0l0gr4IT",
+      "imgUrl" : "https://image.kurier.at/images/original/380979/ski-000_dpa_Karl-Josef%252BHildenbrand.jpg",
+      "titleSource" : "4.954 Neuinfektionen in Ö; Köstinger: \"Virus verbreitet sich nicht auf Skipisten\"",
+      "titleTarget" : "4.954 novih infekcija u Austriji; Köstinger: \"Virus se ne širi na skijalištima\"",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-in-oesterreich-die-ampel-bleibt-rot-trump-impfstoff-wird-naechste-woche-ausgeliefert/401111295"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,11 +142,11 @@
       "titleTarget" : "\"Licht ins Dunkel\": Gabalier \"nema nikakve veze s desničarskim idejama\"",
       "url" : "https://kurier.at/kultur/medien/licht-ins-dunkel-gabalier-hat-mit-rechtem-gedankengut-gar-nichts-am-hut/401110863"
     }, {
-      "id" : "IyRKEWE9",
-      "imgUrl" : "https://image.kurier.at/images/original/4781298/46-104188659.jpg",
-      "titleSource" : "Bestseller von Joachim Meyerhoff wird verfilmt",
-      "titleTarget" : "Snima se bestseler Joachima Meyerhoffa",
-      "url" : "https://kurier.at/kultur/bestseller-von-joachim-meyerhoff-wird-verfilmt/401110038"
+      "id" : "gzQI0bSU",
+      "imgUrl" : "https://image.kurier.at/images/original/4782858/46-169007590.jpg",
+      "titleSource" : "Netflix-Serie \"Das Damengambit\" löst Schach-Begeisterung aus",
+      "titleTarget" : "Netflixova serija \"Kraljičin gambit\" izaziva šahovski entuzijazam",
+      "url" : "https://kurier.at/kultur/medien/netflix-serie-das-damengambit-loest-schach-begeisterung-aus/401110842"
     }, {
       "id" : "B2wN3uGa",
       "imgUrl" : "https://image.kurier.at/images/original/4480241/20200625-ABD0129-1-1.jpg",
@@ -154,29 +154,29 @@
       "titleTarget" : "Niavaranijev \"Theatre im Park\" produžit će se 2021. godine",
       "url" : "https://kurier.at/kultur/niavaranis-theater-im-park-geht-2021-in-die-verlaengerung/401110371"
     }, {
-      "id" : "cWCeoi8D",
-      "imgUrl" : "https://image.kurier.at/images/original/4781208/46-168313532.jpg",
-      "titleSource" : "Mads Mikkelsen ersetzt Johnny Depp offiziell als Grindelwald",
-      "titleTarget" : "Mads Mikkelsen službeno zamjenjuje Johnnyja Deppa kao Grindelwald",
-      "url" : "https://kurier.at/kultur/mads-mikkelsen-ersetzt-johnny-depp-offiziell-als-grindelwald/401109969"
-    }, {
       "id" : "ZK5apaXT",
       "imgUrl" : "https://image.kurier.at/images/original/4782282/201124klimt.jpg",
       "titleSource" : "Leopold Museum erhielt Klimt-Bild geschenkt",
       "titleTarget" : "Muzej Leopold dobio je na poklon Klimtovu sliku",
       "url" : "https://kurier.at/kultur/leopold-museum-erhielt-klimt-bild-geschenkt/401110557"
     }, {
-      "id" : "oOjc8df9",
-      "imgUrl" : "https://image.kurier.at/images/original/4781871/81452305857678120_BLD_Online.jpg",
-      "titleSource" : "AC/DC liefern mit \"Power Up\" erfolgreichsten Albumstart 2020",
-      "titleTarget" : "AC / DC isporučuju najuspješniji početak albuma u 2020. \"Power Up\"",
-      "url" : "https://kurier.at/kultur/acdc-liefern-mit-power-up-erfolgreichsten-albumstart-2020/401110350"
-    }, {
       "id" : "e5E3HFDl",
       "imgUrl" : "https://image.kurier.at/images/original/4783365/46-149264527.jpg",
       "titleSource" : "Jeannee wegen Beleidigung und übler Nachrede verurteilt",
       "titleTarget" : "Jeannee osuđena za uvredu i klevetu",
       "url" : "https://kurier.at/kultur/medien/jeannee-wegen-beleidigung-und-uebler-nachrede-verurteilt/401111070"
+    }, {
+      "id" : "gUpHMZF5",
+      "imgUrl" : "https://image.kurier.at/images/original/4782621/46-170932964.jpg",
+      "titleSource" : "TV-Quoten: Bauern-Liebe und Corona-Doku top",
+      "titleTarget" : "TV rejting: Farmerova ljubav i vrhunski dokumentarni film Corona",
+      "url" : "https://kurier.at/kultur/medien/tv-quoten-bauern-liebe-und-corona-doku-top/401110839"
+    }, {
+      "id" : "ENomT18b",
+      "imgUrl" : "https://image.kurier.at/images/original/4782846/46-170600788.jpg",
+      "titleSource" : "\"Licht ins Dunkel\": Tenor Bocelli will \"der Welt das Spirituelle zurückgeben“",
+      "titleTarget" : "\"Licht ins Dunkel\": Tenor Bocelli želi \"svijetu vratiti duhovno\"",
+      "url" : "https://kurier.at/kultur/medien/licht-ins-dunkel-tenor-bocelli-will-der-welt-das-spirituelle-zurueckgeben/401110830"
     } ]
   }, {
     "category" : "HEALTH",
@@ -189,28 +189,16 @@
       "titleTarget" : "Maradonina smrt pokreće mase",
       "url" : "https://sport.orf.at/stories/3069810/"
     }, {
-      "id" : "07T12u1c",
-      "imgUrl" : "https://image.kurier.at/images/original/4782852/46-170940803.jpg",
-      "titleSource" : "Drei Tage Staatstrauer und Zusammenstöße vor Totenwache für Maradona",
-      "titleTarget" : "Tri dana nacionalne žalosti i sukoba prije buđenja za Maradonom",
-      "url" : "https://kurier.at/sport/fussball/drei-tage-staatstrauer-argentinien-weint-um-fussball-legende-diego-maradona/401110155"
+      "id" : "dQFpgIsW",
+      "imgUrl" : "https://image.kurier.at/images/original/4781745/46-170732422.jpg",
+      "titleSource" : "\"Gott ist tot\": Die \"gequälte Seele\" der Legende Maradona",
+      "titleTarget" : "\"Bog je mrtav\": \"napaćena duša\" legende Maradone",
+      "url" : "https://kurier.at/sport/fussball/gott-ist-tot-argentiniens-legende-diego-maradona-zwischen-fussball-und-selbstzerstoerung/401110257"
     }, {
-      "id" : "SGMW6k83",
-      "titleSource" : "Kiteishvili vor Comeback bei Sturm",
-      "titleTarget" : "Kiteishvili prije povratka u oluji",
-      "url" : "https://sport.orf.at/stories/3069805/"
-    }, {
-      "id" : "S6K5eRRD",
-      "imgUrl" : "https://image.kurier.at/images/original/4781271/46-170604914.jpg",
-      "titleSource" : "Die Sportwelt trauert: \"Maradona ist nicht tot, er ist unsterblich\"",
-      "titleTarget" : "Svijet sporta tuguje: \"Maradona nije mrtav, on je besmrtan\"",
-      "url" : "https://kurier.at/sport/fussball/die-sportwelt-trauert-um-fussball-legende-diego-maradona-jetzt-ist-zeit-fuer-traenen/401109768"
-    }, {
-      "id" : "iaMtcrRU",
-      "imgUrl" : "https://image.kurier.at/images/original/4744878/46-168707917.jpg",
-      "titleSource" : "Hohe Hürden für Rapid vor dem Pflichtsieg bei Dundalk",
-      "titleTarget" : "Visoke prepreke za Rapid prije obvezne pobjede na Dundalku",
-      "url" : "https://kurier.at/sport/fussball/europa-league-hohe-huerden-fuer-rapid-wien-vor-dem-pflichtsieg-bei-dundalk/401109603"
+      "id" : "0nEMdVv5",
+      "titleSource" : "Rapid stößt Tür zur K.-o.-Phase wieder auf",
+      "titleTarget" : "Rapid ponovno gura vrata do faze nokauta",
+      "url" : "https://sport.orf.at/stories/3069852/"
     }, {
       "id" : "VmyyFSjN",
       "imgUrl" : "https://image.kurier.at/images/original/4783779/46-171313059.jpg",
@@ -218,11 +206,21 @@
       "titleTarget" : "Navijači su provalili u vladino sjedište na Maradoni",
       "url" : "https://kurier.at/sport/fussball/fans-drangen-bei-maradona-totenwache-in-regierungssitz-ein/401110155"
     }, {
-      "id" : "dQFpgIsW",
-      "imgUrl" : "https://image.kurier.at/images/original/4781745/46-170732422.jpg",
-      "titleSource" : "\"Gott ist tot\": Die \"gequälte Seele\" der Legende Maradona",
-      "titleTarget" : "\"Bog je mrtav\": \"napaćena duša\" legende Maradone",
-      "url" : "https://kurier.at/sport/fussball/gott-ist-tot-argentiniens-legende-diego-maradona-zwischen-fussball-und-selbstzerstoerung/401110257"
+      "id" : "tDyT2QzG",
+      "imgUrl" : "https://image.kurier.at/images/original/4783794/46-171406409.jpg",
+      "titleSource" : "Europa League: Rapid siegt in Dublin und bucht Finale gegen Molde",
+      "titleTarget" : "Europska liga: Brze pobjede u Dublinu i finale knjiga protiv Moldea",
+      "url" : "https://kurier.at/sport/fussball/europa-league-rapid-siegt-in-dublin-und-fixiert-finale-gegen-molde/401111028"
+    }, {
+      "id" : "EF9U34tM",
+      "titleSource" : "Vlhova vollendet in Zürs Siegeshattrick",
+      "titleTarget" : "Vlhova ostvarila u Zürsovom hat triku",
+      "url" : "https://sport.orf.at/stories/3069843/"
+    }, {
+      "id" : "HfoGGpoS",
+      "titleSource" : "Spielstände der ICE Hockey League ab 17.30 Uhr",
+      "titleTarget" : "Rezultati ICE hokejaške lige od 17.30.",
+      "url" : "https://sport.orf.at/stories/3069864/"
     } ]
   } ],
   "country" : "austria",
