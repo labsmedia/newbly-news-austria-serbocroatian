@@ -2,29 +2,35 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "2OFgvKYz",
+      "imgUrl" : "https://image.kurier.at/images/original/4747941/78350011457419792_BLD_Online.jpg",
+      "titleSource" : "Hofburg 2022: SPÖ überlegt, Van der Bellen zu unterstützen",
+      "titleTarget" : "Hofburg 2022: SPÖ razmatra podršku Van der Bellenu",
+      "url" : "https://kurier.at/politik/inland/hofburg-2022-spoe-ueberlegt-van-der-bellen-zu-unterstuetzen/401112618"
+    }, {
+      "id" : "HPHXEgrk",
+      "imgUrl" : "https://image.kurier.at/images/original/4451075/46-164910773.jpg",
+      "titleSource" : "Ex-Kanzler Schüssel wirbt für Ski-Urlaub in Österreich",
+      "titleTarget" : "Bivši kancelar Schüssel promovira skijaški odmor u Austriji",
+      "url" : "https://kurier.at/politik/inland/ex-kanzler-schuessel-wirbt-fuer-ski-urlaub-in-oesterreich/401112642"
+    }, {
       "id" : "MtcFcUrs",
       "imgUrl" : "https://image.kurier.at/images/original/4672033/78350011456741340_BLD_Online.jpg",
       "titleSource" : "Van der Bellen richtet sich mit Dankesbotschaft an Gesundheitspersonal",
       "titleTarget" : "Van der Bellen obraća se zdravstvenim radnicima porukom zahvale",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-richtet-sich-mit-dankesbotschaft-an-gesundheits-personal/401112420"
     }, {
-      "id" : "VYuddzjl",
-      "imgUrl" : "https://image.kurier.at/images/original/4770867/46-164856371.jpg",
-      "titleSource" : "Wegen Corona: Schulen sollen auf freien Zwickeltag verzichten",
-      "titleTarget" : "Zbog Corone: Škole bi se trebale odreći besplatnog Zwickeltaga",
-      "url" : "https://kurier.at/politik/inland/wegen-corona-schulen-sollen-auf-freien-zwickeltag-verzichten/401112150"
+      "id" : "u0piPvky",
+      "imgUrl" : "https://image.kurier.at/images/original/4785285/46-171884972.jpg",
+      "titleSource" : "Neuinfektionen sinken: Durchhalteappell von Anschober",
+      "titleTarget" : "Smanjuju se nove infekcije: Anschober poziva na ustrajnost",
+      "url" : "https://kurier.at/politik/inland/neuinfektionen-sinken-durchhalteappell-von-anschober/401112813"
     }, {
-      "id" : "dX2wm41k",
-      "imgUrl" : "https://image.kurier.at/images/original/4775193/20201123-ABD0021-1-1.jpg",
-      "titleSource" : "Kogler schließt Sparpaket für niedrige und mittlere Einkommen aus",
-      "titleTarget" : "Kogler isključuje pakete štednje za niska i srednja primanja",
-      "url" : "https://kurier.at/politik/inland/kogler-schliesst-sparpaket-fuer-niedrige-und-mittlere-einkommen-aus/401112372"
-    }, {
-      "id" : "cSBP26o6",
-      "imgUrl" : "https://image.kurier.at/images/original/4785291/46-170832396.jpg",
-      "titleSource" : "Zitate der Woche: \"Halb Europa ist im Frühjahr von Ischgl aus mit infiziert worden\"",
-      "titleTarget" : "Citati tjedna: \"Pola Europe zaraženo je od Ischgla na proljeće\"",
-      "url" : "https://kurier.at/politik/inland/zitate-der-woche-halb-europa-ist-im-fruehjahr-von-ischgl-aus-mit-infiziert-worden/401112006"
+      "id" : "E7odYcos",
+      "imgUrl" : "https://image.kurier.at/images/original/4787262/20201128-ABD0075-1-1.jpg",
+      "titleSource" : "OÖ-Wahl 2021: Birgit Gerstorfer als 1. weibliche SPÖ-Spitzenkandidatin",
+      "titleTarget" : "Izbori za Gornju Austriju 2021: Birgit Gerstorfer kao prva ženska kandidatkinja za SPÖ",
+      "url" : "https://kurier.at/politik/inland/ooe-wahl-2021-birgit-gerstorfer-1-weiblichen-spoe-spitzenkandidatin/401112882"
     }, {
       "id" : "dq2KSHG2",
       "imgUrl" : "https://image.kurier.at/images/original/4776408/46-166307032.jpg",
@@ -32,32 +38,38 @@
       "titleTarget" : "Commerzialbank: VIP sezonska karta za bivšeg guvernera Niessla",
       "url" : "https://kurier.at/politik/inland/commerzialbank-vip-saisonkarte-fuer-ex-landeshauptmann-niessl/401112702"
     }, {
-      "id" : "NIdziyof",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/c/5/5904325/7F4E56C0-0CC0-46A8-A2A7-EF4387F3AF61_v0_l.jpg",
-      "titleSource" : "Fast 3000 Organmandate und Anzeigen im zweiten Lockdown",
-      "titleTarget" : "Gotovo 3000 mandata i reklama za odbor u drugom zaključavanju",
-      "url" : "https://www.diepresse.com/5904325/Bilanz_Fast-3000-Organmandate-und-Anzeigen-im-zweiten-Lockdown?from=rss"
-    }, {
-      "id" : "uNHBCn7P",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/c/9/5904329/BAD2381E-D686-4ADD-9203-6FF98B6BAFC8_v0_l.jpg",
-      "titleSource" : "SPÖ: \"Regierung nimmt Arbeitnehmern Rettungsring weg\"",
-      "titleTarget" : "SPÖ: \"Vlada oduzima spasilački pojas radnicima\"",
-      "url" : "https://www.diepresse.com/5904329/Insolvenzen_SPOe_Regierung-nimmt-Arbeitnehmern-Rettungsring-weg?from=rss"
+      "id" : "zjEnzJkG",
+      "imgUrl" : "https://image.kurier.at/images/original/4788054/46-165519116.jpg",
+      "titleSource" : "Militär-Ärztin Sperandio: „Viele Kollegen haben die Gefahr gesehen“",
+      "titleTarget" : "Vojni liječnik Sperandio: \"Mnogi su kolege vidjeli opasnost\"",
+      "url" : "https://kurier.at/politik/inland/militaer-aerztin-sperandio-viele-kollegen-haben-die-gefahr-gesehen/401112987"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "dL1qnEcv",
-      "imgUrl" : "https://image.kurier.at/images/original/4785564/46-143111533.jpg",
-      "titleSource" : "Rene Benko kaufte Gut mit 1.200 Hektar Wald im Murtal",
-      "titleTarget" : "Rene Benko kupio je imanje s 1.200 hektara šume na Murtalu",
-      "url" : "https://kurier.at/wirtschaft/rene-benko-kaufte-gut-mit-1200-hektar-wald-im-murtal/401112105"
+      "id" : "sn3cn68W",
+      "imgUrl" : "https://image.kurier.at/images/original/4785309/46-171844374.jpg",
+      "titleSource" : "SPÖ empört: Regierung kürzt Mittel für Pleitefonds",
+      "titleTarget" : "SPÖ ogorčen: Vlada smanjuje sredstva za stečajne fondove",
+      "url" : "https://kurier.at/wirtschaft/spoe-empoert-regierung-kuerzt-mittel-fuer-pleitefonds/401112582"
     }, {
-      "id" : "Rr4zc7T7",
-      "imgUrl" : "https://image.kurier.at/images/original/4784892/46-165842128.jpg",
-      "titleSource" : "Lebensmittel können am Samstag bis 22 Uhr zugestellt werden",
-      "titleTarget" : "Hrana se može dostaviti u subotu do 22 sata.",
-      "url" : "https://kurier.at/wirtschaft/lebensmittel-koennen-am-samstag-bis-22-uhr-zugestellt-werden/401112348"
+      "id" : "b9Sfgefv",
+      "imgUrl" : "https://image.kurier.at/images/original/4780335/46-163642297.jpg",
+      "titleSource" : "Steuer-Reparatur: Weihnachtsgeld jetzt für die Zukunft gesichert",
+      "titleTarget" : "Porezni porezi: božićnica je osigurana za budućnost",
+      "url" : "https://kurier.at/wirtschaft/steuer-reparatur-weihnachtsgeld-jetzt-fuer-die-zukunft-gesichert/401112585"
+    }, {
+      "id" : "4yF3vYbP",
+      "imgUrl" : "https://image.kurier.at/images/original/4279142/78370011354327186_BLD_Online.jpg",
+      "titleSource" : "Wirtschaftskammer: Ermittlungen wegen möglichem Wahlbetrug",
+      "titleTarget" : "Gospodarska komora: istraga o mogućoj izbornoj prijevari",
+      "url" : "https://kurier.at/wirtschaft/wirtschaftskammer-ermittlungen-wegen-moeglichem-wahlbetrug/401112786"
+    }, {
+      "id" : "FBCntNSz",
+      "imgUrl" : "https://image.kurier.at/images/original/4784043/46-169536252.jpg",
+      "titleSource" : "Gut geliefert: Rindsuppe aus vier Boxen",
+      "titleTarget" : "Dobro isporučena: goveđa juha iz četiri kutije",
+      "url" : "https://kurier.at/wirtschaft/karriere/gut-geliefert-rindsuppe-aus-vier-boxen/401111388"
     }, {
       "id" : "EfyJj6Eb",
       "imgUrl" : "https://image.kurier.at/images/original/4782318/46-170680787.jpg",
@@ -71,101 +83,77 @@
       "titleTarget" : "Tkanine čine dom ugodnim",
       "url" : "https://kurier.at/wirtschaft/immobiz/stoffe-machen-es-daheim-wohnlich/401110788"
     }, {
-      "id" : "FBCntNSz",
-      "imgUrl" : "https://image.kurier.at/images/original/4784043/46-169536252.jpg",
-      "titleSource" : "Gut geliefert: Rindsuppe aus vier Boxen",
-      "titleTarget" : "Dobro isporučena: goveđa juha iz četiri kutije",
-      "url" : "https://kurier.at/wirtschaft/karriere/gut-geliefert-rindsuppe-aus-vier-boxen/401111388"
-    }, {
-      "id" : "2RzpBeH8",
-      "imgUrl" : "https://image.kurier.at/images/original/4642577/46-103380599.jpg",
-      "titleSource" : "Lösung gefunden: Agrana-Zuckerfabrik in Leopoldsdorf bleibt",
-      "titleTarget" : "Pronađeno rješenje: Ostala je tvornica šećera Agrana u Leopoldsdorfu",
-      "url" : "https://kurier.at/wirtschaft/loesung-gefunden-zuckerfabrik-in-leopoldsdorf-bleibt-erhalten/401112270"
-    }, {
-      "id" : "LT0wsLwM",
-      "imgUrl" : "https://image.kurier.at/images/original/4785462/46-168954248.jpg",
-      "titleSource" : "Schlechte Obsternte: Weniger Äpfel und Zwetschken, kaum Marillen",
-      "titleTarget" : "Loša berba voća: manje jabuka i šljiva, malo marelica",
-      "url" : "https://kurier.at/wirtschaft/schlechte-obsternte-weniger-aepfel-und-zwetschken-kaum-marillen/401112069"
+      "id" : "hkJnTYWj",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/7/e/8/5904360/F67F7579-2F43-4CE4-8BAF-2272E3326873_v0_l.jpg",
+      "titleSource" : "Commerzialbank Mattersburg: \"Beschenkte\" sollen in U-Ausschuss",
+      "titleTarget" : "Commerzialbank Mattersburg: \"Primatelji poklona\" trebaju biti u U-odboru",
+      "url" : "https://www.diepresse.com/5904360/Burgenland_Commerzialbank-Mattersburg_Beschenkte-sollen-in?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "f69YGddq",
-      "imgUrl" : "https://image.kurier.at/images/original/4785618/46-172026869.jpg",
-      "titleSource" : "Hilferuf einer Krankenpflegerin: \"Wir sind müde, wir sind ausgelaugt\"",
-      "titleTarget" : "Medicinska sestra poziva u pomoć: \"Umorni smo, iscrpljeni smo\"",
-      "url" : "https://kurier.at/chronik/oesterreich/hilferuf-einer-krankenpflegerin-wir-sind-muede-wir-sind-ausgelaugt/401112159"
+      "id" : "mNhKVzGT",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Höchstwert: 132 Corona-Tote in 24 Stunden in Österreich; 4.669 Neuinfektionen",
+      "titleTarget" : "Maksimalna vrijednost: 132 smrtna slučaja od korone u 24 sata u Austriji; 4.669 novih infekcija",
+      "url" : "https://kurier.at/chronik/oesterreich/4669-corona-neuinfektionen-in-oesterreich-hoechstwert-mit-132-todesfaellen/401112633"
     }, {
-      "id" : "Vi50F3aq",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/65/crops/w=1280/765894_opener_266265_vbg_kulturpreis_2020___udo_mittelberger-5.jpg?s=799ff46674586df998ada731b9cdbb59cf3fc5fe",
-      "titleSource" : "Amos Postner gewinnt „Vorarlberger Kulturpreis“",
-      "titleTarget" : "Amos Postner dobitnik \"Nagrade za kulturu Vorarlberga\"",
-      "url" : "https://vorarlberg.orf.at/stories/3078058/"
+      "id" : "SzQ7oKpe",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/20/crops/w=1280/752869_opener_261420_gumo_201120_k_lernspiel_erfinderin_00_00_58_02.jpg?s=745f224d5818731ea4da163a4808ce650e7efbee",
+      "titleSource" : "Pädagogin entwickelt eigene Lernspiele",
+      "titleTarget" : "Pedagoginja razvija vlastite edukativne igre",
+      "url" : "https://kaernten.orf.at/stories/3075948/"
     }, {
-      "id" : "UKjEmMQ3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/50/crops/w=1280/751135_opener_260750_1.jpg?s=77463b03930ad32296ea71726f6f39b6ff1a8c93",
-      "titleSource" : "CoV-Massentests am 12. und 13. Dezember",
-      "titleTarget" : "Masovni testovi CoV 12. i 13. prosinca",
-      "url" : "https://noe.orf.at/stories/3078016/"
+      "id" : "AzClXp6h",
+      "imgUrl" : "https://image.kurier.at/images/original/4786635/46-168944199_gy3q3097.jpg",
+      "titleSource" : "Landbauer fordert weiter Nehammer-Rücktritt",
+      "titleTarget" : "Farmer i dalje zahtijeva Nehammerovu ostavku",
+      "url" : "https://kurier.at/chronik/oesterreich/landbauer-fordert-weiter-nehammer-ruecktritt/401112507"
     }, {
-      "id" : "FDLFDonC",
-      "imgUrl" : "https://image.kurier.at/images/original/4763712/illu_corona_statistik%20%283%29.png",
-      "titleSource" : "Reproduktionszahl in Österreich sank auf 0,87",
-      "titleTarget" : "Broj reprodukcija u Austriji pao je na 0,87",
-      "url" : "https://kurier.at/chronik/oesterreich/reproduktionszahl-in-oesterreich-sank-auf-087/401112255"
+      "id" : "gZfFakSB",
+      "imgUrl" : "https://image.kurier.at/images/original/4786890/46-168280196.jpg",
+      "titleSource" : "Österreichweite 7-Tages-Inzidenz: Das sind die Bezirke mit den meisten Fällen",
+      "titleTarget" : "7-dnevna incidencija za čitavu Austriju: Ovo su okruga s najviše slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreichweite-7-tages-inzidenz-das-sind-die-bezirke-mit-den-meisten-faellen/401111634"
     }, {
-      "id" : "RBaIXODn",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/02/crops/w=1280/765696_opener_266202_meldungsliste1.jpg?s=4fb51578e91904816c78c6669e6e29006e2c9a3a",
-      "titleSource" : "Jugendliche in Kirche entgingen möglicherweise Anschlag",
-      "titleTarget" : "Mladi ljudi u crkvi možda su izbjegli napad",
-      "url" : "https://wien.orf.at/stories/3078032/"
+      "id" : "QzZHEan8",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/07/crops/w=1280/766342_opener_266407_sch07005.jpg?s=39fcf19a6c5d372bd7694656cbc13c115f9fad53",
+      "titleSource" : "Mehrere Fucking-Wegweiser gestohlen",
+      "titleTarget" : "Ukradeno nekoliko jebenih putokaza",
+      "url" : "https://ooe.orf.at/stories/3078099/"
     }, {
-      "id" : "bkTWd2vP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/32/crops/w=1280/765783_opener_266232_absturzspieljoch2-002.jpg?s=f87d7e71d0fe54e3ff56f99ea6e4739cc762f4e5",
-      "titleSource" : "Tödlicher Absturz über 100 Meter im Rofangebirge",
-      "titleTarget" : "Koban pad preko 100 metara u planinama Rofan",
-      "url" : "https://tirol.orf.at/stories/3078052/"
+      "id" : "g9NTkMMu",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/04/27/crops/w=1280/441772_opener_146627_genre.jpg?s=d864fef04715ad25948d477c7055b17e6fb7757b",
+      "titleSource" : "Freizeitsportler und Wildtiere: Projekte für Umgang",
+      "titleTarget" : "Rekreativni sportaši i divlje životinje: projekti za rukovanje",
+      "url" : "https://salzburg.orf.at/stories/3078113/"
     }, {
-      "id" : "ZMQgkzbR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/89/crops/w=1280/765139_opener_265989_realto2.jpg?s=7d355342e3181ddbd97403ca3b33bfc17b133fce",
-      "titleSource" : "30 Jahre ReALTO – Hilfe für Arbeitslose",
-      "titleTarget" : "30 godina REALTO-a - pomoć nezaposlenima",
-      "url" : "https://burgenland.orf.at/stories/3077819/"
+      "id" : "jaxY77fN",
+      "imgUrl" : "https://image.kurier.at/images/original/4786824/46-172041091.jpg",
+      "titleSource" : "132 Corona-Tote und 4.669 Neuinfektionen an einem Tag; Durchhalte-Appell von Anschober",
+      "titleTarget" : "132 smrtna slučaja od korone i 4669 novih infekcija u jednom danu; Apel da se održi od Anschobera",
+      "url" : "https://kurier.at/chronik/oesterreich/usa-ueber-13-mio-infektionen-who-impfrate-von-70-prozent-fuer-herdenimmunitaet/401112531"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "riYxg8Ev",
-      "imgUrl" : "https://image.kurier.at/images/original/3297203/46-144058902.jpg",
-      "titleSource" : "Wiener Staatsoper: Netrebko, Beczala und Co. live – aber im Fernsehen",
-      "titleTarget" : "Bečka državna opera: Netrebko, Beczala i Co. uživo - ali na televiziji",
-      "url" : "https://kurier.at/kultur/wiener-staatsoper-netrebko-beczala-und-co-live-aber-im-fernsehen/401112234"
+      "id" : "Smyp0PIN",
+      "imgUrl" : "https://image.kurier.at/images/original/4024374/78350011452413660_BLD_Online.jpg",
+      "titleSource" : "Kogler: Neujahrskonzert 2021 wohl ohne Publikum",
+      "titleTarget" : "Kogler: Novogodišnji koncert 2021. vjerojatno bez publike",
+      "url" : "https://kurier.at/kultur/kogler-neujahrskonzert-2021-wohl-ohne-publikum/401112594"
     }, {
-      "id" : "uBUKtUCr",
-      "imgUrl" : "https://image.kurier.at/images/original/4785798/46-168704686.jpg",
-      "titleSource" : "Förderungen für Kulturinitiativen erhöht, Gutscheinlösung verlängert",
-      "titleTarget" : "Povećalo se financiranje kulturnih inicijativa, proširilo rješenje za vouchere",
-      "url" : "https://kurier.at/kultur/im-zuge-der-corona-krise-foerderungen-fuer-kulturinitiativen-erhoeht-gutscheinloesung-verlaengert/401112225"
+      "id" : "NU4iAL7u",
+      "imgUrl" : "https://image.kurier.at/images/original/4784112/46-167821463.jpg",
+      "titleSource" : "Buchkritik: Judit Kováts und \"Heimatlos\"",
+      "titleTarget" : "Prikaz knjige: Judit Kováts i \"Heimatlos\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-judit-kovats-und-heimatlos/401111430"
     }, {
-      "id" : "ZtRIKXfE",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/0/e/5903886/Dancing-Stars-2020_1606474644337848.jpg",
-      "titleSource" : "\"Dancing Stars\": Klaus Eberhartinger negativ getestet",
-      "titleTarget" : "\"Dancing Stars\": Klaus Eberhartinger bio je negativan",
-      "url" : "https://www.diepresse.com/5903886/Dancing-Stars_Klaus-Eberhartinger-negativ-getestet?from=rss"
-    }, {
-      "id" : "nsKBaR7c",
-      "imgUrl" : "https://image.kurier.at/images/original/4784115/46-167960372.jpg",
-      "titleSource" : "Buchkritik: Sylvain Prudhomme und \"Allerorten\"",
-      "titleTarget" : "Recenzija knjige: Sylvain Prudhomme i \"Allerorten\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-sylvain-prudhomme-und-allerorten/401111433"
-    }, {
-      "id" : "rPNfd0WM",
-      "imgUrl" : "https://image.kurier.at/images/original/4784628/46-166592062.jpg",
-      "titleSource" : "Schreibwettbewerb für Jugendliche: Unmut über den Klimawandel",
-      "titleTarget" : "Natjecanje za pisanje mladih: nezadovoljstvo klimatskim promjenama",
-      "url" : "https://kurier.at/kultur/schreibwettbewerb-fuer-jugendliche-unmut-ueber-den-klimawandel/401111712"
+      "id" : "ouNLJSPd",
+      "imgUrl" : "https://image.kurier.at/images/original/4786725/46-172103618.jpg",
+      "titleSource" : "Der ORF sucht eine Strategie: Alles für jeden",
+      "titleTarget" : "ORF traži strategiju: Sve za svakoga",
+      "url" : "https://kurier.at/kultur/medien/der-orf-sucht-seine-zukunft-alles-fuer-jeden/401112570"
     }, {
       "id" : "OEaEW7iX",
       "imgUrl" : "https://image.kurier.at/images/original/4784118/46-167790439.jpg",
@@ -173,11 +161,23 @@
       "titleTarget" : "Shakespeare ne može tek tako doručkovati",
       "url" : "https://kurier.at/kultur/buch/shakespeare-darf-nicht-einfach-so-fruehstuecken/401111427"
     }, {
-      "id" : "NU4iAL7u",
-      "imgUrl" : "https://image.kurier.at/images/original/4784112/46-167821463.jpg",
-      "titleSource" : "Buchkritik: Judit Kováts und \"Heimatlos\"",
-      "titleTarget" : "Prikaz knjige: Judit Kováts i \"Heimatlos\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-judit-kovats-und-heimatlos/401111430"
+      "id" : "xaboOUmu",
+      "imgUrl" : "https://image.kurier.at/images/original/4787247/46-163594556.jpg",
+      "titleSource" : "Lockdown: Kultur-Neustart in Berlin frühestens Mitte Jänner",
+      "titleTarget" : "Zaključavanje: Kultura ponovno pokrenuta u Berlinu najranije sredinom siječnja",
+      "url" : "https://kurier.at/kultur/lockdown-kultur-neustart-in-berlin-fruehestens-mitte-jaenner/401112855"
+    }, {
+      "id" : "HqZ2YRzZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4786131/46-170815561.jpg",
+      "titleSource" : "Henning May ist überzeugt: „Parolen alleine sind laut und leer“",
+      "titleTarget" : "Henning May uvjeren je: \"Samo parole su glasne i prazne\"",
+      "url" : "https://kurier.at/kultur/henning-may-ist-ueberzeugt-parolen-alleine-sind-laut-und-leer/401112342"
+    }, {
+      "id" : "GGOgrcEp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/3/d/5904445/7D6B0C41-129E-4784-BEFB-74351BA3C3A0_v0_h.jpg",
+      "titleSource" : "Mozarts \"Figaro\" im TV, im Netz und \"in neun Minuten\"",
+      "titleTarget" : "Mozartov \"Figaro\" na TV-u, na mreži i \"za devet minuta\"",
+      "url" : "https://www.diepresse.com/5904445/OpernTipp_Mozarts-Figaro-im-TV-im-Netz-und-in-neun-Minuten?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,42 +185,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "JUAHxO6C",
-      "imgUrl" : "https://image.kurier.at/images/original/4784871/46-165463547.jpg",
-      "titleSource" : "Michael Jordan spendete zwei Millionen Dollar für Hungerhilfe",
-      "titleTarget" : "Michael Jordan donirao je dva milijuna dolara za ublažavanje gladi",
-      "url" : "https://kurier.at/sport/basketball-legende-michael-jordan-spendete-zwei-millionen-dollar-fuer-hungerhilfe/401111841"
+      "id" : "63P62QVu",
+      "imgUrl" : "https://image.kurier.at/images/original/4785624/46-171914670.jpg",
+      "titleSource" : "Rapid gegen Austria: Der Fluch über dem Geister-Derby",
+      "titleTarget" : "Brzo protiv Austrije: Prokletstvo zbog derbija duhova",
+      "url" : "https://kurier.at/sport/fussball/rapid-gegen-austria-der-fluch-ueber-dem-geister-derby/401112153"
     }, {
-      "id" : "hNc20grX",
-      "titleSource" : "Hamilton hat Saisonrekord im Visier",
-      "titleTarget" : "Hamilton postavlja svoje znamenitosti na rekord sezone",
-      "url" : "https://sport.orf.at/stories/3069762/"
+      "id" : "24B8TCXv",
+      "imgUrl" : "https://image.kurier.at/images/original/4787061/46-154129774.jpg",
+      "titleSource" : "Nächste Corona-Fälle beim ÖSV: Kraft und Hayböck positiv getestet",
+      "titleTarget" : "Sljedeći slučajevi Corone na ÖSV: Kraft i Hayböck bili su pozitivni",
+      "url" : "https://kurier.at/sport/wintersport/naechste-corona-faelle-im-oesv-skisprunglager-stefan-kraft-und-michael-hayboeck-positiv-getestet/401112801"
     }, {
-      "id" : "Yq8rB9cB",
-      "titleSource" : "Pertl verpasst Parallel-Podest knapp",
-      "titleTarget" : "Pertl je upravo promašio paralelni podij",
-      "url" : "https://sport.orf.at/stories/3069913/"
+      "id" : "zrxKTjVo",
+      "imgUrl" : "https://image.kurier.at/images/original/4787052/46-169024893.jpg",
+      "titleSource" : "Corona-Cluster bei den Springern: ÖSV sieht Schuld in den Masken",
+      "titleTarget" : "Skupina korona među skakačima: ÖSV vidi krivnju u maskama",
+      "url" : "https://kurier.at/sport/wintersport/nach-corona-cluster-bei-oesv-adlern-kraft-hayboeck-und-co-sind-die-masken-schuld/401112906"
     }, {
-      "id" : "IVGhplLr",
-      "titleSource" : "Lamparter schrammt an Sensation vorbei",
-      "titleTarget" : "Lamparter propušta senzaciju",
-      "url" : "https://sport.orf.at/stories/3069882/"
+      "id" : "xnXvyuaH",
+      "titleSource" : "Hamilton holt Poleposition in Bahrain",
+      "titleTarget" : "Hamilton zauzima pole position u Bahreinu",
+      "url" : "https://sport.orf.at/stories/3069938/"
     }, {
-      "id" : "MdhEDFbv",
-      "titleSource" : "Staatsanwaltschaft untersucht Maradonas Tod",
-      "titleTarget" : "Tužitelj istražuje Maradoninu smrt",
-      "url" : "https://sport.orf.at/stories/3069922/"
+      "id" : "4alpL7mN",
+      "imgUrl" : "https://image.kurier.at/images/original/4786764/46-170554003.jpg",
+      "titleSource" : "Beckenbauer über Maradona: \"Hatte sein Leben nicht mehr im Griff\"",
+      "titleTarget" : "Beckenbauer o Maradoni: \"Njegov život više nije bio pod kontrolom\"",
+      "url" : "https://kurier.at/sport/fussball/franz-beckenbauer-nach-dem-tod-von-diego-maradona-hatte-sein-leben-nicht-mehr-im-griff/401112600"
     }, {
-      "id" : "qi256eCo",
-      "titleSource" : "Formel-3-Pilot filmt seine verrückte Raserei und erntet Shitstorm",
-      "titleTarget" : "Vozač Formule 3 snima svoje ludo ludilo i požnjeva usranu oluju",
-      "url" : "https://kurier.at/sport/motorsport/formel-3-fahrer-alessio-deledda-filmt-sich-bei-raser-fahrt-und-erntet-shitstorm/401112180"
+      "id" : "uAGd4XSZ",
+      "titleSource" : "Auch Kraft und Hayböck CoV-positiv",
+      "titleTarget" : "Pozitivni su i Kraft i Hayböck CoV",
+      "url" : "https://sport.orf.at/stories/3069947/"
     }, {
-      "id" : "8BUjfOda",
-      "imgUrl" : "https://image.kurier.at/images/original/4784691/46-171160396.jpg",
-      "titleSource" : "Starke Talentprobe: Kombinierer Lamparter in Ruka Zweiter",
-      "titleTarget" : "Jaki test nadarenosti: Kombinirani Lamparter drugi u Ruki",
-      "url" : "https://kurier.at/sport/wintersport/halbzeitfuehrung-fuer-19-jaehrigen-oesv-kombinierer/401111808"
+      "id" : "fpfFvxWo",
+      "titleSource" : "Sensationeller Sieg von Köln in Dortmund",
+      "titleTarget" : "Senzacionalna pobjeda Kölna u Dortmundu",
+      "url" : "https://sport.orf.at/stories/3069960/"
     } ]
   } ],
   "country" : "austria",
