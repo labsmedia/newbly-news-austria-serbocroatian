@@ -2,40 +2,47 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "zjEnzJkG",
-      "imgUrl" : "https://image.kurier.at/images/original/4788054/46-165519116.jpg",
-      "titleSource" : "Militär-Ärztin Sperandio: „Viele Kollegen haben die Gefahr gesehen“",
-      "titleTarget" : "Vojni liječnik Sperandio: \"Mnogi su kolege vidjeli opasnost\"",
-      "url" : "https://kurier.at/politik/inland/militaer-aerztin-sperandio-viele-kollegen-haben-die-gefahr-gesehen/401112987"
-    }, {
-      "id" : "u0piPvky",
-      "imgUrl" : "https://image.kurier.at/images/original/4785285/46-171884972.jpg",
-      "titleSource" : "Neuinfektionen sinken: Durchhalteappell von Anschober",
-      "titleTarget" : "Smanjuju se nove infekcije: Anschober poziva na ustrajnost",
-      "url" : "https://kurier.at/politik/inland/neuinfektionen-sinken-durchhalteappell-von-anschober/401112813"
-    }, {
-      "id" : "E7odYcos",
-      "imgUrl" : "https://image.kurier.at/images/original/4787262/20201128-ABD0075-1-1.jpg",
-      "titleSource" : "OÖ-Wahl 2021: Birgit Gerstorfer als 1. weibliche SPÖ-Spitzenkandidatin",
-      "titleTarget" : "Izbori za Gornju Austriju 2021: Birgit Gerstorfer kao prva ženska kandidatkinja za SPÖ",
-      "url" : "https://kurier.at/politik/inland/ooe-wahl-2021-birgit-gerstorfer-1-weiblichen-spoe-spitzenkandidatin/401112882"
-    }, {
       "id" : "9AsnXsBp",
       "imgUrl" : "https://image.kurier.at/images/original/4788939/46-170524228.jpg",
       "titleSource" : "Corona: Kurz rechnet weiter mit \"massiven Einschränkungen\"",
       "titleTarget" : "Corona: Kurz i dalje očekuje \"masovna ograničenja\"",
       "url" : "https://kurier.at/politik/inland/corona-kurz-rechnet-weiter-mit-massiven-einschraenkungen/401113179"
     }, {
-      "id" : "y6l4zSoG",
-      "titleSource" : "Regierung gibt über 14 Millionen für akute Nothilfe im Ausland",
-      "titleTarget" : "Vlada daje preko 14 milijuna za akutnu hitnu pomoć u inozemstvu",
-      "url" : "https://www.diepresse.com/5904623/Krisenherde_Regierung-gibt-ueber-14-Millionen-fuer-akute-Nothilfe?from=rss"
+      "id" : "RVopc9bd",
+      "imgUrl" : "https://image.kurier.at/images/original/4789365/46-170523609.jpg",
+      "titleSource" : "Anschober: \"Die Lage ist weiterhin sehr ernst\"",
+      "titleTarget" : "Anschober: \"Situacija je i dalje vrlo ozbiljna\"",
+      "url" : "https://kurier.at/politik/inland/anschober-die-lage-ist-weiterhin-sehr-ernst/401113335"
     }, {
-      "id" : "nm6Otd0j",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/4/4/5904452/6A420EE2-31EF-44C7-99FC-FB3FCEA37947_v0_h.jpg",
-      "titleSource" : "Gerstorfer als SPÖ-Chefin Oberösterreichs bestätigt",
-      "titleTarget" : "Gerstorfer potvrđen kao lider SPÖ-a u Gornjoj Austriji",
-      "url" : "https://www.diepresse.com/5904452/OnlineParteitag_Gerstorfer-als-SPOeChefin-Oberoesterreichs-bestaetigt?from=rss"
+      "id" : "zOLTLaSQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4789458/46-168445417.jpg",
+      "titleSource" : "Bundespräsident kritisiert EU-Sparkurs des Bundeskanzlers",
+      "titleTarget" : "Savezni predsjednik kritizira kancelorove mjere štednje u EU",
+      "url" : "https://kurier.at/politik/inland/bundespraesident-kritisiert-eu-sparkurs-des-bundeskanzlers/401113380"
+    }, {
+      "id" : "nUNGantY",
+      "imgUrl" : "https://image.kurier.at/images/original/4789191/46-165879900.jpg",
+      "titleSource" : "Schützenhöfer: \"Zweite Welle nicht richtig eingeschätzt\"",
+      "titleTarget" : "Schützenhöfer: \"Drugi val nije pravilno procijenjen\"",
+      "url" : "https://kurier.at/politik/inland/corona-schuetzenhoefer-zweite-welle-nicht-richtig-eingeschaetzt/401113248"
+    }, {
+      "id" : "NVw5b6n0",
+      "imgUrl" : "https://image.kurier.at/images/original/4717251/78350011457121502_BLD_Online.jpg",
+      "titleSource" : "Verteidigungsministerin Tanner positiv auf Corona getestet",
+      "titleTarget" : "Ministar obrane Tanner bio je pozitivan na Coronu",
+      "url" : "https://kurier.at/politik/inland/verteidigungsministerin-tanner-positiv-auf-corona-getestet/401113461"
+    }, {
+      "id" : "Vw5g05R1",
+      "imgUrl" : "https://image.kurier.at/images/original/4789353/46-168354060.jpg",
+      "titleSource" : "Massentests: Ablauf für Lehrer fixiert",
+      "titleTarget" : "Masovni testovi: raspored učitelja popravljen",
+      "url" : "https://kurier.at/politik/inland/massentests-ablauf-fuer-lehrer-fixiert/401113317"
+    }, {
+      "id" : "pI8suWFm",
+      "imgUrl" : "https://image.kurier.at/images/original/4790025/46-166906021.jpg",
+      "titleSource" : "Kein Einreisevisum zu Weihnachten",
+      "titleTarget" : "Za Božić nema ulazne vize",
+      "url" : "https://kurier.at/politik/inland/kein-einreisevisum-zu-weihnachten/401113515"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -45,12 +52,6 @@
       "titleSource" : "Corona-Frust unter Ein-Personen-Unternehmen",
       "titleTarget" : "Frustracija korone među tvrtkama s jednom osobom",
       "url" : "https://kurier.at/wirtschaft/karriere/corona-frust-unter-ein-personen-unternehmen/401110629"
-    }, {
-      "id" : "4yF3vYbP",
-      "imgUrl" : "https://image.kurier.at/images/original/4279142/78370011354327186_BLD_Online.jpg",
-      "titleSource" : "Wirtschaftskammer: Ermittlungen wegen möglichem Wahlbetrug",
-      "titleTarget" : "Gospodarska komora: istraga o mogućoj izbornoj prijevari",
-      "url" : "https://kurier.at/wirtschaft/wirtschaftskammer-ermittlungen-wegen-moeglichem-wahlbetrug/401112786"
     }, {
       "id" : "SdE7PP2o",
       "imgUrl" : "https://image.kurier.at/images/original/4782768/46-170455142.jpg",
@@ -64,68 +65,72 @@
       "titleTarget" : "Vienna Insurance Group proširuje svoju poziciju u srednjoj i istočnoj Europi",
       "url" : "https://kurier.at/wirtschaft/vienna-insurance-group-baut-stellung-in-zentral-und-osteuropa-aus/401113203"
     }, {
-      "id" : "GxcZT4zz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/0/5/5904645/71CB8A0B-BCFE-489F-A57E-307FE7775BDF_v0_l.jpg",
-      "titleSource" : "VIG stärkt Osteuropa-Geschäft mit Zukauf um 830 Millionen Euro",
-      "titleTarget" : "VIG jača istočnoeuropsko poslovanje akvizicijom za 830 milijuna eura",
-      "url" : "https://www.diepresse.com/5904645/Uebernahme_VIG-staerkt-OsteuropaGeschaeft-mit-Zukauf-um-830?from=rss"
+      "id" : "aB9N6aWm",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/9/8/c/5904780/FILE-PHOTO-Skiers-sit-in-a-chairlift-at-Schlick-2000-ski-resort-near-Neustift-im-Stubaital_1606664400053236.jpg",
+      "titleSource" : "Regierung vor Entscheidung über Ski-Lockdown",
+      "titleTarget" : "Vlada će odlučiti o zaključavanju skija",
+      "url" : "https://www.diepresse.com/5904780/Coronakrise_Regierung-vor-Entscheidung-ueber-SkiLockdown?from=rss"
     }, {
-      "id" : "Fj3Py9O3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/e/e/5904622/EFC3A1B2-4942-4FC8-A737-2871254B4899_v0_l.jpg",
-      "titleSource" : "Fördermittel für Solarstrom beinahe ausgeschöpft",
-      "titleTarget" : "Financiranje solarne energije gotovo je iscrpljeno",
-      "url" : "https://www.diepresse.com/5904622/Klilmaschutz_Foerdermittel-fuer-Solarstrom-beinahe-ausgeschoepft?from=rss"
+      "id" : "dvIfV1hc",
+      "imgUrl" : "https://image.kurier.at/images/original/4789452/46-165379893.jpg",
+      "titleSource" : "Dow Jones & Co: Was ist nur an den US-Börsen los?",
+      "titleTarget" : "Dow Jones & Co: Što se događa na američkim burzama?",
+      "url" : "https://kurier.at/wirtschaft/dow-jones-co-was-ist-nur-an-den-us-boersen-los/401113362"
     }, {
-      "id" : "hkJnTYWj",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/7/e/8/5904360/F67F7579-2F43-4CE4-8BAF-2272E3326873_v0_l.jpg",
-      "titleSource" : "Commerzialbank Mattersburg: \"Beschenkte\" sollen in U-Ausschuss",
-      "titleTarget" : "Commerzialbank Mattersburg: \"Primatelji poklona\" trebaju biti u U-odboru",
-      "url" : "https://www.diepresse.com/5904360/Burgenland_Commerzialbank-Mattersburg_Beschenkte-sollen-in?from=rss"
+      "id" : "htBLbFbi",
+      "titleSource" : "Kritik an Geld für Kohle",
+      "titleTarget" : "Kritika novca za ugljen",
+      "url" : "https://www.diepresse.com/5904782/Kritik-an-Geld-fuer-Kohle?from=rss"
+    }, {
+      "id" : "cY9U9xMI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/9/8/5/5904773/C8DE7748-75D8-426C-9387-4010AF24900F_1606662566507398.jpg",
+      "titleSource" : "Irritation über Geldwünsche der BWB",
+      "titleTarget" : "Iritacija zbog zahtjeva za novac od BWB-a",
+      "url" : "https://www.diepresse.com/5904773/Studie_Irritation-ueber-Geldwuensche-der-BWB?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "OLB0IhZR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/53/crops/w=1280/766785_opener_266553_pflege2ashx.jpg?s=4a79fad7514282a66674f71ba72a249fe97b714c",
-      "titleSource" : "Pflege auf der CoV-Station: „Unglaubliche Belastung“",
-      "titleTarget" : "Njega na CoV stanici: \"Nevjerojatno opterećenje\"",
-      "url" : "https://vorarlberg.orf.at/stories/3078162/"
+      "id" : "Zokb7wgT",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/44/crops/w=1280/762481_opener_264944_skiing-4835024_1920.jpg?s=2912f90b475c97084fe9b33695efbbce36370705",
+      "titleSource" : "Wallner hofft auf Öffnung der Skigebiete",
+      "titleTarget" : "Wallner se nada da će se skijaška područja otvoriti",
+      "url" : "https://vorarlberg.orf.at/stories/3078212/"
     }, {
-      "id" : "qjKLJcWS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/29/64/crops/w=1280/624743_opener_214464_1.jpg?s=eed4ca574d7f0ecf164cfdde241833f561fafc3e",
-      "titleSource" : "Gratis-Grippeimpfung für Lehrer verschoben",
-      "titleTarget" : "Odgođena besplatna vakcina protiv gripe za učitelje",
-      "url" : "https://noe.orf.at/stories/3078145/"
+      "id" : "ZuEPh2oy",
+      "titleSource" : "Polizei löste Treffen mit FPÖ-Politiker auf",
+      "titleTarget" : "Policija je prekinula sastanke s političarima FPÖ-a",
+      "url" : "https://noe.orf.at/stories/3078260/"
     }, {
-      "id" : "imzUgYVA",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/13/crops/w=1280/766351_opener_266413_tmb_pgm_00_07_09_01.jpg?s=748781c37c7f43f316dece8613d207f822cf55f8",
-      "titleSource" : "Ngosso für Migrantenquote in Führungsjobs",
-      "titleTarget" : "Ngosso za kvotu migranata na rukovodećim poslovima",
-      "url" : "https://wien.orf.at/stories/3078108/"
+      "id" : "EpKHMnUt",
+      "imgUrl" : "https://image.kurier.at/images/original/4789374/46-168709966.jpg",
+      "titleSource" : "Kurz rechnet weiter mit \"massiven Einschränkungen\"; Anschober: \"Lage noch immer sehr ernst\"",
+      "titleTarget" : "Kurz i dalje očekuje \"masovna ograničenja\"; Anschober: \"Situacija je i dalje vrlo ozbiljna\"",
+      "url" : "https://kurier.at/chronik/oesterreich/neuwirth-zahlen-fuer-ende-des-lockdowns-zu-hoch-durchhalte-appell-von-anschober/401113098"
     }, {
-      "id" : "192Nz4uB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/48/crops/w=1280/763742_opener_265448_img_5648.jpg?s=b58fbd6b82ea30c130a968ebf2004ce60d118b63",
-      "titleSource" : "Briefträger werden zu Paketträgern",
-      "titleTarget" : "Poštari postaju prijevoznici paketa",
-      "url" : "https://noe.orf.at/stories/3077693/"
+      "id" : "0CDHabyP",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/25/36/crops/w=1280/189865_opener_50036_45630_pflege2.jpg?s=9acdd9a219f0ad9850a7aad3a6c456f355eba564",
+      "titleSource" : "800 Arbeitslose zu Pflegekräften ausgebildet",
+      "titleTarget" : "800 nezaposlenih ljudi školovano za njegovatelje",
+      "url" : "https://vorarlberg.orf.at/stories/3078181/"
     }, {
-      "id" : "lzTfXnIm",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/91/crops/w=1280/765691_opener_266191_bundesbadaltedonau4stephan_doleschal.jpg?s=4563d69ebab265e6995dc50b30d3c27430942628",
-      "titleSource" : "Fotoprojekt: Auf der Suche nach Relikten",
-      "titleTarget" : "Foto projekt: U potrazi za relikvijama",
-      "url" : "https://wien.orf.at/stories/3078035/"
+      "id" : "9Y70mpX4",
+      "imgUrl" : "https://image.kurier.at/images/original/4789305/46-168795025.jpg",
+      "titleSource" : "Erster Schnee im Flachland: Ab Dienstag wird es winterlich",
+      "titleTarget" : "Prvi snijeg u nizinama: Od utorka će biti zimi",
+      "url" : "https://kurier.at/chronik/oesterreich/erster-schnee-im-flachland-ab-dienstag-wird-es-winterlich/401113296"
     }, {
-      "id" : "dEMoXnT1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/41/05/crops/w=1280/765711_opener_102005_themenbild_weihnachtsmarkt_weihnachten_christkindlmarkt_advent_.jpg?s=e39b80bf0ec1d29d962872e0dd72d2251457e77b",
-      "titleSource" : "CoV: Christkindlmärkte gehen online",
-      "titleTarget" : "CoV: Božićne tržnice izlaze na mrežu",
-      "url" : "https://wien.orf.at/stories/3078040/"
+      "id" : "fea5JAUS",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/39/02/crops/w=1280/692570_opener_239202_6a2a8887.jpg?s=f1def06068611288bbc90702ab3d8dc5c2e1dfc0",
+      "titleSource" : "Frau auf Großem Pyhrgas tödlich verunglückt",
+      "titleTarget" : "Žena u fatalnoj nesreći na Velikom Pyhrgasu",
+      "url" : "https://ooe.orf.at/stories/3078177/"
     }, {
-      "id" : "TnzZmbaH",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/39/crops/w=1280/765531_opener_266139_bh1_neu_abd0052_2.jpg?s=66850299df2ee8e304cc575c0aec0f81dea0b9e2",
-      "titleSource" : "Verzögerung bei Massentests wegen EDV",
-      "titleTarget" : "Kašnjenje u testovima mase zbog IT-a",
-      "url" : "https://wien.orf.at/stories/3078118/"
+      "id" : "VUm2qyZ3",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Corona: 4.047 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: 4.047 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-4047-neuinfektionen-in-oesterreich/401113170"
     } ]
   }, {
     "category" : "CULTURE",
@@ -154,11 +159,11 @@
       "titleTarget" : "\"Mjesto zločina\" obljetnice: Stanovnici Münchena i Dortmunda u pedantnoj mafijaškoj drami",
       "url" : "https://kurier.at/kultur/jubilaeums-tatort-muenchner-und-dortmunder-in-minutioesem-mafiadrama/401112852"
     }, {
-      "id" : "xaboOUmu",
-      "imgUrl" : "https://image.kurier.at/images/original/4787247/46-163594556.jpg",
-      "titleSource" : "Lockdown: Kultur-Neustart in Berlin frühestens Mitte Jänner",
-      "titleTarget" : "Zaključavanje: Kultura ponovno pokrenuta u Berlinu najranije sredinom siječnja",
-      "url" : "https://kurier.at/kultur/lockdown-kultur-neustart-in-berlin-fruehestens-mitte-jaenner/401112855"
+      "id" : "4dBRTD97",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/8/a/5904778/WIENER-PHILHARMONIKER-NEUJAHRSKONZERT-2019-THIELEMANN_1606663682984370.jpg",
+      "titleSource" : "Wiener Philharmoniker: Pflegen der Tradition auch im Lockdown",
+      "titleTarget" : "Bečka filharmonija: Održavanje tradicije čak i u zaključanom položaju",
+      "url" : "https://www.diepresse.com/5904778/Wiener-Philharmoniker_Pflegen-der-Tradition-auch-im-Lockdown?from=rss"
     }, {
       "id" : "1gflLepX",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/6/5904486/70435E8C-78B2-40BB-B273-0F7C7FD8BDD9_v0_h.jpg",
@@ -178,45 +183,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "zrxKTjVo",
-      "imgUrl" : "https://image.kurier.at/images/original/4787052/46-169024893.jpg",
-      "titleSource" : "Corona-Cluster bei den Springern: ÖSV sieht Schuld in den Masken",
-      "titleTarget" : "Skupina korona među skakačima: ÖSV vidi krivnju u maskama",
-      "url" : "https://kurier.at/sport/wintersport/nach-corona-cluster-bei-oesv-adlern-kraft-hayboeck-und-co-sind-die-masken-schuld/401112906"
+      "id" : "GMDiRJAs",
+      "imgUrl" : "https://image.kurier.at/images/original/4790070/46-173236722.jpg",
+      "titleSource" : "Formel 1: Horror-Crash von Grosjean, nächster Sieg für Hamilton",
+      "titleTarget" : "Formula 1: Grosjean horor krah, sljedeća pobjeda Hamiltona",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-horror-crash-ueberschattet-grand-prix-in-bahrain/401113392"
     }, {
-      "id" : "24B8TCXv",
-      "imgUrl" : "https://image.kurier.at/images/original/4787061/46-154129774.jpg",
-      "titleSource" : "Nächste Corona-Fälle beim ÖSV: Kraft und Hayböck positiv getestet",
-      "titleTarget" : "Sljedeći slučajevi Corone na ÖSV: Kraft i Hayböck bili su pozitivni",
-      "url" : "https://kurier.at/sport/wintersport/naechste-corona-faelle-im-oesv-skisprunglager-stefan-kraft-und-michael-hayboeck-positiv-getestet/401112801"
+      "id" : "md9KuwYj",
+      "titleSource" : "Erste Frau kickt für Topcollege",
+      "titleTarget" : "Prva žena šutira za vrhunski fakultet",
+      "url" : "https://sport.orf.at/stories/3069990/"
     }, {
-      "id" : "c67KTJsi",
-      "imgUrl" : "https://image.kurier.at/images/original/4788213/46-172933402.jpg",
-      "titleSource" : "Torfestival in St. Pölten: Salzburg schoss sich Frust von der Seele",
-      "titleTarget" : "Torfestival u St. Pöltenu: Salzburg je pucao iz duše",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-salzburg-feiert-torfestival-bei-st-poelten-admira-mit-remis-sieg-fuer-sturm/401112627"
+      "id" : "RPA66Oj6",
+      "titleSource" : "CoV beeinträchtigt ÖBV-Herren in EM-Quali",
+      "titleTarget" : "CoV utječe na ÖBV muškarce u kvalifikacijama za EM",
+      "url" : "https://sport.orf.at/stories/3069809/"
     }, {
-      "id" : "FV7kbfP2",
-      "titleSource" : "Salzburger Torgala gegen St. Pölten",
-      "titleTarget" : "Salzburg Torgala protiv St. Pöltena",
-      "url" : "https://sport.orf.at/stories/3069964/"
+      "id" : "ehd44X5T",
+      "titleSource" : "Formel 1 entgeht Katastrophe",
+      "titleTarget" : "Formula 1 bježi od katastrofe",
+      "url" : "https://sport.orf.at/stories/3069983/"
     }, {
-      "id" : "fpfFvxWo",
-      "titleSource" : "Sensationeller Sieg von Köln in Dortmund",
-      "titleTarget" : "Senzacionalna pobjeda Kölna u Dortmundu",
-      "url" : "https://sport.orf.at/stories/3069960/"
+      "id" : "xfh9uvqT",
+      "titleSource" : "Stadlober in Ruka-Triple auf Rang 16",
+      "titleTarget" : "Stadlober u Ruka-Tripleu na 16. mjestu",
+      "url" : "https://sport.orf.at/stories/3069994/"
     }, {
-      "id" : "8jqySBn2",
-      "imgUrl" : "https://image.kurier.at/images/original/4786983/46-153923960.jpg",
-      "titleSource" : "Premiere der Kombiniererinnen: Ramsau übernimmt ersten Frauen-Bewerb",
-      "titleTarget" : "Premijera kombinacija žena: Ramsau preuzima prvo žensko natjecanje",
-      "url" : "https://kurier.at/sport/wintersport/premiere-der-kombiniererinnen-ramsau-uebernimmt-ersten-frauen-bewerb/401112756"
+      "id" : "lFxsv1z0",
+      "titleSource" : "Steu/Koller packen zweiten Igls-Sieg drauf",
+      "titleTarget" : "Steu / Koller spakiraju drugu pobjedu Iglsa",
+      "url" : "https://sport.orf.at/stories/3070002/"
     }, {
-      "id" : "1VBd7a1Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4788918/46-168118545.jpg",
-      "titleSource" : "NBA: Kobe Bryant wird im Mai in die Hall of Fame aufgenommen",
-      "titleTarget" : "NBA: Kobe Bryant primljen u Kuću slavnih u svibnju",
-      "url" : "https://kurier.at/sport/nba-kobe-bryant-wird-nach-toedlichem-unglueck-im-mai-in-die-hall-of-fame-aufgenommen/401113149"
+      "id" : "W0AMJcPU",
+      "titleSource" : "Eggestein lässt LASK gegen Altach jubeln",
+      "titleTarget" : "Eggestein dopušta LASK-u da navija protiv Altacha",
+      "url" : "https://sport.orf.at/stories/3069998/"
     } ]
   } ],
   "country" : "austria",
