@@ -53,6 +53,12 @@
       "titleTarget" : "Frustracija korone među tvrtkama s jednom osobom",
       "url" : "https://kurier.at/wirtschaft/karriere/corona-frust-unter-ein-personen-unternehmen/401110629"
     }, {
+      "id" : "dvIfV1hc",
+      "imgUrl" : "https://image.kurier.at/images/original/4789452/46-165379893.jpg",
+      "titleSource" : "Dow Jones & Co: Was ist nur an den US-Börsen los?",
+      "titleTarget" : "Dow Jones & Co: Što se događa na američkim burzama?",
+      "url" : "https://kurier.at/wirtschaft/dow-jones-co-was-ist-nur-an-den-us-boersen-los/401113362"
+    }, {
       "id" : "SdE7PP2o",
       "imgUrl" : "https://image.kurier.at/images/original/4782768/46-170455142.jpg",
       "titleSource" : "Architekturbüro Ole Scheeren: Mann der  Superlative",
@@ -71,12 +77,6 @@
       "titleTarget" : "Vlada će odlučiti o zaključavanju skija",
       "url" : "https://www.diepresse.com/5904780/Coronakrise_Regierung-vor-Entscheidung-ueber-SkiLockdown?from=rss"
     }, {
-      "id" : "dvIfV1hc",
-      "imgUrl" : "https://image.kurier.at/images/original/4789452/46-165379893.jpg",
-      "titleSource" : "Dow Jones & Co: Was ist nur an den US-Börsen los?",
-      "titleTarget" : "Dow Jones & Co: Što se događa na američkim burzama?",
-      "url" : "https://kurier.at/wirtschaft/dow-jones-co-was-ist-nur-an-den-us-boersen-los/401113362"
-    }, {
       "id" : "htBLbFbi",
       "titleSource" : "Kritik an Geld für Kohle",
       "titleTarget" : "Kritika novca za ugljen",
@@ -91,16 +91,21 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Zokb7wgT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/44/crops/w=1280/762481_opener_264944_skiing-4835024_1920.jpg?s=2912f90b475c97084fe9b33695efbbce36370705",
-      "titleSource" : "Wallner hofft auf Öffnung der Skigebiete",
-      "titleTarget" : "Wallner se nada da će se skijaška područja otvoriti",
-      "url" : "https://vorarlberg.orf.at/stories/3078212/"
+      "id" : "zzJD2mxF",
+      "titleSource" : "Illegaler Fleischverkauf in Garage",
+      "titleTarget" : "Nelegalna prodaja mesa u garaži",
+      "url" : "https://kaernten.orf.at/stories/3078267/"
     }, {
       "id" : "ZuEPh2oy",
       "titleSource" : "Polizei löste Treffen mit FPÖ-Politiker auf",
       "titleTarget" : "Policija je prekinula sastanke s političarima FPÖ-a",
       "url" : "https://noe.orf.at/stories/3078260/"
+    }, {
+      "id" : "5St9FNRI",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/02/crops/w=1280/767446_opener_266802_mariazell2.jpg?s=5f4eaddc77e174d02c55f1430b9b3604b897afee",
+      "titleSource" : "Riesiger Adventkranz ziert Mariazell",
+      "titleTarget" : "Ogromni adventski vijenac krasi Mariazell",
+      "url" : "https://steiermark.orf.at/stories/3078245/"
     }, {
       "id" : "EpKHMnUt",
       "imgUrl" : "https://image.kurier.at/images/original/4789374/46-168709966.jpg",
@@ -108,39 +113,27 @@
       "titleTarget" : "Kurz i dalje očekuje \"masovna ograničenja\"; Anschober: \"Situacija je i dalje vrlo ozbiljna\"",
       "url" : "https://kurier.at/chronik/oesterreich/neuwirth-zahlen-fuer-ende-des-lockdowns-zu-hoch-durchhalte-appell-von-anschober/401113098"
     }, {
-      "id" : "0CDHabyP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/25/36/crops/w=1280/189865_opener_50036_45630_pflege2.jpg?s=9acdd9a219f0ad9850a7aad3a6c456f355eba564",
-      "titleSource" : "800 Arbeitslose zu Pflegekräften ausgebildet",
-      "titleTarget" : "800 nezaposlenih ljudi školovano za njegovatelje",
-      "url" : "https://vorarlberg.orf.at/stories/3078181/"
-    }, {
       "id" : "9Y70mpX4",
       "imgUrl" : "https://image.kurier.at/images/original/4789305/46-168795025.jpg",
       "titleSource" : "Erster Schnee im Flachland: Ab Dienstag wird es winterlich",
       "titleTarget" : "Prvi snijeg u nizinama: Od utorka će biti zimi",
       "url" : "https://kurier.at/chronik/oesterreich/erster-schnee-im-flachland-ab-dienstag-wird-es-winterlich/401113296"
     }, {
-      "id" : "fea5JAUS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/39/02/crops/w=1280/692570_opener_239202_6a2a8887.jpg?s=f1def06068611288bbc90702ab3d8dc5c2e1dfc0",
-      "titleSource" : "Frau auf Großem Pyhrgas tödlich verunglückt",
-      "titleTarget" : "Žena u fatalnoj nesreći na Velikom Pyhrgasu",
-      "url" : "https://ooe.orf.at/stories/3078177/"
+      "id" : "JIHkqlfV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/78/crops/w=1280/767375_opener_266778_ritzing_1.jpg?s=44a16e2010f397f6777f91d5f9072137a993e97b",
+      "titleSource" : "Ritzinger stimmen für Nutzungsvertrag für Pfadfinder",
+      "titleTarget" : "Ritzinger glasa za ugovor o licenci za izviđače",
+      "url" : "https://burgenland.orf.at/stories/3078247/"
     }, {
-      "id" : "VUm2qyZ3",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: 4.047 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: 4.047 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-4047-neuinfektionen-in-oesterreich/401113170"
+      "id" : "92clBOSA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/35/crops/w=1280/764029_opener_265535_img_1852.jpg?s=d574c992b41cac6fdc92c73c38f178bd79316750",
+      "titleSource" : "Ex-Lehrer erfüllt sich Traum als Schlossbesitzer",
+      "titleTarget" : "Bivša učiteljica ispunjava san o posjedovanju dvorca",
+      "url" : "https://noe.orf.at/stories/3072064/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "gNp9m6dD",
-      "imgUrl" : "https://image.kurier.at/images/original/4788318/46-167655658.jpg",
-      "titleSource" : "Nach Coronainfektion: Nadja Bernhard moderiert wieder",
-      "titleTarget" : "Nakon infekcije koronom: Nadja Bernhard ponovno moderira",
-      "url" : "https://kurier.at/kultur/medien/nach-coronainfektion-nadja-bernhard-moderiert-wieder/401113035"
-    }, {
       "id" : "aV0eCUqM",
       "imgUrl" : "https://image.kurier.at/images/original/4788852/46-74974850.jpg",
       "titleSource" : "David Prowse: Darth-Vader-Darsteller ist 85-jährig gestorben",
@@ -170,12 +163,6 @@
       "titleSource" : "Ein trauriger Mafia-Fall zum \"Tatort\"-Jubiläum",
       "titleTarget" : "Tužan slučaj mafije za godišnjicu \"Tatort\"",
       "url" : "https://www.diepresse.com/5904486/TVNotiz_Ein-trauriger-MafiaFall-zum-TatortJubilaeum?from=rss"
-    }, {
-      "id" : "e2a1CvCy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/9/d/5904541/05A2BA9B-CDCF-4E14-88C6-95CA99EBCF06_v0_l.jpg",
-      "titleSource" : "Ein Buch, das ärgert und ablenkt",
-      "titleTarget" : "Knjiga koja živcira i odvlači pažnju",
-      "url" : "https://www.diepresse.com/5904541/Neuerscheinung_Ein-Buch-das-aergert-und-ablenkt?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -189,35 +176,38 @@
       "titleTarget" : "Formula 1: Grosjean horor krah, sljedeća pobjeda Hamiltona",
       "url" : "https://kurier.at/sport/motorsport/formel-1-horror-crash-ueberschattet-grand-prix-in-bahrain/401113392"
     }, {
-      "id" : "md9KuwYj",
-      "titleSource" : "Erste Frau kickt für Topcollege",
-      "titleTarget" : "Prva žena šutira za vrhunski fakultet",
-      "url" : "https://sport.orf.at/stories/3069990/"
-    }, {
-      "id" : "RPA66Oj6",
-      "titleSource" : "CoV beeinträchtigt ÖBV-Herren in EM-Quali",
-      "titleTarget" : "CoV utječe na ÖBV muškarce u kvalifikacijama za EM",
-      "url" : "https://sport.orf.at/stories/3069809/"
-    }, {
       "id" : "ehd44X5T",
       "titleSource" : "Formel 1 entgeht Katastrophe",
       "titleTarget" : "Formula 1 bježi od katastrofe",
       "url" : "https://sport.orf.at/stories/3069983/"
     }, {
-      "id" : "xfh9uvqT",
-      "titleSource" : "Stadlober in Ruka-Triple auf Rang 16",
-      "titleTarget" : "Stadlober u Ruka-Tripleu na 16. mjestu",
-      "url" : "https://sport.orf.at/stories/3069994/"
+      "id" : "VJKJhESj",
+      "imgUrl" : "https://image.kurier.at/images/original/4787559/46-166321176.jpg",
+      "titleSource" : "Kein Ski-Weltcup in Kanada: Warum die Absage richtig war",
+      "titleTarget" : "Nema skijaškog svjetskog kupa u Kanadi: Zašto je otkazivanje bilo točno",
+      "url" : "https://kurier.at/sport/wintersport/kein-ski-weltcup-in-kanada-wegen-corona-warum-die-absage-richtig-war/401112894"
     }, {
-      "id" : "lFxsv1z0",
-      "titleSource" : "Steu/Koller packen zweiten Igls-Sieg drauf",
-      "titleTarget" : "Steu / Koller spakiraju drugu pobjedu Iglsa",
-      "url" : "https://sport.orf.at/stories/3070002/"
+      "id" : "4PPDaPFb",
+      "imgUrl" : "https://image.kurier.at/images/original/4789719/46-168620894.jpg",
+      "titleSource" : "Nach Tod Maradonas: Leibarzt der fahrlässigen Tötung beschuldigt",
+      "titleTarget" : "Nakon Maradonine smrti: osobni liječnik optužen za ubojstvo iz nehaja",
+      "url" : "https://kurier.at/sport/fussball/nach-tod-diego-maradonas-leibarzt-leopoldo-luque-der-fahrlaessigen-toetung-beschuldigt/401113401"
+    }, {
+      "id" : "VHM1fZ9l",
+      "imgUrl" : "https://image.kurier.at/images/original/4790043/46-173239868.jpg",
+      "titleSource" : "Rapids Heimfluch hält an: Derby gegen die Austria endet 1:1",
+      "titleTarget" : "Rapids Heimfluch nastavlja: Derbi protiv Austrije završava 1: 1",
+      "url" : "https://kurier.at/sport/fussball/11-im-wiener-derby-rapid-gegen-austria-bleibt-ohne-sieger/401113161"
     }, {
       "id" : "W0AMJcPU",
       "titleSource" : "Eggestein lässt LASK gegen Altach jubeln",
       "titleTarget" : "Eggestein dopušta LASK-u da navija protiv Altacha",
       "url" : "https://sport.orf.at/stories/3069998/"
+    }, {
+      "id" : "lFxsv1z0",
+      "titleSource" : "Steu/Koller packen zweiten Igls-Sieg drauf",
+      "titleTarget" : "Steu / Koller spakiraju drugu pobjedu Iglsa",
+      "url" : "https://sport.orf.at/stories/3070002/"
     } ]
   } ],
   "country" : "austria",
