@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "9AsnXsBp",
-      "imgUrl" : "https://image.kurier.at/images/original/4788939/46-170524228.jpg",
-      "titleSource" : "Corona: Kurz rechnet weiter mit \"massiven Einschränkungen\"",
-      "titleTarget" : "Corona: Kurz i dalje očekuje \"masovna ograničenja\"",
-      "url" : "https://kurier.at/politik/inland/corona-kurz-rechnet-weiter-mit-massiven-einschraenkungen/401113179"
+      "id" : "7uBMEvdk",
+      "imgUrl" : "https://image.kurier.at/images/original/3271568/46-143253022.jpg",
+      "titleSource" : "Irmgard Griss: Impfpflicht werde \"die einzige Lösung sein\"",
+      "titleTarget" : "Irmgard Griss: Obvezno cijepljenje bit će \"jedino rješenje\"",
+      "url" : "https://kurier.at/politik/inland/irmgard-griss-impfpflicht-werde-die-einzige-loesung-sein/401113611"
     }, {
       "id" : "RVopc9bd",
       "imgUrl" : "https://image.kurier.at/images/original/4789365/46-170523609.jpg",
@@ -32,26 +32,26 @@
       "titleTarget" : "Ministar obrane Tanner bio je pozitivan na Coronu",
       "url" : "https://kurier.at/politik/inland/verteidigungsministerin-tanner-positiv-auf-corona-getestet/401113461"
     }, {
+      "id" : "40s12D4k",
+      "imgUrl" : "https://image.kurier.at/images/original/4789365/46-170523609.jpg",
+      "titleSource" : "Anschober: 2.748 Neunifizierte, Stopp Corona App \"tut nicht weh\"",
+      "titleTarget" : "Anschober: 2.748 pridošlica, zaustavite aplikaciju Corona \"ne boli\"",
+      "url" : "https://kurier.at/politik/inland/aktuelle-corona-lage-anschober-appelliert-fuer-app/401113767"
+    }, {
       "id" : "Vw5g05R1",
       "imgUrl" : "https://image.kurier.at/images/original/4789353/46-168354060.jpg",
       "titleSource" : "Massentests: Ablauf für Lehrer fixiert",
       "titleTarget" : "Masovni testovi: raspored učitelja popravljen",
       "url" : "https://kurier.at/politik/inland/massentests-ablauf-fuer-lehrer-fixiert/401113317"
-    }, {
-      "id" : "pI8suWFm",
-      "imgUrl" : "https://image.kurier.at/images/original/4790025/46-166906021.jpg",
-      "titleSource" : "Kein Einreisevisum zu Weihnachten",
-      "titleTarget" : "Za Božić nema ulazne vize",
-      "url" : "https://kurier.at/politik/inland/kein-einreisevisum-zu-weihnachten/401113515"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "T9r44bbg",
-      "imgUrl" : "https://image.kurier.at/images/original/4784004/46-168979816.jpg",
-      "titleSource" : "Corona-Frust unter Ein-Personen-Unternehmen",
-      "titleTarget" : "Frustracija korone među tvrtkama s jednom osobom",
-      "url" : "https://kurier.at/wirtschaft/karriere/corona-frust-unter-ein-personen-unternehmen/401110629"
+      "id" : "xWWCkKKW",
+      "imgUrl" : "https://image.kurier.at/images/original/4789464/46-172102994.png",
+      "titleSource" : "Commerzialbank: Streit um die Verwertung der Patentrechte",
+      "titleTarget" : "Commerzialbank: spor oko iskorištavanja patentnih prava",
+      "url" : "https://kurier.at/wirtschaft/commerzialbank-streit-um-die-verwertung-der-patentrechte/401113374"
     }, {
       "id" : "dvIfV1hc",
       "imgUrl" : "https://image.kurier.at/images/original/4789452/46-165379893.jpg",
@@ -59,34 +59,35 @@
       "titleTarget" : "Dow Jones & Co: Što se događa na američkim burzama?",
       "url" : "https://kurier.at/wirtschaft/dow-jones-co-was-ist-nur-an-den-us-boersen-los/401113362"
     }, {
-      "id" : "SdE7PP2o",
-      "imgUrl" : "https://image.kurier.at/images/original/4782768/46-170455142.jpg",
-      "titleSource" : "Architekturbüro Ole Scheeren: Mann der  Superlative",
-      "titleTarget" : "Arhitektonska firma Ole Scheeren: čovjek superlativa",
-      "url" : "https://kurier.at/wirtschaft/immobiz/architekturbuero-ole-scheeren-mann-der-superlative/401110797"
+      "id" : "T9uRqF0n",
+      "imgUrl" : "https://image.kurier.at/images/original/1406823/amazon_de_streik_epa.jpg",
+      "titleSource" : "Erneut Streik an deutschem Amazon-Standort Bad Hersfeld",
+      "titleTarget" : "Još jedan štrajk na njemačkom mjestu Amazon u Bad Hersfeldu",
+      "url" : "https://kurier.at/wirtschaft/erneut-streik-an-deutschem-amazon-standort-bad-hersfeld/401113848"
     }, {
-      "id" : "0oZt9atO",
-      "imgUrl" : "https://image.kurier.at/images/original/4788960/46-167023444.jpg",
-      "titleSource" : "Vienna Insurance Group baut Stellung in Zentral- und Osteuropa aus",
-      "titleTarget" : "Vienna Insurance Group proširuje svoju poziciju u srednjoj i istočnoj Europi",
-      "url" : "https://kurier.at/wirtschaft/vienna-insurance-group-baut-stellung-in-zentral-und-osteuropa-aus/401113203"
+      "id" : "lV9FtCmV",
+      "imgUrl" : "https://image.kurier.at/images/original/4167693/78370011353502496_BLD_Online.jpg",
+      "titleSource" : "Chinas Industrie mit schnellstem Wachstum seit mehr als drei Jahren",
+      "titleTarget" : "Kineska najbrže rastuća industrija više od tri godine",
+      "url" : "https://kurier.at/wirtschaft/chinas-industrie-mit-schnellstem-wachstum-seit-mehr-als-drei-jahren/401113842"
     }, {
-      "id" : "aB9N6aWm",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/8/c/5904780/FILE-PHOTO-Skiers-sit-in-a-chairlift-at-Schlick-2000-ski-resort-near-Neustift-im-Stubaital_1606664400053236.jpg",
-      "titleSource" : "Regierung vor Entscheidung über Ski-Lockdown",
-      "titleTarget" : "Vlada će odlučiti o zaključavanju skija",
-      "url" : "https://www.diepresse.com/5904780/Coronakrise_Regierung-vor-Entscheidung-ueber-SkiLockdown?from=rss"
+      "id" : "3ZKz8hG4",
+      "imgUrl" : "https://image.kurier.at/images/original/4739721/20201104-ABD0048-1-1.jpg",
+      "titleSource" : "Dividende halbiert: Corona-Krise trifft Deutsche Beteiligungs AG hart",
+      "titleTarget" : "Dividenda prepolovljena: Koronska kriza teško pogađa Deutsche Beteiligungs AG",
+      "url" : "https://kurier.at/wirtschaft/dividende-halbiert-corona-krise-trifft-deutsche-beteiligungs-ag-hart/401113749"
     }, {
-      "id" : "htBLbFbi",
-      "titleSource" : "Kritik an Geld für Kohle",
-      "titleTarget" : "Kritika novca za ugljen",
-      "url" : "https://www.diepresse.com/5904782/Kritik-an-Geld-fuer-Kohle?from=rss"
+      "id" : "uNx9UoHc",
+      "imgUrl" : "https://image.kurier.at/images/original/4777728/81690356757645856_BLD_Online.jpg",
+      "titleSource" : "Milliardenübernahme unter Datenanbietern: S&P Global will IHS Markit kaufen",
+      "titleTarget" : "Milijardno preuzimanje među pružateljima podataka: S&P Global želi kupiti IHS Markit",
+      "url" : "https://kurier.at/wirtschaft/milliardenuebernahme-unter-datenanbietern-sp-global-will-ihs-markit-kaufen/401113740"
     }, {
-      "id" : "cY9U9xMI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/8/5/5904773/C8DE7748-75D8-426C-9387-4010AF24900F_1606662566507398.jpg",
-      "titleSource" : "Irritation über Geldwünsche der BWB",
-      "titleTarget" : "Iritacija zbog zahtjeva za novac od BWB-a",
-      "url" : "https://www.diepresse.com/5904773/Studie_Irritation-ueber-Geldwuensche-der-BWB?from=rss"
+      "id" : "Jg0TM5WK",
+      "imgUrl" : "https://image.kurier.at/images/original/4790316/46-168808790.jpg",
+      "titleSource" : "ABN Amro will bis 2024 fast 3.000 Jobs streichen",
+      "titleTarget" : "ABN Amro planira ukinuti gotovo 3.000 radnih mjesta do 2024. godine",
+      "url" : "https://kurier.at/wirtschaft/abn-amro-will-bis-2024-fast-3000-jobs-streichen/401113716"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -107,23 +108,22 @@
       "titleTarget" : "Ogromni adventski vijenac krasi Mariazell",
       "url" : "https://steiermark.orf.at/stories/3078245/"
     }, {
-      "id" : "EpKHMnUt",
-      "imgUrl" : "https://image.kurier.at/images/original/4789374/46-168709966.jpg",
-      "titleSource" : "Kurz rechnet weiter mit \"massiven Einschränkungen\"; Anschober: \"Lage noch immer sehr ernst\"",
-      "titleTarget" : "Kurz i dalje očekuje \"masovna ograničenja\"; Anschober: \"Situacija je i dalje vrlo ozbiljna\"",
-      "url" : "https://kurier.at/chronik/oesterreich/neuwirth-zahlen-fuer-ende-des-lockdowns-zu-hoch-durchhalte-appell-von-anschober/401113098"
+      "id" : "JKcMouPY",
+      "imgUrl" : "https://image.kurier.at/images/original/156951/46-71287294.jpg",
+      "titleSource" : "Corona: Ehepaar verkaufte am Sonntag in Garage Fleisch",
+      "titleTarget" : "Corona: Par je u nedjelju prodavao meso u svojoj garaži",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-ehepaar-verkaufte-am-sonntag-in-garage-fleisch/401113563"
+    }, {
+      "id" : "WzhpgD3N",
+      "titleSource" : "Bundesheer übernimmt Betreuung in Pflegeheim",
+      "titleTarget" : "Oružane snage brinu o staračkom domu",
+      "url" : "https://steiermark.orf.at/stories/3078269/"
     }, {
       "id" : "9Y70mpX4",
       "imgUrl" : "https://image.kurier.at/images/original/4789305/46-168795025.jpg",
       "titleSource" : "Erster Schnee im Flachland: Ab Dienstag wird es winterlich",
       "titleTarget" : "Prvi snijeg u nizinama: Od utorka će biti zimi",
       "url" : "https://kurier.at/chronik/oesterreich/erster-schnee-im-flachland-ab-dienstag-wird-es-winterlich/401113296"
-    }, {
-      "id" : "JIHkqlfV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/78/crops/w=1280/767375_opener_266778_ritzing_1.jpg?s=44a16e2010f397f6777f91d5f9072137a993e97b",
-      "titleSource" : "Ritzinger stimmen für Nutzungsvertrag für Pfadfinder",
-      "titleTarget" : "Ritzinger glasa za ugovor o licenci za izviđače",
-      "url" : "https://burgenland.orf.at/stories/3078247/"
     }, {
       "id" : "92clBOSA",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/35/crops/w=1280/764029_opener_265535_img_1852.jpg?s=d574c992b41cac6fdc92c73c38f178bd79316750",
@@ -134,35 +134,23 @@
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "aV0eCUqM",
-      "imgUrl" : "https://image.kurier.at/images/original/4788852/46-74974850.jpg",
-      "titleSource" : "David Prowse: Darth-Vader-Darsteller ist 85-jährig gestorben",
-      "titleTarget" : "David Prowse: Glumac Darth Vadera umro je u 85. godini",
-      "url" : "https://kurier.at/kultur/dave-prowse-darth-vader-darsteller-ist-85-jaehrig-gestorben/401113110"
+      "id" : "OdMIUuBq",
+      "imgUrl" : "https://image.kurier.at/images/original/4790208/46-171099678.jpg",
+      "titleSource" : "Griechisch-orthodoxe Kirche: Die Überraschung hinter der Fassade",
+      "titleTarget" : "Grčka pravoslavna crkva: iznenađenje iza fasade",
+      "url" : "https://kurier.at/kultur/griechisch-orthodoxe-kirche-die-ueberraschung-hinter-der-fassade/401113587"
     }, {
-      "id" : "7VeJIl7F",
-      "imgUrl" : "https://image.kurier.at/images/original/4787358/3_tatort_unten.jpg",
-      "titleSource" : "50 Jahre \"Tatort\": Die \"unverwüstliche\" Krimi-Reihe",
-      "titleTarget" : "50 godina \"Tatort\": \"Neuništiva\" kriminalistička serija",
-      "url" : "https://kurier.at/kultur/medien/50-jahre-tatort-die-unverwuestliche-krimi-reihe/401112831"
-    }, {
-      "id" : "Pd0a8k33",
-      "imgUrl" : "https://image.kurier.at/images/original/4786455/46-172015839.jpg",
-      "titleSource" : "Jubiläums-\"Tatort\": Münchner und Dortmunder in minutiösem Mafiadrama",
-      "titleTarget" : "\"Mjesto zločina\" obljetnice: Stanovnici Münchena i Dortmunda u pedantnoj mafijaškoj drami",
-      "url" : "https://kurier.at/kultur/jubilaeums-tatort-muenchner-und-dortmunder-in-minutioesem-mafiadrama/401112852"
+      "id" : "m5QWHOXg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "titleSource" : "Musiksalon Nr. 24: Was muss ein Konzertmeister können?",
+      "titleTarget" : "Glazbeni salon br. 24: Što sve mora voditi koncertmastor?",
+      "url" : "https://www.diepresse.com/5904920/Podcast_Musiksalon-Nr-24_Was-muss-ein-Konzertmeister-koennen?from=rss"
     }, {
       "id" : "4dBRTD97",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/8/a/5904778/WIENER-PHILHARMONIKER-NEUJAHRSKONZERT-2019-THIELEMANN_1606663682984370.jpg",
       "titleSource" : "Wiener Philharmoniker: Pflegen der Tradition auch im Lockdown",
       "titleTarget" : "Bečka filharmonija: Održavanje tradicije čak i u zaključanom položaju",
       "url" : "https://www.diepresse.com/5904778/Wiener-Philharmoniker_Pflegen-der-Tradition-auch-im-Lockdown?from=rss"
-    }, {
-      "id" : "1gflLepX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/6/5904486/70435E8C-78B2-40BB-B273-0F7C7FD8BDD9_v0_h.jpg",
-      "titleSource" : "Ein trauriger Mafia-Fall zum \"Tatort\"-Jubiläum",
-      "titleTarget" : "Tužan slučaj mafije za godišnjicu \"Tatort\"",
-      "url" : "https://www.diepresse.com/5904486/TVNotiz_Ein-trauriger-MafiaFall-zum-TatortJubilaeum?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -175,11 +163,6 @@
       "titleSource" : "Formel 1: Horror-Crash von Grosjean, nächster Sieg für Hamilton",
       "titleTarget" : "Formula 1: Grosjean horor krah, sljedeća pobjeda Hamiltona",
       "url" : "https://kurier.at/sport/motorsport/formel-1-horror-crash-ueberschattet-grand-prix-in-bahrain/401113392"
-    }, {
-      "id" : "ehd44X5T",
-      "titleSource" : "Formel 1 entgeht Katastrophe",
-      "titleTarget" : "Formula 1 bježi od katastrofe",
-      "url" : "https://sport.orf.at/stories/3069983/"
     }, {
       "id" : "VJKJhESj",
       "imgUrl" : "https://image.kurier.at/images/original/4787559/46-166321176.jpg",
@@ -204,10 +187,16 @@
       "titleTarget" : "Eggestein dopušta LASK-u da navija protiv Altacha",
       "url" : "https://sport.orf.at/stories/3069998/"
     }, {
-      "id" : "lFxsv1z0",
-      "titleSource" : "Steu/Koller packen zweiten Igls-Sieg drauf",
-      "titleTarget" : "Steu / Koller spakiraju drugu pobjedu Iglsa",
-      "url" : "https://sport.orf.at/stories/3070002/"
+      "id" : "N7hsp2Ay",
+      "imgUrl" : "https://image.kurier.at/images/original/4790157/46-173237699.jpg",
+      "titleSource" : "Formel-1-Wunder Grosjean meldete sich aus Spital: \"Ich bin okay!\"",
+      "titleTarget" : "Čudo formule 1 Grosjean je iz bolnice izvijestio: \"Dobro sam!\"",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-wunder-grosjean-meldete-sich-aus-spital-ich-bin-okay/401113566"
+    }, {
+      "id" : "mH9KTeNr",
+      "titleSource" : "Grosjean nur „dank Halo“ am Leben",
+      "titleTarget" : "Grosjean živ samo \"zahvaljujući Halou\"",
+      "url" : "https://sport.orf.at/stories/3070014/"
     } ]
   } ],
   "country" : "austria",
