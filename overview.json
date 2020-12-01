@@ -8,6 +8,12 @@
       "titleTarget" : "Irmgard Griss: Obvezno cijepljenje bit će \"jedino rješenje\"",
       "url" : "https://kurier.at/politik/inland/irmgard-griss-impfpflicht-werde-die-einzige-loesung-sein/401113611"
     }, {
+      "id" : "gCWBv81z",
+      "imgUrl" : "https://image.kurier.at/images/original/4769190/78350011457575888_BLD_Online.jpg",
+      "titleSource" : "Corona - Kurz: Testverweigerung wegen Quarantäne \"schwer fahrlässig\"",
+      "titleTarget" : "Corona - Ukratko: odbijanje testa zbog karantene \"ozbiljno nemaran\"",
+      "url" : "https://kurier.at/politik/inland/corona-kurz-testverweigerung-wegen-quarantaene-schwer-fahrlaessig/401114847"
+    }, {
       "id" : "40s12D4k",
       "imgUrl" : "https://image.kurier.at/images/original/4790850/46-173252684.jpg",
       "titleSource" : "Anschober: Öffnungsschritte nach Lockdown offen, Stopp Corona App \"tut nicht weh\"",
@@ -26,23 +32,17 @@
       "titleTarget" : "Hofburg 2022: SPÖ još ne zna hoće li podržati Van der Bellena",
       "url" : "https://kurier.at/politik/inland/hofburg-2022-spoe-weiss-noch-nicht-ob-sie-van-der-bellen-unterstuetzt/401114082"
     }, {
+      "id" : "pLK6pypB",
+      "imgUrl" : "https://image.kurier.at/images/original/4791600/46-167820136.jpg",
+      "titleSource" : "Massentests: Kaiser fordert Entschädigungen für Freiwillige",
+      "titleTarget" : "Masovni testovi: Kaiser traži naknadu za dobrovoljce",
+      "url" : "https://kurier.at/politik/inland/massentests-kaiser-fordert-entschaedigungen-fuer-freiwillige/401114532"
+    }, {
       "id" : "wu3fbpAU",
       "imgUrl" : "https://image.kurier.at/images/original/4789740/46-145190235.jpg",
       "titleSource" : "Ibiza-U-Ausschuss: Wurden 1,5 Millionen für Casino-Lizenzen gezahlt?",
       "titleTarget" : "Odbor Ibize U: Je li plaćeno 1,5 milijuna za dozvole za kasino?",
       "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-wurden-15-millionen-fuer-casino-lizenzen-gezahlt/401113416"
-    }, {
-      "id" : "vcKAoKad",
-      "imgUrl" : "https://image.kurier.at/images/original/4790238/46-169335407.jpg",
-      "titleSource" : "Homeoffice-Regelung: Aschbacher spielt Ball an Sozialpartner",
-      "titleTarget" : "Propisi o kućnim uredima: Aschbacher igra loptu socijalnim partnerima",
-      "url" : "https://kurier.at/politik/inland/homeoffice-regelung-aschbacher-spielt-ball-an-sozialpartner/401113608"
-    }, {
-      "id" : "ful3pbMI",
-      "imgUrl" : "https://image.kurier.at/images/original/4791636/46-173235892.jpg",
-      "titleSource" : "Massentests: Für Experten \"sinnvoll\" bei gezielter Folgestrategie",
-      "titleTarget" : "Masovni testovi: \"ima smisla\" za stručnjake s ciljanom strategijom praćenja",
-      "url" : "https://kurier.at/politik/inland/massentests-fuer-experten-sinnvoll-bei-gezielter-folgestrategie/401114553"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,6 +52,18 @@
       "titleSource" : "Kampf gegen Amazon: Plattform \"Kaufhaus Österreich\" startet",
       "titleTarget" : "Borba protiv Amazona: Pokrenuta platforma \"Kaufhaus Österreich\"",
       "url" : "https://kurier.at/wirtschaft/kampf-gegen-amazon-plattform-kaufhaus-oesterreich-startet/401114001"
+    }, {
+      "id" : "9mxIAFyz",
+      "imgUrl" : "https://image.kurier.at/images/original/4609322/81710357856229704_BLD_Online.jpg",
+      "titleSource" : "Wachstum von Zoom geht dank Homeoffice durch die Decke",
+      "titleTarget" : "Zoom raste zahvaljujući krovu zahvaljujući svom matičnom uredu",
+      "url" : "https://kurier.at/wirtschaft/wachstum-von-zoom-geht-dank-homeoffice-durch-die-decke/401114955"
+    }, {
+      "id" : "VV00WEdE",
+      "imgUrl" : "https://image.kurier.at/images/original/4792104/bildschirmfoto_2020-11-30_um_18.17.58.png",
+      "titleSource" : "Das \"Kaufhaus Österreich\" im Praxistest",
+      "titleTarget" : "\"Robna kuća Austrija\" u praktičnom testu",
+      "url" : "https://kurier.at/wirtschaft/das-kaufhaus-oesterreich-im-praxistest/401114874"
     }, {
       "id" : "qpGjmrhB",
       "imgUrl" : "https://image.kurier.at/images/original/4791069/78370011357741608_BLD_Online.jpg",
@@ -65,12 +77,6 @@
       "titleTarget" : "Audi želi uskoro skinuti kormilo iz vozačevih ruku",
       "url" : "https://kurier.at/wirtschaft/audi-will-fahrern-bald-steuer-aus-der-hand-nehmen/401114130"
     }, {
-      "id" : "xWWCkKKW",
-      "imgUrl" : "https://image.kurier.at/images/original/4789464/46-172102994.png",
-      "titleSource" : "Commerzialbank: Streit um die Verwertung der Patentrechte",
-      "titleTarget" : "Commerzialbank: spor oko iskorištavanja patentnih prava",
-      "url" : "https://kurier.at/wirtschaft/commerzialbank-streit-um-die-verwertung-der-patentrechte/401113374"
-    }, {
       "id" : "HjKjCYwn",
       "imgUrl" : "https://image.kurier.at/images/original/4731756/78370011357261432_BLD_Online.jpg",
       "titleSource" : "Bitcoin auf Rekordhoch gestiegen",
@@ -82,21 +88,15 @@
       "titleSource" : "Rabattschlacht am Cyber-Monday sorgt in USA für Rekordumsatz",
       "titleTarget" : "Bitka s popustima na Cyber ponedjeljak dovodi do rekordne prodaje u SAD-u",
       "url" : "https://kurier.at/wirtschaft/rabattschlacht-am-cyber-monday-sorgt-in-usa-fuer-rekordumsatz/401114475"
-    }, {
-      "id" : "oaUv5acI",
-      "imgUrl" : "https://image.kurier.at/images/original/3578311/chips_cu.jpg",
-      "titleSource" : "Deutscher Chipzulieferer Siltronic vor milliardenschwerem Verkauf",
-      "titleTarget" : "Njemački dobavljač čipova Siltronic suočava se s milijardom dolara vrijednom prodajom",
-      "url" : "https://kurier.at/wirtschaft/deutscher-chipzulieferer-siltronic-vor-milliardenschwerem-verkauf/401114331"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "JKcMouPY",
-      "imgUrl" : "https://image.kurier.at/images/original/156951/46-71287294.jpg",
-      "titleSource" : "Corona: Ehepaar verkaufte am Sonntag in Garage Fleisch",
-      "titleTarget" : "Corona: Par je u nedjelju prodavao meso u svojoj garaži",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-ehepaar-verkaufte-am-sonntag-in-garage-fleisch/401113563"
+      "id" : "wlIQdntE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/35/crops/w=1280/768655_opener_267235_archivbild_ursula_stenzel_.jpg?s=dde88e880c6f0cc3f1ada2746feb0667c5a8351b",
+      "titleSource" : "Ursula Stenzel verlässt FPÖ",
+      "titleTarget" : "Ursula Stenzel napušta FPÖ",
+      "url" : "https://wien.orf.at/stories/3078429/"
     }, {
       "id" : "2MT6wlsy",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -104,35 +104,35 @@
       "titleTarget" : "2.748 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2748-neuinfektionen-in-oesterreich/401113761"
     }, {
-      "id" : "B3AGv8xz",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/11/crops/w=1280/767742_opener_266911_landesparteitag_der_spoe_oberoesterreich_entholzer_makor_.jpg?s=ac8cf6431b29f4ed349871d07d091beca3195cfe",
-      "titleSource" : "SPÖ-Klubchef legt Funktionen zurück",
-      "titleTarget" : "Šef kluba SPÖ daje ostavke na funkcije",
-      "url" : "https://ooe.orf.at/stories/3078296/"
-    }, {
       "id" : "LZ1ZsfGE",
       "imgUrl" : "https://image.kurier.at/images/original/4789998/46-173232833.jpg",
       "titleSource" : "Probleme mit Aufenthaltstiteln: CEU-Studenten sollen ausreisen",
       "titleTarget" : "Problemi s dozvolama boravka: Studenti CEU-a trebali bi napustiti zemlju",
       "url" : "https://kurier.at/chronik/oesterreich/probleme-mit-aufenthaltstiteln-ceu-studenten-sollen-ausreisen/401113395"
     }, {
-      "id" : "unskvYUD",
-      "imgUrl" : "https://image.kurier.at/images/original/4790115/46-164220233.jpg",
-      "titleSource" : "Darf man während des Lockdowns verreisen?",
-      "titleTarget" : "Smijete li putovati tijekom zaključavanja?",
-      "url" : "https://kurier.at/chronik/oesterreich/darf-man-waehrend-des-lockdowns-verreisen/401113539"
+      "id" : "QHh5UrR4",
+      "imgUrl" : "https://image.kurier.at/images/original/4781127/46-170520969.jpg",
+      "titleSource" : "Anstellen wie im Supermarkt: Skigebiete wollen rasch starten",
+      "titleTarget" : "Stajanje u red kao u supermarketu: skijališta žele brzo započeti",
+      "url" : "https://kurier.at/chronik/oesterreich/anstellen-wie-im-supermarkt-skigebiete-wollen-rasch-starten/401114778"
     }, {
-      "id" : "qQfr65DC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/75/crops/w=1280/768213_opener_267075_online_supermarkt_kreuzer_24114_00_20_04_09.jpg?s=e67ede2c5c8ab2882863c246beb8995b8fd9420a",
-      "titleSource" : "Tschechen starten Onlinesupermarkt in Wien",
-      "titleTarget" : "Česi pokreću internetski supermarket u Beču",
-      "url" : "https://wien.orf.at/stories/3078370/"
+      "id" : "UfZ3aF5S",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/42/02/crops/w=1280/334811_opener_106202_apalebensmittelverschwendung_.jpg?s=ff8e722875123603f53dda2c420b566e22fe3e1c",
+      "titleSource" : "Initiativen gegen Lebensmittelverschwendung",
+      "titleTarget" : "Inicijative za otpad od hrane",
+      "url" : "https://vorarlberg.orf.at/stories/3078348/"
     }, {
-      "id" : "3IkkEnri",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/99/crops/w=1280/473574_opener_158799_online-handel_.jpg?s=69b3ced41de7ff5828adcb78bb4758d3887724dd",
-      "titleSource" : "Neue Plattform „Kaufhaus Österreich“",
-      "titleTarget" : "Nova platforma \"Robna kuća Austrija\"",
-      "url" : "https://oesterreich.orf.at/stories/3078352/"
+      "id" : "ZPTTG1hw",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/01/crops/w=1280/747752_opener_259501_kuhn_festspiele_erl_strafzahlung_festspielhaus_a.jpg?s=e6ee59f4609009f4d3fc815f6987c3db2d5b0f7c",
+      "titleSource" : "Winterfestspiele Erl auf Ostern verschoben",
+      "titleTarget" : "Zimski festival Erl odgođen za Uskrs",
+      "url" : "https://tirol.orf.at/stories/3078415/"
+    }, {
+      "id" : "nET3yvkV",
+      "imgUrl" : "https://image.kurier.at/images/original/4266092/78350011454240670_BLD_Online.jpg",
+      "titleSource" : "2.748 Neuinfektionen in Österreich; Spitäler warnen vor rascher Öffnung",
+      "titleTarget" : "2.748 novih infekcija u Austriji; Bolnice upozoravaju na brzo otvaranje",
+      "url" : "https://kurier.at/chronik/oesterreich/wie-lange-corona-impfstoffe-wirken-bald-homeoffice-regelung-aschbacher-spielt-ball-an-sozialpartner/401113617"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,6 +142,30 @@
       "titleSource" : "Peter Radtke ist tot: Ein Schauspielerleben mit Glasknochenkrankheit",
       "titleTarget" : "Peter Radtke je mrtav: glumački život s bolešću staklenih kostiju",
       "url" : "https://kurier.at/kultur/wegbegleiter-taboris-schauspieler-peter-radtke-ist-tot/401114481"
+    }, {
+      "id" : "EcJgjpjF",
+      "imgUrl" : "https://image.kurier.at/images/original/4791183/46-166837398.jpg",
+      "titleSource" : "Neujahrskonzert: Noch keine Klarheit, aber immerhin ein Programm",
+      "titleTarget" : "Novogodišnji koncert: Još uvijek nema jasnoće, ali barem program",
+      "url" : "https://kurier.at/kultur/neujahrskonzert-2021-noch-keine-klarheit-aber-schon-ein-programm/401114283"
+    }, {
+      "id" : "DDumElft",
+      "imgUrl" : "https://image.kurier.at/images/original/4791036/naked_cameo_by_katrin_schmirler_1.jpg",
+      "titleSource" : "Neue Musik aus Österreich: Clara Luzia, Edwin, Naked Cameo, Clemens Wenger und mehr",
+      "titleTarget" : "Nova glazba iz Austrije: Clara Luzia, Edwin, Naked Cameo, Clemens Wenger i drugi",
+      "url" : "https://kurier.at/kultur/neue-musik-aus-oesterreich-clara-luzia-edwin-naked-cameo-clemens-wenger-und-mehr/401114619"
+    }, {
+      "id" : "di7duZNN",
+      "imgUrl" : "https://image.kurier.at/images/original/4792218/46-147342391.jpg",
+      "titleSource" : "Rammstein-Sänger Till Lindemann mit neuem Solo-Projekt",
+      "titleTarget" : "Pjevač Rammsteina Till Lindemann s novim samostalnim projektom",
+      "url" : "https://kurier.at/kultur/rammstein-saenger-till-lindemann-mit-neuem-solo-projekt/401114898"
+    }, {
+      "id" : "vht7mauZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4024296/46-154016386.jpg",
+      "titleSource" : "Oper! Awards: Salzburger Festspiele und Wiener Philharmoniker geehrt",
+      "titleTarget" : "Opera! Nagrade: Počašćeni Salzburški festival i Bečka filharmonija",
+      "url" : "https://kurier.at/kultur/oper-awards-salzburger-festspiele-und-wiener-philharmoniker-geehrt/401114886"
     }, {
       "id" : "mHndrXa4",
       "imgUrl" : "https://image.kurier.at/images/original/4791621/46-165736167.jpg",
@@ -154,30 +178,6 @@
       "titleSource" : "Prix Goncourt mit coronabedingter Verspätung vergeben",
       "titleTarget" : "Prix Goncourt dodijeljen je sa zakašnjenjem povezanim s koronom",
       "url" : "https://kurier.at/kultur/prix-goncourt-mit-coronabedingter-verspaetung-vergeben/401114457"
-    }, {
-      "id" : "EcJgjpjF",
-      "imgUrl" : "https://image.kurier.at/images/original/4791183/46-166837398.jpg",
-      "titleSource" : "Neujahrskonzert: Noch keine Klarheit, aber immerhin ein Programm",
-      "titleTarget" : "Novogodišnji koncert: Još uvijek nema jasnoće, ali barem program",
-      "url" : "https://kurier.at/kultur/neujahrskonzert-2021-noch-keine-klarheit-aber-schon-ein-programm/401114283"
-    }, {
-      "id" : "OdMIUuBq",
-      "imgUrl" : "https://image.kurier.at/images/original/4790208/46-171099678.jpg",
-      "titleSource" : "Griechisch-orthodoxe Kirche: Die Überraschung hinter der Fassade",
-      "titleTarget" : "Grčka pravoslavna crkva: iznenađenje iza fasade",
-      "url" : "https://kurier.at/kultur/griechisch-orthodoxe-kirche-die-ueberraschung-hinter-der-fassade/401113587"
-    }, {
-      "id" : "oLpU7FSM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/7/8/5905272/43B9B055-0C9D-41B2-B735-6BDDCE5DB4C8_v0_l.jpg",
-      "titleSource" : "\"Uncle Frank\" auf Amazon: So schnell ist Schwulenhass geheilt",
-      "titleTarget" : "\"Ujak Frank\" na Amazonu: Koliko brzo se liječi gay mržnja",
-      "url" : "https://www.diepresse.com/5905272/Film_Uncle-Frank-auf-Amazon_So-schnell-ist-Schwulenhass-geheilt?from=rss"
-    }, {
-      "id" : "DDumElft",
-      "imgUrl" : "https://image.kurier.at/images/original/4791036/naked_cameo_by_katrin_schmirler_1.jpg",
-      "titleSource" : "Neue Musik aus Österreich: Clara Luzia, Edwin, Naked Cameo, Clemens Wenger und mehr",
-      "titleTarget" : "Nova glazba iz Austrije: Clara Luzia, Edwin, Naked Cameo, Clemens Wenger i drugi",
-      "url" : "https://kurier.at/kultur/neue-musik-aus-oesterreich-clara-luzia-edwin-naked-cameo-clemens-wenger-und-mehr/401114619"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,16 +185,22 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "1B1saomx",
-      "titleSource" : "Northug verarbeitet Skandaljahr in Weihnachtslied",
-      "titleTarget" : "Northug prerađuje godinu skandala u božićnu pjesmu",
-      "url" : "https://sport.orf.at/stories/3070037/"
-    }, {
       "id" : "u9KU4oAH",
       "imgUrl" : "https://image.kurier.at/images/original/4791261/46-170892841.jpg",
       "titleSource" : "Schröcksnadel-Appell an Regierung: \"Saisonstart ohne Verzögerung\"",
       "titleTarget" : "Schröcksnadel apelirao na vladu: \"sezona započinje bez odgađanja\"",
       "url" : "https://kurier.at/sport/wintersport/ski-lockdown-schroecksnadel-appell-an-regierung-saisonstart-ohne-verzoegerung/401114340"
+    }, {
+      "id" : "1B1saomx",
+      "titleSource" : "Northug verarbeitet Skandaljahr in Weihnachtslied",
+      "titleTarget" : "Northug prerađuje godinu skandala u božićnu pjesmu",
+      "url" : "https://sport.orf.at/stories/3070037/"
+    }, {
+      "id" : "EvVqxgzs",
+      "imgUrl" : "https://image.kurier.at/images/original/4790346/46-173245973.jpg",
+      "titleSource" : "Vor trauernder Tochter: Boca Juniors ehrt Maradona in der Bombonera",
+      "titleTarget" : "Prije ožalošćene kćeri: Boca Juniors počasti Maradonu u Bomboneri",
+      "url" : "https://kurier.at/sport/fussball/vor-trauernder-tochter-boca-juniors-ehrt-maradona-in-der-bombonera/401113773"
     }, {
       "id" : "w9kN7kZx",
       "imgUrl" : "https://image.kurier.at/images/original/4790061/46-173235755.jpg",
@@ -202,27 +208,21 @@
       "titleTarget" : "Nakon strave strave u Bahreinu: Čuda Formule 1",
       "url" : "https://kurier.at/sport/motorsport/nach-dem-horror-crash-in-bahrain-die-wunder-der-formel-1/401113521"
     }, {
-      "id" : "N7hsp2Ay",
-      "imgUrl" : "https://image.kurier.at/images/original/4790157/46-173237699.jpg",
-      "titleSource" : "Formel-1-Wunder Grosjean meldete sich aus Spital: \"Ich bin okay!\"",
-      "titleTarget" : "Čudo formule 1 Grosjean je iz bolnice izvijestio: \"Dobro sam!\"",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-wunder-grosjean-meldete-sich-aus-spital-ich-bin-okay/401113566"
-    }, {
-      "id" : "lm2dLQE2",
-      "imgUrl" : "https://image.kurier.at/images/original/4791144/46-104960104.jpg",
-      "titleSource" : "Stehauffrau Cornelia Hütter: Rückkehr nach dem dritten Kreuzbandriss",
-      "titleTarget" : "Stojeća žena Cornelia Hütter: Povratak nakon trećeg pucanja križnih ligamenata",
-      "url" : "https://kurier.at/sport/wintersport/stehauffrau-cornelia-huetter-rueckkehr-nach-dem-dritten-kreuzbandriss/401114151"
+      "id" : "QGTYuOoT",
+      "titleSource" : "Austria bilanziert mit Millionenverlust",
+      "titleTarget" : "Austrija prijavljuje milijunski gubitak",
+      "url" : "https://sport.orf.at/stories/3070043/"
     }, {
       "id" : "dhFMFFlp",
       "titleSource" : "Bayern kassiert 105,4 Millionen Euro an TV-Geld",
       "titleTarget" : "Bavaria inkasira 105,4 milijuna eura TV novca",
       "url" : "https://sport.orf.at/stories/3070032/"
     }, {
-      "id" : "mH9KTeNr",
-      "titleSource" : "Grosjean nur „dank Halo“ am Leben",
-      "titleTarget" : "Grosjean živ samo \"zahvaljujući Halou\"",
-      "url" : "https://sport.orf.at/stories/3070014/"
+      "id" : "AiJbxz3Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4790127/46-173240741.jpg",
+      "titleSource" : "Rapid-Trainer Kühbauer: \"Dieses Remis im Derby tut sehr weh\"",
+      "titleTarget" : "Trener brzih Kühbauera: \"Ovaj remi u derbiju jako boli\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-trainer-kuehbauer-nach-dem-11-gegen-austria-dieses-remis-im-derby-tut-sehr-weh/401113542"
     } ]
   } ],
   "country" : "austria",
