@@ -2,29 +2,35 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "KfH9AWmD",
-      "imgUrl" : "https://image.kurier.at/images/original/4792374/46-169335450.jpg",
-      "titleSource" : "Aschbacher: Arbeitslosigkeit steigt, 276.370 Menschen in Kurzarbeit",
-      "titleTarget" : "Aschbacher: Nezaposlenost raste, 276.370 ljudi je na kraćem radnom vremenu",
-      "url" : "https://kurier.at/politik/inland/live-stream-aschbacher-zur-lage-am-arbeitsmarkt/401115108"
-    }, {
       "id" : "CNofyY4m",
       "imgUrl" : "https://image.kurier.at/images/original/4792992/46-173271278.jpg",
       "titleSource" : "Schulen: Rendi-Wagner fordert Maskenpflicht im Unterricht",
       "titleTarget" : "Škole: Rendi-Wagner traži da se na satu traži maska",
       "url" : "https://kurier.at/politik/inland/schulen-rendi-wagner-fordert-maskenpflicht-im-unterricht/401115453"
     }, {
-      "id" : "6qLPDFBj",
-      "imgUrl" : "https://image.kurier.at/images/original/4792911/46-173271430.jpg",
-      "titleSource" : "Mindestleistung im Studium: 24 ECTS in ersten vier Semestern nötig",
-      "titleTarget" : "Minimalno postignuće: 24 ECTS potrebna u prva četiri semestra",
-      "url" : "https://kurier.at/politik/inland/mindestleistung-von-studenten-fassmann-praesentiert-umstrittene-novelle/401115123"
+      "id" : "2JUxhEZs",
+      "imgUrl" : "https://image.kurier.at/images/original/4794474/46-168916530.jpg",
+      "titleSource" : "Lockdown: Regierung verkündet heute erste Öffnungsschritte",
+      "titleTarget" : "Zaključavanje: Vlada danas najavljuje prve korake za otvaranje",
+      "url" : "https://kurier.at/politik/inland/lockdown-regierung-verkuendet-erste-oeffnungsschritte/401116311"
     }, {
       "id" : "yyQUqdtI",
       "imgUrl" : "https://image.kurier.at/images/original/4726212/46-168165097.jpg",
       "titleSource" : "Homeoffice-Regelung verzögert sich: Das sind die offenen Punkte",
       "titleTarget" : "Propisi o kućnim uredima kasne: ovo su otvorene točke",
       "url" : "https://kurier.at/politik/inland/homeoffice-regelung-verzoegert-sich-das-sind-die-offenen-punkte/401115384"
+    }, {
+      "id" : "HKEiPqRr",
+      "imgUrl" : "https://image.kurier.at/images/original/3722183/46-110652691.jpg",
+      "titleSource" : "Corona: \"Senioren fit fürs Internet\" jetzt via TV und ORF-Nachlese",
+      "titleTarget" : "Corona: \"Starije osobe sposobne za Internet\" sada putem TV-a i ORF-ovog pregleda",
+      "url" : "https://kurier.at/politik/inland/corona-senioren-fit-fuers-internet-jetzt-via-tv-und-orf-nachlese/401116584"
+    }, {
+      "id" : "KdynxTyJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4782387/20201126-ABD0105-1-1.jpg",
+      "titleSource" : "Geld für Gesetze? \"Die Novomatic macht so etwas nicht\"",
+      "titleTarget" : "Novac za zakone? \"Novomatic to ne radi\"",
+      "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-preislisten-fuer-gesetze-im-mittelpunkt/401116527"
     }, {
       "id" : "kKjtqfpG",
       "titleSource" : "Wien stattet Schulen mit Masken aus, Oberösterreich schickt mobile Teams",
@@ -34,17 +40,17 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "IXAzSPpq",
-      "imgUrl" : "https://image.kurier.at/images/original/4792590/46-167362507.jpg",
-      "titleSource" : "Ex-Finanzminister Löger zieht in Vorstand der VIG ein",
-      "titleTarget" : "Bivši ministar financija Löger pridružio se upravnom odboru VIG-a",
-      "url" : "https://kurier.at/wirtschaft/ex-finanzminister-loeger-zieht-in-vorstand-der-vig-ein/401115219"
-    }, {
       "id" : "EzHeQ0Of",
       "imgUrl" : "https://image.kurier.at/images/original/4794156/46-170520971.jpg",
       "titleSource" : "Reform des Taxigewerbes geht durch Verkehrsausschuss",
       "titleTarget" : "Reforma taksi industrije prolazi kroz odbor za promet",
       "url" : "https://kurier.at/wirtschaft/reform-des-taxigewerbes-geht-durch-verkehrsausschuss/401116155"
+    }, {
+      "id" : "Im0MR8ie",
+      "imgUrl" : "https://image.kurier.at/images/original/632667/ams2-000_juerg%252Bchristandl.jpg",
+      "titleSource" : "Warnung vor \"Generation Corona\"",
+      "titleTarget" : "Upozorenje o \"generaciji Corona\"",
+      "url" : "https://kurier.at/wirtschaft/warnung-vor-generation-corona/401115621"
     }, {
       "id" : "6ynRdCqM",
       "imgUrl" : "https://image.kurier.at/images/original/4792872/46-173271902.jpg",
@@ -58,44 +64,32 @@
       "titleTarget" : "Niža plaća šefu Siemensa Joeu Kaeseru",
       "url" : "https://kurier.at/wirtschaft/weniger-gehalt-fuer-siemens-chef-joe-kaeser/401115897"
     }, {
-      "id" : "Im0MR8ie",
-      "imgUrl" : "https://image.kurier.at/images/original/632667/ams2-000_juerg%252Bchristandl.jpg",
-      "titleSource" : "Warnung vor \"Generation Corona\"",
-      "titleTarget" : "Upozorenje o \"generaciji Corona\"",
-      "url" : "https://kurier.at/wirtschaft/warnung-vor-generation-corona/401115621"
-    }, {
       "id" : "NI302OnS",
       "imgUrl" : "https://image.kurier.at/images/original/4793130/46-173254569.jpg",
       "titleSource" : "\"Kaufhaus Österreich\": Opposition plant Anfragen",
       "titleTarget" : "\"Robna kuća Austrija\": Upit o planovima za oporbu",
       "url" : "https://kurier.at/wirtschaft/kaufhaus-oesterreich-opposition-plant-anfragen/401115537"
     }, {
-      "id" : "GvC2EXat",
-      "imgUrl" : "https://image.kurier.at/images/original/4596710/20200825-ABD0063-1-1.jpg",
-      "titleSource" : "Corona brachte Boom bei Smartphone-Verträgen",
-      "titleTarget" : "Corona je donijela procvat ugovora o pametnim telefonima",
-      "url" : "https://kurier.at/wirtschaft/corona-brachte-boom-bei-smartphone-vertraegen/401115513"
+      "id" : "2Jnojv1c",
+      "imgUrl" : "https://image.kurier.at/images/original/4781223/20201126-ABD0003-1-1.jpg",
+      "titleSource" : "Homeoffice beschert der Kosmetikbranche Sorgenfalten",
+      "titleTarget" : "Kućni ured pruža kozmetičkoj industriji brigu",
+      "url" : "https://kurier.at/wirtschaft/homeoffice-beschert-der-kosmetikbranche-sorgenfalten/401116371"
+    }, {
+      "id" : "w4TQ4aGS",
+      "imgUrl" : "https://image.kurier.at/images/original/4597106/46-145192405.jpg",
+      "titleSource" : "Miet-Rückstände werden bis März 2021 gestundet",
+      "titleTarget" : "Zaostale zakupnine odgodit će se do ožujka 2021. godine",
+      "url" : "https://kurier.at/wirtschaft/miet-rueckstaende-werden-bis-maerz-2021-gestundet/401116347"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "WSN3zaVj",
-      "imgUrl" : "https://image.kurier.at/images/original/4792773/46-168880204.jpg",
-      "titleSource" : "Polizei soll künftig in Büros kontrollieren dürfen",
-      "titleTarget" : "Policija bi u budućnosti trebala moći kontrolirati urede",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-soll-kuenftig-in-betriebsstaetten-kontrollieren-duerfen/401115348"
-    }, {
       "id" : "JNThOaLf",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "3.033 neue Fälle in Österreich",
       "titleTarget" : "3.033 nova slučaja u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-3033-neue-faelle-in-oesterreich/401115342"
-    }, {
-      "id" : "99buhnfi",
-      "imgUrl" : "https://image.kurier.at/images/original/4792455/20201201-ABD0027-1-1.jpg",
-      "titleSource" : "3.033 Neuinfektionen in Ö; Polizei soll in Büros kontrollieren dürfen",
-      "titleTarget" : "3.033 nove infekcije u Austriji; Policiji treba omogućiti kontrolu u uredima",
-      "url" : "https://kurier.at/chronik/oesterreich/zehn-gratis-masken-fuer-aeltere-menschen-kurz-testverweigerung-schwer-fahrlaessig/401114985"
     }, {
       "id" : "qCM6UElX",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/99/crops/w=1280/769860_opener_267699_image.ashx.jpg?s=bf87a6c6a5a6647608ce7ab0b3856b54a1f4aaf2",
@@ -103,11 +97,17 @@
       "titleTarget" : "Dugotrajno nezaposleni skidaju teret sa sestrinskog osoblja",
       "url" : "https://steiermark.orf.at/stories/3078488/"
     }, {
-      "id" : "PFVopcTq",
-      "imgUrl" : "https://image.kurier.at/images/original/4792287/46-173257294.jpg",
-      "titleSource" : "Massentests starten heute: Bundesländer unterschiedlich vorbereitet",
-      "titleTarget" : "Masovna ispitivanja počinju danas: savezne države su se drugačije pripremile",
-      "url" : "https://kurier.at/chronik/oesterreich/massentests-zu-coronavirus-wie-die-einzelnen-bundeslaender-vorbereitet-sind/401115024"
+      "id" : "POXgQvVS",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/84/crops/w=1280/770430_opener_267884_wirecard_.jpg?s=e6563f55f7e0b204ec1c64beef56b530b2d2e506",
+      "titleSource" : "Wirecard: 50 Mio. Euro Schaden in Österreich",
+      "titleTarget" : "Wirecard: 50 milijuna eura štete u Austriji",
+      "url" : "https://wien.orf.at/stories/3078634/"
+    }, {
+      "id" : "QWEwCtVC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/34/crops/w=1280/764694_opener_265834_fucking1_472.5051749.jpg?s=7a5039ef8e497865093f77d57386201ae07ce21f",
+      "titleSource" : "Reger Handel mit „Fucking“-Ortstafeln",
+      "titleTarget" : "Oštra trgovina \"jebenim\" natpisima imena mjesta",
+      "url" : "https://ooe.orf.at/stories/3078582/"
     }, {
       "id" : "qGFyd5Wo",
       "imgUrl" : "https://image.kurier.at/images/original/4793502/46-123742713.jpg",
@@ -115,38 +115,32 @@
       "titleTarget" : "Suđenje za teror: susjedni džihadist",
       "url" : "https://kurier.at/chronik/oesterreich/terrorprozess-der-dschihadist-von-nebenan/401115837"
     }, {
-      "id" : "QWEwCtVC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/34/crops/w=1280/764694_opener_265834_fucking1_472.5051749.jpg?s=7a5039ef8e497865093f77d57386201ae07ce21f",
-      "titleSource" : "Reger Handel mit „Fucking“-Ortstafeln",
-      "titleTarget" : "Oštra trgovina \"jebenim\" natpisima imena mjesta",
-      "url" : "https://ooe.orf.at/stories/3078582/"
+      "id" : "BvUycqqU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/46/crops/w=1280/769964_opener_267746_201201_ooeh_historische_aufarbeitung_bettlerlager_00001001.jpg?s=dc5f6ac77d5b946dcb37eeab7475415fe45d1b59",
+      "titleSource" : "Buch über historisches Bettlerlager",
+      "titleTarget" : "Knjiga o povijesnom prosjačkom kampu",
+      "url" : "https://ooe.orf.at/stories/3078598/"
+    }, {
+      "id" : "uyAGPlUz",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/06/crops/w=1280/560120_opener_190706_meldungsliste3_12.jpg?s=0aab5a0c58f0e5cfba495d035c715461367a7c22",
+      "titleSource" : "Simplon erzielt deutlich mehr Umsatz",
+      "titleTarget" : "Simplon ostvaruje znatno više prodaje",
+      "url" : "https://vorarlberg.orf.at/stories/3078590/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "vYKvoy6H",
-      "imgUrl" : "https://image.kurier.at/images/original/4791891/46-173257988.jpg",
-      "titleSource" : "Fruchtbare Publizität: \"Die Furche\" wird 75",
-      "titleTarget" : "Plodan publicitet: \"Die Furche\" navršava 75 godina",
-      "url" : "https://kurier.at/kultur/fruchtbare-publizitaet-die-furche-wird-75/401114688"
+      "id" : "NlTEBaS6",
+      "imgUrl" : "https://image.kurier.at/images/original/4793742/46-142308940.jpg",
+      "titleSource" : "Zwischenrufe von Houellebecq: Bei Schubert weint er",
+      "titleTarget" : "Heckling iz Houellebecqa: Plače kod Schuberta",
+      "url" : "https://kurier.at/kultur/buch/zwischenrufe-von-houellebecq-bei-schubert-weint-er/401115984"
     }, {
-      "id" : "fvPwrbl6",
-      "imgUrl" : "https://image.kurier.at/images/original/4792839/46-173271666.jpg",
-      "titleSource" : "Koreanische Boygroup BTS landet Nummer-1-Hit in den USA",
-      "titleTarget" : "Korejski dječački bend BTS postigao je hit broj 1 u SAD-u",
-      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-landet-nummer-1-hit-in-den-usa/401115402"
-    }, {
-      "id" : "xoH2uv5k",
-      "imgUrl" : "https://image.kurier.at/images/original/4792224/46-110854125.jpg",
-      "titleSource" : "Der Spotify Jahresrückblick 2020",
-      "titleTarget" : "Godišnji pregled Spotify-a 2020",
-      "url" : "https://kurier.at/kultur/medien/der-spotify-jahresrueckblick-2020/401114913"
-    }, {
-      "id" : "wu4YO0Pi",
-      "imgUrl" : "https://image.kurier.at/images/original/4791081/01_07_twtl_s01.jpg",
-      "titleSource" : "5 Serien, auf die wir uns im Dezember bei Netflix & Co freuen",
-      "titleTarget" : "5 serija kojima se radujemo na Netflixu & Co u prosincu",
-      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-dezember-bei-netflix-co-freuen/401114223"
+      "id" : "kbLjaUVY",
+      "imgUrl" : "https://image.kurier.at/images/original/4794429/46-173257746.jpg",
+      "titleSource" : "Die Minoritenkirche und ihre weggeschossene Turmspitze",
+      "titleTarget" : "Minoritska crkva i njen odbijeni toranj",
+      "url" : "https://kurier.at/kultur/die-minoritenkirche-und-ihre-weggeschossene-turmspitze/401116257"
     }, {
       "id" : "GsIJX09M",
       "imgUrl" : "https://image.kurier.at/images/original/4794003/46-173271908.jpg",
@@ -165,6 +159,18 @@
       "titleSource" : "Kabarettpreis wird nur im Fernsehen übertragen",
       "titleTarget" : "Nagrada Cabaret prikazivat će se samo na televiziji",
       "url" : "https://kurier.at/kultur/kabarettpreis-wird-nur-im-fernsehen-uebertragen/401115903"
+    }, {
+      "id" : "fvPwrbl6",
+      "imgUrl" : "https://image.kurier.at/images/original/4792839/46-173271666.jpg",
+      "titleSource" : "Koreanische Boygroup BTS landet Nummer-1-Hit in den USA",
+      "titleTarget" : "Korejski dječački bend BTS postigao je hit broj 1 u SAD-u",
+      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-landet-nummer-1-hit-in-den-usa/401115402"
+    }, {
+      "id" : "9h10Q9hX",
+      "imgUrl" : "https://image.kurier.at/images/original/4792194/46-173252909.jpg",
+      "titleSource" : "Trotz Pandemie: Musiker ist statt zu jammern mit der Gitarre losgeradelt",
+      "titleTarget" : "Unatoč pandemiji: umjesto da se žali, glazbenik je krenuo na gitari",
+      "url" : "https://kurier.at/kultur/onk-lou-ist-statt-zu-jammern-mit-der-gitarre-losgeradelt/401114871"
     } ]
   }, {
     "category" : "HEALTH",
@@ -172,18 +178,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "93Xy3nuF",
-      "imgUrl" : "https://image.kurier.at/images/original/4792341/46-173240423.jpg",
-      "titleSource" : "Formel-1-Weltmeister Hamilton positiv auf Coronavirus getestet",
-      "titleTarget" : "Svjetski prvak Formule 1 Hamilton bio je pozitivan na koronavirus",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-hamilton-positiv-auf-coronavirus-getestet/401115063"
-    }, {
-      "id" : "rb91fXV6",
-      "imgUrl" : "https://image.kurier.at/images/original/4792632/46-154957796.jpg",
-      "titleSource" : "ÖSV-Athletin Venier hatte Corona: \"Konnte kaum noch aufstehen\"",
-      "titleTarget" : "Sportaš ÖSV-a Venier imao je Coronu: \"teško je mogao ustati\"",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-oesv-athletin-venier-hatte-corona-konnte-kaum-noch-aufstehen/401115264"
-    }, {
       "id" : "6du8jDsv",
       "titleSource" : "ÖFB-Frauen erkämpfen Erfolg gegen Serbien",
       "titleTarget" : "ÖFB žene se bore za uspjeh protiv Srbije",
@@ -205,10 +199,21 @@
       "titleTarget" : "Norveška se povlači sa Svjetskog prvenstva",
       "url" : "https://sport.orf.at/stories/3070076/"
     }, {
-      "id" : "nQW3d9lh",
-      "titleSource" : "Venier kämpft mit CoV-Nachwehen",
-      "titleTarget" : "Venier se bori s posljedicama CoV-a",
-      "url" : "https://sport.orf.at/stories/3070067/"
+      "id" : "XX5kLy1H",
+      "titleSource" : "Salzburg feiert Schlüsselsieg in Moskau",
+      "titleTarget" : "Salzburg slavi ključnu pobjedu u Moskvi",
+      "url" : "https://sport.orf.at/stories/3070084/"
+    }, {
+      "id" : "hISiBu5N",
+      "imgUrl" : "https://image.kurier.at/images/original/4794372/46-173284891.jpg",
+      "titleSource" : "Handball: Fivers verpassen nur knapp die nächste Sensation",
+      "titleTarget" : "Rukomet: Fivers jedva propušta sljedeću senzaciju",
+      "url" : "https://kurier.at/sport/handball-european-league-fivers-verpassen-knapp-die-naechste-sensation/401116230"
+    }, {
+      "id" : "KNDBhC3B",
+      "titleSource" : "Bayern halten „Bullen“ im Rennen",
+      "titleTarget" : "Bayern drži \"policajce\" u pokretu",
+      "url" : "https://sport.orf.at/stories/3070091/"
     } ]
   } ],
   "country" : "austria",
