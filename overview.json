@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "gCWBv81z",
-      "imgUrl" : "https://image.kurier.at/images/original/4769190/78350011457575888_BLD_Online.jpg",
-      "titleSource" : "Corona - Kurz: Testverweigerung wegen Quarantäne \"schwer fahrlässig\"",
-      "titleTarget" : "Corona - Ukratko: odbijanje testa zbog karantene \"ozbiljno nemaran\"",
-      "url" : "https://kurier.at/politik/inland/corona-kurz-testverweigerung-wegen-quarantaene-schwer-fahrlaessig/401114847"
-    }, {
       "id" : "KfH9AWmD",
       "imgUrl" : "https://image.kurier.at/images/original/4792374/46-169335450.jpg",
       "titleSource" : "Aschbacher: Arbeitslosigkeit steigt, 276.370 Menschen in Kurzarbeit",
@@ -19,12 +13,6 @@
       "titleSource" : "Schulen: Rendi-Wagner fordert Maskenpflicht im Unterricht",
       "titleTarget" : "Škole: Rendi-Wagner traži da se na satu traži maska",
       "url" : "https://kurier.at/politik/inland/schulen-rendi-wagner-fordert-maskenpflicht-im-unterricht/401115453"
-    }, {
-      "id" : "K4cLNrzC",
-      "imgUrl" : "https://image.kurier.at/images/original/4793436/46-173252552.jpg",
-      "titleSource" : "Corona-Zahlen: Ministerium wollte kurzfristig Zählweise ändern",
-      "titleTarget" : "Brojevi Corone: Ministarstvo je htjelo u kratkom roku promijeniti način brojanja",
-      "url" : "https://kurier.at/politik/inland/corona-zahlen-gesundheitsministerium-wollte-kurzfristig-zaehlweise-aendern/401115783"
     }, {
       "id" : "6qLPDFBj",
       "imgUrl" : "https://image.kurier.at/images/original/4792911/46-173271430.jpg",
@@ -46,47 +34,47 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "VV00WEdE",
-      "imgUrl" : "https://image.kurier.at/images/original/4792104/bildschirmfoto_2020-11-30_um_18.17.58.png",
-      "titleSource" : "Keine Ergebnisse für \"Fußball\": Das \"Kaufhaus Österreich\" im Praxistest",
-      "titleTarget" : "\"Robna kuća Austrija\" u praktičnom testu",
-      "url" : "https://kurier.at/wirtschaft/das-kaufhaus-oesterreich-im-praxistest/401114874"
-    }, {
       "id" : "IXAzSPpq",
       "imgUrl" : "https://image.kurier.at/images/original/4792590/46-167362507.jpg",
       "titleSource" : "Ex-Finanzminister Löger zieht in Vorstand der VIG ein",
       "titleTarget" : "Bivši ministar financija Löger pridružio se upravnom odboru VIG-a",
       "url" : "https://kurier.at/wirtschaft/ex-finanzminister-loeger-zieht-in-vorstand-der-vig-ein/401115219"
     }, {
-      "id" : "oUUhhIXR",
-      "imgUrl" : "https://image.kurier.at/images/original/4777626/online-shopping-2.jpg",
-      "titleSource" : "Spott und Häme für neue Einkaufsplattform \"Kaufhaus Österreich\"",
-      "titleTarget" : "Izrugivanje i zloba za novu trgovačku platformu \"Kaufhaus Österreich\"",
-      "url" : "https://kurier.at/wirtschaft/spott-und-haeme-fuer-neue-einkaufsplattform-kaufhaus-oesterreich/401115249"
+      "id" : "EzHeQ0Of",
+      "imgUrl" : "https://image.kurier.at/images/original/4794156/46-170520971.jpg",
+      "titleSource" : "Reform des Taxigewerbes geht durch Verkehrsausschuss",
+      "titleTarget" : "Reforma taksi industrije prolazi kroz odbor za promet",
+      "url" : "https://kurier.at/wirtschaft/reform-des-taxigewerbes-geht-durch-verkehrsausschuss/401116155"
     }, {
-      "id" : "Vz43eOat",
-      "imgUrl" : "https://image.kurier.at/images/original/4782411/46-169499843.jpg",
-      "titleSource" : "Zu Gast im Ritz Carlton: Ein Tag im Hoteloffice",
-      "titleTarget" : "Kao gost u Ritz Carltonu: dan u hotelskom uredu",
-      "url" : "https://kurier.at/wirtschaft/karriere/ein-tag-im-hoteloffice-im-ritz-carlton-vienna/401110647"
+      "id" : "6ynRdCqM",
+      "imgUrl" : "https://image.kurier.at/images/original/4792872/46-173271902.jpg",
+      "titleSource" : "HIV-positiv im Job: Firmen \"outen\" sich gegen Vorurteile",
+      "titleTarget" : "HIV pozitivni na poslu: tvrtke \"izlaze\" protiv predrasuda",
+      "url" : "https://kurier.at/wirtschaft/hiv-positiv-im-job-firmen-outen-sich-gegen-vorurteile/401115963"
     }, {
-      "id" : "Gu5kWf5U",
-      "imgUrl" : "https://image.kurier.at/images/original/4596851/81650355556126792_BLD_Online.jpg",
-      "titleSource" : "Exxon kündigt Mega-Abschreibung und großen Stellenabbau an",
-      "titleTarget" : "Exxon najavljuje mega-otpise i ogroman ukid posla",
-      "url" : "https://kurier.at/wirtschaft/exxon-kuendigt-mega-abschreibung-und-grossen-stellenabbau-an/401115042"
+      "id" : "0oYfa3s6",
+      "imgUrl" : "https://image.kurier.at/images/original/4793625/46-168829661.jpg",
+      "titleSource" : "Weniger Gehalt für Siemens-Chef Joe Kaeser",
+      "titleTarget" : "Niža plaća šefu Siemensa Joeu Kaeseru",
+      "url" : "https://kurier.at/wirtschaft/weniger-gehalt-fuer-siemens-chef-joe-kaeser/401115897"
     }, {
-      "id" : "pVxj28R3",
-      "imgUrl" : "https://image.kurier.at/images/original/4791723/46-170700667.jpg",
-      "titleSource" : "Immobilien: Die Folgen des  Preisanstiegs",
-      "titleTarget" : "Nekretnine: posljedice rasta cijena",
-      "url" : "https://kurier.at/wirtschaft/immobiz/die-folgen-des-preisanstiegs/401114577"
+      "id" : "Im0MR8ie",
+      "imgUrl" : "https://image.kurier.at/images/original/632667/ams2-000_juerg%252Bchristandl.jpg",
+      "titleSource" : "Warnung vor \"Generation Corona\"",
+      "titleTarget" : "Upozorenje o \"generaciji Corona\"",
+      "url" : "https://kurier.at/wirtschaft/warnung-vor-generation-corona/401115621"
     }, {
-      "id" : "9mxIAFyz",
-      "imgUrl" : "https://image.kurier.at/images/original/4609322/81710357856229704_BLD_Online.jpg",
-      "titleSource" : "Wachstum von Zoom geht dank Homeoffice durch die Decke",
-      "titleTarget" : "Zoom raste zahvaljujući krovu zahvaljujući svom matičnom uredu",
-      "url" : "https://kurier.at/wirtschaft/wachstum-von-zoom-geht-dank-homeoffice-durch-die-decke/401114955"
+      "id" : "NI302OnS",
+      "imgUrl" : "https://image.kurier.at/images/original/4793130/46-173254569.jpg",
+      "titleSource" : "\"Kaufhaus Österreich\": Opposition plant Anfragen",
+      "titleTarget" : "\"Robna kuća Austrija\": Upit o planovima za oporbu",
+      "url" : "https://kurier.at/wirtschaft/kaufhaus-oesterreich-opposition-plant-anfragen/401115537"
+    }, {
+      "id" : "GvC2EXat",
+      "imgUrl" : "https://image.kurier.at/images/original/4596710/20200825-ABD0063-1-1.jpg",
+      "titleSource" : "Corona brachte Boom bei Smartphone-Verträgen",
+      "titleTarget" : "Corona je donijela procvat ugovora o pametnim telefonima",
+      "url" : "https://kurier.at/wirtschaft/corona-brachte-boom-bei-smartphone-vertraegen/401115513"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,40 +85,41 @@
       "titleTarget" : "Policija bi u budućnosti trebala moći kontrolirati urede",
       "url" : "https://kurier.at/chronik/oesterreich/polizei-soll-kuenftig-in-betriebsstaetten-kontrollieren-duerfen/401115348"
     }, {
-      "id" : "UkTyeka5",
-      "titleSource" : "FFP2-Masken gratis für alle über 65",
-      "titleTarget" : "FFP2 maske besplatne za sve starije od 65 godina",
-      "url" : "https://oesterreich.orf.at/stories/3078460/"
-    }, {
-      "id" : "fI0FP71n",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/99/crops/w=1280/769095_opener_267399_bankraub_krumpendorf_gepkxejpg.jpg?s=cfca9ce9750717425f85a7c03caef86fbafafbfa",
-      "titleSource" : "Banküberfall in Krumpendorf",
-      "titleTarget" : "Pljačka banke u Krumpendorfu",
-      "url" : "https://kaernten.orf.at/stories/3078456/"
-    }, {
       "id" : "JNThOaLf",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "3.033 neue Fälle in Österreich",
       "titleTarget" : "3.033 nova slučaja u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/coronavirus-3033-neue-faelle-in-oesterreich/401115342"
     }, {
-      "id" : "n5VxseYA",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/45/crops/w=1280/769709_opener_267645_lindner05_1m.jpg?s=c47858f5c60df3a7fa2e318dbaf5855ca58fe8c9",
-      "titleSource" : "Michael Lindner neuer Klubchef der SPÖ",
-      "titleTarget" : "Michael Lindner novi šef kluba SPÖ",
-      "url" : "https://ooe.orf.at/stories/3078544/"
+      "id" : "99buhnfi",
+      "imgUrl" : "https://image.kurier.at/images/original/4792455/20201201-ABD0027-1-1.jpg",
+      "titleSource" : "3.033 Neuinfektionen in Ö; Polizei soll in Büros kontrollieren dürfen",
+      "titleTarget" : "3.033 nove infekcije u Austriji; Policiji treba omogućiti kontrolu u uredima",
+      "url" : "https://kurier.at/chronik/oesterreich/zehn-gratis-masken-fuer-aeltere-menschen-kurz-testverweigerung-schwer-fahrlaessig/401114985"
     }, {
-      "id" : "lQB9bwrB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/83/crops/w=1280/769500_opener_267583_corona_schulen_im_lockdown_.jpg?s=e4f39c03dd4d12e477aeb8e5e65c4bd0bb2a8607",
-      "titleSource" : "Vier Maßnahmen für Pandemie-Schulbetrieb",
-      "titleTarget" : "Četiri mjere za rad pandemijskih škola",
-      "url" : "https://wien.orf.at/stories/3078548/"
+      "id" : "qCM6UElX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/99/crops/w=1280/769860_opener_267699_image.ashx.jpg?s=bf87a6c6a5a6647608ce7ab0b3856b54a1f4aaf2",
+      "titleSource" : "Langzeitarbeitslose entlasten Pflegepersonal",
+      "titleTarget" : "Dugotrajno nezaposleni skidaju teret sa sestrinskog osoblja",
+      "url" : "https://steiermark.orf.at/stories/3078488/"
     }, {
-      "id" : "AmCF4oKp",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/01/crops/w=1280/769344_opener_267501_annaberg_massentest8.jpg?s=82df3c78b05e550ac205b299c2be196c7ca7d431",
-      "titleSource" : "Massentest: Beteiligung in Annaberg hinter Erwartungen",
-      "titleTarget" : "Masovni test: sudjelovanje u Annabergu ispod očekivanja",
-      "url" : "https://salzburg.orf.at/stories/3078451/"
+      "id" : "PFVopcTq",
+      "imgUrl" : "https://image.kurier.at/images/original/4792287/46-173257294.jpg",
+      "titleSource" : "Massentests starten heute: Bundesländer unterschiedlich vorbereitet",
+      "titleTarget" : "Masovna ispitivanja počinju danas: savezne države su se drugačije pripremile",
+      "url" : "https://kurier.at/chronik/oesterreich/massentests-zu-coronavirus-wie-die-einzelnen-bundeslaender-vorbereitet-sind/401115024"
+    }, {
+      "id" : "qGFyd5Wo",
+      "imgUrl" : "https://image.kurier.at/images/original/4793502/46-123742713.jpg",
+      "titleSource" : "Terrorprozess: Der Dschihadist von nebenan",
+      "titleTarget" : "Suđenje za teror: susjedni džihadist",
+      "url" : "https://kurier.at/chronik/oesterreich/terrorprozess-der-dschihadist-von-nebenan/401115837"
+    }, {
+      "id" : "QWEwCtVC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/34/crops/w=1280/764694_opener_265834_fucking1_472.5051749.jpg?s=7a5039ef8e497865093f77d57386201ae07ce21f",
+      "titleSource" : "Reger Handel mit „Fucking“-Ortstafeln",
+      "titleTarget" : "Oštra trgovina \"jebenim\" natpisima imena mjesta",
+      "url" : "https://ooe.orf.at/stories/3078582/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -140,6 +129,12 @@
       "titleSource" : "Fruchtbare Publizität: \"Die Furche\" wird 75",
       "titleTarget" : "Plodan publicitet: \"Die Furche\" navršava 75 godina",
       "url" : "https://kurier.at/kultur/fruchtbare-publizitaet-die-furche-wird-75/401114688"
+    }, {
+      "id" : "fvPwrbl6",
+      "imgUrl" : "https://image.kurier.at/images/original/4792839/46-173271666.jpg",
+      "titleSource" : "Koreanische Boygroup BTS landet Nummer-1-Hit in den USA",
+      "titleTarget" : "Korejski dječački bend BTS postigao je hit broj 1 u SAD-u",
+      "url" : "https://kurier.at/kultur/koreanische-boygroup-bts-landet-nummer-1-hit-in-den-usa/401115402"
     }, {
       "id" : "xoH2uv5k",
       "imgUrl" : "https://image.kurier.at/images/original/4792224/46-110854125.jpg",
@@ -153,17 +148,11 @@
       "titleTarget" : "5 serija kojima se radujemo na Netflixu & Co u prosincu",
       "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-dezember-bei-netflix-co-freuen/401114223"
     }, {
-      "id" : "pfxSS74M",
-      "imgUrl" : "https://image.kurier.at/images/original/4792194/46-173252909.jpg",
-      "titleSource" : "Onk Lou ist statt zu jammern mit der Gitarre losgeradelt",
-      "titleTarget" : "Umjesto cmizdrenja, Onk Lou krenuo je na gitari",
-      "url" : "https://kurier.at/kultur/onkel-lou-ist-statt-zu-jammern-mit-der-gitarre-losgeradelt/401114871"
-    }, {
-      "id" : "vht7mauZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4024296/46-154016386.jpg",
-      "titleSource" : "Oper! Awards: Salzburger Festspiele und Wiener Philharmoniker geehrt",
-      "titleTarget" : "Opera! Nagrade: Počašćeni Salzburški festival i Bečka filharmonija",
-      "url" : "https://kurier.at/kultur/oper-awards-salzburger-festspiele-und-wiener-philharmoniker-geehrt/401114886"
+      "id" : "GsIJX09M",
+      "imgUrl" : "https://image.kurier.at/images/original/4794003/46-173271908.jpg",
+      "titleSource" : "„Wir sind Kaiser*in“ schiebt \"Gute Nacht Österreich\" zur Seite",
+      "titleTarget" : "\"Mi smo carevi\" gura \"Gute Nacht Österreich\" u stranu",
+      "url" : "https://kurier.at/kultur/medien/wir-sind-kaiserin-schiebt-peter-kliens-gute-nacht-oesterreich-zur-seite/401116110"
     }, {
       "id" : "i6PdSMDl",
       "imgUrl" : "https://image.kurier.at/images/original/4793640/46-173277349.jpg",
@@ -195,31 +184,31 @@
       "titleTarget" : "Sportaš ÖSV-a Venier imao je Coronu: \"teško je mogao ustati\"",
       "url" : "https://kurier.at/sport/wintersport/ski-alpin-oesv-athletin-venier-hatte-corona-konnte-kaum-noch-aufstehen/401115264"
     }, {
-      "id" : "V7txAf1Z",
-      "titleSource" : "LASK macht es sich selbst schwer",
-      "titleTarget" : "LASK to sebi otežava",
-      "url" : "https://sport.orf.at/stories/3070023/"
+      "id" : "6du8jDsv",
+      "titleSource" : "ÖFB-Frauen erkämpfen Erfolg gegen Serbien",
+      "titleTarget" : "ÖFB žene se bore za uspjeh protiv Srbije",
+      "url" : "https://sport.orf.at/stories/3070088/"
     }, {
-      "id" : "Fbauv1ox",
-      "titleSource" : "Für ÖFB-Frauen zählt zum Abschluss nur Sieg",
-      "titleTarget" : "Za ÖFB žene na kraju se računa samo pobjeda",
-      "url" : "https://sport.orf.at/stories/3070042/"
+      "id" : "NR7i8rsI",
+      "titleSource" : "Hamilton nach CoV-Test „am Boden zerstört“",
+      "titleTarget" : "Hamilton je \"devastiran\" nakon CoV testa",
+      "url" : "https://sport.orf.at/stories/3070079/"
+    }, {
+      "id" : "pnEG8mVg",
+      "imgUrl" : "https://image.kurier.at/images/original/4794213/46-173282375.jpg",
+      "titleSource" : "Pflichtsieg in Moskau: Salzburgs Traum vom Achtelfinale lebt",
+      "titleTarget" : "Obavezna pobjeda u Moskvi: Sanzburški san o osmini finala je živ",
+      "url" : "https://kurier.at/sport/fussball/champions-league-sieg-bei-lok-moskau-red-bull-salzburg-bleibt-im-europacup-rennen/401115159"
+    }, {
+      "id" : "XScypsdC",
+      "titleSource" : "Norwegen zieht sich aus Weltcup zurück",
+      "titleTarget" : "Norveška se povlači sa Svjetskog prvenstva",
+      "url" : "https://sport.orf.at/stories/3070076/"
     }, {
       "id" : "nQW3d9lh",
       "titleSource" : "Venier kämpft mit CoV-Nachwehen",
       "titleTarget" : "Venier se bori s posljedicama CoV-a",
       "url" : "https://sport.orf.at/stories/3070067/"
-    }, {
-      "id" : "FFjSPV0P",
-      "titleSource" : "Frappart pfeift als erste Frau in Champions League",
-      "titleTarget" : "Frappart je prva žena koja je zviždala u Ligi prvaka",
-      "url" : "https://sport.orf.at/stories/3070055/"
-    }, {
-      "id" : "ljORyYvB",
-      "imgUrl" : "https://image.kurier.at/images/original/4792494/46-169020975.jpg",
-      "titleSource" : "Skistar Mikaela Shiffrin legt eine Wettkampfpause ein",
-      "titleTarget" : "Skijaška zvijezda Mikaela Shiffrin predahnula je od natjecanja",
-      "url" : "https://kurier.at/sport/wintersport/skistar-mikaela-shiffrin-legt-eine-wettkampfpause-ein/401115192"
     } ]
   } ],
   "country" : "austria",
