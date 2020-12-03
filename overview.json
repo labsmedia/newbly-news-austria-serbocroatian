@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "2JUxhEZs",
-      "imgUrl" : "https://image.kurier.at/images/original/4795572/20201202-ABD0073-1-1.jpg",
-      "titleSource" : "Kurz: Lockerungen \"schrittweise, und ich betone: behutsam\"",
-      "titleTarget" : "Zaključavanje: Vlada danas najavljuje prve korake za otvaranje",
-      "url" : "https://kurier.at/politik/inland/lockdown-regierung-verkuendet-erste-oeffnungsschritte/401116311"
+      "id" : "aU68npLL",
+      "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
+      "titleSource" : "Schulöffnung: Ablehnung der Schul-Maskerade",
+      "titleTarget" : "Otvaranje škole: Odbijanje školske maškare",
+      "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
     }, {
       "id" : "Vsto2AF7",
       "imgUrl" : "https://image.kurier.at/images/original/4796244/46-173293149.jpg",
@@ -14,11 +14,11 @@
       "titleTarget" : "Vozni red do 7. siječnja: Božićni vodič Corona",
       "url" : "https://kurier.at/politik/inland/fahrplan-bis-7-jaenner-der-corona-weihnachts-guide/401117343"
     }, {
-      "id" : "aU68npLL",
-      "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
-      "titleSource" : "Schulöffnung: Ablehnung der Schul-Maskerade",
-      "titleTarget" : "Otvaranje škole: Odbijanje školske maškare",
-      "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
+      "id" : "0Vq7j2xt",
+      "imgUrl" : "https://image.kurier.at/images/original/4795686/78350011457777062_BLD_Online.jpg",
+      "titleSource" : "Kurz rechnet mit steigenden Infektionszahlen nach Weihnachten",
+      "titleTarget" : "Kurz očekuje da će nakon Božića porasti broj zaraza",
+      "url" : "https://kurier.at/politik/inland/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten/401117475"
     }, {
       "id" : "GWaEdHnW",
       "imgUrl" : "https://image.kurier.at/images/original/4795878/46-167369505.jpg",
@@ -26,23 +26,23 @@
       "titleTarget" : "Reakcije na opuštanje: \"masovni testovi su štetne mjere\"",
       "url" : "https://kurier.at/politik/inland/reaktionen-zu-lockerungen-massentests-sind-schaedliche-massnahme/401117145"
     }, {
-      "id" : "KdynxTyJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4782387/20201126-ABD0105-1-1.jpg",
-      "titleSource" : "U-Ausschuss: \"Nein, die Novomatic zahlt nicht alle - aber viele wollen Unterstützung\"",
-      "titleTarget" : "Novac za zakone? \"Novomatic to ne radi\"",
-      "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-preislisten-fuer-gesetze-im-mittelpunkt/401116527"
-    }, {
       "id" : "hq3pwCN3",
       "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
       "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
       "titleTarget" : "Obiteljski bonus lagano je prigušio progresiju hladnoće",
       "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
     }, {
-      "id" : "HKEiPqRr",
-      "imgUrl" : "https://image.kurier.at/images/original/3722183/46-110652691.jpg",
-      "titleSource" : "Corona: \"Senioren fit fürs Internet\" jetzt via TV und ORF-Nachlese",
-      "titleTarget" : "Corona: \"Starije osobe sposobne za Internet\" sada putem TV-a i ORF-ovog pregleda",
-      "url" : "https://kurier.at/politik/inland/corona-senioren-fit-fuers-internet-jetzt-via-tv-und-orf-nachlese/401116584"
+      "id" : "Eiwjtidz",
+      "imgUrl" : "https://image.kurier.at/images/original/4177656/46-163023947.jpg",
+      "titleSource" : "Klaudia Tanner: „Wer verteidigen kann, kann auch helfen“",
+      "titleTarget" : "Klaudia Tanner: \"Oni koji mogu braniti mogu također pomoći\"",
+      "url" : "https://kurier.at/politik/inland/klaudia-tanner-wer-verteidigen-kann-kann-auch-helfen/401117211"
+    }, {
+      "id" : "WsjRJ1sB",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/6/5/5906533/BRO-ERFFNUNG-DER-INTERVENTIONSSTELLE-FR-BETROFFENE-VON-FRAUENHANDEL-IBF-HEINISCH-HOSEK_1606990173072938_v0_h.jpg",
+      "titleSource" : "\"Virus eingeschleppt\": SPÖ-Politiker fordern Entschuldigung von Kurz",
+      "titleTarget" : "\"Donesen virus\": političari SPÖ-a traže isprike od Kurza",
+      "url" : "https://www.diepresse.com/5906533/Corona_Virus-eingeschleppt_SPOePolitiker-fordern-Entschuldigung?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -71,11 +71,11 @@
       "titleTarget" : "Spasite kokoši: Singapur dopušta piletinu iz laboratorija",
       "url" : "https://kurier.at/wirtschaft/rettet-die-huehner-singapur-erlaubt-huehnerfleisch-aus-dem-labor/401116665"
     }, {
-      "id" : "DaM4sTJQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4684794/20201008-ABD0016-1-1.jpg",
-      "titleSource" : "Wirecard-Skandal: Anleger aus Österreich verloren viele Millionen",
-      "titleTarget" : "Skandal s žičanim karticama: investitori iz Austrije izgubili su milijune",
-      "url" : "https://kurier.at/wirtschaft/wirecard-skandal-anleger-aus-oesterreich-verloren-viele-millionen/401116308"
+      "id" : "oMIebGc8",
+      "imgUrl" : "https://image.kurier.at/images/original/4796535/46-173309101.jpg",
+      "titleSource" : "Boeing 737 Max hebt erstmals nach FAA-Freigabe ab",
+      "titleTarget" : "Boeing 737 Max prvi put polijeće nakon odobrenja FAA",
+      "url" : "https://kurier.at/wirtschaft/boeing-737-max-hebt-erstmals-nach-faa-freigabe-ab/401117556"
     }, {
       "id" : "VV2zi2KD",
       "imgUrl" : "https://image.kurier.at/images/original/4479806/78370011355220902_BLD_Online.jpg",
@@ -98,23 +98,17 @@
       "titleTarget" : "Lakše od 7. prosinca: Ovo su najvažnije točke",
       "url" : "https://kurier.at/chronik/oesterreich/lockerungen-ab-7-dezember-das-sind-die-wichtigsten-punkte/401116848"
     }, {
-      "id" : "fGIeTDRf",
-      "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
-      "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
-      "titleTarget" : "Božićne tržnice otkazuju se ove godine - skijališta se otvaraju tek 24. prosinca",
-      "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
-    }, {
       "id" : "9Or9ocKV",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/37/crops/w=1280/770895_opener_268037_grenzkontrollen.jpg?s=ba2e84cae28d5d0520183a493ca0386e564eff78",
       "titleSource" : "Quarantäne bei Einreise aus Risikogebiet",
       "titleTarget" : "Karantena pri ulasku iz rizičnog područja",
       "url" : "https://vorarlberg.orf.at/stories/3078745/"
     }, {
-      "id" : "QuVfPSgB",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: 3.972 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: 3.972 nove infekcije u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-3972-neuinfektionen-in-oesterreich/401116470"
+      "id" : "fGIeTDRf",
+      "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
+      "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
+      "titleTarget" : "Božićne tržnice otkazuju se ove godine - skijališta se otvaraju tek 24. prosinca",
+      "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
     }, {
       "id" : "3nmtrjV7",
       "imgUrl" : "https://image.kurier.at/images/original/4795233/46-173268926.jpg",
@@ -122,11 +116,17 @@
       "titleTarget" : "Federalni softver za masovno testiranje ne dolazi na vrijeme",
       "url" : "https://kurier.at/chronik/oesterreich/bundes-software-fuer-massentest-kommt-nicht-rechtzeitig/401116839"
     }, {
-      "id" : "8pT82IRn",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/41/crops/w=1280/771232_opener_268141_corona.jpg?s=5950f20a2b05ec00741896b3bee2b279550d3d94",
-      "titleSource" : "Massentest in Annaberg-Lungötz: Knapp die Hälfte kam",
-      "titleTarget" : "Masovni test u Annaberg-Lungötzu: došla je gotovo polovica",
-      "url" : "https://salzburg.orf.at/stories/3078633/"
+      "id" : "VlgziW2c",
+      "imgUrl" : "https://image.kurier.at/images/original/4796259/46-173275627.jpg",
+      "titleSource" : "Erster Massentest: Warum es in Annaberg so wenig Positive gab",
+      "titleTarget" : "Prvo masovno ispitivanje: Zašto je u Annabergu bilo tako malo pozitivnih strana",
+      "url" : "https://kurier.at/chronik/oesterreich/erster-massentest-warum-es-in-annaberg-so-wenig-positive-gab/401117355"
+    }, {
+      "id" : "vu1Xgc9G",
+      "imgUrl" : "https://image.kurier.at/images/original/4796964/46-173238159.jpg",
+      "titleSource" : "Massentests: Schon 100.000 Anmeldungen; Intensivmediziner: \"Von Zielwerten noch weit enfernt\"",
+      "titleTarget" : "Masovna ispitivanja: Već 100 000 registracija; Liječnik intenzivne njege: \"Još uvijek je daleko od ciljanih vrijednosti\"",
+      "url" : "https://kurier.at/chronik/oesterreich/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten-deutschland-verlaengert-teil-lockdown/401117547"
     }, {
       "id" : "zrOrL3Rl",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/67/crops/w=1280/771289_opener_268167_sessellift.jpg?s=a8401c70f033d348a5b0df1e0dba6e7e107c8131",
@@ -143,23 +143,11 @@
       "titleTarget" : "Muzeji i knjižnice se ponovno otvaraju, kazališta ostaju zatvorena",
       "url" : "https://kurier.at/kultur/museen-und-bibliotheken-oeffnen-wieder-theater-bleiben-geschlossen/401116842"
     }, {
-      "id" : "NlTEBaS6",
-      "imgUrl" : "https://image.kurier.at/images/original/4793742/46-142308940.jpg",
-      "titleSource" : "Zwischenrufe von Houellebecq: Bei Schubert weint er",
-      "titleTarget" : "Heckling iz Houellebecqa: Plače kod Schuberta",
-      "url" : "https://kurier.at/kultur/buch/zwischenrufe-von-houellebecq-bei-schubert-weint-er/401115984"
-    }, {
       "id" : "2Xxolcks",
       "imgUrl" : "https://image.kurier.at/images/original/4795152/46-164203882.jpg",
       "titleSource" : "Palfraders Kaiser bekommt eine Tochter - im ORF",
       "titleTarget" : "Palfraders Kaiser ima kćer - na ORF-u",
       "url" : "https://kurier.at/kultur/medien/palfraders-kaiser-bekommt-eine-tochter-im-orf/401116725"
-    }, {
-      "id" : "kbLjaUVY",
-      "imgUrl" : "https://image.kurier.at/images/original/4794429/46-173257746.jpg",
-      "titleSource" : "Die Minoritenkirche und ihre weggeschossene Turmspitze",
-      "titleTarget" : "Minoritska crkva i njen odbijeni toranj",
-      "url" : "https://kurier.at/kultur/die-minoritenkirche-und-ihre-weggeschossene-turmspitze/401116257"
     }, {
       "id" : "dLUU22wY",
       "imgUrl" : "https://image.kurier.at/images/original/4795803/46-145848908.jpg",
@@ -173,11 +161,22 @@
       "titleTarget" : "\"Nasmijte publiku, a ne naježite ih\"",
       "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
     }, {
-      "id" : "MYlhz6Vq",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/d/5906125/Buehnenfoto_5_Brugger_1606914925639765_v0_h.jpg",
-      "titleSource" : "Hazel Brugger, nun auch auf Netflix",
-      "titleTarget" : "Hazel Brugger, sada na Netflixu",
-      "url" : "https://www.diepresse.com/5906125/Comedy_Hazel-Brugger-nun-auch-auf-Netflix?from=rss"
+      "id" : "bxUxrks3",
+      "titleSource" : "\"Lockdown-Bonus\" für freischaffende Künstler wird erhöht",
+      "titleTarget" : "Povećava se \"Lockdown Bonus\" za slobodne umjetnike",
+      "url" : "https://www.diepresse.com/5906541/CoronaHilfen_LockdownBonus-fuer-freischaffende-Kuenstler-wird-erhoeht?from=rss"
+    }, {
+      "id" : "Rm2Ev1iD",
+      "imgUrl" : "https://image.kurier.at/images/original/4797039/46-168313335.jpg",
+      "titleSource" : "Mikkelsen sieht Grindelwald-Rolle als Gratwanderung",
+      "titleTarget" : "Mikkelsen Grindelwald-Rollea vidi kao šetnju po užadu",
+      "url" : "https://kurier.at/kultur/mikkelsen-sieht-grindelwald-rolle-als-gratwanderung/401117796"
+    }, {
+      "id" : "bIVPgayF",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/f/5906463/Austrian-government-holds-news-conference-to-announce-reopening-of-country-after-lockdown_1606985326363516_v0_h.jpg",
+      "titleSource" : "Ski-Streit: \"Als Tiger gesprungen, als Bettvorleger gelandet\"",
+      "titleTarget" : "Skijaški spor: \"Skočio kao tigar, sletio kao tepih\"",
+      "url" : "https://www.diepresse.com/5906463/Pressestimmen_SkiStreit_Als-Tiger-gesprungen-als-Bettvorleger?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -191,6 +190,11 @@
       "titleTarget" : "Svjetski kup u pikadu u Coroni: 1.000 navijača i alkohol dozvoljeni",
       "url" : "https://kurier.at/sport/die-darts-wm-in-corona-zeiten-1000-fans-und-alkohol-erlaubt/401116752"
     }, {
+      "id" : "ecX4LcKO",
+      "titleSource" : "Messi für Maradona-Huldigung bestraft",
+      "titleTarget" : "Messi je kažnjen zbog odavanja počasti Maradoni",
+      "url" : "https://sport.orf.at/stories/3070125/"
+    }, {
       "id" : "pGnO72pp",
       "imgUrl" : "https://image.kurier.at/images/original/4793637/46-168024942.jpg",
       "titleSource" : "Rapid-Legende Panenka: \"Fußball ohne Fans ist nur halb so schön\"",
@@ -202,26 +206,22 @@
       "titleTarget" : "Covid-19: Vučenje konopa za poštena natjecanja",
       "url" : "https://sport.orf.at/stories/3070078/"
     }, {
-      "id" : "ecX4LcKO",
-      "titleSource" : "Messi für Maradona-Huldigung bestraft",
-      "titleTarget" : "Messi je kažnjen zbog odavanja počasti Maradoni",
-      "url" : "https://sport.orf.at/stories/3070125/"
-    }, {
-      "id" : "16UrPjFI",
-      "imgUrl" : "https://image.kurier.at/images/original/4794717/46-173291174.jpg",
-      "titleSource" : "Nun ist es fix: Ein Schumacher fährt ab 2021 in der Formel 1",
-      "titleTarget" : "Sada je popravljeno: Schumacher će voziti u Formuli 1 od 2021. godine",
-      "url" : "https://kurier.at/sport/motorsport/nun-ist-es-fix-mick-schumacher-faehrt-ab-2021-in-der-formel-1/401116416"
-    }, {
       "id" : "hOGL3ek4",
       "titleSource" : "Froschberg-Damen in CL-Turnier-Gruppe mit Metz",
       "titleTarget" : "Froschberg žene u CL turnirskoj skupini s Metzom",
       "url" : "https://sport.orf.at/stories/3070118/"
     }, {
-      "id" : "RETmW9dp",
-      "titleSource" : "Salzburg darf vom Aufstieg träumen",
-      "titleTarget" : "Salzburg može sanjati o unapređenju",
-      "url" : "https://sport.orf.at/stories/3070097/"
+      "id" : "Ils0giEE",
+      "imgUrl" : "https://image.kurier.at/images/original/4796379/46-170484028.jpg",
+      "titleSource" : "Schlierenzauer-Appell: \"Nehmt Corona nicht auf die leichte Schulter\"",
+      "titleTarget" : "Schlierenzauerov apel: \"Ne shvaćajte Coronu olako\"",
+      "url" : "https://kurier.at/sport/wintersport/appell-von-gregor-schlierenzauer-nehmt-corona-nicht-auf-die-leichte-schulter/401117427"
+    }, {
+      "id" : "KagsY1K8",
+      "imgUrl" : "https://image.kurier.at/images/original/4796376/46-173238753.jpg",
+      "titleSource" : "Messi muss nach Jubel zu Ehren Maradonas 600 Euro zahlen",
+      "titleTarget" : "Messi mora platiti 600 eura nakon navijanja u čast Maradone",
+      "url" : "https://kurier.at/sport/fussball/fussball-messi-fuer-trikotjubel-zu-ehren-maradonas-bestraft/401117424"
     } ]
   } ],
   "country" : "austria",
