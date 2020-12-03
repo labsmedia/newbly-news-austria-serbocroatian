@@ -2,169 +2,151 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "aU68npLL",
-      "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
-      "titleSource" : "Schulöffnung: Ablehnung der Schul-Maskerade",
-      "titleTarget" : "Otvaranje škole: Odbijanje školske maškare",
-      "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
-    }, {
-      "id" : "Vsto2AF7",
-      "imgUrl" : "https://image.kurier.at/images/original/4796244/46-173293149.jpg",
-      "titleSource" : "Fahrplan bis 7. Jänner: Der Corona-Weihnachts-Guide",
-      "titleTarget" : "Vozni red do 7. siječnja: Božićni vodič Corona",
-      "url" : "https://kurier.at/politik/inland/fahrplan-bis-7-jaenner-der-corona-weihnachts-guide/401117343"
-    }, {
       "id" : "0Vq7j2xt",
       "imgUrl" : "https://image.kurier.at/images/original/4795686/78350011457777062_BLD_Online.jpg",
       "titleSource" : "Kurz rechnet mit steigenden Infektionszahlen nach Weihnachten",
       "titleTarget" : "Kurz očekuje da će nakon Božića porasti broj zaraza",
       "url" : "https://kurier.at/politik/inland/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten/401117475"
     }, {
-      "id" : "GWaEdHnW",
-      "imgUrl" : "https://image.kurier.at/images/original/4795878/46-167369505.jpg",
-      "titleSource" : "Reaktionen zu Lockerungen: \"Massentests sind schädliche Maßnahme\"",
-      "titleTarget" : "Reakcije na opuštanje: \"masovni testovi su štetne mjere\"",
-      "url" : "https://kurier.at/politik/inland/reaktionen-zu-lockerungen-massentests-sind-schaedliche-massnahme/401117145"
+      "id" : "Evyjj7qL",
+      "imgUrl" : "https://image.kurier.at/images/original/4797597/46-173296973.jpg",
+      "titleSource" : "Anschober: \"Intensivstationen stark überlastet und viel zu viele Tote\"",
+      "titleTarget" : "Anschober: \"Jedinice intenzivne njege jako preopterećene i previše smrtnih slučajeva\"",
+      "url" : "https://kurier.at/politik/inland/anschober-intensivstationen-stark-ueberlastet-und-viel-zu-viele-tote/401118039"
     }, {
-      "id" : "hq3pwCN3",
-      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
-      "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
-      "titleTarget" : "Obiteljski bonus lagano je prigušio progresiju hladnoće",
-      "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
+      "id" : "kOjEI3Xq",
+      "imgUrl" : "https://image.kurier.at/images/original/4797924/46-167921075.jpg",
+      "titleSource" : "\"Virus eingeschleppt\": Kogler verlangt von Kurz \"mehr Feingefühl\"",
+      "titleTarget" : "\"Donijet virus\": Kogler od Kurza zahtijeva \"veću osjetljivost\"",
+      "url" : "https://kurier.at/politik/inland/virus-eingeschleppt-kogler-verlangt-von-kurz-mehr-respekt-und-feingefuehl/401118279"
     }, {
-      "id" : "Eiwjtidz",
-      "imgUrl" : "https://image.kurier.at/images/original/4177656/46-163023947.jpg",
-      "titleSource" : "Klaudia Tanner: „Wer verteidigen kann, kann auch helfen“",
-      "titleTarget" : "Klaudia Tanner: \"Oni koji mogu braniti mogu također pomoći\"",
-      "url" : "https://kurier.at/politik/inland/klaudia-tanner-wer-verteidigen-kann-kann-auch-helfen/401117211"
+      "id" : "EHiKZ30Z",
+      "imgUrl" : "https://image.kurier.at/images/original/4798668/46-173322965.jpg",
+      "titleSource" : "Ende des Lockdowns: Van der Bellen warnt vor \"Jojo-Effekt\" und ruft zum Testen auf",
+      "titleTarget" : "Kraj zaključavanja: Van der Bellen upozorava na \"yo-yo efekt\" i poziva na testiranje",
+      "url" : "https://kurier.at/politik/inland/ende-des-lockdowns-van-der-bellen-warnt-vor-jojo-effekt-und-ruft-zum-testen-auf/401118345"
     }, {
-      "id" : "WsjRJ1sB",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/6/5/5906533/BRO-ERFFNUNG-DER-INTERVENTIONSSTELLE-FR-BETROFFENE-VON-FRAUENHANDEL-IBF-HEINISCH-HOSEK_1606990173072938_v0_h.jpg",
-      "titleSource" : "\"Virus eingeschleppt\": SPÖ-Politiker fordern Entschuldigung von Kurz",
-      "titleTarget" : "\"Donesen virus\": političari SPÖ-a traže isprike od Kurza",
-      "url" : "https://www.diepresse.com/5906533/Corona_Virus-eingeschleppt_SPOePolitiker-fordern-Entschuldigung?from=rss"
+      "id" : "H5bAXREB",
+      "imgUrl" : "https://image.kurier.at/images/original/4796796/46-173253772.jpg",
+      "titleSource" : "Tests: Schon 100.000 Anmeldungen, Landeshauptleute rufen zum Mitmachen auf",
+      "titleTarget" : "Testovi: Već 100.000 registracija, državni guverneri pozivaju na sudjelovanje",
+      "url" : "https://kurier.at/politik/inland/tests-schon-100000-anmeldungen-landeshauptleute-rufen-zum-mitmachen-auf/401117688"
+    }, {
+      "id" : "nQMOfHpz",
+      "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
+      "titleSource" : "Gelockerter \"Lockdown\": Diese Regeln gelten ab 7. Dezember",
+      "titleTarget" : "Opušteno \"zaključavanje\": Ova se pravila primjenjuju od 7. prosinca",
+      "url" : "https://kurier.at/politik/inland/oesterreich-im-lockdown-diese-regeln-gelten-ab-7-dezember/401083170"
+    }, {
+      "id" : "f0cVPU8V",
+      "imgUrl" : "https://image.kurier.at/images/original/4789740/46-145190235.jpg",
+      "titleSource" : "U-Ausschuss: WKStA-Chefin sprach von \"politischem Druck\" und Schikane",
+      "titleTarget" : "Odbor U: Šef WKStA govorio je o \"političkom pritisku\" i uznemiravanju",
+      "url" : "https://kurier.at/politik/inland/u-ausschuss-streitbare-korruptionsstaatsanwaeltin-spricht-ueber-ermittlungen/401117679"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "NPdSal3a",
-      "imgUrl" : "https://image.kurier.at/images/original/4795563/46-169054298.jpg",
-      "titleSource" : "Lockdown-Verlängerung: Betriebe bekommen 50 Prozent Umsatzersatz",
-      "titleTarget" : "Proširenje zaključavanja: tvrtke dobivaju 50 posto naknade za prihod",
-      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-betriebe-bekommen-50-prozent-umsatzersatz/401116965"
+      "id" : "kw9FWj4t",
+      "imgUrl" : "https://image.kurier.at/images/original/4745004/46-166492704.jpg",
+      "titleSource" : "Start-ups sollen \"Kaufhaus Österreich\" Leben einhauchen",
+      "titleTarget" : "Početnici bi trebali udahnuti život \"Kaufhausu Österreich\"",
+      "url" : "https://kurier.at/wirtschaft/start-ups-sollen-kaufhaus-oesterreich-leben-einhauchen/401117907"
     }, {
-      "id" : "bfC67yJj",
-      "imgUrl" : "https://image.kurier.at/images/original/4762959/20201116-ABD0125-1-1.jpg",
-      "titleSource" : "Handel: Öffnungszeiten-Verlängerung am 8., 12. und 19. Dezember",
-      "titleTarget" : "Maloprodaja: Produženje radnog vremena 8., 12. i 19. prosinca",
-      "url" : "https://kurier.at/wirtschaft/handel-oeffnungszeiten-verlaengerung-am-8-12-und-19-dezember/401117406"
+      "id" : "mtO6gf7l",
+      "imgUrl" : "https://image.kurier.at/images/original/4480604/20200625-ABD0151-1-1.jpg",
+      "titleSource" : "Ryanair schließt Basis in Wien",
+      "titleTarget" : "Ryanair zatvara bazu u Beču",
+      "url" : "https://kurier.at/wirtschaft/ryanair-schliesst-basis-in-wien/401118093"
     }, {
-      "id" : "rdyPvFXi",
-      "imgUrl" : "https://image.kurier.at/images/original/4254242/20200414-ABD0033-1-1.jpg",
-      "titleSource" : "Handel sperrt am Montag auf, Polizei soll Kundenströme lenken",
-      "titleTarget" : "Trgovina se zaključava u ponedjeljak, policija bi trebala usmjeravati tokove kupaca",
-      "url" : "https://kurier.at/wirtschaft/handel-sperrt-am-montag-auf-polizei-soll-kundenstroeme-lenken/401117001"
+      "id" : "OKPggdQX",
+      "imgUrl" : "https://image.kurier.at/images/original/2237649/20170822-ABD0093-1-1.jpg",
+      "titleSource" : "Japan: Ende für Benziner absehbar",
+      "titleTarget" : "Japan: kraj benzinskim motorima na vidiku",
+      "url" : "https://kurier.at/wirtschaft/japan-ende-fuer-benziner-absehbar/401117691"
     }, {
-      "id" : "ARw8Cbmn",
-      "imgUrl" : "https://image.kurier.at/images/original/4250162/46-149827137.jpg",
-      "titleSource" : "Rettet die Hühner: Singapur erlaubt Hühnerfleisch aus dem Labor",
-      "titleTarget" : "Spasite kokoši: Singapur dopušta piletinu iz laboratorija",
-      "url" : "https://kurier.at/wirtschaft/rettet-die-huehner-singapur-erlaubt-huehnerfleisch-aus-dem-labor/401116665"
+      "id" : "0pjGhUvU",
+      "imgUrl" : "https://image.kurier.at/images/original/4798059/46-169079952.jpg",
+      "titleSource" : "Wohntelefon: Was kann man gegen  Fettgeruch im Haus unternehmen?",
+      "titleTarget" : "Telefon u dnevnoj sobi: što učiniti za sprečavanje mirisa masti u kući?",
+      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-was-kann-man-gegen-fettgeruch-im-haus-unternehmen/401118384"
     }, {
-      "id" : "oMIebGc8",
-      "imgUrl" : "https://image.kurier.at/images/original/4796535/46-173309101.jpg",
-      "titleSource" : "Boeing 737 Max hebt erstmals nach FAA-Freigabe ab",
-      "titleTarget" : "Boeing 737 Max prvi put polijeće nakon odobrenja FAA",
-      "url" : "https://kurier.at/wirtschaft/boeing-737-max-hebt-erstmals-nach-faa-freigabe-ab/401117556"
+      "id" : "m9HgWJNx",
+      "imgUrl" : "https://image.kurier.at/images/original/4318529/20200517-ABD0076-1-1.jpg",
+      "titleSource" : "Lockdown und Online-Boom: Zustellrekord bei Post",
+      "titleTarget" : "Zaključavanje i mrežni procvat: Zapis nakon isporuke",
+      "url" : "https://kurier.at/wirtschaft/lockdown-und-online-boom-zustellrekord-bei-post/401118111"
     }, {
-      "id" : "VV2zi2KD",
-      "imgUrl" : "https://image.kurier.at/images/original/4479806/78370011355220902_BLD_Online.jpg",
-      "titleSource" : "Lufthansa: Verkauf des LSG-Europageschäfts an Gategroup vollzogen",
-      "titleTarget" : "Lufthansa: Završena prodaja europskog poslovanja LSG-a Gategroupu",
-      "url" : "https://kurier.at/wirtschaft/lufthansa-verkauf-des-lsg-europageschaefts-an-gategroup-vollzogen/401117415"
+      "id" : "ZeVYPu53",
+      "imgUrl" : "https://image.kurier.at/images/original/3544912/78350011448928270_BLD_Online.jpg",
+      "titleSource" : "Schweiz weiterhin Weltmarktführer bei Uhren und Schmuck",
+      "titleTarget" : "Švicarska je i dalje svjetski lider na tržištu satova i nakita",
+      "url" : "https://kurier.at/wirtschaft/schweiz-weiterhin-weltmarktfuehrer-bei-uhren-und-schmuck/401117724"
     }, {
-      "id" : "GiT1cRvA",
-      "imgUrl" : "https://image.kurier.at/images/original/4558271/46-166521118-2020-07-30t124632z_1566463297_rc2o3i9v1n3v_rtrmadp_3_audi-ceo-strategy.jpg",
-      "titleSource" : "Audi investiert 15 Mrd. Euro in E-Mobilität",
-      "titleTarget" : "Audi ulaže 15 milijardi eura u e-mobilnost",
-      "url" : "https://kurier.at/wirtschaft/audi-investiert-15-mrd-euro-in-e-mobilitaet/401117310"
+      "id" : "XcpTz5FC",
+      "imgUrl" : "https://image.kurier.at/images/original/4533329/78350011455611200_BLD_Online.jpg",
+      "titleSource" : "Washington erhöht Druck auf chinesische Unternehmen",
+      "titleTarget" : "Washington pojačava pritisak na kineske tvrtke",
+      "url" : "https://kurier.at/wirtschaft/washington-erhoeht-druck-auf-chinesische-unternehmen/401117637"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "r562w1Ph",
-      "imgUrl" : "https://image.kurier.at/images/original/4795329/46-173277328.jpg",
-      "titleSource" : "Lockerungen ab 7. Dezember: Das sind die wichtigsten Punkte",
-      "titleTarget" : "Lakše od 7. prosinca: Ovo su najvažnije točke",
-      "url" : "https://kurier.at/chronik/oesterreich/lockerungen-ab-7-dezember-das-sind-die-wichtigsten-punkte/401116848"
-    }, {
-      "id" : "9Or9ocKV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/37/crops/w=1280/770895_opener_268037_grenzkontrollen.jpg?s=ba2e84cae28d5d0520183a493ca0386e564eff78",
-      "titleSource" : "Quarantäne bei Einreise aus Risikogebiet",
-      "titleTarget" : "Karantena pri ulasku iz rizičnog područja",
-      "url" : "https://vorarlberg.orf.at/stories/3078745/"
-    }, {
-      "id" : "fGIeTDRf",
-      "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
-      "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
-      "titleTarget" : "Božićne tržnice otkazuju se ove godine - skijališta se otvaraju tek 24. prosinca",
-      "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
-    }, {
-      "id" : "3nmtrjV7",
-      "imgUrl" : "https://image.kurier.at/images/original/4795233/46-173268926.jpg",
-      "titleSource" : "Bundes-Software für Massentest kommt nicht rechtzeitig",
-      "titleTarget" : "Federalni softver za masovno testiranje ne dolazi na vrijeme",
-      "url" : "https://kurier.at/chronik/oesterreich/bundes-software-fuer-massentest-kommt-nicht-rechtzeitig/401116839"
-    }, {
-      "id" : "VlgziW2c",
-      "imgUrl" : "https://image.kurier.at/images/original/4796259/46-173275627.jpg",
-      "titleSource" : "Erster Massentest: Warum es in Annaberg so wenig Positive gab",
-      "titleTarget" : "Prvo masovno ispitivanje: Zašto je u Annabergu bilo tako malo pozitivnih strana",
-      "url" : "https://kurier.at/chronik/oesterreich/erster-massentest-warum-es-in-annaberg-so-wenig-positive-gab/401117355"
-    }, {
       "id" : "vu1Xgc9G",
-      "imgUrl" : "https://image.kurier.at/images/original/4796964/46-173238159.jpg",
-      "titleSource" : "Massentests: Schon 100.000 Anmeldungen; Intensivmediziner: \"Von Zielwerten noch weit enfernt\"",
+      "imgUrl" : "https://image.kurier.at/images/original/4798833/46-173322966.jpg",
+      "titleSource" : "Van der Bellen ruft zum Testen auf; Anschober: \"Intensivstationen stark überlastet\"",
       "titleTarget" : "Masovna ispitivanja: Već 100 000 registracija; Liječnik intenzivne njege: \"Još uvijek je daleko od ciljanih vrijednosti\"",
       "url" : "https://kurier.at/chronik/oesterreich/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten-deutschland-verlaengert-teil-lockdown/401117547"
     }, {
-      "id" : "zrOrL3Rl",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/67/crops/w=1280/771289_opener_268167_sessellift.jpg?s=a8401c70f033d348a5b0df1e0dba6e7e107c8131",
-      "titleSource" : "Nicht alle Skilifte wollen aufsperren",
-      "titleTarget" : "Ne žele se sve žičare otključati",
-      "url" : "https://vorarlberg.orf.at/stories/3078738/"
+      "id" : "wn02Qfdw",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/95/crops/w=1280/758404_opener_263495_tremitas_tp-frauenhand_0078.jpg?s=c2e1a7332a6dbc54f42d0ce45a95ca686781dba5",
+      "titleSource" : "Neues Messgerät hilft bei Parkinson",
+      "titleTarget" : "Novi mjerni uređaj pomaže kod Parkinsonove bolesti",
+      "url" : "https://kaernten.orf.at/stories/3076154/"
+    }, {
+      "id" : "sJ3VmoGL",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Fast 4.000 Neuinfektionen in Österreich",
+      "titleTarget" : "Gotovo 4.000 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-fast-4000-neuinfektionen-in-oesterreich/401117754"
+    }, {
+      "id" : "bUWm8N1T",
+      "titleSource" : "180 neue Jobs im Gailtal",
+      "titleTarget" : "180 novih radnih mjesta u Gailtalu",
+      "url" : "https://kaernten.orf.at/stories/3078908/"
+    }, {
+      "id" : "r1vikmEs",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/90/crops/w=1280/771396_opener_268190_wort_des_jahres_babyelefant_a.jpg?s=163cfa378de7bc8c8d69cb9b4310fe389c7008f2",
+      "titleSource" : "„Babyelefant“ ist Wort des Jahres",
+      "titleTarget" : "\"Dječji slon\" riječ je godine",
+      "url" : "https://steiermark.orf.at/stories/3078855/"
+    }, {
+      "id" : "iZQNnYPm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/45/crops/w=1280/771744_opener_268345_k2.png?s=7a58cfcb06ba3b4a1b13b1d84a870cbd1af84094",
+      "titleSource" : "Opernsänger Jonas Kaufmann als Marionettenpuppe",
+      "titleTarget" : "Operni pjevač Jonas Kaufmann kao marioneta",
+      "url" : "https://salzburg.orf.at/stories/3078880/"
+    }, {
+      "id" : "E3suSB4x",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/55/crops/w=1280/771567_opener_268255_pressedienst_feuerwehr_patschok_-20201203-007.jpg?s=f0f34e6299c1e3f6ff70aee50b06cbfb5a85d2d0",
+      "titleSource" : "Schneechaos hält Einsatzkräfte auf Trab",
+      "titleTarget" : "Snježni kaos drži hitne službe na prstima",
+      "url" : "https://steiermark.orf.at/stories/3078864/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "7KtdOHwb",
-      "imgUrl" : "https://image.kurier.at/images/original/4223837/46-106070032.jpg",
-      "titleSource" : "Museen und Bibliotheken öffnen wieder, Theater bleiben geschlossen",
-      "titleTarget" : "Muzeji i knjižnice se ponovno otvaraju, kazališta ostaju zatvorena",
-      "url" : "https://kurier.at/kultur/museen-und-bibliotheken-oeffnen-wieder-theater-bleiben-geschlossen/401116842"
+      "id" : "3wYdlK3X",
+      "imgUrl" : "https://image.kurier.at/images/original/4798113/46-105652752.jpg",
+      "titleSource" : "Neujahrskonzert ohne Publikum, Philharmoniker \"klatschen vielleicht selbst“",
+      "titleTarget" : "Novogodišnji koncert bez publike, Filharmonija \"možda pljeskaju\"",
+      "url" : "https://kurier.at/kultur/neujahrskonzert-ohne-publikum-philharmoniker-klatschen-vielleicht-selbst/401118435"
     }, {
-      "id" : "2Xxolcks",
-      "imgUrl" : "https://image.kurier.at/images/original/4795152/46-164203882.jpg",
-      "titleSource" : "Palfraders Kaiser bekommt eine Tochter - im ORF",
-      "titleTarget" : "Palfraders Kaiser ima kćer - na ORF-u",
-      "url" : "https://kurier.at/kultur/medien/palfraders-kaiser-bekommt-eine-tochter-im-orf/401116725"
-    }, {
-      "id" : "dLUU22wY",
-      "imgUrl" : "https://image.kurier.at/images/original/4795803/46-145848908.jpg",
-      "titleSource" : "Disput um Flüchtlingsboot bei der Venedig-Biennale",
-      "titleTarget" : "Spor oko izbjegličkog broda na Venecijanskom bijenalu",
-      "url" : "https://kurier.at/kultur/disput-um-fluechtlingsboot-bei-der-venedig-biennale/401117253"
-    }, {
-      "id" : "rvGXUPn8",
-      "imgUrl" : "https://image.kurier.at/images/original/4795608/46-173271907.jpg",
-      "titleSource" : "\"Bringe das Publikum lieber zum Lachen, als Gänsehaut zu erzeugen\"",
-      "titleTarget" : "\"Nasmijte publiku, a ne naježite ih\"",
-      "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
-    }, {
-      "id" : "bxUxrks3",
-      "titleSource" : "\"Lockdown-Bonus\" für freischaffende Künstler wird erhöht",
-      "titleTarget" : "Povećava se \"Lockdown Bonus\" za slobodne umjetnike",
-      "url" : "https://www.diepresse.com/5906541/CoronaHilfen_LockdownBonus-fuer-freischaffende-Kuenstler-wird-erhoeht?from=rss"
+      "id" : "bqzawRdC",
+      "imgUrl" : "https://image.kurier.at/images/original/4797618/46-146587293.jpg",
+      "titleSource" : "Sanktionsdrohungen gegen Architektenbüro Coop Himmelb(l)au",
+      "titleTarget" : "Sankcijske prijetnje arhitektima Coop Himmelb (l) au",
+      "url" : "https://kurier.at/kultur/sanktionsdrohungen-gegen-architektenbuero-coop-himmelblau/401118024"
     }, {
       "id" : "Rm2Ev1iD",
       "imgUrl" : "https://image.kurier.at/images/original/4797039/46-168313335.jpg",
@@ -172,11 +154,28 @@
       "titleTarget" : "Mikkelsen Grindelwald-Rollea vidi kao šetnju po užadu",
       "url" : "https://kurier.at/kultur/mikkelsen-sieht-grindelwald-rolle-als-gratwanderung/401117796"
     }, {
-      "id" : "bIVPgayF",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/f/5906463/Austrian-government-holds-news-conference-to-announce-reopening-of-country-after-lockdown_1606985326363516_v0_h.jpg",
-      "titleSource" : "Ski-Streit: \"Als Tiger gesprungen, als Bettvorleger gelandet\"",
-      "titleTarget" : "Skijaški spor: \"Skočio kao tigar, sletio kao tepih\"",
-      "url" : "https://www.diepresse.com/5906463/Pressestimmen_SkiStreit_Als-Tiger-gesprungen-als-Bettvorleger?from=rss"
+      "id" : "g1kdAWmt",
+      "imgUrl" : "https://image.kurier.at/images/original/4796574/46-169283490.jpg",
+      "titleSource" : "\"Black Lives Matter\" 2020 einflussreichste Kraft im Kunstbetrieb",
+      "titleTarget" : "\"Crni životi su važni\" 2020. najutjecajnija sila u svijetu umjetnosti",
+      "url" : "https://kurier.at/kultur/black-lives-matter-2020-einflussreichste-kraft-im-kunstbetrieb/401117577"
+    }, {
+      "id" : "5P0oBdLu",
+      "imgUrl" : "https://image.kurier.at/images/original/4234721/46-157185756.jpg",
+      "titleSource" : "ORF auf Sparkurs in die schwarzen Zahlen",
+      "titleTarget" : "ORF na tečaju štednje u crnom",
+      "url" : "https://kurier.at/kultur/medien/orf-auf-sparkurs-in-die-schwarzen-zahlen/401118423"
+    }, {
+      "id" : "tFa8QqvH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/a/0/5906848/853C200C-E910-47B0-A800-71D9C2D694AF_1607011441628792.jpg",
+      "titleSource" : "Hybridstrategie mit ORF-Player, aber noch ohne Gesetz",
+      "titleTarget" : "Hibridna strategija s ORF igračem, ali još uvijek bez zakona",
+      "url" : "https://www.diepresse.com/5906848/Strategie-ORF-2025_Hybridstrategie-mit-ORFPlayer-aber-noch-ohne-Gesetz?from=rss"
+    }, {
+      "id" : "IpmgjRiV",
+      "titleSource" : "Tiroler Architekt Hanno Schlögl 76-jährig verstorben",
+      "titleTarget" : "Tirolski arhitekt Hanno Schlögl umro je u 76. godini",
+      "url" : "https://kurier.at/kultur/tiroler-architekt-hanno-schloegl-76-jaehrig-verstorben/401118711"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,32 +183,26 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "F4l1yyH2",
-      "imgUrl" : "https://image.kurier.at/images/original/4795203/46-89151310.jpg",
-      "titleSource" : "Die Darts-WM in Corona-Zeiten: 1.000 Fans und Alkohol erlaubt",
-      "titleTarget" : "Svjetski kup u pikadu u Coroni: 1.000 navijača i alkohol dozvoljeni",
-      "url" : "https://kurier.at/sport/die-darts-wm-in-corona-zeiten-1000-fans-und-alkohol-erlaubt/401116752"
+      "id" : "AKZbfH6y",
+      "titleSource" : "Furchtloser LASK stellt sich Tottenham",
+      "titleTarget" : "Neustrašivi LASK suočava se s Tottenhamom",
+      "url" : "https://sport.orf.at/stories/3070121/"
     }, {
-      "id" : "ecX4LcKO",
-      "titleSource" : "Messi für Maradona-Huldigung bestraft",
-      "titleTarget" : "Messi je kažnjen zbog odavanja počasti Maradoni",
-      "url" : "https://sport.orf.at/stories/3070125/"
+      "id" : "wafLHSUE",
+      "titleSource" : "Eva Pinkelnig nach Trainingssturz notoperiert",
+      "titleTarget" : "Eva Peeing hitno je operirana nakon pada na treningu",
+      "url" : "https://sport.orf.at/stories/3070144/"
     }, {
-      "id" : "pGnO72pp",
-      "imgUrl" : "https://image.kurier.at/images/original/4793637/46-168024942.jpg",
-      "titleSource" : "Rapid-Legende Panenka: \"Fußball ohne Fans ist nur halb so schön\"",
-      "titleTarget" : "Brza legenda Panenka: \"Nogomet bez navijača samo je upola dobar\"",
-      "url" : "https://kurier.at/sport/fussball/rapid-legende-antonin-panenka-ueber-corona-fussball-ohne-fans-ist-nur-halb-so-schoen/401115909"
+      "id" : "sJFBWQFS",
+      "imgUrl" : "https://image.kurier.at/images/original/4795956/46-168369740.jpg",
+      "titleSource" : "Drei Wege zum Glück: Wie Rapid, LASK und WAC noch aufsteigen",
+      "titleTarget" : "Tri načina za sreću: Kako će rasti Rapid, LASK i WAC",
+      "url" : "https://kurier.at/sport/fussball/drei-wege-zum-glueck-wie-rapid-lask-und-wac-in-der-europa-league-noch-aufsteigen/401117196"
     }, {
-      "id" : "xQnbhFK4",
-      "titleSource" : "Covid-19: Tauziehen um faire Wettkämpfe",
-      "titleTarget" : "Covid-19: Vučenje konopa za poštena natjecanja",
-      "url" : "https://sport.orf.at/stories/3070078/"
-    }, {
-      "id" : "hOGL3ek4",
-      "titleSource" : "Froschberg-Damen in CL-Turnier-Gruppe mit Metz",
-      "titleTarget" : "Froschberg žene u CL turnirskoj skupini s Metzom",
-      "url" : "https://sport.orf.at/stories/3070118/"
+      "id" : "Wa2ZXcpP",
+      "titleSource" : "Pinkelnig nach Sturz in Training notoperiert",
+      "titleTarget" : "Pišite nakon pada na treningu",
+      "url" : "https://sport.orf.at/stories/3070145/"
     }, {
       "id" : "Ils0giEE",
       "imgUrl" : "https://image.kurier.at/images/original/4796379/46-170484028.jpg",
@@ -217,11 +210,17 @@
       "titleTarget" : "Schlierenzauerov apel: \"Ne shvaćajte Coronu olako\"",
       "url" : "https://kurier.at/sport/wintersport/appell-von-gregor-schlierenzauer-nehmt-corona-nicht-auf-die-leichte-schulter/401117427"
     }, {
-      "id" : "KagsY1K8",
-      "imgUrl" : "https://image.kurier.at/images/original/4796376/46-173238753.jpg",
-      "titleSource" : "Messi muss nach Jubel zu Ehren Maradonas 600 Euro zahlen",
-      "titleTarget" : "Messi mora platiti 600 eura nakon navijanja u čast Maradone",
-      "url" : "https://kurier.at/sport/fussball/fussball-messi-fuer-trikotjubel-zu-ehren-maradonas-bestraft/401117424"
+      "id" : "OcDnLt5Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4797132/46-159317536.jpg",
+      "titleSource" : "Milzriss nach Trainingssturz: Notoperation bei ÖSV-Star Pinkelnig",
+      "titleTarget" : "Puknuće slezene nakon treninga: Hitna operacija na mokri zvijezdi ÖSV",
+      "url" : "https://kurier.at/sport/wintersport/milzriss-nach-trainingssturz-oesv-skisprung-star-eva-pinkelnig-notoperiert/401117781"
+    }, {
+      "id" : "VXopuaAN",
+      "imgUrl" : "https://image.kurier.at/images/original/4797783/46-168006879.jpg",
+      "titleSource" : "Herzversagen: DFB-Vizepräsident mit 68 Jahren gestorben",
+      "titleTarget" : "Zatajenje srca: potpredsjednik DFB-a umro je u 68. godini",
+      "url" : "https://kurier.at/sport/fussball/herzversagen-dfb-vizepraesident-erwin-bugar-mit-68-jahren-gestorben/401118159"
     } ]
   } ],
   "country" : "austria",
