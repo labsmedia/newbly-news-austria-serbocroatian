@@ -8,24 +8,6 @@
       "titleTarget" : "Zaključavanje: Vlada danas najavljuje prve korake za otvaranje",
       "url" : "https://kurier.at/politik/inland/lockdown-regierung-verkuendet-erste-oeffnungsschritte/401116311"
     }, {
-      "id" : "hq3pwCN3",
-      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
-      "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
-      "titleTarget" : "Obiteljski bonus lagano je prigušio progresiju hladnoće",
-      "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
-    }, {
-      "id" : "HKEiPqRr",
-      "imgUrl" : "https://image.kurier.at/images/original/3722183/46-110652691.jpg",
-      "titleSource" : "Corona: \"Senioren fit fürs Internet\" jetzt via TV und ORF-Nachlese",
-      "titleTarget" : "Corona: \"Starije osobe sposobne za Internet\" sada putem TV-a i ORF-ovog pregleda",
-      "url" : "https://kurier.at/politik/inland/corona-senioren-fit-fuers-internet-jetzt-via-tv-und-orf-nachlese/401116584"
-    }, {
-      "id" : "KdynxTyJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4782387/20201126-ABD0105-1-1.jpg",
-      "titleSource" : "U-Ausschuss: \"Nein, die Novomatic zahlt nicht alle - aber viele wollen Unterstützung\"",
-      "titleTarget" : "Novac za zakone? \"Novomatic to ne radi\"",
-      "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-preislisten-fuer-gesetze-im-mittelpunkt/401116527"
-    }, {
       "id" : "Vsto2AF7",
       "imgUrl" : "https://image.kurier.at/images/original/4796244/46-173293149.jpg",
       "titleSource" : "Fahrplan bis 7. Jänner: Der Corona-Weihnachts-Guide",
@@ -38,20 +20,44 @@
       "titleTarget" : "Otvaranje škole: Odbijanje školske maškare",
       "url" : "https://kurier.at/politik/inland/schuloeffnung-ablehnung-der-schul-maskerade/401117304"
     }, {
-      "id" : "MUzJY4F8",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/2/3/5906211/KAMPAGNENSTART-GRATIS-GRIPPEIMPFUNG-SZEKERES_1606927936494893_v0_l.jpg",
-      "titleSource" : "\"Jein\" zur Covid-Impfpflicht für Ärzte",
-      "titleTarget" : "\"Da i ne\" obveznom Covid cijepljenju za liječnike",
-      "url" : "https://www.diepresse.com/5906211/Aerztekammer_Jein-zur-CovidImpfpflicht-fuer-Aerzte?from=rss"
+      "id" : "GWaEdHnW",
+      "imgUrl" : "https://image.kurier.at/images/original/4795878/46-167369505.jpg",
+      "titleSource" : "Reaktionen zu Lockerungen: \"Massentests sind schädliche Maßnahme\"",
+      "titleTarget" : "Reakcije na opuštanje: \"masovni testovi su štetne mjere\"",
+      "url" : "https://kurier.at/politik/inland/reaktionen-zu-lockerungen-massentests-sind-schaedliche-massnahme/401117145"
+    }, {
+      "id" : "KdynxTyJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4782387/20201126-ABD0105-1-1.jpg",
+      "titleSource" : "U-Ausschuss: \"Nein, die Novomatic zahlt nicht alle - aber viele wollen Unterstützung\"",
+      "titleTarget" : "Novac za zakone? \"Novomatic to ne radi\"",
+      "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-preislisten-fuer-gesetze-im-mittelpunkt/401116527"
+    }, {
+      "id" : "hq3pwCN3",
+      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
+      "titleSource" : "Familienbonus dämpfte kalte Progression leicht",
+      "titleTarget" : "Obiteljski bonus lagano je prigušio progresiju hladnoće",
+      "url" : "https://kurier.at/politik/inland/familienbonus-daempfte-kalte-progression-leicht/401116776"
+    }, {
+      "id" : "HKEiPqRr",
+      "imgUrl" : "https://image.kurier.at/images/original/3722183/46-110652691.jpg",
+      "titleSource" : "Corona: \"Senioren fit fürs Internet\" jetzt via TV und ORF-Nachlese",
+      "titleTarget" : "Corona: \"Starije osobe sposobne za Internet\" sada putem TV-a i ORF-ovog pregleda",
+      "url" : "https://kurier.at/politik/inland/corona-senioren-fit-fuers-internet-jetzt-via-tv-und-orf-nachlese/401116584"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "EzHeQ0Of",
-      "imgUrl" : "https://image.kurier.at/images/original/4794156/46-170520971.jpg",
-      "titleSource" : "Reform des Taxigewerbes geht durch Verkehrsausschuss",
-      "titleTarget" : "Reforma taksi industrije prolazi kroz odbor za promet",
-      "url" : "https://kurier.at/wirtschaft/reform-des-taxigewerbes-geht-durch-verkehrsausschuss/401116155"
+      "id" : "NPdSal3a",
+      "imgUrl" : "https://image.kurier.at/images/original/4795563/46-169054298.jpg",
+      "titleSource" : "Lockdown-Verlängerung: Betriebe bekommen 50 Prozent Umsatzersatz",
+      "titleTarget" : "Proširenje zaključavanja: tvrtke dobivaju 50 posto naknade za prihod",
+      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-betriebe-bekommen-50-prozent-umsatzersatz/401116965"
+    }, {
+      "id" : "bfC67yJj",
+      "imgUrl" : "https://image.kurier.at/images/original/4762959/20201116-ABD0125-1-1.jpg",
+      "titleSource" : "Handel: Öffnungszeiten-Verlängerung am 8., 12. und 19. Dezember",
+      "titleTarget" : "Maloprodaja: Produženje radnog vremena 8., 12. i 19. prosinca",
+      "url" : "https://kurier.at/wirtschaft/handel-oeffnungszeiten-verlaengerung-am-8-12-und-19-dezember/401117406"
     }, {
       "id" : "rdyPvFXi",
       "imgUrl" : "https://image.kurier.at/images/original/4254242/20200414-ABD0033-1-1.jpg",
@@ -59,35 +65,29 @@
       "titleTarget" : "Trgovina se zaključava u ponedjeljak, policija bi trebala usmjeravati tokove kupaca",
       "url" : "https://kurier.at/wirtschaft/handel-sperrt-am-montag-auf-polizei-soll-kundenstroeme-lenken/401117001"
     }, {
-      "id" : "NPdSal3a",
-      "imgUrl" : "https://image.kurier.at/images/original/4795563/46-169054298.jpg",
-      "titleSource" : "Lockdown-Verlängerung: Betriebe bekommen 50 Prozent Umsatzersatz",
-      "titleTarget" : "Proširenje zaključavanja: tvrtke dobivaju 50 posto naknade za prihod",
-      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-betriebe-bekommen-50-prozent-umsatzersatz/401116965"
-    }, {
       "id" : "ARw8Cbmn",
       "imgUrl" : "https://image.kurier.at/images/original/4250162/46-149827137.jpg",
       "titleSource" : "Rettet die Hühner: Singapur erlaubt Hühnerfleisch aus dem Labor",
       "titleTarget" : "Spasite kokoši: Singapur dopušta piletinu iz laboratorija",
       "url" : "https://kurier.at/wirtschaft/rettet-die-huehner-singapur-erlaubt-huehnerfleisch-aus-dem-labor/401116665"
     }, {
-      "id" : "TdLhVTTB",
-      "imgUrl" : "https://image.kurier.at/images/original/4795542/46-167356345.jpg",
-      "titleSource" : "Finanz soll Bargeld-Transporte bei Laudamotion prüfen",
-      "titleTarget" : "Finanz bi trebao provjeriti prijevoz novca u Laudamotionu",
-      "url" : "https://kurier.at/wirtschaft/finanz-soll-bargeld-transporte-bei-laudamotion-pruefen/401116953"
+      "id" : "DaM4sTJQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4684794/20201008-ABD0016-1-1.jpg",
+      "titleSource" : "Wirecard-Skandal: Anleger aus Österreich verloren viele Millionen",
+      "titleTarget" : "Skandal s žičanim karticama: investitori iz Austrije izgubili su milijune",
+      "url" : "https://kurier.at/wirtschaft/wirecard-skandal-anleger-aus-oesterreich-verloren-viele-millionen/401116308"
     }, {
-      "id" : "bZGXn8Uf",
-      "imgUrl" : "https://image.kurier.at/images/original/4535510/81710357855624776_BLD_Online.jpg",
-      "titleSource" : "SAP-Rivale Salesforce schluckt Bürochat-Anbieter Slack",
-      "titleTarget" : "SAP-ov suparnik Salesforce guta davatelja usluga uredskog chata Slack",
-      "url" : "https://kurier.at/wirtschaft/sap-rivale-salesforce-schluckt-buerochat-anbieter-slack/401116596"
+      "id" : "VV2zi2KD",
+      "imgUrl" : "https://image.kurier.at/images/original/4479806/78370011355220902_BLD_Online.jpg",
+      "titleSource" : "Lufthansa: Verkauf des LSG-Europageschäfts an Gategroup vollzogen",
+      "titleTarget" : "Lufthansa: Završena prodaja europskog poslovanja LSG-a Gategroupu",
+      "url" : "https://kurier.at/wirtschaft/lufthansa-verkauf-des-lsg-europageschaefts-an-gategroup-vollzogen/401117415"
     }, {
-      "id" : "jzCyAcrr",
-      "imgUrl" : "https://image.kurier.at/images/original/4794888/46-68831437.jpg",
-      "titleSource" : "Frankfurter Würstel viel länger genießbar als angegeben",
-      "titleTarget" : "U Frankfurter kobasicama možete uživati puno duže nego što je navedeno",
-      "url" : "https://kurier.at/wirtschaft/frankfurter-wuerstel-viel-laenger-geniessbar-als-angegeben/401116542"
+      "id" : "GiT1cRvA",
+      "imgUrl" : "https://image.kurier.at/images/original/4558271/46-166521118-2020-07-30t124632z_1566463297_rc2o3i9v1n3v_rtrmadp_3_audi-ceo-strategy.jpg",
+      "titleSource" : "Audi investiert 15 Mrd. Euro in E-Mobilität",
+      "titleTarget" : "Audi ulaže 15 milijardi eura u e-mobilnost",
+      "url" : "https://kurier.at/wirtschaft/audi-investiert-15-mrd-euro-in-e-mobilitaet/401117310"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,16 +98,17 @@
       "titleTarget" : "Lakše od 7. prosinca: Ovo su najvažnije točke",
       "url" : "https://kurier.at/chronik/oesterreich/lockerungen-ab-7-dezember-das-sind-die-wichtigsten-punkte/401116848"
     }, {
-      "id" : "niBlohDh",
-      "titleSource" : "CoV-Entwarnung an steirischer FPÖ-Spitze",
-      "titleTarget" : "CoV je potpuno jasan pod vodstvom štajerskog FPÖ-a",
-      "url" : "https://steiermark.orf.at/stories/3078697/"
-    }, {
       "id" : "fGIeTDRf",
       "imgUrl" : "https://image.kurier.at/images/original/4795512/46-173260526.jpg",
       "titleSource" : "Weihnachtsmärkte fallen heuer aus - Skigebiete öffnen erst am 24. Dezember",
       "titleTarget" : "Božićne tržnice otkazuju se ove godine - skijališta se otvaraju tek 24. prosinca",
       "url" : "https://kurier.at/chronik/oesterreich/weihnachstmaerkte-fallen-heuer-aus-skigebiete-oeffnen-erst-am-24-dezember/401116947"
+    }, {
+      "id" : "9Or9ocKV",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/37/crops/w=1280/770895_opener_268037_grenzkontrollen.jpg?s=ba2e84cae28d5d0520183a493ca0386e564eff78",
+      "titleSource" : "Quarantäne bei Einreise aus Risikogebiet",
+      "titleTarget" : "Karantena pri ulasku iz rizičnog područja",
+      "url" : "https://vorarlberg.orf.at/stories/3078745/"
     }, {
       "id" : "QuVfPSgB",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -115,44 +116,38 @@
       "titleTarget" : "Corona: 3.972 nove infekcije u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/corona-3972-neuinfektionen-in-oesterreich/401116470"
     }, {
-      "id" : "GOmpINeo",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/29/crops/w=1280/770563_opener_267929_kuhfin.jpg?s=e24b665c36fdb885388cbd27ec2df01e00fd4d80",
-      "titleSource" : "Biohof in Radstadt: Kühe werden lebenslang gehalten",
-      "titleTarget" : "Ekološka farma u Radstadtu: krave se čuvaju doživotno",
-      "url" : "https://salzburg.orf.at/stories/3078666/"
+      "id" : "3nmtrjV7",
+      "imgUrl" : "https://image.kurier.at/images/original/4795233/46-173268926.jpg",
+      "titleSource" : "Bundes-Software für Massentest kommt nicht rechtzeitig",
+      "titleTarget" : "Federalni softver za masovno testiranje ne dolazi na vrijeme",
+      "url" : "https://kurier.at/chronik/oesterreich/bundes-software-fuer-massentest-kommt-nicht-rechtzeitig/401116839"
     }, {
-      "id" : "2xguRMvV",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/25/crops/w=1280/770866_opener_268025_rath.jpg?s=431cea67d9952a9ed69584cbc78cd38830495022",
-      "titleSource" : "Aus für Christkindlmärkte und Punschstände",
-      "titleTarget" : "Ide na božićne tržnice i štandove",
-      "url" : "https://wien.orf.at/stories/3078727/"
+      "id" : "8pT82IRn",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/41/crops/w=1280/771232_opener_268141_corona.jpg?s=5950f20a2b05ec00741896b3bee2b279550d3d94",
+      "titleSource" : "Massentest in Annaberg-Lungötz: Knapp die Hälfte kam",
+      "titleTarget" : "Masovni test u Annaberg-Lungötzu: došla je gotovo polovica",
+      "url" : "https://salzburg.orf.at/stories/3078633/"
     }, {
-      "id" : "POXgQvVS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/84/crops/w=1280/770430_opener_267884_wirecard_.jpg?s=e6563f55f7e0b204ec1c64beef56b530b2d2e506",
-      "titleSource" : "Wirecard: 50 Mio. Euro Schaden in Österreich",
-      "titleTarget" : "Wirecard: 50 milijuna eura štete u Austriji",
-      "url" : "https://wien.orf.at/stories/3078634/"
+      "id" : "zrOrL3Rl",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/67/crops/w=1280/771289_opener_268167_sessellift.jpg?s=a8401c70f033d348a5b0df1e0dba6e7e107c8131",
+      "titleSource" : "Nicht alle Skilifte wollen aufsperren",
+      "titleTarget" : "Ne žele se sve žičare otključati",
+      "url" : "https://vorarlberg.orf.at/stories/3078738/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "NlTEBaS6",
-      "imgUrl" : "https://image.kurier.at/images/original/4793742/46-142308940.jpg",
-      "titleSource" : "Zwischenrufe von Houellebecq: Bei Schubert weint er",
-      "titleTarget" : "Heckling iz Houellebecqa: Plače kod Schuberta",
-      "url" : "https://kurier.at/kultur/buch/zwischenrufe-von-houellebecq-bei-schubert-weint-er/401115984"
-    }, {
       "id" : "7KtdOHwb",
       "imgUrl" : "https://image.kurier.at/images/original/4223837/46-106070032.jpg",
       "titleSource" : "Museen und Bibliotheken öffnen wieder, Theater bleiben geschlossen",
       "titleTarget" : "Muzeji i knjižnice se ponovno otvaraju, kazališta ostaju zatvorena",
       "url" : "https://kurier.at/kultur/museen-und-bibliotheken-oeffnen-wieder-theater-bleiben-geschlossen/401116842"
     }, {
-      "id" : "kbLjaUVY",
-      "imgUrl" : "https://image.kurier.at/images/original/4794429/46-173257746.jpg",
-      "titleSource" : "Die Minoritenkirche und ihre weggeschossene Turmspitze",
-      "titleTarget" : "Minoritska crkva i njen odbijeni toranj",
-      "url" : "https://kurier.at/kultur/die-minoritenkirche-und-ihre-weggeschossene-turmspitze/401116257"
+      "id" : "NlTEBaS6",
+      "imgUrl" : "https://image.kurier.at/images/original/4793742/46-142308940.jpg",
+      "titleSource" : "Zwischenrufe von Houellebecq: Bei Schubert weint er",
+      "titleTarget" : "Heckling iz Houellebecqa: Plače kod Schuberta",
+      "url" : "https://kurier.at/kultur/buch/zwischenrufe-von-houellebecq-bei-schubert-weint-er/401115984"
     }, {
       "id" : "2Xxolcks",
       "imgUrl" : "https://image.kurier.at/images/original/4795152/46-164203882.jpg",
@@ -160,17 +155,23 @@
       "titleTarget" : "Palfraders Kaiser ima kćer - na ORF-u",
       "url" : "https://kurier.at/kultur/medien/palfraders-kaiser-bekommt-eine-tochter-im-orf/401116725"
     }, {
-      "id" : "rvGXUPn8",
-      "imgUrl" : "https://image.kurier.at/images/original/4795608/46-173271907.jpg",
-      "titleSource" : "\"Bringe das Publikum lieber zum Lachen, als Gänsehaut zu erzeugen\"",
-      "titleTarget" : "\"Nasmijte publiku, a ne naježite ih\"",
-      "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
+      "id" : "kbLjaUVY",
+      "imgUrl" : "https://image.kurier.at/images/original/4794429/46-173257746.jpg",
+      "titleSource" : "Die Minoritenkirche und ihre weggeschossene Turmspitze",
+      "titleTarget" : "Minoritska crkva i njen odbijeni toranj",
+      "url" : "https://kurier.at/kultur/die-minoritenkirche-und-ihre-weggeschossene-turmspitze/401116257"
     }, {
       "id" : "dLUU22wY",
       "imgUrl" : "https://image.kurier.at/images/original/4795803/46-145848908.jpg",
       "titleSource" : "Disput um Flüchtlingsboot bei der Venedig-Biennale",
       "titleTarget" : "Spor oko izbjegličkog broda na Venecijanskom bijenalu",
       "url" : "https://kurier.at/kultur/disput-um-fluechtlingsboot-bei-der-venedig-biennale/401117253"
+    }, {
+      "id" : "rvGXUPn8",
+      "imgUrl" : "https://image.kurier.at/images/original/4795608/46-173271907.jpg",
+      "titleSource" : "\"Bringe das Publikum lieber zum Lachen, als Gänsehaut zu erzeugen\"",
+      "titleTarget" : "\"Nasmijte publiku, a ne naježite ih\"",
+      "url" : "https://kurier.at/kultur/medien/bringe-das-publikum-lieber-zum-lachen-als-gaensehaut-zu-erzeugen/401117052"
     }, {
       "id" : "MYlhz6Vq",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/d/5906125/Buehnenfoto_5_Brugger_1606914925639765_v0_h.jpg",
@@ -180,66 +181,15 @@
     } ]
   }, {
     "category" : "HEALTH",
-    "newsArticles" : [ {
-      "id" : "hYbW1jza",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/b/5530987/imago86062494h_1542365733707856.jpg",
-      "titleSource" : "#InheritYourFuture: Wohin entwickeln wir uns?",
-      "titleTarget" : "#InheritYourFuture: Kamo idemo?",
-      "url" : "https://www.diepresse.com/5530987/index.do?from=rss"
-    }, {
-      "id" : "TNm1m7KE",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/2/1/5532449/50D5E3B1-E697-4B9A-8C36-37FE47330F7D_v0_h.jpg",
-      "titleSource" : "Orthopäden warnen vor \"Smartphone-Nacken\" und \"SMS-Daumen\"",
-      "titleTarget" : "Ortopedi upozoravaju na \"vrat pametnog telefona\" i \"SMS palac\"",
-      "url" : "https://www.diepresse.com/5532449/index.do?from=rss"
-    }, {
-      "id" : "whz7Nlcc",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/6/5536406/46E96D4B-3C10-49EB-B273-48D8A425EBEC_v0_h.jpg",
-      "titleSource" : "Fehlerhafte Medizinprodukte: US-Marktführer könnte für 9300 Todesfälle verantwortlich sein",
-      "titleTarget" : "Neispravni medicinski uređaji: Američki lider na tržištu mogao bi biti odgovoran za 9.300 smrtnih slučajeva",
-      "url" : "https://www.diepresse.com/5536406/index.do?from=rss"
-    }, {
-      "id" : "vD9daF5D",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/4/5538980/Woman-and-Dalmatian-mongrel-lying-on-white-bed-sheet-model-released-Symbolfoto-property-released-PUB_1543574217348842.jpg",
-      "titleSource" : "Studie: Frauen schlafen mit Hund im Bett besser",
-      "titleTarget" : "Studija: Žene bolje spavaju s psom u krevetu",
-      "url" : "https://www.diepresse.com/5538980/index.do?from=rss"
-    }, {
-      "id" : "sSdDpSCt",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/5/4/5539924/2946CA56-A160-47D4-A348-8E5FB85B1791_v0_l.jpg",
-      "titleSource" : "Studie: ADHS häufiger bei früh Eingeschulten diagnostiziert",
-      "titleTarget" : "Studija: ADHD se češće dijagnosticira u ranih napuštanja škole",
-      "url" : "https://www.diepresse.com/5539924/index.do?from=rss"
-    }, {
-      "id" : "mkMoIxTI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/5/2/5540946/photo-1515377905703-c4788e5_1543920353073774.jpg",
-      "titleSource" : "Kosmetika der Mutter beeinflussen Pubertät des Nachwuchses",
-      "titleTarget" : "Majčina kozmetika utječe na pubertet u potomstva",
-      "url" : "https://www.diepresse.com/5540946/index.do?from=rss"
-    }, {
-      "id" : "pdqmalaA",
-      "titleSource" : "Frau mit transplantiertem Uterus von Verstorbener wurde Mutter",
-      "titleTarget" : "Žena s presađenom maternicom od preminule postala je majka",
-      "url" : "https://www.diepresse.com/5541386/index.do?from=rss"
-    } ]
+    "newsArticles" : [ ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "HoB1uqlc",
-      "titleSource" : "Mick Schumacher steigt in Königsklasse auf",
-      "titleTarget" : "Mick Schumacher unaprijeđen je u prvoklasnu klasu",
-      "url" : "https://sport.orf.at/stories/3070103/"
-    }, {
-      "id" : "6du8jDsv",
-      "titleSource" : "ÖFB-Frauen erkämpfen Erfolg gegen Serbien",
-      "titleTarget" : "ÖFB žene se bore za uspjeh protiv Srbije",
-      "url" : "https://sport.orf.at/stories/3070088/"
-    }, {
-      "id" : "pnEG8mVg",
-      "imgUrl" : "https://image.kurier.at/images/original/4794213/46-173282375.jpg",
-      "titleSource" : "Pflichtsieg in Moskau: Salzburgs Traum vom Achtelfinale lebt",
-      "titleTarget" : "Obavezna pobjeda u Moskvi: Sanzburški san o osmini finala je živ",
-      "url" : "https://kurier.at/sport/fussball/champions-league-sieg-bei-lok-moskau-red-bull-salzburg-bleibt-im-europacup-rennen/401115159"
+      "id" : "F4l1yyH2",
+      "imgUrl" : "https://image.kurier.at/images/original/4795203/46-89151310.jpg",
+      "titleSource" : "Die Darts-WM in Corona-Zeiten: 1.000 Fans und Alkohol erlaubt",
+      "titleTarget" : "Svjetski kup u pikadu u Coroni: 1.000 navijača i alkohol dozvoljeni",
+      "url" : "https://kurier.at/sport/die-darts-wm-in-corona-zeiten-1000-fans-und-alkohol-erlaubt/401116752"
     }, {
       "id" : "pGnO72pp",
       "imgUrl" : "https://image.kurier.at/images/original/4793637/46-168024942.jpg",
@@ -247,22 +197,31 @@
       "titleTarget" : "Brza legenda Panenka: \"Nogomet bez navijača samo je upola dobar\"",
       "url" : "https://kurier.at/sport/fussball/rapid-legende-antonin-panenka-ueber-corona-fussball-ohne-fans-ist-nur-halb-so-schoen/401115909"
     }, {
-      "id" : "XX5kLy1H",
-      "titleSource" : "Salzburg feiert Schlüsselsieg in Moskau",
-      "titleTarget" : "Salzburg slavi ključnu pobjedu u Moskvi",
-      "url" : "https://sport.orf.at/stories/3070084/"
+      "id" : "xQnbhFK4",
+      "titleSource" : "Covid-19: Tauziehen um faire Wettkämpfe",
+      "titleTarget" : "Covid-19: Vučenje konopa za poštena natjecanja",
+      "url" : "https://sport.orf.at/stories/3070078/"
     }, {
-      "id" : "hISiBu5N",
-      "imgUrl" : "https://image.kurier.at/images/original/4794372/46-173284891.jpg",
-      "titleSource" : "Handball: Fivers verpassen nur knapp die nächste Sensation",
-      "titleTarget" : "Rukomet: Fivers jedva propušta sljedeću senzaciju",
-      "url" : "https://kurier.at/sport/handball-european-league-fivers-verpassen-knapp-die-naechste-sensation/401116230"
+      "id" : "ecX4LcKO",
+      "titleSource" : "Messi für Maradona-Huldigung bestraft",
+      "titleTarget" : "Messi je kažnjen zbog odavanja počasti Maradoni",
+      "url" : "https://sport.orf.at/stories/3070125/"
     }, {
       "id" : "16UrPjFI",
       "imgUrl" : "https://image.kurier.at/images/original/4794717/46-173291174.jpg",
       "titleSource" : "Nun ist es fix: Ein Schumacher fährt ab 2021 in der Formel 1",
       "titleTarget" : "Sada je popravljeno: Schumacher će voziti u Formuli 1 od 2021. godine",
       "url" : "https://kurier.at/sport/motorsport/nun-ist-es-fix-mick-schumacher-faehrt-ab-2021-in-der-formel-1/401116416"
+    }, {
+      "id" : "hOGL3ek4",
+      "titleSource" : "Froschberg-Damen in CL-Turnier-Gruppe mit Metz",
+      "titleTarget" : "Froschberg žene u CL turnirskoj skupini s Metzom",
+      "url" : "https://sport.orf.at/stories/3070118/"
+    }, {
+      "id" : "RETmW9dp",
+      "titleSource" : "Salzburg darf vom Aufstieg träumen",
+      "titleTarget" : "Salzburg može sanjati o unapređenju",
+      "url" : "https://sport.orf.at/stories/3070097/"
     } ]
   } ],
   "country" : "austria",
