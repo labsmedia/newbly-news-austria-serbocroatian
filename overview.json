@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "Evyjj7qL",
-      "imgUrl" : "https://image.kurier.at/images/original/4797597/46-173296973.jpg",
-      "titleSource" : "Anschober: \"Intensivstationen stark überlastet und viel zu viele Tote\"",
-      "titleTarget" : "Anschober: \"Jedinice intenzivne njege jako preopterećene i previše smrtnih slučajeva\"",
-      "url" : "https://kurier.at/politik/inland/anschober-intensivstationen-stark-ueberlastet-und-viel-zu-viele-tote/401118039"
-    }, {
       "id" : "5yCiJAZu",
       "imgUrl" : "https://image.kurier.at/images/original/4798839/46-147114016.jpg",
       "titleSource" : "FPÖ-Bundesrat: Dollfuß im Vergleich zu Kurz ein \"Lercherlschas\"",
       "titleTarget" : "FPÖ Savezno vijeće: Dollfuss u usporedbi s Kurzom i \"Lercherlschasom\"",
       "url" : "https://kurier.at/politik/inland/fpoe-bundesrat-dollfuss-im-vergleich-zu-kurz-ein-lercherlschas/401118762"
+    }, {
+      "id" : "Evyjj7qL",
+      "imgUrl" : "https://image.kurier.at/images/original/4797597/46-173296973.jpg",
+      "titleSource" : "Anschober: \"Intensivstationen stark überlastet und viel zu viele Tote\"",
+      "titleTarget" : "Anschober: \"Jedinice intenzivne njege jako preopterećene i previše smrtnih slučajeva\"",
+      "url" : "https://kurier.at/politik/inland/anschober-intensivstationen-stark-ueberlastet-und-viel-zu-viele-tote/401118039"
     }, {
       "id" : "kOjEI3Xq",
       "imgUrl" : "https://image.kurier.at/images/original/4797924/46-167921075.jpg",
@@ -26,11 +26,11 @@
       "titleTarget" : "Kraj zaključavanja: Van der Bellen upozorava na \"yo-yo efekt\" i poziva na testiranje",
       "url" : "https://kurier.at/politik/inland/ende-des-lockdowns-van-der-bellen-warnt-vor-jojo-effekt-und-ruft-zum-testen-auf/401118345"
     }, {
-      "id" : "H5bAXREB",
-      "imgUrl" : "https://image.kurier.at/images/original/4796796/46-173253772.jpg",
-      "titleSource" : "Tests: Schon 100.000 Anmeldungen, Landeshauptleute rufen zum Mitmachen auf",
-      "titleTarget" : "Testovi: Već 100.000 registracija, državni guverneri pozivaju na sudjelovanje",
-      "url" : "https://kurier.at/politik/inland/tests-schon-100000-anmeldungen-landeshauptleute-rufen-zum-mitmachen-auf/401117688"
+      "id" : "aZ0myOyv",
+      "imgUrl" : "https://image.kurier.at/images/original/4799073/46-173318086.jpg",
+      "titleSource" : "Nach Kogler-Kritik an Kurz: Anschober nimmt Streit gelassen",
+      "titleTarget" : "Nakon Koglerove kritike Kurza: Anschober spor shvaća mirno",
+      "url" : "https://kurier.at/politik/inland/nach-kogler-kritik-an-kurz-anschober-nimmt-streit-gelassen/401118882"
     }, {
       "id" : "nQMOfHpz",
       "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
@@ -38,11 +38,11 @@
       "titleTarget" : "Opušteno \"zaključavanje\": Ova se pravila primjenjuju od 7. prosinca",
       "url" : "https://kurier.at/politik/inland/oesterreich-im-lockdown-diese-regeln-gelten-ab-7-dezember/401083170"
     }, {
-      "id" : "f0cVPU8V",
-      "imgUrl" : "https://image.kurier.at/images/original/4789740/46-145190235.jpg",
-      "titleSource" : "U-Ausschuss: WKStA-Chefin sprach von \"politischem Druck\" und Schikane",
-      "titleTarget" : "Odbor U: Šef WKStA govorio je o \"političkom pritisku\" i uznemiravanju",
-      "url" : "https://kurier.at/politik/inland/u-ausschuss-streitbare-korruptionsstaatsanwaeltin-spricht-ueber-ermittlungen/401117679"
+      "id" : "SP68Ve85",
+      "imgUrl" : "https://image.kurier.at/images/original/4798506/46-173313085.jpg",
+      "titleSource" : "Ibiza-Causa: Rätsel um Verfahren zu \"politischer Einflussnahme\"",
+      "titleTarget" : "Ibiza Causa: Misterij postupka za \"politički utjecaj\"",
+      "url" : "https://kurier.at/politik/inland/ibiza-causa-raetsel-um-verfahren-zu-politischer-einflussnahme/401118615"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,17 +59,17 @@
       "titleTarget" : "Ryanair zatvara bazu u Beču",
       "url" : "https://kurier.at/wirtschaft/ryanair-schliesst-basis-in-wien/401118093"
     }, {
+      "id" : "tFoI2qB0",
+      "imgUrl" : "https://image.kurier.at/images/original/4797606/46-89939856.jpg",
+      "titleSource" : "Viele Beschwerden zu Zahldienst Klarna",
+      "titleTarget" : "Mnogo prigovora na uslugu plaćanja Klarna",
+      "url" : "https://kurier.at/wirtschaft/viele-beschwerden-zu-zahldienst-klarna/401118045"
+    }, {
       "id" : "oJSDAgmI",
       "imgUrl" : "https://image.kurier.at/images/original/4751184/78350011457439150_BLD_Online.jpg",
       "titleSource" : "Beschaffung von Antigentests ausgesetzt und ausgeschrieben",
       "titleTarget" : "Obustavljena i ponuđena nabava testova za antigen",
       "url" : "https://kurier.at/wirtschaft/beschaffung-von-antigentest-ausgesetzt-und-ausgeschrieben/401118318"
-    }, {
-      "id" : "OKPggdQX",
-      "imgUrl" : "https://image.kurier.at/images/original/2237649/20170822-ABD0093-1-1.jpg",
-      "titleSource" : "Japan: Ende für Benziner absehbar",
-      "titleTarget" : "Japan: kraj benzinskim motorima na vidiku",
-      "url" : "https://kurier.at/wirtschaft/japan-ende-fuer-benziner-absehbar/401117691"
     }, {
       "id" : "FJgsObCa",
       "imgUrl" : "https://image.kurier.at/images/original/4252997/78370011354143758_BLD_Online.jpg",
@@ -92,17 +92,11 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "gfUZp805",
-      "imgUrl" : "https://image.kurier.at/images/original/4797042/46-173280906.jpg",
-      "titleSource" : "So viele Todesfälle wie zuletzt vor 42 Jahren",
-      "titleTarget" : "Umrlih koliko i prije 42 godine",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-so-viele-todesfaelle-wie-zuletzt-vor-42-jahren/401117784"
-    }, {
-      "id" : "vu1Xgc9G",
-      "imgUrl" : "https://image.kurier.at/images/original/4798833/46-173322966.jpg",
-      "titleSource" : "Van der Bellen ruft zum Testen auf; Anschober: \"Intensivstationen stark überlastet\"",
-      "titleTarget" : "Masovna ispitivanja: Već 100 000 registracija; Liječnik intenzivne njege: \"Još uvijek je daleko od ciljanih vrijednosti\"",
-      "url" : "https://kurier.at/chronik/oesterreich/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten-deutschland-verlaengert-teil-lockdown/401117547"
+      "id" : "LuQfhe4e",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/18/crops/w=1280/772777_opener_268718_img_8036.jpg?s=a5b752d88900fcdf52fa31c04e0b8a0e573c10dd",
+      "titleSource" : "CoV-Negative werden nicht informiert",
+      "titleTarget" : "Negativi CoV nisu informirani",
+      "url" : "https://tirol.orf.at/stories/3079069/"
     }, {
       "id" : "xpzeCxBW",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/00/crops/w=1280/772450_opener_268600_cf707668-36d1-47f8-9220-e7d336cbfa3a.jpg?s=5a820926fd7a0d8ed17dd38734607f5a1b312dd0",
@@ -110,37 +104,61 @@
       "titleTarget" : "Veloce: prestanak prije uspostave radničkog vijeća",
       "url" : "https://wien.orf.at/stories/3079026/"
     }, {
-      "id" : "sJ3VmoGL",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Fast 4.000 Neuinfektionen in Österreich",
-      "titleTarget" : "Gotovo 4.000 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-fast-4000-neuinfektionen-in-oesterreich/401117754"
+      "id" : "qVUWmjWj",
+      "imgUrl" : "https://image.kurier.at/images/original/4798608/46-172026867.jpg",
+      "titleSource" : "\"Das ist Katastrophenmedizin\": In Kärnten wurde bereits triagiert",
+      "titleTarget" : "\"To je medicina za katastrofu\": U Koruškoj je već bila trijaža",
+      "url" : "https://kurier.at/chronik/oesterreich/das-ist-katastrophenmedizin-in-kaernten-wurde-bereits-triagiert/401118645"
     }, {
       "id" : "j9H1WF4e",
       "titleSource" : "Totalsperre der Draubrücke Stein angeordnet",
       "titleTarget" : "Uređena totalna barijera Draubrücke Steina",
       "url" : "https://kaernten.orf.at/stories/3079030/"
     }, {
-      "id" : "4atQQ8KL",
-      "imgUrl" : "https://image.kurier.at/images/original/4710605/46-168147848.jpg",
-      "titleSource" : "Großer Andrang auf Grippeimpfung im ganzen Land",
-      "titleTarget" : "Velika navala za vakcine protiv gripe u cijeloj zemlji",
-      "url" : "https://kurier.at/chronik/oesterreich/grosser-andrang-auf-grippeimpfung-im-ganzen-land/401117901"
+      "id" : "sJ3VmoGL",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Fast 4.000 Neuinfektionen in Österreich",
+      "titleTarget" : "Gotovo 4.000 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-fast-4000-neuinfektionen-in-oesterreich/401117754"
     }, {
-      "id" : "bxC5Tsog",
-      "imgUrl" : "https://image.kurier.at/images/original/4535093/46-166175732.jpg",
-      "titleSource" : "\"Babyelefant\" ist Wort des Jahres",
-      "titleTarget" : "\"Dječji slon\" riječ je godine",
-      "url" : "https://kurier.at/chronik/oesterreich/babyelefant-ist-wort-des-jahres/401117550"
+      "id" : "TbeCrasB",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/28/77/crops/w=1280/217319_opener_60877_makaken_peter6.jpg?s=d2e3957431ebadd52f42395087981978d1379712",
+      "titleSource" : "„Aufstand“ auf Affenberg",
+      "titleTarget" : "\"Ustanak\" na Affenbergu",
+      "url" : "https://kaernten.orf.at/stories/3077420/"
+    }, {
+      "id" : "HNlZiQ2o",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/63/crops/w=1280/769232_opener_267463_proz1.jpg?s=bed01aff2a866fa00712f9eabebb904c131858c0",
+      "titleSource" : "Lebenslange Haft für ICE-Anschläge",
+      "titleTarget" : "Doživotni zatvor zbog napada ICE",
+      "url" : "https://wien.orf.at/stories/3079064/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "GEEfjDUT",
+      "imgUrl" : "https://image.kurier.at/images/original/4799094/46-167579605.jpg",
+      "titleSource" : "Heftige Kritik an Eckhart-Einladung ins \"Literarische Quartett\"",
+      "titleTarget" : "Snažna kritika Eckhartova poziva u \"Književni kvartet\"",
+      "url" : "https://kurier.at/kultur/medien/heftige-kritik-an-einladung-von-lisa-eckhart-ins-literarische-quartett/401118897"
+    }, {
       "id" : "3wYdlK3X",
       "imgUrl" : "https://image.kurier.at/images/original/4798113/46-105652752.jpg",
       "titleSource" : "Neujahrskonzert ohne Publikum, Philharmoniker \"klatschen vielleicht selbst“",
       "titleTarget" : "Novogodišnji koncert bez publike, Filharmonija \"možda pljeskaju\"",
       "url" : "https://kurier.at/kultur/neujahrskonzert-ohne-publikum-philharmoniker-klatschen-vielleicht-selbst/401118435"
+    }, {
+      "id" : "LytCktrV",
+      "imgUrl" : "https://image.kurier.at/images/original/4798251/46-173274331.jpg",
+      "titleSource" : "Interview mit Katrina Daschner: \"Ohne Quotenregelung ändert sich nichts\"",
+      "titleTarget" : "Intervju s Katrinom Daschner: \"Ništa se ne mijenja bez sustava kvota\"",
+      "url" : "https://kurier.at/kultur/interview-mit-katrina-daschner-von-fc-gloria-ohne-quotenregelung-aendert-sich-nichts/401118486"
+    }, {
+      "id" : "yhXyWZrO",
+      "imgUrl" : "https://image.kurier.at/images/original/4797345/46-173308287.jpg",
+      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
+      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
+      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401118285"
     }, {
       "id" : "bqzawRdC",
       "imgUrl" : "https://image.kurier.at/images/original/4797618/46-146587293.jpg",
@@ -148,35 +166,17 @@
       "titleTarget" : "Sankcijske prijetnje arhitektima Coop Himmelb (l) au",
       "url" : "https://kurier.at/kultur/sanktionsdrohungen-gegen-architektenbuero-coop-himmelblau/401118024"
     }, {
-      "id" : "g1kdAWmt",
-      "imgUrl" : "https://image.kurier.at/images/original/4796574/46-169283490.jpg",
-      "titleSource" : "\"Black Lives Matter\" 2020 einflussreichste Kraft im Kunstbetrieb",
-      "titleTarget" : "\"Crni životi su važni\" 2020. najutjecajnija sila u svijetu umjetnosti",
-      "url" : "https://kurier.at/kultur/black-lives-matter-2020-einflussreichste-kraft-im-kunstbetrieb/401117577"
+      "id" : "zVQ0EZ88",
+      "imgUrl" : "https://image.kurier.at/images/original/4799235/46-145225839.jpg",
+      "titleSource" : "Spin-off von \"Game of Thrones\" wird 2021 produziert",
+      "titleTarget" : "Spin-off Game of Thrones bit će proizveden 2021. godine",
+      "url" : "https://kurier.at/kultur/medien/spin-off-von-game-of-thrones-wird-2021-produziert/401119056"
     }, {
-      "id" : "Rm2Ev1iD",
-      "imgUrl" : "https://image.kurier.at/images/original/4797039/46-168313335.jpg",
-      "titleSource" : "Mikkelsen sieht Grindelwald-Rolle als Gratwanderung",
-      "titleTarget" : "Mikkelsen Grindelwald-Rollea vidi kao šetnju po užadu",
-      "url" : "https://kurier.at/kultur/mikkelsen-sieht-grindelwald-rolle-als-gratwanderung/401117796"
-    }, {
-      "id" : "GEEfjDUT",
-      "imgUrl" : "https://image.kurier.at/images/original/4799094/46-167579605.jpg",
-      "titleSource" : "Heftige Kritik an Eckhart-Einladung ins \"Literarische Quartett\"",
-      "titleTarget" : "Snažna kritika Eckhartova poziva u \"Književni kvartet\"",
-      "url" : "https://kurier.at/kultur/medien/heftige-kritik-an-einladung-von-lisa-eckhart-ins-literarische-quartett/401118897"
-    }, {
-      "id" : "xFXMfB5H",
-      "imgUrl" : "https://image.kurier.at/images/original/4798980/46-173327718.jpg",
-      "titleSource" : "Grandiose Charakterdarstellerin: Jutta Lampe (1937 - 2020)",
-      "titleTarget" : "Sjajna karakterna glumica: Jutta Lampe (1937. - 2020.)",
-      "url" : "https://kurier.at/kultur/grandiose-charakterdarstellerin-jutta-lampe-1937-2020/401118846"
-    }, {
-      "id" : "n58DJCo7",
-      "imgUrl" : "https://image.kurier.at/images/original/4798971/46-143340758.jpg",
-      "titleSource" : "Warner Bros.: Viele Kinofilme 2021 auch online zu sehen",
-      "titleTarget" : "Warner Bros.: Mnogi filmovi će se gledati na mreži 2021. godine",
-      "url" : "https://kurier.at/kultur/medien/warner-bros-viele-kinofilme-2021-auch-online-zu-sehen/401118828"
+      "id" : "uAv2ka3q",
+      "imgUrl" : "https://image.kurier.at/images/original/4798479/46-173278078.jpg",
+      "titleSource" : "\"Two Weeks To Live\": Kim Noakes ist die Arya Stark der Gegenwart",
+      "titleTarget" : "\"Dva tjedna za život\": Kim Noakes je Arya Stark sadašnjosti",
+      "url" : "https://kurier.at/kultur/two-weeks-to-live-kim-noakes-ist-die-arya-stark-der-gegenwart/401118636"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,12 +184,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "sJFBWQFS",
-      "imgUrl" : "https://image.kurier.at/images/original/4795956/46-168369740.jpg",
-      "titleSource" : "Drei Wege zum Glück: Wie Rapid, LASK und WAC noch aufsteigen",
-      "titleTarget" : "Tri načina za sreću: Kako će rasti Rapid, LASK i WAC",
-      "url" : "https://kurier.at/sport/fussball/drei-wege-zum-glueck-wie-rapid-lask-und-wac-in-der-europa-league-noch-aufsteigen/401117196"
-    }, {
       "id" : "VZ47geg1",
       "titleSource" : "Traumtor bringt WAC Aufstieg nahe",
       "titleTarget" : "Traumtor približava promociju WAC-a",
@@ -199,12 +193,6 @@
       "titleSource" : "3:3 gegen Tottenham reicht LASK nicht",
       "titleTarget" : "3: 3 protiv Tottenhama nije dovoljno za LASK",
       "url" : "https://sport.orf.at/stories/3070166/"
-    }, {
-      "id" : "OcDnLt5Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4797132/46-159317536.jpg",
-      "titleSource" : "Milzriss nach Trainingssturz: Notoperation bei ÖSV-Star Pinkelnig",
-      "titleTarget" : "Puknuće slezene nakon treninga: Hitna operacija na mokri zvijezdi ÖSV",
-      "url" : "https://kurier.at/sport/wintersport/milzriss-nach-trainingssturz-oesv-skisprung-star-eva-pinkelnig-notoperiert/401117781"
     }, {
       "id" : "9I3i6USn",
       "titleSource" : "Linzerinnen starten mit Sieg in CL-Final-Four",
@@ -216,10 +204,22 @@
       "titleTarget" : "Schwab vodi nakon prvog kola u Južnoj Africi",
       "url" : "https://sport.orf.at/stories/3070167/"
     }, {
-      "id" : "wQt7CxjF",
-      "titleSource" : "Rapid geht bei Arsenal aufs Ganze",
-      "titleTarget" : "Rapid ide u Arsenal",
-      "url" : "https://sport.orf.at/stories/3070115/"
+      "id" : "VXopuaAN",
+      "imgUrl" : "https://image.kurier.at/images/original/4797783/46-168006879.jpg",
+      "titleSource" : "Herzversagen: DFB-Vizepräsident mit 68 Jahren gestorben",
+      "titleTarget" : "Zatajenje srca: potpredsjednik DFB-a umro je u 68. godini",
+      "url" : "https://kurier.at/sport/fussball/herzversagen-dfb-vizepraesident-erwin-bugar-mit-68-jahren-gestorben/401118159"
+    }, {
+      "id" : "GQyCcx5f",
+      "titleSource" : "Albin Ouschan holt mit Team Europa Mosconi Cup",
+      "titleTarget" : "Albin Ouschan osvaja Mosconi kup s momčadi Europa",
+      "url" : "https://sport.orf.at/stories/3070188/"
+    }, {
+      "id" : "N7lawYqn",
+      "imgUrl" : "https://image.kurier.at/images/original/4799241/46-168116767.jpg",
+      "titleSource" : "Offiziell: Superstars James und Davis bleiben bei NBA-Champ Lakers",
+      "titleTarget" : "Službeno: Superzvijezde James i Davis ostaju u NBA Champ Lakersima",
+      "url" : "https://kurier.at/sport/offiziell-superstars-james-und-davis-bleiben-bei-nba-champion-los-angeles-lakers/401119059"
     } ]
   } ],
   "country" : "austria",
