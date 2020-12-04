@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "0Vq7j2xt",
-      "imgUrl" : "https://image.kurier.at/images/original/4795686/78350011457777062_BLD_Online.jpg",
-      "titleSource" : "Kurz rechnet mit steigenden Infektionszahlen nach Weihnachten",
-      "titleTarget" : "Kurz očekuje da će nakon Božića porasti broj zaraza",
-      "url" : "https://kurier.at/politik/inland/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten/401117475"
-    }, {
       "id" : "Evyjj7qL",
       "imgUrl" : "https://image.kurier.at/images/original/4797597/46-173296973.jpg",
       "titleSource" : "Anschober: \"Intensivstationen stark überlastet und viel zu viele Tote\"",
       "titleTarget" : "Anschober: \"Jedinice intenzivne njege jako preopterećene i previše smrtnih slučajeva\"",
       "url" : "https://kurier.at/politik/inland/anschober-intensivstationen-stark-ueberlastet-und-viel-zu-viele-tote/401118039"
+    }, {
+      "id" : "5yCiJAZu",
+      "imgUrl" : "https://image.kurier.at/images/original/4798839/46-147114016.jpg",
+      "titleSource" : "FPÖ-Bundesrat: Dollfuß im Vergleich zu Kurz ein \"Lercherlschas\"",
+      "titleTarget" : "FPÖ Savezno vijeće: Dollfuss u usporedbi s Kurzom i \"Lercherlschasom\"",
+      "url" : "https://kurier.at/politik/inland/fpoe-bundesrat-dollfuss-im-vergleich-zu-kurz-ein-lercherlschas/401118762"
     }, {
       "id" : "kOjEI3Xq",
       "imgUrl" : "https://image.kurier.at/images/original/4797924/46-167921075.jpg",
@@ -59,50 +59,56 @@
       "titleTarget" : "Ryanair zatvara bazu u Beču",
       "url" : "https://kurier.at/wirtschaft/ryanair-schliesst-basis-in-wien/401118093"
     }, {
+      "id" : "oJSDAgmI",
+      "imgUrl" : "https://image.kurier.at/images/original/4751184/78350011457439150_BLD_Online.jpg",
+      "titleSource" : "Beschaffung von Antigentests ausgesetzt und ausgeschrieben",
+      "titleTarget" : "Obustavljena i ponuđena nabava testova za antigen",
+      "url" : "https://kurier.at/wirtschaft/beschaffung-von-antigentest-ausgesetzt-und-ausgeschrieben/401118318"
+    }, {
       "id" : "OKPggdQX",
       "imgUrl" : "https://image.kurier.at/images/original/2237649/20170822-ABD0093-1-1.jpg",
       "titleSource" : "Japan: Ende für Benziner absehbar",
       "titleTarget" : "Japan: kraj benzinskim motorima na vidiku",
       "url" : "https://kurier.at/wirtschaft/japan-ende-fuer-benziner-absehbar/401117691"
     }, {
+      "id" : "FJgsObCa",
+      "imgUrl" : "https://image.kurier.at/images/original/4252997/78370011354143758_BLD_Online.jpg",
+      "titleSource" : "Treffen in Wien: Opec will wieder mehr Öl fördern",
+      "titleTarget" : "Sastanak u Beču: Opec želi ponovno proizvoditi više nafte",
+      "url" : "https://kurier.at/wirtschaft/treffen-in-wien-opec-will-wieder-mehr-oel-foerdern/401118774"
+    }, {
+      "id" : "j8JY8WX1",
+      "imgUrl" : "https://image.kurier.at/images/original/4798695/46-167087690.jpg",
+      "titleSource" : "Austro-Fintech will \"Amazon fresh\" Europas bieten",
+      "titleTarget" : "Austro-Fintech želi ponuditi \"Amazon fresh\" iz Europe",
+      "url" : "https://kurier.at/wirtschaft/austro-fintech-will-amazon-fresh-europas-bieten/401118702"
+    }, {
       "id" : "0pjGhUvU",
       "imgUrl" : "https://image.kurier.at/images/original/4798059/46-169079952.jpg",
       "titleSource" : "Wohntelefon: Was kann man gegen  Fettgeruch im Haus unternehmen?",
       "titleTarget" : "Telefon u dnevnoj sobi: što učiniti za sprečavanje mirisa masti u kući?",
       "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-was-kann-man-gegen-fettgeruch-im-haus-unternehmen/401118384"
-    }, {
-      "id" : "m9HgWJNx",
-      "imgUrl" : "https://image.kurier.at/images/original/4318529/20200517-ABD0076-1-1.jpg",
-      "titleSource" : "Lockdown und Online-Boom: Zustellrekord bei Post",
-      "titleTarget" : "Zaključavanje i mrežni procvat: Zapis nakon isporuke",
-      "url" : "https://kurier.at/wirtschaft/lockdown-und-online-boom-zustellrekord-bei-post/401118111"
-    }, {
-      "id" : "ZeVYPu53",
-      "imgUrl" : "https://image.kurier.at/images/original/3544912/78350011448928270_BLD_Online.jpg",
-      "titleSource" : "Schweiz weiterhin Weltmarktführer bei Uhren und Schmuck",
-      "titleTarget" : "Švicarska je i dalje svjetski lider na tržištu satova i nakita",
-      "url" : "https://kurier.at/wirtschaft/schweiz-weiterhin-weltmarktfuehrer-bei-uhren-und-schmuck/401117724"
-    }, {
-      "id" : "XcpTz5FC",
-      "imgUrl" : "https://image.kurier.at/images/original/4533329/78350011455611200_BLD_Online.jpg",
-      "titleSource" : "Washington erhöht Druck auf chinesische Unternehmen",
-      "titleTarget" : "Washington pojačava pritisak na kineske tvrtke",
-      "url" : "https://kurier.at/wirtschaft/washington-erhoeht-druck-auf-chinesische-unternehmen/401117637"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "gfUZp805",
+      "imgUrl" : "https://image.kurier.at/images/original/4797042/46-173280906.jpg",
+      "titleSource" : "So viele Todesfälle wie zuletzt vor 42 Jahren",
+      "titleTarget" : "Umrlih koliko i prije 42 godine",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-so-viele-todesfaelle-wie-zuletzt-vor-42-jahren/401117784"
+    }, {
       "id" : "vu1Xgc9G",
       "imgUrl" : "https://image.kurier.at/images/original/4798833/46-173322966.jpg",
       "titleSource" : "Van der Bellen ruft zum Testen auf; Anschober: \"Intensivstationen stark überlastet\"",
       "titleTarget" : "Masovna ispitivanja: Već 100 000 registracija; Liječnik intenzivne njege: \"Još uvijek je daleko od ciljanih vrijednosti\"",
       "url" : "https://kurier.at/chronik/oesterreich/kurz-rechnet-mit-steigenden-infektionszahlen-nach-weihnachten-deutschland-verlaengert-teil-lockdown/401117547"
     }, {
-      "id" : "wn02Qfdw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/95/crops/w=1280/758404_opener_263495_tremitas_tp-frauenhand_0078.jpg?s=c2e1a7332a6dbc54f42d0ce45a95ca686781dba5",
-      "titleSource" : "Neues Messgerät hilft bei Parkinson",
-      "titleTarget" : "Novi mjerni uređaj pomaže kod Parkinsonove bolesti",
-      "url" : "https://kaernten.orf.at/stories/3076154/"
+      "id" : "xpzeCxBW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/00/crops/w=1280/772450_opener_268600_cf707668-36d1-47f8-9220-e7d336cbfa3a.jpg?s=5a820926fd7a0d8ed17dd38734607f5a1b312dd0",
+      "titleSource" : "Veloce: Kündigung vor Betriebsratsgründung",
+      "titleTarget" : "Veloce: prestanak prije uspostave radničkog vijeća",
+      "url" : "https://wien.orf.at/stories/3079026/"
     }, {
       "id" : "sJ3VmoGL",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -110,28 +116,22 @@
       "titleTarget" : "Gotovo 4.000 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/corona-fast-4000-neuinfektionen-in-oesterreich/401117754"
     }, {
-      "id" : "bUWm8N1T",
-      "titleSource" : "180 neue Jobs im Gailtal",
-      "titleTarget" : "180 novih radnih mjesta u Gailtalu",
-      "url" : "https://kaernten.orf.at/stories/3078908/"
+      "id" : "j9H1WF4e",
+      "titleSource" : "Totalsperre der Draubrücke Stein angeordnet",
+      "titleTarget" : "Uređena totalna barijera Draubrücke Steina",
+      "url" : "https://kaernten.orf.at/stories/3079030/"
     }, {
-      "id" : "r1vikmEs",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/90/crops/w=1280/771396_opener_268190_wort_des_jahres_babyelefant_a.jpg?s=163cfa378de7bc8c8d69cb9b4310fe389c7008f2",
-      "titleSource" : "„Babyelefant“ ist Wort des Jahres",
+      "id" : "4atQQ8KL",
+      "imgUrl" : "https://image.kurier.at/images/original/4710605/46-168147848.jpg",
+      "titleSource" : "Großer Andrang auf Grippeimpfung im ganzen Land",
+      "titleTarget" : "Velika navala za vakcine protiv gripe u cijeloj zemlji",
+      "url" : "https://kurier.at/chronik/oesterreich/grosser-andrang-auf-grippeimpfung-im-ganzen-land/401117901"
+    }, {
+      "id" : "bxC5Tsog",
+      "imgUrl" : "https://image.kurier.at/images/original/4535093/46-166175732.jpg",
+      "titleSource" : "\"Babyelefant\" ist Wort des Jahres",
       "titleTarget" : "\"Dječji slon\" riječ je godine",
-      "url" : "https://steiermark.orf.at/stories/3078855/"
-    }, {
-      "id" : "iZQNnYPm",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/45/crops/w=1280/771744_opener_268345_k2.png?s=7a58cfcb06ba3b4a1b13b1d84a870cbd1af84094",
-      "titleSource" : "Opernsänger Jonas Kaufmann als Marionettenpuppe",
-      "titleTarget" : "Operni pjevač Jonas Kaufmann kao marioneta",
-      "url" : "https://salzburg.orf.at/stories/3078880/"
-    }, {
-      "id" : "E3suSB4x",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/55/crops/w=1280/771567_opener_268255_pressedienst_feuerwehr_patschok_-20201203-007.jpg?s=f0f34e6299c1e3f6ff70aee50b06cbfb5a85d2d0",
-      "titleSource" : "Schneechaos hält Einsatzkräfte auf Trab",
-      "titleTarget" : "Snježni kaos drži hitne službe na prstima",
-      "url" : "https://steiermark.orf.at/stories/3078864/"
+      "url" : "https://kurier.at/chronik/oesterreich/babyelefant-ist-wort-des-jahres/401117550"
     } ]
   }, {
     "category" : "CULTURE",
@@ -148,34 +148,35 @@
       "titleTarget" : "Sankcijske prijetnje arhitektima Coop Himmelb (l) au",
       "url" : "https://kurier.at/kultur/sanktionsdrohungen-gegen-architektenbuero-coop-himmelblau/401118024"
     }, {
-      "id" : "Rm2Ev1iD",
-      "imgUrl" : "https://image.kurier.at/images/original/4797039/46-168313335.jpg",
-      "titleSource" : "Mikkelsen sieht Grindelwald-Rolle als Gratwanderung",
-      "titleTarget" : "Mikkelsen Grindelwald-Rollea vidi kao šetnju po užadu",
-      "url" : "https://kurier.at/kultur/mikkelsen-sieht-grindelwald-rolle-als-gratwanderung/401117796"
-    }, {
       "id" : "g1kdAWmt",
       "imgUrl" : "https://image.kurier.at/images/original/4796574/46-169283490.jpg",
       "titleSource" : "\"Black Lives Matter\" 2020 einflussreichste Kraft im Kunstbetrieb",
       "titleTarget" : "\"Crni životi su važni\" 2020. najutjecajnija sila u svijetu umjetnosti",
       "url" : "https://kurier.at/kultur/black-lives-matter-2020-einflussreichste-kraft-im-kunstbetrieb/401117577"
     }, {
-      "id" : "5P0oBdLu",
-      "imgUrl" : "https://image.kurier.at/images/original/4234721/46-157185756.jpg",
-      "titleSource" : "ORF auf Sparkurs in die schwarzen Zahlen",
-      "titleTarget" : "ORF na tečaju štednje u crnom",
-      "url" : "https://kurier.at/kultur/medien/orf-auf-sparkurs-in-die-schwarzen-zahlen/401118423"
+      "id" : "Rm2Ev1iD",
+      "imgUrl" : "https://image.kurier.at/images/original/4797039/46-168313335.jpg",
+      "titleSource" : "Mikkelsen sieht Grindelwald-Rolle als Gratwanderung",
+      "titleTarget" : "Mikkelsen Grindelwald-Rollea vidi kao šetnju po užadu",
+      "url" : "https://kurier.at/kultur/mikkelsen-sieht-grindelwald-rolle-als-gratwanderung/401117796"
     }, {
-      "id" : "tFa8QqvH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/a/0/5906848/853C200C-E910-47B0-A800-71D9C2D694AF_1607011441628792.jpg",
-      "titleSource" : "Hybridstrategie mit ORF-Player, aber noch ohne Gesetz",
-      "titleTarget" : "Hibridna strategija s ORF igračem, ali još uvijek bez zakona",
-      "url" : "https://www.diepresse.com/5906848/Strategie-ORF-2025_Hybridstrategie-mit-ORFPlayer-aber-noch-ohne-Gesetz?from=rss"
+      "id" : "GEEfjDUT",
+      "imgUrl" : "https://image.kurier.at/images/original/4799094/46-167579605.jpg",
+      "titleSource" : "Heftige Kritik an Eckhart-Einladung ins \"Literarische Quartett\"",
+      "titleTarget" : "Snažna kritika Eckhartova poziva u \"Književni kvartet\"",
+      "url" : "https://kurier.at/kultur/medien/heftige-kritik-an-einladung-von-lisa-eckhart-ins-literarische-quartett/401118897"
     }, {
-      "id" : "IpmgjRiV",
-      "titleSource" : "Tiroler Architekt Hanno Schlögl 76-jährig verstorben",
-      "titleTarget" : "Tirolski arhitekt Hanno Schlögl umro je u 76. godini",
-      "url" : "https://kurier.at/kultur/tiroler-architekt-hanno-schloegl-76-jaehrig-verstorben/401118711"
+      "id" : "xFXMfB5H",
+      "imgUrl" : "https://image.kurier.at/images/original/4798980/46-173327718.jpg",
+      "titleSource" : "Grandiose Charakterdarstellerin: Jutta Lampe (1937 - 2020)",
+      "titleTarget" : "Sjajna karakterna glumica: Jutta Lampe (1937. - 2020.)",
+      "url" : "https://kurier.at/kultur/grandiose-charakterdarstellerin-jutta-lampe-1937-2020/401118846"
+    }, {
+      "id" : "n58DJCo7",
+      "imgUrl" : "https://image.kurier.at/images/original/4798971/46-143340758.jpg",
+      "titleSource" : "Warner Bros.: Viele Kinofilme 2021 auch online zu sehen",
+      "titleTarget" : "Warner Bros.: Mnogi filmovi će se gledati na mreži 2021. godine",
+      "url" : "https://kurier.at/kultur/medien/warner-bros-viele-kinofilme-2021-auch-online-zu-sehen/401118828"
     } ]
   }, {
     "category" : "HEALTH",
@@ -183,32 +184,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "AKZbfH6y",
-      "titleSource" : "Furchtloser LASK stellt sich Tottenham",
-      "titleTarget" : "Neustrašivi LASK suočava se s Tottenhamom",
-      "url" : "https://sport.orf.at/stories/3070121/"
-    }, {
-      "id" : "wafLHSUE",
-      "titleSource" : "Eva Pinkelnig nach Trainingssturz notoperiert",
-      "titleTarget" : "Eva Peeing hitno je operirana nakon pada na treningu",
-      "url" : "https://sport.orf.at/stories/3070144/"
-    }, {
       "id" : "sJFBWQFS",
       "imgUrl" : "https://image.kurier.at/images/original/4795956/46-168369740.jpg",
       "titleSource" : "Drei Wege zum Glück: Wie Rapid, LASK und WAC noch aufsteigen",
       "titleTarget" : "Tri načina za sreću: Kako će rasti Rapid, LASK i WAC",
       "url" : "https://kurier.at/sport/fussball/drei-wege-zum-glueck-wie-rapid-lask-und-wac-in-der-europa-league-noch-aufsteigen/401117196"
     }, {
-      "id" : "Wa2ZXcpP",
-      "titleSource" : "Pinkelnig nach Sturz in Training notoperiert",
-      "titleTarget" : "Pišite nakon pada na treningu",
-      "url" : "https://sport.orf.at/stories/3070145/"
+      "id" : "VZ47geg1",
+      "titleSource" : "Traumtor bringt WAC Aufstieg nahe",
+      "titleTarget" : "Traumtor približava promociju WAC-a",
+      "url" : "https://sport.orf.at/stories/3070169/"
     }, {
-      "id" : "Ils0giEE",
-      "imgUrl" : "https://image.kurier.at/images/original/4796379/46-170484028.jpg",
-      "titleSource" : "Schlierenzauer-Appell: \"Nehmt Corona nicht auf die leichte Schulter\"",
-      "titleTarget" : "Schlierenzauerov apel: \"Ne shvaćajte Coronu olako\"",
-      "url" : "https://kurier.at/sport/wintersport/appell-von-gregor-schlierenzauer-nehmt-corona-nicht-auf-die-leichte-schulter/401117427"
+      "id" : "ny2thtK6",
+      "titleSource" : "3:3 gegen Tottenham reicht LASK nicht",
+      "titleTarget" : "3: 3 protiv Tottenhama nije dovoljno za LASK",
+      "url" : "https://sport.orf.at/stories/3070166/"
     }, {
       "id" : "OcDnLt5Y",
       "imgUrl" : "https://image.kurier.at/images/original/4797132/46-159317536.jpg",
@@ -216,11 +206,20 @@
       "titleTarget" : "Puknuće slezene nakon treninga: Hitna operacija na mokri zvijezdi ÖSV",
       "url" : "https://kurier.at/sport/wintersport/milzriss-nach-trainingssturz-oesv-skisprung-star-eva-pinkelnig-notoperiert/401117781"
     }, {
-      "id" : "VXopuaAN",
-      "imgUrl" : "https://image.kurier.at/images/original/4797783/46-168006879.jpg",
-      "titleSource" : "Herzversagen: DFB-Vizepräsident mit 68 Jahren gestorben",
-      "titleTarget" : "Zatajenje srca: potpredsjednik DFB-a umro je u 68. godini",
-      "url" : "https://kurier.at/sport/fussball/herzversagen-dfb-vizepraesident-erwin-bugar-mit-68-jahren-gestorben/401118159"
+      "id" : "9I3i6USn",
+      "titleSource" : "Linzerinnen starten mit Sieg in CL-Final-Four",
+      "titleTarget" : "Linzerinnen počinju pobjedom u CL-Final-Fouru",
+      "url" : "https://sport.orf.at/stories/3070164/"
+    }, {
+      "id" : "jNQ8awus",
+      "titleSource" : "Schwab führt nach erster Runde in Südafrika",
+      "titleTarget" : "Schwab vodi nakon prvog kola u Južnoj Africi",
+      "url" : "https://sport.orf.at/stories/3070167/"
+    }, {
+      "id" : "wQt7CxjF",
+      "titleSource" : "Rapid geht bei Arsenal aufs Ganze",
+      "titleTarget" : "Rapid ide u Arsenal",
+      "url" : "https://sport.orf.at/stories/3070115/"
     } ]
   } ],
   "country" : "austria",
