@@ -2,6 +2,12 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "mjlCt8eb",
+      "imgUrl" : "https://image.kurier.at/images/original/4724430/46-166097864.jpg",
+      "titleSource" : "Covid-19: Stelzer kann sich Impfpflicht vorstellen",
+      "titleTarget" : "Covid-19: Stelzer može zamisliti obavezno cijepljenje",
+      "url" : "https://kurier.at/politik/inland/covid-19-stelzer-kann-sich-impfpflicht-vorstellen/401120046"
+    }, {
       "id" : "n9egZDdQ",
       "imgUrl" : "https://image.kurier.at/images/original/4800651/46-173346062.jpg",
       "titleSource" : "Grasser zu acht Jahren Haft verurteilt: \"Man wollte mich hängen sehen\"",
@@ -26,23 +32,17 @@
       "titleTarget" : "Grasserova presuda: \"Tužna i šokirana\"",
       "url" : "https://kurier.at/politik/inland/grasser-zu-urteil-man-wollte-mich-haengen-sehen/401119620"
     }, {
-      "id" : "aZ0myOyv",
-      "imgUrl" : "https://image.kurier.at/images/original/4799073/46-173318086.jpg",
-      "titleSource" : "Nach Kogler-Kritik an Kurz: Anschober nimmt Streit gelassen",
-      "titleTarget" : "Nakon Koglerove kritike Kurza: Anschober spor shvaća mirno",
-      "url" : "https://kurier.at/politik/inland/nach-kogler-kritik-an-kurz-anschober-nimmt-streit-gelassen/401118882"
+      "id" : "Nf4Sc9Su",
+      "imgUrl" : "https://image.kurier.at/images/original/4802022/46-173348120.jpg",
+      "titleSource" : "Grasser: \"Das hat mir den Boden unter den Füßen weggezogen“",
+      "titleTarget" : "Grasser: \"To mi je povuklo pod ispod nogu\"",
+      "url" : "https://kurier.at/politik/inland/grasser-das-hat-mir-den-boden-unter-den-fuessen-weggezogen/401120136"
     }, {
-      "id" : "rR49JcL1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/2/b/5906987/E72D6918-7155-4B46-83BD-A1BA77E1F3E4_v0_l.jpg",
-      "titleSource" : "Grasser zu acht Jahren Freiheitsstrafe verurteilt",
-      "titleTarget" : "Grasser je osuđen na osam godina zatvora",
-      "url" : "https://www.diepresse.com/5906987/BuwogProzess_Grasser-zu-acht-Jahren-Freiheitsstrafe-verurteilt?from=rss"
-    }, {
-      "id" : "3U4lIJMU",
-      "imgUrl" : "https://image.kurier.at/images/original/4777251/20201124-ABD0043-1-1.jpg",
-      "titleSource" : "Klimafonds mit Rekord-Förderbudget von 236 Mio. Euro",
-      "titleTarget" : "Klimatski fond s rekordnim proračunom financiranja od 236 milijuna eura",
-      "url" : "https://kurier.at/politik/inland/klimafonds-mit-rekord-foerderbudget-von-236-mio-euro/401119581"
+      "id" : "FHlfMANM",
+      "imgUrl" : "https://image.kurier.at/images/original/4671562/46-167502512.jpg",
+      "titleSource" : "Kommen nach Ibiza-Video auch Kurz-SMS in den U-Ausschuss?",
+      "titleTarget" : "Nakon videozapisa na Ibizi, dolaze li i kratke tekstualne poruke u U-odbor?",
+      "url" : "https://kurier.at/politik/inland/kommen-nach-ibiza-video-auch-kurz-sms-in-den-u-ausschuss/401119995"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,6 +59,12 @@
       "titleTarget" : "Potrošači će vjerojatno navaliti na trgovine u ponedjeljak nakon zaključavanja",
       "url" : "https://kurier.at/wirtschaft/konsumenten-duerften-am-montag-nach-dem-lockdown-die-geschaefte-stuermen/401119071"
     }, {
+      "id" : "wbvkOxlr",
+      "imgUrl" : "https://image.kurier.at/images/original/4774734/46-168943032.jpg",
+      "titleSource" : "Volksanwaltschaft: Missstände beim Familien-Härtefonds",
+      "titleTarget" : "Pučki pravobranitelj: Zlouporabe u obiteljskom fondu za teškoće",
+      "url" : "https://kurier.at/wirtschaft/volksanwaltschaft-missstaende-beim-familien-haertefonds/401118681"
+    }, {
       "id" : "1qwnf503",
       "imgUrl" : "https://image.kurier.at/images/original/4800312/46-172443797.jpg",
       "titleSource" : "Corona: Hotel Sacher \"wird diese Krise überstehen\"",
@@ -71,76 +77,66 @@
       "titleTarget" : "Švicarska pošta povećava svoju e-flotu: 2.100 vozila bit će u pogonu do kraja godine",
       "url" : "https://kurier.at/wirtschaft/post-stockt-e-flotte-auf-bis-jahresende-2100-fahrzeuge-in-betrieb/401119758"
     }, {
-      "id" : "xqwBgPvq",
-      "imgUrl" : "https://image.kurier.at/images/original/4800867/46-173291325.jpg",
-      "titleSource" : "Impfstoff-Hoffnung sorgt für Rekord-Kapitalzufluss in Aktien",
-      "titleTarget" : "Nada u cjepivo bilježi rekordni priljev kapitala",
-      "url" : "https://kurier.at/wirtschaft/impfstoff-hoffnung-sorgt-fuer-rekord-kapitalzufluss-in-aktien/401119674"
+      "id" : "pxuLFTdK",
+      "imgUrl" : "https://image.kurier.at/images/original/4286486/78370011354388220_BLD_Online.jpg",
+      "titleSource" : "EZB warnt Banken vor Kreditausfällen",
+      "titleTarget" : "ECB upozorava banke na neplaćanje zajma",
+      "url" : "https://kurier.at/wirtschaft/ezb-warnt-banken-vor-kreditausfaellen/401120076"
     }, {
-      "id" : "jejY5qRx",
-      "titleSource" : "Coronakrise drückt Tourismus 2020 kräftig nach unten",
-      "titleTarget" : "Koronska kriza deprimira turizam 2020. godine",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-drueckt-tourismus-2020-kraeftig-nach-unten/401119488"
-    }, {
-      "id" : "5qF7J9r8",
-      "imgUrl" : "https://image.kurier.at/images/original/4800207/46-168170576.jpg",
-      "titleSource" : "Mayr-Melnhof Karton investiert 100 Mio. Euro in Frohnleiten",
-      "titleTarget" : "Mayr-Melnhof Karton ulaže 100 milijuna eura u Frohnleiten",
-      "url" : "https://kurier.at/wirtschaft/mayr-melnhof-karton-investiert-100-mio-euro-in-frohnleiten/401119350"
+      "id" : "9lf5FYv4",
+      "imgUrl" : "https://image.kurier.at/images/original/4604279/46-166515596.jpg",
+      "titleSource" : "Wirecard-Skandal: Ermittlungen gegen Wirtschaftsprüfer EY",
+      "titleTarget" : "Skandal s žičanim karticama: Istrage protiv revizora EY",
+      "url" : "https://kurier.at/wirtschaft/wirecard-skandal-ermittlungen-gegen-wirtschaftspruefer-ey/401120037"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "LuQfhe4e",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/18/crops/w=1280/772777_opener_268718_img_8036.jpg?s=a5b752d88900fcdf52fa31c04e0b8a0e573c10dd",
-      "titleSource" : "CoV-Negative werden nicht informiert",
-      "titleTarget" : "Negativi CoV nisu informirani",
-      "url" : "https://tirol.orf.at/stories/3079069/"
-    }, {
       "id" : "mHqvTWza",
       "imgUrl" : "https://image.kurier.at/images/original/4800879/46-142586381.jpg",
       "titleSource" : "Bis zu zwei Meter Schnee: ÖBB sperren erste Strecken",
       "titleTarget" : "Do dva metra snijega: ÖBB blokira prve dionice",
       "url" : "https://kurier.at/chronik/oesterreich/bis-zu-zwei-meter-schnee-oebb-sperren-erste-strecken/401119692"
     }, {
-      "id" : "Yy5OeWyj",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/01/crops/w=1280/773285_opener_268901_masse1.jpg?s=282d109655f238e98af6b39087942089e831d2a0",
-      "titleSource" : "Bisher 112 positive Fälle bei Massentests",
-      "titleTarget" : "Do sada 112 pozitivnih slučajeva u masovnim testovima",
-      "url" : "https://wien.orf.at/stories/3079022/"
+      "id" : "N8bShq3w",
+      "imgUrl" : "https://image.kurier.at/images/original/4785309/46-171844374.jpg",
+      "titleSource" : "Pleite des bekannten Seehotels und Restaurants \"Der Reisinger\"",
+      "titleTarget" : "Bankrot poznatog jezera hotela i restorana \"Der Reisinger\"",
+      "url" : "https://kurier.at/chronik/oesterreich/pleite-des-bekannten-hotel-restaurants-der-reisinger/401119149"
     }, {
-      "id" : "HV9xBIM1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/d/b/5907163/CORONA-BEGINN-DER-MASSENTESTS-IN-WIEN_1607076960025589_v0_h.jpg",
-      "titleSource" : "Pannenserie bei Massentests: Linz steigt aus IT-Plattform aus",
-      "titleTarget" : "Serija kvarova u masovnim testovima: Linz izlazi iz IT platforme",
-      "url" : "https://www.diepresse.com/5907163/Corona_Pannenserie-bei-Massentests_Linz-steigt-aus-ITPlattform-aus?from=rss"
+      "id" : "X9mwZIOX",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "3.815 Neuinfektionen in Österreich",
+      "titleTarget" : "3.815 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/3815-neuinfektionen-in-oesterreich/401119194"
     }, {
-      "id" : "WEgk46b8",
-      "titleSource" : "Keine Suspendierung von Islamforscher",
-      "titleTarget" : "Nema suspenzije istraživača islama",
-      "url" : "https://salzburg.orf.at/stories/3079065/"
+      "id" : "kdsM1Y5w",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/58/crops/w=1280/773657_opener_269058_2012xx_bh_snowboard_vorbereitung_00.00.02.14.jpg?s=3397339c0dd680b32298cbc9c5b92fd0c644c09f",
+      "titleSource" : "Dujmovits und Jud mitten im Training",
+      "titleTarget" : "Dujmovits i Jud usred treninga",
+      "url" : "https://burgenland.orf.at/stories/3079151/"
     }, {
-      "id" : "I9rqZD7Z",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/32/crops/w=1280/773077_opener_268832_oesterreichtestet.jpg?s=926ff3859d82d9e12e865b9c8b81b61018bcc27e",
-      "titleSource" : "Massentests: Linz steigt aus Anmeldeplattform aus",
-      "titleTarget" : "Masovni testovi: Linz se povlači s platforme za registraciju",
-      "url" : "https://ooe.orf.at/stories/3079096/"
+      "id" : "sj8skR5x",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/39/80/crops/w=1280/311670_opener_97580_jcr_content.jpg?s=f8399723e67cc5d937f5f8822a06a157bd9926e9",
+      "titleSource" : "Batteriezug sparte 140 Tonnen CO2 ein",
+      "titleTarget" : "Vlak akumulatora uštedio je 140 tona CO2",
+      "url" : "https://noe.orf.at/stories/3079158/"
     }, {
-      "id" : "SjHGpQMj",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/20/crops/w=1280/685614_opener_236820_kh_schulanfang_csfeichter05463_00_18_01_24.jpg?s=2eee22552fe0aafa3e7671e265626aee178c5fbf",
-      "titleSource" : "„Harte Maskenpflicht ist Gefahr für Kinder“",
-      "titleTarget" : "\"Teško nošenje maske opasnost je za djecu\"",
-      "url" : "https://salzburg.orf.at/stories/3079184/"
+      "id" : "nOSmSoGs",
+      "imgUrl" : "https://image.kurier.at/images/original/4800585/46-168921269.jpg",
+      "titleSource" : "Mariahilfer Straße wird für Massenansturm gerüstet; Eislaufen ab Montag erlaubt",
+      "titleTarget" : "Mariahilfer Strasse spremna je za masovnu navalu; Klizanje na ledu dozvoljeno od ponedjeljka",
+      "url" : "https://kurier.at/chronik/oesterreich/lieferketten-probleme-bei-pfizer-impfstoff-behoben-anschober-richtet-appell-an-handel-vor-oeffnung/401118933"
+    }, {
+      "id" : "6lLAvM4U",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/77/crops/w=1280/773995_opener_269177_ef0994c3-f2cc-43c1-8b93-b4e6173d7708.jpg?s=d81d761b2ebf0b1584d11931ef3d26abbec24727",
+      "titleSource" : "Leutschacher Sauvignonkäse präsentiert",
+      "titleTarget" : "Predstavljen sir Leutschacher sauvignon",
+      "url" : "https://steiermark.orf.at/stories/3079214/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "GEEfjDUT",
-      "imgUrl" : "https://image.kurier.at/images/original/4799094/46-167579605.jpg",
-      "titleSource" : "Heftige Kritik an Eckhart-Einladung ins \"Literarische Quartett\"",
-      "titleTarget" : "Snažna kritika Eckhartova poziva u \"Književni kvartet\"",
-      "url" : "https://kurier.at/kultur/medien/heftige-kritik-an-einladung-von-lisa-eckhart-ins-literarische-quartett/401118897"
-    }, {
       "id" : "LytCktrV",
       "imgUrl" : "https://image.kurier.at/images/original/4798251/46-173274331.jpg",
       "titleSource" : "Katrina Daschner von FC Gloria: \"Ohne Quotenregelung ändert sich nichts\"",
@@ -153,29 +149,35 @@
       "titleTarget" : "Salzburški festival: Eidinger novi \"Jedermann\", Altenberger \"Buhlschaft\"",
       "url" : "https://kurier.at/kultur/salzburger-festspiele-lars-eidinger-wird-neuer-jedermann/401119275"
     }, {
+      "id" : "zVQ0EZ88",
+      "imgUrl" : "https://image.kurier.at/images/original/4799235/46-145225839.jpg",
+      "titleSource" : "Spin-off von \"Game of Thrones\" wird 2021 produziert",
+      "titleTarget" : "Spin-off Game of Thrones bit će proizveden 2021. godine",
+      "url" : "https://kurier.at/kultur/medien/spin-off-von-game-of-thrones-wird-2021-produziert/401119056"
+    }, {
+      "id" : "zFamLXLT",
+      "imgUrl" : "https://image.kurier.at/images/original/4800348/46-167970600.jpg",
+      "titleSource" : "Sie war eine Favoritin für den heurigen Nobelpreis",
+      "titleTarget" : "Bila je omiljena za ovogodišnju Nobelovu nagradu",
+      "url" : "https://kurier.at/kultur/buch/sie-war-eine-favoritin-fuer-den-heurigen-nobelpreis/401119434"
+    }, {
       "id" : "yhXyWZrO",
       "imgUrl" : "https://image.kurier.at/images/original/4797345/46-173308287.jpg",
       "titleSource" : "... und wieder 18 Bücher, ganz kurz",
       "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
       "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401118285"
     }, {
-      "id" : "xFXMfB5H",
-      "imgUrl" : "https://image.kurier.at/images/original/4798980/46-173327718.jpg",
-      "titleSource" : "Grandiose Charakterdarstellerin: Jutta Lampe (1937 - 2020)",
-      "titleTarget" : "Sjajna karakterna glumica: Jutta Lampe (1937. - 2020.)",
-      "url" : "https://kurier.at/kultur/grandiose-charakterdarstellerin-jutta-lampe-1937-2020/401118846"
-    }, {
-      "id" : "n58DJCo7",
-      "imgUrl" : "https://image.kurier.at/images/original/4798971/46-143340758.jpg",
-      "titleSource" : "Warner Bros.: Viele Kinofilme 2021 auch online zu sehen",
-      "titleTarget" : "Warner Bros.: Mnogi filmovi će se gledati na mreži 2021. godine",
-      "url" : "https://kurier.at/kultur/medien/warner-bros-viele-kinofilme-2021-auch-online-zu-sehen/401118828"
-    }, {
       "id" : "7gQyrINt",
       "imgUrl" : "https://image.kurier.at/images/original/4800402/46-166504819.jpg",
       "titleSource" : "Die Sensation nebenbei: Frauen werden den \"Jedermann\" dominieren",
       "titleTarget" : "Inače, senzacija: žene će dominirati \"Jedermannom\"",
       "url" : "https://kurier.at/kultur/die-sensation-nebenbei-frauen-werden-den-jedermann-dominieren/401119443"
+    }, {
+      "id" : "uAv2ka3q",
+      "imgUrl" : "https://image.kurier.at/images/original/4798479/46-173278078.jpg",
+      "titleSource" : "\"Two Weeks To Live\": Kim Noakes ist die Arya Stark der Gegenwart",
+      "titleTarget" : "\"Dva tjedna za život\": Kim Noakes je Arya Stark sadašnjosti",
+      "url" : "https://kurier.at/kultur/two-weeks-to-live-kim-noakes-ist-die-arya-stark-der-gegenwart/401118636"
     } ]
   }, {
     "category" : "HEALTH",
@@ -183,41 +185,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "3hSfyYNL",
-      "titleSource" : "LASK scheitert erhobenen Hauptes",
-      "titleTarget" : "LASK ne uspijeva podignute glave",
-      "url" : "https://sport.orf.at/stories/3070181/"
+      "id" : "BmTg0ehT",
+      "imgUrl" : "https://image.kurier.at/images/original/4800015/46-170568400.jpg",
+      "titleSource" : "Pele schrieb Maradona einen Abschiedsbrief: \"Liebe dich, Diego\"",
+      "titleTarget" : "Pele je napisao oproštajno pismo Maradoni: \"Volim te, Diego\"",
+      "url" : "https://kurier.at/sport/fussball/fussball-legende-pele-schrieb-maradona-einen-abschiedsbrief-liebe-dich-diego/401119311"
     }, {
-      "id" : "VZ47geg1",
-      "titleSource" : "Traumtor bringt WAC Aufstieg nahe",
-      "titleTarget" : "Traumtor približava promociju WAC-a",
-      "url" : "https://sport.orf.at/stories/3070169/"
+      "id" : "PuzaOtwo",
+      "titleSource" : "Linz-Froschberg feiert bei CL-Turnier zweiten Sieg",
+      "titleTarget" : "Linz-Froschberg slavi drugu pobjedu na CL turniru",
+      "url" : "https://sport.orf.at/stories/3070218/"
     }, {
-      "id" : "ny2thtK6",
-      "titleSource" : "3:3 gegen Tottenham reicht LASK nicht",
-      "titleTarget" : "3: 3 protiv Tottenhama nije dovoljno za LASK",
-      "url" : "https://sport.orf.at/stories/3070166/"
+      "id" : "IalySgOq",
+      "titleSource" : "Lockerungen im Freizeitsport ab Montag",
+      "titleTarget" : "Opuštanje u rekreacijskim sportovima od ponedjeljka",
+      "url" : "https://sport.orf.at/stories/3070213/"
+    }, {
+      "id" : "h6CYjzaP",
+      "titleSource" : "Russell vertritt Hamilton mit Bestzeit",
+      "titleTarget" : "Russell predstavlja Hamiltona s najboljim vremenom",
+      "url" : "https://sport.orf.at/stories/3070217/"
     }, {
       "id" : "DHTO1Q98",
       "titleSource" : "CoV-Verstöße: ÖSV kündigt Kotrainer",
       "titleTarget" : "Kršenja CoV: ÖSV ukida Kotrainer",
       "url" : "https://sport.orf.at/stories/3070195/"
     }, {
-      "id" : "IXU3bNMz",
-      "imgUrl" : "https://image.kurier.at/images/original/4225457/46-159126823.jpg",
-      "titleSource" : "Skispringerin Pinkelnig nach Not-OP: \"Ich werde wieder ganz gesund\"",
-      "titleTarget" : "Skijaški skakač Pissing nakon hitne operacije: \"Opet ću biti potpuno zdrav\"",
-      "url" : "https://kurier.at/sport/wintersport/skispringerin-pinkelnig-nach-not-op-ich-werde-wieder-ganz-gesund/401119278"
-    }, {
       "id" : "foQfKe3E",
       "titleSource" : "Speed-Damen rätseln über CoV-Infektionen",
       "titleTarget" : "Dame na brzinu zbunjuju infekcije CoV-om",
       "url" : "https://sport.orf.at/stories/3070183/"
     }, {
-      "id" : "f7j9KJP4",
-      "titleSource" : "Österreich festigt Platz zehn in UEFA-Fünfjahreswertung",
-      "titleTarget" : "Austrija je učvrstila deseto mjesto na petogodišnjoj ljestvici UEFA-e",
-      "url" : "https://sport.orf.at/stories/3070191/"
+      "id" : "IXU3bNMz",
+      "imgUrl" : "https://image.kurier.at/images/original/4225457/46-159126823.jpg",
+      "titleSource" : "Skispringerin Pinkelnig nach Not-OP: \"Ich werde wieder ganz gesund\"",
+      "titleTarget" : "Skijaški skakač Pissing nakon hitne operacije: \"Opet ću biti potpuno zdrav\"",
+      "url" : "https://kurier.at/sport/wintersport/skispringerin-pinkelnig-nach-not-op-ich-werde-wieder-ganz-gesund/401119278"
     } ]
   } ],
   "country" : "austria",
