@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kDgM5BTP",
-      "imgUrl" : "https://image.kurier.at/images/original/4795509/20201202-ABD0062-1-1.jpg",
-      "titleSource" : "Trotz zweiten Lockdowns: ÖVP laut profil-Umfrage bei 40 Prozent",
-      "titleTarget" : "Anketa: ÖVP i Zeleni dobivaju, SPÖ i FPÖ gube",
-      "url" : "https://kurier.at/politik/inland/umfrage-oevp-und-gruene-legen-zu-spoe-und-fpoe-verlieren/401120442"
-    }, {
-      "id" : "nq9oZtTT",
-      "imgUrl" : "https://image.kurier.at/images/original/4802997/46-173363537.jpg",
-      "titleSource" : "Corona-Massentests: Schwächerer zweiter Tag",
-      "titleTarget" : "Ispitivanja mase korone: Slabiji drugi dan",
-      "url" : "https://kurier.at/politik/inland/covid-19-schwacher-zulauf-zu-massentests/401120676"
-    }, {
-      "id" : "y0Jgjc90",
-      "imgUrl" : "https://image.kurier.at/images/original/4793418/78370011357760064_BLD_Online.jpg",
-      "titleSource" : "Blümel: Steuerstundungen für Unternehmen noch bis Ende März möglich",
-      "titleTarget" : "Blümel: Odgode poreza za tvrtke još su moguće do kraja ožujka",
-      "url" : "https://kurier.at/politik/inland/bluemel-steuerstundungen-fuer-unternehmen-noch-bis-ende-maerz-moeglich/401120469"
-    }, {
-      "id" : "caaokUkB",
-      "imgUrl" : "https://image.kurier.at/images/original/4803201/46-173343703.jpg",
-      "titleSource" : "Grasser & Meischberger: Eine schicksalhafte Allianz",
-      "titleTarget" : "Grasser & Meischberger: Sudbonosni savez",
-      "url" : "https://kurier.at/politik/inland/eine-schicksalhafte-allianz/401120703"
+      "id" : "ghqNJiSk",
+      "imgUrl" : "https://image.kurier.at/images/original/4803603/46-168913327.jpg",
+      "titleSource" : "Virologe Krammer warnt: \"Öffnung der Geschäfte nicht klug\"",
+      "titleTarget" : "Virolog Krammer upozorava: \"Ne otvarajte posao pametno\"",
+      "url" : "https://kurier.at/politik/inland/virologe-krammer-warnt-oeffnung-der-geschaefte-nicht-klug/401120886"
     }, {
       "id" : "pZ4pOeTg",
       "imgUrl" : "https://image.kurier.at/images/original/4803519/46-170518829.jpg",
@@ -32,50 +14,44 @@
       "titleTarget" : "Kraj zaključavanja: Kratki i početnici zahtijevaju disciplinu",
       "url" : "https://kurier.at/politik/inland/lockdown-ende-kurz-und-anschober-fordern-disziplin/401120817"
     }, {
+      "id" : "d3c2m8MC",
+      "imgUrl" : "https://image.kurier.at/images/original/4804050/46-173319924.jpg",
+      "titleSource" : "Am Montag \"nicht leichtsinnig werden\": Kontrollen auf Einkaufsstraßen",
+      "titleTarget" : "U ponedjeljak \"ne budi neoprezan\": provjere na trgovačkim ulicama",
+      "url" : "https://kurier.at/politik/inland/nehammer-appelliert-nicht-sofort-in-einkaufszentren-stroemen/401121036"
+    }, {
+      "id" : "SLk1Rltr",
+      "imgUrl" : "https://image.kurier.at/images/original/3958772/46-149927410.jpg",
+      "titleSource" : "\"Vizekanzler agiert als grüner Ministrant für Türkis\"",
+      "titleTarget" : "\"Vicekancelar djeluje kao zeleni oltar za tirkiz\"",
+      "url" : "https://kurier.at/politik/inland/vizekanzler-agiert-als-gruener-ministrant-fuer-tuerkis/401121009"
+    }, {
+      "id" : "ZVuzIl66",
+      "imgUrl" : "https://image.kurier.at/images/original/4803825/46-168566641.jpg",
+      "titleSource" : "Neos-Chefin: \"Schande, dass Daten nicht transparent sind\"",
+      "titleTarget" : "Neos šef: \"Sramota što podaci nisu transparentni\"",
+      "url" : "https://kurier.at/politik/inland/neos-chefin-schande-dass-die-daten-nicht-transparent-sind/401120991"
+    }, {
       "id" : "kVOynBhb",
       "imgUrl" : "https://image.kurier.at/images/original/4803189/46-166334922.jpg",
       "titleSource" : "Hass im Netz: Paket wird mit EU-Lösung abgestimmt",
       "titleTarget" : "Mržnja na mreži: paket je usklađen s rješenjem EU-a",
       "url" : "https://kurier.at/politik/inland/hass-im-netz-paket-wird-mit-eu-loesung-abgestimmt/401120697"
     }, {
-      "id" : "ghqNJiSk",
-      "imgUrl" : "https://image.kurier.at/images/original/4803603/46-168913327.jpg",
-      "titleSource" : "Virologe Krammer warnt: \"Öffnung der Geschäfte nicht klug\"",
-      "titleTarget" : "Virolog Krammer upozorava: \"Ne otvarajte posao pametno\"",
-      "url" : "https://kurier.at/politik/inland/virologe-krammer-warnt-oeffnung-der-geschaefte-nicht-klug/401120886"
+      "id" : "pSacLWAK",
+      "imgUrl" : "https://image.kurier.at/images/original/4804341/46-173345227.jpg",
+      "titleSource" : "Massentests ohne Masse",
+      "titleTarget" : "Ispitivanja mase bez mase",
+      "url" : "https://kurier.at/politik/inland/massentests-ohne-masse/401121195"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "9Aecn0tY",
-      "imgUrl" : "https://image.kurier.at/images/original/1825767/aida_punschkrapferln.jpg",
-      "titleSource" : "Kaffeehaus-Kette \"Aida\" in finanziellen Nöten",
-      "titleTarget" : "Lanac kafića \"Aida\" u financijskim poteškoćama",
-      "url" : "https://kurier.at/wirtschaft/kaffeehaus-kette-aida-in-finanziellen-schwierigkeiten/401120379"
-    }, {
-      "id" : "48dR0McW",
-      "imgUrl" : "https://image.kurier.at/images/original/4800789/20201204-ABD0178-1-1.jpg",
-      "titleSource" : "\"Wollte alle für dumm verkaufen\": Pressestimmen zum Grasser-Urteil",
-      "titleTarget" : "\"Htio sve prevariti\": komentari u novinama na presudu Grasser",
-      "url" : "https://kurier.at/wirtschaft/grasser-prozess-internationale-pressestimmen-zum-urteil/401120478"
-    }, {
       "id" : "0yXLxRnJ",
       "imgUrl" : "https://image.kurier.at/images/original/4798128/46-173260623.jpg",
       "titleSource" : "Platzkampf: Warum Gehsteige in Wien oft zu schmal sind",
       "titleTarget" : "Platzkampf: Zašto su nogostupi u Beču često preuski",
       "url" : "https://kurier.at/wirtschaft/immobiz/verteilungskampf-warum-gehsteige-in-wien-oft-zu-schmal-sind/401118438"
-    }, {
-      "id" : "Nmv60OWS",
-      "imgUrl" : "https://image.kurier.at/images/original/4798623/46-173297115.jpg",
-      "titleSource" : "Kontrolle im Homeoffice: Wer arbeitet brav,  wer nicht?",
-      "titleTarget" : "Kontrola u kućnom uredu: tko dobro radi, tko ne?",
-      "url" : "https://kurier.at/wirtschaft/karriere/kontrolle-im-homeoffice-wer-arbeitet-brav-wer-nicht/401118654"
-    }, {
-      "id" : "Nvvwobj7",
-      "imgUrl" : "https://image.kurier.at/images/original/4797945/web-senioren-tiktok.jpg",
-      "titleSource" : "Tiktok nach Ablauf von Frist in den USA weiter zugänglich",
-      "titleTarget" : "Tiktok ostaje dostupan i nakon isteka roka u SAD-u",
-      "url" : "https://kurier.at/wirtschaft/tiktok-nach-ablauf-von-frist-in-den-usa-weiter-zugaenglich/401120553"
     }, {
       "id" : "oySk1mTf",
       "imgUrl" : "https://image.kurier.at/images/original/4774521/berlin-tegel-urban-tech-republic-1024x576.jpg",
@@ -83,56 +59,80 @@
       "titleTarget" : "U staroj berlinskoj zračnoj luci Tegel gradi se preko 5000 stanova",
       "url" : "https://kurier.at/wirtschaft/am-alten-berliner-flughafen-tegel-entstehen-ueber-5000-wohnungen/401120961"
     }, {
-      "id" : "4gqjYswQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4134864/20200218-ABD0010-1-1.jpg",
-      "titleSource" : "Osram - Belegschaft ein Jahr nach der Übernahme durch ams in Sorge",
-      "titleTarget" : "Osramova radna snaga zabrinuta je godinu dana nakon što su je preuzeli ams",
-      "url" : "https://kurier.at/wirtschaft/osram-belegschaft-ein-jahr-nach-der-uebernahme-durch-ams-in-sorge/401120943"
+      "id" : "Nmv60OWS",
+      "imgUrl" : "https://image.kurier.at/images/original/4798623/46-173297115.jpg",
+      "titleSource" : "Kontrolle im Homeoffice: Wer arbeitet brav,  wer nicht?",
+      "titleTarget" : "Kontrola u kućnom uredu: tko dobro radi, tko ne?",
+      "url" : "https://kurier.at/wirtschaft/karriere/kontrolle-im-homeoffice-wer-arbeitet-brav-wer-nicht/401118654"
+    }, {
+      "id" : "W0SOY8SZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4804056/46-168623262.jpg",
+      "titleSource" : "Deutsche Bank koppelt Vorstandsgehälter an Öko-Ziele",
+      "titleTarget" : "Deutsche Bank plaće na odboru veže uz ekološke ciljeve",
+      "url" : "https://kurier.at/wirtschaft/deutsche-bank-koppelt-vorstandsgehaelter-an-oeko-ziele/401121099"
+    }, {
+      "id" : "qAqmzu2y",
+      "imgUrl" : "https://image.kurier.at/images/original/4801095/20201204-ABD0187-1-1.jpg",
+      "titleSource" : " Nehammer: \"Noch genug Zeit für Weihnachtseinkäufe\"",
+      "titleTarget" : " Nehammer: \"Još uvijek ima dovoljno vremena za božićnu kupovinu\"",
+      "url" : "https://kurier.at/wirtschaft/nehammer-noch-genug-zeit-fuer-weihnachtseinkaeufe/401121090"
+    }, {
+      "id" : "BC8fNxPv",
+      "imgUrl" : "https://image.kurier.at/images/original/616989/unicredit-000_AP_Luca%252BBruno.jpg",
+      "titleSource" : "Padoan dementiert politischen Einfluss bei UniCredit",
+      "titleTarget" : "Padoan poriče politički utjecaj u UniCreditu",
+      "url" : "https://kurier.at/wirtschaft/padoan-dementiert-politischen-einfluss-bei-unicredit/401121051"
+    }, {
+      "id" : "EgntAquy",
+      "imgUrl" : "https://image.kurier.at/images/original/3886118/81690356751401670_BLD_Online.jpg",
+      "titleSource" : "Corona - Deutschland zahlt Novemberhilfen im Jänner aus",
+      "titleTarget" : "Corona - Njemačka isplaćuje pomoć u studenom u siječnju",
+      "url" : "https://kurier.at/wirtschaft/corona-deutschland-zahlt-novemberhilfen-im-jaenner-aus/401121054"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "a1ijMaBX",
-      "imgUrl" : "https://image.kurier.at/images/original/4802385/46-163632548.jpg",
-      "titleSource" : "Land Salzburg: Ohne Corona-Impfung keine Anstellung",
-      "titleTarget" : "Država Salzburg: Nema zaposlenja bez cijepljenja koronom",
-      "url" : "https://kurier.at/chronik/oesterreich/land-salzburg-ohne-corona-impfung-keine-anstellung/401120433"
+      "id" : "Ou4aoShE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/43/crops/w=1280/774374_opener_269343_test1_abd0005_1.jpg?s=f357de4085b7521decbe1fe384341780b2397031",
+      "titleSource" : "Massentests: 36 Lehrer positiv getestet",
+      "titleTarget" : "Masovni testovi: 36 učitelja ima pozitivne ocjene",
+      "url" : "https://noe.orf.at/stories/3079357/"
     }, {
-      "id" : "aixTqzUA",
-      "imgUrl" : "https://image.kurier.at/images/original/4802205/46-173346523.jpg",
-      "titleSource" : "\"Massen\" fehlen bei Teststationen: Wien ändert Zugangsregeln",
-      "titleTarget" : "Na testnim stanicama nedostaju \"mise\": Beč mijenja pravila pristupa",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-massentests-ernuechterung-nach-dem-ersten-tag/401120445"
+      "id" : "4I0bRMdu",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/98/crops/w=1280/775583_opener_269798_on-2020-12-06-13h32m36s678.jpg?s=8cfcc8bf769fc9100d9ec13a0d29a0df901a588c",
+      "titleSource" : "Angespannte Lage im Gail- und Lesachtal",
+      "titleTarget" : "Napeta situacija u dolinama Gail i Lesach",
+      "url" : "https://kaernten.orf.at/stories/3079371/"
     }, {
-      "id" : "I6MhNOtW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/92/crops/w=1280/774464_opener_269292_whatsapp_image_2020-12-05_at_10.35.18.jpeg?s=95901252ec402690d9ff203a8e27e116c9fd83a3",
-      "titleSource" : "Lawinengefahr: Erste Häuser evakuiert",
-      "titleTarget" : "Opasnost od lavine: prve kuće evakuirane",
-      "url" : "https://kaernten.orf.at/stories/3079275/"
+      "id" : "NewXbP85",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/54/crops/w=1280/775444_opener_269754_gepa_marsch_1_mario_kneisl_002.jpg?s=9321601e27c8ea370ff78f183a0c893c4e971a6d",
+      "titleSource" : "„Wut-Rede“ von Jesse Marsch nach Blamage",
+      "titleTarget" : "\"Govor bijesa\" Jessea Marcha nakon srama",
+      "url" : "https://noe.orf.at/stories/3079358/"
     }, {
-      "id" : "HhOq5t7i",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/42/crops/w=1280/774831_opener_269542_on-2020-12-05-16h17m44s903.jpg?s=9095dd00c2e88689c7da4d8811adb0ec46c52919",
-      "titleSource" : "Lesachtal: Einsatzkräfte in Alarmbereitschaft",
-      "titleTarget" : "Lesachtal: hitne službe u pripravnosti",
-      "url" : "https://kaernten.orf.at/stories/3079263/"
+      "id" : "2W179I7O",
+      "imgUrl" : "https://image.kurier.at/images/original/4803660/46-173346907.jpg",
+      "titleSource" : "Massentests: Nur wenige Lehrer bisher positiv; Tirol überlegt Verschiebung",
+      "titleTarget" : "Masovni testovi: zasad pozitivno samo nekoliko učitelja; Tirol razmišlja o odgodi",
+      "url" : "https://kurier.at/chronik/oesterreich/unter-05-prozent-des-getesteten-lehrpersonals-am-samstag-positiv/401120955"
     }, {
-      "id" : "eKfyRMO4",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/46/92/crops/w=1280/366040_opener_118092_img_3387.jpg?s=c7686c387bfc5c61aac27443e8ee1bde12951c63",
-      "titleSource" : "Mölltal: Bevölkerung soll zu Hause bleiben",
-      "titleTarget" : "Mölltal: Stanovništvo bi trebalo ostati kod kuće",
-      "url" : "https://kaernten.orf.at/stories/3079329/"
+      "id" : "v9yMrq02",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.741 Neuinfektionen in Österreich",
+      "titleTarget" : "2.741 nova infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2741-neuinfektionen-in-oesterreich/401120889"
     }, {
-      "id" : "vfX65iF2",
-      "imgUrl" : "https://image.kurier.at/images/original/4802889/46-173367825.jpg",
-      "titleSource" : "Lawine in Osttirol beschädigt Häuser, Hunderte ohne Strom",
-      "titleTarget" : "Lavina u Istočnom Tirolu oštetila je kuće, stotine bez struje",
-      "url" : "https://kurier.at/chronik/oesterreich/wetter-im-westen-hohe-lawinengefahr-und-hunderte-menschen-ohne-strom/401120646"
+      "id" : "xr5GKhQj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/90/crops/w=1280/775554_opener_269790_massentest.jpg?s=67ab7e383e6715a038e2f3579536793c12c01274",
+      "titleSource" : "Massentests: Ludwig und Kurz wollen Signal setzen",
+      "titleTarget" : "Masovni testovi: Ludwig i Kurz žele poslati signal",
+      "url" : "https://wien.orf.at/stories/3079367/"
     }, {
-      "id" : "gURFubmK",
-      "imgUrl" : "https://image.kurier.at/images/original/3972893/46-151286493.jpg",
-      "titleSource" : "Krampus ging mit Rute auf Polizisten los",
-      "titleTarget" : "Krampus je palicom napao policiju",
-      "url" : "https://kurier.at/chronik/oesterreich/krampus-ging-mit-rute-auf-polizisten-los/401120391"
+      "id" : "E639q1vj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/97/crops/w=1280/775260_opener_269697_dsc_002_c_brunner_images_at.jpg?s=920a78e8852185aac9f433ec6144342d4261c539",
+      "titleSource" : "Osttirol: Schäden durch Lawinen und Regen",
+      "titleTarget" : "Istočni Tirol: Šteta od lavina i kiše",
+      "url" : "https://tirol.orf.at/stories/3079327/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,29 +143,33 @@
       "titleTarget" : "Gabalier: Božić u ORL ambulanti",
       "url" : "https://kurier.at/kultur/medien/gabalier-weihnachten-auf-der-hno-ambulanz/401120502"
     }, {
-      "id" : "4JGxqo79",
-      "imgUrl" : "https://image.kurier.at/images/original/4802772/46-169048490.jpg",
-      "titleSource" : "Billie Eilish sagt ihre Welt-Tournee nun ganz ab",
-      "titleTarget" : "Billie Eilish potpuno otkazuje svoju svjetsku turneju",
-      "url" : "https://kurier.at/kultur/billie-eilish-sagt-ihre-welt-tournee-nun-ganz-ab/401120598"
-    }, {
       "id" : "G1g9QP94",
       "imgUrl" : "https://image.kurier.at/images/original/4802940/46-173357183.jpg",
       "titleSource" : "Regisseurin Unger und die Frauen-Bande ergründen menschliche Abgründe",
       "titleTarget" : "Redatelj Unger i ženska banda istražuju ljudske dubine",
       "url" : "https://kurier.at/kultur/medien/regisseurin-unger-und-die-frauen-bande-ergruenden-menschliche-abgruende/401120673"
     }, {
-      "id" : "duO2S399",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/5/9/5907801/A294E6C0-2953-4B77-B1E0-8053180D0F40_1607177443443374.jpg",
-      "titleSource" : "Beinahe Alaska: Die Rückkehr zu sich selbst",
-      "titleTarget" : "Gotovo Aljaska: Povratak sebi",
-      "url" : "https://www.diepresse.com/5907801/Buchbesprechung_Beinahe-Alaska_Die-Rueckkehr-zu-sich-selbst?from=rss"
+      "id" : "6Wm3a8YZ",
+      "titleSource" : "Opernsänger Klaus Ofczarek (81) gestorben",
+      "titleTarget" : "Umro je operni pjevač Klaus Ofczarek (81)",
+      "url" : "https://kurier.at/kultur/opernsaenger-und-schauspieler-klaus-ofczarek-gestorben/401121231"
     }, {
-      "id" : "GlNYMmA2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/4/2/5907778/33CE34B5-3B25-4722-9ED9-9F2BC73D3733_1607173040061509.jpg",
-      "titleSource" : "AG Club: Fantasien von Frauen und Aliens",
-      "titleTarget" : "AG klub: Maštanje o ženama i vanzemaljcima",
-      "url" : "https://www.diepresse.com/5907778/Song-der-Woche_AG-Club_Fantasien-von-Frauen-und-Aliens?from=rss"
+      "id" : "WwlU3Kkw",
+      "titleSource" : "Opernsänger und Schauspieler Klaus Ofczarek gestorben",
+      "titleTarget" : "Umro je operni pjevač i glumac Klaus Ofczarek",
+      "url" : "https://www.diepresse.com/5908147/Todesfall_Opernsaenger-und-Schauspieler-Klaus-Ofczarek-gestorben?from=rss"
+    }, {
+      "id" : "2EuAh0RM",
+      "imgUrl" : "https://image.kurier.at/images/original/4804338/46-66330665.jpg",
+      "titleSource" : "Schauspielerin Senta Wengraf 96-jährig gestorben",
+      "titleTarget" : "Glumica Senta Wengraf umrla je u 96. godini",
+      "url" : "https://kurier.at/kultur/schauspielerin-senta-wengraf-96-jaehrig-gestorben/401121201"
+    }, {
+      "id" : "VEpu22xp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/0/b/5907979/9165A733-C16C-4BE0-8898-72CAC113FED6_v0_h.jpg",
+      "titleSource" : "Netflix will bei \"The Crown\" nicht vor Fiktion warnen",
+      "titleTarget" : "Netflix ne želi upozoravati na fikciju s \"Krunom\"",
+      "url" : "https://www.diepresse.com/5907979/Serie_Netflix-will-bei-The-Crown-nicht-vor-Fiktion-warnen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -173,44 +177,45 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "ieeCfft9",
-      "imgUrl" : "https://image.kurier.at/images/original/4802982/46-173353433.jpg",
-      "titleSource" : "Im Aufwind: Starke Leistung der ÖSV-Skispringer in Russland",
-      "titleTarget" : "Na gore: snažne izvedbe ÖSV skakačica u Rusiji",
-      "url" : "https://kurier.at/sport/wintersport/im-aufwind-starke-leistung-der-oesv-skispringer-in-russland/401120682"
+      "id" : "lwYG7nCI",
+      "titleSource" : "LASK plant Sieg im OÖ-Derby fest ein",
+      "titleTarget" : "LASK čvrsto planira pobijediti u derbiju Gornje Austrije",
+      "url" : "https://sport.orf.at/stories/3070205/"
     }, {
-      "id" : "00sG0nB0",
-      "titleSource" : "Torreicher deutscher Schlager ohne Sieger",
-      "titleTarget" : "Bodovanje njemačkih pogodaka bez pobjednika",
-      "url" : "https://sport.orf.at/stories/3070272/"
+      "id" : "K4xsGBNP",
+      "imgUrl" : "https://image.kurier.at/images/original/4803585/46-173370095.jpg",
+      "titleSource" : "Heimdebakel der Austria: \"Es passiert jede Woche derselbe Scheiß\"",
+      "titleTarget" : "Domaći debakl u Austriji: \"Svakog se tjedna događa isto sranje\"",
+      "url" : "https://kurier.at/sport/fussball/nach-heimdebakel-der-wiener-austria-gegen-sturm-graz-es-passiert-jede-woche-derselbe-scheiss/401120862"
     }, {
-      "id" : "R74BxMwT",
-      "imgUrl" : "https://image.kurier.at/images/original/4803348/46-173370977.jpg",
-      "titleSource" : "Austria-Debakel gegen Sturm, Salzburg blamiert sich bei der Admira",
-      "titleTarget" : "Austrijski debakl protiv Sturma, Salzburg se osramotio kod Admire",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-heimdebakel-der-wiener-austria-gegen-sturm-graz-salzburg-verliert-bei-der-admira/401120259"
+      "id" : "NAZVZ7yO",
+      "imgUrl" : "https://image.kurier.at/images/original/4803948/46-169041481.jpg",
+      "titleSource" : "Corona-Hotspot Skisprungteam: Weitere vier ÖSV-Adler positiv",
+      "titleTarget" : "Corona hotspot tim za skakanje: Još četiri ÖSV orla pozitivno",
+      "url" : "https://kurier.at/sport/wintersport/corona-hotspot-skisprungteam-weitere-vier-oesv-adler-positiv/401121060"
+    }, {
+      "id" : "7XvKOmiW",
+      "titleSource" : "Erstmals Halbmarathon unter 58 Minuten gelaufen",
+      "titleTarget" : "Prvi put polumaraton ispod 58 minuta trčanja",
+      "url" : "https://sport.orf.at/stories/3070288/"
+    }, {
+      "id" : "dm4zr7Gm",
+      "imgUrl" : "https://image.kurier.at/images/original/4804143/46-173385067.jpg",
+      "titleSource" : "Salzburg auf den Fersen: Blut und Tore bei Rapid-Sieg in Hartberg",
+      "titleTarget" : "Salzburg za petama: krv i golovi u brzoj pobjedi u Hartbergu",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-rapid-wien-siegt-bei-angstgegner-hartberg-31-wsg-tirol-schlaegt-den-wac/401120949"
+    }, {
+      "id" : "FCauHQns",
+      "imgUrl" : "https://image.kurier.at/images/original/4803993/46-173383566.jpg",
+      "titleSource" : "Bundesliga live: Hartberg gegen Rapid und WSG Tirol gegen WAC",
+      "titleTarget" : "Bundesliga uživo: Hartberg protiv Rapida i WSG Tirol protiv WAC-a",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-live-hartberg-gegen-rapid-und-wsg-tirol-gegen-wac/401120949"
     }, {
       "id" : "zBXWRC3S",
       "imgUrl" : "https://image.kurier.at/images/original/4803393/46-173371810.jpg",
       "titleSource" : "Skispringer Thomas Lackner: Senkrechtstarter aus dem Nichts",
       "titleTarget" : "Skijaški skakač Thomas Lackner: klinac odnekud",
       "url" : "https://kurier.at/sport/wintersport/skispringer-thomas-lackner-senkrechtstarter-aus-dem-nichts/401120748"
-    }, {
-      "id" : "Baq1ChUm",
-      "titleSource" : "Salzburg rutscht in der Südstadt aus",
-      "titleTarget" : "Salzburg klizi u južnom dijelu grada",
-      "url" : "https://sport.orf.at/stories/3070267/"
-    }, {
-      "id" : "WPNI51hk",
-      "titleSource" : "Sturm lässt Austria keine Chance",
-      "titleTarget" : "Sturm Austriji ne daje priliku",
-      "url" : "https://sport.orf.at/stories/3070265/"
-    }, {
-      "id" : "YxfbeZbY",
-      "imgUrl" : "https://image.kurier.at/images/original/4802535/46-173239405.jpg",
-      "titleSource" : "Finanzielle Rettung oder Insolvenz? Die Austria im Teufelskreis",
-      "titleTarget" : "Financijski spas ili bankrot? Austrija u začaranom krugu",
-      "url" : "https://kurier.at/sport/fussball/der-violette-teufelskreis-wie-geht-es-bei-der-wiener-austria-weiter/401120514"
     } ]
   } ],
   "country" : "austria",
