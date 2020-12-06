@@ -2,17 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "EXjVwOcL",
-      "imgUrl" : "https://image.kurier.at/images/original/4792992/46-173271278.jpg",
-      "titleSource" : "Corona-Massentests: Rendi-Wagner fordert Selbsttests im Wohnzimmer",
-      "titleTarget" : "Koronski testovi mase: Rendi-Wagner poziva na samotestiranje u dnevnoj sobi",
-      "url" : "https://kurier.at/politik/inland/corona-massentests-rendi-wagner-fordert-selbsttests-im-wohnzimmer/401120166"
+      "id" : "kDgM5BTP",
+      "imgUrl" : "https://image.kurier.at/images/original/4795509/20201202-ABD0062-1-1.jpg",
+      "titleSource" : "Trotz zweiten Lockdowns: ÖVP laut profil-Umfrage bei 40 Prozent",
+      "titleTarget" : "Anketa: ÖVP i Zeleni dobivaju, SPÖ i FPÖ gube",
+      "url" : "https://kurier.at/politik/inland/umfrage-oevp-und-gruene-legen-zu-spoe-und-fpoe-verlieren/401120442"
     }, {
       "id" : "UNSKQydq",
       "imgUrl" : "https://image.kurier.at/images/original/4796421/46-173297615.jpg",
       "titleSource" : "Massentests: Kurz zufrieden - Lob für Wien",
       "titleTarget" : "Masovni testovi: Kratko zadovoljan - pohvala za Beč",
       "url" : "https://kurier.at/politik/inland/massentests-kurz-zufrieden-lob-fuer-wien/401120211"
+    }, {
+      "id" : "nq9oZtTT",
+      "imgUrl" : "https://image.kurier.at/images/original/4802997/46-173363537.jpg",
+      "titleSource" : "Corona-Massentests: Schwächerer zweiter Tag",
+      "titleTarget" : "Ispitivanja mase korone: Slabiji drugi dan",
+      "url" : "https://kurier.at/politik/inland/covid-19-schwacher-zulauf-zu-massentests/401120676"
     }, {
       "id" : "3kCtlexk",
       "imgUrl" : "https://image.kurier.at/images/original/4797648/20201203-ABD0084-1-1.jpg",
@@ -25,18 +31,6 @@
       "titleSource" : "Blümel: Steuerstundungen für Unternehmen noch bis Ende März möglich",
       "titleTarget" : "Blümel: Odgode poreza za tvrtke još su moguće do kraja ožujka",
       "url" : "https://kurier.at/politik/inland/bluemel-steuerstundungen-fuer-unternehmen-noch-bis-ende-maerz-moeglich/401120469"
-    }, {
-      "id" : "kDgM5BTP",
-      "imgUrl" : "https://image.kurier.at/images/original/4795509/20201202-ABD0062-1-1.jpg",
-      "titleSource" : "Umfrage: ÖVP und Grüne legen zu, SPÖ und FPÖ verlieren",
-      "titleTarget" : "Anketa: ÖVP i Zeleni dobivaju, SPÖ i FPÖ gube",
-      "url" : "https://kurier.at/politik/inland/umfrage-oevp-und-gruene-legen-zu-spoe-und-fpoe-verlieren/401120442"
-    }, {
-      "id" : "NKJaduBC",
-      "imgUrl" : "https://image.kurier.at/images/original/4803228/46-173365245.jpg",
-      "titleSource" : "Karl-Heinz Grasser: \"Nur noch die  Familie bleibt mir “",
-      "titleTarget" : "Karl-Heinz Grasser: \"Samo mi je obitelj ostala\"",
-      "url" : "https://kurier.at/politik/inland/karl-heinz-grasser-nur-noch-die-familie-bleibt-mir/401120700"
     }, {
       "id" : "caaokUkB",
       "imgUrl" : "https://image.kurier.at/images/original/4803201/46-173343703.jpg",
@@ -71,17 +65,17 @@
       "titleTarget" : "Trump naređuje povlačenje gotovo svih američkih vojnika iz Somalije",
       "url" : "https://kurier.at/wirtschaft/trump-ordnet-abzug-fast-aller-us-soldaten-aus-somalia-an/401120223"
     }, {
-      "id" : "DIacl5r4",
-      "imgUrl" : "https://image.kurier.at/images/original/4798662/46-168075008.jpg",
-      "titleSource" : "Umstrittene Supermacht: Pro und Contra für Investments in China",
-      "titleTarget" : "Kontroverzna velesila: prednosti i nedostaci za ulaganje u Kinu",
-      "url" : "https://kurier.at/wirtschaft/karriere/umstrittene-supermacht-pro-und-contra-fuer-investments-in-china/401118684"
-    }, {
       "id" : "Wzks6SKZ",
       "imgUrl" : "https://image.kurier.at/images/original/4798242/46-173317209.jpg",
       "titleSource" : "Besondere Stücke von österreichischen Manufakturen",
       "titleTarget" : "Posebni komadi austrijskih proizvođača",
       "url" : "https://kurier.at/wirtschaft/immobiz/besondere-stuecke-von-oesterreichischen-manufakturen/401118459"
+    }, {
+      "id" : "DIacl5r4",
+      "imgUrl" : "https://image.kurier.at/images/original/4798662/46-168075008.jpg",
+      "titleSource" : "Umstrittene Supermacht: Pro und Contra für Investments in China",
+      "titleTarget" : "Kontroverzna velesila: prednosti i nedostaci za ulaganje u Kinu",
+      "url" : "https://kurier.at/wirtschaft/karriere/umstrittene-supermacht-pro-und-contra-fuer-investments-in-china/401118684"
     }, {
       "id" : "nDhWX2qv",
       "imgUrl" : "https://image.kurier.at/images/original/3303743/78370011347229412_BLD_Online.jpg",
@@ -110,12 +104,6 @@
       "titleTarget" : "Opasnost od lavine: prve kuće evakuirane",
       "url" : "https://kaernten.orf.at/stories/3079275/"
     }, {
-      "id" : "ubcmZN0T",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/40/crops/w=1280/774366_opener_269340_aida1.jpg?s=fc3a7c46f8952593d268a2c76be588c906f269ab",
-      "titleSource" : "Aida vor Jobabbau und Filialschließungen",
-      "titleTarget" : "Aida prije smanjenja posla i zatvaranja poslovnica",
-      "url" : "https://wien.orf.at/stories/3079243/"
-    }, {
       "id" : "5bGIT8xT",
       "imgUrl" : "https://image.kurier.at/images/original/4802232/46-171312024.jpg",
       "titleSource" : "Die 7-Tages-Inzidenz in Österreich: Manche Bezirke steigen weiterhin",
@@ -128,6 +116,12 @@
       "titleTarget" : "Masovni testovi: Mnogi pozitivni testovi i dalje bi mogli ispasti negativni",
       "url" : "https://kurier.at/chronik/oesterreich/massentests-viele-positivtests-koennten-noch-negativ-werden/401120283"
     }, {
+      "id" : "HhOq5t7i",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/42/crops/w=1280/774831_opener_269542_on-2020-12-05-16h17m44s903.jpg?s=9095dd00c2e88689c7da4d8811adb0ec46c52919",
+      "titleSource" : "Lesachtal: Einsatzkräfte in Alarmbereitschaft",
+      "titleTarget" : "Lesachtal: hitne službe u pripravnosti",
+      "url" : "https://kaernten.orf.at/stories/3079263/"
+    }, {
       "id" : "TP8ka4wB",
       "imgUrl" : "https://image.kurier.at/images/original/4802403/46-173350114.jpg",
       "titleSource" : "Wien in 7-Tages-Inzidenz wieder unter 200; manche Bezirke in Ö steigen weiterhin",
@@ -137,6 +131,12 @@
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "8SSPdQYT",
+      "imgUrl" : "https://image.kurier.at/images/original/4802517/46-168934786.jpg",
+      "titleSource" : "Gabalier: Weihnachten auf der HNO-Ambulanz",
+      "titleTarget" : "Gabalier: Božić u ORL ambulanti",
+      "url" : "https://kurier.at/kultur/medien/gabalier-weihnachten-auf-der-hno-ambulanz/401120502"
+    }, {
       "id" : "317yKgMq",
       "imgUrl" : "https://image.kurier.at/images/original/4800342/46-167984564.jpg",
       "titleSource" : "Von Stephen Crane lernte Hemingway, weniger zu schreiben",
@@ -149,17 +149,17 @@
       "titleTarget" : "Recenzija knjige: Deborah Levy i \"Čovjek koji je sve vidio\"",
       "url" : "https://kurier.at/kultur/buch/buchkritik-deborah-levy-und-der-mann-der-alles-sah/401119431"
     }, {
-      "id" : "r8yImt8E",
-      "imgUrl" : "https://image.kurier.at/images/original/4802097/46-173278118.jpg",
-      "titleSource" : "Ruprechtskirche in Wien: Und der Mann vom Mond schaut zu",
-      "titleTarget" : "Ruprechtskirche u Beču: A čovjek s Mjeseca promatra",
-      "url" : "https://kurier.at/kultur/ruprechtskirche-in-wien-und-der-mann-vom-mond-schaut-zu/401120178"
-    }, {
       "id" : "4JGxqo79",
       "imgUrl" : "https://image.kurier.at/images/original/4802772/46-169048490.jpg",
       "titleSource" : "Billie Eilish sagt ihre Welt-Tournee nun ganz ab",
       "titleTarget" : "Billie Eilish potpuno otkazuje svoju svjetsku turneju",
       "url" : "https://kurier.at/kultur/billie-eilish-sagt-ihre-welt-tournee-nun-ganz-ab/401120598"
+    }, {
+      "id" : "r8yImt8E",
+      "imgUrl" : "https://image.kurier.at/images/original/4802097/46-173278118.jpg",
+      "titleSource" : "Ruprechtskirche in Wien: Und der Mann vom Mond schaut zu",
+      "titleTarget" : "Ruprechtskirche u Beču: A čovjek s Mjeseca promatra",
+      "url" : "https://kurier.at/kultur/ruprechtskirche-in-wien-und-der-mann-vom-mond-schaut-zu/401120178"
     }, {
       "id" : "duO2S399",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/5/9/5907801/A294E6C0-2953-4B77-B1E0-8053180D0F40_1607177443443374.jpg",
@@ -179,42 +179,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "h6CYjzaP",
-      "titleSource" : "Russell vertritt Hamilton mit Bestzeit",
-      "titleTarget" : "Russell predstavlja Hamiltona s najboljim vremenom",
-      "url" : "https://sport.orf.at/stories/3070217/"
+      "id" : "ieeCfft9",
+      "imgUrl" : "https://image.kurier.at/images/original/4802982/46-173353433.jpg",
+      "titleSource" : "Im Aufwind: Starke Leistung der ÖSV-Skispringer in Russland",
+      "titleTarget" : "Na gore: snažne izvedbe ÖSV skakačica u Rusiji",
+      "url" : "https://kurier.at/sport/wintersport/im-aufwind-starke-leistung-der-oesv-skispringer-in-russland/401120682"
     }, {
-      "id" : "PuzaOtwo",
-      "titleSource" : "Linz-Froschberg feiert bei CL-Turnier zweiten Sieg",
-      "titleTarget" : "Linz-Froschberg slavi drugu pobjedu na CL turniru",
-      "url" : "https://sport.orf.at/stories/3070218/"
+      "id" : "R74BxMwT",
+      "imgUrl" : "https://image.kurier.at/images/original/4803348/46-173370977.jpg",
+      "titleSource" : "Austria-Debakel gegen Sturm, Salzburg blamiert sich bei der Admira",
+      "titleTarget" : "Austrijski debakl protiv Sturma, Salzburg se osramotio kod Admire",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-heimdebakel-der-wiener-austria-gegen-sturm-graz-salzburg-verliert-bei-der-admira/401120259"
     }, {
-      "id" : "0CwoIBzF",
-      "titleSource" : "Zubcic gewinnt RTL in Santa Caterina",
-      "titleTarget" : "Zubčić je osvojio RTL u Santa Caterini",
-      "url" : "https://sport.orf.at/stories/3070248/"
+      "id" : "00sG0nB0",
+      "titleSource" : "Torreicher deutscher Schlager ohne Sieger",
+      "titleTarget" : "Bodovanje njemačkih pogodaka bez pobjednika",
+      "url" : "https://sport.orf.at/stories/3070272/"
     }, {
-      "id" : "BdQAvrB2",
-      "imgUrl" : "https://image.kurier.at/images/original/4800900/46-157951256.jpg",
-      "titleSource" : "Warum sich Abfahrerin Mirjam Puchner freiwillig das Bein brechen ließ",
-      "titleTarget" : "Zašto je napuštenici Mirjam Puchner dobrovoljno slomljena noga",
-      "url" : "https://kurier.at/sport/warum-sich-abfahrerin-mirjam-puchner-freiwillig-das-bein-brechen-liess/401119680"
+      "id" : "THbW7pQE",
+      "titleSource" : "Forschberg im Halbfinale des CL-Turniers",
+      "titleTarget" : "Forschberg u polufinalu CL turnira",
+      "url" : "https://sport.orf.at/stories/3070261/"
+    }, {
+      "id" : "Baq1ChUm",
+      "titleSource" : "Salzburg rutscht in der Südstadt aus",
+      "titleTarget" : "Salzburg klizi u južnom dijelu grada",
+      "url" : "https://sport.orf.at/stories/3070267/"
+    }, {
+      "id" : "WPNI51hk",
+      "titleSource" : "Sturm lässt Austria keine Chance",
+      "titleTarget" : "Sturm Austriji ne daje priliku",
+      "url" : "https://sport.orf.at/stories/3070265/"
     }, {
       "id" : "kAFwotpw",
       "titleSource" : "Huber landet erstmals auf Platz zwei",
       "titleTarget" : "Huber je prvi put došao na drugo mjesto",
       "url" : "https://sport.orf.at/stories/3070246/"
-    }, {
-      "id" : "JRlLKXNy",
-      "titleSource" : "Zubcic überrascht mit RTL-Sieg",
-      "titleTarget" : "Zubčić je iznenadio pobjedom RTL-a",
-      "url" : "https://sport.orf.at/stories/3070243/"
-    }, {
-      "id" : "YxfbeZbY",
-      "imgUrl" : "https://image.kurier.at/images/original/4802535/46-173239405.jpg",
-      "titleSource" : "Finanzielle Rettung oder Insolvenz? Die Austria im Teufelskreis",
-      "titleTarget" : "Financijski spas ili bankrot? Austrija u začaranom krugu",
-      "url" : "https://kurier.at/sport/fussball/der-violette-teufelskreis-wie-geht-es-bei-der-wiener-austria-weiter/401120514"
     } ]
   } ],
   "country" : "austria",
