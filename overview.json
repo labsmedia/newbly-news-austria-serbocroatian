@@ -2,80 +2,44 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "AfixDEqm",
-      "imgUrl" : "https://image.kurier.at/images/original/4805712/46-173401457.jpg",
-      "titleSource" : "\"Haben uns dabei was gedacht\": Kurz weist Kogler-Vorschlag schroff zurück",
-      "titleTarget" : "\"Nešto smo razmislili o tome\": Kurz grubo odbija Koglerov prijedlog",
-      "url" : "https://kurier.at/politik/inland/haben-uns-dabei-was-gedacht-kurz-weist-kogler-vorschlag-schroff-zurueck/401121771"
-    }, {
-      "id" : "CZu1m1fR",
-      "imgUrl" : "https://image.kurier.at/images/original/4805964/46-173398143.jpg",
-      "titleSource" : "Fast 5.000 bei Testaktion des Innenministeriums - einer davon Ressortchef Nehammer",
-      "titleTarget" : "Gotovo 5.000 u testnoj kampanji Ministarstva unutarnjih poslova - jedan od njih šef odjela Nehammer",
-      "url" : "https://kurier.at/politik/inland/fast-5000-bei-testaktion-des-innenministeriums-einer-davon-ressortchef-nehammer/401121954"
-    }, {
-      "id" : "E9Bxqup5",
-      "imgUrl" : "https://image.kurier.at/images/original/4800285/20201204-ABD0121-1-1.jpg",
-      "titleSource" : "Massentests: Landeshauptleute sind für zweiten Durchgang Anfang Jänner",
-      "titleTarget" : "Masovni testovi: Guverneri su u drugom krugu početkom siječnja",
-      "url" : "https://kurier.at/politik/inland/massentests-landeshauptleute-sind-fuer-zweiten-durchgang-anfang-jaenner/401122128"
-    }, {
-      "id" : "EjaW9Puh",
-      "imgUrl" : "https://image.kurier.at/images/original/4806255/46-166120845.jpg",
-      "titleSource" : "Grün gegen Rot-Pink: Streit um Atomenergie erneut entfacht",
-      "titleTarget" : "Zelena naspram crveno-ružičaste: ponovno se pokrenuo spor oko atomske energije",
-      "url" : "https://kurier.at/politik/inland/gruen-gegen-rot-pink-streit-um-atomenergie-erneut-entfacht/401122071"
-    }, {
-      "id" : "ZY1Hnup8",
-      "imgUrl" : "https://image.kurier.at/images/original/4800039/20201204-ABD0099-1-1.jpg",
-      "titleSource" : "Grasser-Prozess: Ankläger akzeptieren Urteil",
-      "titleTarget" : "Grasserovo suđenje: tužitelji prihvaćaju presudu",
-      "url" : "https://kurier.at/politik/inland/grasser-prozess-anklaeger-akzeptieren-urteil/401122143"
-    }, {
       "id" : "darAudLL",
       "imgUrl" : "https://image.kurier.at/images/original/4806846/46-173366358.jpg",
       "titleSource" : "Mobile Antigen-Schnelltests statt zweitem Massentest",
       "titleTarget" : "Brzi testovi mobilnih antigena umjesto drugog masnog testa",
       "url" : "https://kurier.at/politik/inland/mobile-antigen-schnelltests-statt-zweitem-massentest/401122413"
     }, {
-      "id" : "cKroPEyy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5908494/78E4741E-343B-456C-AC6B-FB90989D302E_v0_l.jpg",
-      "titleSource" : "Mehr als acht Jahre werden es nicht für Grasser",
-      "titleTarget" : "Grasseru neće proći više od osam godina",
-      "url" : "https://www.diepresse.com/5908494/Prozess_Mehr-als-acht-Jahre-werden-es-nicht-fuer-Grasser?from=rss"
+      "id" : "MSLGN4Yh",
+      "imgUrl" : "https://image.kurier.at/images/original/4807443/46-173346310.jpg",
+      "titleSource" : "Grüne Umfragewerte mit \"Tendenz nach unten\"",
+      "titleTarget" : "Zelene ankete s \"trendom pada\"",
+      "url" : "https://kurier.at/politik/inland/gruene-umfragewerte-mit-tendenz-nach-unten/401122518"
+    }, {
+      "id" : "CBNyRty5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/3/5/5908789/9C5FB4ED-B8A6-437E-9011-205AE43BC963_1607445635739492.jpg",
+      "titleSource" : "ÖVP nennt Neuwahlgerüchte des FPÖ-Obmanns abstrus",
+      "titleTarget" : "ÖVP nove izborne glasine o predsjedniku FPÖ-a naziva apstraktnima",
+      "url" : "https://www.diepresse.com/5908789/Koalition_OeVP-nennt-Neuwahlgeruechte-des-FPOeObmanns-abstrus?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "D7ctZB9e",
-      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
-      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
-      "titleTarget" : "Opoziv proizvoda za smeđu rižu i pšenično brašno tvrtke Spar",
-      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
-    }, {
-      "id" : "PFsVldxk",
-      "imgUrl" : "https://image.kurier.at/images/original/4805778/46-173364229.jpg",
-      "titleSource" : "Gericht lehnte Corona-Beschwerden von Unternehmen ab",
-      "titleTarget" : "Sud je odbio pritužbe tvrtki na koronu",
-      "url" : "https://kurier.at/wirtschaft/gericht-lehnte-corona-beschwerden-von-unternehmen-ab/401121795"
-    }, {
       "id" : "5fwztTto",
       "imgUrl" : "https://image.kurier.at/images/original/4806849/46-165583331.jpg",
       "titleSource" : "NoVA-Änderung kostet Unternehmen 1,18 Milliarden Euro",
       "titleTarget" : "NoVA promjena košta tvrtke 1,18 milijardi eura",
       "url" : "https://kurier.at/wirtschaft/nova-aenderung-waere-milliarden-belastung/401122302"
     }, {
-      "id" : "xtEZRDYb",
-      "imgUrl" : "https://image.kurier.at/images/original/4806156/46-76007583.jpg",
-      "titleSource" : "Italien belohnt bargeldloses Bezahlen",
-      "titleTarget" : "Italija nagrađuje bezgotovinska plaćanja",
-      "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
+      "id" : "6u7yuVn7",
+      "imgUrl" : "https://image.kurier.at/images/original/2739179/46-110254213.jpg",
+      "titleSource" : "Die Frist für Mietschulden wird verlängert",
+      "titleTarget" : "Produžava se rok za dugove za najam",
+      "url" : "https://kurier.at/wirtschaft/immobiz/die-frist-fuer-mietschulden-wird-verlaengert/401121432"
     }, {
-      "id" : "uO4Fi8lJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4806648/46-160083078.jpg",
-      "titleSource" : "Siemens-Boss Wolfgang Hesoun wird Casinos-Aufsichtsratschef",
-      "titleTarget" : "Šef Siemensa Wolfgang Hesoun postaje šef nadzornog odbora kasina",
-      "url" : "https://kurier.at/wirtschaft/wolfgang-hesoun-wird-casinos-aufsichtsratschef/401122287"
+      "id" : "D2iD19KD",
+      "imgUrl" : "https://image.kurier.at/images/original/4767240/20201119-ABD0007-1-1.jpg",
+      "titleSource" : "Fiskus entgehen bis zu 680 Mio. Euro durch Amazon & Co",
+      "titleTarget" : "Riznica pobježe do 680 milijuna eura putem Amazon & Co",
+      "url" : "https://kurier.at/wirtschaft/fiskus-entgehen-bis-zu-680-mio-euro-durch-amazon-co/401122710"
     }, {
       "id" : "CGy3fNnw",
       "imgUrl" : "https://image.kurier.at/images/original/2731007/20180803-ABD0002-1-1.jpg",
@@ -83,76 +47,76 @@
       "titleTarget" : "Više od bilijuna dolara štete od cyber kriminala",
       "url" : "https://kurier.at/wirtschaft/mehr-als-eine-billion-dollar-schaden-durch-cyberkriminalitaet/401122353"
     }, {
-      "id" : "hP1nrdyQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4806447/46-160456462.jpg",
-      "titleSource" : "Europäische Allianz bei Entwicklung von Computerchips",
-      "titleTarget" : "Europsko savezništvo u razvoju računalnih čipova",
-      "url" : "https://kurier.at/wirtschaft/europaeische-allianz-bei-entwicklung-von-computerchips/401122134"
+      "id" : "6UyrdFyo",
+      "imgUrl" : "https://image.kurier.at/images/original/3825029/78370011350962988_BLD_Online.jpg",
+      "titleSource" : "Neue Nachtzug-Verbindungen für Europa",
+      "titleTarget" : "Nove veze noćnim vlakovima za Europu",
+      "url" : "https://kurier.at/wirtschaft/neue-nachtzug-verbindungen-fuer-europa/401122965"
+    }, {
+      "id" : "MWZu8xsq",
+      "imgUrl" : "https://image.kurier.at/images/original/4612304/78370011356254040_BLD_Online.jpg",
+      "titleSource" : "Helmut Swarovski kehrt Konzernführung den Rücken",
+      "titleTarget" : "Helmut Swarovski okreće leđa korporativnom upravljanju",
+      "url" : "https://kurier.at/wirtschaft/helmut-swarovski-kehrt-konzernfuehrung-den-ruecken/401122854"
+    }, {
+      "id" : "BCNMxoVl",
+      "imgUrl" : "https://image.kurier.at/images/original/3848345/78350011451147730_BLD_Online.jpg",
+      "titleSource" : "Bestnoten beim Klimaschutz für Lenzing und RBI",
+      "titleTarget" : "Vrhunske ocjene za zaštitu klime za Lenzing i IRB",
+      "url" : "https://kurier.at/wirtschaft/bestnoten-beim-klimaschutz-fuer-lenzing-und-rbi/401122842"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "DmQAtKM0",
+      "id" : "3WeP8vwG",
       "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
-      "titleSource" : "Tirol: Jeder dritte Antigen-Test falsch positiv",
-      "titleTarget" : "Tirol: Svaki treći antigenski test lažno je pozitivan",
-      "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-antigen-test-falsch-positiv/401122323"
+      "titleSource" : "Tirol: Rund 400 positive PCR-Tests nach Massentestung",
+      "titleTarget" : "Tirol: Oko 400 pozitivnih PCR testova nakon masovnih ispitivanja",
+      "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-positive-antigen-test-falsch-positiv/401122323"
     }, {
-      "id" : "tgzdELvt",
-      "imgUrl" : "https://image.kurier.at/images/original/4805208/46-173399113.jpg",
-      "titleSource" : "Tourengeher auf gesperrter Piste: \"Es besteht Lebensgefahr\"",
-      "titleTarget" : "Skijaški izletnici na zatvorenoj padini: \"Postoji rizik za život\"",
-      "url" : "https://kurier.at/chronik/oesterreich/tourengeher-auf-gesperrter-piste-es-besteht-lebensgefahr/401121678"
+      "id" : "1IrDI4cz",
+      "imgUrl" : "https://image.kurier.at/images/original/4807320/46-173419574.jpg",
+      "titleSource" : "Shopping-Tag: Andrang nicht so groß wie erwartet",
+      "titleTarget" : "Dan kupovine: navala nije velika kako se očekivalo",
+      "url" : "https://kurier.at/chronik/oesterreich/shopping-tag-andrang-bisher-nicht-so-gross-wie-erwartet/401122644"
     }, {
-      "id" : "RLkpR7zV",
-      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
-      "titleTarget" : "Riječ je o koruškim sportašima godine",
-      "url" : "https://kaernten.orf.at/stories/3079564/"
+      "id" : "wtHsbAiO",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Aktuelle Zahlen zum Coronavirus: 2.377 Neuinfektionen in Österreich, bisher insgesamt mehr als 4000 Tote",
+      "titleTarget" : "Trenutne brojke o koronavirusu: 2.377 novih infekcija u Austriji, do sada ukupno više od 4.000 smrtnih slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/2377-neuinfektionen-in-oesterreich/401122554"
     }, {
-      "id" : "azkjNDNJ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/89/crops/w=1280/772405_opener_268589_veloce1.jpg?s=49f83b9435285ef041b3c6d8876bc326468ce31a",
-      "titleSource" : "Veloce-Mitarbeiter vor Betriebsratswahl",
-      "titleTarget" : "Djelatnici Veloce prije izbora za radničko vijeće",
-      "url" : "https://wien.orf.at/stories/3079545/"
+      "id" : "ISmKkN40",
+      "titleSource" : "Hotelier kocht für Obdachlose",
+      "titleTarget" : "Hotelijer kuha za beskućnike",
+      "url" : "https://salzburg.orf.at/stories/3079636/"
     }, {
-      "id" : "qu6UGPQt",
-      "imgUrl" : "https://image.kurier.at/images/original/4806438/46-173404909.jpg",
-      "titleSource" : "Nächstes Tief: Im Süden Österreichs fallen heute wieder 50 bis 100 Zentimeter Schnee",
-      "titleTarget" : "Sljedeća niska: Na jugu Austrije danas ponovo pada 50 do 100 centimetara snijega",
-      "url" : "https://kurier.at/chronik/oesterreich/naechstes-tief-erneut-fallen-50-bis-100-zentimeter-schnee/401122140"
+      "id" : "9nTQQeXR",
+      "imgUrl" : "https://image.kurier.at/images/original/4806984/46-168308643.jpg",
+      "titleSource" : "Corona: Österreichs Bestatter wegen mehr Toten gefordert",
+      "titleTarget" : "Corona: Austrijski pogrebnik zatražio je još smrtnih slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-oesterreichs-bestatter-wegen-mehr-toten-gefordert/401122515"
     }, {
-      "id" : "YimZwfdd",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/90/crops/w=1280/777030_opener_270290_20201207_105431.jpg?s=0f959423b46431c3890612d3ac5874b572b3fde2",
-      "titleSource" : "Ein Haus für einen Urwald",
-      "titleTarget" : "Kuća za džunglu",
-      "url" : "https://noe.orf.at/stories/3079528/"
+      "id" : "bkbiQSgi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/65/crops/w=1280/778128_opener_270865_99bb2466-933a-4af3-bb6b-d35cefe4ab1d.jpg?s=15443b2d15d209adc88cbbf3a634e99f8331d9a7",
+      "titleSource" : "Ansturm auf Einkaufszentren blieb aus",
+      "titleTarget" : "Nije se žurilo prema trgovačkim centrima",
+      "url" : "https://noe.orf.at/stories/3079647/"
     }, {
-      "id" : "hrL7EcM7",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/36/crops/w=1280/777034_opener_270336_giftigerzucker_2.jpg?s=bc85f8269cb76ea1a30533a7b2a8d292aa91078a",
-      "titleSource" : "Birkenzucker ist für Hunde hochgiftig",
-      "titleTarget" : "Brezin šećer vrlo je toksičan za pse",
-      "url" : "https://salzburg.orf.at/stories/3079558/"
+      "id" : "XE46wGQU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/92/crops/w=1280/777983_opener_270792_abd0049.jpg?s=847bf8ddf6ab72b939bc8d8cc7e22a70c6fe8461",
+      "titleSource" : "Noch 1.200 Haushalte in Osttirol ohne Strom",
+      "titleTarget" : "1200 domaćinstava u Istočnom Tirolu i dalje je bez struje",
+      "url" : "https://tirol.orf.at/stories/3079590/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "35NBrPR4",
-      "imgUrl" : "https://image.kurier.at/images/original/4806612/46-145681133.jpg",
-      "titleSource" : "Nach Rassismusvorwürfen: Staatsballett Berlin überarbeitet Programm",
-      "titleTarget" : "Nakon optužbi za rasizam: revidirani program Staatsballett Berlin",
-      "url" : "https://kurier.at/kultur/nach-rassismusvorwuerfen-staatsballett-belrin-ueberarbeitet-programm/401122269"
-    }, {
-      "id" : "Thc4zL5f",
-      "imgUrl" : "https://image.kurier.at/images/original/4260776/78452305854202234_BLD_Online.jpg",
-      "titleSource" : "Bob Dylan verkauft seine gesamten Song-Rechte",
-      "titleTarget" : "Bob Dylan prodaje sva svoja prava na pjesme",
-      "url" : "https://kurier.at/kultur/bob-dylan-verkauft-seine-gesamten-song-rechte/401121951"
-    }, {
-      "id" : "oFzxp6QC",
-      "imgUrl" : "https://image.kurier.at/images/original/4806273/bildschirmfoto_2020-12-07_um_15.52.10.png",
-      "titleSource" : "Filzmaier in ORF-Talk: \"Vertrauenskrise bei Regierungspolitikern“",
-      "titleTarget" : "Filzmaier u ORF-razgovoru: \"Kriza povjerenja među vladinim političarima\"",
-      "url" : "https://kurier.at/kultur/medien/filzmaier-in-orf-talk-zu-corona-im-zentrum-vertrauenskrise-bei-regierungspolitikern/401122104"
+      "id" : "vyo0e8NC",
+      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
+      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Außenseiterin",
+      "titleTarget" : "Patricia Aulitzky: Land triler debi za autsajdera",
+      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-orf-landkrimi/401122326"
     }, {
       "id" : "5sHQB7za",
       "imgUrl" : "https://image.kurier.at/images/original/4806540/46-173330814.jpg",
@@ -160,23 +124,17 @@
       "titleTarget" : "Adolf Loos iz MAK-a: radikalan i pobunjenik - ali istovremeno i tradicionalist",
       "url" : "https://kurier.at/kultur/adolf-loos-im-mak-radikalo-und-rebell-aber-zugleich-traditionalist/401122224"
     }, {
-      "id" : "4VcNsa6r",
-      "imgUrl" : "https://image.kurier.at/images/original/988923/46-42491032.jpg",
-      "titleSource" : "Netflix zeigt zum Jahresende Neues von den \"Black Mirror\"-Machern",
-      "titleTarget" : "Na kraju godine, Netflix prikazuje vijesti proizvođača \"Crnog zrcala\"",
-      "url" : "https://kurier.at/kultur/medien/netflix-zeigt-zum-jahresende-neues-von-den-black-mirror-machern/401122299"
+      "id" : "Mh5g9peM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/1/8/5908760/114_tib_serienjunkies__johannes_gellner_3mp_1607442126350764.jpg",
+      "titleSource" : "Online-Improtheater: Was auf der Couch noch passieren könnte",
+      "titleTarget" : "Internacionalno improvizirano kazalište: Što bi se još moglo dogoditi na kauču",
+      "url" : "https://www.diepresse.com/5908760/Serienjunkies_OnlineImprotheater_Was-auf-der-Couch-noch-passieren?from=rss"
     }, {
-      "id" : "vyo0e8NC",
-      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
-      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Außenseiterin",
-      "titleTarget" : "Patricia Aulitzky: Land triler debi za autsajdera",
-      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-orf-landkrimi/401122326"
-    }, {
-      "id" : "RHXI595g",
-      "imgUrl" : "https://image.kurier.at/images/original/4806744/46-173345175.jpg",
-      "titleSource" : "Patricia Aulitzky: Landkrimi-Einstand für eine Unangepasste ",
-      "titleTarget" : "Patricia Aulitzky: Debitantski debi za nekonformiste u zemlji",
-      "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-landkrimi/401122326"
+      "id" : "xw2hVdsl",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "titleSource" : "Musiksalon Nr. 31: Hören statt Einkaufen",
+      "titleTarget" : "Glazbeni salon br. 31: slušanje umjesto kupovine",
+      "url" : "https://www.diepresse.com/5908451/Podcast_Musiksalon-Nr-31_Hoeren-statt-Einkaufen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,27 +142,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Tva0tJXi",
-      "titleSource" : "ÖFB-Team erwischt lösbare Gruppe",
-      "titleTarget" : "Ekipa ÖFB-a uhvatila je odvojivu skupinu",
-      "url" : "https://sport.orf.at/stories/3070351/"
-    }, {
-      "id" : "Q6GITZEK",
-      "titleSource" : "Russell zahlte hohen Preis für Reifenchaos",
-      "titleTarget" : "Russell je platio visoku cijenu kaosa u gumama",
-      "url" : "https://sport.orf.at/stories/3070338/"
-    }, {
-      "id" : "2GcXrcwi",
-      "imgUrl" : "https://image.kurier.at/images/original/4806810/46-119968404.jpg",
-      "titleSource" : "Österreichs WM-Quali-Los: \"Es hätte schlimmer kommen können\"",
-      "titleTarget" : "Austrijska kvalifikacija za Svjetsko prvenstvo: \"Moglo je biti i gore\"",
-      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-oesterreich-trifft-auf-daenemark-schottland-israel-faeroeer-und-moldau/401121831"
+      "id" : "UVq9dGPS",
+      "titleSource" : "Rauswurf schlägt im ÖSV-Team hohe Wellen",
+      "titleTarget" : "Pražnjenje stvara valove u ÖSV timu",
+      "url" : "https://sport.orf.at/stories/3070385/"
     }, {
       "id" : "oa2srJ3v",
       "imgUrl" : "https://image.kurier.at/images/original/4806549/46-173383595.jpg",
       "titleSource" : "Rapid-Trainer Kühbauer: \"Ich hoffe, das passiert mir nie wieder\"",
       "titleTarget" : "Trener brze vožnje Kühbauer: \"Nadam se da mi se to više nikada neće dogoditi\"",
       "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-im-kurier-interview-ich-hoffe-das-passiert-mir-nie-wieder/401122248"
+    }, {
+      "id" : "J2JKaiLa",
+      "titleSource" : "Wie die USA von Lennons Tod erfuhren",
+      "titleTarget" : "Kako su Sjedinjene Države saznale za Lennonovu smrt",
+      "url" : "https://sport.orf.at/stories/3070212/"
     }, {
       "id" : "xRHloYR7",
       "titleSource" : "Paris 2024 wird wieder schlanker",
@@ -216,10 +168,16 @@
       "titleTarget" : "Linz-Froschberg u finalu Lige prvaka",
       "url" : "https://sport.orf.at/stories/3070366/"
     }, {
-      "id" : "J2JKaiLa",
-      "titleSource" : "Wie die USA von Lennons Tod erfuhren",
-      "titleTarget" : "Kako su Sjedinjene Države saznale za Lennonovu smrt",
-      "url" : "https://sport.orf.at/stories/3070212/"
+      "id" : "sBkferKw",
+      "titleSource" : "Entschlackung freut Kletterer und Ruderer",
+      "titleTarget" : "Penjači i veslači uživaju u detoksikaciji",
+      "url" : "https://sport.orf.at/stories/3070386/"
+    }, {
+      "id" : "L4LZndzI",
+      "imgUrl" : "https://image.kurier.at/images/original/4807608/46-173240005.jpg",
+      "titleSource" : "Hamilton nach Corona-Infektion: \"War eine der härtesten Wochen\"",
+      "titleTarget" : "Hamilton nakon infekcije koronom: \"Bio je to jedan od najtežih tjedana\"",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-lewis-hamilton-nach-corona-infektion-war-eine-der-haertesten-wochen/401122908"
     } ]
   } ],
   "country" : "austria",
