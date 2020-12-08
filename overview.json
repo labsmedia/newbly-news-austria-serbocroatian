@@ -20,6 +20,12 @@
       "titleTarget" : "Gotovo 5.000 u testnoj kampanji Ministarstva unutarnjih poslova - jedan od njih šef odjela Nehammer",
       "url" : "https://kurier.at/politik/inland/fast-5000-bei-testaktion-des-innenministeriums-einer-davon-ressortchef-nehammer/401121954"
     }, {
+      "id" : "E9Bxqup5",
+      "imgUrl" : "https://image.kurier.at/images/original/4800285/20201204-ABD0121-1-1.jpg",
+      "titleSource" : "Massentests: Landeshauptleute sind für zweiten Durchgang Anfang Jänner",
+      "titleTarget" : "Masovni testovi: Guverneri su u drugom krugu početkom siječnja",
+      "url" : "https://kurier.at/politik/inland/massentests-landeshauptleute-sind-fuer-zweiten-durchgang-anfang-jaenner/401122128"
+    }, {
       "id" : "EjaW9Puh",
       "imgUrl" : "https://image.kurier.at/images/original/4806255/46-166120845.jpg",
       "titleSource" : "Grün gegen Rot-Pink: Streit um Atomenergie erneut entfacht",
@@ -32,17 +38,11 @@
       "titleTarget" : "Grasserovo suđenje: tužitelji prihvaćaju presudu",
       "url" : "https://kurier.at/politik/inland/grasser-prozess-anklaeger-akzeptieren-urteil/401122143"
     }, {
-      "id" : "E9Bxqup5",
-      "imgUrl" : "https://image.kurier.at/images/original/4800285/20201204-ABD0121-1-1.jpg",
-      "titleSource" : "Massentests: Landeshauptleute sind für zweiten Durchgang Anfang Jänner",
-      "titleTarget" : "Masovni testovi: Guverneri su u drugom krugu početkom siječnja",
-      "url" : "https://kurier.at/politik/inland/massentests-landeshauptleute-sind-fuer-zweiten-durchgang-anfang-jaenner/401122128"
-    }, {
-      "id" : "cKroPEyy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/e/5908494/78E4741E-343B-456C-AC6B-FB90989D302E_v0_l.jpg",
-      "titleSource" : "Mehr als acht Jahre werden es nicht für Grasser",
-      "titleTarget" : "Grasseru neće proći više od osam godina",
-      "url" : "https://www.diepresse.com/5908494/Prozess_Mehr-als-acht-Jahre-werden-es-nicht-fuer-Grasser?from=rss"
+      "id" : "darAudLL",
+      "imgUrl" : "https://image.kurier.at/images/original/4806846/46-173366358.jpg",
+      "titleSource" : "Mobile Antigen-Schnelltests statt zweitem Massentest",
+      "titleTarget" : "Brzi testovi mobilnih antigena umjesto drugog masnog testa",
+      "url" : "https://kurier.at/politik/inland/mobile-antigen-schnelltests-statt-zweitem-massentest/401122413"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -65,6 +65,18 @@
       "titleTarget" : "Sud je odbio pritužbe tvrtki na koronu",
       "url" : "https://kurier.at/wirtschaft/gericht-lehnte-corona-beschwerden-von-unternehmen-ab/401121795"
     }, {
+      "id" : "D7ctZB9e",
+      "imgUrl" : "https://image.kurier.at/images/original/3270998/78370011347027098_BLD_Online.jpg",
+      "titleSource" : "Produktrückruf für Naturreis und Weizenmehl von Spar",
+      "titleTarget" : "Opoziv proizvoda za smeđu rižu i pšenično brašno tvrtke Spar",
+      "url" : "https://kurier.at/wirtschaft/produktrueckruf-fuer-naturreis-und-weizenmehl-von-spar/401122329"
+    }, {
+      "id" : "uO4Fi8lJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4806648/46-160083078.jpg",
+      "titleSource" : "Siemens-Boss Wolfgang Hesoun wird Casinos-Aufsichtsratschef",
+      "titleTarget" : "Šef Siemensa Wolfgang Hesoun postaje šef nadzornog odbora kasina",
+      "url" : "https://kurier.at/wirtschaft/wolfgang-hesoun-wird-casinos-aufsichtsratschef/401122287"
+    }, {
       "id" : "9IPR2jDg",
       "imgUrl" : "https://image.kurier.at/images/original/3570982/46-109588180.jpg",
       "titleSource" : "Der Tee-Moment",
@@ -76,39 +88,26 @@
       "titleSource" : "Italien belohnt bargeldloses Bezahlen",
       "titleTarget" : "Italija nagrađuje bezgotovinska plaćanja",
       "url" : "https://kurier.at/wirtschaft/italien-belohnt-bargeldloses-bezahlen/401122062"
-    }, {
-      "id" : "hP1nrdyQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4806447/46-160456462.jpg",
-      "titleSource" : "Europäische Allianz bei Entwicklung von Computerchips",
-      "titleTarget" : "Europsko savezništvo u razvoju računalnih čipova",
-      "url" : "https://kurier.at/wirtschaft/europaeische-allianz-bei-entwicklung-von-computerchips/401122134"
-    }, {
-      "id" : "lcEEGZsf",
-      "imgUrl" : "https://image.kurier.at/images/original/4805868/46-106615492.jpg",
-      "titleSource" : "Österreicher nutzen überdurchschnittlich oft Bargeld",
-      "titleTarget" : "Austrijanci gotovinu koriste više od prosjeka",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-nutzen-ueberdurchschnittlich-oft-bargeld/401121873"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "kzWqL8tX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/58/crops/w=1280/776231_opener_270058_videogedenkst.jpg?s=d70401a029fd1356ca34f707a26f8d35625a85be",
-      "titleSource" : "Video zeigt Verwüstung von Gedenkstätte",
-      "titleTarget" : "Video prikazuje devastaciju spomen obilježja",
-      "url" : "https://wien.orf.at/stories/3079426/"
-    }, {
       "id" : "k9v96Knv",
       "imgUrl" : "https://image.kurier.at/images/original/4804617/46-173346408.jpg",
       "titleSource" : "Wie kann man sich beim Weihnachtseinkauf schützen?",
       "titleTarget" : "Kako se možete zaštititi prilikom kupovine za Božić?",
       "url" : "https://kurier.at/chronik/oesterreich/virologin-redlberger-fritz-abstand-halten-maske-tragen/401121186"
     }, {
-      "id" : "g76JZDIw",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/23/crops/w=1280/775878_opener_269923_img_20201206_145736.jpg?s=3a95bbaeb20049be9f2c174df6df95726a63320b",
-      "titleSource" : "Nach dem Schneefall: Durchatmen",
-      "titleTarget" : "Nakon snježnih padavina: duboko udahnite",
-      "url" : "https://kaernten.orf.at/stories/3079431/"
+      "id" : "DmQAtKM0",
+      "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
+      "titleSource" : "Tirol: Jeder dritte Antigen-Test falsch positiv",
+      "titleTarget" : "Tirol: Svaki treći antigenski test lažno je pozitivan",
+      "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-antigen-test-falsch-positiv/401122323"
+    }, {
+      "id" : "RLkpR7zV",
+      "titleSource" : "Das sind die Kärntner Sportler des Jahres",
+      "titleTarget" : "Riječ je o koruškim sportašima godine",
+      "url" : "https://kaernten.orf.at/stories/3079564/"
     }, {
       "id" : "ndWF0oAg",
       "imgUrl" : "https://image.kurier.at/images/original/4804899/46-169347975.jpg",
@@ -116,38 +115,27 @@
       "titleTarget" : "Ministrica za žene Raab predstavlja priručnik protiv nasilja nad ženama",
       "url" : "https://kurier.at/chronik/oesterreich/frauenministerin-raab-praesentiert-handbuch-gegen-gewalt-an-frauen/401121453"
     }, {
+      "id" : "tgzdELvt",
+      "imgUrl" : "https://image.kurier.at/images/original/4805208/46-173399113.jpg",
+      "titleSource" : "Tourengeher auf gesperrter Piste: \"Es besteht Lebensgefahr\"",
+      "titleTarget" : "Skijaški izletnici na zatvorenoj padini: \"Postoji rizik za život\"",
+      "url" : "https://kurier.at/chronik/oesterreich/tourengeher-auf-gesperrter-piste-es-besteht-lebensgefahr/401121678"
+    }, {
+      "id" : "azkjNDNJ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/89/crops/w=1280/772405_opener_268589_veloce1.jpg?s=49f83b9435285ef041b3c6d8876bc326468ce31a",
+      "titleSource" : "Veloce-Mitarbeiter vor Betriebsratswahl",
+      "titleTarget" : "Djelatnici Veloce prije izbora za radničko vijeće",
+      "url" : "https://wien.orf.at/stories/3079545/"
+    }, {
       "id" : "gIgxV08F",
       "imgUrl" : "https://image.kurier.at/images/original/4804614/illus_corona_fragen.png",
       "titleSource" : "Lockdown-Ende: Was ab heute wieder geht - und was nicht",
       "titleTarget" : "Kraj zaključavanja: Što ponovno radi od danas - a što ne",
       "url" : "https://kurier.at/chronik/oesterreich/lockdown-ende-was-ab-heute-wieder-geht-und-was-nicht/401121327"
-    }, {
-      "id" : "IBibq8Xm",
-      "titleSource" : "Menschenrechtspreis für Maria Rösslhumer",
-      "titleTarget" : "Nagrada za ljudska prava za Mariju Rösslhumer",
-      "url" : "https://wien.orf.at/stories/3079496/"
-    }, {
-      "id" : "LBhEiG8I",
-      "imgUrl" : "https://image.kurier.at/images/original/4805043/46-173312467.jpg",
-      "titleSource" : "Festnahme: Villacher soll mehrere Mädchen missbraucht haben",
-      "titleTarget" : "Uhićenje: Kaže se da je Villacher zlostavljao nekoliko djevojaka",
-      "url" : "https://kurier.at/chronik/oesterreich/festnahme-villacher-soll-mehrere-maedchen-missbraucht-haben/401121537"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "oFzxp6QC",
-      "imgUrl" : "https://image.kurier.at/images/original/4806273/bildschirmfoto_2020-12-07_um_15.52.10.png",
-      "titleSource" : "Filzmaier in ORF-Talk: \"Vertrauenskrise bei Regierungspolitikern“",
-      "titleTarget" : "Filzmaier u ORF-razgovoru: \"Kriza povjerenja među vladinim političarima\"",
-      "url" : "https://kurier.at/kultur/medien/filzmaier-in-orf-talk-zu-corona-im-zentrum-vertrauenskrise-bei-regierungspolitikern/401122104"
-    }, {
-      "id" : "zS6FmBF2",
-      "imgUrl" : "https://image.kurier.at/images/original/4801971/46-173342828.jpg",
-      "titleSource" : "Sigur Rós haben Gedicht über Magie der Raben vertont",
-      "titleTarget" : "Sigur Rós uglazbio je pjesmu o čaroliji gavrana",
-      "url" : "https://kurier.at/kultur/sigur-ros-haben-gedicht-ueber-magie-der-raben-vertont/401120082"
-    }, {
       "id" : "35NBrPR4",
       "imgUrl" : "https://image.kurier.at/images/original/4806612/46-145681133.jpg",
       "titleSource" : "Nach Rassismusvorwürfen: Staatsballett Berlin überarbeitet Programm",
@@ -160,11 +148,23 @@
       "titleTarget" : "Bob Dylan prodaje sva svoja prava na pjesme",
       "url" : "https://kurier.at/kultur/bob-dylan-verkauft-seine-gesamten-song-rechte/401121951"
     }, {
+      "id" : "oFzxp6QC",
+      "imgUrl" : "https://image.kurier.at/images/original/4806273/bildschirmfoto_2020-12-07_um_15.52.10.png",
+      "titleSource" : "Filzmaier in ORF-Talk: \"Vertrauenskrise bei Regierungspolitikern“",
+      "titleTarget" : "Filzmaier u ORF-razgovoru: \"Kriza povjerenja među vladinim političarima\"",
+      "url" : "https://kurier.at/kultur/medien/filzmaier-in-orf-talk-zu-corona-im-zentrum-vertrauenskrise-bei-regierungspolitikern/401122104"
+    }, {
       "id" : "SHSUEnS3",
       "imgUrl" : "https://image.kurier.at/images/original/4804977/46-173276216.jpg",
       "titleSource" : "Erste \"Bekenner\" im Hype um mysteriöse Monolithen",
       "titleTarget" : "Prvi \"ispovjednici\" u hypeu o tajanstvenim monolitima",
       "url" : "https://kurier.at/kultur/erste-bekenner-im-hype-um-mysterioese-monolithen/401121525"
+    }, {
+      "id" : "zS6FmBF2",
+      "imgUrl" : "https://image.kurier.at/images/original/4801971/46-173342828.jpg",
+      "titleSource" : "Sigur Rós haben Gedicht über Magie der Raben vertont",
+      "titleTarget" : "Sigur Rós uglazbio je pjesmu o čaroliji gavrana",
+      "url" : "https://kurier.at/kultur/sigur-ros-haben-gedicht-ueber-magie-der-raben-vertont/401120082"
     }, {
       "id" : "4VcNsa6r",
       "imgUrl" : "https://image.kurier.at/images/original/988923/46-42491032.jpg",
@@ -201,20 +201,21 @@
       "titleTarget" : "Neo-Leader LASK ostaje na zemlji",
       "url" : "https://sport.orf.at/stories/3070336/"
     }, {
-      "id" : "TxbX4MvS",
-      "titleSource" : "Linz-Froschberg im CL-Halbfinale gegen Saint Quentin",
-      "titleTarget" : "Linz-Froschberg u polufinalu CL protiv Saint Quentina",
-      "url" : "https://sport.orf.at/stories/3070326/"
+      "id" : "Tva0tJXi",
+      "titleSource" : "ÖFB-Team erwischt lösbare Gruppe",
+      "titleTarget" : "Ekipa ÖFB-a uhvatila je odvojivu skupinu",
+      "url" : "https://sport.orf.at/stories/3070351/"
     }, {
       "id" : "Q6GITZEK",
       "titleSource" : "Russell zahlte hohen Preis für Reifenchaos",
       "titleTarget" : "Russell je platio visoku cijenu kaosa u gumama",
       "url" : "https://sport.orf.at/stories/3070338/"
     }, {
-      "id" : "PBhF5E1a",
-      "titleSource" : "Saints und Chiefs erste NFL-Play-off-Teilnehmer",
-      "titleTarget" : "Saints and Chiefs prvi sudionik NFL play-offa",
-      "url" : "https://sport.orf.at/stories/3070331/"
+      "id" : "2GcXrcwi",
+      "imgUrl" : "https://image.kurier.at/images/original/4806810/46-119968404.jpg",
+      "titleSource" : "Österreichs WM-Quali-Los: \"Es hätte schlimmer kommen können\"",
+      "titleTarget" : "Austrijska kvalifikacija za Svjetsko prvenstvo: \"Moglo je biti i gore\"",
+      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-oesterreich-trifft-auf-daenemark-schottland-israel-faeroeer-und-moldau/401121831"
     }, {
       "id" : "OMfxVduM",
       "titleSource" : "Odermatt legt in Santa Caterina vor",
