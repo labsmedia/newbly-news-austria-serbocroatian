@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "MSLGN4Yh",
-      "imgUrl" : "https://image.kurier.at/images/original/4807443/46-173346310.jpg",
-      "titleSource" : "Grüne Umfragewerte mit \"Tendenz nach unten\"",
-      "titleTarget" : "Zelene ankete s \"trendom pada\"",
-      "url" : "https://kurier.at/politik/inland/gruene-umfragewerte-mit-tendenz-nach-unten/401122518"
+      "id" : "Htivy4uf",
+      "imgUrl" : "https://image.kurier.at/images/original/4795578/20201202-ABD0074-1-1.jpg",
+      "titleSource" : "Kanzler sieht heimische Maßnahmen durch deutschen Experten-Rat bestätigt",
+      "titleTarget" : "Chancellor vidi domaće mjere potvrđene njemačkim stručnim savjetima",
+      "url" : "https://kurier.at/politik/inland/kanzler-sieht-heimische-massnahmen-durch-deutschen-experten-rat-bestaetigt/401123613"
+    }, {
+      "id" : "U3rA99MG",
+      "imgUrl" : "https://image.kurier.at/images/original/4808862/46-173319924.jpg",
+      "titleSource" : "Anschober: \"Die kommenden vier Wochen sind die riskantesten\"",
+      "titleTarget" : "Anschober: \"Sljedeća četiri tjedna su najrizičnija\"",
+      "url" : "https://kurier.at/politik/inland/live-anschober-und-nehammer-ziehen-erstes-fazit-nach-massentests/401123244"
     }, {
       "id" : "GFlvsdr1",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/b/9/5908921/Lehrer-im-Unterricht-mit-Schueler-und-Schuelerinnen--6-Klasse-eines-Gymnasiums-in-Radevormwald--Deutschland--Teache_1607491163634625_v0_l.jpg",
@@ -14,22 +20,11 @@
       "titleTarget" : "Što ne ide na časovima njemačkog",
       "url" : "https://www.diepresse.com/5908921/Was-in-den-Deutschklassen-alles-nicht-funktioniert?from=rss"
     }, {
-      "id" : "KttlgVVx",
-      "imgUrl" : "https://image.kurier.at/images/original/4808292/46-173408619.jpg",
-      "titleSource" : "Wann kommt das Öffi-Ticket für ganz Österreich?",
-      "titleTarget" : "Kada dolazi karta za javni prijevoz za cijelu Austriju?",
-      "url" : "https://kurier.at/politik/inland/wann-kommt-das-oeffi-ticket-fuer-ganz-oesterreich/401123289"
-    }, {
-      "id" : "Jgyxa4XR",
-      "imgUrl" : "https://image.kurier.at/images/original/4238807/78350011454038786_BLD_Online.jpg",
-      "titleSource" : "Deutschklassen: Lehrer stellen dem Modell kein gutes Zeugnis aus",
-      "titleTarget" : "Predavanja njemačkog: Učitelji ne daju modelu dobar izvještaj",
-      "url" : "https://kurier.at/politik/inland/deutschklassen-lehrer-stellen-dem-modell-kein-gutes-zeugnis-aus/401123178"
-    }, {
-      "id" : "hPlrCUBN",
-      "titleSource" : "Salzburg plant kommendes Jahr 413,5 Millionen Euro an neuen Schulden",
-      "titleTarget" : "Salzburg sljedeće godine planira 413,5 milijuna eura novih dugova",
-      "url" : "https://www.diepresse.com/5909031/Coronakrise_Salzburg-plant-kommendes-Jahr-4135-Millionen-Euro-an?from=rss"
+      "id" : "0KGhzCvt",
+      "imgUrl" : "https://image.kurier.at/images/original/4683720/20201007-ABD0074-1-1.jpg",
+      "titleSource" : "Grasser-Urteil: Freisprüche sind rechtskräftig",
+      "titleTarget" : "Grasserova presuda: oslobađajuće presude su konačne",
+      "url" : "https://kurier.at/politik/inland/grasser-urteil-freisprueche-sind-rechtskraeftig/401124207"
     }, {
       "id" : "eHezooGp",
       "imgUrl" : "https://image.kurier.at/images/original/3619451/81590640249428158_BLD_Online.jpg",
@@ -37,32 +32,44 @@
       "titleTarget" : "Corona: Domovi trebaju pomoć za više testova, kaže šefica Diakonie",
       "url" : "https://kurier.at/politik/inland/corona-heime-brauchen-hilfe-fuer-mehr-tests-sagt-diakonie-chefin/401123442"
     }, {
-      "id" : "oZJY9KES",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/e/8/5908968/PK-MASSNAHMEN-ZUR-KORRUPTIONSBEKMPFUNG-ZADIC_1607499663639785_v0_h.jpg",
-      "titleSource" : "Zadic will Opferschutz ausbauen",
-      "titleTarget" : "Zadić želi proširiti zaštitu žrtava",
-      "url" : "https://www.diepresse.com/5908968/Kriminalitaet_Zadic-will-Opferschutz-ausbauen?from=rss"
+      "id" : "kCQW5KrT",
+      "imgUrl" : "https://image.kurier.at/images/original/4809138/46-168655164.jpg",
+      "titleSource" : "Regierung erhöht Förderung für jüdische Gemeinde auf 4 Millionen Euro",
+      "titleTarget" : "Vlada povećava financiranje židovske zajednice na 4 milijuna eura",
+      "url" : "https://kurier.at/politik/inland/regierung-erhoeht-foerderung-fuer-juedische-gemeinde-auf-4-millionen-euro/401123949"
+    }, {
+      "id" : "KttlgVVx",
+      "imgUrl" : "https://image.kurier.at/images/original/4808292/46-173408619.jpg",
+      "titleSource" : "Wann kommt das Öffi-Ticket für ganz Österreich?",
+      "titleTarget" : "Kada dolazi karta za javni prijevoz za cijelu Austriju?",
+      "url" : "https://kurier.at/politik/inland/wann-kommt-das-oeffi-ticket-fuer-ganz-oesterreich/401123289"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "6UyrdFyo",
-      "imgUrl" : "https://image.kurier.at/images/original/3825029/78370011350962988_BLD_Online.jpg",
-      "titleSource" : "Neue Nachtzug-Verbindungen für Europa",
-      "titleTarget" : "Nove veze noćnim vlakovima za Europu",
-      "url" : "https://kurier.at/wirtschaft/neue-nachtzug-verbindungen-fuer-europa/401122965"
-    }, {
       "id" : "qcoYHLD9",
       "imgUrl" : "https://image.kurier.at/images/original/4786893/78370011357708696_BLD_Online.jpg",
       "titleSource" : "Commerzialbank Mattersburg kommt unter den Hammer",
       "titleTarget" : "Commerzialbank Mattersburg ide pod čekić",
       "url" : "https://kurier.at/wirtschaft/commerzialbank-matterburg-kommt-unter-den-hammer/401123358"
     }, {
-      "id" : "D2iD19KD",
-      "imgUrl" : "https://image.kurier.at/images/original/4767240/20201119-ABD0007-1-1.jpg",
-      "titleSource" : "Fiskus entgehen bis zu 680 Mio. Euro durch Amazon & Co",
-      "titleTarget" : "Riznica pobježe do 680 milijuna eura putem Amazon & Co",
-      "url" : "https://kurier.at/wirtschaft/fiskus-entgehen-bis-zu-680-mio-euro-durch-amazon-co/401122710"
+      "id" : "AJ34K69v",
+      "imgUrl" : "https://image.kurier.at/images/original/4809276/46-167653148.jpg",
+      "titleSource" : "ÖGK: Neue Regelungen für Krankenstand",
+      "titleTarget" : "ÖGK: Nova pravila za bolovanje",
+      "url" : "https://kurier.at/wirtschaft/oegk-neue-regelungen-fuer-krankenstand/401124075"
+    }, {
+      "id" : "Z0tyRFpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4808874/46-173398680.jpg",
+      "titleSource" : "Ökonomisch Schwächere durch Corona-Pandemie stark unter Druck",
+      "titleTarget" : "Ekonomski slabiji ljudi pod velikim pritiskom zbog pandemije korone",
+      "url" : "https://kurier.at/wirtschaft/oekonomisch-schwaechere-durch-corona-pandemie-stark-unter-druck/401123673"
+    }, {
+      "id" : "3gTEgFu0",
+      "imgUrl" : "https://image.kurier.at/images/original/4762245/78370011357530408_BLD_Online.jpg",
+      "titleSource" : "Krise kostet Luxushersteller fast ein Viertel Umsatz",
+      "titleTarget" : "Kriza košta luksuzne proizvođače gotovo četvrtinu njihove prodaje",
+      "url" : "https://kurier.at/wirtschaft/krise-kostet-luxushersteller-fast-ein-viertel-umsatz/401123562"
     }, {
       "id" : "kTOBXOns",
       "imgUrl" : "https://image.kurier.at/images/original/4808205/46-168653727.jpg",
@@ -70,83 +77,81 @@
       "titleTarget" : "Nakon robotskih automobila, Uber prodaje i projekt zračnog taksija",
       "url" : "https://kurier.at/wirtschaft/uber-stoesst-nach-roboterautos-auch-flugtaxi-projekt-ab/401123253"
     }, {
-      "id" : "i0OkjtNL",
-      "imgUrl" : "https://image.kurier.at/images/original/3915578/78370011351643288_BLD_Online.jpg",
-      "titleSource" : "ÖBAG-Chef für zusätzliche Staatsbeteiligungen in Ausnahmefällen",
-      "titleTarget" : "Šef ÖBAG-a za dodatna državna ulaganja u iznimnim slučajevima",
-      "url" : "https://kurier.at/wirtschaft/oebag-chef-fuer-zusaetzliche-staatsbeteiligungen-in-ausnahmefaellen/401123388"
+      "id" : "KJ1zJXuv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/a/7/a/5909114/FILES-US-IT-CRIME-HACKING_1607514659823428_v0_l.jpg",
+      "titleSource" : "Internet-Kriminalität: \"Die Zahlen steigen exorbitant\"",
+      "titleTarget" : "Internet kriminal: \"Brojke se pretjerano povećavaju\"",
+      "url" : "https://www.diepresse.com/5909114/Kriminalitaet_InternetKriminalitaet_Die-Zahlen-steigen-exorbitant?from=rss"
     }, {
-      "id" : "xQARqTuC",
-      "imgUrl" : "https://image.kurier.at/images/original/4728966/81690356757241560_BLD_Online.jpg",
-      "titleSource" : "US-Bundesstaaten mit Wettbewerbsklage gegen Facebook",
-      "titleTarget" : "Američke države s tužbom za konkurenciju protiv Facebooka",
-      "url" : "https://kurier.at/wirtschaft/us-bundesstaaten-mit-wettbewerbsklage-gegen-facebook/401123397"
-    }, {
-      "id" : "rhjQSyfR",
-      "imgUrl" : "https://image.kurier.at/images/original/4808349/46-171946444.jpg",
-      "titleSource" : "Trading-App Robinhood wählt Goldman Sachs für Börsengang",
-      "titleTarget" : "Aplikacija za trgovanje Robinhood odabire Goldman Sachs za IPO",
-      "url" : "https://kurier.at/wirtschaft/trading-app-robinhood-waehlt-goldman-sachs-fuer-boersengang/401123352"
+      "id" : "uMOrOmqX",
+      "titleSource" : "Christoph Swarovski folgt im Beirat doch nicht auf Helmut",
+      "titleTarget" : "Christoph Swarovski ne nasljeđuje Helmuta u savjetodavnom odboru",
+      "url" : "https://kurier.at/wirtschaft/christoph-swarovski-folgt-im-beirat-doch-nicht-auf-helmut/401124183"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jXjdJ3Ku",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/34/crops/w=1280/778088_opener_270834_sch08970.jpg?s=66e27ebc5897ef426e0d6d567de95707fc6a4043",
-      "titleSource" : "Aus „Fugging“ wurde wieder „Fucking“",
-      "titleTarget" : "\"Fucking\" je opet postao \"Fucking\"",
-      "url" : "https://ooe.orf.at/stories/3079668/"
+      "id" : "urzbIqMG",
+      "imgUrl" : "https://image.kurier.at/images/original/4808949/46-88967587.jpg",
+      "titleSource" : "Corona: Österreichische Maskenverweigerin legte göttliches Befreiungsattest vor",
+      "titleTarget" : "Corona: Austrijski odbijatelj maski dostavio božanski certifikat",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-maskenverweigerin-legte-goettliches-befreiungsattest-vor/401123769"
     }, {
-      "id" : "3WeP8vwG",
-      "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
-      "titleSource" : "Tirol: Rund 400 positive PCR-Tests nach Massentestung",
-      "titleTarget" : "Tirol: Oko 400 pozitivnih PCR testova nakon masovnih ispitivanja",
-      "url" : "https://kurier.at/chronik/oesterreich/tirol-jeder-dritte-positive-antigen-test-falsch-positiv/401122323"
+      "id" : "3x1tZUOg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/37/crops/w=1280/778601_opener_271037_pk_wiederkehr_cafe_museum_corazza_01724_00_25_01_21.jpg?s=9edd6a9ac7e96d9853e05647a88bc8291fa794e5",
+      "titleSource" : "Kaffeehäuser öffnen für Schüler zum Lernen",
+      "titleTarget" : "Kavane otvorene za studente",
+      "url" : "https://wien.orf.at/stories/3079761/"
     }, {
-      "id" : "1IrDI4cz",
-      "imgUrl" : "https://image.kurier.at/images/original/4807320/46-173419574.jpg",
-      "titleSource" : "Zweiter Shopping-Tag: Der große Kaufrausch blieb aus",
-      "titleTarget" : "Dan kupovine: navala nije velika kako se očekivalo",
-      "url" : "https://kurier.at/chronik/oesterreich/shopping-tag-andrang-bisher-nicht-so-gross-wie-erwartet/401122644"
+      "id" : "Ayk9s8Bj",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/62/crops/w=1280/767903_opener_266962_meldungsliste7_1.jpg?s=a4f6d4650ac47428fe504e11a7727ba48eb4a438",
+      "titleSource" : "Geringe Positivrate bei Massentests",
+      "titleTarget" : "Niska pozitivna stopa u testovima mase",
+      "url" : "https://wien.orf.at/stories/3079801/"
     }, {
-      "id" : "bkbiQSgi",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/65/crops/w=1280/778128_opener_270865_99bb2466-933a-4af3-bb6b-d35cefe4ab1d.jpg?s=15443b2d15d209adc88cbbf3a634e99f8331d9a7",
-      "titleSource" : "Ansturm auf Einkaufszentren blieb aus",
-      "titleTarget" : "Nije se žurilo prema trgovačkim centrima",
-      "url" : "https://noe.orf.at/stories/3079647/"
+      "id" : "t2z8g86k",
+      "titleSource" : "Frau lag zwei Tage hilflos in Badewanne",
+      "titleTarget" : "Žena je dva dana bespomoćno ležala u kadi",
+      "url" : "https://kaernten.orf.at/stories/3079785/"
     }, {
-      "id" : "MAswNLmf",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/29/crops/w=1280/778071_opener_270829_fussball1.jpg?s=ce3a0f3f13a878c6b4749c176bf70180532b9ef4",
-      "titleSource" : "Mit Fahrzeug Fußballplatz ruiniert",
-      "titleTarget" : "Uništeno nogometno igralište s vozilom",
-      "url" : "https://vorarlberg.orf.at/stories/3079671/"
+      "id" : "J0zHhq42",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/05/crops/w=1280/493121_opener_166105_landtag.jpg?s=d6acfca2f1175f70746ae911a99efb2241b47c99",
+      "titleSource" : "2021: Landesbudget mit 413,5 Mio. Euro Neuschulden",
+      "titleTarget" : "2021: Državni proračun s 413,5 milijuna eura novih dugova",
+      "url" : "https://salzburg.orf.at/stories/3079760/"
     }, {
-      "id" : "NIWhIzzg",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/03/crops/w=1280/762402_opener_264903_impfung.jpg?s=66b3bdaa100a32e23598814e9625f2aa55f58e90",
-      "titleSource" : "CoV-Impfung für Spitalspersonal ab Jänner",
-      "titleTarget" : "Cijepljenje CoV za bolničko osoblje od siječnja",
-      "url" : "https://wien.orf.at/stories/3079644/"
+      "id" : "MzAq7p5z",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/4/5909156/FB5048CA-BD87-4BFB-ACB7-F5BAD7544B27_v0_h.jpg",
+      "titleSource" : "Positive Antigentests in Wien großteils falsch positiv",
+      "titleTarget" : "Pozitivni testovi antigena u Beču uglavnom su lažno pozitivni",
+      "url" : "https://www.diepresse.com/5909156/Massentests_Positive-Antigentests-in-Wien-grossteils-falsch-positiv?from=rss"
     }, {
-      "id" : "BrQDAe3p",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/39/01/crops/w=1280/308131_opener_96301_dsc_0560.jpg?s=d2a5d671ea85fdb1822bd6b20259a3b78acdf98c",
-      "titleSource" : "Hallstätter Gletscher schmilzt drastisch",
-      "titleTarget" : "Ledenik Hallstatt drastično se topi",
-      "url" : "https://ooe.orf.at/stories/3075160/"
+      "id" : "BvLVbbW4",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/53/crops/w=1280/778638_opener_271053_schuetz.jpg?s=453761c1d9063d4f0f07bc2d65caa5971f2c843b",
+      "titleSource" : "Schützenhöfer: „Testen rettet Leben“",
+      "titleTarget" : "Schützenhöfer: \"Testiranje spašava živote\"",
+      "url" : "https://steiermark.orf.at/stories/3079690/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "jRq59Phl",
+      "imgUrl" : "https://image.kurier.at/images/original/4368065/5687839.jpg",
+      "titleSource" : "ORF 1 zeigt \"Die Simpsons\" zu Weihnachten auf Österreichisch",
+      "titleTarget" : "ORF 1 prikazuje Božić na austrijskom \"The Simpsons\"",
+      "url" : "https://kurier.at/kultur/medien/orf-1-zeigt-die-simpsons-zu-weihnachten-auf-oesterreichisch/401123820"
+    }, {
+      "id" : "zQIozDej",
+      "imgUrl" : "https://image.kurier.at/images/original/4809699/omer_meir_wellber_c_pmeisel_661.jpg",
+      "titleSource" : "Wiener Volksoper bekommt 2022 Musikdirektor: Omer Meir Wellber",
+      "titleTarget" : "Bečki Volksoper 2022. godine dobiva glazbenog direktora: Omera Meira Wellbera",
+      "url" : "https://kurier.at/kultur/omer-meir-wellber-wird-2022-musikdirektor-der-wiener-volksoper/401124123"
+    }, {
       "id" : "5yAwouDi",
       "imgUrl" : "https://image.kurier.at/images/original/4010316/78350011452298074_BLD_Online.jpg",
       "titleSource" : "Corona bringt Bundesmuseen und Bundestheater in Bedrängnis",
       "titleTarget" : "Corona dovodi federalne muzeje i federalna kazališta u nevolju",
       "url" : "https://kurier.at/kultur/corona-bringt-bundesmuseen-und-bundestheater-in-bedraengnis/401123019"
-    }, {
-      "id" : "taMqKKFt",
-      "imgUrl" : "https://image.kurier.at/images/original/3502969/81412305848646536_BLD_Online.jpg",
-      "titleSource" : "Regisseur Christopher Nolan kritisierte Warners Streamingplan",
-      "titleTarget" : "Redatelj Christopher Nolan kritizirao je Warnerov plan streaminga",
-      "url" : "https://kurier.at/kultur/regisseur-christopher-nolan-kritisierte-warners-streamingplan/401123028"
     }, {
       "id" : "LcqQlm4s",
       "imgUrl" : "https://image.kurier.at/images/original/4807857/46-173261723.jpg",
@@ -160,23 +165,17 @@
       "titleTarget" : "5 savjeta za podcast za prosinac",
       "url" : "https://kurier.at/kultur/medien/5-podcast-tipps-fuer-den-dezember/401122785"
     }, {
-      "id" : "ZiGxNE2z",
-      "imgUrl" : "https://image.kurier.at/images/original/4807929/46-143753425.jpg",
-      "titleSource" : "Werk-Ensemble von Balthus für über 2,4 Millionen Euro versteigert",
-      "titleTarget" : "Balthusov ansambl djela na aukciji je iznosio preko 2,4 milijuna eura",
-      "url" : "https://kurier.at/kultur/werk-ensemble-von-balthus-fuer-ueber-24-millionen-euro-versteigert/401123034"
+      "id" : "taMqKKFt",
+      "imgUrl" : "https://image.kurier.at/images/original/3502969/81412305848646536_BLD_Online.jpg",
+      "titleSource" : "Regisseur Christopher Nolan kritisierte Warners Streamingplan",
+      "titleTarget" : "Redatelj Christopher Nolan kritizirao je Warnerov plan streaminga",
+      "url" : "https://kurier.at/kultur/regisseur-christopher-nolan-kritisierte-warners-streamingplan/401123028"
     }, {
-      "id" : "fnsAPmAV",
-      "imgUrl" : "https://image.kurier.at/images/original/4807914/46-173393930.jpg",
-      "titleSource" : "Auszeichnung abgesagt: 2020 selbst für schlechten Sex zu schlecht",
-      "titleTarget" : "Otkazana nagrada: 2020. šteta čak i za loš seks",
-      "url" : "https://kurier.at/kultur/auszeichnung-abgesagt-2020-selbst-fuer-schlechten-sex-zu-schlecht/401123016"
-    }, {
-      "id" : "xfEjtiAP",
-      "imgUrl" : "https://image.kurier.at/images/original/4808793/46-167507509.jpg",
-      "titleSource" : "Hosea Ratschiller \"tanzt elegant direkt am Abgrund\"",
-      "titleTarget" : "Hosea Ratschiller \"elegantno pleše točno na rubu\"",
-      "url" : "https://kurier.at/kultur/hosea-ratschiller-tanzt-elegant-direkt-am-abgrund/401118090"
+      "id" : "KXPcdHNP",
+      "imgUrl" : "https://image.kurier.at/images/original/4809630/46-173294711.jpg",
+      "titleSource" : "Nach Kogler-Befund: Staatsoper sieht keine \"Bestandsgefährdung\"",
+      "titleTarget" : "Prema Koglerovim nalazima: Državna opera ne vidi \"prijetnju svom postojanju\"",
+      "url" : "https://kurier.at/kultur/nach-kogler-befund-wiener-staatsoper-sieht-trotz-corona-keine-bestandsgefaehrdung/401124273"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,31 +194,31 @@
       "titleTarget" : "Froschbergov san o CL-u pukao je u finalu",
       "url" : "https://sport.orf.at/stories/3070409/"
     }, {
-      "id" : "L4LZndzI",
-      "imgUrl" : "https://image.kurier.at/images/original/4807608/46-173240005.jpg",
-      "titleSource" : "Hamilton nach Corona-Infektion: \"War eine der härtesten Wochen\"",
-      "titleTarget" : "Hamilton nakon infekcije koronom: \"Bio je to jedan od najtežih tjedana\"",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-lewis-hamilton-nach-corona-infektion-war-eine-der-haertesten-wochen/401122908"
+      "id" : "8LL9NTit",
+      "imgUrl" : "https://image.kurier.at/images/original/4808598/gettyimages-646695952.jpg",
+      "titleSource" : "Österreichs Sport trauert um eine Motorsport-Legende",
+      "titleTarget" : "Austrijski sport oplakuje legendu automobilskog sporta",
+      "url" : "https://kurier.at/sport/motorsport/oesterreichs-sport-trauert-um-eine-motorsport-legende/401123424"
     }, {
-      "id" : "gDeKWBPm",
-      "titleSource" : "Katar spielt als Gast in Portugal-Gruppe",
-      "titleTarget" : "Katar igra kao gost u grupi Portugal",
-      "url" : "https://sport.orf.at/stories/3070397/"
+      "id" : "uoGzPHOy",
+      "titleSource" : "Höck nimmt Finale an den Ringen ins Visier",
+      "titleTarget" : "Höck cilja Finale na prstenove",
+      "url" : "https://sport.orf.at/stories/3070371/"
+    }, {
+      "id" : "44i97t33",
+      "titleSource" : "Rassismuseklat schlägt hohe Wellen",
+      "titleTarget" : "Tračevi o rasizmu uzrokuju valove",
+      "url" : "https://sport.orf.at/stories/3070421/"
     }, {
       "id" : "IjqGuHKo",
       "titleSource" : "Rassismusskandal bei PSG – Basaksehir",
       "titleTarget" : "Skandal s rasizmom u PSG-u - Basaksehir",
       "url" : "https://sport.orf.at/stories/3070404/"
     }, {
-      "id" : "II9l9Jbl",
-      "titleSource" : "Atleticos „Mauer“ steht Salzburg im Weg",
-      "titleTarget" : "Atleticov \"Zid\" stoji na putu Salzburgu",
-      "url" : "https://sport.orf.at/stories/3070353/"
-    }, {
-      "id" : "HJvXuh3U",
-      "titleSource" : "Linz-Froschberg verliert „CL-Finale dahoam“",
-      "titleTarget" : "Linz-Froschberg izgubio \"CL finale kod kuće\"",
-      "url" : "https://sport.orf.at/stories/3070408/"
+      "id" : "uaNqoeT2",
+      "titleSource" : "Lazaro-Tor „hilft Kindern zu träumen“",
+      "titleTarget" : "Lazaro vrata \"pomažu djeci u snu\"",
+      "url" : "https://sport.orf.at/stories/3070420/"
     } ]
   } ],
   "country" : "austria",
