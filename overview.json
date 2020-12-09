@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "darAudLL",
-      "imgUrl" : "https://image.kurier.at/images/original/4806846/46-173366358.jpg",
-      "titleSource" : "Mobile Antigen-Schnelltests statt zweitem Massentest",
-      "titleTarget" : "Brzi testovi mobilnih antigena umjesto drugog masnog testa",
-      "url" : "https://kurier.at/politik/inland/mobile-antigen-schnelltests-statt-zweitem-massentest/401122413"
-    }, {
       "id" : "MSLGN4Yh",
       "imgUrl" : "https://image.kurier.at/images/original/4807443/46-173346310.jpg",
       "titleSource" : "Grüne Umfragewerte mit \"Tendenz nach unten\"",
@@ -23,11 +17,11 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "5fwztTto",
-      "imgUrl" : "https://image.kurier.at/images/original/4806849/46-165583331.jpg",
-      "titleSource" : "NoVA-Änderung kostet Unternehmen 1,18 Milliarden Euro",
-      "titleTarget" : "NoVA promjena košta tvrtke 1,18 milijardi eura",
-      "url" : "https://kurier.at/wirtschaft/nova-aenderung-waere-milliarden-belastung/401122302"
+      "id" : "6UyrdFyo",
+      "imgUrl" : "https://image.kurier.at/images/original/3825029/78370011350962988_BLD_Online.jpg",
+      "titleSource" : "Neue Nachtzug-Verbindungen für Europa",
+      "titleTarget" : "Nove veze noćnim vlakovima za Europu",
+      "url" : "https://kurier.at/wirtschaft/neue-nachtzug-verbindungen-fuer-europa/401122965"
     }, {
       "id" : "6u7yuVn7",
       "imgUrl" : "https://image.kurier.at/images/original/2739179/46-110254213.jpg",
@@ -41,18 +35,6 @@
       "titleTarget" : "Riznica pobježe do 680 milijuna eura putem Amazon & Co",
       "url" : "https://kurier.at/wirtschaft/fiskus-entgehen-bis-zu-680-mio-euro-durch-amazon-co/401122710"
     }, {
-      "id" : "CGy3fNnw",
-      "imgUrl" : "https://image.kurier.at/images/original/2731007/20180803-ABD0002-1-1.jpg",
-      "titleSource" : "Mehr als eine Billion Dollar Schaden durch Cyberkriminalität",
-      "titleTarget" : "Više od bilijuna dolara štete od cyber kriminala",
-      "url" : "https://kurier.at/wirtschaft/mehr-als-eine-billion-dollar-schaden-durch-cyberkriminalitaet/401122353"
-    }, {
-      "id" : "6UyrdFyo",
-      "imgUrl" : "https://image.kurier.at/images/original/3825029/78370011350962988_BLD_Online.jpg",
-      "titleSource" : "Neue Nachtzug-Verbindungen für Europa",
-      "titleTarget" : "Nove veze noćnim vlakovima za Europu",
-      "url" : "https://kurier.at/wirtschaft/neue-nachtzug-verbindungen-fuer-europa/401122965"
-    }, {
       "id" : "MWZu8xsq",
       "imgUrl" : "https://image.kurier.at/images/original/4612304/78370011356254040_BLD_Online.jpg",
       "titleSource" : "Helmut Swarovski kehrt Konzernführung den Rücken",
@@ -64,10 +46,33 @@
       "titleSource" : "Bestnoten beim Klimaschutz für Lenzing und RBI",
       "titleTarget" : "Vrhunske ocjene za zaštitu klime za Lenzing i IRB",
       "url" : "https://kurier.at/wirtschaft/bestnoten-beim-klimaschutz-fuer-lenzing-und-rbi/401122842"
+    }, {
+      "id" : "fuonx1v7",
+      "imgUrl" : "https://image.kurier.at/images/original/4100349/78370011352995676_BLD_Online.jpg",
+      "titleSource" : "Arbeitslosigkeit weiter angestiegen",
+      "titleTarget" : "Nezaposlenost je nastavila rasti",
+      "url" : "https://kurier.at/wirtschaft/arbeitslosigkeit-weiter-angestiegen/401122695"
+    }, {
+      "id" : "l9E7pzjj",
+      "titleSource" : "Volkskrankheit: Videokonferenz-Müdigkeit ",
+      "titleTarget" : "Raširena bolest: umor od videokonferencija",
+      "url" : "https://kurier.at/wirtschaft/karriere/volkskrankheit-videokonferenz-muedigkeit/401119266"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "jXjdJ3Ku",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/34/crops/w=1280/778088_opener_270834_sch08970.jpg?s=66e27ebc5897ef426e0d6d567de95707fc6a4043",
+      "titleSource" : "Aus „Fugging“ wurde wieder „Fucking“",
+      "titleTarget" : "\"Fucking\" je opet postao \"Fucking\"",
+      "url" : "https://ooe.orf.at/stories/3079668/"
+    }, {
+      "id" : "sSWuCSwB",
+      "imgUrl" : "https://image.kurier.at/images/original/2618461/46-109626368.jpg",
+      "titleSource" : "Abschiebung: Kritik und Demo vor Afghanistan-Flug",
+      "titleTarget" : "Deportacija: kritike i demonstracije prije leta u Afganistan",
+      "url" : "https://kurier.at/chronik/oesterreich/abschiebung-kritik-und-demo-vor-afghanistan-flug/401122251"
+    }, {
       "id" : "3WeP8vwG",
       "imgUrl" : "https://image.kurier.at/images/original/4802706/20201205-ABD0072-1-1.jpg",
       "titleSource" : "Tirol: Rund 400 positive PCR-Tests nach Massentestung",
@@ -76,20 +81,9 @@
     }, {
       "id" : "1IrDI4cz",
       "imgUrl" : "https://image.kurier.at/images/original/4807320/46-173419574.jpg",
-      "titleSource" : "Shopping-Tag: Andrang nicht so groß wie erwartet",
+      "titleSource" : "Zweiter Shopping-Tag: Der große Kaufrausch blieb aus",
       "titleTarget" : "Dan kupovine: navala nije velika kako se očekivalo",
       "url" : "https://kurier.at/chronik/oesterreich/shopping-tag-andrang-bisher-nicht-so-gross-wie-erwartet/401122644"
-    }, {
-      "id" : "wtHsbAiO",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Aktuelle Zahlen zum Coronavirus: 2.377 Neuinfektionen in Österreich, bisher insgesamt mehr als 4000 Tote",
-      "titleTarget" : "Trenutne brojke o koronavirusu: 2.377 novih infekcija u Austriji, do sada ukupno više od 4.000 smrtnih slučajeva",
-      "url" : "https://kurier.at/chronik/oesterreich/2377-neuinfektionen-in-oesterreich/401122554"
-    }, {
-      "id" : "ISmKkN40",
-      "titleSource" : "Hotelier kocht für Obdachlose",
-      "titleTarget" : "Hotelijer kuha za beskućnike",
-      "url" : "https://salzburg.orf.at/stories/3079636/"
     }, {
       "id" : "9nTQQeXR",
       "imgUrl" : "https://image.kurier.at/images/original/4806984/46-168308643.jpg",
@@ -97,17 +91,17 @@
       "titleTarget" : "Corona: Austrijski pogrebnik zatražio je još smrtnih slučajeva",
       "url" : "https://kurier.at/chronik/oesterreich/corona-oesterreichs-bestatter-wegen-mehr-toten-gefordert/401122515"
     }, {
+      "id" : "wtHsbAiO",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Aktuelle Zahlen zum Coronavirus: 2.377 Neuinfektionen in Österreich, bisher insgesamt mehr als 4000 Tote",
+      "titleTarget" : "Trenutne brojke o koronavirusu: 2.377 novih infekcija u Austriji, do sada ukupno više od 4.000 smrtnih slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/2377-neuinfektionen-in-oesterreich/401122554"
+    }, {
       "id" : "bkbiQSgi",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/65/crops/w=1280/778128_opener_270865_99bb2466-933a-4af3-bb6b-d35cefe4ab1d.jpg?s=15443b2d15d209adc88cbbf3a634e99f8331d9a7",
       "titleSource" : "Ansturm auf Einkaufszentren blieb aus",
       "titleTarget" : "Nije se žurilo prema trgovačkim centrima",
       "url" : "https://noe.orf.at/stories/3079647/"
-    }, {
-      "id" : "XE46wGQU",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/92/crops/w=1280/777983_opener_270792_abd0049.jpg?s=847bf8ddf6ab72b939bc8d8cc7e22a70c6fe8461",
-      "titleSource" : "Noch 1.200 Haushalte in Osttirol ohne Strom",
-      "titleTarget" : "1200 domaćinstava u Istočnom Tirolu i dalje je bez struje",
-      "url" : "https://tirol.orf.at/stories/3079590/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -118,23 +112,41 @@
       "titleTarget" : "Patricia Aulitzky: Land triler debi za autsajdera",
       "url" : "https://kurier.at/kultur/medien/patricia-aulitzky-einstand-fuer-eine-aussenseiterin-beim-orf-landkrimi/401122326"
     }, {
+      "id" : "5yAwouDi",
+      "imgUrl" : "https://image.kurier.at/images/original/4010316/78350011452298074_BLD_Online.jpg",
+      "titleSource" : "Corona bringt Bundesmuseen und Bundestheater in Bedrängnis",
+      "titleTarget" : "Corona dovodi federalne muzeje i federalna kazališta u nevolju",
+      "url" : "https://kurier.at/kultur/corona-bringt-bundesmuseen-und-bundestheater-in-bedraengnis/401123019"
+    }, {
       "id" : "5sHQB7za",
       "imgUrl" : "https://image.kurier.at/images/original/4806540/46-173330814.jpg",
       "titleSource" : "Adolf Loos im MAK: Radikalo und Rebell – aber zugleich Traditionalist",
       "titleTarget" : "Adolf Loos iz MAK-a: radikalan i pobunjenik - ali istovremeno i tradicionalist",
       "url" : "https://kurier.at/kultur/adolf-loos-im-mak-radikalo-und-rebell-aber-zugleich-traditionalist/401122224"
     }, {
+      "id" : "taMqKKFt",
+      "imgUrl" : "https://image.kurier.at/images/original/3502969/81412305848646536_BLD_Online.jpg",
+      "titleSource" : "Regisseur Christopher Nolan kritisierte Warners Streamingplan",
+      "titleTarget" : "Redatelj Christopher Nolan kritizirao je Warnerov plan streaminga",
+      "url" : "https://kurier.at/kultur/regisseur-christopher-nolan-kritisierte-warners-streamingplan/401123028"
+    }, {
+      "id" : "ZiGxNE2z",
+      "imgUrl" : "https://image.kurier.at/images/original/4807929/46-143753425.jpg",
+      "titleSource" : "Werk-Ensemble von Balthus für über 2,4 Millionen Euro versteigert",
+      "titleTarget" : "Balthusov ansambl djela na aukciji je iznosio preko 2,4 milijuna eura",
+      "url" : "https://kurier.at/kultur/werk-ensemble-von-balthus-fuer-ueber-24-millionen-euro-versteigert/401123034"
+    }, {
+      "id" : "fnsAPmAV",
+      "imgUrl" : "https://image.kurier.at/images/original/4807914/46-173393930.jpg",
+      "titleSource" : "Auszeichnung abgesagt: 2020 selbst für schlechten Sex zu schlecht",
+      "titleTarget" : "Otkazana nagrada: 2020. šteta čak i za loš seks",
+      "url" : "https://kurier.at/kultur/auszeichnung-abgesagt-2020-selbst-fuer-schlechten-sex-zu-schlecht/401123016"
+    }, {
       "id" : "Mh5g9peM",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/1/8/5908760/114_tib_serienjunkies__johannes_gellner_3mp_1607442126350764.jpg",
       "titleSource" : "Online-Improtheater: Was auf der Couch noch passieren könnte",
       "titleTarget" : "Internacionalno improvizirano kazalište: Što bi se još moglo dogoditi na kauču",
       "url" : "https://www.diepresse.com/5908760/Serienjunkies_OnlineImprotheater_Was-auf-der-Couch-noch-passieren?from=rss"
-    }, {
-      "id" : "xw2hVdsl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
-      "titleSource" : "Musiksalon Nr. 31: Hören statt Einkaufen",
-      "titleTarget" : "Glazbeni salon br. 31: slušanje umjesto kupovine",
-      "url" : "https://www.diepresse.com/5908451/Podcast_Musiksalon-Nr-31_Hoeren-statt-Einkaufen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -142,6 +154,12 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "rxyyyZ5H",
+      "imgUrl" : "https://image.kurier.at/images/original/4808010/46-173427435.jpg",
+      "titleSource" : "Rassismus-Eklat in der Champions League: PSG-Spiel abgebrochen",
+      "titleTarget" : "Skandal s rasizmom u Ligi prvaka: Otkazana utakmica PSG-a",
+      "url" : "https://kurier.at/sport/fussball/rassismus-eklat-in-der-champions-league-psg-spiel-unterbrochen/401123091"
+    }, {
       "id" : "UVq9dGPS",
       "titleSource" : "Rauswurf schlägt im ÖSV-Team hohe Wellen",
       "titleTarget" : "Pražnjenje stvara valove u ÖSV timu",
@@ -153,31 +171,26 @@
       "titleTarget" : "Trener brze vožnje Kühbauer: \"Nadam se da mi se to više nikada neće dogoditi\"",
       "url" : "https://kurier.at/sport/fussball/rapid-trainer-didi-kuehbauer-im-kurier-interview-ich-hoffe-das-passiert-mir-nie-wieder/401122248"
     }, {
-      "id" : "J2JKaiLa",
-      "titleSource" : "Wie die USA von Lennons Tod erfuhren",
-      "titleTarget" : "Kako su Sjedinjene Države saznale za Lennonovu smrt",
-      "url" : "https://sport.orf.at/stories/3070212/"
-    }, {
-      "id" : "xRHloYR7",
-      "titleSource" : "Paris 2024 wird wieder schlanker",
-      "titleTarget" : "Pariz 2024. ponovno će biti vitkiji",
-      "url" : "https://sport.orf.at/stories/3070360/"
-    }, {
-      "id" : "rhgDQy3c",
-      "titleSource" : "Linz-Froschberg im Champions-League-Finale",
-      "titleTarget" : "Linz-Froschberg u finalu Lige prvaka",
-      "url" : "https://sport.orf.at/stories/3070366/"
+      "id" : "L4LZndzI",
+      "imgUrl" : "https://image.kurier.at/images/original/4807608/46-173240005.jpg",
+      "titleSource" : "Hamilton nach Corona-Infektion: \"War eine der härtesten Wochen\"",
+      "titleTarget" : "Hamilton nakon infekcije koronom: \"Bio je to jedan od najtežih tjedana\"",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-lewis-hamilton-nach-corona-infektion-war-eine-der-haertesten-wochen/401122908"
     }, {
       "id" : "sBkferKw",
       "titleSource" : "Entschlackung freut Kletterer und Ruderer",
       "titleTarget" : "Penjači i veslači uživaju u detoksikaciji",
       "url" : "https://sport.orf.at/stories/3070386/"
     }, {
-      "id" : "L4LZndzI",
-      "imgUrl" : "https://image.kurier.at/images/original/4807608/46-173240005.jpg",
-      "titleSource" : "Hamilton nach Corona-Infektion: \"War eine der härtesten Wochen\"",
-      "titleTarget" : "Hamilton nakon infekcije koronom: \"Bio je to jedan od najtežih tjedana\"",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-weltmeister-lewis-hamilton-nach-corona-infektion-war-eine-der-haertesten-wochen/401122908"
+      "id" : "gDeKWBPm",
+      "titleSource" : "Katar spielt als Gast in Portugal-Gruppe",
+      "titleTarget" : "Katar igra kao gost u grupi Portugal",
+      "url" : "https://sport.orf.at/stories/3070397/"
+    }, {
+      "id" : "FoKYjQsO",
+      "titleSource" : "Froschbergs CL-Traum im Finale geplatzt",
+      "titleTarget" : "Froschbergov san o CL-u pukao je u finalu",
+      "url" : "https://sport.orf.at/stories/3070409/"
     } ]
   } ],
   "country" : "austria",
