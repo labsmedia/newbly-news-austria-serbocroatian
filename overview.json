@@ -3,7 +3,7 @@
     "category" : "POLITICS",
     "newsArticles" : [ {
       "id" : "D8ZRtMz9",
-      "imgUrl" : "https://image.kurier.at/images/original/4795023/20201202-ABD0045-1-1.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4815294/20201211-ABD0202-1-1.jpg",
       "titleSource" : "Die Feiertags-Maßnahmen: Keine Silvesterpartys, bundesweiter Massentest, Maske auch im Büro",
       "titleTarget" : "Mjere za praznik: Nema novogodišnjih zabava, masovno testiranje u cijeloj zemlji, maska čak ni u uredu",
       "url" : "https://kurier.at/politik/inland/kurz-kogler-live-ab-21-uhr-die-regeln-fuer-weihnachten-und-silvester/401127147"
@@ -20,11 +20,11 @@
       "titleTarget" : "Ali ne deset? Vlada planira novogodišnje zabave",
       "url" : "https://kurier.at/politik/inland/doch-nicht-zu-zehnt-regierung-plant-aus-fuer-silvester-partys/401126454"
     }, {
-      "id" : "LUnSH2uQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4610696/46-146134696.jpg",
-      "titleSource" : "Verhaftung von Drahtzieher des Ibiza-Videos: So geht es nun weiter",
-      "titleTarget" : "Hapšenje nalogodavaca spota s Ibize: tako to traje i sada",
-      "url" : "https://kurier.at/politik/inland/ibiza-video-drahtzieher-verhaftet/401125965"
+      "id" : "RCQA02rU",
+      "imgUrl" : "https://image.kurier.at/images/original/4815264/46-173463336.jpg",
+      "titleSource" : "Kurz: Impfstoff im ersten Quartal 2021 in Österreich \"nur sehr beschränkt\" verfügbar",
+      "titleTarget" : "Ukratko: cjepivo je \"samo vrlo ograničeno\" dostupno u Austriji u prvom kvartalu 2021. godine",
+      "url" : "https://kurier.at/politik/inland/kurz-im-ersten-quartal-2021-nur-sehr-beschraenkt-impfstoff-in-oesterreich/401127192"
     }, {
       "id" : "IgecGeVS",
       "imgUrl" : "https://image.kurier.at/images/original/3969170/close-up-of-two-flute-glasses-filled-with-sparkling-wine-3036525.jpg",
@@ -38,21 +38,15 @@
       "titleTarget" : "Ustavni sud presudio je o eutanaziji i zabrani marama",
       "url" : "https://www.diepresse.com/5910152/Grundrechte_Verfassungsgerichtshof-entschied-ueber-Sterbehilfe-und?from=rss"
     }, {
-      "id" : "RCQA02rU",
-      "imgUrl" : "https://image.kurier.at/images/original/4815264/46-173463336.jpg",
-      "titleSource" : "Kurz: Impfstoff im ersten Quartal 2021 in Österreich \"nur sehr beschränkt\" verfügbar",
-      "titleTarget" : "Ukratko: cjepivo je \"samo vrlo ograničeno\" dostupno u Austriji u prvom kvartalu 2021. godine",
-      "url" : "https://kurier.at/politik/inland/kurz-im-ersten-quartal-2021-nur-sehr-beschraenkt-impfstoff-in-oesterreich/401127192"
+      "id" : "4Vn7HpeB",
+      "imgUrl" : "https://image.kurier.at/images/original/4741293/78350011457342918_BLD_Online.jpg",
+      "titleSource" : "Finale 2020: Neue Gesetze gegen die Virusrakete",
+      "titleTarget" : "Finale 2020: Novi zakoni protiv virusa projektila",
+      "url" : "https://kurier.at/politik/inland/finale-2020-neue-gesetze-gegen-die-virusrakete/401127057"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "kVVsSM48",
-      "imgUrl" : "https://image.kurier.at/images/original/4793646/oamtc_.png",
-      "titleSource" : "ÖAMTC: NOVA-Erhöhung trifft alle",
-      "titleTarget" : "ÖAMTC: NOVA porast utječe na sve",
-      "url" : "https://kurier.at/wirtschaft/oeamtc-nova-erhoehung-trifft-alle/401126241"
-    }, {
       "id" : "Ri0gtvRK",
       "imgUrl" : "https://image.kurier.at/images/original/4540442/78370011355665330_BLD_Online.jpg",
       "titleSource" : "US-Regierung: \"Nord Stream 2 wird nie russisches Gas transportieren\"",
@@ -65,39 +59,39 @@
       "titleTarget" : "Ulazak u dugove trenutno je posao za Austriju",
       "url" : "https://kurier.at/wirtschaft/schulden-machen-ist-fuer-oesterreich-derzeit-ein-geschaeft/401126637"
     }, {
-      "id" : "NGS2dFk9",
-      "imgUrl" : "https://image.kurier.at/images/original/2809091/46-81205046.jpg",
-      "titleSource" : "Molkereien im Westen unter Druck",
-      "titleTarget" : "Mljekare na zapadu pod pritiskom",
-      "url" : "https://kurier.at/wirtschaft/molkereien-im-westen-unter-druck/401126898"
-    }, {
       "id" : "xmHrC09s",
       "imgUrl" : "https://image.kurier.at/images/original/4712937/46-168321095.jpg",
       "titleSource" : "Brenner Basistunnel: Bau wird im Herbst 2021 fortgesetzt",
       "titleTarget" : "Osnovni tunel Brenner: izgradnja će se nastaviti u jesen 2021. godine",
       "url" : "https://kurier.at/wirtschaft/brenner-basistunnel-bau-wird-im-herbst-2021-fortgesetzt/401126775"
     }, {
-      "id" : "4iDBZnXg",
-      "imgUrl" : "https://image.kurier.at/images/original/2715398/78370011343594188_BLD_Online.jpg",
-      "titleSource" : "Milliarden-Sammelklage gegen Mastercard in Großbritannien",
-      "titleTarget" : "Milijarde u skupnoj tužbi protiv Mastercarda u Velikoj Britaniji",
-      "url" : "https://kurier.at/wirtschaft/milliarden-sammelklage-gegen-mastercard-in-grossbritannien/401126748"
+      "id" : "0cRMoo1w",
+      "imgUrl" : "https://image.kurier.at/images/original/4814814/46-173462085.jpg",
+      "titleSource" : "Kika/Leiner-Chef: „Wir stellen 200 neue Leute ein“",
+      "titleTarget" : "Šefica Kike / Leinera: \"Zapošljavamo 200 novih ljudi\"",
+      "url" : "https://kurier.at/wirtschaft/kikaleiner-chef-wir-stellen-200-neue-leute-ein/401126958"
     }, {
-      "id" : "FylaiwYp",
-      "imgUrl" : "https://image.kurier.at/images/original/3728276/46-148153670.jpg",
-      "titleSource" : "Versicherer schreiben ein Viertel weniger Gewinn",
-      "titleTarget" : "Osiguravatelji upisuju četvrtinu manje dobiti",
-      "url" : "https://kurier.at/wirtschaft/versicherer-schreiben-ein-viertel-weniger-gewinn/401126589"
+      "id" : "okHxeRBg",
+      "imgUrl" : "https://image.kurier.at/images/original/4811313/46-168954127.jpg",
+      "titleSource" : "Trotzdem positiv",
+      "titleTarget" : "Još uvijek pozitivno",
+      "url" : "https://kurier.at/wirtschaft/karriere/erfolge-trotzdem-positiv/401125254"
+    }, {
+      "id" : "wdpmaroL",
+      "imgUrl" : "https://image.kurier.at/images/original/4811769/46-173405014.jpg",
+      "titleSource" : "Alleinerziehende Unternehmerin: „Es hängt alles an mir“",
+      "titleTarget" : "Samostalni poduzetnik: \"Sve ovisi o meni\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/alleinerziehende-unternehmerin-es-haengt-alles-an-mir/401125365"
+    }, {
+      "id" : "JAJZWOkg",
+      "imgUrl" : "https://image.kurier.at/images/original/4811772/46-173342015.jpg",
+      "titleSource" : "Wie Corona die Freiwilligenarbeit verändert hat",
+      "titleTarget" : "Kako je Corona promijenila volontiranje",
+      "url" : "https://kurier.at/wirtschaft/karriere/wie-corona-die-freiwilligenarbeit-veraendert-hat/401125371"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "EBL0hETu",
-      "imgUrl" : "https://image.kurier.at/images/original/4812168/46-164897379.jpg",
-      "titleSource" : "Fitnesscenter wollen im Jänner öffnen: \"Sind vergessene Branche\"",
-      "titleTarget" : "Fitness centri žele se otvoriti u siječnju: \"Jesu li zaboravljena industrija\"",
-      "url" : "https://kurier.at/chronik/oesterreich/fitnesscenter-wollen-im-jaenner-oeffnen-sind-vergessene-branche/401125581"
-    }, {
       "id" : "k6iurU1e",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/36/crops/w=1280/781746_opener_272136_20092020_erlebnis_oesterreich_30_jahre_ein_schloss_am_woerthersee_cf_00_12_25_10.jpg?s=add2ca048eb211be8241a3085ed9d984440e5dd4",
       "titleSource" : "Schauspieler Adi Peichl verstorben",
@@ -116,32 +110,44 @@
       "titleTarget" : "Eutanazija: najviši sud priznaje \"pravo na dostojanstvenu smrt\"",
       "url" : "https://kurier.at/chronik/oesterreich/hoechstgericht-erkennt-recht-auf-menschenwuerdiges-sterben/401126784"
     }, {
-      "id" : "Z8ZabVJi",
-      "imgUrl" : "https://image.kurier.at/images/original/4571843/46-80215618.jpg",
-      "titleSource" : "Kein Bankomat: Am Land droht das Bargeld auszugehen",
-      "titleTarget" : "Nema bankomata: Zemlja će uskoro ostati bez gotovine",
-      "url" : "https://kurier.at/chronik/oesterreich/kein-bankomat-am-land-droht-das-bargeld-auszugehen/401125578"
+      "id" : "hG0O5SvC",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/51/crops/w=1280/781803_opener_272151_5.jpg?s=cb560af06887d1de3ec43c94cf7cded608a5f0d9",
+      "titleSource" : "Wildtiere in Gefahr – Appell an Freizeitsportler",
+      "titleTarget" : "Divlje životinje u opasnosti - apel rekreativcima",
+      "url" : "https://tirol.orf.at/stories/3079972/"
     }, {
-      "id" : "my64eZbS",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "2.893 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "2.893 nove infekcije koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2893-neue-corona-infektionen-in-oesterreich/401126034"
+      "id" : "orbnK1dn",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/52/70/crops/w=1280/413095_opener_135970_on-2019-12-26-14h56m07s609.jpg?s=93febb741a586f5c5b830afd2050774b4f2d8dc9",
+      "titleSource" : "Germknödel auf Skihütten nur „to go“",
+      "titleTarget" : "Knedle s kvascem u skijaškim kolibama samo „idu“",
+      "url" : "https://kaernten.orf.at/stories/3080140/"
     }, {
-      "id" : "mBQ34Cuu",
-      "imgUrl" : "https://image.kurier.at/images/original/4750005/78350011457432698_BLD_Online.jpg",
-      "titleSource" : "Kurz: Impfstoff im ersten Quartal 2021 in Österreich \"nur sehr beschränkt\" verfügbar",
-      "titleTarget" : "Ukratko: cjepivo je \"samo vrlo ograničeno\" dostupno u Austriji u prvom kvartalu 2021. godine",
-      "url" : "https://kurier.at/chronik/oesterreich/cov-ampel-seit-fuenf-wochen-rot-gastro-kultur-hotels-registrierung-kommt/401125938"
+      "id" : "BTeE1SEY",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/07/crops/w=1280/781964_opener_272207_corona_massentests_in_oberoesterreich_.jpg?s=b7e16b35936161282c8b08c9af81a8fcb2a966ec",
+      "titleSource" : "Massentests in Niederösterreich gestartet",
+      "titleTarget" : "Masovna ispitivanja započela su u Donjoj Austriji",
+      "url" : "https://noe.orf.at/stories/3080199/"
+    }, {
+      "id" : "wYryesgx",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/06/crops/w=1280/781669_opener_272106_coronavirus_oesterreicher_zwoelf_milliarden_sparer_coe.jpg?s=af9fc8c2312bbab91a1aa616d96e2b865a421cd2",
+      "titleSource" : "Österreicher sparten zwölf Mrd. zusätzlich",
+      "titleTarget" : "Austrijanci su uštedjeli dodatnih dvanaest milijardi",
+      "url" : "https://oesterreich.orf.at/stories/3080160/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "A9IqKoQE",
-      "imgUrl" : "https://image.kurier.at/images/original/4813497/46-173471823.jpg",
-      "titleSource" : "Neues Banksy-Bild mit niesender Frau aufgetaucht",
-      "titleTarget" : "Pojavila se nova slika Banksyja s kihanjem žene",
-      "url" : "https://kurier.at/kultur/neues-banksy-bild-mit-niesender-frau-aufgetaucht/401126331"
+      "id" : "XQL9lgLA",
+      "imgUrl" : "https://image.kurier.at/images/original/4814385/kurier_20201211151924_02.jpg",
+      "titleSource" : "ORF-Doku: Ischgl ist sicher, „solange keine Touristen da sind“",
+      "titleTarget" : "Dokumentarni film ORF-a: Ischgl je siguran \"sve dok nema turista\"",
+      "url" : "https://kurier.at/kultur/medien/orf-doku-ischgl-ist-sicher-solange-keine-touristen-da-sind/401126688"
+    }, {
+      "id" : "5iAYhiU7",
+      "imgUrl" : "https://image.kurier.at/images/original/4815552/46-173491738.jpg",
+      "titleSource" : "KURIER räumt bei European Newspaper Awards 16 Preise ab",
+      "titleTarget" : "KURIER osvaja 16 nagrada na Europskim novinarskim nagradama",
+      "url" : "https://kurier.at/kultur/medien/kurier-raeumt-bei-european-newspaper-awards-16-preise-ab/401127288"
     }, {
       "id" : "W5ZycFsL",
       "imgUrl" : "https://image.kurier.at/images/original/4815147/46-167433016.jpg",
@@ -149,35 +155,29 @@
       "titleTarget" : "Glumac Adi Peichl je umro",
       "url" : "https://kurier.at/kultur/schauspieler-adi-peichl-gestorben/401127108"
     }, {
-      "id" : "1Q4EvCMD",
-      "imgUrl" : "https://image.kurier.at/images/original/4813053/46-148090250.jpg",
-      "titleSource" : "\"Friday\"-Schauspieler Tommy \"Tiny\" Lister gestorben",
-      "titleTarget" : "Glumac \"petka\" Tommy \"Tiny\" Lister umro je",
-      "url" : "https://kurier.at/kultur/friday-schauspieler-tommy-tiny-lister-gestorben/401126085"
-    }, {
       "id" : "Z4VSsqzh",
       "imgUrl" : "https://image.kurier.at/images/original/4813752/46-164756130.jpg",
       "titleSource" : "Paul Austers Wunsch ist Zweisamkeit mit dem Leser",
       "titleTarget" : "Želja Paula Austera je zajedništvo s čitateljem",
       "url" : "https://kurier.at/kultur/buch/paul-austers-wunsch-ist-zweisamkeit-mit-dem-leser/401126436"
     }, {
+      "id" : "hJ3bG8lO",
+      "imgUrl" : "https://image.kurier.at/images/original/4813695/46-167308488.jpg",
+      "titleSource" : "Alternative Weltgeschichte mit den Inka, die Europa erobern",
+      "titleTarget" : "Alternativna svjetska povijest s Inkama koje osvajaju Europu",
+      "url" : "https://kurier.at/kultur/buch/alternative-weltgeschichte-mit-den-inka-die-europa-erobern/401126433"
+    }, {
+      "id" : "UbxO8IAe",
+      "imgUrl" : "https://image.kurier.at/images/original/4813698/46-168269938.jpg",
+      "titleSource" : "Buchkritik: Stephan Roiss und \"Triceratops\"",
+      "titleTarget" : "Recenzija knjige: Stephan Roiss i \"Triceratops\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-stephan-roiss-und-triceratops/401126439"
+    }, {
       "id" : "LSAP05S0",
       "imgUrl" : "https://image.kurier.at/images/original/4813950/autput_paulsjets_01.jpg",
       "titleSource" : "\"AUTPUT\": Porträt-Serie über die österreichische Musikszene",
       "titleTarget" : "\"AUTPUT\": Portretna serija o austrijskoj glazbenoj sceni",
       "url" : "https://kurier.at/kultur/autput-portraet-serie-ueber-die-oesterreichische-musikszene/401122629"
-    }, {
-      "id" : "O5yhB6tq",
-      "imgUrl" : "https://image.kurier.at/images/original/4531391/46-164762703.jpg",
-      "titleSource" : "Julia Roberts und Reese Witherspoon arbeiten bei neuer TV-Serie zusammen",
-      "titleTarget" : "Julia Roberts i Reese Witherspoon surađuju na novim TV serijama",
-      "url" : "https://kurier.at/kultur/medien/julia-roberts-und-reese-witherspoon-arbeiten-bei-neuer-tv-serie-zusammen/401126022"
-    }, {
-      "id" : "DJyjDkag",
-      "imgUrl" : "https://image.kurier.at/images/original/4790937/the-mandalorian_baby-yoda_08.jpg",
-      "titleSource" : "Disney kündigt 10 neue \"Star Wars\"-Serien an",
-      "titleTarget" : "Disney najavljuje 10 novih serija \"Ratovi zvijezda\"",
-      "url" : "https://kurier.at/kultur/disney-kuendigt-10-neue-star-wars-serien-an/401126010"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,44 +185,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "itCQbUF6",
+      "imgUrl" : "https://image.kurier.at/images/original/4815177/46-173447195.jpg",
+      "titleSource" : "Pierre Webo nach Rassismus-Debatte: \"Grenzen überschritten\"",
+      "titleTarget" : "Pierre Webo nakon rasprave o rasizmu: \"Granice pređene\"",
+      "url" : "https://kurier.at/sport/fussball/pierre-webo-nach-dem-rassismus-eklat-bei-paris-vs-basaksehir-grenzen-ueberschritten/401127132"
+    }, {
+      "id" : "VT6khgjb",
+      "titleSource" : "Glasner gewinnt Trainerduell mit Hütter",
+      "titleTarget" : "Glasner pobjeđuje u trenerskom dvoboju s Hütterom",
+      "url" : "https://sport.orf.at/stories/3070532/"
+    }, {
       "id" : "UCTSej92",
       "imgUrl" : "https://image.kurier.at/images/original/4814802/46-173494334.jpg",
       "titleSource" : "Vierter zur Halbzeit: Hayböck darf von einer WM-Medaille träumen",
       "titleTarget" : "Četvrti na poluvremenu: Hayböck može sanjati o medalji Svjetskog kupa",
       "url" : "https://kurier.at/sport/wintersport/vierter-zur-halbzeit-hayboeck-darf-von-einer-wm-medaille-traeumen/401126991"
     }, {
-      "id" : "aC2l2zLy",
-      "titleSource" : "Rückkehrer und Debütant im Mittelpunkt",
-      "titleTarget" : "Fokus na povratnicima i debitantima",
-      "url" : "https://sport.orf.at/stories/3070516/"
+      "id" : "YgEeZmHO",
+      "titleSource" : "Webo nach Rassismusvorfall: „Grenzen überschritten“",
+      "titleTarget" : "Webo nakon incidenta s rasizmom: \"granice pređene\"",
+      "url" : "https://sport.orf.at/stories/3070520/"
     }, {
-      "id" : "iwSpTfLg",
-      "imgUrl" : "https://image.kurier.at/images/original/4812792/46-173477231.jpg",
-      "titleSource" : "Nach dem EL-Aus von Rapid: \"Das war wie ein Stich ins Herz\"",
-      "titleTarget" : "Nakon eliminacije Rapida: \"Bilo je to poput uboda u srce\"",
-      "url" : "https://kurier.at/sport/fussball/nach-dem-aus-von-rapid-gegen-molde-in-der-europa-league-das-war-wie-ein-stich-ins-herz/401125854"
+      "id" : "tYYYzaXO",
+      "imgUrl" : "https://image.kurier.at/images/original/4293047/46-159682298.jpg",
+      "titleSource" : "Lizenzen in der Bundesliga: \"Wir wünschen der Austria alles Gute\"",
+      "titleTarget" : "Licence u Bundesligi: \"Austriji želimo sve najbolje\"",
+      "url" : "https://kurier.at/sport/fussball/lizenzen-in-der-bundesliga-wir-wuenschen-der-austria-alles-gute/401127045"
     }, {
-      "id" : "BfAqJyuB",
-      "titleSource" : "Lafnitz will nicht in Bundesliga aufsteigen",
-      "titleTarget" : "Lafnitz ne želi promaknuti u Bundesligu",
-      "url" : "https://sport.orf.at/stories/3070499/"
+      "id" : "SpxdFO76",
+      "imgUrl" : "https://image.kurier.at/images/original/4815633/46-173428309.jpg",
+      "titleSource" : "\"Stress\" mit Messi: \"Können einige Teamkollegen nicht ertragen\"",
+      "titleTarget" : "'Stres' s Mesijem: 'Ne podnosim neke suigrače'",
+      "url" : "https://kurier.at/sport/fussball/unzue-ueber-stress-mit-lionel-messi-bei-barcelona-koennen-einige-teamkollegen-nicht-ertragen/401127300"
     }, {
-      "id" : "P0EFbewz",
-      "imgUrl" : "https://image.kurier.at/images/original/4813320/46-172288643.jpg",
-      "titleSource" : "Zweitliga-Leader Lafnitz will nicht in die Bundesliga aufsteigen",
-      "titleTarget" : "Čelnik drugoligaša Lafnitz ne želi se plasirati u Bundesligu",
-      "url" : "https://kurier.at/sport/fussball/fussball-zweitliga-leader-lafnitz-will-nicht-in-die-bundesliga-aufsteigen/401126229"
-    }, {
-      "id" : "sVrRzvTc",
-      "imgUrl" : "https://image.kurier.at/images/original/4813125/46-168235369.jpg",
-      "titleSource" : "Vergewaltigungsurteil bestätigt: 9 Jahre Haft für Robinho ",
-      "titleTarget" : "Potvrđena osuđujuća presuda za silovanje: Robinho je bio u zatvoru 9 godina",
-      "url" : "https://kurier.at/sport/fussball/vergewaltigungsurteil-bestaetigt-9-jahre-haft-fuer-ex-fussball-star-robinho/401126094"
-    }, {
-      "id" : "pCYEbYXk",
-      "titleSource" : "Rahmenterminplan für 2021/22 beschlossen",
-      "titleTarget" : "Odlučen okvirni raspored za 2021/22",
-      "url" : "https://sport.orf.at/stories/3070536/"
+      "id" : "E4eMBxw7",
+      "titleSource" : "Spielstände der elften Runde ab 17.00 Uhr",
+      "titleTarget" : "Rezultati jedanaestog kola od 17 sati.",
+      "url" : "https://sport.orf.at/stories/3070537/"
     } ]
   } ],
   "country" : "austria",
