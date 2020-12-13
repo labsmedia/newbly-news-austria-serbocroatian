@@ -2,56 +2,44 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "lYgVuSSq",
-      "imgUrl" : "https://image.kurier.at/images/original/4816197/46-173504726.jpg",
-      "titleSource" : "Gesundheitsministerium rechnet mit Impfstart im Jänner",
-      "titleTarget" : "Ministarstvo zdravlja očekuje da cijepljenje započne u siječnju",
-      "url" : "https://kurier.at/politik/inland/gesundheitsministerium-rechnet-mit-impfstart-im-jaenner/401127480"
-    }, {
       "id" : "9TV1cSEp",
       "imgUrl" : "https://image.kurier.at/images/original/4817529/46-173515042.jpg",
       "titleSource" : "Neue Umfrage: Nur 17 Prozent wollen sich \"ganz sicher\" impfen lassen",
       "titleTarget" : "Novo istraživanje: samo 17 posto želi se cijepiti \"sigurno\"",
       "url" : "https://kurier.at/politik/inland/neue-umfrage-nur-17-prozent-wollen-sich-ganz-sicher-impfen-lassen/401127897"
     }, {
-      "id" : "PDz0A8H4",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/b/3/5910707/D50D568F-4F76-4DE6-84CB-5D735475B576_v0_l.jpg",
-      "titleSource" : "Sterbehilfe: Ärzte und Kirche kritisieren VfGH-Urteil scharf",
-      "titleTarget" : "Eutanazija: Liječnici i crkva oštro kritiziraju presudu VfGH",
-      "url" : "https://www.diepresse.com/5910707/Verfassung_Sterbehilfe_Aerzte-und-Kirche-kritisieren-VfGHUrteil?from=rss"
+      "id" : "cJVdtrmK",
+      "imgUrl" : "https://image.kurier.at/images/original/4817940/46-173272400.jpg",
+      "titleSource" : "Rendi-Wagner schließt Rot-Blau und Hofburg-Kandidatur aus",
+      "titleTarget" : "Rendi-Wagner isključuje crveno-plavu i kandidaturu za Hofburg",
+      "url" : "https://kurier.at/politik/inland/spoe-chefin-rendi-wagner-schliesst-rot-blau-und-hofburg-kandidatur-aus/401128050"
     }, {
-      "id" : "MOMgWXHp",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/6/5910694/BD51D031-479E-4862-98A4-586177C5D6EF_v0_l.jpg",
-      "titleSource" : "Massentests: \"Auch Nicht-Angemeldete sind willkommen\"",
-      "titleTarget" : "Masovni testovi: \"Čak i oni koji nisu registrirani su dobrodošli\"",
-      "url" : "https://www.diepresse.com/5910694/NOeSteiermark_Massentests_Auch-NichtAngemeldete-sind-willkommen?from=rss"
+      "id" : "8puNhhRV",
+      "imgUrl" : "https://image.kurier.at/images/original/4817763/46-173271334.jpg",
+      "titleSource" : "Rendi-Wagner: Österreich vor \"einer der historisch größten Impfaktionen\"",
+      "titleTarget" : "Rendi-Wagner: Austrija prije \"jedne od povijesno najvećih kampanja cijepljenja\"",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-oesterreich-vor-einer-der-historisch-groessten-impfaktionen/401127990"
     }, {
-      "id" : "vaofIZ1W",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/9/4/5910676/99BE64A3-A660-4CEC-8C8F-EF301823D3FA_v0_l.jpg",
-      "titleSource" : "Tirol bietet ab 19. Dezember dauerhaft kostenlose Corona-Tests an",
-      "titleTarget" : "Od 19. prosinca Tirol će ponuditi trajne besplatne testove na koronu",
-      "url" : "https://www.diepresse.com/5910676/Epidemie_Tirol-bietet-ab-19-Dezember-dauerhaft-kostenlose?from=rss"
-    }, {
-      "id" : "v7DvBQfz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/8/3/5910659/4191B8F2-5A75-4CE5-BF8B-4038D5464267_v0_l.jpg",
-      "titleSource" : "Linzer Stadtchef nennt Silvester-Einschränkungen \"realitätsfern\"",
-      "titleTarget" : "Gradski pročelnik Linza nazvao je ograničenja uoči Nove godine \"nerealnim\"",
-      "url" : "https://www.diepresse.com/5910659/CoronaMassnahmen_Linzer-Stadtchef-nennt-SilvesterEinschraenkungen?from=rss"
-    }, {
-      "id" : "1icqHs4q",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/8/2/5910658/2EC3CF2A-BB6A-46C4-90B5-3D8051EF4B9F_v0_l.jpg",
-      "titleSource" : "Rechtsextreme Österreicher horteten Waffen für deutsche Miliz",
-      "titleTarget" : "Desničarski Austrijanci gomilali su oružje za njemačku miliciju",
-      "url" : "https://www.diepresse.com/5910658/Festnahmen_Rechtsextreme-Oesterreicher-horteten-Waffen-fuer?from=rss"
+      "id" : "YjGMElnI",
+      "imgUrl" : "https://image.kurier.at/images/original/4818465/_dsc0458.jpg",
+      "titleSource" : "Österreich feiert 65 Jahre UNO-Mitgliedschaft",
+      "titleTarget" : "Austrija slavi 65 godina članstva u UN-u",
+      "url" : "https://kurier.at/politik/inland/oesterreich-feiert-65-jahre-uno-mitgliedschaft/401128176"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "uoWbuPLH",
-      "imgUrl" : "https://image.kurier.at/images/original/4816812/46-173508234.jpg",
-      "titleSource" : "Einkaufssamstag-Bilanz: \"Frequenz gut, Umsätze weniger\"",
-      "titleTarget" : "Saldo za kupovinu u subotu: \"Frekvencija dobra, prodaja manja\"",
-      "url" : "https://kurier.at/wirtschaft/einkaufssamstag-bilanz-frequenz-gut-umsaetze-weniger/401127483"
+      "id" : "sR2Zq7Og",
+      "imgUrl" : "https://image.kurier.at/images/original/4816596/46-173456527.jpg",
+      "titleSource" : "Diskonter Action auf Expansionskurs in Österreich",
+      "titleTarget" : "Akcija popusta na tečaj proširenja u Austriji",
+      "url" : "https://kurier.at/wirtschaft/diskonter-action-auf-expansionskurs-in-oesterreich/401127600"
+    }, {
+      "id" : "xXj4PCeW",
+      "imgUrl" : "https://image.kurier.at/images/original/4708527/46-167723301.jpg",
+      "titleSource" : "OGH stellt klar: Leiharbeiter gehören zur Belegschaft",
+      "titleTarget" : "OGH jasno kaže: Privremeni radnici dio su radne snage",
+      "url" : "https://kurier.at/wirtschaft/ogh-stellt-klar-leiharbeiter-gehoeren-zur-belegschaft/401128086"
     }, {
       "id" : "vsA6xN7n",
       "imgUrl" : "https://image.kurier.at/images/original/4809591/46-173400195.jpg",
@@ -59,23 +47,29 @@
       "titleTarget" : "Održivi Božić",
       "url" : "https://kurier.at/wirtschaft/immobiz/nachhaltiges-weihnachten/401125524"
     }, {
-      "id" : "sR2Zq7Og",
-      "imgUrl" : "https://image.kurier.at/images/original/4816596/46-173456527.jpg",
-      "titleSource" : "Diskonter Action auf Expansionskurs in Österreich",
-      "titleTarget" : "Akcija popusta na tečaj proširenja u Austriji",
-      "url" : "https://kurier.at/wirtschaft/diskonter-action-auf-expansionskurs-in-oesterreich/401127600"
+      "id" : "ubiQ725K",
+      "imgUrl" : "https://image.kurier.at/images/original/4731756/78370011357261432_BLD_Online.jpg",
+      "titleSource" : "Bahnbrechend, aber kompliziert: So funktioniert die Blockchain",
+      "titleTarget" : "Preokretno, ali komplicirano: tako funkcionira blockchain",
+      "url" : "https://kurier.at/wirtschaft/bahnbrechend-aber-kompliziert-so-funktioniert-die-blockchain/401127558"
     }, {
-      "id" : "MhkHEDZI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/1/1/c/5910812/75D89032-0C7A-44AC-A957-72EADBA30A9C_v0_l.jpg",
-      "titleSource" : "UN-Generalsekretär will weltweiten \"Klimanotfall\" ausrufen",
-      "titleTarget" : "Glavni tajnik UN-a želi proglasiti globalnu \"klimatsku krizu\"",
-      "url" : "https://www.diepresse.com/5910812/CO2Neutralitaet_UNGeneralsekretaer-will-weltweiten-Klimanotfall?from=rss"
+      "id" : "BX5J8PCj",
+      "imgUrl" : "https://image.kurier.at/images/original/4817376/78370011357946622_BLD_Online.jpg",
+      "titleSource" : "Spionagevorwürfe gegen Huawei in Deutschland",
+      "titleTarget" : "Optužbe za špijunažu protiv Huaweija u Njemačkoj",
+      "url" : "https://kurier.at/wirtschaft/spionagevorwuerfe-gegen-huawei-in-deutschland/401128143"
     }, {
-      "id" : "CytEQYSP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/d/f/5910751/71AAC67F-1D5B-4EAF-944A-2EE83F457BD8_v0_l.jpg",
-      "titleSource" : "Nachhaltigkeit - der neue Megatrend der Börse",
-      "titleTarget" : "Održivost - novi megatrend na burzi",
-      "url" : "https://www.diepresse.com/5910751/Nachhaltigkeit-an-der-Boerse_Nachhaltigkeit-der-neue-Megatrend?from=rss"
+      "id" : "Knesqsdy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/e/b/5911019/FILE-PHOTO-The-headquarters-of-Wirecard-AG-an-independent-provider-of-outsourcing-and-white-label-solutions-for-electronic-payment-transactions-is-seen-in-Aschheim_1607875023279261.jpg",
+      "titleSource" : "2020 ein extrem mieses Jahr für Leerverkäufer",
+      "titleTarget" : "2020. godina je izuzetno loša godina za prodavatelje kratkih proizvoda",
+      "url" : "https://www.diepresse.com/5911019/Performance_2020-ein-extrem-mieses-Jahr-fuer-Leerverkaeufer?from=rss"
+    }, {
+      "id" : "kh7xRvOY",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/8/2/5910914/BCE02358-5BF3-4474-8651-A3EAD5A54209_1607855286972626.jpg",
+      "titleSource" : "Raiffeisen und Lenzing in der Umweltelite",
+      "titleTarget" : "Raiffeisen i Lenzing u ekološkoj eliti",
+      "url" : "https://www.diepresse.com/5910914/AListe_Raiffeisen-und-Lenzing-in-der-Umweltelite?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -92,44 +86,62 @@
       "titleTarget" : "Buka motocikala ponovno je pitanje državnog parlamenta",
       "url" : "https://tirol.orf.at/stories/3080318/"
     }, {
-      "id" : "6ew3xgYR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/33/crops/w=1280/782594_opener_272433_herberge3.ashx.jpg?s=1562388e4e2d40b6cfc4e8a5de9271adec6e7829",
-      "titleSource" : "„Herbergssuche“: Mahnwache für Menschen in Moria",
-      "titleTarget" : "\"Pretraga hostela\": bdjenje za ljude u Moriji",
-      "url" : "https://vorarlberg.orf.at/stories/3080309/"
+      "id" : "UYOQXxVS",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/16/crops/w=1280/782827_opener_272516_zigarettenverpackungsanlage_50712280063_o.jpg?s=6778c6aa93685d2396c659c3cd65aa47d4c8e5a5",
+      "titleSource" : "Illegale Zigarettenfabrik ausgehoben",
+      "titleTarget" : "Iskopana ilegalna tvornica cigareta",
+      "url" : "https://wien.orf.at/stories/3080332/"
     }, {
-      "id" : "rJ8wxnUl",
-      "imgUrl" : "https://image.kurier.at/images/original/4815699/46-173505898.jpg",
-      "titleSource" : "Österreichweite 7-Tages-Inzidenz: Das sind die Bezirke mit den meisten Fällen",
-      "titleTarget" : "7-dnevna incidencija za čitavu Austriju: Ovo su okruga s najviše slučajeva",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreichweite-7-tages-inzidenz-das-sind-die-bezirke-mit-den-meisten-faellen/401127435"
+      "id" : "Nsqpuss3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/35/54/crops/w=1280/272026_opener_82254_cannabis_toepfe.jpg?s=64045a3c54cb18f8f72d8dea664cc1bb6669f85a",
+      "titleSource" : "Pensionisten zum Drogenanbau angestiftet",
+      "titleTarget" : "Poticali umirovljenike na uzgoj droge",
+      "url" : "https://kaernten.orf.at/stories/3080375/"
     }, {
-      "id" : "IEvhe5JC",
-      "imgUrl" : "https://image.kurier.at/images/original/4816359/46-173345231.jpg",
-      "titleSource" : "Tirol bietet künftig dauerhaft kostenlose Antigen-Tests an",
-      "titleTarget" : "U budućnosti će Tirol trajno nuditi besplatne testove antigena",
-      "url" : "https://kurier.at/chronik/oesterreich/tirol-bietet-kuenftig-dauerhaft-kostenlose-antigen-tests-an/401127522"
+      "id" : "jZT1cFmL",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/14/crops/w=1280/782523_opener_272414_zug1.ashx.jpg?s=28eec5fd74bdaafe76c043387f8e051d243b7458",
+      "titleSource" : "Neuer Fahrplan: Schnellere Verbindungen und mehr Züge",
+      "titleTarget" : "Novi vozni red: brže veze i više vlakova",
+      "url" : "https://vorarlberg.orf.at/stories/3080285/"
     }, {
-      "id" : "fSmP7JfX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/49/crops/w=1280/782629_opener_272449_image_3.jpg?s=788a64790b09fe9b3114e9ed1e7ce58fbd9952cb",
-      "titleSource" : "CoV-Massentests: 0,4 bzw. 0,27 Prozent positiv",
-      "titleTarget" : "Testovi mase CoV: 0,4 ili 0,27 posto pozitivno",
-      "url" : "https://salzburg.orf.at/stories/3080308/"
+      "id" : "0x0u8eJ4",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.641 Neuinfektionen in Österreich",
+      "titleTarget" : "2.641 nova infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2641-neuinfektionen-in-oesterreich/401127915"
     }, {
-      "id" : "57kRciW9",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/57/crops/w=1280/779816_opener_271457_k2.jpg?s=5a2701d4869645212dc54ab1b3aa86cd67eb56e1",
-      "titleSource" : "Kunstszene in der Warteschleife",
-      "titleTarget" : "Umjetnička scena na čekanju",
-      "url" : "https://burgenland.orf.at/stories/3079886/"
+      "id" : "Hocngi9e",
+      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
+      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
+      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
+      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "Lp1JNiAc",
-      "imgUrl" : "https://image.kurier.at/images/original/4816848/46-147062500.jpg",
-      "titleSource" : "Christoph Waltz soll in TV-Miniserie Michail Gorbatschow spielen",
-      "titleTarget" : "Christoph Waltz igra u TV miniseriji Michail Gorbatschow",
-      "url" : "https://kurier.at/kultur/christoph-waltz-soll-in-tv-miniserie-michail-gorbatschow-spielen/401127648"
+      "id" : "PYQjRGPc",
+      "imgUrl" : "https://image.kurier.at/images/original/4724799/46-166589735.jpg",
+      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
+      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
+      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401127102"
+    }, {
+      "id" : "lQnROh05",
+      "imgUrl" : "https://image.kurier.at/images/original/4818372/46-164252802.jpg",
+      "titleSource" : "Kunsthistorisches Museum: Neue Direktoren gesucht",
+      "titleTarget" : "Kunsthistorisches Museum: Traže se novi redatelji",
+      "url" : "https://kurier.at/kultur/kunsthistorisches-museum-neue-direktoren-gesucht/401128188"
+    }, {
+      "id" : "GwB8tQ2K",
+      "imgUrl" : "https://image.kurier.at/images/original/4817406/81452305857947814_BLD_Online.jpg",
+      "titleSource" : "Country-Star Charley Pride mit 86 an Folgen von Covid-19 gestorben",
+      "titleTarget" : "Country zvijezda Charley Pride umro je u 86. godini od posljedica Covid-19",
+      "url" : "https://kurier.at/kultur/country-star-charley-pride-mit-86-an-folgen-von-covid-19-gestorben/401127921"
+    }, {
+      "id" : "9bDOyfTg",
+      "imgUrl" : "https://image.kurier.at/images/original/4817340/78452305857944040_BLD_Online.jpg",
+      "titleSource" : "Europäischer Filmpreis geht an \"Der Rausch\"",
+      "titleTarget" : "Europska filmska nagrada pripala je filmu \"Der Rausch\"",
+      "url" : "https://kurier.at/kultur/europaeischer-filmpreis-geht-an-der-rausch/401127927"
     }, {
       "id" : "fVC0AIMu",
       "imgUrl" : "https://image.kurier.at/images/original/4815258/46-173487764.jpg",
@@ -143,29 +155,11 @@
       "titleTarget" : "Vinterbergov \"Der Rausch\": Najbolji europski film godine",
       "url" : "https://kurier.at/kultur/vinterbergs-der-rausch-bester-europaeischer-film-des-jahres/401127768"
     }, {
-      "id" : "akYUCGFq",
-      "imgUrl" : "https://image.kurier.at/images/original/4815669/46-173484053.jpg",
-      "titleSource" : "ORF2-Chef Alexander Hofer: \"Wenn was passiert, sind wir da\"",
-      "titleTarget" : "Šef ORF2-a Alexander Hofer: \"Ako se nešto dogodi, bit ćemo tamo\"",
-      "url" : "https://kurier.at/kultur/medien/orf2-chef-alexander-hofer-wenn-was-passiert-sind-wir-da/401127381"
-    }, {
-      "id" : "Z6mx2jDn",
-      "imgUrl" : "https://image.kurier.at/images/original/4422386/11301809.jpg",
-      "titleSource" : "Neujahrskonzert 2021 - Muti: \"Ohne Publikum fast pervers\"",
-      "titleTarget" : "Novogodišnji koncert 2021. - Muti: \"Gotovo perverzno bez publike\"",
-      "url" : "https://kurier.at/kultur/neujahrskonzert-2021-muti-ohne-publikum-fast-pervers/401127405"
-    }, {
-      "id" : "LKzWwXTu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/7/3/5910899/53A1C9E4-B608-4389-BCB5-D2C97A9660A7_v0_h.jpg",
-      "titleSource" : "\"Die Welt braucht Schönheit\": Papst stellt sich hinter Kunstschaffenden",
-      "titleTarget" : "\"Svijet treba ljepotu\": Papa stoji iza umjetnika",
-      "url" : "https://www.diepresse.com/5910899/Coronavirus_Die-Welt-braucht-Schoenheit_Papst-stellt-sich-hinter?from=rss"
-    }, {
-      "id" : "GwB8tQ2K",
-      "imgUrl" : "https://image.kurier.at/images/original/4817406/81452305857947814_BLD_Online.jpg",
-      "titleSource" : "Country-Star Charley Pride mit 86 an Folgen von Covid-19 gestorben",
-      "titleTarget" : "Country zvijezda Charley Pride umro je u 86. godini od posljedica Covid-19",
-      "url" : "https://kurier.at/kultur/country-star-charley-pride-mit-86-an-folgen-von-covid-19-gestorben/401127921"
+      "id" : "iIXw8PEM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/c/7/5910983/FILES-SKOREA-CINEMA-KIM-OBIT_1607870111073870.jpg",
+      "titleSource" : "Strittig bis zuletzt: Kim Ki-duk an Corona gestorben",
+      "titleTarget" : "Do kraja kontroverzno: Kim Ki-duk umrla je od Corone",
+      "url" : "https://www.diepresse.com/5910983/Nachruf_Strittig-bis-zuletzt_Kim-Kiduk-an-Corona-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -173,11 +167,20 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "FHbPgewI",
-      "imgUrl" : "https://image.kurier.at/images/original/4815864/46-164359649.jpg",
-      "titleSource" : "WADA will Corona-Impfstoffe auf verbotene Substanzen prüfen",
-      "titleTarget" : "WADA želi provjeriti koronska cjepiva na zabranjene tvari",
-      "url" : "https://kurier.at/sport/wada-will-corona-impfstoffe-auf-verbotene-substanzen-pruefen/401127414"
+      "id" : "HSnErNr8",
+      "titleSource" : "Cater entreißt Striedinger ersten Sieg",
+      "titleTarget" : "Cater otme prvu pobjedu Striedingera",
+      "url" : "https://sport.orf.at/stories/3070599/"
+    }, {
+      "id" : "mRuYY4bL",
+      "titleSource" : "Zweiter Damen-RTL steigt erst am Montag",
+      "titleTarget" : "Drugi ženski RTL porast će tek u ponedjeljak",
+      "url" : "https://sport.orf.at/stories/3070596/"
+    }, {
+      "id" : "V2jdhG5l",
+      "titleSource" : "Einbruch in Rossis Haus am Tag seiner Trauerfeier",
+      "titleTarget" : "Provala u Rossijevu kuću na dan njegova sprovoda",
+      "url" : "https://sport.orf.at/stories/3070587/"
     }, {
       "id" : "OxmjpQ6v",
       "imgUrl" : "https://image.kurier.at/images/original/4817271/46-149125360.jpg",
@@ -185,31 +188,21 @@
       "titleTarget" : "Zahvaljujući Loneyu, Capitals slave pobjedu od 3-2 u Bolzanu",
       "url" : "https://kurier.at/sport/wintersport/icehl-dank-loney-feiern-die-capitals-einen-32-erfolg-in-bozen/401127729"
     }, {
-      "id" : "mRuYY4bL",
-      "titleSource" : "Zweiter Damen-RTL steigt erst am Montag",
-      "titleTarget" : "Drugi ženski RTL porast će tek u ponedjeljak",
-      "url" : "https://sport.orf.at/stories/3070596/"
+      "id" : "ki3SbiXv",
+      "titleSource" : "Höck erobert historisches Silber",
+      "titleTarget" : "Höck osvaja povijesno srebro",
+      "url" : "https://sport.orf.at/stories/3070618/"
     }, {
-      "id" : "FW5WzopG",
-      "titleSource" : "Deftige Heimpleite für Dortmunder",
-      "titleTarget" : "Solidan bankrot kuće za Dortmund",
-      "url" : "https://sport.orf.at/stories/3070568/"
+      "id" : "Jxz01Z99",
+      "imgUrl" : "https://image.kurier.at/images/original/4818153/46-173528493.jpg",
+      "titleSource" : "Rot-weiß-rote Sportgeschichte: Turner Vinzenz Höck holt EM-Silber",
+      "titleTarget" : "Crveno-bijelo-crvena sportska povijest: Turner Vinzenz Höck osvojio je EM srebro",
+      "url" : "https://kurier.at/sport/vinzenz-hoeck-holt-an-den-ringen-silber-bei-der-turn-em/401128122"
     }, {
-      "id" : "nozs98IU",
-      "titleSource" : "Sturm behauptet Platz im Spitzenfeld",
-      "titleTarget" : "Sturm tvrdi da je mjesto u gornjem polju",
-      "url" : "https://sport.orf.at/stories/3070572/"
-    }, {
-      "id" : "VxrlDHpA",
-      "titleSource" : "Karl bei Weltcup-Auftakt in Cortina Dritter",
-      "titleTarget" : "Karl treći na otvaranju Svjetskog kupa u Cortini",
-      "url" : "https://sport.orf.at/stories/3070575/"
-    }, {
-      "id" : "DDXVJCSV",
-      "imgUrl" : "https://image.kurier.at/images/original/4815912/46-162763376.jpg",
-      "titleSource" : "Chaos bei der Skiflug-WM: Trainerrücktritt zwischen den Durchgängen",
-      "titleTarget" : "Kaos u Svjetskom kupu u skijaškim letovima: trener daje otkaz između rundi",
-      "url" : "https://kurier.at/sport/wintersport/chaos-bei-der-skiflug-wm-trainerruecktritt-zwischen-den-durchgaengen/401127450"
+      "id" : "mTn33MX7",
+      "titleSource" : "Dortmund trennt sich von Coach Favre",
+      "titleTarget" : "Dortmund se odvaja od trenera Favrea",
+      "url" : "https://sport.orf.at/stories/3070619/"
     } ]
   } ],
   "country" : "austria",
