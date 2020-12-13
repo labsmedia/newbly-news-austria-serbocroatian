@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "nfNtsj0C",
-      "imgUrl" : "https://image.kurier.at/images/original/4815642/46-173505901.jpg",
-      "titleSource" : "Verpflichtende Corona-Tests für körpernahe Berufsgruppen im neuen Jahr",
-      "titleTarget" : "Obavezni testovi na koronu za profesionalne skupine koje grle tijelo u novoj godini",
-      "url" : "https://kurier.at/politik/inland/verpflichtende-corona-tests-fuer-koerpernahe-berufsgruppen-im-neuen-jahr/401127303"
-    }, {
       "id" : "lYgVuSSq",
       "imgUrl" : "https://image.kurier.at/images/original/4816197/46-173504726.jpg",
       "titleSource" : "Gesundheitsministerium rechnet mit Impfstart im Jänner",
       "titleTarget" : "Ministarstvo zdravlja očekuje da cijepljenje započne u siječnju",
       "url" : "https://kurier.at/politik/inland/gesundheitsministerium-rechnet-mit-impfstart-im-jaenner/401127480"
+    }, {
+      "id" : "9TV1cSEp",
+      "imgUrl" : "https://image.kurier.at/images/original/4817529/46-173515042.jpg",
+      "titleSource" : "Neue Umfrage: Nur 17 Prozent wollen sich \"ganz sicher\" impfen lassen",
+      "titleTarget" : "Novo istraživanje: samo 17 posto želi se cijepiti \"sigurno\"",
+      "url" : "https://kurier.at/politik/inland/neue-umfrage-nur-17-prozent-wollen-sich-ganz-sicher-impfen-lassen/401127897"
     }, {
       "id" : "PDz0A8H4",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/b/3/5910707/D50D568F-4F76-4DE6-84CB-5D735475B576_v0_l.jpg",
@@ -47,68 +47,50 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "p3SMqnY2",
-      "imgUrl" : "https://image.kurier.at/images/original/3265535/81650355546989406_BLD_Online.jpg",
-      "titleSource" : "Bald kostenlose WC und Duschen für Lkw-Fahrer",
-      "titleTarget" : "Uskoro besplatni toaleti i tuševi za vozače kamiona",
-      "url" : "https://kurier.at/wirtschaft/bald-kostenlose-wc-und-duschen-fuer-lkw-fahrer/401127348"
-    }, {
-      "id" : "wdpmaroL",
-      "imgUrl" : "https://image.kurier.at/images/original/4811769/46-173405014.jpg",
-      "titleSource" : "Alleinerziehende Unternehmerin: „Es hängt alles an mir“",
-      "titleTarget" : "Samostalni poduzetnik: \"Sve ovisi o meni\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/alleinerziehende-unternehmerin-es-haengt-alles-an-mir/401125365"
-    }, {
-      "id" : "okHxeRBg",
-      "imgUrl" : "https://image.kurier.at/images/original/4811313/46-168954127.jpg",
-      "titleSource" : "Trotzdem positiv",
-      "titleTarget" : "Još uvijek pozitivno",
-      "url" : "https://kurier.at/wirtschaft/karriere/erfolge-trotzdem-positiv/401125254"
-    }, {
       "id" : "uoWbuPLH",
       "imgUrl" : "https://image.kurier.at/images/original/4816812/46-173508234.jpg",
       "titleSource" : "Einkaufssamstag-Bilanz: \"Frequenz gut, Umsätze weniger\"",
       "titleTarget" : "Saldo za kupovinu u subotu: \"Frekvencija dobra, prodaja manja\"",
       "url" : "https://kurier.at/wirtschaft/einkaufssamstag-bilanz-frequenz-gut-umsaetze-weniger/401127483"
     }, {
-      "id" : "0cRMoo1w",
-      "imgUrl" : "https://image.kurier.at/images/original/4814814/46-173462085.jpg",
-      "titleSource" : "Kika/Leiner-Chef: „Wir stellen 200 neue Leute ein“",
-      "titleTarget" : "Šefica Kike / Leinera: \"Zapošljavamo 200 novih ljudi\"",
-      "url" : "https://kurier.at/wirtschaft/kikaleiner-chef-wir-stellen-200-neue-leute-ein/401126958"
+      "id" : "vsA6xN7n",
+      "imgUrl" : "https://image.kurier.at/images/original/4809591/46-173400195.jpg",
+      "titleSource" : "Nachhaltiges Weihnachten",
+      "titleTarget" : "Održivi Božić",
+      "url" : "https://kurier.at/wirtschaft/immobiz/nachhaltiges-weihnachten/401125524"
     }, {
-      "id" : "JAJZWOkg",
-      "imgUrl" : "https://image.kurier.at/images/original/4811772/46-173342015.jpg",
-      "titleSource" : "Wie Corona die Freiwilligenarbeit verändert hat",
-      "titleTarget" : "Kako je Corona promijenila volontiranje",
-      "url" : "https://kurier.at/wirtschaft/karriere/wie-corona-die-freiwilligenarbeit-veraendert-hat/401125371"
+      "id" : "sR2Zq7Og",
+      "imgUrl" : "https://image.kurier.at/images/original/4816596/46-173456527.jpg",
+      "titleSource" : "Diskonter Action auf Expansionskurs in Österreich",
+      "titleTarget" : "Akcija popusta na tečaj proširenja u Austriji",
+      "url" : "https://kurier.at/wirtschaft/diskonter-action-auf-expansionskurs-in-oesterreich/401127600"
     }, {
-      "id" : "plonRoWk",
-      "imgUrl" : "https://image.kurier.at/images/original/4811820/46-173437499.jpg",
-      "titleSource" : "Gut bestellt: Burritos und Bowls für zu Hause",
-      "titleTarget" : "Dobro naređeno: burito i zdjele za ponijeti kući",
-      "url" : "https://kurier.at/wirtschaft/karriere/gut-bestellt-burritos-und-bowls-fuer-zu-hause/401125407"
+      "id" : "MhkHEDZI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/1/c/5910812/75D89032-0C7A-44AC-A957-72EADBA30A9C_v0_l.jpg",
+      "titleSource" : "UN-Generalsekretär will weltweiten \"Klimanotfall\" ausrufen",
+      "titleTarget" : "Glavni tajnik UN-a želi proglasiti globalnu \"klimatsku krizu\"",
+      "url" : "https://www.diepresse.com/5910812/CO2Neutralitaet_UNGeneralsekretaer-will-weltweiten-Klimanotfall?from=rss"
+    }, {
+      "id" : "CytEQYSP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/d/f/5910751/71AAC67F-1D5B-4EAF-944A-2EE83F457BD8_v0_l.jpg",
+      "titleSource" : "Nachhaltigkeit - der neue Megatrend der Börse",
+      "titleTarget" : "Održivost - novi megatrend na burzi",
+      "url" : "https://www.diepresse.com/5910751/Nachhaltigkeit-an-der-Boerse_Nachhaltigkeit-der-neue-Megatrend?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Mr518E16",
-      "imgUrl" : "https://image.kurier.at/images/original/4815636/46-173505902.jpg",
-      "titleSource" : "3.241 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "3.241 nova infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/3241-neue-corona-infektionen-in-oesterreich/401127378"
+      "id" : "ley6hB5d",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/81/crops/w=1280/778460_opener_270981_apacoronavirus_sitzung_des_steirischen_landtags_schuetzenhoefer_.jpg?s=0738a66155753798296771b0e78da5aa4711609d",
+      "titleSource" : "Schützenhöfer: Impfpflicht und mehr Maske",
+      "titleTarget" : "Schützenhöfer: obavezno cijepljenje i više maski",
+      "url" : "https://steiermark.orf.at/stories/3080287/"
     }, {
-      "id" : "rJ8wxnUl",
-      "imgUrl" : "https://image.kurier.at/images/original/4815699/46-173505898.jpg",
-      "titleSource" : "Österreichweite 7-Tages-Inzidenz: Das sind die Bezirke mit den meisten Fällen",
-      "titleTarget" : "7-dnevna incidencija za čitavu Austriju: Ovo su okruga s najviše slučajeva",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreichweite-7-tages-inzidenz-das-sind-die-bezirke-mit-den-meisten-faellen/401127435"
-    }, {
-      "id" : "l8axag8p",
-      "imgUrl" : "https://image.kurier.at/images/original/4817331/46-173505883.jpg",
-      "titleSource" : "Verschärfte Feiertags-Maßnahmen, Impfungen in USA \"ab Montag\"",
-      "titleTarget" : "Strože blagdanske mjere i ponovno masovna ispitivanja u siječnju; 3.241 nova infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-impfstoff-von-biontechpfizer-in-usa-zugelassen-studie-masken-verringern-infektionsrisiko-um/401127249"
+      "id" : "TzbWLbQM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/23/19/crops/w=1280/582689_opener_198819_2.jpg?s=46da6bd7b1e9e4ba27e0e85da2f635e241d2a0f1",
+      "titleSource" : "Motorradlärm ist wieder Thema im Landtag",
+      "titleTarget" : "Buka motocikala ponovno je pitanje državnog parlamenta",
+      "url" : "https://tirol.orf.at/stories/3080318/"
     }, {
       "id" : "6ew3xgYR",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/33/crops/w=1280/782594_opener_272433_herberge3.ashx.jpg?s=1562388e4e2d40b6cfc4e8a5de9271adec6e7829",
@@ -116,56 +98,50 @@
       "titleTarget" : "\"Pretraga hostela\": bdjenje za ljude u Moriji",
       "url" : "https://vorarlberg.orf.at/stories/3080309/"
     }, {
-      "id" : "OaVzqT1a",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/84/crops/w=1280/778183_opener_270884_allemannenschule.jpg?s=36966c61d748c74cb7c9da91cab141ad212be244",
-      "titleSource" : "Museum verwüstet: Zwei Verdächtige ausgeforscht",
-      "titleTarget" : "Muzej devastiran: istražena dvojica osumnjičenika",
-      "url" : "https://vorarlberg.orf.at/stories/3080275/"
+      "id" : "rJ8wxnUl",
+      "imgUrl" : "https://image.kurier.at/images/original/4815699/46-173505898.jpg",
+      "titleSource" : "Österreichweite 7-Tages-Inzidenz: Das sind die Bezirke mit den meisten Fällen",
+      "titleTarget" : "7-dnevna incidencija za čitavu Austriju: Ovo su okruga s najviše slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreichweite-7-tages-inzidenz-das-sind-die-bezirke-mit-den-meisten-faellen/401127435"
     }, {
-      "id" : "cx2QQ9Or",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/48/04/crops/w=1280/386150_opener_125704_bmv1.jpg?s=f80e16e116140b39fb4898d85936ac810fcd6c79",
-      "titleSource" : "Kein Budgetbeschluss beim BMV",
-      "titleTarget" : "BMV nije donio odluku o proračunu",
-      "url" : "https://burgenland.orf.at/stories/3080280/"
+      "id" : "IEvhe5JC",
+      "imgUrl" : "https://image.kurier.at/images/original/4816359/46-173345231.jpg",
+      "titleSource" : "Tirol bietet künftig dauerhaft kostenlose Antigen-Tests an",
+      "titleTarget" : "U budućnosti će Tirol trajno nuditi besplatne testove antigena",
+      "url" : "https://kurier.at/chronik/oesterreich/tirol-bietet-kuenftig-dauerhaft-kostenlose-antigen-tests-an/401127522"
     }, {
       "id" : "fSmP7JfX",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/49/crops/w=1280/782629_opener_272449_image_3.jpg?s=788a64790b09fe9b3114e9ed1e7ce58fbd9952cb",
       "titleSource" : "CoV-Massentests: 0,4 bzw. 0,27 Prozent positiv",
       "titleTarget" : "Testovi mase CoV: 0,4 ili 0,27 posto pozitivno",
       "url" : "https://salzburg.orf.at/stories/3080308/"
+    }, {
+      "id" : "57kRciW9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/57/crops/w=1280/779816_opener_271457_k2.jpg?s=5a2701d4869645212dc54ab1b3aa86cd67eb56e1",
+      "titleSource" : "Kunstszene in der Warteschleife",
+      "titleTarget" : "Umjetnička scena na čekanju",
+      "url" : "https://burgenland.orf.at/stories/3079886/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "5iAYhiU7",
-      "imgUrl" : "https://image.kurier.at/images/original/4815552/46-173491738.jpg",
-      "titleSource" : "KURIER räumt bei European Newspaper Awards 16 Preise ab",
-      "titleTarget" : "KURIER osvaja 16 nagrada na Europskim novinarskim nagradama",
-      "url" : "https://kurier.at/kultur/medien/kurier-raeumt-bei-european-newspaper-awards-16-preise-ab/401127288"
+      "id" : "Lp1JNiAc",
+      "imgUrl" : "https://image.kurier.at/images/original/4816848/46-147062500.jpg",
+      "titleSource" : "Christoph Waltz soll in TV-Miniserie Michail Gorbatschow spielen",
+      "titleTarget" : "Christoph Waltz igra u TV miniseriji Michail Gorbatschow",
+      "url" : "https://kurier.at/kultur/christoph-waltz-soll-in-tv-miniserie-michail-gorbatschow-spielen/401127648"
     }, {
-      "id" : "hJ3bG8lO",
-      "imgUrl" : "https://image.kurier.at/images/original/4813695/46-167308488.jpg",
-      "titleSource" : "Alternative Weltgeschichte mit den Inka, die Europa erobern",
-      "titleTarget" : "Alternativna svjetska povijest s Inkama koje osvajaju Europu",
-      "url" : "https://kurier.at/kultur/buch/alternative-weltgeschichte-mit-den-inka-die-europa-erobern/401126433"
-    }, {
-      "id" : "UbxO8IAe",
-      "imgUrl" : "https://image.kurier.at/images/original/4813698/46-168269938.jpg",
-      "titleSource" : "Buchkritik: Stephan Roiss und \"Triceratops\"",
-      "titleTarget" : "Recenzija knjige: Stephan Roiss i \"Triceratops\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-stephan-roiss-und-triceratops/401126439"
+      "id" : "fVC0AIMu",
+      "imgUrl" : "https://image.kurier.at/images/original/4815258/46-173487764.jpg",
+      "titleSource" : "Calexico veröffentlichen \"kein Weihnachtsalbum\"",
+      "titleTarget" : "Calexico izdanje \"bez božićnog albuma\"",
+      "url" : "https://kurier.at/kultur/calexico-veroeffentlichen-kein-weihnachtsalbum/401127186"
     }, {
       "id" : "ds9C7Rdt",
       "imgUrl" : "https://image.kurier.at/images/original/4817334/46-168313348.jpg",
       "titleSource" : "Vinterbergs „Der Rausch“: Bester europäischer Film des Jahres",
       "titleTarget" : "Vinterbergov \"Der Rausch\": Najbolji europski film godine",
       "url" : "https://kurier.at/kultur/vinterbergs-der-rausch-bester-europaeischer-film-des-jahres/401127768"
-    }, {
-      "id" : "Lp1JNiAc",
-      "imgUrl" : "https://image.kurier.at/images/original/4816848/46-147062500.jpg",
-      "titleSource" : "Christoph Waltz soll in TV-Miniserie Michail Gorbatschow spielen",
-      "titleTarget" : "Christoph Waltz igra u TV miniseriji Michail Gorbatschow",
-      "url" : "https://kurier.at/kultur/christoph-waltz-soll-in-tv-miniserie-michail-gorbatschow-spielen/401127648"
     }, {
       "id" : "akYUCGFq",
       "imgUrl" : "https://image.kurier.at/images/original/4815669/46-173484053.jpg",
@@ -178,6 +154,18 @@
       "titleSource" : "Neujahrskonzert 2021 - Muti: \"Ohne Publikum fast pervers\"",
       "titleTarget" : "Novogodišnji koncert 2021. - Muti: \"Gotovo perverzno bez publike\"",
       "url" : "https://kurier.at/kultur/neujahrskonzert-2021-muti-ohne-publikum-fast-pervers/401127405"
+    }, {
+      "id" : "LKzWwXTu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/7/3/5910899/53A1C9E4-B608-4389-BCB5-D2C97A9660A7_v0_h.jpg",
+      "titleSource" : "\"Die Welt braucht Schönheit\": Papst stellt sich hinter Kunstschaffenden",
+      "titleTarget" : "\"Svijet treba ljepotu\": Papa stoji iza umjetnika",
+      "url" : "https://www.diepresse.com/5910899/Coronavirus_Die-Welt-braucht-Schoenheit_Papst-stellt-sich-hinter?from=rss"
+    }, {
+      "id" : "GwB8tQ2K",
+      "imgUrl" : "https://image.kurier.at/images/original/4817406/81452305857947814_BLD_Online.jpg",
+      "titleSource" : "Country-Star Charley Pride mit 86 an Folgen von Covid-19 gestorben",
+      "titleTarget" : "Country zvijezda Charley Pride umro je u 86. godini od posljedica Covid-19",
+      "url" : "https://kurier.at/kultur/country-star-charley-pride-mit-86-an-folgen-von-covid-19-gestorben/401127921"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,22 +173,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "SpxdFO76",
-      "imgUrl" : "https://image.kurier.at/images/original/4815633/46-173428309.jpg",
-      "titleSource" : "\"Stress\" mit Messi: \"Können einige Teamkollegen nicht ertragen\"",
-      "titleTarget" : "'Stres' s Mesijem: 'Ne podnosim neke suigrače'",
-      "url" : "https://kurier.at/sport/fussball/unzue-ueber-stress-mit-lionel-messi-bei-barcelona-koennen-einige-teamkollegen-nicht-ertragen/401127300"
-    }, {
       "id" : "FHbPgewI",
       "imgUrl" : "https://image.kurier.at/images/original/4815864/46-164359649.jpg",
       "titleSource" : "WADA will Corona-Impfstoffe auf verbotene Substanzen prüfen",
       "titleTarget" : "WADA želi provjeriti koronska cjepiva na zabranjene tvari",
       "url" : "https://kurier.at/sport/wada-will-corona-impfstoffe-auf-verbotene-substanzen-pruefen/401127414"
-    }, {
-      "id" : "FB5l4xpw",
-      "titleSource" : "Hayböck nur unbelohnter Vierter",
-      "titleTarget" : "Hayboeck tek nenagrađeni četvrti",
-      "url" : "https://sport.orf.at/stories/3070561/"
     }, {
       "id" : "OxmjpQ6v",
       "imgUrl" : "https://image.kurier.at/images/original/4817271/46-149125360.jpg",
@@ -208,20 +185,31 @@
       "titleTarget" : "Zahvaljujući Loneyu, Capitals slave pobjedu od 3-2 u Bolzanu",
       "url" : "https://kurier.at/sport/wintersport/icehl-dank-loney-feiern-die-capitals-einen-32-erfolg-in-bozen/401127729"
     }, {
-      "id" : "bG8uTQ0a",
-      "titleSource" : "Weltcup-Podeste für Österreich in Oberhof",
-      "titleTarget" : "Postolja Svjetskog kupa za Austriju u Oberhofu",
-      "url" : "https://sport.orf.at/stories/3070563/"
+      "id" : "mRuYY4bL",
+      "titleSource" : "Zweiter Damen-RTL steigt erst am Montag",
+      "titleTarget" : "Drugi ženski RTL porast će tek u ponedjeljak",
+      "url" : "https://sport.orf.at/stories/3070596/"
+    }, {
+      "id" : "FW5WzopG",
+      "titleSource" : "Deftige Heimpleite für Dortmunder",
+      "titleTarget" : "Solidan bankrot kuće za Dortmund",
+      "url" : "https://sport.orf.at/stories/3070568/"
+    }, {
+      "id" : "nozs98IU",
+      "titleSource" : "Sturm behauptet Platz im Spitzenfeld",
+      "titleTarget" : "Sturm tvrdi da je mjesto u gornjem polju",
+      "url" : "https://sport.orf.at/stories/3070572/"
     }, {
       "id" : "VxrlDHpA",
       "titleSource" : "Karl bei Weltcup-Auftakt in Cortina Dritter",
       "titleTarget" : "Karl treći na otvaranju Svjetskog kupa u Cortini",
       "url" : "https://sport.orf.at/stories/3070575/"
     }, {
-      "id" : "FW5WzopG",
-      "titleSource" : "Deftige Heimpleite für Dortmunder",
-      "titleTarget" : "Solidan bankrot kuće za Dortmund",
-      "url" : "https://sport.orf.at/stories/3070568/"
+      "id" : "DDXVJCSV",
+      "imgUrl" : "https://image.kurier.at/images/original/4815912/46-162763376.jpg",
+      "titleSource" : "Chaos bei der Skiflug-WM: Trainerrücktritt zwischen den Durchgängen",
+      "titleTarget" : "Kaos u Svjetskom kupu u skijaškim letovima: trener daje otkaz između rundi",
+      "url" : "https://kurier.at/sport/wintersport/chaos-bei-der-skiflug-wm-trainerruecktritt-zwischen-den-durchgaengen/401127450"
     } ]
   } ],
   "country" : "austria",
