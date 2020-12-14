@@ -74,23 +74,10 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "ley6hB5d",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/81/crops/w=1280/778460_opener_270981_apacoronavirus_sitzung_des_steirischen_landtags_schuetzenhoefer_.jpg?s=0738a66155753798296771b0e78da5aa4711609d",
-      "titleSource" : "Schützenhöfer: Impfpflicht und mehr Maske",
-      "titleTarget" : "Schützenhöfer: obavezno cijepljenje i više maski",
-      "url" : "https://steiermark.orf.at/stories/3080287/"
-    }, {
-      "id" : "TzbWLbQM",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/23/19/crops/w=1280/582689_opener_198819_2.jpg?s=46da6bd7b1e9e4ba27e0e85da2f635e241d2a0f1",
-      "titleSource" : "Motorradlärm ist wieder Thema im Landtag",
-      "titleTarget" : "Buka motocikala ponovno je pitanje državnog parlamenta",
-      "url" : "https://tirol.orf.at/stories/3080318/"
-    }, {
-      "id" : "UYOQXxVS",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/16/crops/w=1280/782827_opener_272516_zigarettenverpackungsanlage_50712280063_o.jpg?s=6778c6aa93685d2396c659c3cd65aa47d4c8e5a5",
-      "titleSource" : "Illegale Zigarettenfabrik ausgehoben",
-      "titleTarget" : "Iskopana ilegalna tvornica cigareta",
-      "url" : "https://wien.orf.at/stories/3080332/"
+      "id" : "9efl7Htd",
+      "titleSource" : "Massentest: Mehr als 800 Teilnehmer positiv",
+      "titleTarget" : "Masovni test: Više od 800 sudionika pozitivno",
+      "url" : "https://noe.orf.at/stories/3080374/"
     }, {
       "id" : "Nsqpuss3",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/35/54/crops/w=1280/272026_opener_82254_cannabis_toepfe.jpg?s=64045a3c54cb18f8f72d8dea664cc1bb6669f85a",
@@ -98,27 +85,45 @@
       "titleTarget" : "Poticali umirovljenike na uzgoj droge",
       "url" : "https://kaernten.orf.at/stories/3080375/"
     }, {
-      "id" : "jZT1cFmL",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/14/crops/w=1280/782523_opener_272414_zug1.ashx.jpg?s=28eec5fd74bdaafe76c043387f8e051d243b7458",
-      "titleSource" : "Neuer Fahrplan: Schnellere Verbindungen und mehr Züge",
-      "titleTarget" : "Novi vozni red: brže veze i više vlakova",
-      "url" : "https://vorarlberg.orf.at/stories/3080285/"
+      "id" : "Hocngi9e",
+      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
+      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
+      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
+      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
+    }, {
+      "id" : "4JceK9mc",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/10/crops/w=1280/783359_opener_272710_a2.jpg?s=2861086e76299d6a5d8c134dbcd322f4330ccf08",
+      "titleSource" : "Innenstadt-Demo: Kritik an CoV-Maßnahmen",
+      "titleTarget" : "Demonstracija unutarnjeg grada: kritika mjera CoV",
+      "url" : "https://salzburg.orf.at/stories/3080392/"
+    }, {
+      "id" : "UFIRTmM8",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/83/crops/w=1280/783271_opener_272683_fussball_tipico_bundesliga_grunddurchgang_sk_rapid_wien_-_wsg_swarovski_tirol1_.jpg?s=b959c38dc2c04f484cd8e6ec26e7f0ee121f0f52",
+      "titleSource" : "WSG Tirol fertigt Rapid mit 3:0 ab",
+      "titleTarget" : "WSG Tirol obračunao se s Rapidom 3-0",
+      "url" : "https://tirol.orf.at/stories/3080383/"
+    }, {
+      "id" : "wZhQ9qHR",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/04/crops/w=1280/783029_opener_272604_a-childs-drawing-5010533_1920.jpg?s=963668fd9998091e2c33a23584746ae93e5a7d8d",
+      "titleSource" : "Weihnachtspost für Pflegeheim-Bewohner",
+      "titleTarget" : "Božićna pošta za štićenike domova za starije osobe",
+      "url" : "https://noe.orf.at/stories/3080352/"
     }, {
       "id" : "0x0u8eJ4",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.641 Neuinfektionen in Österreich",
       "titleTarget" : "2.641 nova infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2641-neuinfektionen-in-oesterreich/401127915"
-    }, {
-      "id" : "Hocngi9e",
-      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
-      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
-      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
-      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "QJohsMVl",
+      "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
+      "titleSource" : "John le Carré starb mit 89 Jahren an Lungenentzündung",
+      "titleTarget" : "John le Carré umro je od upale pluća u 89. godini",
+      "url" : "https://kurier.at/kultur/john-le-carre-starb-mit-89-jahren-an-lungenentzuendung/401128344"
+    }, {
       "id" : "PYQjRGPc",
       "imgUrl" : "https://image.kurier.at/images/original/4724799/46-166589735.jpg",
       "titleSource" : "... und wieder 18 Bücher, ganz kurz",
@@ -130,6 +135,12 @@
       "titleSource" : "Kunsthistorisches Museum: Neue Direktoren gesucht",
       "titleTarget" : "Kunsthistorisches Museum: Traže se novi redatelji",
       "url" : "https://kurier.at/kultur/kunsthistorisches-museum-neue-direktoren-gesucht/401128188"
+    }, {
+      "id" : "y9LBGj5Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
+      "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
+      "titleTarget" : "Netrebkova prva bečka Tosca: trijumf",
+      "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
     }, {
       "id" : "GwB8tQ2K",
       "imgUrl" : "https://image.kurier.at/images/original/4817406/81452305857947814_BLD_Online.jpg",
@@ -148,18 +159,6 @@
       "titleSource" : "Calexico veröffentlichen \"kein Weihnachtsalbum\"",
       "titleTarget" : "Calexico izdanje \"bez božićnog albuma\"",
       "url" : "https://kurier.at/kultur/calexico-veroeffentlichen-kein-weihnachtsalbum/401127186"
-    }, {
-      "id" : "ds9C7Rdt",
-      "imgUrl" : "https://image.kurier.at/images/original/4817334/46-168313348.jpg",
-      "titleSource" : "Vinterbergs „Der Rausch“: Bester europäischer Film des Jahres",
-      "titleTarget" : "Vinterbergov \"Der Rausch\": Najbolji europski film godine",
-      "url" : "https://kurier.at/kultur/vinterbergs-der-rausch-bester-europaeischer-film-des-jahres/401127768"
-    }, {
-      "id" : "iIXw8PEM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/c/7/5910983/FILES-SKOREA-CINEMA-KIM-OBIT_1607870111073870.jpg",
-      "titleSource" : "Strittig bis zuletzt: Kim Ki-duk an Corona gestorben",
-      "titleTarget" : "Do kraja kontroverzno: Kim Ki-duk umrla je od Corone",
-      "url" : "https://www.diepresse.com/5910983/Nachruf_Strittig-bis-zuletzt_Kim-Kiduk-an-Corona-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -167,37 +166,37 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "HSnErNr8",
-      "titleSource" : "Cater entreißt Striedinger ersten Sieg",
-      "titleTarget" : "Cater otme prvu pobjedu Striedingera",
-      "url" : "https://sport.orf.at/stories/3070599/"
+      "id" : "ss0Tl7w2",
+      "titleSource" : "Trainerlegende Otto Baric ist tot",
+      "titleTarget" : "Trenerska legenda Otto Barić je mrtav",
+      "url" : "https://sport.orf.at/stories/3070630/"
     }, {
-      "id" : "mRuYY4bL",
-      "titleSource" : "Zweiter Damen-RTL steigt erst am Montag",
-      "titleTarget" : "Drugi ženski RTL porast će tek u ponedjeljak",
-      "url" : "https://sport.orf.at/stories/3070596/"
+      "id" : "0CM0zl4d",
+      "imgUrl" : "https://image.kurier.at/images/original/4818909/46-3815847.jpg",
+      "titleSource" : "Trainer-Legende Otto Baric am Coronavirus verstorben",
+      "titleTarget" : "Legenda trenera Otto Barić umro je od virusa korone",
+      "url" : "https://kurier.at/sport/fussball/trainer-legende-otto-baric-am-coronavirus-verstorben/401128272"
     }, {
-      "id" : "V2jdhG5l",
-      "titleSource" : "Einbruch in Rossis Haus am Tag seiner Trauerfeier",
-      "titleTarget" : "Provala u Rossijevu kuću na dan njegova sprovoda",
-      "url" : "https://sport.orf.at/stories/3070587/"
+      "id" : "lwQsmNHp",
+      "titleSource" : "Ex-ÖFB-Teamchef Otto Baric verstorben",
+      "titleTarget" : "Preminuo je bivši šef momčadi ÖFB Otto Barić",
+      "url" : "https://sport.orf.at/stories/3070629/"
     }, {
-      "id" : "OxmjpQ6v",
-      "imgUrl" : "https://image.kurier.at/images/original/4817271/46-149125360.jpg",
-      "titleSource" : "Dank Loney feiern die Capitals einen 3:2-Erfolg in Bozen",
-      "titleTarget" : "Zahvaljujući Loneyu, Capitals slave pobjedu od 3-2 u Bolzanu",
-      "url" : "https://kurier.at/sport/wintersport/icehl-dank-loney-feiern-die-capitals-einen-32-erfolg-in-bozen/401127729"
+      "id" : "NF3Hs5w0",
+      "imgUrl" : "https://image.kurier.at/images/original/4818585/46-148824557.jpg",
+      "titleSource" : "Marcel Hirscher auf Rennskiern und die Gerüchteküche brodelt",
+      "titleTarget" : "Marcel Hirscher na trkaćim skijama i mlin za glasine tinja",
+      "url" : "https://kurier.at/sport/wintersport/marcel-hirscher-auf-rennskiern-und-die-geruechtekueche-brodelt/401128200"
     }, {
       "id" : "ki3SbiXv",
       "titleSource" : "Höck erobert historisches Silber",
       "titleTarget" : "Höck osvaja povijesno srebro",
       "url" : "https://sport.orf.at/stories/3070618/"
     }, {
-      "id" : "Jxz01Z99",
-      "imgUrl" : "https://image.kurier.at/images/original/4818153/46-173528493.jpg",
-      "titleSource" : "Rot-weiß-rote Sportgeschichte: Turner Vinzenz Höck holt EM-Silber",
-      "titleTarget" : "Crveno-bijelo-crvena sportska povijest: Turner Vinzenz Höck osvojio je EM srebro",
-      "url" : "https://kurier.at/sport/vinzenz-hoeck-holt-an-den-ringen-silber-bei-der-turn-em/401128122"
+      "id" : "rZbV9Sw1",
+      "titleSource" : "Salzburg dreht Schlager gegen LASK",
+      "titleTarget" : "Salzburg okreće Schlagera protiv LASK-a",
+      "url" : "https://sport.orf.at/stories/3070627/"
     }, {
       "id" : "mTn33MX7",
       "titleSource" : "Dortmund trennt sich von Coach Favre",
