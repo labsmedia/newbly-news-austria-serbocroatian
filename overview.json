@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "9TV1cSEp",
-      "imgUrl" : "https://image.kurier.at/images/original/4817529/46-173515042.jpg",
-      "titleSource" : "Neue Umfrage: Nur 17 Prozent wollen sich \"ganz sicher\" impfen lassen",
-      "titleTarget" : "Novo istraživanje: samo 17 posto želi se cijepiti \"sigurno\"",
-      "url" : "https://kurier.at/politik/inland/neue-umfrage-nur-17-prozent-wollen-sich-ganz-sicher-impfen-lassen/401127897"
-    }, {
       "id" : "cJVdtrmK",
       "imgUrl" : "https://image.kurier.at/images/original/4817940/46-173272400.jpg",
       "titleSource" : "Rendi-Wagner schließt Rot-Blau und Hofburg-Kandidatur aus",
@@ -25,59 +19,77 @@
       "titleSource" : "Österreich feiert 65 Jahre UNO-Mitgliedschaft",
       "titleTarget" : "Austrija slavi 65 godina članstva u UN-u",
       "url" : "https://kurier.at/politik/inland/oesterreich-feiert-65-jahre-uno-mitgliedschaft/401128176"
+    }, {
+      "id" : "qVk3DauD",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/7/5/5911157/NHS-England-Starts-Covid-19-Vaccination-Campaign----------------------------------------n_1607940135203364_v0_l.jpg",
+      "titleSource" : "Corona-Impf-Pflicht in Österreich? Landeshauptleute uneins",
+      "titleTarget" : "U Austriji obvezno cijepljenje koronom? Guverneri se ne slažu",
+      "url" : "https://www.diepresse.com/5911157/Epidemie_CoronaImpfPflicht-in-Oesterreich-Landeshauptleute-uneins?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "sR2Zq7Og",
-      "imgUrl" : "https://image.kurier.at/images/original/4816596/46-173456527.jpg",
-      "titleSource" : "Diskonter Action auf Expansionskurs in Österreich",
-      "titleTarget" : "Akcija popusta na tečaj proširenja u Austriji",
-      "url" : "https://kurier.at/wirtschaft/diskonter-action-auf-expansionskurs-in-oesterreich/401127600"
-    }, {
       "id" : "xXj4PCeW",
       "imgUrl" : "https://image.kurier.at/images/original/4708527/46-167723301.jpg",
       "titleSource" : "OGH stellt klar: Leiharbeiter gehören zur Belegschaft",
       "titleTarget" : "OGH jasno kaže: Privremeni radnici dio su radne snage",
       "url" : "https://kurier.at/wirtschaft/ogh-stellt-klar-leiharbeiter-gehoeren-zur-belegschaft/401128086"
     }, {
-      "id" : "vsA6xN7n",
-      "imgUrl" : "https://image.kurier.at/images/original/4809591/46-173400195.jpg",
-      "titleSource" : "Nachhaltiges Weihnachten",
-      "titleTarget" : "Održivi Božić",
-      "url" : "https://kurier.at/wirtschaft/immobiz/nachhaltiges-weihnachten/401125524"
+      "id" : "1GGaOFl6",
+      "imgUrl" : "https://image.kurier.at/images/original/4819140/46-145411544.jpg",
+      "titleSource" : "Forstwirtschaft: Holzpreise sind im Keller",
+      "titleTarget" : "Šumarstvo: Cijene drva su u podrumu",
+      "url" : "https://kurier.at/wirtschaft/forstwirtschaft-holzpreise-sind-im-keller/401128440"
     }, {
-      "id" : "ubiQ725K",
-      "imgUrl" : "https://image.kurier.at/images/original/4731756/78370011357261432_BLD_Online.jpg",
-      "titleSource" : "Bahnbrechend, aber kompliziert: So funktioniert die Blockchain",
-      "titleTarget" : "Preokretno, ali komplicirano: tako funkcionira blockchain",
-      "url" : "https://kurier.at/wirtschaft/bahnbrechend-aber-kompliziert-so-funktioniert-die-blockchain/401127558"
+      "id" : "jUaiEBkm",
+      "imgUrl" : "https://image.kurier.at/images/original/4795320/46-106615492.jpg",
+      "titleSource" : "Die Österreicher sind finanziell gut aufgestellt: Rang zwei in Europa",
+      "titleTarget" : "Austrijanci su financijski dobro pozicionirani: drugi u Europi",
+      "url" : "https://kurier.at/wirtschaft/die-oesterreicher-sind-finanziell-gut-aufgestellt/401128452"
     }, {
-      "id" : "BX5J8PCj",
-      "imgUrl" : "https://image.kurier.at/images/original/4817376/78370011357946622_BLD_Online.jpg",
-      "titleSource" : "Spionagevorwürfe gegen Huawei in Deutschland",
-      "titleTarget" : "Optužbe za špijunažu protiv Huaweija u Njemačkoj",
-      "url" : "https://kurier.at/wirtschaft/spionagevorwuerfe-gegen-huawei-in-deutschland/401128143"
+      "id" : "qK1DWnLu",
+      "imgUrl" : "https://image.kurier.at/images/original/4748427/46-163583790.jpg",
+      "titleSource" : "Smíchov City: Strabag startet Prags größtes Bauprojekt",
+      "titleTarget" : "Grad Smíchov: Strabag započinje najveći praški građevinski projekt",
+      "url" : "https://kurier.at/wirtschaft/strabag-startet-prags-groesstes-bauprojekt/401128602"
     }, {
-      "id" : "Knesqsdy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/1/e/b/5911019/FILE-PHOTO-The-headquarters-of-Wirecard-AG-an-independent-provider-of-outsourcing-and-white-label-solutions-for-electronic-payment-transactions-is-seen-in-Aschheim_1607875023279261.jpg",
-      "titleSource" : "2020 ein extrem mieses Jahr für Leerverkäufer",
-      "titleTarget" : "2020. godina je izuzetno loša godina za prodavatelje kratkih proizvoda",
-      "url" : "https://www.diepresse.com/5911019/Performance_2020-ein-extrem-mieses-Jahr-fuer-Leerverkaeufer?from=rss"
+      "id" : "zWq2hdTA",
+      "imgUrl" : "https://image.kurier.at/images/original/3621797/46-77403730.jpg",
+      "titleSource" : "EG Group kauft deutsches OMV-Tankstellengeschäft für 485 Millionen Euro",
+      "titleTarget" : "EG Group kupuje njemački OMV benzinski servis za 485 milijuna eura",
+      "url" : "https://kurier.at/wirtschaft/eg-group-kauft-deutsches-omv-tankstellengeschaeft-fuer-485-mio-euro/401128566"
     }, {
-      "id" : "kh7xRvOY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/1/8/2/5910914/BCE02358-5BF3-4474-8651-A3EAD5A54209_1607855286972626.jpg",
-      "titleSource" : "Raiffeisen und Lenzing in der Umweltelite",
-      "titleTarget" : "Raiffeisen i Lenzing u ekološkoj eliti",
-      "url" : "https://www.diepresse.com/5910914/AListe_Raiffeisen-und-Lenzing-in-der-Umweltelite?from=rss"
+      "id" : "SnVgQjiC",
+      "imgUrl" : "https://image.kurier.at/images/original/4445540/46-61244059.jpg",
+      "titleSource" : "Plattform Reddit kauft Berliner TikTok-Konkurrenten Dubsmash",
+      "titleTarget" : "Reddit platforma kupuje konkurenta iz Berlina TikTok Dubsmash",
+      "url" : "https://kurier.at/wirtschaft/plattform-reddit-kauft-berliner-tiktok-konkurrenten-dubsmash/401128518"
+    }, {
+      "id" : "6M2Er8Iu",
+      "imgUrl" : "https://image.kurier.at/images/original/2804012/46-58642617.jpg",
+      "titleSource" : "Tojners Aluflexpack erwartet für 2020 mehr Umsatz und Gewinn",
+      "titleTarget" : "Tojners Aluflexpack očekuje veću prodaju i dobit za 2020. godinu",
+      "url" : "https://kurier.at/wirtschaft/tojners-aluflexpack-erwartet-fuer-2020-mehr-umsatz-und-gewinn/401128548"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "9efl7Htd",
-      "titleSource" : "Massentest: Mehr als 800 Teilnehmer positiv",
-      "titleTarget" : "Masovni test: Više od 800 sudionika pozitivno",
-      "url" : "https://noe.orf.at/stories/3080374/"
+      "id" : "was6g9nA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/81/crops/w=1280/766839_opener_266581_wallner.ashx.jpg?s=ebd58b5785fee0e22ce439fe54e4494ecfa0d392",
+      "titleSource" : "Wallner klar gegen eine Impfpflicht",
+      "titleTarget" : "Wallner jasno protiv obveznog cijepljenja",
+      "url" : "https://vorarlberg.orf.at/stories/3080403/"
+    }, {
+      "id" : "A441SHFX",
+      "titleSource" : "Fraktion der Freien LehrerInnen lehnt CoV-Testpflicht ab",
+      "titleTarget" : "Besplatna grupa učitelja odbija obvezno testiranje na CoV",
+      "url" : "https://vorarlberg.orf.at/stories/3080393/"
+    }, {
+      "id" : "MdJq2R1u",
+      "imgUrl" : "https://image.kurier.at/images/original/4819353/46-168330915.jpg",
+      "titleSource" : "2.588 Neuinfektionen in Österreich; Gratis Tests vor Weihnachten kommen",
+      "titleTarget" : "2.588 novih infekcija u Austriji; Besplatne probe dolaze pred Božić",
+      "url" : "https://kurier.at/chronik/oesterreich/gratis-tests-vor-weihnachten-kommen-massentests-4000-infizierte-bei-zwei-millionen-tests/401128383"
     }, {
       "id" : "Nsqpuss3",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/35/54/crops/w=1280/272026_opener_82254_cannabis_toepfe.jpg?s=64045a3c54cb18f8f72d8dea664cc1bb6669f85a",
@@ -85,50 +97,38 @@
       "titleTarget" : "Poticali umirovljenike na uzgoj droge",
       "url" : "https://kaernten.orf.at/stories/3080375/"
     }, {
-      "id" : "Hocngi9e",
-      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
-      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
-      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
-      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
-    }, {
       "id" : "4JceK9mc",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/10/crops/w=1280/783359_opener_272710_a2.jpg?s=2861086e76299d6a5d8c134dbcd322f4330ccf08",
       "titleSource" : "Innenstadt-Demo: Kritik an CoV-Maßnahmen",
       "titleTarget" : "Demonstracija unutarnjeg grada: kritika mjera CoV",
       "url" : "https://salzburg.orf.at/stories/3080392/"
     }, {
-      "id" : "UFIRTmM8",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/83/crops/w=1280/783271_opener_272683_fussball_tipico_bundesliga_grunddurchgang_sk_rapid_wien_-_wsg_swarovski_tirol1_.jpg?s=b959c38dc2c04f484cd8e6ec26e7f0ee121f0f52",
-      "titleSource" : "WSG Tirol fertigt Rapid mit 3:0 ab",
-      "titleTarget" : "WSG Tirol obračunao se s Rapidom 3-0",
-      "url" : "https://tirol.orf.at/stories/3080383/"
+      "id" : "Hocngi9e",
+      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
+      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
+      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
+      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
     }, {
-      "id" : "wZhQ9qHR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/04/crops/w=1280/783029_opener_272604_a-childs-drawing-5010533_1920.jpg?s=963668fd9998091e2c33a23584746ae93e5a7d8d",
-      "titleSource" : "Weihnachtspost für Pflegeheim-Bewohner",
-      "titleTarget" : "Božićna pošta za štićenike domova za starije osobe",
-      "url" : "https://noe.orf.at/stories/3080352/"
-    }, {
-      "id" : "0x0u8eJ4",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "2.641 Neuinfektionen in Österreich",
-      "titleTarget" : "2.641 nova infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2641-neuinfektionen-in-oesterreich/401127915"
+      "id" : "2guHapBf",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/92/crops/w=1280/783310_opener_272692_euro-city-express_astoro_auf_falsches_gleis_geleitet_3.jpg?s=a57bafab3652a40e500638473e9f866692a0833c",
+      "titleSource" : "Panne bei Premierenfahrt auf neuer Zugstrecke",
+      "titleTarget" : "Kvar tijekom prve vožnje na novoj ruti vlaka",
+      "url" : "https://vorarlberg.orf.at/stories/3080378/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "hPQqK1uA",
+      "imgUrl" : "https://image.kurier.at/images/original/4817655/46-173280716.jpg",
+      "titleSource" : "Friedhofskirche: Eine echter Hingucker am Zentralfriedhof",
+      "titleTarget" : "Friedhofskirche: Pravi upada u oči na središnjem groblju",
+      "url" : "https://kurier.at/kultur/friedhofskirche-eine-echter-hingucker-am-zentralfriedhof/401127966"
+    }, {
       "id" : "QJohsMVl",
       "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
       "titleSource" : "John le Carré starb mit 89 Jahren an Lungenentzündung",
       "titleTarget" : "John le Carré umro je od upale pluća u 89. godini",
       "url" : "https://kurier.at/kultur/john-le-carre-starb-mit-89-jahren-an-lungenentzuendung/401128344"
-    }, {
-      "id" : "PYQjRGPc",
-      "imgUrl" : "https://image.kurier.at/images/original/4724799/46-166589735.jpg",
-      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
-      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
-      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401127102"
     }, {
       "id" : "lQnROh05",
       "imgUrl" : "https://image.kurier.at/images/original/4818372/46-164252802.jpg",
@@ -136,29 +136,29 @@
       "titleTarget" : "Kunsthistorisches Museum: Traže se novi redatelji",
       "url" : "https://kurier.at/kultur/kunsthistorisches-museum-neue-direktoren-gesucht/401128188"
     }, {
+      "id" : "PYQjRGPc",
+      "imgUrl" : "https://image.kurier.at/images/original/4724799/46-166589735.jpg",
+      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
+      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
+      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401127102"
+    }, {
+      "id" : "weMfqIKa",
+      "imgUrl" : "https://image.kurier.at/images/original/4819050/bildschirmfoto_2020-12-14_um_05.20.02.png",
+      "titleSource" : "Neue Weltlage nach Corona: \"Bisher war Trump immer schuld\"",
+      "titleTarget" : "Nova svjetska situacija nakon Corone: \"Do sada je Trump uvijek bio kriv\"",
+      "url" : "https://kurier.at/kultur/medien/neue-weltlage-nach-corona-bisher-war-trump-immer-schuld/401128380"
+    }, {
+      "id" : "N6hRTEMZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4818711/46-173461274.jpg",
+      "titleSource" : "Medienlegionär Reinhard Scolik: \"Muss nicht auf den ORF schielen\"",
+      "titleTarget" : "Medijski legionar Reinhard Scolik: \"Ne treba žmiriti na ORF-u\"",
+      "url" : "https://kurier.at/kultur/medien/medienlegionaer-reinhard-scolik-muss-nicht-auf-den-orf-schielen/401128212"
+    }, {
       "id" : "y9LBGj5Y",
       "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
       "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
       "titleTarget" : "Netrebkova prva bečka Tosca: trijumf",
       "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
-    }, {
-      "id" : "GwB8tQ2K",
-      "imgUrl" : "https://image.kurier.at/images/original/4817406/81452305857947814_BLD_Online.jpg",
-      "titleSource" : "Country-Star Charley Pride mit 86 an Folgen von Covid-19 gestorben",
-      "titleTarget" : "Country zvijezda Charley Pride umro je u 86. godini od posljedica Covid-19",
-      "url" : "https://kurier.at/kultur/country-star-charley-pride-mit-86-an-folgen-von-covid-19-gestorben/401127921"
-    }, {
-      "id" : "9bDOyfTg",
-      "imgUrl" : "https://image.kurier.at/images/original/4817340/78452305857944040_BLD_Online.jpg",
-      "titleSource" : "Europäischer Filmpreis geht an \"Der Rausch\"",
-      "titleTarget" : "Europska filmska nagrada pripala je filmu \"Der Rausch\"",
-      "url" : "https://kurier.at/kultur/europaeischer-filmpreis-geht-an-der-rausch/401127927"
-    }, {
-      "id" : "fVC0AIMu",
-      "imgUrl" : "https://image.kurier.at/images/original/4815258/46-173487764.jpg",
-      "titleSource" : "Calexico veröffentlichen \"kein Weihnachtsalbum\"",
-      "titleTarget" : "Calexico izdanje \"bez božićnog albuma\"",
-      "url" : "https://kurier.at/kultur/calexico-veroeffentlichen-kein-weihnachtsalbum/401127186"
     } ]
   }, {
     "category" : "HEALTH",
@@ -193,15 +193,15 @@
       "titleTarget" : "Höck osvaja povijesno srebro",
       "url" : "https://sport.orf.at/stories/3070618/"
     }, {
+      "id" : "lrp6Ly9P",
+      "titleSource" : "Zwölfjähriger Wels-Spieler gewinnt sensationell CL-Partie",
+      "titleTarget" : "Dvanaestogodišnji igrač soma senzacionalno pobjeđuje u CL utakmici",
+      "url" : "https://sport.orf.at/stories/3070639/"
+    }, {
       "id" : "rZbV9Sw1",
       "titleSource" : "Salzburg dreht Schlager gegen LASK",
       "titleTarget" : "Salzburg okreće Schlagera protiv LASK-a",
       "url" : "https://sport.orf.at/stories/3070627/"
-    }, {
-      "id" : "mTn33MX7",
-      "titleSource" : "Dortmund trennt sich von Coach Favre",
-      "titleTarget" : "Dortmund se odvaja od trenera Favrea",
-      "url" : "https://sport.orf.at/stories/3070619/"
     } ]
   } ],
   "country" : "austria",
