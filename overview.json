@@ -2,38 +2,55 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "cJVdtrmK",
-      "imgUrl" : "https://image.kurier.at/images/original/4817940/46-173272400.jpg",
-      "titleSource" : "Rendi-Wagner schließt Rot-Blau und Hofburg-Kandidatur aus",
-      "titleTarget" : "Rendi-Wagner isključuje crveno-plavu i kandidaturu za Hofburg",
-      "url" : "https://kurier.at/politik/inland/spoe-chefin-rendi-wagner-schliesst-rot-blau-und-hofburg-kandidatur-aus/401128050"
+      "id" : "SYtainJC",
+      "imgUrl" : "https://image.kurier.at/images/original/4819935/46-173548320.jpg",
+      "titleSource" : "Anschober setzt auf Testen statt hartem Lockdown wie in Deutschland",
+      "titleTarget" : "Anschober se oslanja na testiranje umjesto na tvrdo zaključavanje kao u Njemačkoj",
+      "url" : "https://kurier.at/politik/inland/anschober-setzt-auf-testen-statt-hartem-lockdown-wie-in-deutschland/401129022"
     }, {
-      "id" : "8puNhhRV",
-      "imgUrl" : "https://image.kurier.at/images/original/4817763/46-173271334.jpg",
-      "titleSource" : "Rendi-Wagner: Österreich vor \"einer der historisch größten Impfaktionen\"",
-      "titleTarget" : "Rendi-Wagner: Austrija prije \"jedne od povijesno najvećih kampanja cijepljenja\"",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-oesterreich-vor-einer-der-historisch-groessten-impfaktionen/401127990"
+      "id" : "V4OXw4uK",
+      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
+      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
+      "titleTarget" : "\"Nikada prije nije se tako žestoko borio U-odbor\": Poluvrijeme u Odboru Ibiza",
+      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
     }, {
-      "id" : "YjGMElnI",
-      "imgUrl" : "https://image.kurier.at/images/original/4818465/_dsc0458.jpg",
-      "titleSource" : "Österreich feiert 65 Jahre UNO-Mitgliedschaft",
-      "titleTarget" : "Austrija slavi 65 godina članstva u UN-u",
-      "url" : "https://kurier.at/politik/inland/oesterreich-feiert-65-jahre-uno-mitgliedschaft/401128176"
+      "id" : "iMHKatc0",
+      "imgUrl" : "https://image.kurier.at/images/original/1887619/studenten-000_APA_HELMUT%252BFOHRINGER.jpg",
+      "titleSource" : "800 Euro: Wegen Corona soll ein neuer Härtefonds Studenten helfen",
+      "titleTarget" : "800 eura: Zbog Corone, novi fond za teškoće trebao bi pomoći studentima",
+      "url" : "https://kurier.at/politik/inland/800-euro-wegen-corona-soll-ein-neuer-haertefonds-studenten-helfen/401129193"
     }, {
-      "id" : "qVk3DauD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/7/5/5911157/NHS-England-Starts-Covid-19-Vaccination-Campaign----------------------------------------n_1607940135203364_v0_l.jpg",
-      "titleSource" : "Corona-Impf-Pflicht in Österreich? Landeshauptleute uneins",
-      "titleTarget" : "U Austriji obvezno cijepljenje koronom? Guverneri se ne slažu",
-      "url" : "https://www.diepresse.com/5911157/Epidemie_CoronaImpfPflicht-in-Oesterreich-Landeshauptleute-uneins?from=rss"
+      "id" : "CVJrfvEC",
+      "imgUrl" : "https://image.kurier.at/images/original/4820682/46-173551638.jpg",
+      "titleSource" : "Österreichs erster Corona-Spürhund: Die goldene Nase von \"Fantasy Forever\"",
+      "titleTarget" : "Prvi austrijski pas njuškač korone: zlatni nos \"Fantasy Forever\"",
+      "url" : "https://kurier.at/politik/inland/oesterreichs-erster-corona-spuerhund-die-goldene-nase-von-fantasy-forever/401129451"
+    }, {
+      "id" : "1Q5Dni8G",
+      "imgUrl" : "https://image.kurier.at/images/original/4819674/46-173321311.jpg",
+      "titleSource" : "60 Prozent der Eltern kritisieren: Schulen nicht ausreichend \"corona-fit\"",
+      "titleTarget" : "60 posto roditelja kritizira: škole nisu dovoljno \"prikladne za koronu\"",
+      "url" : "https://kurier.at/politik/inland/60-prozent-der-eltern-kritisieren-schulen-nicht-ausreichend-corona-fit/401128851"
+    }, {
+      "id" : "Cg79hEdI",
+      "titleSource" : "Ibiza-Video: Anwalt will Auslieferung von Julian H. bekämpfen",
+      "titleTarget" : "Video s Ibize: Odvjetnik se želi boriti protiv izručenja Juliana H.",
+      "url" : "https://www.diepresse.com/5911513/Deutschland-Oesterreich_IbizaVideo_Anwalt-will-Auslieferung-von?from=rss"
+    }, {
+      "id" : "78R84hTD",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/a/7/5911463/B18602A0-42E0-4B79-86C2-D7DDC977AA80_v0_h.jpg",
+      "titleSource" : "Wann muss man sich, wann darf man sich impfen lassen?",
+      "titleTarget" : "Kada morate, kada se možete cijepiti?",
+      "url" : "https://www.diepresse.com/5911463/Impfstrategie_Wann-muss-man-sich-wann-darf-man-sich-impfen-lassen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "xXj4PCeW",
-      "imgUrl" : "https://image.kurier.at/images/original/4708527/46-167723301.jpg",
-      "titleSource" : "OGH stellt klar: Leiharbeiter gehören zur Belegschaft",
-      "titleTarget" : "OGH jasno kaže: Privremeni radnici dio su radne snage",
-      "url" : "https://kurier.at/wirtschaft/ogh-stellt-klar-leiharbeiter-gehoeren-zur-belegschaft/401128086"
+      "id" : "ErJuae0d",
+      "imgUrl" : "https://image.kurier.at/images/original/4819734/46-102758099.jpg",
+      "titleSource" : "Wilhelm Rasinger - der Sir des Kapitalmarktes ist tot",
+      "titleTarget" : "Wilhelm Rasinger - gospodin tržišta kapitala je mrtav",
+      "url" : "https://kurier.at/wirtschaft/wilhelm-rasinger-der-sir-des-kapitalmarktes-ist-tot/401128890"
     }, {
       "id" : "1GGaOFl6",
       "imgUrl" : "https://image.kurier.at/images/original/4819140/46-145411544.jpg",
@@ -41,88 +58,100 @@
       "titleTarget" : "Šumarstvo: Cijene drva su u podrumu",
       "url" : "https://kurier.at/wirtschaft/forstwirtschaft-holzpreise-sind-im-keller/401128440"
     }, {
+      "id" : "2zhMoCWX",
+      "imgUrl" : "https://image.kurier.at/images/original/1675539/46-28518711.jpg",
+      "titleSource" : "Produktionsstätte für gefälschten Champagner und Olivenöl entdeckt",
+      "titleTarget" : "Otkriven pogon za proizvodnju krivotvorenog šampanjca i maslinovog ulja",
+      "url" : "https://kurier.at/wirtschaft/produktionsstaette-fuer-gefaelschten-champagner-und-olivenoel-entdeckt/401129037"
+    }, {
+      "id" : "f7A6PSPb",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/2/6/5/5911141/-THEMENBILD--CORONA-EINKAUFSSTRASSE--HANDEL_1607929677857890_v0_l.jpg",
+      "titleSource" : "Österreicher bei finanziellem Wohlergehen europaweit auf Rang 2",
+      "titleTarget" : "Austrijanci su na drugom mjestu u Europi po financijskoj dobrobiti",
+      "url" : "https://www.diepresse.com/5911141/Wohlstandsbarometer_Oesterreicher-bei-finanziellem-Wohlergehen?from=rss"
+    }, {
       "id" : "jUaiEBkm",
       "imgUrl" : "https://image.kurier.at/images/original/4795320/46-106615492.jpg",
       "titleSource" : "Die Österreicher sind finanziell gut aufgestellt: Rang zwei in Europa",
       "titleTarget" : "Austrijanci su financijski dobro pozicionirani: drugi u Europi",
       "url" : "https://kurier.at/wirtschaft/die-oesterreicher-sind-finanziell-gut-aufgestellt/401128452"
     }, {
-      "id" : "qK1DWnLu",
-      "imgUrl" : "https://image.kurier.at/images/original/4748427/46-163583790.jpg",
-      "titleSource" : "Smíchov City: Strabag startet Prags größtes Bauprojekt",
-      "titleTarget" : "Grad Smíchov: Strabag započinje najveći praški građevinski projekt",
-      "url" : "https://kurier.at/wirtschaft/strabag-startet-prags-groesstes-bauprojekt/401128602"
+      "id" : "oSSNwrZr",
+      "imgUrl" : "https://image.kurier.at/images/original/4818720/46-173504825.jpg",
+      "titleSource" : "BioNTech-Investor beteiligt sich an Roboter-Start-up Bionic",
+      "titleTarget" : "Investitor BioNTech sudjeluje u pokretanju robota Bionic",
+      "url" : "https://kurier.at/wirtschaft/biontech-investor-beteiligt-sich-an-roboter-start-up-bionic/401128740"
     }, {
-      "id" : "zWq2hdTA",
-      "imgUrl" : "https://image.kurier.at/images/original/3621797/46-77403730.jpg",
-      "titleSource" : "EG Group kauft deutsches OMV-Tankstellengeschäft für 485 Millionen Euro",
-      "titleTarget" : "EG Group kupuje njemački OMV benzinski servis za 485 milijuna eura",
-      "url" : "https://kurier.at/wirtschaft/eg-group-kauft-deutsches-omv-tankstellengeschaeft-fuer-485-mio-euro/401128566"
-    }, {
-      "id" : "SnVgQjiC",
-      "imgUrl" : "https://image.kurier.at/images/original/4445540/46-61244059.jpg",
-      "titleSource" : "Plattform Reddit kauft Berliner TikTok-Konkurrenten Dubsmash",
-      "titleTarget" : "Reddit platforma kupuje konkurenta iz Berlina TikTok Dubsmash",
-      "url" : "https://kurier.at/wirtschaft/plattform-reddit-kauft-berliner-tiktok-konkurrenten-dubsmash/401128518"
-    }, {
-      "id" : "6M2Er8Iu",
-      "imgUrl" : "https://image.kurier.at/images/original/2804012/46-58642617.jpg",
-      "titleSource" : "Tojners Aluflexpack erwartet für 2020 mehr Umsatz und Gewinn",
-      "titleTarget" : "Tojners Aluflexpack očekuje veću prodaju i dobit za 2020. godinu",
-      "url" : "https://kurier.at/wirtschaft/tojners-aluflexpack-erwartet-fuer-2020-mehr-umsatz-und-gewinn/401128548"
+      "id" : "WaKmvnCK",
+      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "titleSource" : "Prime Video: Amazon und Sky verkünden Partnerschaft",
+      "titleTarget" : "Prime Video: Amazon i Sky najavljuju partnerstvo",
+      "url" : "https://kurier.at/wirtschaft/amazon-und-sky-verkuenden-partnerschaft/401128644"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "was6g9nA",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/81/crops/w=1280/766839_opener_266581_wallner.ashx.jpg?s=ebd58b5785fee0e22ce439fe54e4494ecfa0d392",
-      "titleSource" : "Wallner klar gegen eine Impfpflicht",
-      "titleTarget" : "Wallner jasno protiv obveznog cijepljenja",
-      "url" : "https://vorarlberg.orf.at/stories/3080403/"
-    }, {
-      "id" : "A441SHFX",
-      "titleSource" : "Fraktion der Freien LehrerInnen lehnt CoV-Testpflicht ab",
-      "titleTarget" : "Besplatna grupa učitelja odbija obvezno testiranje na CoV",
-      "url" : "https://vorarlberg.orf.at/stories/3080393/"
+      "id" : "aApO3ncm",
+      "imgUrl" : "https://image.kurier.at/images/original/4618358/46-166980160.jpg",
+      "titleSource" : "15-jährige Steirerin klagt gegen Maskenpflicht in der Schule",
+      "titleTarget" : "15-godišnja Štajerka žali se da je u školi potrebna maska",
+      "url" : "https://kurier.at/chronik/oesterreich/15-jaehrige-steirerin-klagt-gegen-maskenpflicht-in-der-schule/401128707"
     }, {
       "id" : "MdJq2R1u",
-      "imgUrl" : "https://image.kurier.at/images/original/4819353/46-168330915.jpg",
-      "titleSource" : "2.588 Neuinfektionen in Österreich; Gratis Tests vor Weihnachten kommen",
+      "imgUrl" : "https://image.kurier.at/images/original/4820496/46-173548302.jpg",
+      "titleSource" : "Anschober setzt statt hartem Lockdown auf Testen; Massentests in Wien: Favoritner blieben daheim",
       "titleTarget" : "2.588 novih infekcija u Austriji; Besplatne probe dolaze pred Božić",
       "url" : "https://kurier.at/chronik/oesterreich/gratis-tests-vor-weihnachten-kommen-massentests-4000-infizierte-bei-zwei-millionen-tests/401128383"
     }, {
-      "id" : "Nsqpuss3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/35/54/crops/w=1280/272026_opener_82254_cannabis_toepfe.jpg?s=64045a3c54cb18f8f72d8dea664cc1bb6669f85a",
-      "titleSource" : "Pensionisten zum Drogenanbau angestiftet",
-      "titleTarget" : "Poticali umirovljenike na uzgoj droge",
-      "url" : "https://kaernten.orf.at/stories/3080375/"
+      "id" : "GYPneJT7",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/80/crops/w=1280/784292_opener_273080_meldungsliste8_4.jpg?s=287833434272b8e41db27176ce1ffa244d95a39c",
+      "titleSource" : "Spürhunde sollen CoV-Infizierte erschnüffeln",
+      "titleTarget" : "Psi njuškari trebali bi nanjušiti ljude zaražene CoV-om",
+      "url" : "https://wien.orf.at/stories/3080537/"
     }, {
-      "id" : "4JceK9mc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/10/crops/w=1280/783359_opener_272710_a2.jpg?s=2861086e76299d6a5d8c134dbcd322f4330ccf08",
-      "titleSource" : "Innenstadt-Demo: Kritik an CoV-Maßnahmen",
-      "titleTarget" : "Demonstracija unutarnjeg grada: kritika mjera CoV",
-      "url" : "https://salzburg.orf.at/stories/3080392/"
+      "id" : "0GY6rB1l",
+      "titleSource" : "Niederösterreich für freiwillige Impfung",
+      "titleTarget" : "Donja Austrija za dobrovoljno cijepljenje",
+      "url" : "https://noe.orf.at/stories/3080422/"
     }, {
-      "id" : "Hocngi9e",
-      "imgUrl" : "https://image.kurier.at/images/original/4817532/46-173474874.jpg",
-      "titleSource" : "Schützenhöfer für allgemeine Impfpflicht, Kaiser dagegen",
-      "titleTarget" : "Schützenhöfer za opće obvezno cijepljenje, Kaiser protiv",
-      "url" : "https://kurier.at/chronik/oesterreich/steirischer-landeshauptmann-schuetzenhofer-fuer-impfpflicht/401127894"
+      "id" : "7NpS5rVi",
+      "imgUrl" : "https://image.kurier.at/images/original/4778679/46-168465991.jpg",
+      "titleSource" : "Einkaufen in Bayern: Mehrere Österreicher abgestraft",
+      "titleTarget" : "Kupovina u Bavarskoj: Kažnjeno nekoliko Austrijanaca",
+      "url" : "https://kurier.at/chronik/oesterreich/einkaufen-in-bayern-mehrere-oesterreicher-gestraft/401128545"
     }, {
-      "id" : "2guHapBf",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/92/crops/w=1280/783310_opener_272692_euro-city-express_astoro_auf_falsches_gleis_geleitet_3.jpg?s=a57bafab3652a40e500638473e9f866692a0833c",
-      "titleSource" : "Panne bei Premierenfahrt auf neuer Zugstrecke",
-      "titleTarget" : "Kvar tijekom prve vožnje na novoj ruti vlaka",
-      "url" : "https://vorarlberg.orf.at/stories/3080378/"
+      "id" : "Ts4niuhI",
+      "imgUrl" : "https://image.kurier.at/images/original/4817397/46-173467232.jpg",
+      "titleSource" : "Wo die wenigsten und wo die meisten zum Massentest gingen",
+      "titleTarget" : "Tamo gdje je najmanje i gdje je išla većina testova mase",
+      "url" : "https://kurier.at/chronik/oesterreich/massentests-4000-infizierte-bei-zwei-millionen-tests/401128377"
+    }, {
+      "id" : "JhfHmiiX",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.588 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "2.588 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2588-neue-corona-infektionen-in-oesterreich/401128647"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "tArTXR1e",
+      "imgUrl" : "https://image.kurier.at/images/original/4819677/46-113588257.jpg",
+      "titleSource" : "Richard Schmitt nicht mehr Chefredakteur von oe24.at",
+      "titleTarget" : "Richard Schmitt više nije glavni urednik oe24.at",
+      "url" : "https://kurier.at/kultur/medien/richard-schmitt-nicht-mehr-chefredakteur-von-oe24at/401128878"
+    }, {
       "id" : "hPQqK1uA",
       "imgUrl" : "https://image.kurier.at/images/original/4817655/46-173280716.jpg",
       "titleSource" : "Friedhofskirche: Eine echter Hingucker am Zentralfriedhof",
       "titleTarget" : "Friedhofskirche: Pravi upada u oči na središnjem groblju",
       "url" : "https://kurier.at/kultur/friedhofskirche-eine-echter-hingucker-am-zentralfriedhof/401127966"
+    }, {
+      "id" : "5bfbQ9wI",
+      "imgUrl" : "https://image.kurier.at/images/original/4819767/02-koekkoek_pugp.jpg",
+      "titleSource" : "Mit Meerschweinchen durchs neue Jahr",
+      "titleTarget" : "S zamorcima kroz novu godinu",
+      "url" : "https://kurier.at/kultur/mit-meerschweinchen-durchs-neue-jahr/401128689"
     }, {
       "id" : "QJohsMVl",
       "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
@@ -130,17 +159,11 @@
       "titleTarget" : "John le Carré umro je od upale pluća u 89. godini",
       "url" : "https://kurier.at/kultur/john-le-carre-starb-mit-89-jahren-an-lungenentzuendung/401128344"
     }, {
-      "id" : "lQnROh05",
-      "imgUrl" : "https://image.kurier.at/images/original/4818372/46-164252802.jpg",
-      "titleSource" : "Kunsthistorisches Museum: Neue Direktoren gesucht",
-      "titleTarget" : "Kunsthistorisches Museum: Traže se novi redatelji",
-      "url" : "https://kurier.at/kultur/kunsthistorisches-museum-neue-direktoren-gesucht/401128188"
-    }, {
-      "id" : "PYQjRGPc",
-      "imgUrl" : "https://image.kurier.at/images/original/4724799/46-166589735.jpg",
-      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
-      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
-      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401127102"
+      "id" : "y9LBGj5Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
+      "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
+      "titleTarget" : "Netrebkova prva bečka Tosca: trijumf",
+      "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
     }, {
       "id" : "weMfqIKa",
       "imgUrl" : "https://image.kurier.at/images/original/4819050/bildschirmfoto_2020-12-14_um_05.20.02.png",
@@ -153,12 +176,6 @@
       "titleSource" : "Medienlegionär Reinhard Scolik: \"Muss nicht auf den ORF schielen\"",
       "titleTarget" : "Medijski legionar Reinhard Scolik: \"Ne treba žmiriti na ORF-u\"",
       "url" : "https://kurier.at/kultur/medien/medienlegionaer-reinhard-scolik-muss-nicht-auf-den-orf-schielen/401128212"
-    }, {
-      "id" : "y9LBGj5Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
-      "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
-      "titleTarget" : "Netrebkova prva bečka Tosca: trijumf",
-      "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
     } ]
   }, {
     "category" : "HEALTH",
@@ -166,42 +183,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "ss0Tl7w2",
-      "titleSource" : "Trainerlegende Otto Baric ist tot",
-      "titleTarget" : "Trenerska legenda Otto Barić je mrtav",
-      "url" : "https://sport.orf.at/stories/3070630/"
+      "id" : "j3UbPt3O",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/8/5911064/4920A56B-6376-4742-8810-C69854239337_v0_h.jpg",
+      "titleSource" : "Otto Bari ist tot: Er war ein Vulkan an der Seitenlinie",
+      "titleTarget" : "Otto Bari je mrtav: bio je vulkan sa strane",
+      "url" : "https://www.diepresse.com/5911064/Nachruf_Otto-Baric-ist-tot_Er-war-ein-Vulkan-an-der-Seitenlinie?from=rss"
     }, {
-      "id" : "0CM0zl4d",
-      "imgUrl" : "https://image.kurier.at/images/original/4818909/46-3815847.jpg",
-      "titleSource" : "Trainer-Legende Otto Baric am Coronavirus verstorben",
-      "titleTarget" : "Legenda trenera Otto Barić umro je od virusa korone",
-      "url" : "https://kurier.at/sport/fussball/trainer-legende-otto-baric-am-coronavirus-verstorben/401128272"
+      "id" : "XaZ2IeX1",
+      "titleSource" : "Shiffrin gewinnt zweiten RTL in Courchevel",
+      "titleTarget" : "Shiffrin je osvojio drugi RTL u Courchevelu",
+      "url" : "https://sport.orf.at/stories/3070666/"
     }, {
-      "id" : "lwQsmNHp",
-      "titleSource" : "Ex-ÖFB-Teamchef Otto Baric verstorben",
-      "titleTarget" : "Preminuo je bivši šef momčadi ÖFB Otto Barić",
-      "url" : "https://sport.orf.at/stories/3070629/"
-    }, {
-      "id" : "NF3Hs5w0",
-      "imgUrl" : "https://image.kurier.at/images/original/4818585/46-148824557.jpg",
-      "titleSource" : "Marcel Hirscher auf Rennskiern und die Gerüchteküche brodelt",
-      "titleTarget" : "Marcel Hirscher na trkaćim skijama i mlin za glasine tinja",
-      "url" : "https://kurier.at/sport/wintersport/marcel-hirscher-auf-rennskiern-und-die-geruechtekueche-brodelt/401128200"
-    }, {
-      "id" : "ki3SbiXv",
-      "titleSource" : "Höck erobert historisches Silber",
-      "titleTarget" : "Höck osvaja povijesno srebro",
-      "url" : "https://sport.orf.at/stories/3070618/"
+      "id" : "8kE313Kf",
+      "imgUrl" : "https://image.kurier.at/images/original/4818921/46-173528414.jpg",
+      "titleSource" : "Rapid geht der Saft aus: \"Wir sind am Limit, eigentlich drüber\"",
+      "titleTarget" : "Brzo ponestaje soka: \"Mi smo na granici, zapravo više\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-geht-der-saft-aus-wir-sind-am-limit-eigentlich-drueber/401128269"
     }, {
       "id" : "lrp6Ly9P",
       "titleSource" : "Zwölfjähriger Wels-Spieler gewinnt sensationell CL-Partie",
       "titleTarget" : "Dvanaestogodišnji igrač soma senzacionalno pobjeđuje u CL utakmici",
       "url" : "https://sport.orf.at/stories/3070639/"
     }, {
-      "id" : "rZbV9Sw1",
-      "titleSource" : "Salzburg dreht Schlager gegen LASK",
-      "titleTarget" : "Salzburg okreće Schlagera protiv LASK-a",
-      "url" : "https://sport.orf.at/stories/3070627/"
+      "id" : "r1GEXgcO",
+      "titleSource" : "Hohe Hürden für WAC und „Bullen“",
+      "titleTarget" : "Visoke prepreke za WAC i \"policajce\"",
+      "url" : "https://sport.orf.at/stories/3070665/"
+    }, {
+      "id" : "nK1QPavv",
+      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
+      "titleTarget" : "Prva pobjeda u Europskom kupu za Lahnsteinera",
+      "url" : "https://sport.orf.at/stories/3070664/"
+    }, {
+      "id" : "lxUlrz73",
+      "imgUrl" : "https://image.kurier.at/images/original/4819785/1.jpg",
+      "titleSource" : "David Alaba sorgt für Freude im St. Anna Kinderspital",
+      "titleTarget" : "David Alaba unosi radost u dječju bolnicu St. Anna",
+      "url" : "https://kurier.at/sport/fussball/david-alaba-sorgt-fuer-freude-im-st-anna-kinderspital/401128980"
     } ]
   } ],
   "country" : "austria",
