@@ -2,35 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "SYtainJC",
-      "imgUrl" : "https://image.kurier.at/images/original/4819935/46-173548320.jpg",
-      "titleSource" : "Anschober setzt auf Testen statt hartem Lockdown wie in Deutschland",
-      "titleTarget" : "Anschober se oslanja na testiranje umjesto na tvrdo zaključavanje kao u Njemačkoj",
-      "url" : "https://kurier.at/politik/inland/anschober-setzt-auf-testen-statt-hartem-lockdown-wie-in-deutschland/401129022"
+      "id" : "ZTN0A8PO",
+      "imgUrl" : "https://image.kurier.at/images/original/4592393/20200823-ABD0052-1-1.jpg",
+      "titleSource" : "Einreisen nach Österreich? Das heißt: Quarantäne für (fast) alle",
+      "titleTarget" : "Ulazak u Austriju? To znači: karantena za (gotovo) sve",
+      "url" : "https://kurier.at/politik/inland/einreise-nach-oesterreich-das-heisst-quarantaene-fuer-fast-alle/401130363"
     }, {
-      "id" : "iMHKatc0",
-      "imgUrl" : "https://image.kurier.at/images/original/1887619/studenten-000_APA_HELMUT%252BFOHRINGER.jpg",
-      "titleSource" : "800 Euro: Wegen Corona soll ein neuer Härtefonds Studenten helfen",
-      "titleTarget" : "800 eura: Zbog Corone, novi fond za teškoće trebao bi pomoći studentima",
-      "url" : "https://kurier.at/politik/inland/800-euro-wegen-corona-soll-ein-neuer-haertefonds-studenten-helfen/401129193"
+      "id" : "aI3CKi6a",
+      "imgUrl" : "https://image.kurier.at/images/original/4821948/46-169335569.jpg",
+      "titleSource" : "Fix: Schulstart am 11. Jänner erst nach Massentests",
+      "titleTarget" : "Popravak: Škola počinje 11. siječnja tek nakon masovnih testova",
+      "url" : "https://kurier.at/politik/inland/coronavirus-schulstart-im-jaenner-erst-nach-schueler-und-lehrertests/401130237"
     }, {
-      "id" : "V4OXw4uK",
-      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
-      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
-      "titleTarget" : "\"Nikada prije nije se tako žestoko borio U-odbor\": Poluvrijeme u Odboru Ibiza",
-      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
-    }, {
-      "id" : "RI0AaKFW",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/d/5911629/An-unlit-Christmas-tree-is-seen-at-Schoenbrunn-Palace-in-Vienna_160802404374483_v0_h.jpg",
-      "titleSource" : "Heimfahren zu Weihnachten? Corona-Einreiseverordnung ausständig",
-      "titleTarget" : "Voziti se kući za Božić? Na snazi je regulacija ulaska u Coronu",
-      "url" : "https://www.diepresse.com/5911629/Auslandsoesterreicher_Heimfahren-zu-Weihnachten?from=rss"
-    }, {
-      "id" : "1Q5Dni8G",
-      "imgUrl" : "https://image.kurier.at/images/original/4819674/46-173321311.jpg",
-      "titleSource" : "60 Prozent der Eltern kritisieren: Schulen nicht ausreichend \"corona-fit\"",
-      "titleTarget" : "60 posto roditelja kritizira: škole nisu dovoljno \"prikladne za koronu\"",
-      "url" : "https://kurier.at/politik/inland/60-prozent-der-eltern-kritisieren-schulen-nicht-ausreichend-corona-fit/401128851"
+      "id" : "E56vspJF",
+      "imgUrl" : "https://image.kurier.at/images/original/4811202/78350011457898438_BLD_Online.jpg",
+      "titleSource" : "Verwirrung um Maskenpflicht zu Weihnachten",
+      "titleTarget" : "Zbrka oko zahtjeva za maskom za Božić",
+      "url" : "https://kurier.at/politik/inland/weihnachten-mit-maske-und-mit-wem-sie-weihnachten-feiern-duerfen-und-mit-wem-nicht/401130423"
     }, {
       "id" : "Rwf1bz7e",
       "imgUrl" : "https://image.kurier.at/images/original/4814571/78350011457923386_BLD_Online.jpg",
@@ -38,32 +26,32 @@
       "titleTarget" : "Zabrana marame: Zeleni isključuju nove propise",
       "url" : "https://kurier.at/politik/inland/kopftuchverbot-gruene-schliessen-neuregelung-aus/401129796"
     }, {
-      "id" : "umChOMAY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/a/5911674/4D62BDB6-D71A-4D62-964A-334B2958F1C4_v0_l.jpg",
-      "titleSource" : "Lehrer stemmen sich gegen Coronatest- und Impfverpflichtung",
-      "titleTarget" : "Učitelji se opiru obvezama ispitivanja korone i cijepljenja",
-      "url" : "https://www.diepresse.com/5911674/Schule_Lehrer-stemmen-sich-gegen-Coronatest-und-Impfverpflichtung?from=rss"
+      "id" : "RI0AaKFW",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/d/5911629/An-unlit-Christmas-tree-is-seen-at-Schoenbrunn-Palace-in-Vienna_160802404374483_v0_h.jpg",
+      "titleSource" : "Heimfahren zu Weihnachten? Corona-Einreiseverordnung ausständig",
+      "titleTarget" : "Voziti se kući za Božić? Na snazi je regulacija ulaska u Coronu",
+      "url" : "https://www.diepresse.com/5911629/Auslandsoesterreicher_Heimfahren-zu-Weihnachten?from=rss"
+    }, {
+      "id" : "a7ZIQTUN",
+      "imgUrl" : "https://image.kurier.at/images/original/4822326/46-173458895.jpg",
+      "titleSource" : "ÖVP-Nachhaltigkeitssprecherin plädiert für Plastiktrennung in Städten",
+      "titleTarget" : "Glasnogovornica održivosti ÖVP poziva na odvajanje plastike u gradovima",
+      "url" : "https://kurier.at/politik/inland/oevp-nachhaltigkeitssprecherin-plaediert-fuer-plastiktrennung-in-staedten/401130354"
+    }, {
+      "id" : "I8m68A9g",
+      "imgUrl" : "https://image.kurier.at/images/original/4821816/uaaanbenannt.jpg",
+      "titleSource" : "Babyelefant in Not, zeigt die Regierung",
+      "titleTarget" : "Slončić u potrebi, pokazuje vlada",
+      "url" : "https://kurier.at/politik/inland/babyelefant-in-not-zeigt-die-regierung/401130171"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ErJuae0d",
-      "imgUrl" : "https://image.kurier.at/images/original/4819734/46-102758099.jpg",
-      "titleSource" : "Wilhelm Rasinger - der Sir des Kapitalmarktes ist tot",
-      "titleTarget" : "Wilhelm Rasinger - gospodin tržišta kapitala je mrtav",
-      "url" : "https://kurier.at/wirtschaft/wilhelm-rasinger-der-sir-des-kapitalmarktes-ist-tot/401128890"
-    }, {
-      "id" : "lWoG6sXh",
-      "imgUrl" : "https://image.kurier.at/images/original/4566017/46-163679547.jpg",
-      "titleSource" : "ÖBB betreiben erstmals Nahverkehr zwischen Bratislava und Komarno",
-      "titleTarget" : "ÖBB prvi put obavlja lokalni prijevoz između Bratislave i Komarna",
-      "url" : "https://kurier.at/wirtschaft/oebb-betreiben-erstmals-nahverkehr-zwischen-bratislava-und-komarno/401128887"
-    }, {
-      "id" : "2zhMoCWX",
-      "imgUrl" : "https://image.kurier.at/images/original/1675539/46-28518711.jpg",
-      "titleSource" : "Produktionsstätte für gefälschten Champagner und Olivenöl entdeckt",
-      "titleTarget" : "Otkriven pogon za proizvodnju krivotvorenog šampanjca i maslinovog ulja",
-      "url" : "https://kurier.at/wirtschaft/produktionsstaette-fuer-gefaelschten-champagner-und-olivenoel-entdeckt/401129037"
+      "id" : "nJdhTaJA",
+      "imgUrl" : "https://image.kurier.at/images/original/4739796/46-163747842.jpg",
+      "titleSource" : "Weitere Corona-Hilfen ab Mittwoch beantragbar",
+      "titleTarget" : "Daljnja pomoć za koronu može se zatražiti od srijede",
+      "url" : "https://kurier.at/wirtschaft/weitere-corona-hilfen-ab-mittwoch-beantragbar/401129958"
     }, {
       "id" : "Ql7vH3es",
       "imgUrl" : "https://image.kurier.at/images/original/4820964/46-150034918.jpg",
@@ -71,32 +59,44 @@
       "titleTarget" : "Ceconomy u cijelosti preuzima MediaSaturn",
       "url" : "https://kurier.at/wirtschaft/ceconomy-uebernimmt-mediasaturn-ganz/401129625"
     }, {
-      "id" : "71dl8lAS",
-      "imgUrl" : "https://image.kurier.at/images/original/4820706/46-167027822.jpg",
-      "titleSource" : "Porr erhielt Auftrag für britische Hochgeschwindigkeitsbahn",
-      "titleTarget" : "Porr je dobio narudžbu za britansku brzu željeznicu",
-      "url" : "https://kurier.at/wirtschaft/porr-erhielt-auftrag-fuer-britische-hochgeschwindigkeitsbahn/401129466"
+      "id" : "IYBzcWK1",
+      "imgUrl" : "https://image.kurier.at/images/original/4741191/46-167684213.jpg",
+      "titleSource" : "Pkw-Neuzulassungen fallen auf 33-Jahres-Tief",
+      "titleTarget" : "Registracije novih automobila padaju na najniži nivo od 33 godine",
+      "url" : "https://kurier.at/wirtschaft/pkw-neuzulassungen-fallen-auf-33-jahres-tief/401130726"
     }, {
-      "id" : "nJdhTaJA",
-      "imgUrl" : "https://image.kurier.at/images/original/4739796/46-163747842.jpg",
-      "titleSource" : "Weitere Corona-Hilfen ab Mittwoch beantragbar",
-      "titleTarget" : "Daljnja pomoć za koronu može se zatražiti od srijede",
-      "url" : "https://kurier.at/wirtschaft/weitere-corona-hilfen-ab-mittwoch-beantragbar/401129958"
+      "id" : "OUJ1rzI0",
+      "imgUrl" : "https://image.kurier.at/images/original/4822827/46-173265135.jpg",
+      "titleSource" : "Brüssel eröffnet den Kampf gegen Big-Tech-Giganten",
+      "titleTarget" : "Bruxelles otvara borbu protiv velikih tehnoloških divova",
+      "url" : "https://kurier.at/wirtschaft/bruessel-eroeffnet-den-kampf-gegen-big-tech-giganten/401130660"
     }, {
-      "id" : "DWGhocVS",
-      "imgUrl" : "https://image.kurier.at/images/original/4811709/46-173397401.jpg",
-      "titleSource" : "Design der Woche: Schaukeln, wie früher",
-      "titleTarget" : "Dizajn tjedna: ljuljačke kao nekada",
-      "url" : "https://kurier.at/wirtschaft/immobiz/design-der-woche-schaukeln-wie-frueher/401125341"
+      "id" : "RXEcuB9a",
+      "imgUrl" : "https://image.kurier.at/images/original/3067734/78350011445504320_BLD_Online.jpg",
+      "titleSource" : "Katastrophen verursachten Schäden von 154 Milliarden Euro",
+      "titleTarget" : "Katastrofe su nanijele štetu od 154 milijarde eura",
+      "url" : "https://kurier.at/wirtschaft/katastrophen-verursachten-schaeden-von-154-milliarden-euro/401130717"
+    }, {
+      "id" : "g85Qqybt",
+      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "titleSource" : "Allianz gegen Online-Riesen Amazon",
+      "titleTarget" : "Savez protiv internetskog diva Amazona",
+      "url" : "https://kurier.at/wirtschaft/allianz-gegen-online-riesen-amazon/401130630"
+    }, {
+      "id" : "4LKZ8OHW",
+      "imgUrl" : "https://image.kurier.at/images/original/4405661/78370011354790386_BLD_Online.jpg",
+      "titleSource" : "OMV investiert kräftig  in die Biodiesel-Produktion",
+      "titleTarget" : "OMV ulaže velika sredstva u proizvodnju biodizela",
+      "url" : "https://kurier.at/wirtschaft/omv-investiert-kraeftig-in-die-biodiesel-produktion/401129970"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "MUjN8Gc3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/37/48/crops/w=1280/682411_opener_235648_coronavirustest.jpg?s=eb6dab4ef02bb885772942e03a26b2a2e1a2a4e9",
-      "titleSource" : "LH Kaiser will verlängerte Weihnachtsferien",
-      "titleTarget" : "LH Kaiser želi produžene božićne blagdane",
-      "url" : "https://kaernten.orf.at/stories/3080560/"
+      "id" : "h4J4b9hR",
+      "imgUrl" : "https://image.kurier.at/images/original/4821825/46-164698987.jpg",
+      "titleSource" : "Maskenpflicht: Tiroler Eltern ziehen vor VfGH",
+      "titleTarget" : "Zahtjev za maskom: tirolski roditelji preferiraju VfGH",
+      "url" : "https://kurier.at/chronik/oesterreich/maskenpflicht-tiroler-eltern-ziehen-vor-vfgh/401130054"
     }, {
       "id" : "wuOlZ1Pl",
       "imgUrl" : "https://image.kurier.at/images/original/4821048/46-168606190.jpg",
@@ -104,78 +104,80 @@
       "titleTarget" : "Anschober i Kollaritsch za racionalne odluke o cijepljenju",
       "url" : "https://kurier.at/chronik/oesterreich/anschober-und-kollaritsch-fuer-rationale-impfentscheidung/401129688"
     }, {
-      "id" : "4xg9PdJy",
-      "imgUrl" : "https://image.kurier.at/images/original/4820646/46-169057524.jpg",
-      "titleSource" : "Klare Absage an Impfpflicht aus Salzburg",
-      "titleTarget" : "Jasno odbijanje obveznog cijepljenja iz Salzburga",
-      "url" : "https://kurier.at/chronik/oesterreich/klare-absage-an-impfpflicht-aus-salzburg/401129445"
+      "id" : "yrlA5uSn",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/14/crops/w=1280/785720_opener_273614_protest_abschiebungen_rossauer_laende_52226_00_02_14_11.jpg?s=58b9d36f9cee920f3be589e86e293be292eec9fb",
+      "titleSource" : "Anti-Abschiebungsdemo führte zu Stau",
+      "titleTarget" : "Demonstracije protiv deportacije dovele su do gužve u prometu",
+      "url" : "https://wien.orf.at/stories/3080767/"
     }, {
-      "id" : "9peTi1ZC",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/07/56/crops/w=1280/465260_opener_155556_staats1.jpg?s=def662f5a8795ec95fccc51c5a6d09054e9f1cc0",
-      "titleSource" : "Politiker wegen Vergewaltigung vor Gericht",
-      "titleTarget" : "Sudi se političaru zbog silovanja",
-      "url" : "https://ooe.orf.at/stories/3080602/"
+      "id" : "8AmoTl1Y",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/61/crops/w=1280/784766_opener_273261_tischtennis_1._fc_saarbruecken_-_spg_walter_wels_3.jpg?s=d56d12fcae41f5fcdaac2644e2ebb5ec43b8ec6b",
+      "titleSource" : "12-Jähriger schreibt Tischtennis-Geschichte",
+      "titleTarget" : "Dvanaestogodišnjak stvara povijest stolnog tenisa",
+      "url" : "https://noe.orf.at/stories/3080591/"
     }, {
-      "id" : "V0u4LJl4",
-      "titleSource" : "Falscher Arzt betäubte und beraubte Frauen",
-      "titleTarget" : "Pogrešan liječnik drogirao je i pljačkao žene",
-      "url" : "https://noe.orf.at/stories/3080595/"
+      "id" : "p9T7y30L",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/49/crops/w=1280/785513_opener_273549_hollersbach_fin.jpg?s=2dd316de67ba035fb558a3eb4e9e2cb5eaa819c1",
+      "titleSource" : "Chalets in Hollersbach: Widerstand gegen weitere Pläne",
+      "titleTarget" : "Chalets in Hollersbach: Otpor daljnjim planovima",
+      "url" : "https://salzburg.orf.at/stories/3080733/"
     }, {
       "id" : "YSeVNCK8",
-      "imgUrl" : "https://image.kurier.at/images/original/4821453/46-173551944.jpg",
-      "titleSource" : "2.628 Neuinfektionen in Ö; Neue Mutation in Großbritannien aufgetaucht",
+      "imgUrl" : "https://image.kurier.at/images/original/4822602/46-173560439.jpg",
+      "titleSource" : "Das Christkind bringt die Impfung; Schulstart am 11. Jänner nach Massentests",
       "titleTarget" : "2.628 novih infekcija u Austriji; Nova mutacija pojavila se u Velikoj Britaniji",
       "url" : "https://kurier.at/chronik/oesterreich/deutschland-draengt-impfstoff-vor-weihnachten-zulassen-who-auch-nach-impfung-masken-tragen/401129730"
     }, {
-      "id" : "v0QHWtqO",
-      "titleSource" : "Festnahme nach Verfolgungsjagd und Schreckschüssen",
-      "titleTarget" : "Uhićen nakon potjere za automobilom i pucnjave u prazno",
-      "url" : "https://burgenland.orf.at/stories/3080567/"
+      "id" : "kYegimHE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/47/crops/w=1280/751975_opener_261047_lockdowngrafiti.jpg?s=5e529435852c08f7c9f090177865c2471cecc00e",
+      "titleSource" : "20 Prozent mehr Radverkehr im Lockdown",
+      "titleTarget" : "20 posto više biciklističkog prometa u zaključanom položaju",
+      "url" : "https://wien.orf.at/stories/3080664/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "tArTXR1e",
-      "imgUrl" : "https://image.kurier.at/images/original/4819677/46-113588257.jpg",
-      "titleSource" : "Richard Schmitt nicht mehr Chefredakteur von oe24.at",
-      "titleTarget" : "Richard Schmitt više nije glavni urednik oe24.at",
-      "url" : "https://kurier.at/kultur/medien/richard-schmitt-nicht-mehr-chefredakteur-von-oe24at/401128878"
+      "id" : "4CVQVyLh",
+      "imgUrl" : "https://image.kurier.at/images/original/4456994/46-164422974.jpg",
+      "titleSource" : "Entgegen der Hoffnungen kein Umsatz-Ersatz für Künstler",
+      "titleTarget" : "Suprotno nadanjima, nema zamjene za prodaju umjetnika",
+      "url" : "https://kurier.at/kultur/entgegen-der-hoffnungen-kein-umsatz-ersatz-fuer-kuenstler/401130714"
     }, {
-      "id" : "5bfbQ9wI",
-      "imgUrl" : "https://image.kurier.at/images/original/4819767/02-koekkoek_pugp.jpg",
-      "titleSource" : "Mit Meerschweinchen durchs neue Jahr",
-      "titleTarget" : "S zamorcima kroz novu godinu",
-      "url" : "https://kurier.at/kultur/mit-meerschweinchen-durchs-neue-jahr/401128689"
+      "id" : "FeXzZrnA",
+      "imgUrl" : "https://image.kurier.at/images/original/4820913/46-173290199.jpg",
+      "titleSource" : "Liebe ist Liebe: Homoerotik mit Andy Warhol",
+      "titleTarget" : "Ljubav je ljubav: homoerotizam s Andyjem Warholom",
+      "url" : "https://kurier.at/kultur/liebe-ist-liebe-homoerotik-mit-andy-warhol/401129586"
     }, {
-      "id" : "jXhLQH1A",
-      "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
-      "titleSource" : "Nachruf auf John le Carré: Diesseits von Gut und Böse",
-      "titleTarget" : "Nekrolog za Johna le Carréa: Ova strana dobrog i lošeg",
-      "url" : "https://kurier.at/kultur/nachruf-auf-john-le-carre-diesseits-von-gut-und-boese/401129430"
+      "id" : "n0A874U2",
+      "imgUrl" : "https://image.kurier.at/images/original/4822407/46-173568363.jpg",
+      "titleSource" : "Diagonale 2021: Eröffnungsfilm im Gefängnismilieu",
+      "titleTarget" : "Diagonale 2021: otvaranje filma u zatvorskom okruženju",
+      "url" : "https://kurier.at/kultur/diagonale-2021-eroeffnungsilm-im-gefaengnismilieu/401130426"
     }, {
-      "id" : "prpgWfka",
-      "imgUrl" : "https://image.kurier.at/images/original/4820610/46-163727648.jpg",
-      "titleSource" : "\"Danke für nichts, 2020\": Jede Menge satirische TV-Jahresrückblicke",
-      "titleTarget" : "\"Hvala za ništa, 2020\": Puno satiričnih TV emisija godine",
-      "url" : "https://kurier.at/kultur/medien/danke-fuer-nichts-2020-jede-menge-satirische-tv-jahresrueckblicke/401129328"
+      "id" : "hlwqYIjH",
+      "imgUrl" : "https://image.kurier.at/images/original/4821672/46-173564754.jpg",
+      "titleSource" : "Wiener Team gewann Wettbewerb für die neue Stadthalle \"Arena\"",
+      "titleTarget" : "Bečka momčad pobijedila u konkurenciji za novu gradsku vijećnicu \"Arenu\"",
+      "url" : "https://kurier.at/kultur/wiener-team-gewann-wettbewerb-fuer-die-neue-stadthalle-arena/401130096"
     }, {
-      "id" : "iuEF9ILW",
-      "imgUrl" : "https://image.kurier.at/images/original/4820265/46-173458766.jpg",
-      "titleSource" : "Landkrimi aus Kärnten: Schnaps, Einsamkeit und \"Waidmannsdank\"",
-      "titleTarget" : "Seoski triler iz Koruške: rakija, usamljenost i \"Waidmannsdank\"",
-      "url" : "https://kurier.at/kultur/landkrimi-aus-kaernten-schnaps-einsamkeit-und-waidmannsdank/401129265"
+      "id" : "Wb30OowP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/b/d/5911997/BB067A19-830D-4701-8ABF-239438096292_v0_l.jpg",
+      "titleSource" : "Die Wildnis sei hart? Das Teenie-Leben ist hart!",
+      "titleTarget" : "Je li divljina teška? Život tinejdžera je težak!",
+      "url" : "https://www.diepresse.com/5911997/Serie-The-Wilds_Die-Wildnis-sei-hart-Das-TeenieLeben-ist-hart?from=rss"
     }, {
-      "id" : "hM4qdjBm",
-      "imgUrl" : "https://image.kurier.at/images/original/4820865/46-173554638.jpg",
-      "titleSource" : "Tony Blair kommt auf die Opernbühne - mit Lady Di und Saddam Hussein",
-      "titleTarget" : "Tony Blair dolazi na opernu scenu - s Lady Di i Sadamom Husseinom",
-      "url" : "https://kurier.at/kultur/tony-blair-kommt-auf-die-opernbuehne-mit-prinzessin-diana-und-saddam-hussein/401129562"
+      "id" : "vx80Q6zN",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/5/4/5911636/01_Cover_160802467877638_v0_h.jpg",
+      "titleSource" : "\"Journalisten des Jahres\": Wolf vorne, Sonderpreis für Baltaci",
+      "titleTarget" : "\"Novinari godine\": Vuk ispred, posebna nagrada za Baltacije",
+      "url" : "https://www.diepresse.com/5911636/Onlineabstimmung_Journalisten-des-Jahres_Wolf-vorne-Sonderpreis?from=rss"
     }, {
-      "id" : "Khnj2QCs",
-      "imgUrl" : "https://image.kurier.at/images/original/4820286/46-168678730.jpg",
-      "titleSource" : "Allianz fordert staatlich geförderten digitalen Kultur-TV-Kanal",
-      "titleTarget" : "Allianz poziva na televizijski kanal digitalne kulture koji sponzorira država",
-      "url" : "https://kurier.at/kultur/medien/allianz-kunst-kultur-sport-fordert-staatlich-gefoerderten-digitalen-kultur-tv-kanal/401129184"
+      "id" : "6BILFaZp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/e/8/5911784/babyelefant_1608035995614811.jpg",
+      "titleSource" : "Werbespot der Regierung: Der Babyelefant ist jetzt ein Kind",
+      "titleTarget" : "Vladina reklama: Slončić je sada dijete",
+      "url" : "https://www.diepresse.com/5911784/Werbespot-der-Regierung_Der-Babyelefant-ist-jetzt-ein-Kind?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -183,42 +185,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "lxUlrz73",
-      "imgUrl" : "https://image.kurier.at/images/original/4819785/1.jpg",
-      "titleSource" : "David Alaba sorgt für Freude im St. Anna Kinderspital",
-      "titleTarget" : "David Alaba unosi radost u dječju bolnicu St. Anna",
-      "url" : "https://kurier.at/sport/fussball/david-alaba-sorgt-fuer-freude-im-st-anna-kinderspital/401128980"
+      "id" : "lINq7pHC",
+      "titleSource" : "Agent ersetzt NBA-Spieler Gehalt",
+      "titleTarget" : "Agent zamjenjuje plaću NBA igrača",
+      "url" : "https://sport.orf.at/stories/3070684/"
     }, {
-      "id" : "XaZ2IeX1",
-      "titleSource" : "Shiffrin gewinnt zweiten RTL in Courchevel",
-      "titleTarget" : "Shiffrin je osvojio drugi RTL u Courchevelu",
-      "url" : "https://sport.orf.at/stories/3070666/"
+      "id" : "tvqpMGtl",
+      "titleSource" : "Kampf um Titel offen wie selten",
+      "titleTarget" : "Borite se za naslov otvoreno kao rijetko",
+      "url" : "https://sport.orf.at/stories/3070663/"
     }, {
-      "id" : "Ec3xceWB",
-      "imgUrl" : "https://image.kurier.at/images/original/4819530/46-145624957.jpg",
-      "titleSource" : "Trauer um Trainer-Legende: Ex-Red-Bull-Fußballchef ist tot",
-      "titleTarget" : "Tugujući za legendom trenera: Nogometni šef bivšeg Red Bull-a mrtav",
-      "url" : "https://kurier.at/sport/fussball/einen-tag-nach-otto-baric-frankreichs-fussball-trauert-auch-um-legende-gerard-houllier/401128782"
+      "id" : "a3NIrdZq",
+      "imgUrl" : "https://image.kurier.at/images/original/4822548/46-167501963.jpg",
+      "titleSource" : "Operation Aderlass: Arzt Mark S. will beim Anti-Doping-Kampf helfen",
+      "titleTarget" : "Operacija puštanja krvi: liječnik Mark S. želi pomoći u borbi protiv dopinga",
+      "url" : "https://kurier.at/sport/wintersport/operation-aderlass-arzt-mark-s-will-beim-anti-doping-kampf-helfen/401130474"
     }, {
-      "id" : "r1GEXgcO",
-      "titleSource" : "Hohe Hürden für WAC und „Bullen“",
-      "titleTarget" : "Visoke prepreke za WAC i \"policajce\"",
-      "url" : "https://sport.orf.at/stories/3070665/"
-    }, {
-      "id" : "WRXEj48n",
-      "titleSource" : "Shiffrin feiert emotionalen Comebacksieg",
-      "titleTarget" : "Shiffrin slavi emocionalnu pobjedu u povratku",
-      "url" : "https://sport.orf.at/stories/3070658/"
-    }, {
-      "id" : "nK1QPavv",
-      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
-      "titleTarget" : "Prva pobjeda u Europskom kupu za Lahnsteinera",
-      "url" : "https://sport.orf.at/stories/3070664/"
+      "id" : "cQF3sNPu",
+      "titleSource" : "Roma-Spieler wegen Gotteslästerung gesperrt",
+      "titleTarget" : "Romski igrači zabranjeni zbog bogohuljenja",
+      "url" : "https://sport.orf.at/stories/3070683/"
     }, {
       "id" : "UmU3Jsiz",
       "titleSource" : "Nur WAC freut sich über „Traumlos“",
       "titleTarget" : "Samo je WAC zadovoljan zbog \"Traumlosa\"",
       "url" : "https://sport.orf.at/stories/3070669/"
+    }, {
+      "id" : "NcruOcPA",
+      "imgUrl" : "https://image.kurier.at/images/original/4822524/46-173566988.jpg",
+      "titleSource" : "Rapid-Coach Kühbauer über Kritik: \"Das ist respektlos\"",
+      "titleTarget" : "Trener brzih Kühbauera na kritike: \"To je nepoštovanje\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-coach-kuehbauer-ueber-kritik-das-ist-respektlos/401130483"
+    }, {
+      "id" : "6VKJvzXx",
+      "imgUrl" : "https://image.kurier.at/images/original/4821396/46-167616520.jpg",
+      "titleSource" : "Nach Debakel gegen Altach: Ried-Trainer Baumgartner muss gehen",
+      "titleTarget" : "Nakon debakla protiv Altacha: Trener Rieda Baumgartner mora ići",
+      "url" : "https://kurier.at/sport/fussball/nach-heim-debakel-gegen-altach-ried-trainer-gerald-baumgartner-muss-gehen/401129925"
     } ]
   } ],
   "country" : "austria",
