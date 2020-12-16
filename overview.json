@@ -8,6 +8,12 @@
       "titleTarget" : "Ulazak u Austriju? To znači: karantena za (gotovo) sve",
       "url" : "https://kurier.at/politik/inland/einreise-nach-oesterreich-das-heisst-quarantaene-fuer-fast-alle/401130363"
     }, {
+      "id" : "VWL9uBtX",
+      "imgUrl" : "https://image.kurier.at/images/original/4817844/81670356457950350_BLD_Online.jpg",
+      "titleSource" : "Das Christkind bringt die Impfung",
+      "titleTarget" : "Christ Child donosi cijepljenje",
+      "url" : "https://kurier.at/politik/inland/das-christkind-bringt-die-impfung/401130750"
+    }, {
       "id" : "aI3CKi6a",
       "imgUrl" : "https://image.kurier.at/images/original/4821948/46-169335569.jpg",
       "titleSource" : "Fix: Schulstart am 11. Jänner erst nach Massentests",
@@ -26,23 +32,17 @@
       "titleTarget" : "Zabrana marame: Zeleni isključuju nove propise",
       "url" : "https://kurier.at/politik/inland/kopftuchverbot-gruene-schliessen-neuregelung-aus/401129796"
     }, {
-      "id" : "RI0AaKFW",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/d/5911629/An-unlit-Christmas-tree-is-seen-at-Schoenbrunn-Palace-in-Vienna_160802404374483_v0_h.jpg",
-      "titleSource" : "Heimfahren zu Weihnachten? Corona-Einreiseverordnung ausständig",
-      "titleTarget" : "Voziti se kući za Božić? Na snazi je regulacija ulaska u Coronu",
-      "url" : "https://www.diepresse.com/5911629/Auslandsoesterreicher_Heimfahren-zu-Weihnachten?from=rss"
-    }, {
-      "id" : "a7ZIQTUN",
-      "imgUrl" : "https://image.kurier.at/images/original/4822326/46-173458895.jpg",
-      "titleSource" : "ÖVP-Nachhaltigkeitssprecherin plädiert für Plastiktrennung in Städten",
-      "titleTarget" : "Glasnogovornica održivosti ÖVP poziva na odvajanje plastike u gradovima",
-      "url" : "https://kurier.at/politik/inland/oevp-nachhaltigkeitssprecherin-plaediert-fuer-plastiktrennung-in-staedten/401130354"
-    }, {
       "id" : "I8m68A9g",
       "imgUrl" : "https://image.kurier.at/images/original/4821816/uaaanbenannt.jpg",
       "titleSource" : "Babyelefant in Not, zeigt die Regierung",
       "titleTarget" : "Slončić u potrebi, pokazuje vlada",
       "url" : "https://kurier.at/politik/inland/babyelefant-in-not-zeigt-die-regierung/401130171"
+    }, {
+      "id" : "pr64im0n",
+      "imgUrl" : "https://image.kurier.at/images/original/4823055/46-167002402.jpg",
+      "titleSource" : "Corona-Verordnung: ÖVP-Mandatar Hörl übt massive Kritik an Regierung",
+      "titleTarget" : "Uredba o Coroni: ÖVP-ov mandat Hörl masovno kritizira vladu",
+      "url" : "https://kurier.at/politik/inland/corona-verordnung-oevp-mandatar-hoerl-uebt-massive-kritik-an-regierung/401130795"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,11 +53,29 @@
       "titleTarget" : "Daljnja pomoć za koronu može se zatražiti od srijede",
       "url" : "https://kurier.at/wirtschaft/weitere-corona-hilfen-ab-mittwoch-beantragbar/401129958"
     }, {
-      "id" : "Ql7vH3es",
-      "imgUrl" : "https://image.kurier.at/images/original/4820964/46-150034918.jpg",
-      "titleSource" : "Ceconomy übernimmt MediaSaturn ganz",
-      "titleTarget" : "Ceconomy u cijelosti preuzima MediaSaturn",
-      "url" : "https://kurier.at/wirtschaft/ceconomy-uebernimmt-mediasaturn-ganz/401129625"
+      "id" : "jO68Yo4f",
+      "imgUrl" : "https://image.kurier.at/images/original/416352/ezb-000_dpa_Frank%252BRumpenhorst.jpg",
+      "titleSource" : "EZB ermöglicht Banken wieder Dividendenzahlungen",
+      "titleTarget" : "ECB omogućuje bankama ponovno isplatu dividende",
+      "url" : "https://kurier.at/wirtschaft/ezb-ermoeglicht-banken-wieder-dividendenzahlungen/401130837"
+    }, {
+      "id" : "8GZNBADQ",
+      "imgUrl" : "https://image.kurier.at/images/original/3557794/78370011349028264_BLD_Online.jpg",
+      "titleSource" : "OVS will Modemarke Stefanel kaufen",
+      "titleTarget" : "OVS želi kupiti modnu marku Stefanel",
+      "url" : "https://kurier.at/wirtschaft/ovs-will-modemarke-stefanel-kaufen/401130786"
+    }, {
+      "id" : "KauBBr63",
+      "imgUrl" : "https://image.kurier.at/images/original/1925908/bildung-000_HS-CREATOR%252B-%252BFOTOLIA%252B40684941_hs-creator_Fotolia.jpg",
+      "titleSource" : "Bildungsstiftung für mehr Wirtschaftswissen",
+      "titleTarget" : "Obrazovni temelj za više ekonomskog znanja",
+      "url" : "https://kurier.at/wirtschaft/bildungsstiftung-fuer-mehr-wirtschaftswissen/401130723"
+    }, {
+      "id" : "mX4NJkh6",
+      "imgUrl" : "https://image.kurier.at/images/original/1232640/palfinger_02.jpg",
+      "titleSource" : "Palfinger investiert in Österreich 40 Millionen Euro",
+      "titleTarget" : "Palfinger u Austriju ulaže 40 milijuna eura",
+      "url" : "https://kurier.at/wirtschaft/palfinger-investiert-in-oesterreich-40-millionen-euro/401130747"
     }, {
       "id" : "IYBzcWK1",
       "imgUrl" : "https://image.kurier.at/images/original/4741191/46-167684213.jpg",
@@ -70,39 +88,21 @@
       "titleSource" : "Brüssel eröffnet den Kampf gegen Big-Tech-Giganten",
       "titleTarget" : "Bruxelles otvara borbu protiv velikih tehnoloških divova",
       "url" : "https://kurier.at/wirtschaft/bruessel-eroeffnet-den-kampf-gegen-big-tech-giganten/401130660"
-    }, {
-      "id" : "RXEcuB9a",
-      "imgUrl" : "https://image.kurier.at/images/original/3067734/78350011445504320_BLD_Online.jpg",
-      "titleSource" : "Katastrophen verursachten Schäden von 154 Milliarden Euro",
-      "titleTarget" : "Katastrofe su nanijele štetu od 154 milijarde eura",
-      "url" : "https://kurier.at/wirtschaft/katastrophen-verursachten-schaeden-von-154-milliarden-euro/401130717"
-    }, {
-      "id" : "g85Qqybt",
-      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
-      "titleSource" : "Allianz gegen Online-Riesen Amazon",
-      "titleTarget" : "Savez protiv internetskog diva Amazona",
-      "url" : "https://kurier.at/wirtschaft/allianz-gegen-online-riesen-amazon/401130630"
-    }, {
-      "id" : "4LKZ8OHW",
-      "imgUrl" : "https://image.kurier.at/images/original/4405661/78370011354790386_BLD_Online.jpg",
-      "titleSource" : "OMV investiert kräftig  in die Biodiesel-Produktion",
-      "titleTarget" : "OMV ulaže velika sredstva u proizvodnju biodizela",
-      "url" : "https://kurier.at/wirtschaft/omv-investiert-kraeftig-in-die-biodiesel-produktion/401129970"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "Eq3CxSa1",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/05/crops/w=1280/785680_opener_273605_20201215_diskussion_um_feuerwehrbekleidung_00_01_52_11.jpg?s=f5e62feb852f7873455252403db83ebfa64c936e",
+      "titleSource" : "Strafe bei falscher Bekleidung für Feuerwehr",
+      "titleTarget" : "Kazna za pogrešnu odjeću za vatrogasce",
+      "url" : "https://kaernten.orf.at/stories/3080760/"
+    }, {
       "id" : "h4J4b9hR",
       "imgUrl" : "https://image.kurier.at/images/original/4821825/46-164698987.jpg",
       "titleSource" : "Maskenpflicht: Tiroler Eltern ziehen vor VfGH",
       "titleTarget" : "Zahtjev za maskom: tirolski roditelji preferiraju VfGH",
       "url" : "https://kurier.at/chronik/oesterreich/maskenpflicht-tiroler-eltern-ziehen-vor-vfgh/401130054"
-    }, {
-      "id" : "wuOlZ1Pl",
-      "imgUrl" : "https://image.kurier.at/images/original/4821048/46-168606190.jpg",
-      "titleSource" : "Anschober und Kollaritsch für rationale Impfentscheidung",
-      "titleTarget" : "Anschober i Kollaritsch za racionalne odluke o cijepljenju",
-      "url" : "https://kurier.at/chronik/oesterreich/anschober-und-kollaritsch-fuer-rationale-impfentscheidung/401129688"
     }, {
       "id" : "yrlA5uSn",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/14/crops/w=1280/785720_opener_273614_protest_abschiebungen_rossauer_laende_52226_00_02_14_11.jpg?s=58b9d36f9cee920f3be589e86e293be292eec9fb",
@@ -110,29 +110,29 @@
       "titleTarget" : "Demonstracije protiv deportacije dovele su do gužve u prometu",
       "url" : "https://wien.orf.at/stories/3080767/"
     }, {
-      "id" : "8AmoTl1Y",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/61/crops/w=1280/784766_opener_273261_tischtennis_1._fc_saarbruecken_-_spg_walter_wels_3.jpg?s=d56d12fcae41f5fcdaac2644e2ebb5ec43b8ec6b",
-      "titleSource" : "12-Jähriger schreibt Tischtennis-Geschichte",
-      "titleTarget" : "Dvanaestogodišnjak stvara povijest stolnog tenisa",
-      "url" : "https://noe.orf.at/stories/3080591/"
-    }, {
       "id" : "p9T7y30L",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/49/crops/w=1280/785513_opener_273549_hollersbach_fin.jpg?s=2dd316de67ba035fb558a3eb4e9e2cb5eaa819c1",
       "titleSource" : "Chalets in Hollersbach: Widerstand gegen weitere Pläne",
       "titleTarget" : "Chalets in Hollersbach: Otpor daljnjim planovima",
       "url" : "https://salzburg.orf.at/stories/3080733/"
     }, {
+      "id" : "WGUEvOWo",
+      "imgUrl" : "https://image.kurier.at/images/original/4821195/46-142411060.jpg",
+      "titleSource" : "Sternsinger kommen mit Abstand und Mund-Nasen-Schutz",
+      "titleTarget" : "Pjevačice Carol dolaze iz daljine i štite usta i nos",
+      "url" : "https://kurier.at/chronik/oesterreich/sternsinger-im-jaenner-mit-abstand-und-mund-nasen-schutz-unterwegs/401129790"
+    }, {
+      "id" : "e9NEEXpy",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/89/crops/w=1280/785630_opener_273589_201222_bh_weihnachtshaus_bad_tatzmannsdorf-00.01.13.jpg?s=fc0df331e9f3d67a8ef1ffc6afd955b09b87a724",
+      "titleSource" : "Weihnachtshaus Bad Tatzmannsdorf behördlich geschlossen",
+      "titleTarget" : "Božićna kuća Bad Tatzmannsdorf službeno zatvorena",
+      "url" : "https://burgenland.orf.at/stories/3080759/"
+    }, {
       "id" : "YSeVNCK8",
       "imgUrl" : "https://image.kurier.at/images/original/4822602/46-173560439.jpg",
       "titleSource" : "Das Christkind bringt die Impfung; Schulstart am 11. Jänner nach Massentests",
       "titleTarget" : "2.628 novih infekcija u Austriji; Nova mutacija pojavila se u Velikoj Britaniji",
       "url" : "https://kurier.at/chronik/oesterreich/deutschland-draengt-impfstoff-vor-weihnachten-zulassen-who-auch-nach-impfung-masken-tragen/401129730"
-    }, {
-      "id" : "kYegimHE",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/47/crops/w=1280/751975_opener_261047_lockdowngrafiti.jpg?s=5e529435852c08f7c9f090177865c2471cecc00e",
-      "titleSource" : "20 Prozent mehr Radverkehr im Lockdown",
-      "titleTarget" : "20 posto više biciklističkog prometa u zaključanom položaju",
-      "url" : "https://wien.orf.at/stories/3080664/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,17 +143,17 @@
       "titleTarget" : "Suprotno nadanjima, nema zamjene za prodaju umjetnika",
       "url" : "https://kurier.at/kultur/entgegen-der-hoffnungen-kein-umsatz-ersatz-fuer-kuenstler/401130714"
     }, {
-      "id" : "FeXzZrnA",
-      "imgUrl" : "https://image.kurier.at/images/original/4820913/46-173290199.jpg",
-      "titleSource" : "Liebe ist Liebe: Homoerotik mit Andy Warhol",
-      "titleTarget" : "Ljubav je ljubav: homoerotizam s Andyjem Warholom",
-      "url" : "https://kurier.at/kultur/liebe-ist-liebe-homoerotik-mit-andy-warhol/401129586"
-    }, {
       "id" : "n0A874U2",
       "imgUrl" : "https://image.kurier.at/images/original/4822407/46-173568363.jpg",
       "titleSource" : "Diagonale 2021: Eröffnungsfilm im Gefängnismilieu",
       "titleTarget" : "Diagonale 2021: otvaranje filma u zatvorskom okruženju",
       "url" : "https://kurier.at/kultur/diagonale-2021-eroeffnungsilm-im-gefaengnismilieu/401130426"
+    }, {
+      "id" : "FeXzZrnA",
+      "imgUrl" : "https://image.kurier.at/images/original/4820913/46-173290199.jpg",
+      "titleSource" : "Liebe ist Liebe: Homoerotik mit Andy Warhol",
+      "titleTarget" : "Ljubav je ljubav: homoerotizam s Andyjem Warholom",
+      "url" : "https://kurier.at/kultur/liebe-ist-liebe-homoerotik-mit-andy-warhol/401129586"
     }, {
       "id" : "hlwqYIjH",
       "imgUrl" : "https://image.kurier.at/images/original/4821672/46-173564754.jpg",
@@ -185,6 +185,12 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "a3NIrdZq",
+      "imgUrl" : "https://image.kurier.at/images/original/4822548/46-167501963.jpg",
+      "titleSource" : "Operation Aderlass: Arzt Mark S. will beim Anti-Doping-Kampf helfen",
+      "titleTarget" : "Operacija puštanja krvi: liječnik Mark S. želi pomoći u borbi protiv dopinga",
+      "url" : "https://kurier.at/sport/wintersport/operation-aderlass-arzt-mark-s-will-beim-anti-doping-kampf-helfen/401130474"
+    }, {
       "id" : "lINq7pHC",
       "titleSource" : "Agent ersetzt NBA-Spieler Gehalt",
       "titleTarget" : "Agent zamjenjuje plaću NBA igrača",
@@ -195,21 +201,15 @@
       "titleTarget" : "Borite se za naslov otvoreno kao rijetko",
       "url" : "https://sport.orf.at/stories/3070663/"
     }, {
-      "id" : "a3NIrdZq",
-      "imgUrl" : "https://image.kurier.at/images/original/4822548/46-167501963.jpg",
-      "titleSource" : "Operation Aderlass: Arzt Mark S. will beim Anti-Doping-Kampf helfen",
-      "titleTarget" : "Operacija puštanja krvi: liječnik Mark S. želi pomoći u borbi protiv dopinga",
-      "url" : "https://kurier.at/sport/wintersport/operation-aderlass-arzt-mark-s-will-beim-anti-doping-kampf-helfen/401130474"
-    }, {
       "id" : "cQF3sNPu",
       "titleSource" : "Roma-Spieler wegen Gotteslästerung gesperrt",
       "titleTarget" : "Romski igrači zabranjeni zbog bogohuljenja",
       "url" : "https://sport.orf.at/stories/3070683/"
     }, {
-      "id" : "UmU3Jsiz",
-      "titleSource" : "Nur WAC freut sich über „Traumlos“",
-      "titleTarget" : "Samo je WAC zadovoljan zbog \"Traumlosa\"",
-      "url" : "https://sport.orf.at/stories/3070669/"
+      "id" : "rdx8RMFk",
+      "titleSource" : "Kühbauer antwortet Kritikern",
+      "titleTarget" : "Kühbauer odgovara kritičarima",
+      "url" : "https://sport.orf.at/stories/3070697/"
     }, {
       "id" : "NcruOcPA",
       "imgUrl" : "https://image.kurier.at/images/original/4822524/46-173566988.jpg",
