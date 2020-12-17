@@ -2,11 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "pnj0becw",
-      "imgUrl" : "https://image.kurier.at/images/original/4673455/46-166650356.jpg",
-      "titleSource" : "Corona: Doskozil will kompletten Lockdown",
-      "titleTarget" : "Corona: Doskozil želi potpuno zaključavanje",
-      "url" : "https://kurier.at/politik/inland/corona-doskozil-will-kompletten-lockdown/401131197"
+      "id" : "1n4ZYx5K",
+      "imgUrl" : "https://image.kurier.at/images/original/4815282/20201211-ABD0199-1-1.jpg",
+      "titleSource" : "Bundeskanzler: 900.000 Impfdosen für Österreich bis März",
+      "titleTarget" : "Savezni kancelar: 900.000 doza cjepiva za Austriju do ožujka",
+      "url" : "https://kurier.at/politik/inland/bundeskanzler-900000-impfdosen-fuer-oesterreich-bis-maerz/401131668"
     }, {
       "id" : "vRAp9yLL",
       "imgUrl" : "https://image.kurier.at/images/original/4824258/46-145256011.jpg",
@@ -14,11 +14,17 @@
       "titleTarget" : "Antiteroristički paket: simboli desničarskih ekstremista su zabranjeni",
       "url" : "https://kurier.at/politik/inland/anti-terror-paket-gefaehrder-register-und-fussfessel-kommen/401131347"
     }, {
-      "id" : "1n4ZYx5K",
-      "imgUrl" : "https://image.kurier.at/images/original/4815282/20201211-ABD0199-1-1.jpg",
-      "titleSource" : "Bundeskanzler: 900.000 Impfdosen für Österreich bis März",
-      "titleTarget" : "Savezni kancelar: 900.000 doza cjepiva za Austriju do ožujka",
-      "url" : "https://kurier.at/politik/inland/bundeskanzler-900000-impfdosen-fuer-oesterreich-bis-maerz/401131668"
+      "id" : "pnj0becw",
+      "imgUrl" : "https://image.kurier.at/images/original/4673455/46-166650356.jpg",
+      "titleSource" : "Doskozil stößt neue Debatte um kompletten Lockdown an",
+      "titleTarget" : "Corona: Doskozil želi potpuno zaključavanje",
+      "url" : "https://kurier.at/politik/inland/corona-doskozil-will-kompletten-lockdown/401131197"
+    }, {
+      "id" : "HqPvz9bF",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/7/f/5912447/AUSTRIA---HEALTH---CORONAVIRUS_1608141198434240_v0_h.jpg",
+      "titleSource" : "Neuer Lockdown nach Weihnachten?",
+      "titleTarget" : "Novo zaključavanje nakon Božića?",
+      "url" : "https://www.diepresse.com/5912447/Pandemie_Neuer-Lockdown-nach-Weihnachten?from=rss"
     }, {
       "id" : "hyOdl6re",
       "imgUrl" : "https://image.kurier.at/images/original/4817934/78350011457950670_BLD_Online.jpg",
@@ -26,50 +32,26 @@
       "titleTarget" : "Corona: SPÖ za zatvaranje trgovine tijekom božićnih blagdana",
       "url" : "https://kurier.at/politik/inland/corona-spoe-fuer-handelsschliessung-in-den-weihnachtsferien/401131284"
     }, {
-      "id" : "lveZ1JsP",
-      "imgUrl" : "https://image.kurier.at/images/original/4823088/46-164751564.jpg",
-      "titleSource" : "Infektiologe zu Massentests: \"Wir testen nicht die richtigen Personen\"",
-      "titleTarget" : "Infektiolog na masovnim testovima: \"Ne testiramo prave ljude\"",
-      "url" : "https://kurier.at/politik/inland/infektiologe-zu-massentests-wir-testen-nicht-die-richtigen-personen/401130861"
-    }, {
       "id" : "P1OsJAO8",
       "imgUrl" : "https://image.kurier.at/images/original/4795983/81731350857778338_BLD_Online.jpg",
       "titleSource" : "Corona: Maskenpflicht im Unterricht bleibt laut Faßmann noch länger",
       "titleTarget" : "Corona: Prema Faßmannu, obavezno je nositi masku u nastavi",
       "url" : "https://kurier.at/politik/inland/corona-maskenpflicht-im-unterricht-bleibt-laut-fassmann-noch-laenger/401131125"
     }, {
-      "id" : "pr64im0n",
-      "imgUrl" : "https://image.kurier.at/images/original/4823055/46-167002402.jpg",
-      "titleSource" : "Corona-Verordnung: ÖVP-Mandatar Hörl übt massive Kritik an Regierung",
-      "titleTarget" : "Uredba o Coroni: ÖVP-ov mandat Hörl masovno kritizira vladu",
-      "url" : "https://kurier.at/politik/inland/corona-verordnung-oevp-mandatar-hoerl-uebt-massive-kritik-an-regierung/401130795"
+      "id" : "CgICDAwT",
+      "imgUrl" : "https://image.kurier.at/images/original/4753599/78350011457454024_BLD_Online.jpg",
+      "titleSource" : "Neuer Straftatbestand: \"religiös motivierte extremistische Verbindung\"",
+      "titleTarget" : "Novo kazneno djelo: \"vjerski motivirana ekstremistička udruga\"",
+      "url" : "https://kurier.at/politik/inland/neuer-straftatbestand-religioes-motivierte-extremistische-verbindung/401130858"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "KAcedX2U",
-      "imgUrl" : "https://image.kurier.at/images/original/4818075/46-173504690.jpg",
-      "titleSource" : "Corona: 100 Millionen Impf-Dosen gehen jetzt nach China",
-      "titleTarget" : "Corona: 100 milijuna doza cjepiva sada ide u Kinu",
-      "url" : "https://kurier.at/wirtschaft/corona-100-millionen-impf-dosen-gehen-jetzt-nach-china/401131167"
-    }, {
       "id" : "MoavW1lL",
       "imgUrl" : "https://image.kurier.at/images/original/4824096/46-166985027.jpg",
       "titleSource" : "Problem mit Bremspedalen: VW-Rückruf für mehr als 38.000 Autos",
       "titleTarget" : "Problem s papučicama kočnice: VW opoziv za više od 38 000 automobila",
       "url" : "https://kurier.at/wirtschaft/problem-mit-bremspedalen-vw-rueckruf-fuer-mehr-als-38000-autos/401131401"
-    }, {
-      "id" : "DoKpZ4tO",
-      "imgUrl" : "https://image.kurier.at/images/original/4823004/46-164092289.jpg",
-      "titleSource" : "Fachkräftemangel in Österreich trotz Corona massiv",
-      "titleTarget" : "Golem nedostatak kvalificiranih radnika u Austriji unatoč Coroni",
-      "url" : "https://kurier.at/wirtschaft/fachkraeftemangel-in-oesterreich-trotz-corona-massiv/401130756"
-    }, {
-      "id" : "BEeIPhgZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4822818/46-80050688.jpg",
-      "titleSource" : "Nach Corona wieder lokal statt global?",
-      "titleTarget" : "Lokalno umjesto globalno nakon Corone?",
-      "url" : "https://kurier.at/wirtschaft/nach-corona-wieder-lokal-statt-global/401130651"
     }, {
       "id" : "y7sFNh2m",
       "imgUrl" : "https://image.kurier.at/images/original/4824333/46-166289631.jpg",
@@ -77,17 +59,35 @@
       "titleTarget" : "AT&S očekuje da će automobilska industrija biti u suši",
       "url" : "https://kurier.at/wirtschaft/ats-erwartet-durststrecke-der-autobranche/401131563"
     }, {
-      "id" : "i7dlMQjx",
-      "imgUrl" : "https://image.kurier.at/images/original/4822779/46-173458095.jpg",
-      "titleSource" : "Wohntelefon: Kann einer der Mieter das gemeinsame Mietverhältnis auflösen?",
-      "titleTarget" : "Telefon: Može li jedan od stanara raskinuti zajednički podstanarstvo?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-kann-einer-der-mieter-das-gemeinsame-mietverhaeltnis-aufloesen/401130615"
+      "id" : "sE7KXDpF",
+      "imgUrl" : "https://image.kurier.at/images/original/4519961/78370011355506274_BLD_Online.jpg",
+      "titleSource" : "Texas gegen Google: Weitere US-Klage gegen Internet-Riesen",
+      "titleTarget" : "Teksas protiv Googlea: Još jedna američka tužba protiv internetskih divova",
+      "url" : "https://kurier.at/wirtschaft/texas-gegen-google-weitere-us-klage-gegen-internet-riesen/401132244"
     }, {
-      "id" : "C734zwVt",
-      "imgUrl" : "https://image.kurier.at/images/original/4822980/46-173488127.jpg",
-      "titleSource" : "„Ein Abgesang auf die  Plastikkarten wäre verfrüht“",
-      "titleTarget" : "\"Labuđa pjesma na plastičnim karticama bila bi preuranjena\"",
-      "url" : "https://kurier.at/wirtschaft/ein-abgesang-auf-die-plastikkarten-waere-verfrueht/401130741"
+      "id" : "pwEKx2fw",
+      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "titleSource" : "Verdi: Berichte über Coronafälle bei Amazon Deutschland",
+      "titleTarget" : "Verdi: Izvještaji o slučajevima korone na Amazonu u Njemačkoj",
+      "url" : "https://kurier.at/wirtschaft/verdi-berichte-ueber-coronafaelle-bei-amazon-deutschland/401132214"
+    }, {
+      "id" : "wLCMLXxO",
+      "imgUrl" : "https://image.kurier.at/images/original/4825434/46-173508232.jpg",
+      "titleSource" : "WKÖ-Handelsobmann warnt vor \"Weihnachtsruhe\" im Handel",
+      "titleTarget" : "WKÖ predsjednik trgovine upozorava na \"božićni odmor\" u maloprodaji",
+      "url" : "https://kurier.at/wirtschaft/wkoe-handelsobmann-warnt-vor-weihnachtsruhe-im-handel/401132175"
+    }, {
+      "id" : "6jY8xLee",
+      "imgUrl" : "https://image.kurier.at/images/original/1175595/Wolfgang%252BHesoun.jpg",
+      "titleSource" : "Bestätigt: Wolfgang Hesoun wird Aufsichtsratschef der Casinos Austria",
+      "titleTarget" : "Potvrđeno: Wolfgang Hesoun postaje predsjednik nadzornog odbora casina Austria",
+      "url" : "https://kurier.at/wirtschaft/bestaetigt-wolfgang-hesoun-wird-aufsichtsratschef-der-casinos-austria/401132034"
+    }, {
+      "id" : "DVZXlWyr",
+      "imgUrl" : "https://image.kurier.at/images/original/4825155/46-163136628.jpg",
+      "titleSource" : "Sonne, Wind und Klärschlamm",
+      "titleTarget" : "Mulj sunca, vjetra i kanalizacije",
+      "url" : "https://kurier.at/wirtschaft/sonne-wind-und-klaerschlamm/401131956"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -104,17 +104,17 @@
       "titleTarget" : "Starački domovi u Beču i Donjoj Austriji prvi su primili cjepivo protiv korone",
       "url" : "https://kurier.at/chronik/oesterreich/pflegeheime-in-wien-und-niederoesterreich-bekommen-als-erste-den-corona-impfstoff/401130978"
     }, {
-      "id" : "QCnnl3dO",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/36/50/crops/w=1280/283722_opener_86850_stadtansichten_wien_03_coe.jpg?s=a31cb56d3c172545c7ad173dec92f4f285eaa436",
-      "titleSource" : "31 Prozent der Wiener ohne österreichischen Pass",
-      "titleTarget" : "31 posto Bečana bez austrijske putovnice",
-      "url" : "https://wien.orf.at/stories/3080884/"
+      "id" : "yTnrIjGk",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/13/39/crops/w=1280/515078_opener_173839_action-adult-affection-eldery-339620.jpg?s=92d7ad6ba44de506fcb5d6399a00db119196d88c",
+      "titleSource" : "Verschärfung für Besuche in Pflegeheimen",
+      "titleTarget" : "Stezanje za posjete staračkim domovima",
+      "url" : "https://kaernten.orf.at/stories/3080993/"
     }, {
-      "id" : "PmxlSPRc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/16/crops/w=1280/786136_opener_273216_201214-bh_dokozil-zu-massentests-und-impfpflicht-00.00.19.jpg?s=bbfebcf663d135d674f250cd703d9e1cda569f72",
-      "titleSource" : "Doskozil will kompletten Lockdown",
-      "titleTarget" : "Doskozil želi potpuno zaključavanje",
-      "url" : "https://burgenland.orf.at/stories/3080851/"
+      "id" : "qKFwncpi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/30/crops/w=1280/786932_opener_274030_20201216_chaos_bei_coronazahlen_00_00_00_00.jpg?s=c2c43f41e3890bfd6eb2db6ebd632991dafbbb55",
+      "titleSource" : "CoV: Chaos bei Zahlen sorgt für Verwirrung",
+      "titleTarget" : "CoV: Kaos s brojevima izaziva zabunu",
+      "url" : "https://kaernten.orf.at/stories/3081000/"
     }, {
       "id" : "bRneG4d2",
       "imgUrl" : "https://image.kurier.at/images/original/4763712/illu_corona_statistik%20%283%29.png",
@@ -122,17 +122,17 @@
       "titleTarget" : "Trenutni brojevi korona: 2.664 novih infekcija, 116 smrtnih slučajeva u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-2664-neuinfektionen-116-todesfaelle-in-oesterreich/401131077"
     }, {
-      "id" : "Lk1tF9Wc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/97/crops/w=1280/764576_opener_265797_snowboarding-4763731_1920.jpg?s=594cb6275dce3fb7c04b38a7561b99d311e8565e",
-      "titleSource" : "Dicke Luft vor neuer Seilbahn-Verordnung",
-      "titleTarget" : "Gusti zrak prije nove regulacije žičare",
-      "url" : "https://tirol.orf.at/stories/3080816/"
+      "id" : "1WQylwr4",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/61/crops/w=1280/787003_opener_274061_e1ad25c0-6f29-4eb8-bcab-72333decc3a6.jpg?s=3de1e57597406f59ac089bb03e628443dae5d4fe",
+      "titleSource" : "Erste Impfstoffdosen gehen nach Simmering",
+      "titleTarget" : "Prve doze cjepiva idu na Simmering",
+      "url" : "https://wien.orf.at/stories/3081004/"
     }, {
-      "id" : "Nh9HyCzR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/55/crops/w=1280/782390_opener_272355_stp_rohrhofer.jpg?s=12031987b7a8aa2fd5bcc1e7ac945ada12677400",
-      "titleSource" : "Niederösterreich setzt CoV-Massentests fort",
-      "titleTarget" : "Donja Austrija nastavlja ispitivanja mase CoV",
-      "url" : "https://noe.orf.at/stories/3080870/"
+      "id" : "p9CRiKWz",
+      "imgUrl" : "https://image.kurier.at/images/original/4755078/46-168550453.jpg",
+      "titleSource" : "Nach Doskozil-Vorstoß beraten Landeshauptleute; D impft ab 27. Dezember",
+      "titleTarget" : "Pokrajinski guverneri savjetuju nakon Doskozilove inicijative; D cijepi od 27. prosinca",
+      "url" : "https://kurier.at/chronik/oesterreich/epidemiologe-bemaengelt-schutz-von-risikogruppen-impfung-fuer-viertel-der-weltbevoelkerung-erst-2022/401130927"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,17 +149,11 @@
       "titleTarget" : "\"Kralj zborova\": Gotthilf Fischer, direktor Fischerovih zborova, umro je",
       "url" : "https://kurier.at/kultur/gotthilf-fischer-leiter-der-fischer-choere-gestorben/401131977"
     }, {
-      "id" : "3hUVHz0u",
-      "imgUrl" : "https://image.kurier.at/images/original/4823025/46-173574742.jpg",
-      "titleSource" : "Bücher, die zu Freunden werden",
-      "titleTarget" : "Knjige koje postaju prijatelji",
-      "url" : "https://kurier.at/kultur/buch/buecher-die-zu-freunden-werden/401130780"
-    }, {
-      "id" : "64L0xCML",
-      "imgUrl" : "https://image.kurier.at/images/original/4823916/46-146821300.jpg",
-      "titleSource" : "24 Stunden lang gemeinsam Weinen: Performance-Abschluss für 2020",
-      "titleTarget" : "Plakanje zajedno 24 sata: zaključak izvedbe za 2020",
-      "url" : "https://kurier.at/kultur/24-stunden-lang-gemeinsam-weinen-performance-abschluss-fuer-2020/401131299"
+      "id" : "OUnDRkbr",
+      "imgUrl" : "https://image.kurier.at/images/original/4823541/46-173234320.jpg",
+      "titleSource" : "Covid-Verstöße: Zorniger Tom Cruise droht Crewmitgliedern mit Rauswurf",
+      "titleTarget" : "Prekršaji kaznenih djela: Ljutiti Tom Cruise prijeti članovima posade protjerivanjem",
+      "url" : "https://kurier.at/kultur/covid-verstoesse-zorniger-tom-cruise-droht-crewmitgliedern-mit-rauswurf/401131101"
     }, {
       "id" : "2VYjYx0m",
       "imgUrl" : "https://image.kurier.at/images/original/4825044/46-105944867.jpg",
@@ -167,11 +161,17 @@
       "titleTarget" : "Novi sajam umjetnosti \"Spark\" u Beču na proljeće",
       "url" : "https://kurier.at/kultur/neue-kunstmesse-spark-im-fruehjahr-in-wien/401131929"
     }, {
-      "id" : "fxtEGmjo",
-      "imgUrl" : "https://image.kurier.at/images/original/3904586/46-149953879.jpg",
-      "titleSource" : "Billie Eilish: Erste Einblicke in die Doku über ihr Leben",
-      "titleTarget" : "Billie Eilish: Prvi uvid u dokumentarac o njenom životu",
-      "url" : "https://kurier.at/kultur/billie-eilish-erste-einblicke-in-die-doku-ueber-ihr-leben/401131080"
+      "id" : "64L0xCML",
+      "imgUrl" : "https://image.kurier.at/images/original/4823916/46-146821300.jpg",
+      "titleSource" : "24 Stunden lang gemeinsam Weinen: Performance-Abschluss für 2020",
+      "titleTarget" : "Plakanje zajedno 24 sata: zaključak izvedbe za 2020",
+      "url" : "https://kurier.at/kultur/24-stunden-lang-gemeinsam-weinen-performance-abschluss-fuer-2020/401131299"
+    }, {
+      "id" : "3hUVHz0u",
+      "imgUrl" : "https://image.kurier.at/images/original/4823025/46-173574742.jpg",
+      "titleSource" : "Bücher, die zu Freunden werden",
+      "titleTarget" : "Knjige koje postaju prijatelji",
+      "url" : "https://kurier.at/kultur/buch/buecher-die-zu-freunden-werden/401130780"
     }, {
       "id" : "yqYKGgwC",
       "imgUrl" : "https://image.kurier.at/images/original/4822944/46-173570359.jpg",
@@ -190,11 +190,26 @@
       "titleTarget" : "Kako Rapid Salzburg želi svrgnuti",
       "url" : "https://sport.orf.at/stories/3070691/"
     }, {
-      "id" : "CKQVD9UA",
-      "imgUrl" : "https://image.kurier.at/images/original/4749549/46-168755179.jpg",
-      "titleSource" : "Der Angriff von Rapid auf die uneinnehmbare Festung Salzburg",
-      "titleTarget" : "Rapidov napad na neosvojivu tvrđavu Salzburg",
-      "url" : "https://kurier.at/sport/fussball/der-angriff-von-rapid-auf-die-uneinnehmbare-festung-salzburg/401130669"
+      "id" : "R9CsdBS1",
+      "imgUrl" : "https://image.kurier.at/images/original/4825662/46-173603184.jpg",
+      "titleSource" : "Debakel im Cup-Achtelfinale: Rapid ist in Salzburg chancenlos",
+      "titleTarget" : "Debakl u drugom kolu Kupa: Rapid nema šanse u Salzburgu",
+      "url" : "https://kurier.at/sport/fussball/debakel-im-oefb-cup-achtelfinale-klare-rapid-pleite-gegen-red-bull-salzburg/401131440"
+    }, {
+      "id" : "k7UL7oeC",
+      "titleSource" : "Salzburg nimmt Rapid auseinander",
+      "titleTarget" : "Salzburg rastavlja Rapid",
+      "url" : "https://sport.orf.at/stories/3070752/"
+    }, {
+      "id" : "aJSZYmvq",
+      "titleSource" : "Austria zieht Salzburg als Viertelfinal-Gegner",
+      "titleTarget" : "Austrija izvlači Salzburg kao četvrtfinalnog protivnika",
+      "url" : "https://sport.orf.at/stories/3070758/"
+    }, {
+      "id" : "Feddvk0E",
+      "titleSource" : "Graz holt auch Finnen Sointu",
+      "titleTarget" : "Graz dovodi i Fince Sointu",
+      "url" : "https://sport.orf.at/stories/3070728/"
     }, {
       "id" : "okPKZFUm",
       "imgUrl" : "https://image.kurier.at/images/original/4823514/46-173577527.jpg",
@@ -206,22 +221,6 @@
       "titleSource" : "WAC bleibt souverän im Rennen",
       "titleTarget" : "WAC ostaje suveren u utrci",
       "url" : "https://sport.orf.at/stories/3070744/"
-    }, {
-      "id" : "9c2Js9ia",
-      "titleSource" : "Abfahrtstrainings fest in Hand der USA",
-      "titleTarget" : "Trening spusta čvrsto u rukama SAD-a",
-      "url" : "https://sport.orf.at/stories/3070738/"
-    }, {
-      "id" : "36g6ZXnY",
-      "titleSource" : "Zentrale Posten in Talenteförderung vergeben",
-      "titleTarget" : "Dodijeljene središnje pozicije u razvoju nadarenosti",
-      "url" : "https://sport.orf.at/stories/3070743/"
-    }, {
-      "id" : "Jgta3Cc0",
-      "imgUrl" : "https://image.kurier.at/images/original/4825062/46-173592840.jpg",
-      "titleSource" : "Erstes Gröden-Training: US-Duo voran, Ex-Sieger Franz Fünfter",
-      "titleTarget" : "Prvi trening u Val Gardeni: američki dvojac naprijed, bivši pobjednik Franz peti",
-      "url" : "https://kurier.at/sport/wintersport/erstes-groeden-training-us-duo-voran-ex-sieger-franz-fuenfter/401131947"
     } ]
   } ],
   "country" : "austria",
