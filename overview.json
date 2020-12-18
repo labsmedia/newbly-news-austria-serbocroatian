@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "HqPvz9bF",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/7/f/5912447/AUSTRIA---HEALTH---CORONAVIRUS_1608141198434240_v0_h.jpg",
-      "titleSource" : "Neuer Lockdown nach Weihnachten?",
-      "titleTarget" : "Novo zaključavanje nakon Božića?",
-      "url" : "https://www.diepresse.com/5912447/Pandemie_Neuer-Lockdown-nach-Weihnachten?from=rss"
-    }, {
       "id" : "K4WCe05N",
       "imgUrl" : "https://image.kurier.at/images/original/4822602/46-173560439.jpg",
       "titleSource" : "Erste Impfungen in Österreich womöglich schon am 24. Dezember",
@@ -20,29 +14,35 @@
       "titleTarget" : "Sky je snimio aferu Ibiza",
       "url" : "https://kurier.at/politik/inland/sky-verfilmt-die-ibiza-affaere/401132403"
     }, {
-      "id" : "13cBPhwQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4825746/46-173591954.jpg",
-      "titleSource" : "\"Religiös motivierter Extremismus\": ÖVP-Ministerin Raab verteidigt neues Gesetz",
-      "titleTarget" : "\"Vjerski motivirani ekstremizam\": ÖVP ministar Raab brani novi zakon",
-      "url" : "https://kurier.at/politik/inland/religioes-motivierter-extremismus-oevp-ministerin-raab-verteidigt-neues-gesetz/401132253"
-    }, {
       "id" : "Ik09YDDe",
       "imgUrl" : "https://image.kurier.at/images/original/4237622/46-163885974.jpg",
       "titleSource" : "Nulllohnrunde für Kanzler und andere Spitzenpolitiker",
       "titleTarget" : "Nula kruga plaća za kancelare i druge vodeće političare",
       "url" : "https://kurier.at/politik/inland/nulllohnrunde-fuer-kanzler-und-co/401132340"
     }, {
-      "id" : "TUGX3MJR",
-      "imgUrl" : "https://image.kurier.at/images/original/4825614/46-167670968.jpg",
-      "titleSource" : "Nationalrat muss wegen Formalfehlers Weihnachtspause unterbrechen",
-      "titleTarget" : "Nacionalno vijeće mora prekinuti božićnu stanku zbog formalne pogreške",
-      "url" : "https://kurier.at/politik/inland/nationalrat-muss-wegen-formalfehlers-weihnachtspause-unterbrechen/401132220"
+      "id" : "S3zIR5Ns",
+      "imgUrl" : "https://image.kurier.at/images/original/4828308/46-173303868.jpg",
+      "titleSource" : "Coronavirus: Reisewarnung für fast alle Staaten der Welt",
+      "titleTarget" : "Koronavirus: upozorenje za putovanja za gotovo sve zemlje svijeta",
+      "url" : "https://kurier.at/politik/inland/reisewarnung-fuer-fast-alle-staaten-der-welt/401133456"
     }, {
       "id" : "bFUR5SoC",
       "imgUrl" : "https://image.kurier.at/images/original/4291817/was_wir_duerfen.png",
       "titleSource" : "Gelockerter \"Lockdown\": Diese Regeln gelten zu Weihnachten",
       "titleTarget" : "Opušteno \"zaključavanje\": Ova se pravila primjenjuju na Božić",
       "url" : "https://kurier.at/politik/inland/gelockerter-lockdown-diese-regeln-gelten-zu-weihnachten/401083170"
+    }, {
+      "id" : "fiwwtUX0",
+      "imgUrl" : "https://image.kurier.at/images/original/4828461/46-169358639.jpg",
+      "titleSource" : "Epidemiologe: \"Müssen noch bis Herbst 2021 mit dem Virus leben\"",
+      "titleTarget" : "Epidemiolog: \"Moram živjeti s virusom do jeseni 2021\"",
+      "url" : "https://kurier.at/politik/inland/epidemiologe-muessen-noch-bis-herbst-2021-mit-dem-virus-leben/401133546"
+    }, {
+      "id" : "A9USd9Nh",
+      "imgUrl" : "https://image.kurier.at/images/original/4828395/46-168999290.jpg",
+      "titleSource" : "Budget, Pensionen, Hass im Netz: Pannen häufen sich",
+      "titleTarget" : "Proračun, mirovine, mržnja na mreži: kvarovi se povećavaju",
+      "url" : "https://kurier.at/politik/inland/budget-pensionen-hass-im-netz-pannen-haeufen-sich/401133489"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,12 +52,6 @@
       "titleSource" : "Nach der Förderwelle steht die Pleitewelle bevor",
       "titleTarget" : "Nakon vala financiranja, predstoji val bankrota",
       "url" : "https://kurier.at/wirtschaft/nach-der-foerderwelle-steht-die-pleitewelle-bevor/401132121"
-    }, {
-      "id" : "3q9pluuF",
-      "imgUrl" : "https://image.kurier.at/images/original/4826355/46-173574927.jpg",
-      "titleSource" : "EuGH erklärt Abgas-Software in Dieselautos für illegal",
-      "titleTarget" : "ECJ proglasio ispušni softver u dizelskim automobilima nezakonitim",
-      "url" : "https://kurier.at/wirtschaft/eugh-erklaert-abgas-software-in-dieselwagen-fuer-illegal/401132550"
     }, {
       "id" : "z7WzJuLv",
       "imgUrl" : "https://image.kurier.at/images/original/4827363/46-173545217.jpg",
@@ -71,6 +65,18 @@
       "titleTarget" : "AUA popušta klauzuli o nedolasku",
       "url" : "https://kurier.at/wirtschaft/aua-lenkt-bei-no-show-klausel-ein/401133006"
     }, {
+      "id" : "3q9pluuF",
+      "imgUrl" : "https://image.kurier.at/images/original/4826355/46-173574927.jpg",
+      "titleSource" : "EuGH erklärt Abgas-Software in Dieselautos für illegal",
+      "titleTarget" : "ECJ proglasio ispušni softver u dizelskim automobilima nezakonitim",
+      "url" : "https://kurier.at/wirtschaft/eugh-erklaert-abgas-software-in-dieselwagen-fuer-illegal/401132550"
+    }, {
+      "id" : "IrW5zODV",
+      "imgUrl" : "https://image.kurier.at/images/original/4651910/46-167268143.jpg",
+      "titleSource" : "Nach Milliarden vom Staat baut Monte dei Paschi Jobs ab",
+      "titleTarget" : "Nakon milijardi država, Monte dei Paschi smanjuje radna mjesta",
+      "url" : "https://kurier.at/wirtschaft/nach-milliarden-vom-staat-baut-monte-dei-paschi-jobs-ab/401133483"
+    }, {
       "id" : "9lHgUZBH",
       "imgUrl" : "https://image.kurier.at/images/original/2664746/20180702-ABD0001-1-1.jpg",
       "titleSource" : "AK warnt vor höheren Ökostromkosten",
@@ -82,27 +88,15 @@
       "titleSource" : "Corona-Pandemie verschärft die Lage von prekär Beschäftigten",
       "titleTarget" : "Pandemija korone pogoršava situaciju nesigurnih radnika",
       "url" : "https://kurier.at/wirtschaft/corona-pandemie-verschaerft-die-lage-von-prekaer-beschaeftigten/401133126"
-    }, {
-      "id" : "n4rwkglk",
-      "imgUrl" : "https://image.kurier.at/images/original/3169217/78370011346279504_BLD_Online.jpg",
-      "titleSource" : "Junge Wirtschaft fordert Beteiligungsfreibetrag",
-      "titleTarget" : "Mlado gospodarstvo traži naknadu za sudjelovanje",
-      "url" : "https://kurier.at/wirtschaft/junge-wirtschaft-fordert-beteiligungsfreibetrag/401132949"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "920D3LJW",
-      "imgUrl" : "https://image.kurier.at/images/original/4825443/46-173385082.jpg",
-      "titleSource" : "Wiener Pflegerin wird in der Türkei festgehalten",
-      "titleTarget" : "Bečka medicinska sestra nalazi se u Turskoj",
-      "url" : "https://kurier.at/chronik/oesterreich/wiener-pflegerin-wird-in-der-tuerkei-festgehalten/401132184"
-    }, {
-      "id" : "VDNT31Mg",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/08/crops/w=1280/788191_opener_274508_131631754_1921733467980870_2359030405912744147_n.jpg?s=72be15df7147b0ef6ad9e80b571c0c64ab682332",
-      "titleSource" : "Bach in Schlaining orange gefärbt",
-      "titleTarget" : "Bach u narančastoj boji Schlaining",
-      "url" : "https://burgenland.orf.at/stories/3081183/"
+      "id" : "ZMm2v2Wl",
+      "imgUrl" : "https://image.kurier.at/images/original/4826022/46-173609714.jpg",
+      "titleSource" : "Corona verdirbt die Lust auf Weihnachten",
+      "titleTarget" : "Corona kvari želju za Božićem",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-verdirbt-die-lust-auf-weihnachten/401132361"
     }, {
       "id" : "21ffaUdx",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -110,51 +104,39 @@
       "titleTarget" : "2.485 novih infekcija u Austriji, 218 smrtnih slučajeva",
       "url" : "https://kurier.at/chronik/oesterreich/2485-neuinfektionen-in-oesterreich-218-tote/401132511"
     }, {
-      "id" : "jSCduMgT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/69/crops/w=1280/787843_opener_274369_strolz.jpg?s=0441d28a37b35c7ffc8ae427963855265d9de20c",
-      "titleSource" : "Lecher Sporthaus Strolz: Zwölf Millionen Euro Schulden",
-      "titleTarget" : "Sportska trgovina Lech Strolz: Dvanaest milijuna eura duga",
-      "url" : "https://vorarlberg.orf.at/stories/3081167/"
-    }, {
-      "id" : "B4KStu8Z",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/90/crops/w=1280/785626_opener_273590_201222_bh_weihnachtshaus_bad_tatzmannsdorf-00.01.37.jpg?s=4b132ceeb6e4691025dcdf2d1f2f7579affb4220",
-      "titleSource" : "Weihnachtshaus Bad Tatzmannsdorf wieder für Besucher offen",
-      "titleTarget" : "Božićna kuća Bad Tatzmannsdorf ponovno otvorena za posjetitelje",
-      "url" : "https://burgenland.orf.at/stories/3081131/"
-    }, {
-      "id" : "HOetiKr4",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/42/39/crops/w=1280/723069_opener_250839_aufstocken.jpg?s=f793ac6c9aca81fbd07d900c145672f487f7c764",
-      "titleSource" : "Ärzte befürchten Ansturm auf Skigebiete",
-      "titleTarget" : "Liječnici se boje navale na skijališta",
-      "url" : "https://tirol.orf.at/stories/3081019/"
+      "id" : "rzsA98Xg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/79/crops/w=1280/752776_opener_261379_259481_coro.jpg?s=ebbfa299c58a3caab2d53ddef00b2729ed90e872",
+      "titleSource" : "Dritter Lockdown: Anzeichen verdichten sich",
+      "titleTarget" : "Treće zaključavanje: znakovi se pojačavaju",
+      "url" : "https://ooe.orf.at/stories/3081196/"
     }, {
       "id" : "fG9iFB5P",
       "imgUrl" : "https://image.kurier.at/images/original/4826676/46-71094202.jpg",
       "titleSource" : "Fiakerpferde erhalten künftig ab 30 Grad hitzefrei - in Salzburg",
       "titleTarget" : "Konji Fiaker oslobodit će se vrućine od 30 stupnjeva - u Salzburgu",
       "url" : "https://kurier.at/chronik/oesterreich/fiakerpferde-erhalten-kuenftig-ab-30-grad-hitzefrei-in-salzburg/401132775"
+    }, {
+      "id" : "yTq680x9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/24/crops/w=1280/788247_opener_274524_201217_bh-lid-musikwunschtag-00.00.08.jpg?s=75be383bf4fdf04f88170f1c8e37e725fcb3b339",
+      "titleSource" : "Fast 12.000 Euro für „Licht ins Dunkel“",
+      "titleTarget" : "Gotovo 12.000 eura za \"Licht ins Dunkel\"",
+      "url" : "https://burgenland.orf.at/stories/3081255/"
+    }, {
+      "id" : "vbUqB3vJ",
+      "imgUrl" : "https://image.kurier.at/images/original/3175673/46-142664348.jpg",
+      "titleSource" : "Die Angst der Tiroler Ärzte vor den Skifahrern",
+      "titleTarget" : "Strah od tirolskih liječnika skijaša",
+      "url" : "https://kurier.at/chronik/oesterreich/die-angst-der-tiroler-aerzte-vor-den-skifahrern/401132310"
+    }, {
+      "id" : "QohjDglm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/96/crops/w=1280/783319_opener_272696_netz_test.jpg?s=a09ab50e7e09707d5bc34bd120b216d93fafa17d",
+      "titleSource" : "9.000 Anmeldungen zu Gratis-Schnelltestungen",
+      "titleTarget" : "9.000 registracija za besplatne brze testove",
+      "url" : "https://vorarlberg.orf.at/stories/3081063/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "PuVVT1uB",
-      "imgUrl" : "https://image.kurier.at/images/original/4826319/46-164476852.jpg",
-      "titleSource" : "Paul McCartney kündigt Doku über seine Musikkarriere an",
-      "titleTarget" : "Paul McCartney najavljuje dokumentarac o svojoj glazbenoj karijeri",
-      "url" : "https://kurier.at/kultur/paul-mccartney-kuendigt-doku-ueber-seine-musikkarriere-an/401132514"
-    }, {
-      "id" : "5vjJS4TE",
-      "imgUrl" : "https://image.kurier.at/images/original/4824813/46-173564301.jpg",
-      "titleSource" : "Son Lux: Experimentelle Album-Trilogie über zerstsörtes Weltbild",
-      "titleTarget" : "Son Lux: Eksperimentalna trilogija albuma o uništenom svjetonazoru",
-      "url" : "https://kurier.at/kultur/son-lux-experimentelle-album-trilogie-ueber-zerstsoertes-weltbild/401131833"
-    }, {
-      "id" : "cEEbwtB9",
-      "imgUrl" : "https://image.kurier.at/images/original/4820922/46-173271539.jpg",
-      "titleSource" : "Mit Peter Mathis in den Bergen - garantiert ohne Après-Ski",
-      "titleTarget" : "S Peterom Mathisom u planinama - zajamčeno bez après-skija",
-      "url" : "https://kurier.at/kultur/buch/mit-peter-mathis-in-den-bergen-garantiert-ohne-apres-ski/401129592"
-    }, {
       "id" : "3glB5Bu5",
       "imgUrl" : "https://image.kurier.at/images/original/4827039/46-108993785.jpg",
       "titleSource" : "RTL stellt \"Magda macht das schon\" mit Verena Altenberger ein",
@@ -167,11 +149,29 @@
       "titleTarget" : "TV serija o skandalu sa seks video zapisima Pamele Anderson i Tommyja Leeja",
       "url" : "https://kurier.at/kultur/medien/tv-serie-ueber-sexvideo-skandal-von-pamela-anderson-und-tommy-lee/401132781"
     }, {
+      "id" : "PuVVT1uB",
+      "imgUrl" : "https://image.kurier.at/images/original/4826319/46-164476852.jpg",
+      "titleSource" : "Paul McCartney kündigt Doku über seine Musikkarriere an",
+      "titleTarget" : "Paul McCartney najavljuje dokumentarac o svojoj glazbenoj karijeri",
+      "url" : "https://kurier.at/kultur/paul-mccartney-kuendigt-doku-ueber-seine-musikkarriere-an/401132514"
+    }, {
+      "id" : "5vjJS4TE",
+      "imgUrl" : "https://image.kurier.at/images/original/4824813/46-173564301.jpg",
+      "titleSource" : "Son Lux: Experimentelle Album-Trilogie über zerstsörtes Weltbild",
+      "titleTarget" : "Son Lux: Eksperimentalna trilogija albuma o uništenom svjetonazoru",
+      "url" : "https://kurier.at/kultur/son-lux-experimentelle-album-trilogie-ueber-zerstsoertes-weltbild/401131833"
+    }, {
       "id" : "be9Ra4vj",
       "imgUrl" : "https://image.kurier.at/images/original/4827930/46-173611193.jpg",
       "titleSource" : "Taylor Swifts neues Album \"Evermore\"",
       "titleTarget" : "Novi album Taylor Swift \"Evermore\"",
       "url" : "https://kurier.at/kultur/taylor-swifts-neues-album-evermore/401133333"
+    }, {
+      "id" : "cEEbwtB9",
+      "imgUrl" : "https://image.kurier.at/images/original/4820922/46-173271539.jpg",
+      "titleSource" : "Mit Peter Mathis in den Bergen - garantiert ohne Après-Ski",
+      "titleTarget" : "S Peterom Mathisom u planinama - zajamčeno bez après-skija",
+      "url" : "https://kurier.at/kultur/buch/mit-peter-mathis-in-den-bergen-garantiert-ohne-apres-ski/401129592"
     }, {
       "id" : "BB5rcV0R",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/0/e/5912334/D0855B42-D99C-4282-BBC8-8FA4DF5F4312_v0_l.jpg",
@@ -185,21 +185,10 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "xGViXqM7",
-      "titleSource" : "Lewandowski steht vor seiner Krönung",
-      "titleTarget" : "Lewandowski se suočava sa svojom krunidbom",
-      "url" : "https://sport.orf.at/stories/3070729/"
-    }, {
-      "id" : "R9CsdBS1",
-      "imgUrl" : "https://image.kurier.at/images/original/4825662/46-173603184.jpg",
-      "titleSource" : "Debakel im Cup-Achtelfinale: Rapid ist in Salzburg chancenlos",
-      "titleTarget" : "Debakl u drugom kolu Kupa: Rapid nema šanse u Salzburgu",
-      "url" : "https://kurier.at/sport/fussball/debakel-im-oefb-cup-achtelfinale-klare-rapid-pleite-gegen-red-bull-salzburg/401131440"
-    }, {
-      "id" : "Bk6WVCKC",
-      "titleSource" : "Pacult übernimmt Ruder in Klagenfurt",
-      "titleTarget" : "Pacult preuzima kormilo u Klagenfurtu",
-      "url" : "https://sport.orf.at/stories/3070770/"
+      "id" : "u5rT88Om",
+      "titleSource" : "Lewandowski erstmals Weltfußballer",
+      "titleTarget" : "Lewandowski prvi put svjetski nogometaš",
+      "url" : "https://sport.orf.at/stories/3070795/"
     }, {
       "id" : "5ZRpLeAE",
       "imgUrl" : "https://image.kurier.at/images/original/4827621/46-173614557.jpg",
@@ -207,20 +196,32 @@
       "titleTarget" : "Sada je popravljeno: Rusija isključena s Olimpijskih igara",
       "url" : "https://kurier.at/sport/zweijaehrige-olympia-sperre-ueber-russland-verhaengt/401133237"
     }, {
-      "id" : "k7UL7oeC",
-      "titleSource" : "Salzburg nimmt Rapid auseinander",
-      "titleTarget" : "Salzburg rastavlja Rapid",
-      "url" : "https://sport.orf.at/stories/3070752/"
+      "id" : "e0fR8pYN",
+      "titleSource" : "St. Pöltens Frauen stehen im Achtelfinale",
+      "titleTarget" : "Žene St. Pöltena su u posljednjih šesnaest",
+      "url" : "https://sport.orf.at/stories/3070799/"
+    }, {
+      "id" : "L1jGAcsQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4826229/46-168970428.jpg",
+      "titleSource" : "Warum David Alaba Weihnachten nicht in Wien feiern darf",
+      "titleTarget" : "Zašto David Alaba ne smije slaviti Božić u Beču",
+      "url" : "https://kurier.at/sport/fussball/warum-fussball-star-david-alaba-weihnachten-nicht-in-wien-feiern-darf/401132493"
     }, {
       "id" : "snM7OTBm",
       "titleSource" : "St. Pölten peilt in Zürich Achtelfinale an",
       "titleTarget" : "St. Pölten cilja na osminu finala u Zürichu",
       "url" : "https://sport.orf.at/stories/3070715/"
     }, {
-      "id" : "8A2U79o2",
-      "titleSource" : "Salzburger dank Teamgeist wieder obenauf",
-      "titleTarget" : "Salzburger je opet na vrhu zahvaljujući timskom duhu",
-      "url" : "https://sport.orf.at/stories/3070764/"
+      "id" : "VCsyUsGI",
+      "imgUrl" : "https://image.kurier.at/images/original/4826391/46-165477513.jpg",
+      "titleSource" : "Hitzlsperger froh über Coming-out: Leben hat sich \"verbessert\"",
+      "titleTarget" : "Hitzlsperger sretan zbog izlaska: život se \"popravio\"",
+      "url" : "https://kurier.at/sport/fussball/deutscher-ex-fussball-teamspieler-hitzlsperger-froh-ueber-coming-out-leben-hat-sich-verbessert/401132589"
+    }, {
+      "id" : "inipN1AL",
+      "titleSource" : "Top-Ten-Platz für Eberhard in Hochfilzen",
+      "titleTarget" : "Deset najboljih mjesta za Eberharda u Hochfilzenu",
+      "url" : "https://sport.orf.at/stories/3070788/"
     } ]
   } ],
   "country" : "austria",
