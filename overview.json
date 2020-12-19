@@ -3,7 +3,7 @@
     "category" : "POLITICS",
     "newsArticles" : [ {
       "id" : "qkCZhfTT",
-      "imgUrl" : "https://image.kurier.at/images/original/4831074/46-173647435.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4831266/46-173647263.jpg",
       "titleSource" : "Lockdown und die Zeit danach: Der Fahrplan \"zur Normalität\"",
       "titleTarget" : "Zaključavanje i vrijeme nakon: Vozni red \"do normalnosti\"",
       "url" : "https://kurier.at/politik/inland/regierung-erklaert-lockdown-die-neue-strategie-im-detail/401134593"
@@ -20,29 +20,29 @@
       "titleTarget" : "Ne susresti se više ni s kim: vlada najavljuje novo zaključavanje",
       "url" : "https://www.diepresse.com/5913165/CoronaMassnahmen_Treffen-Sie-wieder-niemanden_Regierung?from=rss"
     }, {
-      "id" : "6qv3H3GG",
-      "imgUrl" : "https://image.kurier.at/images/original/4824429/20201216-ABD0043-1-1.jpg",
-      "titleSource" : "Justizministerin geht in die Babypause - Kogler übernimmt Ressort",
-      "titleTarget" : "Ministar pravosuđa odlazi na rodiljni dopust - Kogler preuzima resor",
-      "url" : "https://kurier.at/politik/inland/live-justizministerin-zadic-geht-in-babypause-wer-uebernimmt-ressort/401133654"
+      "id" : "sRBxrko1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/6/5913654/38CF4195-B5B2-4467-A001-9A8EEF42B3E4_v0_l.jpg",
+      "titleSource" : "Österreichs dritter Lockdown im Überblick",
+      "titleTarget" : "Treća austrijska blokada na prvi pogled",
+      "url" : "https://www.diepresse.com/5913654/CoronaMassnahmen_Oesterreichs-dritter-Lockdown-im-Ueberblick?from=rss"
     }, {
-      "id" : "XSbnCzdN",
-      "imgUrl" : "https://image.kurier.at/images/original/3632612/78350011449549592_BLD_Online.jpg",
-      "titleSource" : "Tal Silberstein in Rumänien zu fünf Jahren Haft verurteilt",
-      "titleTarget" : "Tal Silberstein osuđen je na pet godina zatvora u Rumunjskoj",
-      "url" : "https://kurier.at/politik/inland/tal-silberstein-in-rumaenien-zu-fuenf-jahren-haft-verurteilt/401133783"
+      "id" : "xtcB6wFl",
+      "imgUrl" : "https://image.kurier.at/images/original/4831326/20201219-ABD0001-1-1.jpg",
+      "titleSource" : "Blümel bestätigt: Umsatzersatz nur bis Jahresende",
+      "titleTarget" : "Blümel potvrđuje: naknadu prodaje samo do kraja godine",
+      "url" : "https://kurier.at/politik/inland/bluemel-fassmann-koestinger-mit-details-zu-lockdown/401134890"
     }, {
-      "id" : "2xUaehY9",
-      "imgUrl" : "https://image.kurier.at/images/original/4407923/8346005.jpg",
-      "titleSource" : "Welcher Tag ist heute? \"Wochentagsamnesie\" vor allem bei Jungen",
-      "titleTarget" : "Koji je danas dan? \"Amnezija radnim danom\", posebno kod dječaka",
-      "url" : "https://kurier.at/politik/inland/welcher-tag-ist-heute-wochentagsamnesie-vor-allem-bei-jungen/401133630"
+      "id" : "31T0mqjK",
+      "imgUrl" : "https://image.kurier.at/images/original/4331813/46-164513189.jpg",
+      "titleSource" : "\"Streng geheim\": Ibiza-Video wird am Montag an U-Ausschuss geliefert",
+      "titleTarget" : "\"Strogo tajno\": Video s Ibize bit će dostavljen U-odboru u ponedjeljak",
+      "url" : "https://kurier.at/politik/inland/streng-geheim-ibiza-video-wird-am-montag-an-u-ausschuss-geliefert/401134644"
     }, {
-      "id" : "Js0yPKrg",
-      "imgUrl" : "https://image.kurier.at/images/original/4829358/20201218-ABD0075-1-1.jpg",
-      "titleSource" : "Katharina Reich wird Direktorin für die Öffentliche Gesundheit",
-      "titleTarget" : "Katharina Reich postaje direktorica za javno zdravstvo",
-      "url" : "https://kurier.at/politik/inland/live-wer-wird-chief-medical-officer-der-republik/401133660"
+      "id" : "omohQDfV",
+      "imgUrl" : "https://image.kurier.at/images/original/4831278/46-148327362.jpg",
+      "titleSource" : "Steinsaal im Kanzleramt wird in \"Leopold-Figl-Saal\" umbenannt",
+      "titleTarget" : "Steinsaal u kancelariji preimenovan je u \"Leopold-Figl-Saal\"",
+      "url" : "https://kurier.at/politik/inland/steinsaal-im-kanzleramt-wird-in-leopold-figl-saal-umbenannt/401134860"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,23 +53,29 @@
       "titleTarget" : "Mahrerov eksplozivni \"Plan za slobodu\": Samo uz test u pubu",
       "url" : "https://kurier.at/wirtschaft/mahrers-brisanter-plan-fuer-die-freiheit/401134245"
     }, {
-      "id" : "eowpHVeg",
-      "imgUrl" : "https://image.kurier.at/images/original/4828803/46-85755093.jpg",
-      "titleSource" : "EuGH stoppt skandalöse Abgas-Tricksereien",
-      "titleTarget" : "ECJ zaustavlja skandalozne trikove s ispušnim plinovima",
-      "url" : "https://kurier.at/wirtschaft/eugh-stoppt-skandaloese-abgas-tricksereien/401133834"
+      "id" : "j2y6Y8p6",
+      "imgUrl" : "https://image.kurier.at/images/original/4827522/46-173415614.jpg",
+      "titleSource" : "Festlicher  Glanz für die Tafel",
+      "titleTarget" : "Svečani sjaj za stolom",
+      "url" : "https://kurier.at/wirtschaft/immobiz/festlicher-glanz-fuer-die-tafel/401133177"
     }, {
-      "id" : "sbVYtxzZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4828902/46-110006825.jpg",
-      "titleSource" : "Porr und Strabag starten U-Bahn-Ausbau in Wien",
-      "titleTarget" : "Porr i Strabag započinju širenje podzemne željeznice u Beču",
-      "url" : "https://kurier.at/wirtschaft/porr-und-strabag-starten-u-bahn-ausbau-in-wien/401133858"
+      "id" : "G2s8Cijt",
+      "imgUrl" : "https://image.kurier.at/images/original/4322798/78370011354671720_BLD_Online.jpg",
+      "titleSource" : "Fed erlaubt US-Banken nach Stresstest wieder Aktienrückkäufe ",
+      "titleTarget" : "Fed dopušta američkim bankama otkup dionica nakon stresnog testa",
+      "url" : "https://kurier.at/wirtschaft/fed-erlaubt-us-banken-nach-stresstest-wieder-aktienrueckkaeufe/401134854"
     }, {
-      "id" : "r9ovssdA",
-      "imgUrl" : "https://image.kurier.at/images/original/4828542/46-148297639.jpg",
-      "titleSource" : "Wienerberger kauft US-Firma Meridian Brick um 250 Mio. Dollar",
-      "titleTarget" : "Wienerberger kupuje američku tvrtku Meridian Brick za 250 milijuna dolara",
-      "url" : "https://kurier.at/wirtschaft/wienerberger-kauft-um-250-mio-dollar-us-firma-meridian-brick/401133639"
+      "id" : "cgreUHCD",
+      "imgUrl" : "https://image.kurier.at/images/original/4831275/46-173653480.jpg",
+      "titleSource" : "Nike übertrifft Erwartungen deutlich ",
+      "titleTarget" : "Nike očito premašuje očekivanja",
+      "url" : "https://kurier.at/wirtschaft/nike-uebertrifft-erwartungen-deutlich/401134851"
+    }, {
+      "id" : "C7QeMhsu",
+      "imgUrl" : "https://image.kurier.at/images/original/4826601/46-173263940.jpg",
+      "titleSource" : "Die Arbeitsengerln am Weihnachtsabend",
+      "titleTarget" : "Anđeli koji rade na Badnjak",
+      "url" : "https://kurier.at/wirtschaft/karriere/die-arbeitsengerln-am-weihnachtsabend/401132763"
     }, {
       "id" : "mdRyDgxB",
       "imgUrl" : "https://image.kurier.at/images/original/4762023/20201116-ABD0081-1-1.jpg",
@@ -82,12 +88,6 @@
       "titleSource" : "Handel und Dienstleister: Shopping-Tour vorerst abgesagt",
       "titleTarget" : "Maloprodaja i pružatelji usluga: obilazak šopinga za sada je otkazan",
       "url" : "https://kurier.at/wirtschaft/handel-und-dienstleister-shopping-tour-vorerst-abgesagt/401134740"
-    }, {
-      "id" : "Db9ElI3s",
-      "imgUrl" : "https://image.kurier.at/images/original/4830786/46-168998373.jpg",
-      "titleSource" : "Dritter Lockdown gefährdet Boom-Jahr",
-      "titleTarget" : "Treće zaključavanje ugrožava godinu procvata",
-      "url" : "https://kurier.at/wirtschaft/dritter-lockdown-gefaehrdet-boom-jahr/401134671"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,12 +97,6 @@
       "titleSource" : "Lockdown aber Skigebiete bleiben offen",
       "titleTarget" : "Zaključavanje, ali skijališta ostaju otvorena",
       "url" : "https://tirol.orf.at/stories/3081452/"
-    }, {
-      "id" : "I9xzqG17",
-      "imgUrl" : "https://image.kurier.at/images/original/4828071/46-173429615.jpg",
-      "titleSource" : "Weihnachten 2020: Allein im Pflegeheim",
-      "titleTarget" : "Božić 2020: Sam u staračkom domu",
-      "url" : "https://kurier.at/chronik/oesterreich/weihnachten-2020-allein-im-pflegeheim/401133384"
     }, {
       "id" : "9vFlmGI1",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/7/5913511/corona1_1608312872880297.jpg",
@@ -122,17 +116,23 @@
       "titleTarget" : "Corona dijeli Austriju na dva suprotstavljena tabora",
       "url" : "https://kurier.at/chronik/oesterreich/corona-spaltet-oesterreich-in-zwei-kontraere-lager/401133741"
     }, {
+      "id" : "XK2da91D",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/99/crops/w=1280/789266_opener_274899_abd0247.jpg?s=2f857710329bb40ff732277c2ee00a0c42f396e6",
+      "titleSource" : "5.127 Kerzen gedenken CoV-Verstorbener",
+      "titleTarget" : "5.127 svijeća u spomen na CoV preminulog",
+      "url" : "https://wien.orf.at/stories/3081442/"
+    }, {
       "id" : "0Vwh0AAR",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/05/crops/w=1280/785680_opener_273605_20201215_diskussion_um_feuerwehrbekleidung_00_01_52_11.jpg?s=f5e62feb852f7873455252403db83ebfa64c936e",
       "titleSource" : "Falsche Uniform: Strafe ist vom Tisch",
       "titleTarget" : "Pogrešna odora: kazna je van stola",
       "url" : "https://kaernten.orf.at/stories/3081433/"
     }, {
-      "id" : "XK2da91D",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/99/crops/w=1280/789266_opener_274899_abd0247.jpg?s=2f857710329bb40ff732277c2ee00a0c42f396e6",
-      "titleSource" : "5.127 Kerzen gedenken CoV-Verstorbener",
-      "titleTarget" : "5.127 svijeća u spomen na CoV preminulog",
-      "url" : "https://wien.orf.at/stories/3081442/"
+      "id" : "aINPcyKB",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/41/79/crops/w=1280/710740_opener_246279_ludwig2.jpg?s=d015cba1b3446c0133b193b276d99fee445e8670",
+      "titleSource" : "Ludwig: Offene Fragen zum „Freitesten“",
+      "titleTarget" : "Ludwig: Otvorena pitanja o \"Slobodnom stilu\"",
+      "url" : "https://wien.orf.at/stories/3081496/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,41 +143,41 @@
       "titleTarget" : "Corona: Kazališta su i dalje zatvorena, muzeji se zatvaraju 26. prosinca",
       "url" : "https://kurier.at/kultur/corona-theater-bleiben-zu-museen-schliessen-am-26-dezember/401134782"
     }, {
-      "id" : "4j2GFDQC",
-      "imgUrl" : "https://image.kurier.at/images/original/4828962/46-173629265.jpg",
-      "titleSource" : "\"Boba Fett\"-Darsteller Jeremy Bulloch ist tot",
-      "titleTarget" : "Glumac \"Boba Fett\" Jeremy Bulloch je mrtav",
-      "url" : "https://kurier.at/kultur/boba-fett-darsteller-jeremy-bulloch-ist-tot/401133939"
-    }, {
       "id" : "bd5b6Fdk",
       "imgUrl" : "https://image.kurier.at/images/original/4828449/46-167076503.jpg",
       "titleSource" : "Wie man beim Lesen von J.K. Rowling die Muskeln trainiert",
       "titleTarget" : "Kako, dok sam čitao J.K. Rowling trenira mišiće",
       "url" : "https://kurier.at/kultur/buch/wie-man-beim-lesen-von-jk-rowling-die-muskeln-trainiert/401133537"
     }, {
+      "id" : "Vf1l6ZhH",
+      "imgUrl" : "https://image.kurier.at/images/original/4828452/46-163074049.jpg",
+      "titleSource" : "In dieser Zukunftsvision wissen Staubsaugerroboter fast alles",
+      "titleTarget" : "U ovoj viziji budućnosti robotski usisavači znaju gotovo sve",
+      "url" : "https://kurier.at/kultur/buch/in-dieser-zukunftsvision-wissen-staubsaugerroboter-fast-alles/401133540"
+    }, {
+      "id" : "uNHhWmkn",
+      "imgUrl" : "https://image.kurier.at/images/original/4831206/46-173617953.jpg",
+      "titleSource" : "Pandemien und Prävention: Alles schon mal da gewesen!",
+      "titleTarget" : "Pandemije i prevencija: sve je već bilo tamo!",
+      "url" : "https://kurier.at/kultur/pandemien-und-praevention-alles-schon-mal-da-gewesen/401134791"
+    }, {
+      "id" : "fo3Q2354",
+      "imgUrl" : "https://image.kurier.at/images/original/4828446/46-168290529.jpg",
+      "titleSource" : "Die weiße Schrift des Sibirischen Tigers lesen",
+      "titleTarget" : "Pročitajte bijeli spis sibirskog tigra",
+      "url" : "https://kurier.at/kultur/buch/die-weisse-schrift-des-sibirischen-tigers-lesen/401133531"
+    }, {
+      "id" : "OjQjhWZx",
+      "imgUrl" : "https://image.kurier.at/images/original/4830660/46-173547664.jpg",
+      "titleSource" : "Die Geschichte der Kinoprogramme: „Mitnehmen oder zerreißen“",
+      "titleTarget" : "Povijest kino programa: \"Odnesi ili poderaj\"",
+      "url" : "https://kurier.at/kultur/die-geschichte-der-kinoprogramme-mitnehmen-oder-zerreissen/401134776"
+    }, {
       "id" : "cm2hXAPa",
       "imgUrl" : "https://image.kurier.at/images/original/4830231/46-167848539.jpg",
       "titleSource" : "Berlinale wird coronabedingt auf Juni verschoben",
       "titleTarget" : "Berlinale je odgođen za lipanj zbog korone",
       "url" : "https://kurier.at/kultur/berlinale-wird-coronabedingt-auf-juni-verschoben/401134473"
-    }, {
-      "id" : "IuTUoYTC",
-      "imgUrl" : "https://image.kurier.at/images/original/4828938/46-154113475.jpg",
-      "titleSource" : "32 Jahre später: \"Prinz aus Zamunda\" wird fortgesetzt",
-      "titleTarget" : "32 godine kasnije: Nastavit će se \"Princ iz Zamunde\"",
-      "url" : "https://kurier.at/kultur/medien/32-jahre-spaeter-prinz-aus-zamunda-wird-fortgesetzt/401133927"
-    }, {
-      "id" : "Dc1P4tdm",
-      "imgUrl" : "https://image.kurier.at/images/original/4828422/46-173564304.jpg",
-      "titleSource" : "Klaus Schubert initiierte Hymne der Austro-Pop-Veteranen",
-      "titleTarget" : "Klaus Schubert inicirao je himnu veterana Austro-Popa",
-      "url" : "https://kurier.at/kultur/klaus-schubert-initiierte-hymne-der-austro-pop-veteranen/401133504"
-    }, {
-      "id" : "NdlqMw1d",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/e/5913262/saengerknaben_1608293201646357.jpg",
-      "titleSource" : "Wiener Sängerknaben streamen Weihnachtskonzert",
-      "titleTarget" : "Zbor bečkih dječaka tok božićnog koncerta",
-      "url" : "https://www.diepresse.com/5913262/LockdownKulturtipp_Wiener-Saengerknaben-streamen-Weihnachtskonzert?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,18 +185,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "2C6HwQMv",
-      "imgUrl" : "https://image.kurier.at/images/original/4828602/46-173390797.jpg",
-      "titleSource" : "Sergio Perez landet im zweiten Red-Bull-Cockpit",
-      "titleTarget" : "Sergio Perez slijeće u drugi kokpit Red Bull-a",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-medien-sergio-perez-landet-im-zweiten-red-bull-cockpit/401133690"
-    }, {
-      "id" : "ldNbRmbB",
-      "imgUrl" : "https://image.kurier.at/images/original/4827978/46-169003028.jpg",
-      "titleSource" : "Wie die Frauen den Sport eroberten",
-      "titleTarget" : "Kako su žene osvajale sport",
-      "url" : "https://kurier.at/sport/skispringen-bob-eishockey-wie-die-frauen-den-sport-eroberten/401133345"
-    }, {
       "id" : "b9V1cNok",
       "imgUrl" : "https://image.kurier.at/images/original/4829217/46-173637264.jpg",
       "titleSource" : "Horror-Sturz von Schmidhofer bei der Abfahrt in Val d'Isère",
@@ -215,16 +203,26 @@
       "titleTarget" : "Kombinacija snova: Jürgen Melzer u budućnosti će biti trener Barbare Haas",
       "url" : "https://kurier.at/sport/tennis/traumkombination-juergen-melzer-kuenftig-trainer-von-barbara-haas/401134107"
     }, {
-      "id" : "nQHkU0y3",
-      "imgUrl" : "https://image.kurier.at/images/original/4827891/46-155774595.jpg",
-      "titleSource" : "Von wegen \"schwaches Geschlecht\": Die Frauen sind nicht zu stoppen",
-      "titleTarget" : "Zbog \"slabog seksa\": Žene su nezaustavljive",
-      "url" : "https://kurier.at/sport/wintersport/von-wegen-schwaches-geschlecht-die-frauen-sind-nicht-zu-stoppen/401133312"
+      "id" : "yGzV3g3X",
+      "imgUrl" : "https://image.kurier.at/images/original/4830513/46-171160396.jpg",
+      "titleSource" : "Shootingstar Johannes Lamparter: Vom Gewichtheber zum Kombinierer",
+      "titleTarget" : "Zvijezda padalica Johannes Lamparter: od dizača tegova do kombinirača",
+      "url" : "https://kurier.at/sport/wintersport/shootingstar-johannes-lamparter-vom-gewichtheber-zum-kombinierer/401134575"
     }, {
       "id" : "7KZB8ych",
       "titleSource" : "Kramer feiert zweiten Weltcup-Sieg",
       "titleTarget" : "Kramer slavi drugu pobjedu u Svjetskom kupu",
       "url" : "https://sport.orf.at/stories/3070839/"
+    }, {
+      "id" : "H3wrCvtU",
+      "titleSource" : "Verdacht auf Kreuzbandriss bei Schmidhofer",
+      "titleTarget" : "Schmidhofer sumnja na suzenje križnih ligamenata",
+      "url" : "https://sport.orf.at/stories/3070837/"
+    }, {
+      "id" : "MHSsfxAg",
+      "titleSource" : "Saisonende für Schmidhofer",
+      "titleTarget" : "Kraj sezone za Schmidhofera",
+      "url" : "https://sport.orf.at/stories/3070862/"
     } ]
   } ],
   "country" : "austria",
