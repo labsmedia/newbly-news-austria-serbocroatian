@@ -2,23 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "sRBxrko1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/6/5913654/38CF4195-B5B2-4467-A001-9A8EEF42B3E4_v0_l.jpg",
-      "titleSource" : "Österreichs dritter Lockdown im Überblick",
-      "titleTarget" : "Treća austrijska blokada na prvi pogled",
-      "url" : "https://www.diepresse.com/5913654/CoronaMassnahmen_Oesterreichs-dritter-Lockdown-im-Ueberblick?from=rss"
-    }, {
       "id" : "xtcB6wFl",
       "imgUrl" : "https://image.kurier.at/images/original/4831326/20201219-ABD0001-1-1.jpg",
       "titleSource" : "Blümel bestätigt: Umsatzersatz nur bis Jahresende",
       "titleTarget" : "Blümel potvrđuje: naknadu prodaje samo do kraja godine",
       "url" : "https://kurier.at/politik/inland/bluemel-fassmann-koestinger-mit-details-zu-lockdown/401134890"
     }, {
-      "id" : "R4xd5NtL",
-      "imgUrl" : "https://image.kurier.at/images/original/4830087/81811351058039012_BLD_Online.jpg",
-      "titleSource" : "Neue Corona-Strategie: Was Sie jetzt wissen müssen",
-      "titleTarget" : "Nova strategija za koronu: što sada trebate znati",
-      "url" : "https://kurier.at/politik/inland/neue-corona-strategie-was-sie-jetzt-wissen-muessen/401134761"
+      "id" : "sRBxrko1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/6/5913654/38CF4195-B5B2-4467-A001-9A8EEF42B3E4_v0_l.jpg",
+      "titleSource" : "Österreichs dritter Lockdown im Überblick",
+      "titleTarget" : "Treća austrijska blokada na prvi pogled",
+      "url" : "https://www.diepresse.com/5913654/CoronaMassnahmen_Oesterreichs-dritter-Lockdown-im-Ueberblick?from=rss"
+    }, {
+      "id" : "F44j7bbS",
+      "imgUrl" : "https://image.kurier.at/images/original/4831479/46-173301848.jpg",
+      "titleSource" : "Opposition kritisiert dritten Lockdown scharf",
+      "titleTarget" : "Oporba oštro kritizira treće zaključavanje",
+      "url" : "https://kurier.at/politik/inland/norbert-hofer-schwarz-gruen-hat-oesterreich-in-diktokratie-gefuehrt/401134998"
+    }, {
+      "id" : "SmSLVCFV",
+      "imgUrl" : "https://image.kurier.at/images/original/4829379/20201218-ABD0079-1-1.jpg",
+      "titleSource" : "Zadic fürchtet keine rechtlichen Probleme beim Freitesten",
+      "titleTarget" : "Zadić se ne boji pravnih problema s besplatnim testom",
+      "url" : "https://kurier.at/politik/inland/zadic-fuerchtet-keine-rechtlichen-probleme-beim-freitesten/401135100"
     }, {
       "id" : "gaRRHxA7",
       "imgUrl" : "https://image.kurier.at/images/original/4831284/46-173590743.jpg",
@@ -26,38 +32,32 @@
       "titleTarget" : "Odbor U: Kritika \"Top Secret\" klasifikacije videa na Ibizi",
       "url" : "https://kurier.at/politik/inland/u-ausschuss-kritik-an-streng-geheim-einstufung-des-ibiza-videos/401134863"
     }, {
-      "id" : "omohQDfV",
-      "imgUrl" : "https://image.kurier.at/images/original/4831278/46-148327362.jpg",
-      "titleSource" : "Steinsaal im Kanzleramt wird in \"Leopold-Figl-Saal\" umbenannt",
-      "titleTarget" : "Steinsaal u kancelariji preimenovan je u \"Leopold-Figl-Saal\"",
-      "url" : "https://kurier.at/politik/inland/steinsaal-im-kanzleramt-wird-in-leopold-figl-saal-umbenannt/401134860"
-    }, {
       "id" : "mjWdEpZS",
       "imgUrl" : "https://image.kurier.at/images/original/4831779/46-173658038.jpg",
       "titleSource" : "Flüchtlinge: Tiroler ÖVP-Politiker machen mobil",
       "titleTarget" : "Izbjeglice: mobiliziraju se tirolski ÖVP političari",
       "url" : "https://kurier.at/politik/inland/fluechtlinge-tiroler-oevp-politiker-machen-mobil/401135112"
     }, {
-      "id" : "SmSLVCFV",
-      "imgUrl" : "https://image.kurier.at/images/original/4829379/20201218-ABD0079-1-1.jpg",
-      "titleSource" : "Zadic fürchtet keine rechtlichen Probleme beim Freitesten",
-      "titleTarget" : "Zadić se ne boji pravnih problema s besplatnim testom",
-      "url" : "https://kurier.at/politik/inland/zadic-fuerchtet-keine-rechtlichen-probleme-beim-freitesten/401135100"
+      "id" : "omohQDfV",
+      "imgUrl" : "https://image.kurier.at/images/original/4831278/46-148327362.jpg",
+      "titleSource" : "Steinsaal im Kanzleramt wird in \"Leopold-Figl-Saal\" umbenannt",
+      "titleTarget" : "Steinsaal u kancelariji preimenovan je u \"Leopold-Figl-Saal\"",
+      "url" : "https://kurier.at/politik/inland/steinsaal-im-kanzleramt-wird-in-leopold-figl-saal-umbenannt/401134860"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "C7QeMhsu",
+      "imgUrl" : "https://image.kurier.at/images/original/4826601/46-173263940.jpg",
+      "titleSource" : "Die Arbeitsengerln am Weihnachtsabend",
+      "titleTarget" : "Anđeli koji rade na Badnjak",
+      "url" : "https://kurier.at/wirtschaft/karriere/die-arbeitsengerln-am-weihnachtsabend/401132763"
+    }, {
       "id" : "j2y6Y8p6",
       "imgUrl" : "https://image.kurier.at/images/original/4827522/46-173415614.jpg",
       "titleSource" : "Festlicher  Glanz für die Tafel",
       "titleTarget" : "Svečani sjaj za stolom",
       "url" : "https://kurier.at/wirtschaft/immobiz/festlicher-glanz-fuer-die-tafel/401133177"
-    }, {
-      "id" : "mdRyDgxB",
-      "imgUrl" : "https://image.kurier.at/images/original/4762023/20201116-ABD0081-1-1.jpg",
-      "titleSource" : "Gastronomie über neuen Lockdown: \"Schmerzhafter Schritt\"",
-      "titleTarget" : "Gastronomija zbog novog zaključavanja: \"bolan korak\"",
-      "url" : "https://kurier.at/wirtschaft/gastronomie-ueber-neuen-lockdown-schmerzhafter-schritt/401134779"
     }, {
       "id" : "ZADvMw0P",
       "imgUrl" : "https://image.kurier.at/images/original/4532009/81690356755600328_BLD_Online.jpg",
@@ -83,26 +83,32 @@
       "titleTarget" : "Nike očito premašuje očekivanja",
       "url" : "https://kurier.at/wirtschaft/nike-uebertrifft-erwartungen-deutlich/401134851"
     }, {
-      "id" : "C7QeMhsu",
-      "imgUrl" : "https://image.kurier.at/images/original/4826601/46-173263940.jpg",
-      "titleSource" : "Die Arbeitsengerln am Weihnachtsabend",
-      "titleTarget" : "Anđeli koji rade na Badnjak",
-      "url" : "https://kurier.at/wirtschaft/karriere/die-arbeitsengerln-am-weihnachtsabend/401132763"
+      "id" : "ZTgdg1Ax",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/c/7/f/5913727/00A3862B-7E5A-4B24-8F12-4C3BEE18CF7D_v0_l.jpg",
+      "titleSource" : "Ab Jänner nur mehr Fixkostenzuschuss und Verlustausgleich",
+      "titleTarget" : "Od siječnja samo dodatak s fiksnim troškovima i naknada štete",
+      "url" : "https://www.diepresse.com/5913727/CoronaHilfen_Ab-Jaenner-nur-mehr-Fixkostenzuschuss-und?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "aINPcyKB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/41/79/crops/w=1280/710740_opener_246279_ludwig2.jpg?s=d015cba1b3446c0133b193b276d99fee445e8670",
-      "titleSource" : "Ludwig: Offene Fragen zum „Freitesten“",
-      "titleTarget" : "Ludwig: Otvorena pitanja o \"Slobodnom stilu\"",
-      "url" : "https://wien.orf.at/stories/3081496/"
-    }, {
       "id" : "i1X1Eq4Z",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.296 Corona-Neuinfektionen österreichweit",
       "titleTarget" : "2.296 novih infekcija koronom širom Austrije",
       "url" : "https://kurier.at/chronik/oesterreich/2296-corona-neuinfektionen-oesterreichweit/401134974"
+    }, {
+      "id" : "8lZtlPj2",
+      "imgUrl" : "https://image.kurier.at/images/original/4831341/46-166963803.jpg",
+      "titleSource" : "Einreise nach Österreich: Was ab heute an der Grenze gilt",
+      "titleTarget" : "Ulazak u Austriju: Što se odnosi na granicu od danas",
+      "url" : "https://kurier.at/chronik/oesterreich/einreise-nach-oesterreich-was-ab-heute-an-der-grenze-gilt/401134929"
+    }, {
+      "id" : "aaHG7uD2",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/61/crops/w=1280/790342_opener_275261_w_erste_chefeinsatzplanerin_o.jpg?s=6b092af999d23046974d412d287424ea6c0ad0bf",
+      "titleSource" : "Erste Chefeinsatzplanerin bei Polizei",
+      "titleTarget" : "Prvi glavni policajac",
+      "url" : "https://wien.orf.at/stories/3081586/"
     }, {
       "id" : "kcbCnQLV",
       "imgUrl" : "https://image.kurier.at/images/original/2075146/bier-000_dpa_Stephan%252BJansen.jpg",
@@ -110,29 +116,23 @@
       "titleTarget" : "Policija je rastvorila \"Coronaparty\" s 30 ljudi u Innsbrucku",
       "url" : "https://kurier.at/chronik/oesterreich/polizei-loeste-coronaparty-mit-30-personen-in-innsbruck-auf/401134896"
     }, {
-      "id" : "sGykm90m",
-      "imgUrl" : "https://image.kurier.at/images/original/975537/skigebiet_hinterstoder.jpg",
-      "titleSource" : "Skigebiete werden trotz Corona-Lockdown öffnen",
-      "titleTarget" : "Skijaška područja otvorit će se unatoč zaključavanju korone",
-      "url" : "https://kurier.at/chronik/oesterreich/skigebiete-werden-trotz-corona-lockdown-oeffnen/401134767"
-    }, {
-      "id" : "ysbbxza1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/24/83/crops/w=1280/614329_opener_200683_aua3.jpg?s=7276ef567474c14b0d320fbac1c8290fa3b8e417",
-      "titleSource" : "AUA-Chef: Werden Staatsgeld zurückzahlen",
-      "titleTarget" : "Šef AUA-e: Vratit će državni novac",
-      "url" : "https://wien.orf.at/stories/3081514/"
-    }, {
       "id" : "32ztpWEK",
       "imgUrl" : "https://image.kurier.at/images/original/4808142/78350011457880384_BLD_Online.jpg",
-      "titleSource" : "Neue Virus-Variante in Großbritannien; 2.296 Neuinfektionen in Österreich",
+      "titleSource" : "Preise für Impfstoffe sind bekannt; Neue Virus-Variante in Großbritannien",
       "titleTarget" : "Nova varijanta virusa u Velikoj Britaniji; 2.296 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/moderna-impfstoff-in-den-usa-zugelassen-nehammer-keine-silvester-partys/401134839"
     }, {
-      "id" : "8lZtlPj2",
-      "imgUrl" : "https://image.kurier.at/images/original/4831341/46-166963803.jpg",
-      "titleSource" : "Einreise nach Österreich: Was ab heute an der Grenze gilt",
-      "titleTarget" : "Ulazak u Austriju: Što se odnosi na granicu od danas",
-      "url" : "https://kurier.at/chronik/oesterreich/einreise-nach-oesterreich-was-ab-heute-an-der-grenze-gilt/401134929"
+      "id" : "JJvZVNz6",
+      "imgUrl" : "https://image.kurier.at/images/original/4832871/ffp2_maske2.jpg",
+      "titleSource" : "FFP2-Masken: \"Es gibt viele Millionen\"",
+      "titleTarget" : "FFP2 maske: \"Postoji mnogo milijuna\"",
+      "url" : "https://kurier.at/chronik/oesterreich/ffp2-masken-es-gibt-viele-millionen/401135283"
+    }, {
+      "id" : "CT7j38Rn",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/65/crops/w=1280/790052_opener_275165_abd0132.jpg?s=a2c6e7b387cb856005aabe2244ee989b4f1f47b9",
+      "titleSource" : "Skigebiete starten unter Bedingungen",
+      "titleTarget" : "Skijališta počinju pod određenim uvjetima",
+      "url" : "https://noe.orf.at/stories/3081556/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,12 +142,6 @@
       "titleSource" : "Pandemien und Prävention: Alles schon mal da gewesen!",
       "titleTarget" : "Pandemije i prevencija: sve je već bilo tamo!",
       "url" : "https://kurier.at/kultur/pandemien-und-praevention-alles-schon-mal-da-gewesen/401134791"
-    }, {
-      "id" : "DW5wziJ9",
-      "imgUrl" : "https://image.kurier.at/images/original/4831176/46-173649087.jpg",
-      "titleSource" : "Corona: Theater bleiben zu, Museen schließen am 26. Dezember",
-      "titleTarget" : "Corona: Kazališta su i dalje zatvorena, muzeji se zatvaraju 26. prosinca",
-      "url" : "https://kurier.at/kultur/corona-theater-bleiben-zu-museen-schliessen-am-26-dezember/401134782"
     }, {
       "id" : "Vf1l6ZhH",
       "imgUrl" : "https://image.kurier.at/images/original/4828452/46-163074049.jpg",
@@ -178,6 +172,12 @@
       "titleSource" : "Die Geschichte der Kinoprogramme: „Mitnehmen oder zerreißen“",
       "titleTarget" : "Povijest kino programa: \"Odnesi ili poderaj\"",
       "url" : "https://kurier.at/kultur/die-geschichte-der-kinoprogramme-mitnehmen-oder-zerreissen/401134776"
+    }, {
+      "id" : "RhgGtISP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/a/5/5913765/07ADEE7D-31B1-43EA-8550-D8AA472DB440_v0_l.jpg",
+      "titleSource" : "Bundestheater spielen ab 22. Jänner an Freitagen und Wochenenden",
+      "titleTarget" : "Federalna kazališta igraju petkom i vikendom od 22. siječnja",
+      "url" : "https://www.diepresse.com/5913765/Neue-Spielplaene_Bundestheater-spielen-ab-22-Jaenner-an-Freitagen?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -196,33 +196,32 @@
       "titleTarget" : "Živci su lepršali na Rapidu prije nego što se sezona pomete protiv Admire",
       "url" : "https://kurier.at/sport/fussball/nervenflattern-bei-rapid-vor-dem-saison-kehraus-gegen-die-admira/401134383"
     }, {
-      "id" : "Xx4naDyE",
-      "imgUrl" : "https://image.kurier.at/images/original/4831296/46-173637646.jpg",
-      "titleSource" : "Schwere Verletzung nach Horror-Sturz: Saison-Aus für Schmidhofer",
-      "titleTarget" : "Ozbiljna ozljeda nakon horor pada: sezona za Schmidhofera",
-      "url" : "https://kurier.at/sport/wintersport/schwere-verletzung-nach-horror-sturz-saison-aus-fuer-schmidhofer/401134887"
-    }, {
       "id" : "uKySWu7r",
       "imgUrl" : "https://image.kurier.at/images/original/4831467/46-164166315.jpg",
       "titleSource" : "Corona-Hilfen im Sport: Rapid bekam mit 2 Mio. fast die Hälfte",
       "titleTarget" : "Koronska pomoć u sportu: Rapid je dobio gotovo polovicu s 2 milijuna",
       "url" : "https://kurier.at/sport/fussball/corona-hilfen-fuer-den-sport-rapid-bekam-mit-abstand-am-meisten/401135037"
     }, {
-      "id" : "NAipleJP",
-      "titleSource" : "Kilde gelingt Double in Gröden",
-      "titleTarget" : "Kilde uspijeva dvostruko u Val Gardeni",
-      "url" : "https://sport.orf.at/stories/3070871/"
+      "id" : "Xx4naDyE",
+      "imgUrl" : "https://image.kurier.at/images/original/4831296/46-173637646.jpg",
+      "titleSource" : "Schwere Verletzung nach Horror-Sturz: Saison-Aus für Schmidhofer",
+      "titleTarget" : "Ozbiljna ozljeda nakon horor pada: sezona za Schmidhofera",
+      "url" : "https://kurier.at/sport/wintersport/schwere-verletzung-nach-horror-sturz-saison-aus-fuer-schmidhofer/401134887"
     }, {
       "id" : "Zr0CBl9M",
       "titleSource" : "Klosterneuburg und Graz wieder im Frauen-Cupfinale",
       "titleTarget" : "Klosterneuburg i Graz ponovno u finalu ženskog kupa",
       "url" : "https://sport.orf.at/stories/3070888/"
     }, {
-      "id" : "yGzV3g3X",
-      "imgUrl" : "https://image.kurier.at/images/original/4830513/46-171160396.jpg",
-      "titleSource" : "Shootingstar Johannes Lamparter: Vom Gewichtheber zum Kombinierer",
-      "titleTarget" : "Zvijezda padalica Johannes Lamparter: od dizača tegova do kombinirača",
-      "url" : "https://kurier.at/sport/wintersport/shootingstar-johannes-lamparter-vom-gewichtheber-zum-kombinierer/401134575"
+      "id" : "oup8pvnW",
+      "titleSource" : "Sturm stürmt zum nächsten Sieg",
+      "titleTarget" : "Sturm juri prema sljedećoj pobjedi",
+      "url" : "https://sport.orf.at/stories/3070894/"
+    }, {
+      "id" : "c6yUiN7P",
+      "titleSource" : "Später Erfolg für Hartberg",
+      "titleTarget" : "Kasniji uspjeh za Hartberga",
+      "url" : "https://sport.orf.at/stories/3070895/"
     } ]
   } ],
   "country" : "austria",
