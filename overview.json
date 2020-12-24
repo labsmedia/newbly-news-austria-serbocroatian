@@ -2,29 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "nhvZXAUP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/7/b/5915259/37DB9907-3354-41A1-A3F4-5376AC49E4E6_v0_l.jpg",
-      "titleSource" : "Maskenpflicht und Klassenteilung: VfGH kippt Corona-Verordnung vom Frühjahr",
-      "titleTarget" : "Zahtjev za maskom i podjela klase: VfGH poništava regulaciju Corone od proljeća",
-      "url" : "https://www.diepresse.com/5915259/CoronaMassnahmen_Maskenpflicht-und-Klassenteilung_VfGH-kippt?from=rss"
-    }, {
-      "id" : "xndS2F5u",
-      "imgUrl" : "https://image.kurier.at/images/original/4838595/20201223-ABD0004-1-1.jpg",
-      "titleSource" : "Corona: VfGH kippt Maskenpflicht und Klassenteilung im Frühjahr",
-      "titleTarget" : "Corona: VfGH u proljeće ukida zahtjev za maskom i podjelu klasa",
-      "url" : "https://kurier.at/politik/inland/corona-vfgh-kippt-maskenpflicht-und-klassenteilung-im-fruehjahr/401138490"
-    }, {
-      "id" : "JNfvK6h7",
-      "imgUrl" : "https://image.kurier.at/images/original/4839933/46-173734939.jpg",
-      "titleSource" : "Pfizer-Chef: 2021 bis zu \"5,5 Millionen Impfdosen für Österreich\" möglich",
-      "titleTarget" : "Šef Pfizera: 2021. moguće do 5,5 milijuna doza cjepiva za Austriju",
-      "url" : "https://kurier.at/politik/inland/pfizer-chef-2021-bis-zu-55-millionen-impfdosen-fuer-oesterreich-moeglich/401139012"
-    }, {
-      "id" : "oquZHcz1",
-      "imgUrl" : "https://image.kurier.at/images/original/4839243/46-173713869.jpg",
-      "titleSource" : "NGOs appellieren an Regierung: \"Hilfe vor Ort ist nicht genug\"",
-      "titleTarget" : "Nevladine organizacije apeliraju na vladu: \"Lokalna pomoć nije dovoljna\"",
-      "url" : "https://kurier.at/politik/inland/ngos-appellieren-an-regierung-hilfe-vor-ort-ist-nicht-genug/401138589"
+      "id" : "m0R0btbS",
+      "imgUrl" : "https://image.kurier.at/images/original/4798833/46-173322966.jpg",
+      "titleSource" : "Van der Bellen und Schönborn: Flüchtlinge aufnehmen",
+      "titleTarget" : "Van der Bellen i Schönborn: Prihvaćanje izbjeglica",
+      "url" : "https://kurier.at/politik/inland/weihnachten-van-der-bellen-und-schoenborn-fluechtlinge-aufnehmen/401139282"
     }, {
       "id" : "VqfsHVQQ",
       "imgUrl" : "https://image.kurier.at/images/original/4831119/20201218-ABD0330-1-1.jpg",
@@ -38,127 +20,102 @@
       "titleTarget" : "Kancelar malo prije Božića: \"Molim vas, budite oprezni\"",
       "url" : "https://kurier.at/politik/inland/kanzler-kurz-vor-weihnachten-bitte-bleiben-wir-vorsichtig/401139237"
     }, {
-      "id" : "lgM4Guga",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/8/4/5915524/Hand-eines-Patienten-in-einem-Krankenhaus-in-Zrich-am-20052011-Das-Bundeskabinett-befasst-sich-am-Mittwoch-29082_1608742724934995.jpg",
-      "titleSource" : "ÖVP startet Suiziddebatte",
-      "titleTarget" : "ÖVP započinje raspravu o samoubojstvu",
-      "url" : "https://www.diepresse.com/5915524/Sterbehilfe_OeVP-startet-Suiziddebatte?from=rss"
+      "id" : "s57VPNOw",
+      "imgUrl" : "https://image.kurier.at/images/original/4840974/46-173752313.jpg",
+      "titleSource" : "Kurz zu Weihnachten voll Zuversicht für Trendwende",
+      "titleTarget" : "Ubrzo na Božić pun samopouzdanja za preokret",
+      "url" : "https://kurier.at/politik/inland/kurz-zu-weihnachten-voll-zuversicht-fuer-trendwende/401139378"
+    }, {
+      "id" : "vVvhl4OH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/2/a/5915690/943F7586-4F8E-46A7-A9F4-A828C06D0C2D_v0_h.jpg",
+      "titleSource" : "Kurz hofft auf baldige Corona-Trendwende im Jahr 2021",
+      "titleTarget" : "Kurz se nada ranom preokretu trenda korone 2021. godine",
+      "url" : "https://www.diepresse.com/5915690/Pandemie_Kurz-hofft-auf-baldige-CoronaTrendwende-im-Jahr-2021?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ZmWNEoYs",
-      "imgUrl" : "https://image.kurier.at/images/original/4839801/46-173676087.jpg",
-      "titleSource" : "Skigebiete sehen sich für 24. gerüstet: FFP2-Masken zum Verkauf",
-      "titleTarget" : "Skijališta su spremna za 24.: FFP2 maske na prodaju",
-      "url" : "https://kurier.at/wirtschaft/skigebiete-sehen-sich-fuer-24-geruestet-ffp2-masken-zum-verkauf/401138943"
+      "id" : "CE0WydLS",
+      "imgUrl" : "https://image.kurier.at/images/original/4841097/46-165599172.jpg",
+      "titleSource" : "Montenegro Airlines geht Pleite",
+      "titleTarget" : "Montenegro Airlines bankrotira",
+      "url" : "https://kurier.at/wirtschaft/montenegro-airlines-geht-pleite/401139456"
     }, {
-      "id" : "2GGyIYyt",
-      "imgUrl" : "https://image.kurier.at/images/original/4839240/46-168863229.jpg",
-      "titleSource" : "Manner-Privatstiftung stockt Anteil an Manner auf",
-      "titleTarget" : "Privatna zaklada Manner povećava udio u Manner-u",
-      "url" : "https://kurier.at/wirtschaft/manner-privatstiftung-stockt-anteil-an-manner-auf/401138697"
-    }, {
-      "id" : "dHUCD01a",
-      "imgUrl" : "https://image.kurier.at/images/original/4839708/46-131370727.jpg",
-      "titleSource" : "Obi-Mutter Tengelmann übernimmt Textildiskonter KiK ganz",
-      "titleTarget" : "Obi majka Tengelmann u cijelosti preuzima diskontnu trgovinu tekstila KiK",
-      "url" : "https://kurier.at/wirtschaft/obi-mutter-tengelmann-uebernimmt-textildiskonter-kik-ganz/401138889"
-    }, {
-      "id" : "npqYUQLz",
-      "imgUrl" : "https://image.kurier.at/images/original/4839207/46-168935604.jpg",
-      "titleSource" : "Airbnb meldet für 2020 erstmals Vermieterdaten an die Finanz",
-      "titleTarget" : "Airbnb prvi put izvještava podatke o iznajmljivačima Finanzu 2020. godine",
-      "url" : "https://kurier.at/wirtschaft/airbnb-meldet-fuer-2020-erstmals-vermieterdaten-an-die-finanz/401138679"
-    }, {
-      "id" : "yePOp3DL",
-      "imgUrl" : "https://image.kurier.at/images/original/4839159/46-171883520.jpg",
-      "titleSource" : "Corona bremst Start in die Wintersaison aus",
-      "titleTarget" : "Corona usporava početak zimske sezone",
-      "url" : "https://kurier.at/wirtschaft/corona-bremst-start-in-die-wintersaison-aus/401138661"
+      "id" : "qPfdX08A",
+      "imgUrl" : "https://image.kurier.at/images/original/4837542/46-4004232.jpg",
+      "titleSource" : "Wie man der Gefahr von Bränden vorbeugt",
+      "titleTarget" : "Kako smanjiti rizik od požara",
+      "url" : "https://kurier.at/wirtschaft/immobiz/wie-man-der-gefahr-von-braenden-vorbeugt/401137671"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "uoH9kY2H",
-      "imgUrl" : "https://image.kurier.at/images/original/4821999/46-173507421.jpg",
-      "titleSource" : "Neonazis: Zwei Kilo Sprengstoff und Minen in Guntramsdorfer Wohnung",
-      "titleTarget" : "Neonacisti: Dvije kile eksploziva i mina u stanu Guntramsdorfa",
-      "url" : "https://kurier.at/chronik/oesterreich/neonazis-zwei-kilo-sprengstoff-und-minen-in-guntramsdorfer-wohnung/401138601"
-    }, {
-      "id" : "95Tvzszc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/16/crops/w=1280/794409_opener_276716_gepa_full_5101_gepa-26031556028.jpg?s=f807369d969193bb6f5e395ac5fa60112a7b6d21",
-      "titleSource" : "Erwin Reis ist verstorben",
-      "titleTarget" : "Erwin Reis je preminuo",
-      "url" : "https://vorarlberg.orf.at/stories/3082238/"
-    }, {
       "id" : "7WsGS8oW",
-      "imgUrl" : "https://image.kurier.at/images/original/4840461/46-122423809.jpg",
-      "titleSource" : "2.847 Neuinfektionen in Österreich; Virus-Mutation: Moderna-Impfstoff wirksam",
+      "imgUrl" : "https://image.kurier.at/images/original/4841100/46-173754345.jpg",
+      "titleSource" : "Weitere neue CoV-Mutation in Nigeria; Erstmals mutiertes Virus in Deutschland entdeckt",
       "titleTarget" : "2.847 novih infekcija u Austriji; Mutacija virusa: Moderno cjepivo učinkovito",
       "url" : "https://kurier.at/chronik/oesterreich/virus-mutation-moderna-impfstoff-wohl-wirksam-virologe-keine-hinweise-auf-impfschaeden/401139171"
     }, {
-      "id" : "Yaqy8uPQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4756284/46-168825632.jpg",
-      "titleSource" : "Terroranschlag: Das ist die Kritik der Untersuchungskommission",
-      "titleTarget" : "Teroristički napad: to je kritika istražnog povjerenstva",
-      "url" : "https://kurier.at/chronik/oesterreich/terroranschlag-das-ist-die-kritik-der-untersuchungskommission/401138988"
+      "id" : "1WcL2Wys",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.847 Neuinfektionen in Österreich",
+      "titleTarget" : "2.847 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2847-neuinfektionen-in-oesterreich/401139213"
     }, {
-      "id" : "SSrvkKCM",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/03/38/crops/w=1280/432120_opener_143038_1899261_10202345716523872_8115402458393627601_o.jpg?s=d6a83455dcade8d01de70d424d4098b8ef8038f2",
-      "titleSource" : "Leitfaden für Sicherheit im freien Skiraum",
-      "titleTarget" : "Vodič za sigurnost na otvorenim skijaškim područjima",
-      "url" : "https://vorarlberg.orf.at/stories/3082223/"
+      "id" : "foYrICnW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/77/crops/w=1280/794614_opener_276777_br.gaschurnsonnblick08.jpg?s=e7620dbcbed83fccead9f823a4b2dc606c069352",
+      "titleSource" : "Großeinsatz bei Hotelbrand in Gaschurn",
+      "titleTarget" : "Velika operacija u požaru hotela u Gaschurnu",
+      "url" : "https://vorarlberg.orf.at/stories/3082261/"
     }, {
-      "id" : "eIhSzw9U",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/06/crops/w=1280/688282_opener_237706_apakostenloser_corona-test_an_rastanlage_.jpg?s=d800975aae37433389a281c6050014a6ad502d3c",
-      "titleSource" : "Diskussion rund ums „Freitesten“",
-      "titleTarget" : "Rasprava o \"slobodnom stilu\"",
-      "url" : "https://ooe.orf.at/stories/3082172/"
+      "id" : "gYKXRX1G",
+      "titleSource" : "Känguru in Oberwart entlaufen",
+      "titleTarget" : "Klokan je pobjegao u Oberwartu",
+      "url" : "https://burgenland.orf.at/stories/3082294/"
     }, {
-      "id" : "u7n12b6b",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/33/crops/w=1280/791675_opener_275733_791439_opener_275654_coronavirus_massentests_weihnachten_andrang_a.jpg?s=91bed3a3337ba210b1f15e0a730c6ed57a36c5af",
-      "titleSource" : "Massentest: Deutlich mehr positive Ergebnisse",
-      "titleTarget" : "Masovni test: Znatno pozitivniji rezultati",
-      "url" : "https://steiermark.orf.at/stories/3082145/"
+      "id" : "UaD3AkwU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/96/crops/w=1280/785662_opener_273596_2e7b0338-22c7-49ee-ae27-c2b668ac9475.jpg?s=4e911b62b377c1fb61ba6826a3440eb7e0b386e8",
+      "titleSource" : "Diabetikerhund für jungen Grazer Sportler",
+      "titleTarget" : "Dijabetički pas za mlade sportaše iz Graza",
+      "url" : "https://steiermark.orf.at/stories/3080665/"
+    }, {
+      "id" : "zhpg7jjW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/94/crops/w=1280/767984_opener_266994_apacorona_heer_desinfiziert_und_uebernimmt_obersteirisches_pflegeheim__2.jpg?s=c447c6a21bcc9080688c41de3d83ceef6952660d",
+      "titleSource" : "Steiermark: Meiste CoV-Tote – aber warum?",
+      "titleTarget" : "Štajerska: Najviše smrtnih slučajeva od CoV - ali zašto?",
+      "url" : "https://steiermark.orf.at/stories/3082188/"
+    }, {
+      "id" : "0apvNYY8",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/33/35/crops/w=1280/256261_opener_76035_apafrau_mit_telefon__-_apa-bilderdienst_-_09.34_-_abd0028.jpg?s=7b211cb60535882799b61e1386cb2284fd3cd0d5",
+      "titleSource" : "Feiertage: Nummern für den Notfall",
+      "titleTarget" : "Praznici: Brojevi za hitne slučajeve",
+      "url" : "https://steiermark.orf.at/stories/3027345/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "2SFnnTSP",
-      "imgUrl" : "https://image.kurier.at/images/original/4839225/46-173736207.jpg",
-      "titleSource" : "300-Millionen-Euro-Schutzschirm für Veranstaltungen kommt",
-      "titleTarget" : "Dolazi zaštitni zaslon od 300 milijuna eura za događaje",
-      "url" : "https://kurier.at/kultur/ministerrat-300-millionen-schutzschirm-fuer-veranstaltungen-kommt/401138538"
-    }, {
-      "id" : "NEStzOnU",
-      "imgUrl" : "https://image.kurier.at/images/original/4839915/46-159431181.jpg",
-      "titleSource" : "Neues Album von Eminem: Wieder in der Spur",
-      "titleTarget" : "Novi album od Eminema: povratak u stazu",
-      "url" : "https://kurier.at/kultur/neues-album-von-eminem-wieder-in-der-spur/401138409"
-    }, {
       "id" : "ZVVSaBe4",
       "imgUrl" : "https://image.kurier.at/images/original/4839381/46-173711619.jpg",
       "titleSource" : "Filmkritik zu \"The Midnight Sky“: Schlechte Verbindung zum All",
       "titleTarget" : "Filmska kritika za \"Ponoćno nebo\": Loša veza sa svemirom",
       "url" : "https://kurier.at/kultur/filmkritik-zu-the-midnight-sky-schlechte-verbindung-zum-all/401138778"
     }, {
+      "id" : "cCOifTtS",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "titleSource" : "Musiksalon Nr. 40: Das unheilig Heilige",
+      "titleTarget" : "Glazbeni salon br. 40: Nesveto Sveto",
+      "url" : "https://www.diepresse.com/5915650/Podcast_Musiksalon-Nr-40_Das-unheilig-Heilige?from=rss"
+    }, {
+      "id" : "FVO7OCJ3",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "titleSource" : "Musiksalon Nr. 41: Das unheilig Heilige",
+      "titleTarget" : "Glazbeni salon br. 41: Nesveto Sveto",
+      "url" : "https://www.diepresse.com/5915650/Podcast_Musiksalon-Nr-41_Das-unheilig-Heilige?from=rss"
+    }, {
       "id" : "1aby0GFo",
       "titleSource" : "\"Ö3-Weihnachtswunder\" brachte knapp 3,8 Millionen Euro",
       "titleTarget" : "\"Ö3 božićno čudo\" donijelo je nešto manje od 3,8 milijuna eura",
       "url" : "https://www.diepresse.com/5915638/RadioSpendenaktion_Oe3Weihnachtswunder-brachte-knapp-38-Millionen-Euro?from=rss"
-    }, {
-      "id" : "3ADblGrR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/1/0/5915408/April-7-2016-Detroit-Michigan-U-S-IGGY-POP-performing-on-his-Post-Pop-Depression-Tour-at-The_1608744783786819.jpg",
-      "titleSource" : "Iggy Pop: Kein Spaß mit Sars-CoV-2",
-      "titleTarget" : "Iggy Pop: Bez zabave sa Sars-CoV-2",
-      "url" : "https://www.diepresse.com/5915408/Song-der-Woche_Iggy-Pop_Kein-Spass-mit-SarsCoV2?from=rss"
-    }, {
-      "id" : "6fyucU0o",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/5/5915157/Unbenannt-1_1608711738348309.jpg",
-      "titleSource" : "Wohin kein Regen fällt: Zu Haus und in der Fremde",
-      "titleTarget" : "Tamo gdje kiša ne pada: kod kuće i u inozemstvu",
-      "url" : "https://www.diepresse.com/5915157/Buchbesprechung_Wohin-kein-Regen-faellt_Zu-Haus-und-in-der-Fremde?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -166,41 +123,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tbFo5g9b",
-      "titleSource" : "Kein Platz mehr für Schlierenzauer",
-      "titleTarget" : "Nema više mjesta za Schlierenzauera",
-      "url" : "https://sport.orf.at/stories/3071058/"
+      "id" : "6Af7Xs4C",
+      "imgUrl" : "https://image.kurier.at/images/original/4840851/whatsapp_image_2020-12-24_at_09.20.18.jpeg",
+      "titleSource" : "\"Großes Kino!\" Thiem bekam zu Weihnachten US-Open-Siegerpokal",
+      "titleTarget" : "\"Veliko kino!\" Thiem je za Božić dobio pehar pobjednika US Opena",
+      "url" : "https://kurier.at/sport/tennis/tennis-superstar-thiem-bekam-zu-weihnachten-den-us-open-siegerpokal/401139354"
     }, {
-      "id" : "0OfeHmNs",
-      "titleSource" : "Suljovic besteht erste Prüfung sicher",
-      "titleTarget" : "Suljović će sigurno položiti prvi ispit",
-      "url" : "https://sport.orf.at/stories/3071069/"
+      "id" : "AbnUe5kY",
+      "imgUrl" : "https://image.kurier.at/images/original/4841001/46-173702807.jpg",
+      "titleSource" : "Schmidhofer: \"Es war mir ein Anliegen, dass Sponsoren im Bild sind\"",
+      "titleTarget" : "Schmidhofer: \"Bilo mi je važno da sponzori budu na slici\"",
+      "url" : "https://kurier.at/sport/wintersport/schmidhofer-nach-heftig-kritisierter-inszenierung-am-krankenbett-es-war-mir-ein-anliegen-dass/401139390"
     }, {
-      "id" : "xfaRYkZm",
-      "titleSource" : "Raguz verlängert beim LASK vorzeitig bis 2024",
-      "titleTarget" : "Raguz produžava LASKU rano do 2024. godine",
-      "url" : "https://sport.orf.at/stories/3071062/"
+      "id" : "UNZfScJ1",
+      "imgUrl" : "https://image.kurier.at/images/original/4840785/46-173664895.jpg",
+      "titleSource" : "Spekulationen über Barca-Interesse an Rapid-Talent Demir",
+      "titleTarget" : "Špekulacije o Barcinom zanimanju za brzi talent Demir",
+      "url" : "https://kurier.at/sport/fussball/fussball-spekulationen-ueber-barca-interesse-an-rapid-talent-demir/401139324"
     }, {
-      "id" : "8B61K1H9",
-      "titleSource" : "Messi schwingt sich in neue Sphären auf",
-      "titleTarget" : "Messi prelazi u nove sfere",
-      "url" : "https://sport.orf.at/stories/3071061/"
+      "id" : "hkyVd4XH",
+      "titleSource" : "Maierhofer wechselt laut Medien nach Würzburg",
+      "titleTarget" : "Prema medijima, Maierhofer se seli u Würzburg",
+      "url" : "https://sport.orf.at/stories/3071093/"
     }, {
-      "id" : "621mbcUP",
-      "titleSource" : "Pöltl startet mit Sieg in Saison",
-      "titleTarget" : "Pöltl sezonu započinje pobjedom",
-      "url" : "https://sport.orf.at/stories/3071079/"
+      "id" : "4D6g46ec",
+      "titleSource" : "U17- und U20-WM finden erst 2023 statt ",
+      "titleTarget" : "Svjetski kup za U17 i U20 održat će se tek 2023. godine",
+      "url" : "https://sport.orf.at/stories/3071096/"
     }, {
-      "id" : "ZH85lYS7",
-      "imgUrl" : "https://image.kurier.at/images/original/4840467/46-169009118.jpg",
-      "titleSource" : "Vierschanzentournee: Stefan Kraft als \"Nackerpatzl\"",
-      "titleTarget" : "Turnir na četiri brda: Stefan Kraft kao \"Nackerpatzl\"",
-      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-stefan-kraft-als-nackerpatzl/401139177"
+      "id" : "gVlpquWh",
+      "titleSource" : "Ceferin: Fußballgemeinschaft ist zusammengerückt",
+      "titleTarget" : "Čeferin: Nogometna zajednica se zbližila",
+      "url" : "https://sport.orf.at/stories/3071095/"
     }, {
-      "id" : "mOT8wv3R",
-      "titleSource" : "ManUnited und Tottenham im Ligacup-Halbfinale",
-      "titleTarget" : "ManUnited i Tottenham u polufinalu Liga kupa",
-      "url" : "https://sport.orf.at/stories/3071078/"
+      "id" : "beskD5ZH",
+      "titleSource" : "Koeman erlitt im Mai leichten Schlaganfall",
+      "titleTarget" : "Koeman je u svibnju pretrpio lakši moždani udar",
+      "url" : "https://sport.orf.at/stories/3071094/"
     } ]
   } ],
   "country" : "austria",
