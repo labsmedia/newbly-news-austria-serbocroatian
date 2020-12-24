@@ -20,17 +20,17 @@
       "titleTarget" : "Za pet rizičnih pacijenata: Prvo cijepljenje protiv korone 27. prosinca u 9 sati",
       "url" : "https://kurier.at/politik/inland/impfstart-in-oesterreich-kurz-und-anschober-mit-weiteren-details/401138289"
     }, {
-      "id" : "Y4XpEoij",
-      "imgUrl" : "https://image.kurier.at/images/original/4759917/78350011457509682_BLD_Online.jpg",
-      "titleSource" : "Meinl-Reisinger: Bevölkerung ist nicht so dumm, wie Regierung sie darstellt",
-      "titleTarget" : "Meinl-Reisinger: Stanovništvo nije toliko glupo kako ga vlada prikazuje",
-      "url" : "https://kurier.at/politik/inland/meinl-reisinger-bevoelkerung-ist-nicht-so-dumm-wie-regierung-sie-darstellt/401138085"
-    }, {
       "id" : "s5ijBVFt",
       "imgUrl" : "https://image.kurier.at/images/original/4838652/46-170523520.jpg",
       "titleSource" : "Faßmann widerspricht Impfkritiker Doskozil: \"Höchst unpassend\"",
       "titleTarget" : "Faßmann proturječi kritičaru cijepljenja Doskozilu: \"Krajnje neprikladno\"",
       "url" : "https://kurier.at/politik/inland/fassmann-widerspricht-impfkritiker-doskozil-hoechst-unpassend/401138361"
+    }, {
+      "id" : "JNfvK6h7",
+      "imgUrl" : "https://image.kurier.at/images/original/4839933/46-173734939.jpg",
+      "titleSource" : "Pfizer-Chef: 2021 bis zu \"5,5 Millionen Impfdosen für Österreich\" möglich",
+      "titleTarget" : "Šef Pfizera: 2021. moguće do 5,5 milijuna doza cjepiva za Austriju",
+      "url" : "https://kurier.at/politik/inland/pfizer-chef-2021-bis-zu-55-millionen-impfdosen-fuer-oesterreich-moeglich/401139012"
     }, {
       "id" : "oquZHcz1",
       "imgUrl" : "https://image.kurier.at/images/original/4839243/46-173713869.jpg",
@@ -47,23 +47,11 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "pbx9Y6du",
-      "imgUrl" : "https://image.kurier.at/images/original/4583171/46-163679527.jpg",
-      "titleSource" : "ÖBB und Westbahn rüsten sich für die Feiertage",
-      "titleTarget" : "ÖBB i Westbahn pripremaju se za praznike",
-      "url" : "https://kurier.at/wirtschaft/oebb-und-westbahn-ruesten-sich-fuer-die-feiertage/401137695"
-    }, {
       "id" : "ZmWNEoYs",
       "imgUrl" : "https://image.kurier.at/images/original/4839801/46-173676087.jpg",
       "titleSource" : "Skigebiete sehen sich für 24. gerüstet: FFP2-Masken zum Verkauf",
       "titleTarget" : "Skijališta su spremna za 24.: FFP2 maske na prodaju",
       "url" : "https://kurier.at/wirtschaft/skigebiete-sehen-sich-fuer-24-geruestet-ffp2-masken-zum-verkauf/401138943"
-    }, {
-      "id" : "dHUCD01a",
-      "imgUrl" : "https://image.kurier.at/images/original/4839708/46-131370727.jpg",
-      "titleSource" : "Obi-Mutter Tengelmann übernimmt Textildiskonter KiK ganz",
-      "titleTarget" : "Obi majka Tengelmann u cijelosti preuzima diskontnu trgovinu tekstila KiK",
-      "url" : "https://kurier.at/wirtschaft/obi-mutter-tengelmann-uebernimmt-textildiskonter-kik-ganz/401138889"
     }, {
       "id" : "2GGyIYyt",
       "imgUrl" : "https://image.kurier.at/images/original/4839240/46-168863229.jpg",
@@ -71,38 +59,50 @@
       "titleTarget" : "Privatna zaklada Manner povećava udio u Manner-u",
       "url" : "https://kurier.at/wirtschaft/manner-privatstiftung-stockt-anteil-an-manner-auf/401138697"
     }, {
+      "id" : "pbx9Y6du",
+      "imgUrl" : "https://image.kurier.at/images/original/4583171/46-163679527.jpg",
+      "titleSource" : "ÖBB und Westbahn rüsten sich für die Feiertage",
+      "titleTarget" : "ÖBB i Westbahn pripremaju se za praznike",
+      "url" : "https://kurier.at/wirtschaft/oebb-und-westbahn-ruesten-sich-fuer-die-feiertage/401137695"
+    }, {
+      "id" : "dHUCD01a",
+      "imgUrl" : "https://image.kurier.at/images/original/4839708/46-131370727.jpg",
+      "titleSource" : "Obi-Mutter Tengelmann übernimmt Textildiskonter KiK ganz",
+      "titleTarget" : "Obi majka Tengelmann u cijelosti preuzima diskontnu trgovinu tekstila KiK",
+      "url" : "https://kurier.at/wirtschaft/obi-mutter-tengelmann-uebernimmt-textildiskonter-kik-ganz/401138889"
+    }, {
       "id" : "npqYUQLz",
       "imgUrl" : "https://image.kurier.at/images/original/4839207/46-168935604.jpg",
       "titleSource" : "Airbnb meldet für 2020 erstmals Vermieterdaten an die Finanz",
       "titleTarget" : "Airbnb prvi put izvještava podatke o iznajmljivačima Finanzu 2020. godine",
       "url" : "https://kurier.at/wirtschaft/airbnb-meldet-fuer-2020-erstmals-vermieterdaten-an-die-finanz/401138679"
     }, {
+      "id" : "yOu2KV4b",
+      "imgUrl" : "https://image.kurier.at/images/original/4838508/46-167200873.jpg",
+      "titleSource" : "FMA verhängte 279.000 Euro Strafe gegen Erste Asset Management",
+      "titleTarget" : "FMA je Erste Asset Managementu izrekao kaznu od 279.000 eura",
+      "url" : "https://kurier.at/wirtschaft/fma-verhaengte-279000-euro-strafe-gegen-erste-asset-management/401138250"
+    }, {
       "id" : "yePOp3DL",
       "imgUrl" : "https://image.kurier.at/images/original/4839159/46-171883520.jpg",
       "titleSource" : "Corona bremst Start in die Wintersaison aus",
       "titleTarget" : "Corona usporava početak zimske sezone",
       "url" : "https://kurier.at/wirtschaft/corona-bremst-start-in-die-wintersaison-aus/401138661"
-    }, {
-      "id" : "KB43DnoU",
-      "imgUrl" : "https://image.kurier.at/images/original/4838490/46-168936785.jpg",
-      "titleSource" : "Wolford drehte Halbjahresergebnis 2020 deutlich ins Plus",
-      "titleTarget" : "Wolford je polugodišnje rezultate 2020. značajno pretvorio u pozitivan teritorij",
-      "url" : "https://kurier.at/wirtschaft/wolford-drehte-halbjahresergebnis-2020-deutlich-ins-plus/401138238"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "JQQJTMF1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/26/53/crops/w=1280/600409_opener_205453_theater1.jpg?s=b5672f3a5ffd07742bca9524fb260225d4299da6",
-      "titleSource" : "Josefstadt-Chef verweigert Publikumstests",
-      "titleTarget" : "Šef Josefstadta odbija javne testove",
-      "url" : "https://wien.orf.at/stories/3082095/"
-    }, {
       "id" : "uoH9kY2H",
       "imgUrl" : "https://image.kurier.at/images/original/4821999/46-173507421.jpg",
       "titleSource" : "Neonazis: Zwei Kilo Sprengstoff und Minen in Guntramsdorfer Wohnung",
       "titleTarget" : "Neonacisti: Dvije kile eksploziva i mina u stanu Guntramsdorfa",
       "url" : "https://kurier.at/chronik/oesterreich/neonazis-zwei-kilo-sprengstoff-und-minen-in-guntramsdorfer-wohnung/401138601"
+    }, {
+      "id" : "95Tvzszc",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/16/crops/w=1280/794409_opener_276716_gepa_full_5101_gepa-26031556028.jpg?s=f807369d969193bb6f5e395ac5fa60112a7b6d21",
+      "titleSource" : "Erwin Reis ist verstorben",
+      "titleTarget" : "Erwin Reis je preminuo",
+      "url" : "https://vorarlberg.orf.at/stories/3082238/"
     }, {
       "id" : "94axKKnE",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -110,38 +110,33 @@
       "titleTarget" : "2.131 nova infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2131-neue-corona-infektionen-in-oesterreich/401138376"
     }, {
-      "id" : "mUxOWzKY",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/12/crops/w=1280/764864_opener_265912_impfung_kurz_impfung_jaenner_a.jpg?s=d74abe47b30507a3ec2aa39030a3d12c00db3b5d",
-      "titleSource" : "Erste Impfungen für zwei Pflegeheime",
-      "titleTarget" : "Prva cijepljenja za dva staračka doma",
-      "url" : "https://noe.orf.at/stories/3082126/"
+      "id" : "Yaqy8uPQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4756284/46-168825632.jpg",
+      "titleSource" : "Terroranschlag: Das ist die Kritik der Untersuchungskommission",
+      "titleTarget" : "Teroristički napad: to je kritika istražnog povjerenstva",
+      "url" : "https://kurier.at/chronik/oesterreich/terroranschlag-das-ist-die-kritik-der-untersuchungskommission/401138988"
     }, {
-      "id" : "d9Hp8cyT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/58/crops/w=1280/793418_opener_276358_x4.jpg?s=61f7265c3355f7aa4537f157b3e11e700ae891cc",
-      "titleSource" : "Winnetou zu Weihnachten auf der Alm",
-      "titleTarget" : "Winnetou za Božić na Almu",
-      "url" : "https://salzburg.orf.at/stories/3082063/"
+      "id" : "mAQbbkWL",
+      "imgUrl" : "https://image.kurier.at/images/original/4838097/46-136979043.jpg",
+      "titleSource" : "Extra-Besuchserlaubnis zu Weihnachten überrascht die Heime",
+      "titleTarget" : "Kuće su iznenađene dodatnom dozvolom za posjet Božiću",
+      "url" : "https://kurier.at/chronik/oesterreich/extra-besuchserlaubnis-zu-weihnachten-ueberrascht-die-heime/401137947"
     }, {
-      "id" : "0144fmwa",
-      "titleSource" : "Neonazi lagerte Sprengstoff im Keller",
-      "titleTarget" : "Neonacisti su skladištili eksploziv u podrumu",
-      "url" : "https://noe.orf.at/stories/3082199/"
+      "id" : "VsEg5xR9",
+      "imgUrl" : "https://image.kurier.at/images/original/4839063/46-168355734.jpg",
+      "titleSource" : "VfGH kippt Maskenpflicht und Klassenteilung im Frühjahr; 5 Risikopatienten werden zuerst geimpft",
+      "titleTarget" : "VfGH u proljeće ukida zahtjev za maskom i podjelu klasa; Prvo se cijepi 5 bolesnika s rizikom",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-teststrasse-doch-noch-termine-vor-weihnachten-corona-ampel-das-ganze-land-bleibt-rot/401138118"
     }, {
-      "id" : "HMw5yplh",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/64/crops/w=1280/793757_opener_276464_image_3.jpg?s=cb035073e5c4ba5ae27a825b286d95b298e3b11a",
-      "titleSource" : "Protest gegen Politik: Saalbach lässt Lifte zu",
-      "titleTarget" : "Prosvjed protiv politike: Saalbach dopušta liftove",
-      "url" : "https://salzburg.orf.at/stories/3082137/"
+      "id" : "eIhSzw9U",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/38/06/crops/w=1280/688282_opener_237706_apakostenloser_corona-test_an_rastanlage_.jpg?s=d800975aae37433389a281c6050014a6ad502d3c",
+      "titleSource" : "Diskussion rund ums „Freitesten“",
+      "titleTarget" : "Rasprava o \"slobodnom stilu\"",
+      "url" : "https://ooe.orf.at/stories/3082172/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "EO71WbBn",
-      "imgUrl" : "https://image.kurier.at/images/original/4838229/46-173631570.jpg",
-      "titleSource" : "Trump verfügt per Dekret: Architektur muss schön sein",
-      "titleTarget" : "Trumpove uredbe: Arhitektura mora biti lijepa",
-      "url" : "https://kurier.at/kultur/trump-verfuegt-per-dekret-architektur-muss-schoen-sein/401138040"
-    }, {
       "id" : "2SFnnTSP",
       "imgUrl" : "https://image.kurier.at/images/original/4839225/46-173736207.jpg",
       "titleSource" : "300-Millionen-Euro-Schutzschirm für Veranstaltungen kommt",
@@ -153,12 +148,6 @@
       "titleSource" : "Das sind die 20 besten Serien 2020",
       "titleTarget" : "Ovo je 20 najboljih serija iz 2020. godine",
       "url" : "https://kurier.at/kultur/medien/das-sind-die-20-besten-serien-2020/401124312"
-    }, {
-      "id" : "68PaZ9oV",
-      "imgUrl" : "https://image.kurier.at/images/original/4746537/46-168701272.jpg",
-      "titleSource" : "Eine segensreiche Frohbotschaft für den Kulturbetrieb",
-      "titleTarget" : "Dobra vijest za kulturu",
-      "url" : "https://kurier.at/kultur/eine-segensreiche-frohbotschaft-fuer-den-kulturbetrieb/401138715"
     }, {
       "id" : "NEStzOnU",
       "imgUrl" : "https://image.kurier.at/images/original/4839915/46-159431181.jpg",
@@ -177,6 +166,18 @@
       "titleSource" : "Wohin kein Regen fällt: Zu Haus und in der Fremde",
       "titleTarget" : "Tamo gdje kiša ne pada: kod kuće i u inozemstvu",
       "url" : "https://www.diepresse.com/5915157/Buchbesprechung_Wohin-kein-Regen-faellt_Zu-Haus-und-in-der-Fremde?from=rss"
+    }, {
+      "id" : "eqkTroDu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/c/5915164/duendar1_160871209932286.jpg",
+      "titleSource" : "Journalist Can Dündar in Türkei zu mehr als 27 Jahren Haft verurteilt",
+      "titleTarget" : "Novinar Can Dündar osuđen je u Turskoj na više od 27 godina zatvora",
+      "url" : "https://www.diepresse.com/5915164/Tuerkei_Journalist-Can-Duendar-in-Tuerkei-zu-mehr-als-27-Jahren?from=rss"
+    }, {
+      "id" : "GmzRzWD1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/c/b/5915083/D72462A5-6368-425E-ADB9-2ED05DD3B6FD_v0_l.jpg",
+      "titleSource" : "Iggy Pop veröffentlicht Corona-Song \"Dirty Little Virus\"",
+      "titleTarget" : "Iggy Pop objavio koronsku pjesmu \"Dirty Little Virus\"",
+      "url" : "https://www.diepresse.com/5915083/Musiks_Iggy-Pop-veroeffentlicht-CoronaSong-Dirty-Little-Virus?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,16 +185,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "PI45hPr3",
-      "titleSource" : "Feller verpasst Podest hauchdünn",
-      "titleTarget" : "Feller je promašio postolje uz oblatnu",
-      "url" : "https://sport.orf.at/stories/3071034/"
-    }, {
       "id" : "a28SOcTt",
       "imgUrl" : "https://image.kurier.at/images/original/4838523/46-173660302.jpg",
       "titleSource" : "Vierschanzentournee ohne Rekordspringer Gregor Schlierenzauer",
       "titleTarget" : "Turnir na četiri brda bez rekordnog skakača Gregora Schlierenzauera",
       "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-ohne-rekordspringer-gregor-schlierenzauer/401138292"
+    }, {
+      "id" : "tbFo5g9b",
+      "titleSource" : "Kein Platz mehr für Schlierenzauer",
+      "titleTarget" : "Nema više mjesta za Schlierenzauera",
+      "url" : "https://sport.orf.at/stories/3071058/"
     }, {
       "id" : "xfaRYkZm",
       "titleSource" : "Raguz verlängert beim LASK vorzeitig bis 2024",
@@ -205,21 +206,21 @@
       "titleTarget" : "Messi prelazi u nove sfere",
       "url" : "https://sport.orf.at/stories/3071061/"
     }, {
-      "id" : "WYIdEEFM",
-      "titleSource" : "Zwei bittere Pleiten für Juve an einem Tag",
-      "titleTarget" : "Dva gorka bankrota Juvea u jednom danu",
-      "url" : "https://sport.orf.at/stories/3071048/"
+      "id" : "mOT8wv3R",
+      "titleSource" : "ManUnited und Tottenham im Ligacup-Halbfinale",
+      "titleTarget" : "ManUnited i Tottenham u polufinalu Liga kupa",
+      "url" : "https://sport.orf.at/stories/3071078/"
     }, {
-      "id" : "0OfeHmNs",
-      "titleSource" : "Suljovic besteht erste Prüfung sicher",
-      "titleTarget" : "Suljović će sigurno položiti prvi ispit",
-      "url" : "https://sport.orf.at/stories/3071069/"
+      "id" : "21NGR1EL",
+      "imgUrl" : "https://image.kurier.at/images/original/4840401/46-173743597.jpg",
+      "titleSource" : "DFB-Pokal: Kalajdzic schoss Stuttgart in die nächste Runde",
+      "titleTarget" : "DFB kup: Kalajdžić je upucao Stuttgart u sljedeću rundu",
+      "url" : "https://kurier.at/sport/fussball/dfb-pokal-kalajdzic-schoss-stuttgart-in-die-naechste-runde/401139141"
     }, {
-      "id" : "fbY6fFp4",
-      "imgUrl" : "https://image.kurier.at/images/original/4839813/46-168358871.jpg",
-      "titleSource" : "Die Fußballwelt von Red Bull: Ein Sponsor redet über Aufgaben",
-      "titleTarget" : "Svijet nogometa Red Bull: sponzor govori o zadacima",
-      "url" : "https://kurier.at/sport/fussball/die-fussballwelt-von-red-bull-ein-sponsor-redet-ueber-aufgaben/401138961"
+      "id" : "DklPHAp7",
+      "titleSource" : "Stadtrivalen Milan und Inter weiter Kopf an Kopf",
+      "titleTarget" : "Gradski rivali Milan i Inter nastavljaju vrat i vrat",
+      "url" : "https://sport.orf.at/stories/3071077/"
     } ]
   } ],
   "country" : "austria",
