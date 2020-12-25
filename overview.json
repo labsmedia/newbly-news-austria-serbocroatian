@@ -8,17 +8,16 @@
       "titleTarget" : "Van der Bellen i Schönborn: Prihvaćanje izbjeglica",
       "url" : "https://kurier.at/politik/inland/weihnachten-van-der-bellen-und-schoenborn-fluechtlinge-aufnehmen/401139282"
     }, {
-      "id" : "09Bg7Lju",
-      "imgUrl" : "https://image.kurier.at/images/original/4840548/46-173719340.jpg",
-      "titleSource" : "Kanzler Kurz vor Weihnachten: \"Bitte bleiben wir vorsichtig\"",
-      "titleTarget" : "Kancelar malo prije Božića: \"Molim vas, budite oprezni\"",
-      "url" : "https://kurier.at/politik/inland/kanzler-kurz-vor-weihnachten-bitte-bleiben-wir-vorsichtig/401139237"
-    }, {
       "id" : "s57VPNOw",
       "imgUrl" : "https://image.kurier.at/images/original/4840974/46-173752313.jpg",
       "titleSource" : "Kurz zu Weihnachten voll Zuversicht für Trendwende",
       "titleTarget" : "Ubrzo na Božić pun samopouzdanja za preokret",
       "url" : "https://kurier.at/politik/inland/kurz-zu-weihnachten-voll-zuversicht-fuer-trendwende/401139378"
+    }, {
+      "id" : "WVP2sJIr",
+      "titleSource" : "\"Fassungslos\": ÖVP kritisiert Pandemie-Politik von Neos und FPÖ",
+      "titleTarget" : "\"Zapanjen\": ÖVP kritizira Neos i FPÖ-ovu pandemijsku politiku",
+      "url" : "https://www.diepresse.com/5915738/Coronavirus_Fassungslos_OeVP-kritisiert-PandemiePolitik-von-Neos?from=rss"
     }, {
       "id" : "vVvhl4OH",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/2/a/5915690/943F7586-4F8E-46A7-A9F4-A828C06D0C2D_v0_h.jpg",
@@ -35,32 +34,44 @@
       "titleTarget" : "Kako smanjiti rizik od požara",
       "url" : "https://kurier.at/wirtschaft/immobiz/wie-man-der-gefahr-von-braenden-vorbeugt/401137671"
     }, {
+      "id" : "mdTJrKFS",
+      "imgUrl" : "https://image.kurier.at/images/original/4837635/46-173691037.jpg",
+      "titleSource" : "Schöner Feiern mit besonderer Silvesterdeko",
+      "titleTarget" : "Lijepe proslave s posebnim ukrasima za Silvestrovo",
+      "url" : "https://kurier.at/wirtschaft/immobiz/schoener-feiern-mit-besonderer-silvesterdeko/401137725"
+    }, {
+      "id" : "ai4DvZM8",
+      "imgUrl" : "https://image.kurier.at/images/original/4836900/46-170868485.jpg",
+      "titleSource" : "Ein Hund zieht ein",
+      "titleTarget" : "Pas se useljava",
+      "url" : "https://kurier.at/wirtschaft/immobiz/ein-hund-zieht-ein/401137341"
+    }, {
+      "id" : "VQPVKWMF",
+      "imgUrl" : "https://image.kurier.at/images/original/4839378/46-155091422.jpg",
+      "titleSource" : "Österreicher verschenken 927 Millionen Euro",
+      "titleTarget" : "Austrijanci poklanjaju 927 milijuna eura",
+      "url" : "https://kurier.at/wirtschaft/oesterreicher-verschenken-927-millionen-euro/401138769"
+    }, {
       "id" : "CE0WydLS",
       "imgUrl" : "https://image.kurier.at/images/original/4841097/46-165599172.jpg",
       "titleSource" : "Montenegro Airlines geht Pleite",
       "titleTarget" : "Montenegro Airlines bankrotira",
       "url" : "https://kurier.at/wirtschaft/montenegro-airlines-geht-pleite/401139456"
+    }, {
+      "id" : "a42cKow4",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/3/4/2/5915458/Leichtathletik-EM-Birmingham---Feature-Start_160873806032155_v0_l.jpg",
+      "titleSource" : "Diese drei Aktien gehören zu den Favoriten für 2021",
+      "titleTarget" : "Te su tri dionice među favoritima za 2021. godinu",
+      "url" : "https://www.diepresse.com/5915458/Lets-make-money_Diese-drei-Aktien-gehoeren-zu-den-Favoriten-fuer-2021?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "7WsGS8oW",
-      "imgUrl" : "https://image.kurier.at/images/original/4841100/46-173754345.jpg",
-      "titleSource" : "Weitere neue CoV-Mutation in Nigeria; Erstmals mutiertes Virus in Deutschland entdeckt",
-      "titleTarget" : "2.847 novih infekcija u Austriji; Mutacija virusa: Moderno cjepivo učinkovito",
-      "url" : "https://kurier.at/chronik/oesterreich/virus-mutation-moderna-impfstoff-wohl-wirksam-virologe-keine-hinweise-auf-impfschaeden/401139171"
-    }, {
-      "id" : "1WcL2Wys",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "2.847 Neuinfektionen in Österreich",
-      "titleTarget" : "2.847 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2847-neuinfektionen-in-oesterreich/401139213"
-    }, {
-      "id" : "0apvNYY8",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/33/35/crops/w=1280/256261_opener_76035_apafrau_mit_telefon__-_apa-bilderdienst_-_09.34_-_abd0028.jpg?s=7b211cb60535882799b61e1386cb2284fd3cd0d5",
-      "titleSource" : "Feiertage: Nummern für den Notfall",
-      "titleTarget" : "Praznici: Brojevi za hitne slučajeve",
-      "url" : "https://steiermark.orf.at/stories/3027345/"
+      "id" : "B7hWucDD",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/0/c/5915660/4F3A7E21-2D87-46D9-BB03-E1901A38FC9A_v0_h.jpg",
+      "titleSource" : "Gewerkschaft: Nur ein Fünftel des Pflegepersonals will sich impfen lassen",
+      "titleTarget" : "Sindikat: Samo petina sestrinskog osoblja želi se cijepiti",
+      "url" : "https://www.diepresse.com/5915660/Coronavirus_Gewerkschaft_Nur-ein-Fuenftel-des-Pflegepersonals?from=rss"
     }, {
       "id" : "oDBied1N",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/30/crops/w=1280/794494_opener_276730_spital1.jpg?s=6a826a09b6165ac6b2aba970b5c31db1af4a89a9",
@@ -68,43 +79,50 @@
       "titleTarget" : "Studenti glazbe sviraju za bolničke pacijente",
       "url" : "https://wien.orf.at/stories/3082245/"
     }, {
-      "id" : "RCLy7ELK",
-      "imgUrl" : "https://image.kurier.at/images/original/4839999/46-168220894.jpg",
-      "titleSource" : "Commerzialbank: Gegen 15 Personen und zehn Verbände wird ermittelt",
-      "titleTarget" : "Commerzialbank: Istražuje se 15 osoba i deset udruga",
-      "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-gegen-15-personen-und-zehn-verbaende-wird-ermittelt/401139051"
+      "id" : "Ff4n6Jgu",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/89/crops/w=1280/739303_opener_256589_muell_01_doh.jpg?s=27b02c0f701874d55b0648f1cca28b7a302833de",
+      "titleSource" : "MA 48 im Dauereinsatz zu den Feiertagen",
+      "titleTarget" : "MA 48 u kontinuiranoj uporabi za praznike",
+      "url" : "https://wien.orf.at/stories/3080930/"
     }, {
-      "id" : "kdaEjMJ7",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/81/crops/w=1280/794892_opener_276881_dl-ski-opening-5632.jpg?s=d69825217402c01ac009cca23ae4400bdbf9b75d",
-      "titleSource" : "Verregneter Start in die Wintersaison",
-      "titleTarget" : "Kišni početak zimske sezone",
-      "url" : "https://tirol.orf.at/stories/3082290/"
+      "id" : "VXAYDokb",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/04/73/crops/w=1280/439275_opener_145673_wohn.jpg?s=6fe20f3b9ba1944453d6ef301e2da0a2eadd6354",
+      "titleSource" : "„Housing First“: Wohnprojekt für Frauen",
+      "titleTarget" : "Prvo stanovanje: stambeni projekt za žene",
+      "url" : "https://steiermark.orf.at/stories/3082206/"
     }, {
-      "id" : "umt6Nh6t",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/83/crops/w=1280/795162_opener_276983_lid_ergebnis_gy.jpg?s=33696acf6b951987ac74d4ca2efee95882377064",
-      "titleSource" : "Rund zehn Mio. Euro für „Licht ins Dunkel“",
-      "titleTarget" : "Oko deset milijuna eura za \"Licht ins Dunkel\"",
-      "url" : "https://oesterreich.orf.at/stories/3082327/"
+      "id" : "0apvNYY8",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/33/35/crops/w=1280/256261_opener_76035_apafrau_mit_telefon__-_apa-bilderdienst_-_09.34_-_abd0028.jpg?s=7b211cb60535882799b61e1386cb2284fd3cd0d5",
+      "titleSource" : "Feiertage: Nummern für den Notfall",
+      "titleTarget" : "Praznici: Brojevi za hitne slučajeve",
+      "url" : "https://steiermark.orf.at/stories/3027345/"
+    }, {
+      "id" : "I8EhMiLf",
+      "imgUrl" : "https://image.kurier.at/images/original/4839648/46-143108033.jpg",
+      "titleSource" : "Wo es in Österreich in Zukunft keinen Schnee mehr gibt",
+      "titleTarget" : "Tamo gdje ubuduće u Austriji više neće biti snijega",
+      "url" : "https://kurier.at/chronik/oesterreich/wo-es-in-oesterreich-in-zukunft-keinen-schnee-mehr-gibt-klimawandel-klima-wetter-schneefall/401138640"
+    }, {
+      "id" : "ksSjpmeD",
+      "imgUrl" : "https://image.kurier.at/images/original/4841196/46-173536008.jpg",
+      "titleSource" : "1.851 Neuinfektionen in Österreich; Virusmutation beunruhigt Dänemark",
+      "titleTarget" : "1.851 nova infekcija u Austriji; Mutacija virusa brine Dansku",
+      "url" : "https://kurier.at/chronik/oesterreich/virusmutation-beunruhigt-daenemark-weitere-cov-mutation-in-nigeria-entdeckt/401139507"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "ZVVSaBe4",
-      "imgUrl" : "https://image.kurier.at/images/original/4839381/46-173711619.jpg",
-      "titleSource" : "Filmkritik zu \"The Midnight Sky“: Schlechte Verbindung zum All",
-      "titleTarget" : "Filmska kritika za \"Ponoćno nebo\": Loša veza sa svemirom",
-      "url" : "https://kurier.at/kultur/filmkritik-zu-the-midnight-sky-schlechte-verbindung-zum-all/401138778"
+      "id" : "UDwbcEpM",
+      "imgUrl" : "https://image.kurier.at/images/original/4839993/46-173739480.jpg",
+      "titleSource" : "Die besten Filme und Serien für Weihnachten",
+      "titleTarget" : "Najbolji filmovi i serije za Božić",
+      "url" : "https://kurier.at/kultur/medien/die-besten-filme-und-serien-fuer-weihnachten/401139045"
     }, {
       "id" : "cCOifTtS",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
       "titleSource" : "Musiksalon Nr. 40: Das unheilig Heilige",
       "titleTarget" : "Glazbeni salon br. 40: Nesveto Sveto",
       "url" : "https://www.diepresse.com/5915650/Podcast_Musiksalon-Nr-40_Das-unheilig-Heilige?from=rss"
-    }, {
-      "id" : "1aby0GFo",
-      "titleSource" : "\"Ö3-Weihnachtswunder\" brachte knapp 3,8 Millionen Euro",
-      "titleTarget" : "\"Ö3 božićno čudo\" donijelo je nešto manje od 3,8 milijuna eura",
-      "url" : "https://www.diepresse.com/5915638/RadioSpendenaktion_Oe3Weihnachtswunder-brachte-knapp-38-Millionen-Euro?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -130,25 +148,26 @@
       "titleTarget" : "Špekulacije o Barcinom zanimanju za brzi talent Demir",
       "url" : "https://kurier.at/sport/fussball/fussball-spekulationen-ueber-barca-interesse-an-rapid-talent-demir/401139324"
     }, {
+      "id" : "vPjAztjf",
+      "titleSource" : "Paris SG trennt sich von Coach Tuchel",
+      "titleTarget" : "Paris SG odvaja se od trenera Tuchela",
+      "url" : "https://sport.orf.at/stories/3071088/"
+    }, {
       "id" : "hkyVd4XH",
       "titleSource" : "Maierhofer wechselt laut Medien nach Würzburg",
       "titleTarget" : "Prema medijima, Maierhofer se seli u Würzburg",
       "url" : "https://sport.orf.at/stories/3071093/"
     }, {
-      "id" : "39bNeLWb",
-      "titleSource" : "Ein Jahr zum Abhaken: Geisterkulissen statt Olympia und EM",
-      "titleTarget" : "Godina da otkuca: Scene duhova umjesto Olimpijskih i europskih prvenstava",
-      "url" : "https://sport.orf.at/stories/3070734/"
+      "id" : "lAAVu4kt",
+      "titleSource" : "Thiem erhielt „Weihnachtsgeschenk“",
+      "titleTarget" : "Thiem je dobio \"božićni poklon\"",
+      "url" : "https://sport.orf.at/stories/3071091/"
     }, {
-      "id" : "4D6g46ec",
-      "titleSource" : "U17- und U20-WM finden erst 2023 statt ",
-      "titleTarget" : "Svjetski kup za U17 i U20 održat će se tek 2023. godine",
-      "url" : "https://sport.orf.at/stories/3071096/"
-    }, {
-      "id" : "gVlpquWh",
-      "titleSource" : "Ceferin: Fußballgemeinschaft ist zusammengerückt",
-      "titleTarget" : "Čeferin: Nogometna zajednica se zbližila",
-      "url" : "https://sport.orf.at/stories/3071095/"
+      "id" : "V9Mhtk5L",
+      "imgUrl" : "https://image.kurier.at/images/original/4841025/46-167089135.jpg",
+      "titleSource" : "Die dunklen Seiten des Sports hellen auf",
+      "titleTarget" : "Mračna strana sporta se razvedrava",
+      "url" : "https://kurier.at/sport/zeichen-und-symbole-die-dunklen-seiten-des-sports-hellen-auf/401139405"
     } ]
   } ],
   "country" : "austria",
