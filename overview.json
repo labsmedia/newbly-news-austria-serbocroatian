@@ -8,12 +8,6 @@
       "titleTarget" : "Van der Bellen i Schönborn: Prihvaćanje izbjeglica",
       "url" : "https://kurier.at/politik/inland/weihnachten-van-der-bellen-und-schoenborn-fluechtlinge-aufnehmen/401139282"
     }, {
-      "id" : "VqfsHVQQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4831119/20201218-ABD0330-1-1.jpg",
-      "titleSource" : "Flüchtlinge: Kogler hofft auf \"Mehrheiten\" mit der ÖVP",
-      "titleTarget" : "Izbjeglice: Kogler se nada \"većini\" s ÖVP-om",
-      "url" : "https://kurier.at/politik/inland/fluechtlinge-kogler-hofft-auf-mehrheiten-mit-der-oevp/401139153"
-    }, {
       "id" : "09Bg7Lju",
       "imgUrl" : "https://image.kurier.at/images/original/4840548/46-173719340.jpg",
       "titleSource" : "Kanzler Kurz vor Weihnachten: \"Bitte bleiben wir vorsichtig\"",
@@ -35,17 +29,17 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "CE0WydLS",
-      "imgUrl" : "https://image.kurier.at/images/original/4841097/46-165599172.jpg",
-      "titleSource" : "Montenegro Airlines geht Pleite",
-      "titleTarget" : "Montenegro Airlines bankrotira",
-      "url" : "https://kurier.at/wirtschaft/montenegro-airlines-geht-pleite/401139456"
-    }, {
       "id" : "qPfdX08A",
       "imgUrl" : "https://image.kurier.at/images/original/4837542/46-4004232.jpg",
       "titleSource" : "Wie man der Gefahr von Bränden vorbeugt",
       "titleTarget" : "Kako smanjiti rizik od požara",
       "url" : "https://kurier.at/wirtschaft/immobiz/wie-man-der-gefahr-von-braenden-vorbeugt/401137671"
+    }, {
+      "id" : "CE0WydLS",
+      "imgUrl" : "https://image.kurier.at/images/original/4841097/46-165599172.jpg",
+      "titleSource" : "Montenegro Airlines geht Pleite",
+      "titleTarget" : "Montenegro Airlines bankrotira",
+      "url" : "https://kurier.at/wirtschaft/montenegro-airlines-geht-pleite/401139456"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -62,34 +56,35 @@
       "titleTarget" : "2.847 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2847-neuinfektionen-in-oesterreich/401139213"
     }, {
-      "id" : "foYrICnW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/77/crops/w=1280/794614_opener_276777_br.gaschurnsonnblick08.jpg?s=e7620dbcbed83fccead9f823a4b2dc606c069352",
-      "titleSource" : "Großeinsatz bei Hotelbrand in Gaschurn",
-      "titleTarget" : "Velika operacija u požaru hotela u Gaschurnu",
-      "url" : "https://vorarlberg.orf.at/stories/3082261/"
-    }, {
-      "id" : "gYKXRX1G",
-      "titleSource" : "Känguru in Oberwart entlaufen",
-      "titleTarget" : "Klokan je pobjegao u Oberwartu",
-      "url" : "https://burgenland.orf.at/stories/3082294/"
-    }, {
-      "id" : "UaD3AkwU",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/96/crops/w=1280/785662_opener_273596_2e7b0338-22c7-49ee-ae27-c2b668ac9475.jpg?s=4e911b62b377c1fb61ba6826a3440eb7e0b386e8",
-      "titleSource" : "Diabetikerhund für jungen Grazer Sportler",
-      "titleTarget" : "Dijabetički pas za mlade sportaše iz Graza",
-      "url" : "https://steiermark.orf.at/stories/3080665/"
-    }, {
-      "id" : "zhpg7jjW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/94/crops/w=1280/767984_opener_266994_apacorona_heer_desinfiziert_und_uebernimmt_obersteirisches_pflegeheim__2.jpg?s=c447c6a21bcc9080688c41de3d83ceef6952660d",
-      "titleSource" : "Steiermark: Meiste CoV-Tote – aber warum?",
-      "titleTarget" : "Štajerska: Najviše smrtnih slučajeva od CoV - ali zašto?",
-      "url" : "https://steiermark.orf.at/stories/3082188/"
-    }, {
       "id" : "0apvNYY8",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/33/35/crops/w=1280/256261_opener_76035_apafrau_mit_telefon__-_apa-bilderdienst_-_09.34_-_abd0028.jpg?s=7b211cb60535882799b61e1386cb2284fd3cd0d5",
       "titleSource" : "Feiertage: Nummern für den Notfall",
       "titleTarget" : "Praznici: Brojevi za hitne slučajeve",
       "url" : "https://steiermark.orf.at/stories/3027345/"
+    }, {
+      "id" : "oDBied1N",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/30/crops/w=1280/794494_opener_276730_spital1.jpg?s=6a826a09b6165ac6b2aba970b5c31db1af4a89a9",
+      "titleSource" : "Musikstudenten spielen für Spitalspatienten",
+      "titleTarget" : "Studenti glazbe sviraju za bolničke pacijente",
+      "url" : "https://wien.orf.at/stories/3082245/"
+    }, {
+      "id" : "RCLy7ELK",
+      "imgUrl" : "https://image.kurier.at/images/original/4839999/46-168220894.jpg",
+      "titleSource" : "Commerzialbank: Gegen 15 Personen und zehn Verbände wird ermittelt",
+      "titleTarget" : "Commerzialbank: Istražuje se 15 osoba i deset udruga",
+      "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-gegen-15-personen-und-zehn-verbaende-wird-ermittelt/401139051"
+    }, {
+      "id" : "kdaEjMJ7",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/81/crops/w=1280/794892_opener_276881_dl-ski-opening-5632.jpg?s=d69825217402c01ac009cca23ae4400bdbf9b75d",
+      "titleSource" : "Verregneter Start in die Wintersaison",
+      "titleTarget" : "Kišni početak zimske sezone",
+      "url" : "https://tirol.orf.at/stories/3082290/"
+    }, {
+      "id" : "umt6Nh6t",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/83/crops/w=1280/795162_opener_276983_lid_ergebnis_gy.jpg?s=33696acf6b951987ac74d4ca2efee95882377064",
+      "titleSource" : "Rund zehn Mio. Euro für „Licht ins Dunkel“",
+      "titleTarget" : "Oko deset milijuna eura za \"Licht ins Dunkel\"",
+      "url" : "https://oesterreich.orf.at/stories/3082327/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -105,12 +100,6 @@
       "titleSource" : "Musiksalon Nr. 40: Das unheilig Heilige",
       "titleTarget" : "Glazbeni salon br. 40: Nesveto Sveto",
       "url" : "https://www.diepresse.com/5915650/Podcast_Musiksalon-Nr-40_Das-unheilig-Heilige?from=rss"
-    }, {
-      "id" : "FVO7OCJ3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
-      "titleSource" : "Musiksalon Nr. 41: Das unheilig Heilige",
-      "titleTarget" : "Glazbeni salon br. 41: Nesveto Sveto",
-      "url" : "https://www.diepresse.com/5915650/Podcast_Musiksalon-Nr-41_Das-unheilig-Heilige?from=rss"
     }, {
       "id" : "1aby0GFo",
       "titleSource" : "\"Ö3-Weihnachtswunder\" brachte knapp 3,8 Millionen Euro",
@@ -146,6 +135,11 @@
       "titleTarget" : "Prema medijima, Maierhofer se seli u Würzburg",
       "url" : "https://sport.orf.at/stories/3071093/"
     }, {
+      "id" : "39bNeLWb",
+      "titleSource" : "Ein Jahr zum Abhaken: Geisterkulissen statt Olympia und EM",
+      "titleTarget" : "Godina da otkuca: Scene duhova umjesto Olimpijskih i europskih prvenstava",
+      "url" : "https://sport.orf.at/stories/3070734/"
+    }, {
       "id" : "4D6g46ec",
       "titleSource" : "U17- und U20-WM finden erst 2023 statt ",
       "titleTarget" : "Svjetski kup za U17 i U20 održat će se tek 2023. godine",
@@ -155,11 +149,6 @@
       "titleSource" : "Ceferin: Fußballgemeinschaft ist zusammengerückt",
       "titleTarget" : "Čeferin: Nogometna zajednica se zbližila",
       "url" : "https://sport.orf.at/stories/3071095/"
-    }, {
-      "id" : "beskD5ZH",
-      "titleSource" : "Koeman erlitt im Mai leichten Schlaganfall",
-      "titleTarget" : "Koeman je u svibnju pretrpio lakši moždani udar",
-      "url" : "https://sport.orf.at/stories/3071094/"
     } ]
   } ],
   "country" : "austria",
