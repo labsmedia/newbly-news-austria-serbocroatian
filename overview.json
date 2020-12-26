@@ -2,38 +2,50 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "eqqG3slC",
+      "imgUrl" : "https://image.kurier.at/images/original/4841865/46-168807643.jpg",
+      "titleSource" : "Rendi-Wagner: \"Je mehr Menschen sich impfen lassen, desto besser\"",
+      "titleTarget" : "Rendi-Wagner: \"Što se više ljudi cijepi, to bolje\"",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-je-mehr-menschen-sich-impfen-lassen-desto-besser/401139927"
+    }, {
+      "id" : "Eb614Sq0",
+      "imgUrl" : "https://image.kurier.at/images/original/4841937/46-168829756.jpg",
+      "titleSource" : "Countdown zum Impfstart läuft: Kurz, Anschober, Ludwig, Hacker dabei",
+      "titleTarget" : "Počelo je odbrojavanje do početka cijepljenja: Kurz, Anschober, Ludwig, Hacker",
+      "url" : "https://kurier.at/politik/inland/der-countdown-zum-impfstart-laeuft-kurz-anschober-ludwig-hacker-mit-dabei/401139957"
+    }, {
+      "id" : "JyyS0bRp",
+      "imgUrl" : "https://image.kurier.at/images/original/4312121/46-164583580.jpg",
+      "titleSource" : "Politikjahr 2020: Die besten Sager des Jahres",
+      "titleTarget" : "Za klikanje: Najbolji govornici Corone godine",
+      "url" : "https://kurier.at/politik/inland/zum-durchklicken-die-besten-corona-sager-des-jahres/401137878"
+    }, {
       "id" : "kUKfVlrO",
       "imgUrl" : "https://image.kurier.at/images/original/4841610/46-173750433.jpg",
       "titleSource" : "Corona-Ausgangsbeschränkungen wieder rund um die Uhr",
       "titleTarget" : "Ograničenja izlaska iz Corone ponovno oko sata",
       "url" : "https://kurier.at/politik/inland/corona-ausgangsbeschraenkungen-wieder-rund-um-die-uhr/401139744"
     }, {
-      "id" : "Xs1R10jb",
-      "imgUrl" : "https://image.kurier.at/images/original/4841649/46-170733008.jpg",
-      "titleSource" : "Pflege: Wöginger rechnet mit Reform-Zwischenbericht Ende Jänner",
-      "titleTarget" : "Njega: Wöginger očekuje privremeno izvješće o reformama krajem siječnja",
-      "url" : "https://kurier.at/politik/inland/pflege-woeginger-rechnet-mit-reform-zwischenbericht-ende-jaenner/401139780"
-    }, {
-      "id" : "JyyS0bRp",
-      "imgUrl" : "https://image.kurier.at/images/original/4312121/46-164583580.jpg",
-      "titleSource" : "Zum Durchklicken: Die besten Corona-Sager des Jahres",
-      "titleTarget" : "Za klikanje: Najbolji govornici Corone godine",
-      "url" : "https://kurier.at/politik/inland/zum-durchklicken-die-besten-corona-sager-des-jahres/401137878"
-    }, {
       "id" : "mhOtqTl0",
       "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
       "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
       "titleTarget" : "Koronsko cjepivo: Svugdje u EU danas je \"dan isporuke\" i cijepljenje započinje u isto vrijeme",
       "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
+    }, {
+      "id" : "Xs1R10jb",
+      "imgUrl" : "https://image.kurier.at/images/original/4841649/46-170733008.jpg",
+      "titleSource" : "Pflege: Wöginger rechnet mit Reform-Zwischenbericht Ende Jänner",
+      "titleTarget" : "Njega: Wöginger očekuje privremeno izvješće o reformama krajem siječnja",
+      "url" : "https://kurier.at/politik/inland/pflege-woeginger-rechnet-mit-reform-zwischenbericht-ende-jaenner/401139780"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "DYxERvIg",
-      "imgUrl" : "https://image.kurier.at/images/original/4841406/46-173737481.jpg",
-      "titleSource" : "Dritter Lockdown kostet Handel erneut Milliarden",
-      "titleTarget" : "Treće zaključavanje košta ponovno milijarde",
-      "url" : "https://kurier.at/wirtschaft/dritter-lockdown-kostet-handel-erneut-milliarden/401139630"
+      "id" : "iCG35T7b",
+      "imgUrl" : "https://image.kurier.at/images/original/4841718/46-76631390.jpg",
+      "titleSource" : "China wird stärker: Wie sich die Rangliste der Wirtschaftsmächte ändert",
+      "titleTarget" : "Kina jača: Kako se mijenja poredak ekonomskih sila",
+      "url" : "https://kurier.at/wirtschaft/china-staerker-als-erwartet-wie-sich-die-rangliste-der-wirtschaftsmaechte-aendert/401139837"
     }, {
       "id" : "MNG6qbis",
       "imgUrl" : "https://image.kurier.at/images/original/4835580/46-173437087.jpg",
@@ -41,55 +53,61 @@
       "titleTarget" : "Čarolija pušenja",
       "url" : "https://kurier.at/wirtschaft/immobiz/die-magie-des-raeucherns/401136531"
     }, {
-      "id" : "iCG35T7b",
-      "imgUrl" : "https://image.kurier.at/images/original/4841718/46-76631390.jpg",
-      "titleSource" : "China wird stärker: Wie sich die Rangliste der Wirtschaftsmächte ändert",
-      "titleTarget" : "Kina jača: Kako se mijenja poredak ekonomskih sila",
-      "url" : "https://kurier.at/wirtschaft/china-staerker-als-erwartet-wie-sich-die-rangliste-der-wirtschaftsmaechte-aendert/401139837"
+      "id" : "iro0ShjT",
+      "imgUrl" : "https://image.kurier.at/images/original/4824777/78370011358005610_BLD_Online.jpg",
+      "titleSource" : "Bitcoin steigt erstmals über 25.000 US-Dollar",
+      "titleTarget" : "Bitcoin se po prvi put diže iznad 25.000 dolara",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-steigt-erstmals-ueber-25000-us-dollar/401140014"
+    }, {
+      "id" : "y6Ix3O1E",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/5/2/0/5915936/7D67B6F9-9E80-4939-B5E2-4722E2369E76_v0_h.jpg",
+      "titleSource" : "Bitcoin steigt erstmals über 25.000 US-Dollar",
+      "titleTarget" : "Bitcoin se po prvi put diže iznad 25.000 dolara",
+      "url" : "https://www.diepresse.com/5915936/Kryptowaehrungen_Bitcoin-steigt-erstmals-ueber-25000-USDollar?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Hf7GrJH5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/16/crops/w=1280/795266_opener_277016_kh_corona_strafen_201223_00_00_28_05.jpg?s=8281b85c6bb61c929d48b4df869aa655231e667e",
-      "titleSource" : "CoV-positiv: Strafe fürs Zusammenleben",
-      "titleTarget" : "CoV-pozitivno: kazna za zajednički život",
-      "url" : "https://kaernten.orf.at/stories/3082344/"
+      "id" : "jv5awA7A",
+      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
+      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
+      "titleTarget" : "Neregistrirani demonstracijski program corona u Grazu s nekoliko stotina sudionika",
+      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
     }, {
-      "id" : "CVIRyynk",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/59/crops/w=1280/795550_opener_277159_faber.jpg?s=498b46bcfdd1605ba7936dcb435f108b7defebb5",
-      "titleSource" : "Toni Faber: Impfgegner wie kleine Kinder",
-      "titleTarget" : "Toni Faber: Protivnici cijepljenja vole malu djecu",
-      "url" : "https://wien.orf.at/stories/3082394/"
+      "id" : "rnqcUBXH",
+      "titleSource" : "Semmering: Neue Regeln nach Ansturm",
+      "titleTarget" : "Semmering: Nova pravila nakon žurbe",
+      "url" : "https://noe.orf.at/stories/3082420/"
     }, {
-      "id" : "DfBp87l5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/51/crops/w=1280/791229_opener_275451_img_8908.jpg?s=6aa4f7ef1cd1acea0319c696f9fc6f4a0bf88f1f",
-      "titleSource" : "CoV: Knapp 67.000 nutzten Feiertagstests",
-      "titleTarget" : "CoV: Gotovo 67 000 korištenih prazničkih testova",
-      "url" : "https://wien.orf.at/stories/3082376/"
+      "id" : "RPkgBEeG",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/37/crops/w=1280/796048_opener_277337_demo.jpg?s=48fed7bcff03d8bc6e5db34130cc835274c5eca1",
+      "titleSource" : "Unangemeldete Demo in Grazer Innenstadt",
+      "titleTarget" : "Neregistrirani demo u centru Graza",
+      "url" : "https://steiermark.orf.at/stories/3082463/"
     }, {
-      "id" : "yK00sGfd",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/47/crops/w=1280/783959_opener_272947_zir3.jpg?s=66deed25cf146a787f19283e422d059b11fa0d1c",
-      "titleSource" : "Bittere Weihnachten für Zirkusse",
-      "titleTarget" : "Gorki Božić za cirkuse",
-      "url" : "https://noe.orf.at/stories/3080484/"
+      "id" : "L4XS8F0q",
+      "imgUrl" : "https://image.kurier.at/images/original/4839858/46-166564316.jpg",
+      "titleSource" : "Verschwörungsgläubige: Wie können Angehörige damit umgehen?",
+      "titleTarget" : "Vjernici zavjere: kako se rođaci mogu nositi s tim?",
+      "url" : "https://kurier.at/chronik/oesterreich/verschwoerungsglaeubige-wie-koennen-angehoerige-damit-umgehen/401138964"
     }, {
-      "id" : "b6PPiYak",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/24/crops/w=1280/789126_opener_274824_201224_v2_wie_geht_es_den_ersten_cov_erkranten_heute_00_00_20_09.jpg?s=a3c3f3de39b7e6a8003fa2da815f693df8fec9af",
-      "titleSource" : "CoV: 52-Jähriger gewann Überlebenskampf",
-      "titleTarget" : "CoV: 52-godišnjak je pobijedio u borbi za opstanak",
-      "url" : "https://noe.orf.at/stories/3081420/"
+      "id" : "4I5eIVkY",
+      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
+      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
+      "titleTarget" : "Nova pravila, puno pitanja: ovo će se primjenjivati od 26. prosinca",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
+    }, {
+      "id" : "q2uZfDl5",
+      "imgUrl" : "https://image.kurier.at/images/original/4838988/20201223-ABD0028-1-1.jpg",
+      "titleSource" : "Erste Corona-Impfstoff-Lieferung gut in Wien angekommen",
+      "titleTarget" : "Prva isporuka cjepiva protiv korone sigurno je stigla u Beč",
+      "url" : "https://kurier.at/chronik/oesterreich/erste-corona-impfstoff-lieferung-gut-in-wien-angekommen/401139849"
     }, {
       "id" : "6gaYcsc6",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/03/crops/w=1280/795663_opener_277203_lockdown-5130295.jpg?s=9907b85e99aef421e6d49afb5ab35657f3dfcffd",
       "titleSource" : "Der dritte harte Lockdown beginnt",
       "titleTarget" : "Počinje treće teško zaključavanje",
       "url" : "https://vorarlberg.orf.at/stories/3082399/"
-    }, {
-      "id" : "rnqcUBXH",
-      "titleSource" : "Semmering: Neue Regeln nach Ansturm",
-      "titleTarget" : "Semmering: Nova pravila nakon žurbe",
-      "url" : "https://noe.orf.at/stories/3082420/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -106,42 +124,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "DQRfw7Y7",
-      "titleSource" : "Sport im Kampf gegen Rassismus geeint",
-      "titleTarget" : "Sport ujedinjen u borbi protiv rasizma",
-      "url" : "https://sport.orf.at/stories/3071100/"
+      "id" : "CEbd77Fy",
+      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
+      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
+      "titleTarget" : "Olimpijski prvak brine o austrijskom sportu",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
     }, {
       "id" : "Zaye3Cxm",
       "titleSource" : "Walkner startet in siebente Dakar",
       "titleTarget" : "Walkner starta u sedmom Dakaru",
       "url" : "https://sport.orf.at/stories/3070695/"
     }, {
-      "id" : "VPNQ5Vjm",
-      "titleSource" : "Linzer präsentieren neuen Coach in Wien",
-      "titleTarget" : "Linzers predstavlja novog trenera u Beču",
-      "url" : "https://sport.orf.at/stories/3071085/"
+      "id" : "oRkx78UT",
+      "imgUrl" : "https://image.kurier.at/images/original/4842060/46-167273083.jpg",
+      "titleSource" : "Die 100 schrägsten Sportgeschichten des Jahres 2020",
+      "titleTarget" : "100 najčudnijih sportskih priča 2020",
+      "url" : "https://kurier.at/sport/die-100-schraegsten-sportgeschichten-des-jahres-2020/401139732"
     }, {
-      "id" : "RZJ6ivcp",
-      "titleSource" : "Kamara stellt 91 Jahre alten NFL-Rekord ein",
-      "titleTarget" : "Kamara postavlja 91 godinu star NFL rekord",
-      "url" : "https://sport.orf.at/stories/3071109/"
+      "id" : "C6XI9uHu",
+      "imgUrl" : "https://image.kurier.at/images/original/4842111/46-173765148.jpg",
+      "titleSource" : "2:2 - Manchester United verpasste den Sieg bei Leicester City",
+      "titleTarget" : "2-2 - Manchester United propustio je pobjedu u Leicester Cityju",
+      "url" : "https://kurier.at/sport/fussball/22-manchester-united-verpasste-den-sieg-bei-leicester-city/401140050"
     }, {
-      "id" : "PmGw1XWb",
-      "titleSource" : "Junger Schweizer übernimmt Sunderland",
-      "titleTarget" : "Mladi Švicarac preuzima Sunderland",
-      "url" : "https://sport.orf.at/stories/3071106/"
+      "id" : "5gDKYnjf",
+      "titleSource" : "ManUnited verpasst Sieg im Schlagerspiel",
+      "titleTarget" : "ManUnited je propustio pobjedu u velikoj igri",
+      "url" : "https://sport.orf.at/stories/3071123/"
     }, {
-      "id" : "rRPy6ueB",
-      "imgUrl" : "https://image.kurier.at/images/original/4837203/46-170940709.jpg",
-      "titleSource" : "Jahr der Trauer: Die 10 meistgelesenen Sportgeschichten 2020",
-      "titleTarget" : "Godina žalosti: 10 najčitanijih sportskih priča 2020",
-      "url" : "https://kurier.at/sport/maradona-alaba-und-shiffrin-die-meistgelesenen-sportgeschichten-2020/401137614"
+      "id" : "rBU39PRB",
+      "titleSource" : "Kraft sieht sich als „Nackerpatzl“",
+      "titleTarget" : "Kraft sebe vidi kao \"Nackerpatzla\"",
+      "url" : "https://sport.orf.at/stories/3071090/"
     }, {
-      "id" : "LDcrCTl3",
-      "imgUrl" : "https://image.kurier.at/images/original/4840422/46-173737192.jpg",
-      "titleSource" : "Wie Österreich bei der U20-WM die Kängurus verjagen will",
-      "titleTarget" : "Kako Austrija želi potjerati klokane na U20 Svjetskom prvenstvu",
-      "url" : "https://kurier.at/sport/wintersport/eishockey-wie-oesterreich-bei-der-u20-wm-die-kaengurus-verjagen-will/401139135"
+      "id" : "R4K3qYd4",
+      "titleSource" : "Mayer Dritter im Bormio-Training",
+      "titleTarget" : "Mayer treći na treningu Bormio",
+      "url" : "https://sport.orf.at/stories/3071122/"
     } ]
   } ],
   "country" : "austria",
