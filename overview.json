@@ -2,6 +2,12 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "kUKfVlrO",
+      "imgUrl" : "https://image.kurier.at/images/original/4841610/46-173750433.jpg",
+      "titleSource" : "Corona-Ausgangsbeschränkungen wieder rund um die Uhr",
+      "titleTarget" : "Ograničenja izlaska iz Corone ponovno oko sata",
+      "url" : "https://kurier.at/politik/inland/corona-ausgangsbeschraenkungen-wieder-rund-um-die-uhr/401139744"
+    }, {
       "id" : "WVP2sJIr",
       "titleSource" : "\"Fassungslos\": ÖVP kritisiert Pandemie-Politik von Neos und FPÖ",
       "titleTarget" : "\"Zapanjen\": ÖVP kritizira Neos i FPÖ-ovu pandemijsku politiku",
@@ -10,29 +16,29 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "mdTJrKFS",
-      "imgUrl" : "https://image.kurier.at/images/original/4837635/46-173691037.jpg",
-      "titleSource" : "Schöner Feiern mit besonderer Silvesterdeko",
-      "titleTarget" : "Lijepe proslave s posebnim ukrasima za Silvestrovo",
-      "url" : "https://kurier.at/wirtschaft/immobiz/schoener-feiern-mit-besonderer-silvesterdeko/401137725"
-    }, {
       "id" : "DYxERvIg",
       "imgUrl" : "https://image.kurier.at/images/original/4841406/46-173737481.jpg",
       "titleSource" : "Dritter Lockdown kostet Handel erneut Milliarden",
       "titleTarget" : "Treće zaključavanje košta ponovno milijarde",
       "url" : "https://kurier.at/wirtschaft/dritter-lockdown-kostet-handel-erneut-milliarden/401139630"
     }, {
-      "id" : "ai4DvZM8",
-      "imgUrl" : "https://image.kurier.at/images/original/4836900/46-170868485.jpg",
-      "titleSource" : "Ein Hund zieht ein",
-      "titleTarget" : "Pas se useljava",
-      "url" : "https://kurier.at/wirtschaft/immobiz/ein-hund-zieht-ein/401137341"
-    }, {
       "id" : "VQPVKWMF",
       "imgUrl" : "https://image.kurier.at/images/original/4839378/46-155091422.jpg",
       "titleSource" : "Österreicher verschenken 927 Millionen Euro",
       "titleTarget" : "Austrijanci poklanjaju 927 milijuna eura",
       "url" : "https://kurier.at/wirtschaft/oesterreicher-verschenken-927-millionen-euro/401138769"
+    }, {
+      "id" : "mdTJrKFS",
+      "imgUrl" : "https://image.kurier.at/images/original/4837635/46-173691037.jpg",
+      "titleSource" : "Schöner Feiern mit besonderer Silvesterdeko",
+      "titleTarget" : "Lijepe proslave s posebnim ukrasima za Silvestrovo",
+      "url" : "https://kurier.at/wirtschaft/immobiz/schoener-feiern-mit-besonderer-silvesterdeko/401137725"
+    }, {
+      "id" : "ai4DvZM8",
+      "imgUrl" : "https://image.kurier.at/images/original/4836900/46-170868485.jpg",
+      "titleSource" : "Ein Hund zieht ein",
+      "titleTarget" : "Pas se useljava",
+      "url" : "https://kurier.at/wirtschaft/immobiz/ein-hund-zieht-ein/401137341"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -43,15 +49,23 @@
       "titleTarget" : "CoV-pozitivno: kazna za zajednički život",
       "url" : "https://kaernten.orf.at/stories/3082344/"
     }, {
-      "id" : "wEfT206O",
-      "titleSource" : "Rettungswagen hielt Geisterfahrer an",
-      "titleTarget" : "Hitna pomoć zaustavila je pogrešne vozače",
-      "url" : "https://kaernten.orf.at/stories/3082336/"
+      "id" : "CVIRyynk",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/59/crops/w=1280/795550_opener_277159_faber.jpg?s=498b46bcfdd1605ba7936dcb435f108b7defebb5",
+      "titleSource" : "Toni Faber: Impfgegner wie kleine Kinder",
+      "titleTarget" : "Toni Faber: Protivnici cijepljenja vole malu djecu",
+      "url" : "https://wien.orf.at/stories/3082394/"
     }, {
-      "id" : "R0yebbZC",
-      "titleSource" : "Zwei Lebensrettungen in Wels",
-      "titleTarget" : "Dva spasioca u Welsu",
-      "url" : "https://ooe.orf.at/stories/3082354/"
+      "id" : "DfBp87l5",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/51/crops/w=1280/791229_opener_275451_img_8908.jpg?s=6aa4f7ef1cd1acea0319c696f9fc6f4a0bf88f1f",
+      "titleSource" : "CoV: Knapp 67.000 nutzten Feiertagstests",
+      "titleTarget" : "CoV: Gotovo 67 000 korištenih prazničkih testova",
+      "url" : "https://wien.orf.at/stories/3082376/"
+    }, {
+      "id" : "yK00sGfd",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/47/crops/w=1280/783959_opener_272947_zir3.jpg?s=66deed25cf146a787f19283e422d059b11fa0d1c",
+      "titleSource" : "Bittere Weihnachten für Zirkusse",
+      "titleTarget" : "Gorki Božić za cirkuse",
+      "url" : "https://noe.orf.at/stories/3080484/"
     }, {
       "id" : "lwaC3Qpm",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -60,22 +74,16 @@
       "url" : "https://kurier.at/chronik/oesterreich/1851-neuinfektionen-in-oesterreich/401139540"
     }, {
       "id" : "ksSjpmeD",
-      "imgUrl" : "https://image.kurier.at/images/original/4841406/46-173737481.jpg",
-      "titleSource" : "Dritter Lockdown kostet Handel erneut Milliarden; 1.851 Neuinfektionen in Ö",
+      "imgUrl" : "https://image.kurier.at/images/original/4841610/46-173750433.jpg",
+      "titleSource" : "Wieder Ausgangsbeschränkungen; Dritter Lockdown kostet Handel erneut Milliarden",
       "titleTarget" : "1.851 nova infekcija u Austriji; Mutacija virusa brine Dansku",
       "url" : "https://kurier.at/chronik/oesterreich/virusmutation-beunruhigt-daenemark-weitere-cov-mutation-in-nigeria-entdeckt/401139507"
     }, {
-      "id" : "pnE6Il4B",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/11/76/crops/w=1280/501133_opener_168976_gedenktafel_fuer_die_deutschen_u._oesterreichischen_fluechtlinge_am_fremdenverkehrsbuero_in_sanary-sur-mer1.jpg?s=6d272ccef181088b2bc1d838dc54af77567d0d7d",
-      "titleSource" : "Albert Drach: Als Autor erst im Alter entdeckt",
-      "titleTarget" : "Albert Drach: Otkriven kao autor tek u starosti",
-      "url" : "https://noe.orf.at/stories/3038539/"
-    }, {
-      "id" : "DfBp87l5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/51/crops/w=1280/791229_opener_275451_img_8908.jpg?s=6aa4f7ef1cd1acea0319c696f9fc6f4a0bf88f1f",
-      "titleSource" : "CoV: Knapp 67.000 nutzten Feiertagstests",
-      "titleTarget" : "CoV: Gotovo 67 000 korištenih prazničkih testova",
-      "url" : "https://wien.orf.at/stories/3082376/"
+      "id" : "MFCJ9cIh",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/39/crops/w=1280/779473_opener_271339_pool-3001209_1920.jpg?s=b2a43494af1e1f28e79b5af8604225ea075d57cf",
+      "titleSource" : "Wellnessboom für Daheim hält an",
+      "titleTarget" : "Wellness procvat za dom se nastavlja",
+      "url" : "https://ooe.orf.at/stories/3079855/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -92,6 +100,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "DQRfw7Y7",
+      "titleSource" : "Sport im Kampf gegen Rassismus geeint",
+      "titleTarget" : "Sport ujedinjen u borbi protiv rasizma",
+      "url" : "https://sport.orf.at/stories/3071100/"
+    }, {
       "id" : "aaAWVl32",
       "imgUrl" : "https://image.kurier.at/images/original/4812729/46-168472814.jpg",
       "titleSource" : "Auch 2021 gehen die Turnierabsagen im Fußball weiter",
@@ -124,12 +137,6 @@
       "titleSource" : "Vier Corona-Fälle bei Manchester City vor Boxing Day",
       "titleTarget" : "Četiri slučaja korone u Manchester Cityju uoči Boksačkog dana",
       "url" : "https://kurier.at/sport/fussball/vier-corona-faelle-bei-manchester-city-vor-boxing-day/401139660"
-    }, {
-      "id" : "EOPVJLZc",
-      "imgUrl" : "https://image.kurier.at/images/original/4841448/46-81820415.jpg",
-      "titleSource" : "Verurteilt: 100 Stunden Zivildienst für Russlands Ex-Teamkapitän",
-      "titleTarget" : "Osuđeno: 100 sati društveno korisnog rada za bivšeg kapetana ruske momčadi",
-      "url" : "https://kurier.at/sport/fussball/verurteilt-100-stunden-zivildienst-fuer-russlands-ex-teamkapitaen/401139663"
     } ]
   } ],
   "country" : "austria",
