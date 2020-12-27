@@ -14,23 +14,29 @@
       "titleTarget" : "Počelo je odbrojavanje do početka cijepljenja: Kurz, Anschober, Ludwig, Hacker",
       "url" : "https://kurier.at/politik/inland/der-countdown-zum-impfstart-laeuft-kurz-anschober-ludwig-hacker-mit-dabei/401139957"
     }, {
+      "id" : "mhOtqTl0",
+      "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
+      "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
+      "titleTarget" : "Koronsko cjepivo: Svugdje u EU danas je \"dan isporuke\" i cijepljenje započinje u isto vrijeme",
+      "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
+    }, {
+      "id" : "1pC3jdqc",
+      "imgUrl" : "https://image.kurier.at/images/original/4842162/46-173551603.jpg",
+      "titleSource" : "Corona-Strafe für Paar: Gesundheitsministerium weist Verantwortung von sich",
+      "titleTarget" : "Corona kazna za par: Ministarstvo zdravstva odbacuje odgovornost",
+      "url" : "https://kurier.at/politik/inland/corona-strafe-fuer-paar-gesundheitsministerium-weist-verantwortung-von-sich/401140095"
+    }, {
       "id" : "JyyS0bRp",
       "imgUrl" : "https://image.kurier.at/images/original/4312121/46-164583580.jpg",
       "titleSource" : "Politikjahr 2020: Die besten Sager des Jahres",
       "titleTarget" : "Za klikanje: Najbolji govornici Corone godine",
       "url" : "https://kurier.at/politik/inland/zum-durchklicken-die-besten-corona-sager-des-jahres/401137878"
     }, {
-      "id" : "kUKfVlrO",
-      "imgUrl" : "https://image.kurier.at/images/original/4841610/46-173750433.jpg",
-      "titleSource" : "Corona-Ausgangsbeschränkungen wieder rund um die Uhr",
-      "titleTarget" : "Ograničenja izlaska iz Corone ponovno oko sata",
-      "url" : "https://kurier.at/politik/inland/corona-ausgangsbeschraenkungen-wieder-rund-um-die-uhr/401139744"
-    }, {
-      "id" : "mhOtqTl0",
-      "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
-      "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
-      "titleTarget" : "Koronsko cjepivo: Svugdje u EU danas je \"dan isporuke\" i cijepljenje započinje u isto vrijeme",
-      "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
+      "id" : "q8gzkzgt",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Diese Regeln gelten ab 26. Dezember",
+      "titleTarget" : "Ta se pravila primjenjuju od 26. prosinca",
+      "url" : "https://kurier.at/politik/inland/freitesten-vom-corona-lockdown-diese-regeln-gelten-ab-26-dezember-bis-mitte-jaenner/401083170"
     }, {
       "id" : "Xs1R10jb",
       "imgUrl" : "https://image.kurier.at/images/original/4841649/46-170733008.jpg",
@@ -68,34 +74,17 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jv5awA7A",
-      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
-      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
-      "titleTarget" : "Neregistrirani demonstracijski program corona u Grazu s nekoliko stotina sudionika",
-      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
-    }, {
-      "id" : "rnqcUBXH",
-      "titleSource" : "Semmering: Neue Regeln nach Ansturm",
-      "titleTarget" : "Semmering: Nova pravila nakon žurbe",
-      "url" : "https://noe.orf.at/stories/3082420/"
-    }, {
       "id" : "RPkgBEeG",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/37/crops/w=1280/796048_opener_277337_demo.jpg?s=48fed7bcff03d8bc6e5db34130cc835274c5eca1",
       "titleSource" : "Unangemeldete Demo in Grazer Innenstadt",
       "titleTarget" : "Neregistrirani demo u centru Graza",
       "url" : "https://steiermark.orf.at/stories/3082463/"
     }, {
-      "id" : "L4XS8F0q",
-      "imgUrl" : "https://image.kurier.at/images/original/4839858/46-166564316.jpg",
-      "titleSource" : "Verschwörungsgläubige: Wie können Angehörige damit umgehen?",
-      "titleTarget" : "Vjernici zavjere: kako se rođaci mogu nositi s tim?",
-      "url" : "https://kurier.at/chronik/oesterreich/verschwoerungsglaeubige-wie-koennen-angehoerige-damit-umgehen/401138964"
-    }, {
-      "id" : "4I5eIVkY",
-      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
-      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
-      "titleTarget" : "Nova pravila, puno pitanja: ovo će se primjenjivati od 26. prosinca",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
+      "id" : "jv5awA7A",
+      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
+      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
+      "titleTarget" : "Neregistrirani demonstracijski program corona u Grazu s nekoliko stotina sudionika",
+      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
     }, {
       "id" : "q2uZfDl5",
       "imgUrl" : "https://image.kurier.at/images/original/4838988/20201223-ABD0028-1-1.jpg",
@@ -103,11 +92,29 @@
       "titleTarget" : "Prva isporuka cjepiva protiv korone sigurno je stigla u Beč",
       "url" : "https://kurier.at/chronik/oesterreich/erste-corona-impfstoff-lieferung-gut-in-wien-angekommen/401139849"
     }, {
-      "id" : "6gaYcsc6",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/03/crops/w=1280/795663_opener_277203_lockdown-5130295.jpg?s=9907b85e99aef421e6d49afb5ab35657f3dfcffd",
-      "titleSource" : "Der dritte harte Lockdown beginnt",
-      "titleTarget" : "Počinje treće teško zaključavanje",
-      "url" : "https://vorarlberg.orf.at/stories/3082399/"
+      "id" : "4I5eIVkY",
+      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
+      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
+      "titleTarget" : "Nova pravila, puno pitanja: ovo će se primjenjivati od 26. prosinca",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
+    }, {
+      "id" : "rxKPQKv3",
+      "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
+      "titleSource" : "Corona-Strafe für Paar: Kaiser rügt Bund für \"realitätsferne Regel\"",
+      "titleTarget" : "Kazna za krunu za par: Kaiser zamjera saveznoj vladi zbog \"nerealne vladavine\"",
+      "url" : "https://kurier.at/chronik/oesterreich/kaernten-aerger-nach-corona-strafe-fuer-paar/401139981"
+    }, {
+      "id" : "GFISxmul",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/32/crops/w=1280/789381_opener_274932_kaiser_haimi01239_00_03_52_03.jpg?s=969f1625076f4ceb22353d3f3c540fd3f4321cb4",
+      "titleSource" : "Kaiser: Neue Verordnung statt Strafe",
+      "titleTarget" : "Kaiser: Nova uredba umjesto kazne",
+      "url" : "https://kaernten.orf.at/stories/3082482/"
+    }, {
+      "id" : "chhUT3Uh",
+      "imgUrl" : "https://image.kurier.at/images/original/4841994/20201226-ABD0032-1-1.jpg",
+      "titleSource" : "Warten bei minus 74 Grad: Impfstoff in Österreich bereits eingetroffen",
+      "titleTarget" : "Čeka se na minus 74 stupnja: cjepivo je već stiglo u Austriju",
+      "url" : "https://kurier.at/chronik/oesterreich/impfstoff-in-oesterreich-bereits-eingetroffen-hier-wird-er-bis-morgen-verwahrt/401140026"
     } ]
   }, {
     "category" : "CULTURE",
@@ -124,43 +131,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "CEbd77Fy",
-      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
-      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
-      "titleTarget" : "Olimpijski prvak brine o austrijskom sportu",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
-    }, {
-      "id" : "Zaye3Cxm",
-      "titleSource" : "Walkner startet in siebente Dakar",
-      "titleTarget" : "Walkner starta u sedmom Dakaru",
-      "url" : "https://sport.orf.at/stories/3070695/"
-    }, {
       "id" : "oRkx78UT",
       "imgUrl" : "https://image.kurier.at/images/original/4842060/46-167273083.jpg",
       "titleSource" : "Die 100 schrägsten Sportgeschichten des Jahres 2020",
       "titleTarget" : "100 najčudnijih sportskih priča 2020",
       "url" : "https://kurier.at/sport/die-100-schraegsten-sportgeschichten-des-jahres-2020/401139732"
     }, {
-      "id" : "C6XI9uHu",
-      "imgUrl" : "https://image.kurier.at/images/original/4842111/46-173765148.jpg",
-      "titleSource" : "2:2 - Manchester United verpasste den Sieg bei Leicester City",
-      "titleTarget" : "2-2 - Manchester United propustio je pobjedu u Leicester Cityju",
-      "url" : "https://kurier.at/sport/fussball/22-manchester-united-verpasste-den-sieg-bei-leicester-city/401140050"
+      "id" : "Zaye3Cxm",
+      "titleSource" : "Walkner startet in siebente Dakar",
+      "titleTarget" : "Walkner starta u sedmom Dakaru",
+      "url" : "https://sport.orf.at/stories/3070695/"
     }, {
-      "id" : "5gDKYnjf",
-      "titleSource" : "ManUnited verpasst Sieg im Schlagerspiel",
-      "titleTarget" : "ManUnited je propustio pobjedu u velikoj igri",
-      "url" : "https://sport.orf.at/stories/3071123/"
+      "id" : "CEbd77Fy",
+      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
+      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
+      "titleTarget" : "Olimpijski prvak brine o austrijskom sportu",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
     }, {
-      "id" : "rBU39PRB",
-      "titleSource" : "Kraft sieht sich als „Nackerpatzl“",
-      "titleTarget" : "Kraft sebe vidi kao \"Nackerpatzla\"",
-      "url" : "https://sport.orf.at/stories/3071090/"
+      "id" : "GTnoIkfs",
+      "titleSource" : "Buccaneers erstmals seit 2007 im NFL-Play-off",
+      "titleTarget" : "Buccaneeri u doigravanju NFL-a prvi put nakon 2007. godine",
+      "url" : "https://sport.orf.at/stories/3071131/"
     }, {
-      "id" : "R4K3qYd4",
-      "titleSource" : "Mayer Dritter im Bormio-Training",
-      "titleTarget" : "Mayer treći na treningu Bormio",
-      "url" : "https://sport.orf.at/stories/3071122/"
+      "id" : "lZCV0GzZ",
+      "titleSource" : "Kowaltschuk kehrt wieder in KHL zurück",
+      "titleTarget" : "Kovalchuk se vraća u KHL",
+      "url" : "https://sport.orf.at/stories/3071130/"
+    }, {
+      "id" : "CLlVy4Os",
+      "titleSource" : "Thiem erreicht „ein Lebensziel“",
+      "titleTarget" : "Thiem postiže \"životni cilj\"",
+      "url" : "https://sport.orf.at/stories/3071129/"
+    }, {
+      "id" : "K10wJx2e",
+      "titleSource" : "Hamilton stellt Schumacher-Rekord ein",
+      "titleTarget" : "Hamilton postavlja Schumacherov rekord",
+      "url" : "https://sport.orf.at/stories/3070733/"
     } ]
   } ],
   "country" : "austria",
