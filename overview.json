@@ -2,23 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "eqqG3slC",
-      "imgUrl" : "https://image.kurier.at/images/original/4841865/46-168807643.jpg",
-      "titleSource" : "Rendi-Wagner: \"Je mehr Menschen sich impfen lassen, desto besser\"",
-      "titleTarget" : "Rendi-Wagner: \"Što se više ljudi cijepi, to bolje\"",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-je-mehr-menschen-sich-impfen-lassen-desto-besser/401139927"
-    }, {
       "id" : "Cky3o4mN",
-      "imgUrl" : "https://image.kurier.at/images/original/4842309/1B2E54CD-7982-4E1A-8B9E-E6D5A87EF8CB.jpeg",
-      "titleSource" : "Impfstart in Österreich: Erste Risikopatienten gegen Corona geimpft - Kurz: \"Historischer Tag\"",
+      "imgUrl" : "https://image.kurier.at/images/original/4842720/46-173771608.jpg",
+      "titleSource" : "Impfstart in Österreich: \"Hat's weh getan?\"",
       "titleTarget" : "Početak cijepljenja u Austriji: prvi visoko rizični pacijenti cijepljeni protiv korone - ukratko: \"Povijesni dan\"",
       "url" : "https://kurier.at/politik/inland/corona-groesste-impfaktion-in-oesterreichs-geschichte-startet-am-sonntag/401140164"
-    }, {
-      "id" : "Eb614Sq0",
-      "imgUrl" : "https://image.kurier.at/images/original/4841937/46-168829756.jpg",
-      "titleSource" : "Countdown zum Impfstart läuft: Kurz, Anschober, Ludwig, Hacker dabei",
-      "titleTarget" : "Počelo je odbrojavanje do početka cijepljenja: Kurz, Anschober, Ludwig, Hacker",
-      "url" : "https://kurier.at/politik/inland/der-countdown-zum-impfstart-laeuft-kurz-anschober-ludwig-hacker-mit-dabei/401139957"
     }, {
       "id" : "1pC3jdqc",
       "imgUrl" : "https://image.kurier.at/images/original/4842162/46-173551603.jpg",
@@ -32,11 +20,29 @@
       "titleTarget" : "Domaća politika: Najprodavanije priče godine",
       "url" : "https://kurier.at/politik/inland/innenpolitik-die-meistverkauften-geschichten-des-jahres/401138220"
     }, {
+      "id" : "r89ABGpJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4842711/46-173771759.jpg",
+      "titleSource" : "Corona-Impfstart: Hick-Hack und Impf-Appell in der Innenpolitik",
+      "titleTarget" : "Početak cijepljenja protiv korone: Hick-Hack i apel za cijepljenje u domaćoj politici",
+      "url" : "https://kurier.at/politik/inland/corona-impfstart-hick-hack-und-impf-appell-in-der-innenpolitik/401140365"
+    }, {
       "id" : "q8gzkzgt",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "Diese Regeln gelten ab 26. Dezember",
       "titleTarget" : "Ta se pravila primjenjuju od 26. prosinca",
       "url" : "https://kurier.at/politik/inland/freitesten-vom-corona-lockdown-diese-regeln-gelten-ab-26-dezember-bis-mitte-jaenner/401083170"
+    }, {
+      "id" : "ypctKiAf",
+      "imgUrl" : "https://image.kurier.at/images/original/4843047/46-173773530.jpg",
+      "titleSource" : "Covid-Impfstart in Österreich: \"Der Anfang vom Sieg gegen die Pandemie\"",
+      "titleTarget" : "Početak cijepljenja Covid u Austriji: \"Početak pobjede protiv pandemije\"",
+      "url" : "https://kurier.at/politik/inland/covid-impfstart-in-oesterreich-der-anfang-vom-sieg-gegen-die-pandemie/401140518"
+    }, {
+      "id" : "iwfwXVuy",
+      "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
+      "titleSource" : "„Nur Symbolik“: Kärnten beginnt erst im Jänner zu impfen",
+      "titleTarget" : "\"Samo simbolika\": Koruška cijepljenje započinje tek u siječnju",
+      "url" : "https://kurier.at/politik/inland/nur-symbolik-kaernten-beginnt-erst-im-jaenner-zu-impfen/401140527"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -47,11 +53,29 @@
       "titleTarget" : "Šef Lufthanse: u budućnosti će letovi na velike daljine vjerojatno imati samo negativan test korone",
       "url" : "https://kurier.at/wirtschaft/lufthansa-chef-langstreckenfluege-kuenftig-wohl-nur-mit-negativem-corona-test/401140191"
     }, {
-      "id" : "iro0ShjT",
-      "imgUrl" : "https://image.kurier.at/images/original/4824777/78370011358005610_BLD_Online.jpg",
-      "titleSource" : "Bitcoin steigt erstmals über 25.000 US-Dollar",
-      "titleTarget" : "Bitcoin se po prvi put diže iznad 25.000 dolara",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-steigt-erstmals-ueber-25000-us-dollar/401140014"
+      "id" : "MjPvtDUS",
+      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
+      "titleSource" : "Hilfe für Zulieferbetriebe: Voraussetzung sind 50 % Umsatzbindung",
+      "titleTarget" : "Pomoć za dobavljače: preduvjet je obveza od 50% prometa",
+      "url" : "https://kurier.at/wirtschaft/hilfe-fuer-zulieferbetriebe-voraussetzung-sind-50-umsatzbindung/401140368"
+    }, {
+      "id" : "RENDI7ZB",
+      "imgUrl" : "https://image.kurier.at/images/original/3669302/78370011349810308_BLD_Online.jpg",
+      "titleSource" : "Wifo: Österreichs Wettbewerbsfähigkeit knapp hinter oberem EU-Drittel",
+      "titleTarget" : "Wifo: Austrijska konkurentnost odmah iza gornje trećine EU",
+      "url" : "https://kurier.at/wirtschaft/wifo-oesterreichs-wettbewerbsfaehigkeit-knapp-hinter-oberem-eu-drittel/401140392"
+    }, {
+      "id" : "n51FwhKG",
+      "imgUrl" : "https://image.kurier.at/images/original/4842708/46-85705533.jpg",
+      "titleSource" : "Lockdowns bescherten Motorsägen-Hersteller Stihl Rekordergebnis",
+      "titleTarget" : "Lockdowns je proizvođaču motornih pila Stihl donio rekordne rezultate",
+      "url" : "https://kurier.at/wirtschaft/lockdowns-bescherten-motorsaegen-hersteller-stihl-rekordergebnis/401140377"
+    }, {
+      "id" : "CaDu3fir",
+      "imgUrl" : "https://image.kurier.at/images/original/4842717/46-145723116.jpg",
+      "titleSource" : "Motorsägenhersteller Stihl erzielt 2020 Umsatzrekord",
+      "titleTarget" : "Proizvođač motorne pile Stihl postiže rekordnu prodaju u 2020. godini",
+      "url" : "https://kurier.at/wirtschaft/motorsaegenhersteller-stihl-erzielt-2020-umsatzrekord/401140374"
     }, {
       "id" : "ANrnWktU",
       "imgUrl" : "https://image.kurier.at/images/original/4838772/46-173634205.jpg",
@@ -64,66 +88,60 @@
       "titleSource" : "Die zehn meistgelesenen Wirtschafts-Geschichten in diesem Jahr",
       "titleTarget" : "Deset najčitanijih poslovnih priča ove godine",
       "url" : "https://kurier.at/wirtschaft/die-zehn-meistgelesenen-wirtschafts-geschichten-in-diesem-jahr/401137665"
-    }, {
-      "id" : "OGckrroH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/6/9/5916009/5141AD11-7429-4861-85D5-FB881256272F_v0_l.jpg",
-      "titleSource" : "Österreichs Wettbewerbsfähigkeit knapp hinter oberem EU-Drittel",
-      "titleTarget" : "Austrijska konkurentnost odmah iza gornje trećine EU",
-      "url" : "https://www.diepresse.com/5916009/Studie_Oesterreichs-Wettbewerbsfaehigkeit-knapp-hinter-oberem?from=rss"
-    }, {
-      "id" : "y6Ix3O1E",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/2/0/5915936/7D67B6F9-9E80-4939-B5E2-4722E2369E76_v0_h.jpg",
-      "titleSource" : "Bitcoin steigt erstmals über 25.000 US-Dollar",
-      "titleTarget" : "Bitcoin se po prvi put diže iznad 25.000 dolara",
-      "url" : "https://www.diepresse.com/5915936/Kryptowaehrungen_Bitcoin-steigt-erstmals-ueber-25000-USDollar?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "RPkgBEeG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/37/crops/w=1280/796048_opener_277337_demo.jpg?s=48fed7bcff03d8bc6e5db34130cc835274c5eca1",
-      "titleSource" : "Unangemeldete Demo in Grazer Innenstadt",
-      "titleTarget" : "Neregistrirani demo u centru Graza",
-      "url" : "https://steiermark.orf.at/stories/3082463/"
+      "id" : "LgjFGSPF",
+      "imgUrl" : "https://image.kurier.at/images/original/4842957/46-173774240.jpg",
+      "titleSource" : "Andrang zu groß: Zahlreiche Skigebiete mussten für weitere Gäste schließen",
+      "titleTarget" : "Prevelika gužva: brojna skijališta morala su se zatvoriti zbog više gostiju",
+      "url" : "https://kurier.at/chronik/oesterreich/erste-skigebiete-schliessen-wegen-ansturm-fuer-weitere-gaeste/401140308"
     }, {
-      "id" : "jv5awA7A",
-      "imgUrl" : "https://image.kurier.at/images/original/4842129/unbenannt_0.jpg",
-      "titleSource" : "Unangemeldete Corona-Demo in Graz mit mehreren hundert Teilnehmern",
-      "titleTarget" : "Neregistrirani demonstracijski program corona u Grazu s nekoliko stotina sudionika",
-      "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
+      "id" : "LbGhCwAX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/61/crops/w=1280/796720_opener_277561_img_20201227_135325.jpg?s=c36014f5a0ab8af7e56ef44a3c2a3f27072f87bc",
+      "titleSource" : "Erste Heimbewohnerinnen in St. Pölten geimpft",
+      "titleTarget" : "Prvi stanovnici St. Pöltena cijepljeni su",
+      "url" : "https://noe.orf.at/stories/3082529/"
     }, {
-      "id" : "rxKPQKv3",
-      "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
-      "titleSource" : "Corona-Strafe für Paar: Kaiser rügt Bund für \"realitätsferne Regel\"",
-      "titleTarget" : "Kazna za krunu za par: Kaiser zamjera saveznoj vladi zbog \"nerealne vladavine\"",
-      "url" : "https://kurier.at/chronik/oesterreich/kaernten-aerger-nach-corona-strafe-fuer-paar/401139981"
+      "id" : "3moB5ezr",
+      "titleSource" : "Erste Niederösterreicherin geimpft",
+      "titleTarget" : "Prva žena iz Donje Austrije cijepljena",
+      "url" : "https://noe.orf.at/stories/3082510/"
     }, {
-      "id" : "GFISxmul",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/32/crops/w=1280/789381_opener_274932_kaiser_haimi01239_00_03_52_03.jpg?s=969f1625076f4ceb22353d3f3c540fd3f4321cb4",
-      "titleSource" : "Kaiser: Neue Verordnung statt Strafe",
-      "titleTarget" : "Kaiser: Nova uredba umjesto kazne",
-      "url" : "https://kaernten.orf.at/stories/3082482/"
+      "id" : "jWoeFcG9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/75/crops/w=1280/796461_opener_277475_damuels.jpg?s=42bff33ba25c4c48a46148542f5cee859ca23403",
+      "titleSource" : "Skigebiete reagieren auf Staus vor Liften",
+      "titleTarget" : "Skijališta reagiraju na prometne gužve ispred žičara",
+      "url" : "https://vorarlberg.orf.at/stories/3082509/"
     }, {
-      "id" : "chhUT3Uh",
-      "imgUrl" : "https://image.kurier.at/images/original/4841994/20201226-ABD0032-1-1.jpg",
-      "titleSource" : "Warten bei minus 74 Grad: Impfstoff in Österreich bereits eingetroffen",
-      "titleTarget" : "Čeka se na minus 74 stupnja: cjepivo je već stiglo u Austriju",
-      "url" : "https://kurier.at/chronik/oesterreich/impfstoff-in-oesterreich-bereits-eingetroffen-hier-wird-er-bis-morgen-verwahrt/401140026"
+      "id" : "ub3bLRLf",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/84/crops/w=1280/796489_opener_277484_foke_2020122710514350_024.jpg?s=b9dec757139885de379ee2b7c786a55cb32fd1b1",
+      "titleSource" : "Studentin in Leonding getötet",
+      "titleTarget" : "Student ubijen u Leondingu",
+      "url" : "https://ooe.orf.at/stories/3082520/"
     }, {
-      "id" : "LDIq521C",
-      "titleSource" : "Gemeinde sperrt Semmering für Rodler",
-      "titleTarget" : "Općina zatvara Semmering za sankare",
-      "url" : "https://noe.orf.at/stories/3082486/"
+      "id" : "27ucRL3h",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Corona: 1.408 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: 1.408 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-1408-neuinfektionen-in-oesterreich/401140170"
     }, {
-      "id" : "F39le1ih",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/37/08/crops/w=1280/681563_opener_235308_gullideckel-3987120_1920.jpg?s=f0d4c9916597e6f2706f2664285fb78b7efa72ca",
-      "titleSource" : "Abwässer zeigen steigende CoV-Zahlen früher",
-      "titleTarget" : "Otpadne vode pokazuju porast broja CoV ranije",
-      "url" : "https://vorarlberg.orf.at/stories/3082419/"
+      "id" : "Nu8lQ6EH",
+      "imgUrl" : "https://image.kurier.at/images/original/4842882/46-173725064.jpg",
+      "titleSource" : "Hunderte Briten verschwanden über Nacht aus Schweizer Quarantäne; 1.408 Neuinfektionen in Ö",
+      "titleTarget" : "Stotine Britanaca nestalo je iz švicarske karantene preko noći; 1.408 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-oesterreich-impft-ab-heute-demo-in-graz-mit-1000-teilnehmern/401140167"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "oQQp68Cg",
+      "imgUrl" : "https://image.kurier.at/images/original/4842663/46-173752047.jpg",
+      "titleSource" : "Stargeiger Ivry Gitlis verstorben",
+      "titleTarget" : "Preminuo je zvjezdani violinist Ivry Gitlis",
+      "url" : "https://kurier.at/kultur/stargeiger-ivry-gitlis-verstorben/401140389"
+    }, {
       "id" : "LHxYcMzq",
       "imgUrl" : "https://image.kurier.at/images/original/4842435/46-166580950.jpg",
       "titleSource" : "Kultur-Events: 2020 Jahr der Absagen, 2021 Jahr der Fragezeichen",
@@ -135,6 +153,12 @@
       "titleSource" : "Bluegrass-Legende Tony Rice starb mit 69 Jahren",
       "titleTarget" : "Legenda Bluegrassa Tony Rice umro je u 69. godini",
       "url" : "https://kurier.at/kultur/bluegrass-legende-tony-rice-starb-mit-69-jahren/401140236"
+    }, {
+      "id" : "y1g7T7LD",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/c/c/5916108/constantin_ent-300923_S1-Full-Image_GalleryBackground-de-DE-1608116866405._RI__1609080720532913.jpg",
+      "titleSource" : "Ein Jahr im Inneren der Bild",
+      "titleTarget" : "Godina dana unutar slike",
+      "url" : "https://www.diepresse.com/5916108/Dokumentation_Ein-Jahr-im-Inneren-der-Bild?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -142,16 +166,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "g1GzZcUX",
-      "imgUrl" : "https://image.kurier.at/images/original/4841844/46-173728847.jpg",
-      "titleSource" : "644 Flaschen Bier für die Torhüter der 644-Messi-Tore",
-      "titleTarget" : "644 boce piva za vratare 644 Messija",
-      "url" : "https://kurier.at/sport/fussball/644-flaschen-bier-von-budweiser-fuer-die-torhueter-der-644-tore-von-lionel-messi/401139918"
+      "id" : "DKdyGv6n",
+      "titleSource" : "Dorfmeister sorgt sich um Rennsport",
+      "titleTarget" : "Dorfmeister se brine zbog utrka",
+      "url" : "https://sport.orf.at/stories/3071112/"
     }, {
-      "id" : "yspN5OKp",
-      "titleSource" : "Vereinsloser Grabner wartet bis NHL-Saisonstart",
-      "titleTarget" : "Nesposobni Grabner čeka do početka NHL sezone",
-      "url" : "https://sport.orf.at/stories/3071137/"
+      "id" : "l6rjZjyU",
+      "imgUrl" : "https://image.kurier.at/images/original/4842495/46-173728518.jpg",
+      "titleSource" : "Lionel Messi sehnt sich nach Anonymität und lobt zwei Trainer",
+      "titleTarget" : "Lionel Messi čezne za anonimnošću i hvali dvojicu trenera",
+      "url" : "https://kurier.at/sport/fussball/lionel-messi-sehnt-sich-nach-anonymitaet-und-lobt-zwei-trainer/401140257"
     }, {
       "id" : "Sn73ly3g",
       "imgUrl" : "https://image.kurier.at/images/original/4842294/46-173551086.jpg",
@@ -159,27 +183,26 @@
       "titleTarget" : "Shiffrin prije austrijskih utrka: \"Nije ništa kao nekada\"",
       "url" : "https://kurier.at/sport/wintersport/mikaela-shiffrin-vor-den-oesterreich-rennen-es-ist-nichts-wie-frueher/401140206"
     }, {
-      "id" : "V2UTWMhy",
-      "imgUrl" : "https://image.kurier.at/images/original/4842318/20201226_183696.jpg",
-      "titleSource" : "Eishockey: Die USA überrollten Österreich bei der U20-WM",
-      "titleTarget" : "Hokej na ledu: SAD su pregazile Austriju na U20 Svjetskom kupu",
-      "url" : "https://kurier.at/sport/wintersport/eishockey-die-usa-ueberrollten-oesterreich-bei-der-u20-wm/401140188"
+      "id" : "c2johXoz",
+      "titleSource" : "Schweizer Trainer soll Schalke retten",
+      "titleTarget" : "Švicarski trener trebao bi spasiti Schalke",
+      "url" : "https://sport.orf.at/stories/3071145/"
     }, {
-      "id" : "6S2p9rlY",
-      "imgUrl" : "https://image.kurier.at/images/original/4842291/46-173770362.jpg",
-      "titleSource" : "Jakob Pöltl schlug mit San Antonio seinen Ex-Klub Toronto",
-      "titleTarget" : "Jakob Pöltl pobijedio je svoj bivši klub Toronto sa San Antoniom",
-      "url" : "https://kurier.at/sport/jakob-poeltl-schlug-mit-san-antonio-seinen-ex-klub-toronto/401140200"
+      "id" : "VEwXsUez",
+      "titleSource" : "Längere Weihnachtspause für angeschlagenen Messi",
+      "titleTarget" : "Duža božićna stanka za bolesnog Messija",
+      "url" : "https://sport.orf.at/stories/3071143/"
     }, {
-      "id" : "8zUBveZN",
-      "titleSource" : "Österreich startet mit Debakel in U20-WM",
-      "titleTarget" : "Austrija započinje debaklom na U20 Svjetskom kupu",
-      "url" : "https://sport.orf.at/stories/3071133/"
+      "id" : "C945KLyO",
+      "imgUrl" : "https://image.kurier.at/images/original/4842948/46-145053434.jpg",
+      "titleSource" : "Die Graz 99ers entlassen Trainer Doug Mason nach vier Jahren",
+      "titleTarget" : "Graz 99ers otpustio je trenera Douga Masona nakon četiri godine",
+      "url" : "https://kurier.at/sport/wintersport/die-graz-99ers-entlassen-trainer-doug-mason-nach-vier-jahren/401140488"
     }, {
-      "id" : "AAMflh4t",
-      "titleSource" : "Pöltl feiert Sieg mit San Antonio über Ex-Club Toronto",
-      "titleTarget" : "Pöltl slavi pobjedu sa San Antoniom nad bivšim klubom Torontom",
-      "url" : "https://sport.orf.at/stories/3071132/"
+      "id" : "DvMhe2Pu",
+      "titleSource" : "Graz99ers trennen sich von Coach Mason",
+      "titleTarget" : "Graz99ers se rastaje od trenera Masona",
+      "url" : "https://sport.orf.at/stories/3071147/"
     } ]
   } ],
   "country" : "austria",
