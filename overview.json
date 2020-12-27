@@ -8,17 +8,17 @@
       "titleTarget" : "Rendi-Wagner: \"Što se više ljudi cijepi, to bolje\"",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-je-mehr-menschen-sich-impfen-lassen-desto-besser/401139927"
     }, {
+      "id" : "Cky3o4mN",
+      "imgUrl" : "https://image.kurier.at/images/original/4842309/1B2E54CD-7982-4E1A-8B9E-E6D5A87EF8CB.jpeg",
+      "titleSource" : "Impfstart in Österreich: Erste Risikopatienten gegen Corona geimpft - Kurz: \"Historischer Tag\"",
+      "titleTarget" : "Početak cijepljenja u Austriji: prvi visoko rizični pacijenti cijepljeni protiv korone - ukratko: \"Povijesni dan\"",
+      "url" : "https://kurier.at/politik/inland/corona-groesste-impfaktion-in-oesterreichs-geschichte-startet-am-sonntag/401140164"
+    }, {
       "id" : "Eb614Sq0",
       "imgUrl" : "https://image.kurier.at/images/original/4841937/46-168829756.jpg",
       "titleSource" : "Countdown zum Impfstart läuft: Kurz, Anschober, Ludwig, Hacker dabei",
       "titleTarget" : "Počelo je odbrojavanje do početka cijepljenja: Kurz, Anschober, Ludwig, Hacker",
       "url" : "https://kurier.at/politik/inland/der-countdown-zum-impfstart-laeuft-kurz-anschober-ludwig-hacker-mit-dabei/401139957"
-    }, {
-      "id" : "mhOtqTl0",
-      "imgUrl" : "https://image.kurier.at/images/original/4841820/46-173754628.jpg",
-      "titleSource" : "Corona-Impfstoff: Überall in der EU ist heute gleichzeitig \"Liefertag\" und Impfstart",
-      "titleTarget" : "Koronsko cjepivo: Svugdje u EU danas je \"dan isporuke\" i cijepljenje započinje u isto vrijeme",
-      "url" : "https://kurier.at/politik/inland/corona-impfstoff-ueberall-in-der-eu-ist-gleichzeitig-liefertag-und-impfstart/401139900"
     }, {
       "id" : "1pC3jdqc",
       "imgUrl" : "https://image.kurier.at/images/original/4842162/46-173551603.jpg",
@@ -26,44 +26,50 @@
       "titleTarget" : "Corona kazna za par: Ministarstvo zdravstva odbacuje odgovornost",
       "url" : "https://kurier.at/politik/inland/corona-strafe-fuer-paar-gesundheitsministerium-weist-verantwortung-von-sich/401140095"
     }, {
-      "id" : "JyyS0bRp",
-      "imgUrl" : "https://image.kurier.at/images/original/4312121/46-164583580.jpg",
-      "titleSource" : "Politikjahr 2020: Die besten Sager des Jahres",
-      "titleTarget" : "Za klikanje: Najbolji govornici Corone godine",
-      "url" : "https://kurier.at/politik/inland/zum-durchklicken-die-besten-corona-sager-des-jahres/401137878"
+      "id" : "i87dIEaR",
+      "imgUrl" : "https://image.kurier.at/images/original/4838877/46-163422026.jpg",
+      "titleSource" : "Innenpolitik: Die meistverkauften Geschichten des Jahres",
+      "titleTarget" : "Domaća politika: Najprodavanije priče godine",
+      "url" : "https://kurier.at/politik/inland/innenpolitik-die-meistverkauften-geschichten-des-jahres/401138220"
     }, {
       "id" : "q8gzkzgt",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "Diese Regeln gelten ab 26. Dezember",
       "titleTarget" : "Ta se pravila primjenjuju od 26. prosinca",
       "url" : "https://kurier.at/politik/inland/freitesten-vom-corona-lockdown-diese-regeln-gelten-ab-26-dezember-bis-mitte-jaenner/401083170"
-    }, {
-      "id" : "Xs1R10jb",
-      "imgUrl" : "https://image.kurier.at/images/original/4841649/46-170733008.jpg",
-      "titleSource" : "Pflege: Wöginger rechnet mit Reform-Zwischenbericht Ende Jänner",
-      "titleTarget" : "Njega: Wöginger očekuje privremeno izvješće o reformama krajem siječnja",
-      "url" : "https://kurier.at/politik/inland/pflege-woeginger-rechnet-mit-reform-zwischenbericht-ende-jaenner/401139780"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "iCG35T7b",
-      "imgUrl" : "https://image.kurier.at/images/original/4841718/46-76631390.jpg",
-      "titleSource" : "China wird stärker: Wie sich die Rangliste der Wirtschaftsmächte ändert",
-      "titleTarget" : "Kina jača: Kako se mijenja poredak ekonomskih sila",
-      "url" : "https://kurier.at/wirtschaft/china-staerker-als-erwartet-wie-sich-die-rangliste-der-wirtschaftsmaechte-aendert/401139837"
-    }, {
-      "id" : "MNG6qbis",
-      "imgUrl" : "https://image.kurier.at/images/original/4835580/46-173437087.jpg",
-      "titleSource" : "Die Magie des Räucherns",
-      "titleTarget" : "Čarolija pušenja",
-      "url" : "https://kurier.at/wirtschaft/immobiz/die-magie-des-raeucherns/401136531"
+      "id" : "InaPfRzz",
+      "imgUrl" : "https://image.kurier.at/images/original/4842288/46-144407588.jpg",
+      "titleSource" : "Lufthansa-Chef: Langstreckenflüge künftig wohl nur mit negativem Corona-Test",
+      "titleTarget" : "Šef Lufthanse: u budućnosti će letovi na velike daljine vjerojatno imati samo negativan test korone",
+      "url" : "https://kurier.at/wirtschaft/lufthansa-chef-langstreckenfluege-kuenftig-wohl-nur-mit-negativem-corona-test/401140191"
     }, {
       "id" : "iro0ShjT",
       "imgUrl" : "https://image.kurier.at/images/original/4824777/78370011358005610_BLD_Online.jpg",
       "titleSource" : "Bitcoin steigt erstmals über 25.000 US-Dollar",
       "titleTarget" : "Bitcoin se po prvi put diže iznad 25.000 dolara",
       "url" : "https://kurier.at/wirtschaft/bitcoin-steigt-erstmals-ueber-25000-us-dollar/401140014"
+    }, {
+      "id" : "ANrnWktU",
+      "imgUrl" : "https://image.kurier.at/images/original/4838772/46-173634205.jpg",
+      "titleSource" : "Richtig Ausmalen in den eigenen vier Wänden",
+      "titleTarget" : "Ispravno bojanje u svoja četiri zida",
+      "url" : "https://kurier.at/wirtschaft/immobiz/richtig-ausmalen-in-den-eigenen-vier-waenden/401138436"
+    }, {
+      "id" : "7FPRzVRl",
+      "imgUrl" : "https://image.kurier.at/images/original/4837614/46-173694865.jpg",
+      "titleSource" : "Die zehn meistgelesenen Wirtschafts-Geschichten in diesem Jahr",
+      "titleTarget" : "Deset najčitanijih poslovnih priča ove godine",
+      "url" : "https://kurier.at/wirtschaft/die-zehn-meistgelesenen-wirtschafts-geschichten-in-diesem-jahr/401137665"
+    }, {
+      "id" : "OGckrroH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/5/6/9/5916009/5141AD11-7429-4861-85D5-FB881256272F_v0_l.jpg",
+      "titleSource" : "Österreichs Wettbewerbsfähigkeit knapp hinter oberem EU-Drittel",
+      "titleTarget" : "Austrijska konkurentnost odmah iza gornje trećine EU",
+      "url" : "https://www.diepresse.com/5916009/Studie_Oesterreichs-Wettbewerbsfaehigkeit-knapp-hinter-oberem?from=rss"
     }, {
       "id" : "y6Ix3O1E",
       "imgUrl" : "https://media.diepresse.com/images/uploads/5/2/0/5915936/7D67B6F9-9E80-4939-B5E2-4722E2369E76_v0_h.jpg",
@@ -86,18 +92,6 @@
       "titleTarget" : "Neregistrirani demonstracijski program corona u Grazu s nekoliko stotina sudionika",
       "url" : "https://kurier.at/chronik/oesterreich/unangemeldete-corona-demo-in-graz-mit-mehreren-hundert-teilnehmern/401140038"
     }, {
-      "id" : "q2uZfDl5",
-      "imgUrl" : "https://image.kurier.at/images/original/4838988/20201223-ABD0028-1-1.jpg",
-      "titleSource" : "Erste Corona-Impfstoff-Lieferung gut in Wien angekommen",
-      "titleTarget" : "Prva isporuka cjepiva protiv korone sigurno je stigla u Beč",
-      "url" : "https://kurier.at/chronik/oesterreich/erste-corona-impfstoff-lieferung-gut-in-wien-angekommen/401139849"
-    }, {
-      "id" : "4I5eIVkY",
-      "imgUrl" : "https://image.kurier.at/images/original/4765665/46-168945339.jpg",
-      "titleSource" : "Neue Regeln, viele Fragen: Das gilt ab 26. Dezember",
-      "titleTarget" : "Nova pravila, puno pitanja: ovo će se primjenjivati od 26. prosinca",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-nummer-drei-das-gilt-ab-26-dezember/401139783"
-    }, {
       "id" : "rxKPQKv3",
       "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
       "titleSource" : "Corona-Strafe für Paar: Kaiser rügt Bund für \"realitätsferne Regel\"",
@@ -115,15 +109,32 @@
       "titleSource" : "Warten bei minus 74 Grad: Impfstoff in Österreich bereits eingetroffen",
       "titleTarget" : "Čeka se na minus 74 stupnja: cjepivo je već stiglo u Austriju",
       "url" : "https://kurier.at/chronik/oesterreich/impfstoff-in-oesterreich-bereits-eingetroffen-hier-wird-er-bis-morgen-verwahrt/401140026"
+    }, {
+      "id" : "LDIq521C",
+      "titleSource" : "Gemeinde sperrt Semmering für Rodler",
+      "titleTarget" : "Općina zatvara Semmering za sankare",
+      "url" : "https://noe.orf.at/stories/3082486/"
+    }, {
+      "id" : "F39le1ih",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/37/08/crops/w=1280/681563_opener_235308_gullideckel-3987120_1920.jpg?s=f0d4c9916597e6f2706f2664285fb78b7efa72ca",
+      "titleSource" : "Abwässer zeigen steigende CoV-Zahlen früher",
+      "titleTarget" : "Otpadne vode pokazuju porast broja CoV ranije",
+      "url" : "https://vorarlberg.orf.at/stories/3082419/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "KS18oa1I",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
-      "titleSource" : "Musiksalon Nr. 41: Der königliche Leierkasten",
-      "titleTarget" : "Glazbeni salon br. 41: Kraljevske orgulje",
-      "url" : "https://www.diepresse.com/5915108/Podcast_Musiksalon-Nr-41_Der-koenigliche-Leierkasten?from=rss"
+      "id" : "LHxYcMzq",
+      "imgUrl" : "https://image.kurier.at/images/original/4842435/46-166580950.jpg",
+      "titleSource" : "Kultur-Events: 2020 Jahr der Absagen, 2021 Jahr der Fragezeichen",
+      "titleTarget" : "Kulturni događaji: 2020. godina otkazivanja, 2021. godina upitnika",
+      "url" : "https://kurier.at/kultur/kultur-events-2020-jahr-der-absagen-2021-jahr-der-fragezeichen/401140254"
+    }, {
+      "id" : "hofsdJ3Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4842402/tony_rice.jpg",
+      "titleSource" : "Bluegrass-Legende Tony Rice starb mit 69 Jahren",
+      "titleTarget" : "Legenda Bluegrassa Tony Rice umro je u 69. godini",
+      "url" : "https://kurier.at/kultur/bluegrass-legende-tony-rice-starb-mit-69-jahren/401140236"
     } ]
   }, {
     "category" : "HEALTH",
@@ -131,42 +142,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "oRkx78UT",
-      "imgUrl" : "https://image.kurier.at/images/original/4842060/46-167273083.jpg",
-      "titleSource" : "Die 100 schrägsten Sportgeschichten des Jahres 2020",
-      "titleTarget" : "100 najčudnijih sportskih priča 2020",
-      "url" : "https://kurier.at/sport/die-100-schraegsten-sportgeschichten-des-jahres-2020/401139732"
+      "id" : "g1GzZcUX",
+      "imgUrl" : "https://image.kurier.at/images/original/4841844/46-173728847.jpg",
+      "titleSource" : "644 Flaschen Bier für die Torhüter der 644-Messi-Tore",
+      "titleTarget" : "644 boce piva za vratare 644 Messija",
+      "url" : "https://kurier.at/sport/fussball/644-flaschen-bier-von-budweiser-fuer-die-torhueter-der-644-tore-von-lionel-messi/401139918"
     }, {
-      "id" : "Zaye3Cxm",
-      "titleSource" : "Walkner startet in siebente Dakar",
-      "titleTarget" : "Walkner starta u sedmom Dakaru",
-      "url" : "https://sport.orf.at/stories/3070695/"
+      "id" : "yspN5OKp",
+      "titleSource" : "Vereinsloser Grabner wartet bis NHL-Saisonstart",
+      "titleTarget" : "Nesposobni Grabner čeka do početka NHL sezone",
+      "url" : "https://sport.orf.at/stories/3071137/"
     }, {
-      "id" : "CEbd77Fy",
-      "imgUrl" : "https://image.kurier.at/images/original/4841721/46-151033984.jpg",
-      "titleSource" : "Eine Olympiasiegerin sorgt sich um den österreichischen Sport",
-      "titleTarget" : "Olimpijski prvak brine o austrijskom sportu",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-olympiasiegerin-dorfmeister-sorgt-sich-um-den-oesterreichischen-sport/401139846"
+      "id" : "Sn73ly3g",
+      "imgUrl" : "https://image.kurier.at/images/original/4842294/46-173551086.jpg",
+      "titleSource" : "Shiffrin vor den Österreich-Rennen: \"Es ist nichts wie früher\"",
+      "titleTarget" : "Shiffrin prije austrijskih utrka: \"Nije ništa kao nekada\"",
+      "url" : "https://kurier.at/sport/wintersport/mikaela-shiffrin-vor-den-oesterreich-rennen-es-ist-nichts-wie-frueher/401140206"
     }, {
-      "id" : "GTnoIkfs",
-      "titleSource" : "Buccaneers erstmals seit 2007 im NFL-Play-off",
-      "titleTarget" : "Buccaneeri u doigravanju NFL-a prvi put nakon 2007. godine",
-      "url" : "https://sport.orf.at/stories/3071131/"
+      "id" : "V2UTWMhy",
+      "imgUrl" : "https://image.kurier.at/images/original/4842318/20201226_183696.jpg",
+      "titleSource" : "Eishockey: Die USA überrollten Österreich bei der U20-WM",
+      "titleTarget" : "Hokej na ledu: SAD su pregazile Austriju na U20 Svjetskom kupu",
+      "url" : "https://kurier.at/sport/wintersport/eishockey-die-usa-ueberrollten-oesterreich-bei-der-u20-wm/401140188"
     }, {
-      "id" : "lZCV0GzZ",
-      "titleSource" : "Kowaltschuk kehrt wieder in KHL zurück",
-      "titleTarget" : "Kovalchuk se vraća u KHL",
-      "url" : "https://sport.orf.at/stories/3071130/"
+      "id" : "6S2p9rlY",
+      "imgUrl" : "https://image.kurier.at/images/original/4842291/46-173770362.jpg",
+      "titleSource" : "Jakob Pöltl schlug mit San Antonio seinen Ex-Klub Toronto",
+      "titleTarget" : "Jakob Pöltl pobijedio je svoj bivši klub Toronto sa San Antoniom",
+      "url" : "https://kurier.at/sport/jakob-poeltl-schlug-mit-san-antonio-seinen-ex-klub-toronto/401140200"
     }, {
-      "id" : "CLlVy4Os",
-      "titleSource" : "Thiem erreicht „ein Lebensziel“",
-      "titleTarget" : "Thiem postiže \"životni cilj\"",
-      "url" : "https://sport.orf.at/stories/3071129/"
+      "id" : "8zUBveZN",
+      "titleSource" : "Österreich startet mit Debakel in U20-WM",
+      "titleTarget" : "Austrija započinje debaklom na U20 Svjetskom kupu",
+      "url" : "https://sport.orf.at/stories/3071133/"
     }, {
-      "id" : "K10wJx2e",
-      "titleSource" : "Hamilton stellt Schumacher-Rekord ein",
-      "titleTarget" : "Hamilton postavlja Schumacherov rekord",
-      "url" : "https://sport.orf.at/stories/3070733/"
+      "id" : "AAMflh4t",
+      "titleSource" : "Pöltl feiert Sieg mit San Antonio über Ex-Club Toronto",
+      "titleTarget" : "Pöltl slavi pobjedu sa San Antoniom nad bivšim klubom Torontom",
+      "url" : "https://sport.orf.at/stories/3071132/"
     } ]
   } ],
   "country" : "austria",
