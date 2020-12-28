@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "Cky3o4mN",
-      "imgUrl" : "https://image.kurier.at/images/original/4842720/46-173771608.jpg",
-      "titleSource" : "Impfstart in Österreich: \"Hat's weh getan?\"",
-      "titleTarget" : "Početak cijepljenja u Austriji: prvi visoko rizični pacijenti cijepljeni protiv korone - ukratko: \"Povijesni dan\"",
-      "url" : "https://kurier.at/politik/inland/corona-groesste-impfaktion-in-oesterreichs-geschichte-startet-am-sonntag/401140164"
-    }, {
       "id" : "ypctKiAf",
       "imgUrl" : "https://image.kurier.at/images/original/4843047/46-173773530.jpg",
       "titleSource" : "Covid-Impfstart in Österreich: \"Der Anfang vom Sieg gegen die Pandemie\"",
@@ -20,62 +14,80 @@
       "titleTarget" : "Početak cijepljenja protiv korone: Hick-Hack i apel za cijepljenje u domaćoj politici",
       "url" : "https://kurier.at/politik/inland/corona-impfstart-hick-hack-und-impf-appell-in-der-innenpolitik/401140365"
     }, {
-      "id" : "i87dIEaR",
-      "imgUrl" : "https://image.kurier.at/images/original/4838877/46-163422026.jpg",
-      "titleSource" : "Innenpolitik: Die meistverkauften Geschichten des Jahres",
-      "titleTarget" : "Domaća politika: Najprodavanije priče godine",
-      "url" : "https://kurier.at/politik/inland/innenpolitik-die-meistverkauften-geschichten-des-jahres/401138220"
-    }, {
       "id" : "iwfwXVuy",
       "imgUrl" : "https://image.kurier.at/images/original/4594133/20200824-ABD0104-1-1.jpg",
       "titleSource" : "„Nur Symbolik“: Kärnten beginnt erst im Jänner zu impfen",
       "titleTarget" : "\"Samo simbolika\": Koruška cijepljenje započinje tek u siječnju",
       "url" : "https://kurier.at/politik/inland/nur-symbolik-kaernten-beginnt-erst-im-jaenner-zu-impfen/401140527"
+    }, {
+      "id" : "1AXBjK3N",
+      "imgUrl" : "https://image.kurier.at/images/original/4824387/20201216-ABD0035-1-1.jpg",
+      "titleSource" : "Nehammer warnt vor erstarkten Rechtsextremen",
+      "titleTarget" : "Nehammer upozorava na ojačane desničarske ekstremiste",
+      "url" : "https://kurier.at/politik/inland/nehammer-warnt-vor-erstarkten-rechtsextremen/401140767"
+    }, {
+      "id" : "90HqWxvu",
+      "imgUrl" : "https://image.kurier.at/images/original/1821448/46-52763341.jpg",
+      "titleSource" : "Dornauer will SPÖ-Präsidentschaftskandidatur 2022 und pusht Bures",
+      "titleTarget" : "Dornauer želi SPÖ predsjedničku kandidaturu 2022. godine i gura Buresa",
+      "url" : "https://kurier.at/politik/inland/dornauer-will-spoe-praesidentschaftskandidatur-2022-und-pusht-bures/401140812"
+    }, {
+      "id" : "BLTHEcOd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/6/a/5916266/A6E32446-C3F2-4C19-A701-0246A129A53A_v0_l.jpg",
+      "titleSource" : "Corona-Impfung: \"Wir brauchen die Hoffnung, aber auch Geduld\"",
+      "titleTarget" : "Cijepljenje koronom: \"Trebamo nadu, ali i strpljenje\"",
+      "url" : "https://www.diepresse.com/5916266/Pandemie_CoronaImpfung_Wir-brauchen-die-Hoffnung-aber-auch-Geduld?from=rss"
+    }, {
+      "id" : "KINQdxiV",
+      "imgUrl" : "https://image.kurier.at/images/original/4842357/20201227-ABD0008-1-1.jpg",
+      "titleSource" : "Flächendeckende Impfungen ab 12. Jänner in Alten- und Pflegeheimen",
+      "titleTarget" : "Cijepljenje širom zemlje od 12. siječnja u staračkim domovima i staračkim domovima",
+      "url" : "https://kurier.at/politik/inland/impfdosen-so-funktioniert-die-bestellung-und-verteilung-via-e-shop/401140710"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "InaPfRzz",
-      "imgUrl" : "https://image.kurier.at/images/original/4842288/46-144407588.jpg",
-      "titleSource" : "Lufthansa-Chef: Langstreckenflüge künftig wohl nur mit negativem Corona-Test",
-      "titleTarget" : "Šef Lufthanse: u budućnosti će letovi na velike daljine vjerojatno imati samo negativan test korone",
-      "url" : "https://kurier.at/wirtschaft/lufthansa-chef-langstreckenfluege-kuenftig-wohl-nur-mit-negativem-corona-test/401140191"
-    }, {
       "id" : "MjPvtDUS",
       "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
       "titleSource" : "Hilfe für Zulieferbetriebe: Voraussetzung sind 50 % Umsatzbindung",
       "titleTarget" : "Pomoć za dobavljače: preduvjet je obveza od 50% prometa",
       "url" : "https://kurier.at/wirtschaft/hilfe-fuer-zulieferbetriebe-voraussetzung-sind-50-umsatzbindung/401140368"
     }, {
+      "id" : "Hw7qX4JP",
+      "imgUrl" : "https://image.kurier.at/images/original/4842780/46-173587504.jpg",
+      "titleSource" : "EU und China nähern sich einem Investitionsabkommen",
+      "titleTarget" : "EU i Kina se približavaju investicijskom dogovoru",
+      "url" : "https://kurier.at/wirtschaft/eu-und-china-naehern-sich-einem-investitionsabkommen/401140407"
+    }, {
+      "id" : "FfaIUE95",
+      "imgUrl" : "https://image.kurier.at/images/original/4799550/46-148342990.jpg",
+      "titleSource" : "Japans Industrie stagnierte im Dezember",
+      "titleTarget" : "Japanska industrija stagnirala je u prosincu",
+      "url" : "https://kurier.at/wirtschaft/japans-industrie-stagnierte-im-dezember/401140797"
+    }, {
+      "id" : "FNDtdacf",
+      "imgUrl" : "https://image.kurier.at/images/original/4824777/78370011358005610_BLD_Online.jpg",
+      "titleSource" : "Bitcoin nimmt Kurs auf 30.000er-Marke",
+      "titleTarget" : "Bitcoin se penje na granicu od 30 000",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-nimmt-kurs-auf-30000er-marke/401140785"
+    }, {
+      "id" : "91Utma8a",
+      "imgUrl" : "https://image.kurier.at/images/original/4837260/46-170863539.jpg",
+      "titleSource" : "Interview: Vom Spaßfaktor zur Funktion",
+      "titleTarget" : "Intervju: od faktora zabave do funkcije",
+      "url" : "https://kurier.at/wirtschaft/immobiz/interview-vom-spassfaktor-zur-funktion/401137548"
+    }, {
+      "id" : "AW0o6aXS",
+      "imgUrl" : "https://image.kurier.at/images/original/4843587/46-173590559.jpg",
+      "titleSource" : "Österreichs prominenteste Skandalfälle des Jahres",
+      "titleTarget" : "Najistaknutiji austrijski slučajevi skandala godine",
+      "url" : "https://kurier.at/wirtschaft/oesterreichs-prominenteste-skandalfaelle-des-jahres/401140443"
+    }, {
       "id" : "RENDI7ZB",
       "imgUrl" : "https://image.kurier.at/images/original/3669302/78370011349810308_BLD_Online.jpg",
       "titleSource" : "Wifo: Österreichs Wettbewerbsfähigkeit knapp hinter oberem EU-Drittel",
       "titleTarget" : "Wifo: Austrijska konkurentnost odmah iza gornje trećine EU",
       "url" : "https://kurier.at/wirtschaft/wifo-oesterreichs-wettbewerbsfaehigkeit-knapp-hinter-oberem-eu-drittel/401140392"
-    }, {
-      "id" : "n51FwhKG",
-      "imgUrl" : "https://image.kurier.at/images/original/4842708/46-85705533.jpg",
-      "titleSource" : "Lockdowns bescherten Motorsägen-Hersteller Stihl Rekordergebnis",
-      "titleTarget" : "Lockdowns je proizvođaču motornih pila Stihl donio rekordne rezultate",
-      "url" : "https://kurier.at/wirtschaft/lockdowns-bescherten-motorsaegen-hersteller-stihl-rekordergebnis/401140377"
-    }, {
-      "id" : "ANrnWktU",
-      "imgUrl" : "https://image.kurier.at/images/original/4838772/46-173634205.jpg",
-      "titleSource" : "Richtig Ausmalen in den eigenen vier Wänden",
-      "titleTarget" : "Ispravno bojanje u svoja četiri zida",
-      "url" : "https://kurier.at/wirtschaft/immobiz/richtig-ausmalen-in-den-eigenen-vier-waenden/401138436"
-    }, {
-      "id" : "7FPRzVRl",
-      "imgUrl" : "https://image.kurier.at/images/original/4837614/46-173694865.jpg",
-      "titleSource" : "Die zehn meistgelesenen Wirtschafts-Geschichten in diesem Jahr",
-      "titleTarget" : "Deset najčitanijih poslovnih priča ove godine",
-      "url" : "https://kurier.at/wirtschaft/die-zehn-meistgelesenen-wirtschafts-geschichten-in-diesem-jahr/401137665"
-    }, {
-      "id" : "Wv6MWWAH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/e/5/5916133/648D2E08-37F9-4561-972E-A27B4673087A_v0_h.jpg",
-      "titleSource" : "Saisonbeginn im Corona-Jahr: Wenn Skifahren zum knappen Gut wird",
-      "titleTarget" : "Početak sezone u Coroninoj godini: Kada skijanje postaje oskudan resurs",
-      "url" : "https://www.diepresse.com/5916133/Tourismus_Saisonbeginn-im-CoronaJahr_Wenn-Skifahren-zum-knappen?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -92,62 +104,78 @@
       "titleTarget" : "Odbjegli klokan kod kuće",
       "url" : "https://burgenland.orf.at/stories/3082562/"
     }, {
-      "id" : "LbGhCwAX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/61/crops/w=1280/796720_opener_277561_img_20201227_135325.jpg?s=c36014f5a0ab8af7e56ef44a3c2a3f27072f87bc",
-      "titleSource" : "Erste Heimbewohnerinnen in St. Pölten geimpft",
-      "titleTarget" : "Prvi stanovnici St. Pöltena cijepljeni su",
-      "url" : "https://noe.orf.at/stories/3082529/"
-    }, {
       "id" : "GYnajsos",
       "imgUrl" : "https://image.kurier.at/images/original/4842132/sdfasdfasdf.jpg",
       "titleSource" : "Dritter Lockdown begann mit Partynächten und Demos",
       "titleTarget" : "Treće zaključavanje započelo je party noćima i demonstracijama",
       "url" : "https://kurier.at/chronik/oesterreich/dritter-lockdown-begann-mit-partynaechten-und-demos/401140545"
     }, {
-      "id" : "Nu8lQ6EH",
-      "imgUrl" : "https://image.kurier.at/images/original/4842882/46-173725064.jpg",
-      "titleSource" : "Hunderte Briten verschwanden über Nacht aus Schweizer Quarantäne; Corona-Partys aufgelöst",
-      "titleTarget" : "Stotine Britanaca nestalo je iz švicarske karantene preko noći; 1.408 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-oesterreich-impft-ab-heute-demo-in-graz-mit-1000-teilnehmern/401140167"
+      "id" : "APQZkhdC",
+      "imgUrl" : "https://image.kurier.at/images/original/4843227/46-168936030.jpg",
+      "titleSource" : "Polizei will Freitests nur in Ausnahmefällen kontrollieren",
+      "titleTarget" : "Policija samo u iznimnim slučajevima želi kontrolirati besplatne testove",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-polizei-will-nur-in-ausnahmen-in-geschaeften-kontrollieren/401140695"
     }, {
-      "id" : "27ucRL3h",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: 1.408 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: 1.408 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-1408-neuinfektionen-in-oesterreich/401140170"
+      "id" : "2M2uACR9",
+      "titleSource" : "Weiter Aufregung um CoV-Strafen",
+      "titleTarget" : "Daljnje uzbuđenje zbog kazni CoV",
+      "url" : "https://kaernten.orf.at/stories/3082567/"
     }, {
       "id" : "BE1Gw4gg",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/02/crops/w=1280/796544_opener_277502_apawintereinbruch_in_tirol_bezirk_lienz_.jpg?s=e5c0e6b39d8deb5bcc59b784692f44738078d9db",
       "titleSource" : "Große Waldschäden durch Schnee in Osttirol",
       "titleTarget" : "Velika šteta u šumama od snijega u Istočnom Tirolu",
       "url" : "https://tirol.orf.at/stories/3082538/"
+    }, {
+      "id" : "oOYaLoQv",
+      "imgUrl" : "https://image.kurier.at/images/original/4843170/46-173748722.jpg",
+      "titleSource" : "Corona hat Österreichern die Zuversicht genommen",
+      "titleTarget" : "Corona je uzela povjerenje Austrijanaca",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-hat-oesterreichern-die-zuversicht-genommen/401140659"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "ftXZbh8D",
+      "imgUrl" : "https://image.kurier.at/images/original/4742781/46-168680705.jpg",
+      "titleSource" : "ZDF-Intendant: \"Böhmermann hat meine Nerven gelegentlich strapaziert\"",
+      "titleTarget" : "Ravnatelj ZDF-a: \"Böhmermann mi je povremeno naprezao živce\"",
+      "url" : "https://kurier.at/kultur/medien/zdf-intendant-boehmermann-hat-meine-nerven-gelegentlich-strapaziert/401140830"
+    }, {
+      "id" : "4OGXPe8L",
+      "imgUrl" : "https://image.kurier.at/images/original/4805352/rev-1-ww84-16249r_high_res_jpeg.jpeg",
+      "titleSource" : "Nach Premiere von \"Wonder Woman 1984\" schon Teil 3 angekündigt",
+      "titleTarget" : "Dio 3 najavljen nakon premijere filma \"Čudesna žena 1984\"",
+      "url" : "https://kurier.at/kultur/nach-premiere-von-wonder-woman-1984-schon-teil-3-angekuendigt/401140737"
+    }, {
       "id" : "oQQp68Cg",
       "imgUrl" : "https://image.kurier.at/images/original/4842663/46-173752047.jpg",
       "titleSource" : "Stargeiger Ivry Gitlis verstorben",
       "titleTarget" : "Preminuo je zvjezdani violinist Ivry Gitlis",
       "url" : "https://kurier.at/kultur/stargeiger-ivry-gitlis-verstorben/401140389"
     }, {
-      "id" : "LHxYcMzq",
-      "imgUrl" : "https://image.kurier.at/images/original/4842435/46-166580950.jpg",
-      "titleSource" : "Kultur-Events: 2020 Jahr der Absagen, 2021 Jahr der Fragezeichen",
-      "titleTarget" : "Kulturni događaji: 2020. godina otkazivanja, 2021. godina upitnika",
-      "url" : "https://kurier.at/kultur/kultur-events-2020-jahr-der-absagen-2021-jahr-der-fragezeichen/401140254"
+      "id" : "8gNcn6jM",
+      "imgUrl" : "https://image.kurier.at/images/original/4839117/20201223-ABD0036-1-1.jpg",
+      "titleSource" : "Coronahilfen: Unterstützungszahlungen für Künstler verlängert",
+      "titleTarget" : "Pomoć Corone: produžena plaćanja za umjetnike",
+      "url" : "https://kurier.at/kultur/coronahilfen-unterstuetzungszahlungen-fuer-kuenstler-verlaengert/401140980"
     }, {
-      "id" : "hofsdJ3Q",
-      "imgUrl" : "https://image.kurier.at/images/original/4842402/tony_rice.jpg",
-      "titleSource" : "Bluegrass-Legende Tony Rice starb mit 69 Jahren",
-      "titleTarget" : "Legenda Bluegrassa Tony Rice umro je u 69. godini",
-      "url" : "https://kurier.at/kultur/bluegrass-legende-tony-rice-starb-mit-69-jahren/401140236"
+      "id" : "UxiAgr6h",
+      "titleSource" : "Coronahilfen für Künstler verlängert",
+      "titleTarget" : "Proširena pomoć za umjetnike u Coroni",
+      "url" : "https://www.diepresse.com/5916280/Kulturlockdown_Coronahilfen-fuer-Kuenstler-verlaengert?from=rss"
     }, {
-      "id" : "y1g7T7LD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/c/c/5916108/constantin_ent-300923_S1-Full-Image_GalleryBackground-de-DE-1608116866405._RI__1609080720532913.jpg",
-      "titleSource" : "Ein Jahr im Inneren der Bild",
-      "titleTarget" : "Godina dana unutar slike",
-      "url" : "https://www.diepresse.com/5916108/Dokumentation_Ein-Jahr-im-Inneren-der-Bild?from=rss"
+      "id" : "4qP8hHLL",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/6/7/5916263/9E605CE1-FDC3-43E8-AFAB-39E0C30AE4A4_v0_l.jpg",
+      "titleSource" : "ZDF-Intendant: \"Böhmermann hat meine Nerven strapaziert\"",
+      "titleTarget" : "Ravnatelj ZDF-a: \"Böhmermann mi je naprezao živce\"",
+      "url" : "https://www.diepresse.com/5916263/Fernsehen_ZDFIntendant_Boehmermann-hat-meine-Nerven-strapaziert?from=rss"
+    }, {
+      "id" : "BypldZPh",
+      "imgUrl" : "https://image.kurier.at/images/original/4843239/46-163679427.jpg",
+      "titleSource" : "Ein chaotisches Jahr für die Kultur: Der Jahresrückblick 2020",
+      "titleTarget" : "Kaotična godina za kulturu: godišnja smotra 2020",
+      "url" : "https://kurier.at/kultur/ein-chaotisches-jahr-fuer-die-kultur-der-jahresrueckblick-2020/401140623"
     } ]
   }, {
     "category" : "HEALTH",
@@ -155,29 +183,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "DKdyGv6n",
-      "titleSource" : "Dorfmeister sorgt sich um Rennsport",
-      "titleTarget" : "Dorfmeister se brine zbog utrka",
-      "url" : "https://sport.orf.at/stories/3071112/"
-    }, {
-      "id" : "tTaXEuWg",
-      "imgUrl" : "https://image.kurier.at/images/original/4842540/46-173666386.jpg",
-      "titleSource" : "Lewandowski ist Europas Sportler des Jahres, Thiem nicht in Top 10",
-      "titleTarget" : "Lewandowski je europski sportaš godine, Thiem nije među prvih 10",
-      "url" : "https://kurier.at/sport/robert-lewandowski-ist-europas-sportler-des-jahres-dominic-thiem-nicht-in-top-10/401140275"
-    }, {
-      "id" : "l6rjZjyU",
-      "imgUrl" : "https://image.kurier.at/images/original/4842495/46-173728518.jpg",
-      "titleSource" : "Lionel Messi sehnt sich nach Anonymität und lobt zwei Trainer",
-      "titleTarget" : "Lionel Messi čezne za anonimnošću i hvali dvojicu trenera",
-      "url" : "https://kurier.at/sport/fussball/lionel-messi-sehnt-sich-nach-anonymitaet-und-lobt-zwei-trainer/401140257"
-    }, {
-      "id" : "Sn73ly3g",
-      "imgUrl" : "https://image.kurier.at/images/original/4842294/46-173551086.jpg",
-      "titleSource" : "Shiffrin vor den Österreich-Rennen: \"Es ist nichts wie früher\"",
-      "titleTarget" : "Shiffrin prije austrijskih utrka: \"Nije ništa kao nekada\"",
-      "url" : "https://kurier.at/sport/wintersport/mikaela-shiffrin-vor-den-oesterreich-rennen-es-ist-nichts-wie-frueher/401140206"
-    }, {
       "id" : "s6yrs7Kx",
       "titleSource" : "Schwere Verletzung stoppt Schild erneut",
       "titleTarget" : "Ozbiljna ozljeda ponovno zaustavlja štit",
@@ -188,11 +193,31 @@
       "titleTarget" : "Dadić i Weißhaidinger sportaši godine",
       "url" : "https://sport.orf.at/stories/3071149/"
     }, {
+      "id" : "3HlB7ARQ",
+      "titleSource" : "Trendumkehr soll in Bormio gelingen",
+      "titleTarget" : "Preokret trenda trebao bi uspjeti u Bormiu",
+      "url" : "https://sport.orf.at/stories/3071139/"
+    }, {
       "id" : "0IOoEV20",
       "imgUrl" : "https://image.kurier.at/images/original/4843014/46-169035018.jpg",
       "titleSource" : "ÖSV-Ass Bernadette Schild erneut schwer verletzt",
       "titleTarget" : "As ÖSV Bernadette Schild ponovno je teško ozlijeđena",
       "url" : "https://kurier.at/sport/wintersport/ski-alpin-erneuter-kreuzbandriss-bei-oesv-ass-bernadette-schild/401140530"
+    }, {
+      "id" : "c2johXoz",
+      "titleSource" : "Schweizer Trainer soll Schalke retten",
+      "titleTarget" : "Švicarski trener trebao bi spasiti Schalke",
+      "url" : "https://sport.orf.at/stories/3071145/"
+    }, {
+      "id" : "VEwXsUez",
+      "titleSource" : "Längere Weihnachtspause für angeschlagenen Messi",
+      "titleTarget" : "Duža božićna stanka za bolesnog Messija",
+      "url" : "https://sport.orf.at/stories/3071143/"
+    }, {
+      "id" : "NCcATCuC",
+      "titleSource" : "Zweite Knie-OP bei Schmidhofer planmäßig verlaufen",
+      "titleTarget" : "Druga operacija koljena u Schmidhoferu protekla je prema planu",
+      "url" : "https://sport.orf.at/stories/3071167/"
     } ]
   } ],
   "country" : "austria",
