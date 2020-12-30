@@ -2,29 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "ozPZ8cKA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/5/f/5916767/804A5E5D-7CAC-4203-A7D0-CCF860D64DE6_v0_l.jpg",
-      "titleSource" : "Anschober will Regeln für \"Freitesten\" Anfang Jänner verkünden",
-      "titleTarget" : "Anschober želi objaviti pravila za \"slobode\" početkom siječnja",
-      "url" : "https://www.diepresse.com/5916767/Planung_Anschober-will-Regeln-fuer-Freitesten-Anfang-Jaenner?from=rss"
-    }, {
       "id" : "QTQTuOVf",
       "imgUrl" : "https://image.kurier.at/images/original/4847223/46-173633800.jpg",
       "titleSource" : "Antigentest als Knackpunkt: Freitesten verfassungsrechtlich bedenklich",
       "titleTarget" : "Antigenski test kao suština: Besplatno ispitivanje ustavno je upitno",
       "url" : "https://kurier.at/politik/inland/antigentest-als-knackpunkt-freitesten-verfassungsrechtlich-bedenklich/401142843"
     }, {
-      "id" : "dhBMOPrJ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/e/5916782/40D22267-E400-4798-9B00-B1C3E28EB0EF_v0_l.jpg",
-      "titleSource" : "Kogler: \"Möglicherweise wird Mehrheit in ÖVP bald anders ausschauen\"",
-      "titleTarget" : "Kogler: \"Većina u ÖVP-u uskoro može izgledati drugačije\"",
-      "url" : "https://www.diepresse.com/5916782/Fluechtlinge_Kogler_Moeglicherweise-wird-Mehrheit-in-OeVP-bald?from=rss"
+      "id" : "7diOjLU1",
+      "imgUrl" : "https://image.kurier.at/images/original/4795995/20201202-ABD0105-1-1.jpg",
+      "titleSource" : "Corona: Massentests in Bezirken mit zu hoher Inzidenz geplant",
+      "titleTarget" : "Corona: masovna ispitivanja planirana u okruzima s previsokom učestalošću",
+      "url" : "https://kurier.at/politik/inland/corona-massentests-in-bezirken-mit-zu-hoher-inzidenz-geplant/401143449"
     }, {
-      "id" : "kX0DDC96",
-      "imgUrl" : "https://image.kurier.at/images/original/4846383/46-173752293.jpg",
-      "titleSource" : "Stau bei Skiliften: Regierung schärft mit Erlass nach",
-      "titleTarget" : "Zastoj na žičarama: vlada se pojačava uredbom",
-      "url" : "https://kurier.at/politik/inland/stau-bei-skiliften-regierung-schaerft-mit-erlass-nach/401142528"
+      "id" : "Cyw645WF",
+      "imgUrl" : "https://image.kurier.at/images/original/4842405/20201227-ABD0014-1-1.jpg",
+      "titleSource" : "Großflächige Impfungen ab 12. Jänner: Bisher 6.000 Personen geimpft",
+      "titleTarget" : "Cijepljenje velikih razmjera od 12. siječnja: Do sada je cijepljeno 6000 ljudi",
+      "url" : "https://kurier.at/politik/inland/grossflaechige-impfungen-ab-12-jaenner-bisher-6000-personen-geimpft/401143398"
     }, {
       "id" : "H23oE0Up",
       "imgUrl" : "https://image.kurier.at/images/original/4847061/46-173805877.jpg",
@@ -32,17 +26,23 @@
       "titleTarget" : "Rendi-Wagner neodlučan: \"Ne znam što savezna vlada planira\"",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-unentschlossen-weiss-nicht-was-die-bundesregierung-plant/401142717"
     }, {
-      "id" : "sKORBaHM",
-      "imgUrl" : "https://image.kurier.at/images/original/4847193/46-173715420.jpg",
-      "titleSource" : "Familienhärtefonds wird auf Landwirte ausgeweitet",
-      "titleTarget" : "Fond za obiteljske teškoće proširit će se na poljoprivrednike",
-      "url" : "https://kurier.at/politik/inland/familienhaertefonds-wird-auf-landwirte-ausgeweitet/401142798"
-    }, {
       "id" : "AsnkrpXk",
       "imgUrl" : "https://image.kurier.at/images/original/4090116/20200128-ABD0194-1-1.jpg",
       "titleSource" : "VfGH: Filzmaiers \"Plemplem\"-Sager zu Stronach war doch zulässig",
       "titleTarget" : "VfGH: Filzmaierov \"Plemplem\" šalter zu Stronach bio je dopušten",
       "url" : "https://kurier.at/politik/inland/vfgh-filzmaiers-plemplem-sager-zu-stronach-war-doch-zulaessig/401143110"
+    }, {
+      "id" : "z6okjoqv",
+      "imgUrl" : "https://image.kurier.at/images/original/4847622/46-173344378.jpg",
+      "titleSource" : "Grüner Querschuss aus Tirol: Kogler nicht automatisch die \"Nummer eins\"",
+      "titleTarget" : "Zeleni centaršut iz Tirola: Kogler ne postaje automatski \"broj jedan\"",
+      "url" : "https://kurier.at/politik/inland/gruener-querschuss-aus-tirol-kogler-nicht-automatisch-die-nummer-eins/401143095"
+    }, {
+      "id" : "av0zk8SD",
+      "imgUrl" : "https://image.kurier.at/images/original/4848450/46-173823377.jpg",
+      "titleSource" : "Kroatien: 38 Erdbeben in 49 Stunden",
+      "titleTarget" : "Hrvatska: 38 potresa u 49 sati",
+      "url" : "https://kurier.at/politik/inland/kroatien-38-erdbeben-in-49-stunden/401143599"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,62 +53,66 @@
       "titleTarget" : "Beč će 2021. godine olakšati pristup malim općinskim stanovima",
       "url" : "https://www.diepresse.com/5917029/Wohnen_Wien-erleichtert-2021-Zugang-zu-kleinen-Gemeindewohnungen?from=rss"
     }, {
-      "id" : "a1D3hcSX",
-      "imgUrl" : "https://image.kurier.at/images/original/4091952/20200129-ABD0101-1-1.jpg",
-      "titleSource" : "Eurokurs steigt auf höchsten Stand seit 2018",
-      "titleTarget" : "Tečaj eura raste na najvišu razinu od 2018. godine",
-      "url" : "https://kurier.at/wirtschaft/eurokurs-steigt-auf-hoechsten-stand-seit-2018/401142855"
-    }, {
-      "id" : "W6LY8jzD",
-      "imgUrl" : "https://image.kurier.at/images/original/4809606/78370011357888040_BLD_Online.jpg",
-      "titleSource" : "Unglücksflieger Boeing 737 MAX startet Linienflug in den USA",
-      "titleTarget" : "Nesretni zrakoplov Boeing 737 MAX polijeće na redovnom letu u SAD-u",
-      "url" : "https://kurier.at/wirtschaft/ungluecksflieger-boeing-737-max-startet-linienflug-in-den-usa/401142327"
-    }, {
-      "id" : "3lS3q8rJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4845876/46-151322520.jpg",
-      "titleSource" : "OMV-Tochter Petrom verkauft Ölfelder in Kasachstan",
-      "titleTarget" : "Podružnica OMV-a Petrom prodaje naftna polja u Kazahstanu",
-      "url" : "https://kurier.at/wirtschaft/omv-tochter-petrom-verkauft-oelfelder-in-kasachstan/401142291"
-    }, {
-      "id" : "6h1QKP8B",
-      "imgUrl" : "https://image.kurier.at/images/original/2453387/46-101277300-2017-07-30t001500z_687845310_rc190055a090_rtrmadp_3_cyber-conference.jpg",
-      "titleSource" : "Finanzbetrüger schlagen zu: Heuer schon 600 Fälle gemeldet",
-      "titleTarget" : "Štrajkuju financijski prevaranti: 600 slučajeva već je prijavljeno ove godine",
-      "url" : "https://kurier.at/wirtschaft/finanzbetrueger-schlagen-zu-heuer-schon-600-faelle-gemeldet/401142153"
-    }, {
-      "id" : "Z3e10tiq",
-      "imgUrl" : "https://image.kurier.at/images/original/1880716/amazon_lagerhalle_epa.jpg",
-      "titleSource" : "Online-Handel treibt Nachfrage von Logistik-Immobilien",
-      "titleTarget" : "Internetsko trgovanje pokreće potražnju za logističkim nekretninama",
-      "url" : "https://kurier.at/wirtschaft/online-handel-treibt-nachfrage-von-logistik-immobilien/401143167"
-    }, {
       "id" : "rEmdsmp0",
       "imgUrl" : "https://image.kurier.at/images/original/518637/Haberleitner-000_KURIER%252B_gruber%252Bfranz.jpg",
       "titleSource" : "Ex-Dayli-Chef Haberleitner in Privatkonkurs",
       "titleTarget" : "Bivši šef Dayli Haberleitner u osobnom bankrotu",
       "url" : "https://kurier.at/wirtschaft/ex-dayli-chef-haberleitner-in-privatkonkurs/401143140"
+    }, {
+      "id" : "RgpuWsBk",
+      "imgUrl" : "https://image.kurier.at/images/original/4430564/78350011454803466_BLD_Online.jpg",
+      "titleSource" : "EU und China einigen sich auf Investitionsabkommen",
+      "titleTarget" : "EU i Kina dogovaraju se o ugovorima o ulaganju",
+      "url" : "https://kurier.at/wirtschaft/eu-und-china-einigen-sich-auf-investitionsabkommen/401143473"
+    }, {
+      "id" : "i44aW7X6",
+      "imgUrl" : "https://image.kurier.at/images/original/3671462/81690356749822868_BLD_Online.jpg",
+      "titleSource" : "Ankläger fordern neun Jahre Haft für Samsung-Erben wegen Korruption",
+      "titleTarget" : "Tužitelji zahtijevaju devet godina zatvora za nasljednike Samsunga zbog korupcije",
+      "url" : "https://kurier.at/wirtschaft/anklaeger-fordern-neun-jahre-haft-fuer-samsung-erben-wegen-korruption/401143626"
+    }, {
+      "id" : "BroVK5wk",
+      "imgUrl" : "https://image.kurier.at/images/original/4848402/78370011358192146_BLD_Online.jpg",
+      "titleSource" : "Das ist das teuerste Unternehmen der Welt",
+      "titleTarget" : "Ovo je najskuplja tvrtka na svijetu",
+      "url" : "https://kurier.at/wirtschaft/das-ist-das-teuerste-unternehmen-der-welt/401143578"
+    }, {
+      "id" : "aOL2ZpvT",
+      "imgUrl" : "https://image.kurier.at/images/original/2791025/78470026144221654_BLD_Online.jpg",
+      "titleSource" : "ATX mit Jahresminus von 12,8 Prozent",
+      "titleTarget" : "ATX s godišnjim minusom od 12,8 posto",
+      "url" : "https://kurier.at/wirtschaft/atx-mit-jahresminus-von-128-prozent/401143506"
+    }, {
+      "id" : "5p5DdMIs",
+      "imgUrl" : "https://image.kurier.at/images/original/4674730/78370011356768914_BLD_Online.jpg",
+      "titleSource" : "Goldpreis 2020 im Aufwärtstrend",
+      "titleTarget" : "Cijena zlata u 2020. u rastućem trendu",
+      "url" : "https://kurier.at/wirtschaft/goldpreis-2020-im-aufwaertstrend/401143464"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "CTf7DlZn",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/40/crops/w=1280/798816_opener_278240_feuerwerk_und_lockdown_201229_poechhacker_22706_00_09_27_13.jpg?s=2716412689e71d25e809b0247f1e1f9a5b9392b7",
-      "titleSource" : "Feuerwerk & Co: Was zu Silvester erlaubt ist",
-      "titleTarget" : "Vatromet i suradnja: Što je dozvoljeno na Silvestrovo",
-      "url" : "https://noe.orf.at/stories/3082842/"
+      "id" : "rdjuD3t7",
+      "titleSource" : "13 Kühe auf Bauernhof verendet",
+      "titleTarget" : "Na farmi je uginulo 13 krava",
+      "url" : "https://noe.orf.at/stories/3082919/"
     }, {
-      "id" : "U5yG7fPF",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/01/08/crops/w=1280/415762_opener_137008_feuerwerk2.jpg?s=5f38ed322507240bc7fe5f548816e7e2f17ed538",
-      "titleSource" : "Keine Erlaubnis für Feuerwerke zu Silvester",
-      "titleTarget" : "Nema dozvole za vatromet na Silvestrovo",
-      "url" : "https://ooe.orf.at/stories/3082839/"
+      "id" : "iGkc87wI",
+      "titleSource" : "141 Anzeigen nach Party in Simmering",
+      "titleTarget" : "141 oglas nakon zabave u Simmeringu",
+      "url" : "https://wien.orf.at/stories/3082913/"
     }, {
-      "id" : "ZmahsLCH",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/36/crops/w=1280/796892_opener_277636_img_20201227_120031_resized_20201227_062147514.jpg?s=9be46899b2fe8eb650880f03bc8d70b11a4b72e6",
-      "titleSource" : "Verlobungsspaziergang endete im Spital",
-      "titleTarget" : "Zaručnička šetnja završila je u bolnici",
-      "url" : "https://kaernten.orf.at/stories/3082833/"
+      "id" : "xARogQan",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/90/crops/w=1280/799140_opener_278390_20201227_132227.jpg?s=169d045c4a06c0fe9186b3f7eb0dd55d57dd0826",
+      "titleSource" : "Zagersdorf: Reh aus vereistem Teich gerettet",
+      "titleTarget" : "Zagersdorf: jelen spašen iz zaleđenog ribnjaka",
+      "url" : "https://burgenland.orf.at/stories/3082922/"
+    }, {
+      "id" : "GZZsfzxI",
+      "imgUrl" : "https://image.kurier.at/images/original/4847532/46-173717459.jpg",
+      "titleSource" : "Corona-Infizierter Fahrgast reiste von Bischofshofen nach Graz",
+      "titleTarget" : "Putnik zaražen koronom putovao je od Bischofshofena do Graza",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-fahrgast-reiste-von-bischofshofen-nach-graz/401143014"
     }, {
       "id" : "lxBkOHMp",
       "imgUrl" : "https://image.kurier.at/images/original/4846542/46-76249862.jpg",
@@ -116,23 +120,16 @@
       "titleTarget" : "4.000 policajaca na dužnosti: Što je dopušteno u novogodišnjoj noći - a što nije",
       "url" : "https://kurier.at/chronik/oesterreich/4000-polizisten-im-einsatz-silvester-im-zeichen-des-babyelefanten/401142570"
     }, {
-      "id" : "c3PtJWaW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/42/36/crops/w=1280/716759_opener_248536_apadrei_aus_justizanstalt_karlau_gefluechtete_haeftlinge_wieder_gefasst_.jpg?s=5bf6ab20da89e39dc224a0e0802c4f59d1723689",
-      "titleSource" : "25 Mio. Euro für Sanierung der Justizanstalt",
-      "titleTarget" : "25 milijuna eura za obnovu zatvora",
-      "url" : "https://steiermark.orf.at/stories/3082823/"
+      "id" : "wzbTp20P",
+      "titleSource" : "Frau wollte Hund loswerden: 8.700 Euro Strafe",
+      "titleTarget" : "Žena se htjela riješiti psa: 8.700 eura kazne",
+      "url" : "https://wien.orf.at/stories/3082950/"
     }, {
-      "id" : "NBLsAILb",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/79/crops/w=1280/796778_opener_277579_impfung.jpg?s=ae09f2b19cf41c43c1faa71e6d080240d83dc321",
-      "titleSource" : "Virologe zur Impfung: „Enorm hoher Schutz“",
-      "titleTarget" : "Virolog o cijepljenju: \"Izuzetno visoka zaštita\"",
-      "url" : "https://tirol.orf.at/stories/3082779/"
-    }, {
-      "id" : "fFZChmdo",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/39/87/crops/w=1280/696903_opener_240887_pa_geparde1.jpg?s=fa0757490950c8ccdb9094331f40dddaa4d29c1f",
-      "titleSource" : "Aufregendes Jahr im Tiergarten Schönbrunn",
-      "titleTarget" : "Uzbudljiva godina u zoološkom vrtu Schönbrunn",
-      "url" : "https://wien.orf.at/stories/3082785/"
+      "id" : "UugPzrHL",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.550 Neuinfektionen in Österreich: Aktive Fälle steigen erstmals seit November",
+      "titleTarget" : "2.550 novih infekcija u Austriji: Aktivni slučajevi povećavaju se prvi put od studenog",
+      "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-2550-neuinfektionen-in-oesterreich/401142834"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,23 +140,17 @@
       "titleTarget" : "Kultura, samo kod kuće: Godišnja smotra KURIER-ovog odjela za kulturu",
       "url" : "https://kurier.at/kultur/kultur-allein-zu-hause-der-jahresrueckblick-der-kurier-kulturredaktion/401142624"
     }, {
-      "id" : "zsmHU6f0",
-      "imgUrl" : "https://image.kurier.at/images/original/4846284/46-173799247.jpg",
-      "titleSource" : "ORF-Sportchef Trost: \"Wir sind Journalisten, wir sind nicht Fan\"",
-      "titleTarget" : "Sportski direktor ORF-a Trost: \"Mi smo novinari, nismo navijači\"",
-      "url" : "https://kurier.at/kultur/medien/orf-sportchef-trost-wir-sind-journalisten-wir-sind-nicht-fan/401142558"
-    }, {
       "id" : "BAaPe4Bp",
       "imgUrl" : "https://image.kurier.at/images/original/4846701/46-173802669.jpg",
       "titleSource" : "Dirigent Meister: \"Was wäre eine Gesellschaft ohne Kultur?“",
       "titleTarget" : "Dirigent Meister: \"Što bi bilo društvo bez kulture?\"",
       "url" : "https://kurier.at/kultur/dirigent-meister-was-waere-eine-gesellschaft-ohne-kultur/401142675"
     }, {
-      "id" : "ltCXc9v7",
-      "imgUrl" : "https://image.kurier.at/images/original/4820895/46-173277966.jpg",
-      "titleSource" : "\"Accidentally Wes Anderson\": Orte für Instagram-Touristen",
-      "titleTarget" : "\"Slučajno Wes Anderson\": Mjesta za Instagram turiste",
-      "url" : "https://kurier.at/kultur/accidentally-wes-anderson-orte-fuer-instagram-touristen/401129589"
+      "id" : "zsmHU6f0",
+      "imgUrl" : "https://image.kurier.at/images/original/4846284/46-173799247.jpg",
+      "titleSource" : "ORF-Sportchef Trost: \"Wir sind Journalisten, wir sind nicht Fan\"",
+      "titleTarget" : "Sportski direktor ORF-a Trost: \"Mi smo novinari, nismo navijači\"",
+      "url" : "https://kurier.at/kultur/medien/orf-sportchef-trost-wir-sind-journalisten-wir-sind-nicht-fan/401142558"
     }, {
       "id" : "CmhCIzK5",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/c/2/5917122/2FC4671F-A9F7-4B27-B3B3-78845B121B2C_v0_l.jpg",
@@ -172,12 +163,6 @@
       "titleSource" : "Beethoven, Schach und Covid-Dating",
       "titleTarget" : "Beethoven, šah i Covid dating",
       "url" : "https://www.diepresse.com/5916983/2020_Beethoven-Schach-und-CovidDating?from=rss"
-    }, {
-      "id" : "zcBUzaDN",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/0/c/5916940/Cardin_h.jpg",
-      "titleSource" : "Pierre Cardin oder: Mode ist alles und überall",
-      "titleTarget" : "Pierre Cardin ili: Moda je sve i svugdje",
-      "url" : "https://www.diepresse.com/5916940/Nachruf_Pierre-Cardin-oder_Mode-ist-alles-und-ueberall?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,42 +170,44 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "4C07AGgZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4848213/46-173825216.jpg",
+      "titleSource" : "Doppelsieg in Bormio: Das Ende der ÖSV-Durststrecke",
+      "titleTarget" : "Dvostruka pobjeda u Bormiu: Kraj ÖSV vitkog razdoblja",
+      "url" : "https://kurier.at/sport/wintersport/der-bann-ist-gebrochen-oesv-doppelsieg-in-bormio-mayer-siegt-vor-kriechmayr/401142996"
+    }, {
+      "id" : "LrmwDkOk",
+      "imgUrl" : "https://image.kurier.at/images/original/4847847/46-173809373.jpg",
+      "titleSource" : "Live: So steht's beim Abfahrts-Klassiker in Bormio",
+      "titleTarget" : "Uživo: Tako je to na klasiku spusta u Bormiu",
+      "url" : "https://kurier.at/sport/wintersport/live-so-stehts-beim-abfahrts-klassiker-in-bormio/401142996"
+    }, {
       "id" : "Nw3jRuIm",
       "titleSource" : "Liensberger schrammt an erstem Sieg vorbei",
       "titleTarget" : "Liensberger struže prošlu prvu pobjedu",
       "url" : "https://sport.orf.at/stories/3071217/"
     }, {
-      "id" : "fd86aEIl",
-      "imgUrl" : "https://image.kurier.at/images/original/4846926/46-173812740.jpg",
-      "titleSource" : "Geiger gewinnt Tournee-Auftakt, Kraft bester ÖSV-Adler",
-      "titleTarget" : "Geiger osvaja početak turneje, a Kraft najbolji ÖSV orao",
-      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-karl-geiger-gewinnt-auftakt-in-oberstdorf-kraft-bester-oesv-adler/401142225"
+      "id" : "a3jcSHYY",
+      "titleSource" : "ÖSV-Doppelsieg in Bormio-Abfahrtskrimi",
+      "titleTarget" : "Dvostruka pobjeda ÖSV-a u spustu trilera Bormio",
+      "url" : "https://sport.orf.at/stories/3071247/"
     }, {
-      "id" : "g7LOvL7t",
-      "titleSource" : "Um wen die Sportwelt trauerte",
-      "titleTarget" : "Tko je tugovao sportski svijet",
-      "url" : "https://sport.orf.at/stories/3070740/"
+      "id" : "8KNRY02O",
+      "imgUrl" : "https://image.kurier.at/images/original/4848201/46-147946808.jpg",
+      "titleSource" : "Zwei Österreicher haben Chance auf Sprung in die NFL",
+      "titleTarget" : "Dvojica Austrijanaca imaju priliku uskočiti u NFL",
+      "url" : "https://kurier.at/sport/zwei-oesterreicher-haben-chance-auf-sprung-in-die-nfl/401143485"
     }, {
-      "id" : "busqzpot",
-      "titleSource" : "Stand in der Herren-Abfahrt in Bormio ab 11.30 Uhr",
-      "titleTarget" : "Stanite u muški spust u Bormiu od 11.30 sati",
-      "url" : "https://sport.orf.at/stories/3071228/"
+      "id" : "N4ssdSps",
+      "imgUrl" : "https://image.kurier.at/images/original/4848267/lukas_fridrikas.jpg",
+      "titleSource" : "Wacker Innsbruck verpflichtet den Sohn einer Handball-Legende",
+      "titleTarget" : "Wacker Innsbruck potpisuje sina rukometne legende",
+      "url" : "https://kurier.at/sport/fussball/wacker-innsbruck-verpflichtet-den-sohn-einer-handball-legende/401143533"
     }, {
-      "id" : "Ekv5bmMJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4845963/46-173807732.jpg",
-      "titleSource" : "Das Leben des Ryan: Das harte Los von Super-G-Sieger Cochran-Siegle",
-      "titleTarget" : "Život Ryana: Teška skupina Super-G pobjednika Cochran-Sieglea",
-      "url" : "https://kurier.at/sport/wintersport/das-leben-des-ryan-das-harte-los-von-super-g-sieger-cochran-siegle/401142390"
-    }, {
-      "id" : "UgRKVHGB",
-      "titleSource" : "\"Ein Haufen Mist\": Darts-Star Suljovic brachte Gegner in Rage",
-      "titleTarget" : "\"Gomila sranja\": Pikado zvijezda Suljović razbjesnio je protivnike",
-      "url" : "https://kurier.at/sport/darts-wm-wie-suljovic-seinen-gegner-anderson-in-rage-brachte/401142105"
-    }, {
-      "id" : "GU9S5KN9",
-      "titleSource" : "U20-Team unterliegt auch Russland",
-      "titleTarget" : "U20 momčad je također podložna Rusiji",
-      "url" : "https://sport.orf.at/stories/3071238/"
+      "id" : "ykpbKLsw",
+      "titleSource" : "Dadic führt Weltbestenliste zu Jahresende an",
+      "titleTarget" : "Dadić je na vrhu svjetske liste na kraju godine",
+      "url" : "https://sport.orf.at/stories/3071253/"
     } ]
   } ],
   "country" : "austria",
