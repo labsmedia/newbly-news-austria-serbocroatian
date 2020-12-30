@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "gKGapJuJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4844919/46-173615979.jpg",
-      "titleSource" : "Hofer platzt der Kragen: \"Gut, dass ich mich von der GIS abgemeldet habe\"",
-      "titleTarget" : "Hofer pukne ovratnik: \"Dobro je što sam se odjavio iz GIS-a\"",
-      "url" : "https://kurier.at/politik/inland/hofer-platzt-der-kragen-gut-dass-ich-mich-von-der-gis-abgemeldet-habe/401141694"
-    }, {
       "id" : "GEydtIyj",
       "imgUrl" : "https://image.kurier.at/images/original/4786827/78350011457708580_BLD_Online.jpg",
       "titleSource" : "FPÖ-Chef Hofer zu befürchtetem Impfzwang: \"Menschen werden auf die Straße gehen\"",
@@ -32,17 +26,23 @@
       "titleTarget" : "Kogler: \"Većina u ÖVP-u uskoro može izgledati drugačije\"",
       "url" : "https://www.diepresse.com/5916782/Fluechtlinge_Kogler_Moeglicherweise-wird-Mehrheit-in-OeVP-bald?from=rss"
     }, {
+      "id" : "kX0DDC96",
+      "imgUrl" : "https://image.kurier.at/images/original/4846383/46-173752293.jpg",
+      "titleSource" : "Stau bei Skiliften: Regierung schärft mit Erlass nach",
+      "titleTarget" : "Zastoj na žičarama: vlada se pojačava uredbom",
+      "url" : "https://kurier.at/politik/inland/stau-bei-skiliften-regierung-schaerft-mit-erlass-nach/401142528"
+    }, {
       "id" : "HPC5LVMG",
       "imgUrl" : "https://image.kurier.at/images/original/4829964/46-173591954.jpg",
       "titleSource" : "Raab: Wertekurse künftig in mindestens doppelter Länge",
       "titleTarget" : "Raab: Vrijednosti cijena u budućnosti barem dvostruko dulje",
       "url" : "https://kurier.at/politik/inland/raab-wertekurse-kuenftig-in-mindestens-doppelter-laenge/401141805"
     }, {
-      "id" : "kX0DDC96",
-      "imgUrl" : "https://image.kurier.at/images/original/4846383/46-173752293.jpg",
-      "titleSource" : "Stau bei Skiliften: Regierung schärft mit Erlass nach",
-      "titleTarget" : "Zastoj na žičarama: vlada se pojačava uredbom",
-      "url" : "https://kurier.at/politik/inland/stau-bei-skiliften-regierung-schaerft-mit-erlass-nach/401142528"
+      "id" : "H23oE0Up",
+      "imgUrl" : "https://image.kurier.at/images/original/4847061/46-173805877.jpg",
+      "titleSource" : "Rendi-Wagner unentschlossen: \"Weiß nicht, was die Bundesregierung plant\"",
+      "titleTarget" : "Rendi-Wagner neodlučan: \"Ne znam što savezna vlada planira\"",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-unentschlossen-weiss-nicht-was-die-bundesregierung-plant/401142717"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,6 +52,18 @@
       "titleSource" : "Kündigung nach Instagram-Posting: Warum der Arbeitgeber irrte",
       "titleTarget" : "Otkaz nakon objave na Instagramu: Zašto je poslodavac pogriješio",
       "url" : "https://kurier.at/wirtschaft/kuendigung-nach-instagram-posting-warum-der-arbeitgeber-irrte/401141877"
+    }, {
+      "id" : "efRDWAnw",
+      "imgUrl" : "https://image.kurier.at/images/original/4140030/46-85855208.jpg",
+      "titleSource" : "Spar-Chef Drexel: \"Bin oft missverstanden worden\"",
+      "titleTarget" : "Šef Spar-a Drexel: \"Često sam bio neshvaćen\"",
+      "url" : "https://kurier.at/wirtschaft/spar-chef-drexel-zum-abschied-bin-oft-missverstanden-worden/401141811"
+    }, {
+      "id" : "PXoSMgQW",
+      "imgUrl" : "https://image.kurier.at/images/original/4741314/46-168265997.jpg",
+      "titleSource" : "\"Corona-Effekt\": Tanken heuer deutlich billiger als 2019",
+      "titleTarget" : "\"Corona effect\": punjenje gorivom ove je godine znatno jeftinije nego 2019. godine",
+      "url" : "https://kurier.at/wirtschaft/corona-effekt-tanken-heuer-deutlich-billiger-als-2019/401142045"
     }, {
       "id" : "Y6zLGTG4",
       "imgUrl" : "https://image.kurier.at/images/original/4836681/46-173565171.jpg",
@@ -76,18 +88,6 @@
       "titleSource" : "OMV-Tochter Petrom verkauft Ölfelder in Kasachstan",
       "titleTarget" : "Podružnica OMV-a Petrom prodaje naftna polja u Kazahstanu",
       "url" : "https://kurier.at/wirtschaft/omv-tochter-petrom-verkauft-oelfelder-in-kasachstan/401142291"
-    }, {
-      "id" : "6h1QKP8B",
-      "imgUrl" : "https://image.kurier.at/images/original/2453387/46-101277300-2017-07-30t001500z_687845310_rc190055a090_rtrmadp_3_cyber-conference.jpg",
-      "titleSource" : "Finanzbetrüger schlagen zu: Heuer schon 600 Fälle gemeldet",
-      "titleTarget" : "Štrajkuju financijski prevaranti: 600 slučajeva već je prijavljeno ove godine",
-      "url" : "https://kurier.at/wirtschaft/finanzbetrueger-schlagen-zu-heuer-schon-600-faelle-gemeldet/401142153"
-    }, {
-      "id" : "PXoSMgQW",
-      "imgUrl" : "https://image.kurier.at/images/original/4741314/46-168265997.jpg",
-      "titleSource" : "\"Corona-Effekt\": Tanken heuer deutlich billiger als 2019",
-      "titleTarget" : "\"Corona effect\": punjenje gorivom ove je godine znatno jeftinije nego 2019. godine",
-      "url" : "https://kurier.at/wirtschaft/corona-effekt-tanken-heuer-deutlich-billiger-als-2019/401142045"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -108,27 +108,29 @@
       "titleTarget" : "Šalteri policijskih sindikata: Gastronomija bi trebala kontrolirati slobodu",
       "url" : "https://kurier.at/chronik/oesterreich/polizeigewerkschaft-kontert-gastronomie-soll-das-freitesten-kontrollieren/401141931"
     }, {
-      "id" : "1coojJHn",
-      "titleSource" : "CoV: Schulleiter beim Schnapsbrennen infiziert",
-      "titleTarget" : "CoV: Ravnatelj škole zaražen destilacijom rakije",
-      "url" : "https://steiermark.orf.at/stories/3082750/"
+      "id" : "CTf7DlZn",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/40/crops/w=1280/798816_opener_278240_feuerwerk_und_lockdown_201229_poechhacker_22706_00_09_27_13.jpg?s=2716412689e71d25e809b0247f1e1f9a5b9392b7",
+      "titleSource" : "Feuerwerk & Co: Was zu Silvester erlaubt ist",
+      "titleTarget" : "Vatromet i suradnja: Što je dozvoljeno na Silvestrovo",
+      "url" : "https://noe.orf.at/stories/3082842/"
     }, {
-      "id" : "JneJMmaX",
-      "titleSource" : "Erdbeben auch in Wien zu spüren",
-      "titleTarget" : "Potresi su se osjetili i u Beču",
-      "url" : "https://wien.orf.at/stories/3082784/"
+      "id" : "U5yG7fPF",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/01/08/crops/w=1280/415762_opener_137008_feuerwerk2.jpg?s=5f38ed322507240bc7fe5f548816e7e2f17ed538",
+      "titleSource" : "Keine Erlaubnis für Feuerwerke zu Silvester",
+      "titleTarget" : "Nema dozvole za vatromet na Silvestrovo",
+      "url" : "https://ooe.orf.at/stories/3082839/"
     }, {
-      "id" : "Psgvt8AP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/25/crops/w=1280/764941_opener_265925_hochkar_1.jpg?s=d61ab7f97dbb3113c160187d52b3d3932dbfabae",
-      "titleSource" : "Skiansturm sorgt für internationale Kritik",
-      "titleTarget" : "Skijaška oluja izaziva međunarodne kritike",
-      "url" : "https://ooe.orf.at/stories/3082786/"
+      "id" : "rbq4Yo1R",
+      "imgUrl" : "https://image.kurier.at/images/original/4844880/46-173796603.jpg",
+      "titleSource" : "Getötete Mädchen im Ötztal: Vater hat die Tat gestanden",
+      "titleTarget" : "Djevojke ubijene u Ötztalu: otac priznao zločin",
+      "url" : "https://kurier.at/chronik/oesterreich/getoetete-maedchen-im-oetztal-jeder-sucht-jetzt-nach-antworten/401141955"
     }, {
-      "id" : "ywr06NJy",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/81/crops/w=1280/524874_opener_177481_abd0004.jpg?s=946dae9bccee58006f3e3272935e4d4c9df13f85",
-      "titleSource" : "Deutlich mehr Betretungsverbote",
-      "titleTarget" : "Znatno više zabrana ulaska",
-      "url" : "https://ooe.orf.at/stories/3082697/"
+      "id" : "2qgwocuq",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.868 Neuinfektionen in Österreich - insgesamt mehr als 6.000 Todesopfer",
+      "titleTarget" : "1.868 novih infekcija u Austriji - ukupno više od 6000 smrtnih slučajeva",
+      "url" : "https://kurier.at/chronik/oesterreich/1868-neuinfektionen-in-oesterreich/401141817"
     } ]
   }, {
     "category" : "CULTURE",
@@ -151,11 +153,11 @@
       "titleTarget" : "\"Slučajno Wes Anderson\": Mjesta za Instagram turiste",
       "url" : "https://kurier.at/kultur/accidentally-wes-anderson-orte-fuer-instagram-touristen/401129589"
     }, {
-      "id" : "KItN1YLa",
-      "imgUrl" : "https://image.kurier.at/images/original/4844406/46-173778770.jpg",
-      "titleSource" : "30 Jahre Batic und Leitmayr: Die zwei aus München",
-      "titleTarget" : "30 godina Batića i Leitmayra: Dvojica iz Münchena",
-      "url" : "https://kurier.at/kultur/medien/30-jahre-batic-und-leitmayr-die-zwei-aus-muenchen/401141622"
+      "id" : "AZak6zBe",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/3/7/5916983/2020_h.jpg",
+      "titleSource" : "Beethoven, Schach und Covid-Dating",
+      "titleTarget" : "Beethoven, šah i Covid dating",
+      "url" : "https://www.diepresse.com/5916983/2020_Beethoven-Schach-und-CovidDating?from=rss"
     }, {
       "id" : "zcBUzaDN",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/0/c/5916940/Cardin_h.jpg",
@@ -180,20 +182,27 @@
       "titleTarget" : "Kriechmayr je na postolju u Bormiu",
       "url" : "https://sport.orf.at/stories/3071209/"
     }, {
+      "id" : "Nw3jRuIm",
+      "titleSource" : "Liensberger schrammt an erstem Sieg vorbei",
+      "titleTarget" : "Liensberger struže prošlu prvu pobjedu",
+      "url" : "https://sport.orf.at/stories/3071217/"
+    }, {
+      "id" : "fd86aEIl",
+      "imgUrl" : "https://image.kurier.at/images/original/4846926/46-173812740.jpg",
+      "titleSource" : "Geiger gewinnt Tournee-Auftakt, Kraft bester ÖSV-Adler",
+      "titleTarget" : "Geiger osvaja početak turneje, a Kraft najbolji ÖSV orao",
+      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-karl-geiger-gewinnt-auftakt-in-oberstdorf-kraft-bester-oesv-adler/401142225"
+    }, {
       "id" : "PPtur2LI",
       "titleSource" : "Polens Springer dürfen bei Tournee starten",
       "titleTarget" : "Poljski skakači smiju započeti turneju",
       "url" : "https://sport.orf.at/stories/3071206/"
     }, {
-      "id" : "YUzbQTxa",
-      "titleSource" : "Kärntner Derby geht klar an KAC",
-      "titleTarget" : "Koruški derbi očito ide u KAC",
-      "url" : "https://sport.orf.at/stories/3071194/"
-    }, {
-      "id" : "WUK5AXQE",
-      "titleSource" : "Habesohn triumphiert erneut bei Austria Top 12",
-      "titleTarget" : "Habesohn ponovno trijumfira u austrijskih 12 najboljih",
-      "url" : "https://sport.orf.at/stories/3071195/"
+      "id" : "Ekv5bmMJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4845963/46-173807732.jpg",
+      "titleSource" : "Das Leben des Ryan: Das harte Los von Super-G-Sieger Cochran-Siegle",
+      "titleTarget" : "Život Ryana: Teška skupina Super-G pobjednika Cochran-Sieglea",
+      "url" : "https://kurier.at/sport/wintersport/das-leben-des-ryan-das-harte-los-von-super-g-sieger-cochran-siegle/401142390"
     }, {
       "id" : "UgRKVHGB",
       "titleSource" : "\"Ein Haufen Mist\": Darts-Star Suljovic brachte Gegner in Rage",
@@ -204,11 +213,6 @@
       "titleSource" : "Polen dürfen doch noch starten",
       "titleTarget" : "Poljaci i dalje smiju startati",
       "url" : "https://sport.orf.at/stories/3071207/"
-    }, {
-      "id" : "kKOwA5Lh",
-      "titleSource" : "Österreich bei U20-WM weiter torlos",
-      "titleTarget" : "Austrija je i dalje bez golova na U20 Svjetskom kupu",
-      "url" : "https://sport.orf.at/stories/3071201/"
     } ]
   } ],
   "country" : "austria",
