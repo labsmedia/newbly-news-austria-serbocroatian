@@ -3,22 +3,10 @@
     "category" : "POLITICS",
     "newsArticles" : [ {
       "id" : "1ni3EVWB",
-      "imgUrl" : "https://image.kurier.at/images/original/4805709/20201207-ABD0100-1-1.jpg",
-      "titleSource" : "Kurz zu Freitesten: Betreiber müssen prüfen, Ausnahmen für Wirte",
+      "imgUrl" : "https://image.kurier.at/images/original/4849014/46-173772554.jpg",
+      "titleSource" : "Kurz zu Freitests: Betreiber müssen prüfen, Ausnahmen für Wirte",
       "titleTarget" : "Ukratko: operateri moraju uzeti u obzir iznimke za hostove",
       "url" : "https://kurier.at/politik/inland/kurz-gibt-neue-details-zum-freitesten-bekannt/401143839"
-    }, {
-      "id" : "QTQTuOVf",
-      "imgUrl" : "https://image.kurier.at/images/original/4847223/46-173633800.jpg",
-      "titleSource" : "Antigentest als Knackpunkt: Freitesten verfassungsrechtlich bedenklich",
-      "titleTarget" : "Antigenski test kao suština: Besplatno ispitivanje ustavno je upitno",
-      "url" : "https://kurier.at/politik/inland/antigentest-als-knackpunkt-freitesten-verfassungsrechtlich-bedenklich/401142843"
-    }, {
-      "id" : "7diOjLU1",
-      "imgUrl" : "https://image.kurier.at/images/original/4795995/20201202-ABD0105-1-1.jpg",
-      "titleSource" : "Corona: Massentests in Bezirken mit zu hoher Inzidenz geplant",
-      "titleTarget" : "Corona: masovna ispitivanja planirana u okruzima s previsokom učestalošću",
-      "url" : "https://kurier.at/politik/inland/corona-massentests-in-bezirken-mit-zu-hoher-inzidenz-geplant/401143449"
     }, {
       "id" : "FgX0ORFf",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/3/8/5917240/BD51D031-479E-4862-98A4-586177C5D6EF_v0_h.jpg",
@@ -26,38 +14,50 @@
       "titleTarget" : "Vlada planira masovna ispitivanja u županijama s previsokom učestalošću",
       "url" : "https://www.diepresse.com/5917240/Coronavirus_Regierung-plant-Massentests-in-Bezirken-mit-zu-hoher?from=rss"
     }, {
+      "id" : "7diOjLU1",
+      "imgUrl" : "https://image.kurier.at/images/original/4795995/20201202-ABD0105-1-1.jpg",
+      "titleSource" : "Corona: Massentests in Bezirken mit zu hoher Inzidenz geplant",
+      "titleTarget" : "Corona: masovna ispitivanja planirana u okruzima s previsokom učestalošću",
+      "url" : "https://kurier.at/politik/inland/corona-massentests-in-bezirken-mit-zu-hoher-inzidenz-geplant/401143449"
+    }, {
       "id" : "Cyw645WF",
       "imgUrl" : "https://image.kurier.at/images/original/4842405/20201227-ABD0014-1-1.jpg",
       "titleSource" : "Großflächige Impfungen ab 12. Jänner: Bisher 6.000 Personen geimpft",
       "titleTarget" : "Cijepljenje velikih razmjera od 12. siječnja: Do sada je cijepljeno 6000 ljudi",
       "url" : "https://kurier.at/politik/inland/grossflaechige-impfungen-ab-12-jaenner-bisher-6000-personen-geimpft/401143398"
     }, {
-      "id" : "AsnkrpXk",
-      "imgUrl" : "https://image.kurier.at/images/original/4090116/20200128-ABD0194-1-1.jpg",
-      "titleSource" : "VfGH: Filzmaiers \"Plemplem\"-Sager zu Stronach war doch zulässig",
-      "titleTarget" : "VfGH: Filzmaierov \"Plemplem\" šalter zu Stronach bio je dopušten",
-      "url" : "https://kurier.at/politik/inland/vfgh-filzmaiers-plemplem-sager-zu-stronach-war-doch-zulaessig/401143110"
+      "id" : "P0MhLi0c",
+      "imgUrl" : "https://image.kurier.at/images/original/4849032/46-173833667.jpg",
+      "titleSource" : "Anschober will Neuinfektionen im Jänner unter 1.000 drücken",
+      "titleTarget" : "Anschober želi u siječnju gurnuti nove infekcije ispod 1000",
+      "url" : "https://kurier.at/politik/inland/anschober-will-neuinfektionen-im-jaenner-unter-1000-druecken/401143911"
     }, {
-      "id" : "z6okjoqv",
-      "imgUrl" : "https://image.kurier.at/images/original/4847622/46-173344378.jpg",
-      "titleSource" : "Grüner Querschuss aus Tirol: Kogler nicht automatisch die \"Nummer eins\"",
-      "titleTarget" : "Zeleni centaršut iz Tirola: Kogler ne postaje automatski \"broj jedan\"",
-      "url" : "https://kurier.at/politik/inland/gruener-querschuss-aus-tirol-kogler-nicht-automatisch-die-nummer-eins/401143095"
+      "id" : "aKFOehBP",
+      "imgUrl" : "https://image.kurier.at/images/original/4783926/46-168266144.jpg",
+      "titleSource" : "Corona-Ampel verabschiedet sich rot aus dem Jahr 2020",
+      "titleTarget" : "Corona semafor oprašta se od 2020. godine u crvenoj boji",
+      "url" : "https://kurier.at/politik/inland/corona-ampel-verabschiedet-sich-rot-aus-dem-jahr-2020/401143740"
+    }, {
+      "id" : "w3IH7cVG",
+      "imgUrl" : "https://image.kurier.at/images/original/4848525/46-173806632.jpg",
+      "titleSource" : "AKW Krško: Internationale Experten sehen keine Gefahr",
+      "titleTarget" : "Nuklearna elektrana Krško: Međunarodni stručnjaci ne vide opasnost",
+      "url" : "https://kurier.at/politik/inland/akw-krsko-internationale-experten-sehen-keine-gefahr/401143620"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "GK1aejzp",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/6/5/5917029/7A69847A-91BB-4939-890C-57AA5E64B5FF_v0_l.jpg",
-      "titleSource" : "Wien erleichtert 2021 Zugang zu kleinen Gemeindewohnungen",
-      "titleTarget" : "Beč će 2021. godine olakšati pristup malim općinskim stanovima",
-      "url" : "https://www.diepresse.com/5917029/Wohnen_Wien-erleichtert-2021-Zugang-zu-kleinen-Gemeindewohnungen?from=rss"
+      "id" : "RgpuWsBk",
+      "imgUrl" : "https://image.kurier.at/images/original/4430564/78350011454803466_BLD_Online.jpg",
+      "titleSource" : "EU und China einigen sich auf Investitionsabkommen",
+      "titleTarget" : "EU i Kina dogovaraju se o ugovorima o ulaganju",
+      "url" : "https://kurier.at/wirtschaft/eu-und-china-einigen-sich-auf-investitionsabkommen/401143473"
     }, {
-      "id" : "rEmdsmp0",
-      "imgUrl" : "https://image.kurier.at/images/original/518637/Haberleitner-000_KURIER%252B_gruber%252Bfranz.jpg",
-      "titleSource" : "Ex-Dayli-Chef Haberleitner in Privatkonkurs",
-      "titleTarget" : "Bivši šef Dayli Haberleitner u osobnom bankrotu",
-      "url" : "https://kurier.at/wirtschaft/ex-dayli-chef-haberleitner-in-privatkonkurs/401143140"
+      "id" : "VO9FAS4N",
+      "imgUrl" : "https://image.kurier.at/images/original/4837566/46-166735130.jpg",
+      "titleSource" : "Ein Haus zu erhalten ist (auch) Arbeit",
+      "titleTarget" : "Održavanje kuće je (također) posao",
+      "url" : "https://kurier.at/wirtschaft/immobiz/ein-haus-zu-erhalten-ist-auch-arbeit/401137680"
     }, {
       "id" : "i44aW7X6",
       "imgUrl" : "https://image.kurier.at/images/original/3671462/81690356749822868_BLD_Online.jpg",
@@ -65,11 +65,11 @@
       "titleTarget" : "Tužitelji zahtijevaju devet godina zatvora za nasljednike Samsunga zbog korupcije",
       "url" : "https://kurier.at/wirtschaft/anklaeger-fordern-neun-jahre-haft-fuer-samsung-erben-wegen-korruption/401143626"
     }, {
-      "id" : "RgpuWsBk",
-      "imgUrl" : "https://image.kurier.at/images/original/4430564/78350011454803466_BLD_Online.jpg",
-      "titleSource" : "EU und China einigen sich auf Investitionsabkommen",
-      "titleTarget" : "EU i Kina dogovaraju se o ugovorima o ulaganju",
-      "url" : "https://kurier.at/wirtschaft/eu-und-china-einigen-sich-auf-investitionsabkommen/401143473"
+      "id" : "BroVK5wk",
+      "imgUrl" : "https://image.kurier.at/images/original/4848402/78370011358192146_BLD_Online.jpg",
+      "titleSource" : "Das ist das teuerste Unternehmen der Welt",
+      "titleTarget" : "Ovo je najskuplja tvrtka na svijetu",
+      "url" : "https://kurier.at/wirtschaft/das-ist-das-teuerste-unternehmen-der-welt/401143578"
     }, {
       "id" : "vguG5npI",
       "imgUrl" : "https://image.kurier.at/images/original/4584980/78370011356030654_BLD_Online.jpg",
@@ -83,11 +83,11 @@
       "titleTarget" : "Trgovanje dionicama Gerryja Webera iznutra: milijunske kazne",
       "url" : "https://kurier.at/wirtschaft/insiderhandel-mit-gerry-weber-aktien-geldstrafen-in-millionenhoehe/401143743"
     }, {
-      "id" : "BroVK5wk",
-      "imgUrl" : "https://image.kurier.at/images/original/4848402/78370011358192146_BLD_Online.jpg",
-      "titleSource" : "Das ist das teuerste Unternehmen der Welt",
-      "titleTarget" : "Ovo je najskuplja tvrtka na svijetu",
-      "url" : "https://kurier.at/wirtschaft/das-ist-das-teuerste-unternehmen-der-welt/401143578"
+      "id" : "aOL2ZpvT",
+      "imgUrl" : "https://image.kurier.at/images/original/2791025/78470026144221654_BLD_Online.jpg",
+      "titleSource" : "ATX mit Jahresminus von 12,8 Prozent",
+      "titleTarget" : "ATX s godišnjim minusom od 12,8 posto",
+      "url" : "https://kurier.at/wirtschaft/atx-mit-jahresminus-von-128-prozent/401143506"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,56 +97,62 @@
       "titleTarget" : "Potres: vatrogasci donose 82 kontejnera",
       "url" : "https://noe.orf.at/stories/3082983/"
     }, {
-      "id" : "lxBkOHMp",
-      "imgUrl" : "https://image.kurier.at/images/original/4846542/46-76249862.jpg",
-      "titleSource" : "4.000 Polizisten im Einsatz: Was zu Silvester erlaubt ist - und was nicht",
-      "titleTarget" : "4.000 policajaca na dužnosti: Što je dopušteno u novogodišnjoj noći - a što nije",
-      "url" : "https://kurier.at/chronik/oesterreich/4000-polizisten-im-einsatz-silvester-im-zeichen-des-babyelefanten/401142570"
-    }, {
-      "id" : "GZZsfzxI",
-      "imgUrl" : "https://image.kurier.at/images/original/4847532/46-173717459.jpg",
-      "titleSource" : "Corona-Infizierter Fahrgast reiste von Bischofshofen nach Graz",
-      "titleTarget" : "Putnik zaražen koronom putovao je od Bischofshofena do Graza",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-fahrgast-reiste-von-bischofshofen-nach-graz/401143014"
-    }, {
       "id" : "UugPzrHL",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.550 Neuinfektionen in Österreich: Aktive Fälle steigen erstmals seit November",
       "titleTarget" : "2.550 novih infekcija u Austriji: Aktivni slučajevi povećavaju se prvi put od studenog",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-2550-neuinfektionen-in-oesterreich/401142834"
     }, {
-      "id" : "ut6Nvj7l",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/53/crops/w=1280/799327_opener_278453_dcb83f8d-1a49-49c2-8614-adc3ecb89d6b.jpg?s=6091981a42a81df66c23225b5be9ff8269a00a7e",
-      "titleSource" : "Unterschriftenaktion nach Wolfriss gestartet",
-      "titleTarget" : "Započela je kampanja potpisa Wolfrissa",
-      "url" : "https://steiermark.orf.at/stories/3082945/"
-    }, {
-      "id" : "XbPNsP51",
-      "imgUrl" : "https://image.kurier.at/images/original/4847523/46-173796372.jpg",
-      "titleSource" : "Frostiger Jahreswechsel: Kälte und Schnee zum Start ins neue Jahr",
-      "titleTarget" : "Mrazni preokret godine: hladnoća i snijeg za početak nove godine",
-      "url" : "https://kurier.at/chronik/oesterreich/frostiger-jahreswechsel-kaelte-und-schnee-zum-start-ins-neue-jahr/401143005"
+      "id" : "pMViyIpm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/06/17/crops/w=1280/459767_opener_153517_vlcsnap-2020-02-06-18h08m44s438.jpg?s=8bcc89afdb8c48132069fec4bbd8ecff6d547db0",
+      "titleSource" : "24-h-Betreuerinnen wollen frühere Impfung",
+      "titleTarget" : "Njegovatelji 24 sata žele ranije cijepljenje",
+      "url" : "https://noe.orf.at/stories/3082987/"
     }, {
       "id" : "0utvpZIW",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/41/crops/w=1280/798370_opener_278141_rohrhofer.jpg?s=764e5d43ca64b84203fb9b0d9e236377c8283307",
       "titleSource" : "Contact Tracing mit „Elefant“ macht Schule",
       "titleTarget" : "Traženje kontakata s \"Elefant\" postavlja presedan",
       "url" : "https://steiermark.orf.at/stories/3082960/"
+    }, {
+      "id" : "VW8suOpA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/99/crops/w=1280/799582_opener_278599_arzt_1.jpg?s=a74df026af9fde8be89e5f281cb381def36562f9",
+      "titleSource" : "Ärzte-Bereitschaftsdienst wird eingeschränkt",
+      "titleTarget" : "Liječnici na poziv bit će ograničeni",
+      "url" : "https://burgenland.orf.at/stories/3082962/"
+    }, {
+      "id" : "40z5WB4F",
+      "imgUrl" : "https://image.kurier.at/images/original/4815759/46-173505887.jpg",
+      "titleSource" : "2.913 Neuinfektionen in Ö; Anschober will bei Neuinfektionen unter 1.000 im Jänner",
+      "titleTarget" : "2.913 novih infekcija u Austriji; Anschober želi nove infekcije ispod 1.000 u siječnju",
+      "url" : "https://kurier.at/chronik/oesterreich/anschober-will-neuinfektionen-im-jaenner-unter-1000-druecken-corona-ampel-bleibt-rot/401143917"
+    }, {
+      "id" : "JgrcWDr1",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/19/crops/w=1280/793304_opener_276319_teststrasse_wien_2_a.jpg?s=b8e7994e00b4b98473679eac160b990520d289f6",
+      "titleSource" : "Ansturm auf Massentests im Jänner erwartet",
+      "titleTarget" : "Žurba na masovna ispitivanja očekuje se u siječnju",
+      "url" : "https://steiermark.orf.at/stories/3082940/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "3BpaO8Qq",
-      "imgUrl" : "https://image.kurier.at/images/original/4787445/46-169004002.jpg",
-      "titleSource" : "Kultur, allein zu Hause: Der Jahresrückblick der KURIER Kulturredaktion",
-      "titleTarget" : "Kultura, samo kod kuće: Godišnja smotra KURIER-ovog odjela za kulturu",
-      "url" : "https://kurier.at/kultur/kultur-allein-zu-hause-der-jahresrueckblick-der-kurier-kulturredaktion/401142624"
+      "id" : "7ArdkU9Z",
+      "imgUrl" : "https://image.kurier.at/images/original/4847934/46-168568280.jpg",
+      "titleSource" : "Ein letztes Adieu: Die toten Stars der Kultur des Jahres 2020",
+      "titleTarget" : "Posljednji korak: mrtve zvijezde kulture 2020. godine",
+      "url" : "https://kurier.at/kultur/ein-letztes-adieu-die-toten-stars-der-kultur-des-jahres-2020/401143272"
     }, {
-      "id" : "BAaPe4Bp",
-      "imgUrl" : "https://image.kurier.at/images/original/4846701/46-173802669.jpg",
-      "titleSource" : "Dirigent Meister: \"Was wäre eine Gesellschaft ohne Kultur?“",
-      "titleTarget" : "Dirigent Meister: \"Što bi bilo društvo bez kulture?\"",
-      "url" : "https://kurier.at/kultur/dirigent-meister-was-waere-eine-gesellschaft-ohne-kultur/401142675"
+      "id" : "rFvG8TTm",
+      "imgUrl" : "https://image.kurier.at/images/original/4848558/46-173820509.jpg",
+      "titleSource" : "Science-Fiction-Dreh \"Rubikon\": Raumstation in Simmering",
+      "titleTarget" : "Filmovi znanstvene fantastike \"Rubikon\": svemirska stanica u Simmeringu",
+      "url" : "https://kurier.at/kultur/science-fiction-dreh-rubikon-raumstation-in-simmering/401143647"
+    }, {
+      "id" : "gOgQ5VHd",
+      "imgUrl" : "https://image.kurier.at/images/original/4848873/46-173820694.jpg",
+      "titleSource" : "Von Mundl bis Kaiser: Die TV-Tipps für Silvester",
+      "titleTarget" : "Od Mundla do Kaisera: TV savjeti za doček Nove godine",
+      "url" : "https://kurier.at/kultur/medien/die-tv-tipps-fuer-silvester/401143845"
     }, {
       "id" : "8HfgNzei",
       "imgUrl" : "https://image.kurier.at/images/original/4848840/bildschirmfoto_2020-12-30_um_21.10.54.png",
@@ -154,17 +160,11 @@
       "titleTarget" : "Umro je bariton Wagner i Verdi Sándor Sólyom-Nagy",
       "url" : "https://kurier.at/kultur/wagner-und-verdi-bariton-sandor-solyom-nagy-gestorben/401143800"
     }, {
-      "id" : "zsmHU6f0",
-      "imgUrl" : "https://image.kurier.at/images/original/4846284/46-173799247.jpg",
-      "titleSource" : "ORF-Sportchef Trost: \"Wir sind Journalisten, wir sind nicht Fan\"",
-      "titleTarget" : "Sportski direktor ORF-a Trost: \"Mi smo novinari, nismo navijači\"",
-      "url" : "https://kurier.at/kultur/medien/orf-sportchef-trost-wir-sind-journalisten-wir-sind-nicht-fan/401142558"
-    }, {
-      "id" : "CmhCIzK5",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/c/2/5917122/2FC4671F-A9F7-4B27-B3B3-78845B121B2C_v0_l.jpg",
-      "titleSource" : "VfGH: Filzmaiers \"Plemplem\"-Sager zu Stronach zulässig",
-      "titleTarget" : "VfGH: Dozvoljen Filzmaierov \"Plemplem\" -ager zu Stronach",
-      "url" : "https://www.diepresse.com/5917122/VfGH_Filzmaiers-PlemplemSager-zu-Stronach-zulaessig?from=rss"
+      "id" : "t01HwD1F",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/6/5/5917541/3EF963A2-A81E-46A5-9338-8ED28F804CFE_1609403854668633_v0_l.jpg",
+      "titleSource" : "Michael Maertens: Ich bin ein Impffreund",
+      "titleTarget" : "Michael Maertens: Prijatelj sam cijepljenja",
+      "url" : "https://www.diepresse.com/5917541/Interview_Michael-Maertens_Ich-bin-ein-Impffreund?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -189,6 +189,11 @@
       "titleTarget" : "Dvojica Austrijanaca imaju priliku uskočiti u NFL",
       "url" : "https://kurier.at/sport/zwei-oesterreicher-haben-chance-auf-sprung-in-die-nfl/401143485"
     }, {
+      "id" : "NwdCnzD7",
+      "titleSource" : "Die Sprüche des Jahres 2020",
+      "titleTarget" : "Izreke 2020",
+      "url" : "https://sport.orf.at/stories/3071025/"
+    }, {
       "id" : "N4ssdSps",
       "imgUrl" : "https://image.kurier.at/images/original/4848267/lukas_fridrikas.jpg",
       "titleSource" : "Wacker Innsbruck verpflichtet den Sohn einer Handball-Legende",
@@ -200,17 +205,11 @@
       "titleTarget" : "Dadić je na vrhu svjetske liste na kraju godine",
       "url" : "https://sport.orf.at/stories/3071253/"
     }, {
-      "id" : "6AKQJSp1",
-      "imgUrl" : "https://image.kurier.at/images/original/4846062/46-173438835.jpg",
-      "titleSource" : "Das sind die besten Bilder des Sport-Jahres 2020",
-      "titleTarget" : "Ovo su najbolje slike sportske 2020. godine",
-      "url" : "https://kurier.at/sport/thiem-hamilton-und-co-das-sind-die-besten-bilder-des-sport-jahres-2020/401142741"
-    }, {
-      "id" : "vKqNx5Ik",
-      "imgUrl" : "https://image.kurier.at/images/original/4847322/46-173811410.jpg",
-      "titleSource" : "Kraft nach Platz sechs in Oberstdorf: \"Nicht ganz fair\"",
-      "titleTarget" : "Kraft nakon šestog mjesta u Oberstdorfu: \"Nije baš pošteno\"",
-      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-kraft-nach-platz-sechs-in-oberstdorf-nicht-ganz-fair/401142891"
+      "id" : "mxfKOJR0",
+      "imgUrl" : "https://image.kurier.at/images/original/4848906/46-169024109.jpg",
+      "titleSource" : "Hat ÖFB-Teamspieler gegen die Corona-Regeln verstoßen?",
+      "titleTarget" : "Jesu li igrači ÖFB momčadi prekršili pravila Corone?",
+      "url" : "https://kurier.at/sport/fussball/hat-oefb-teamspieler-gegen-die-corona-regeln-verstossen/401143857"
     } ]
   } ],
   "country" : "austria",
