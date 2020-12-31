@@ -2,6 +2,12 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "1ni3EVWB",
+      "imgUrl" : "https://image.kurier.at/images/original/4805709/20201207-ABD0100-1-1.jpg",
+      "titleSource" : "Kurz zu Freitesten: Betreiber müssen prüfen, Ausnahmen für Wirte",
+      "titleTarget" : "Ukratko: operateri moraju uzeti u obzir iznimke za hostove",
+      "url" : "https://kurier.at/politik/inland/kurz-gibt-neue-details-zum-freitesten-bekannt/401143839"
+    }, {
       "id" : "QTQTuOVf",
       "imgUrl" : "https://image.kurier.at/images/original/4847223/46-173633800.jpg",
       "titleSource" : "Antigentest als Knackpunkt: Freitesten verfassungsrechtlich bedenklich",
@@ -14,17 +20,17 @@
       "titleTarget" : "Corona: masovna ispitivanja planirana u okruzima s previsokom učestalošću",
       "url" : "https://kurier.at/politik/inland/corona-massentests-in-bezirken-mit-zu-hoher-inzidenz-geplant/401143449"
     }, {
+      "id" : "FgX0ORFf",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/3/8/5917240/BD51D031-479E-4862-98A4-586177C5D6EF_v0_h.jpg",
+      "titleSource" : "Regierung plant Massentests in Bezirken mit zu hoher Inzidenz",
+      "titleTarget" : "Vlada planira masovna ispitivanja u županijama s previsokom učestalošću",
+      "url" : "https://www.diepresse.com/5917240/Coronavirus_Regierung-plant-Massentests-in-Bezirken-mit-zu-hoher?from=rss"
+    }, {
       "id" : "Cyw645WF",
       "imgUrl" : "https://image.kurier.at/images/original/4842405/20201227-ABD0014-1-1.jpg",
       "titleSource" : "Großflächige Impfungen ab 12. Jänner: Bisher 6.000 Personen geimpft",
       "titleTarget" : "Cijepljenje velikih razmjera od 12. siječnja: Do sada je cijepljeno 6000 ljudi",
       "url" : "https://kurier.at/politik/inland/grossflaechige-impfungen-ab-12-jaenner-bisher-6000-personen-geimpft/401143398"
-    }, {
-      "id" : "H23oE0Up",
-      "imgUrl" : "https://image.kurier.at/images/original/4847061/46-173805877.jpg",
-      "titleSource" : "Rendi-Wagner unentschlossen: \"Weiß nicht, was die Bundesregierung plant\"",
-      "titleTarget" : "Rendi-Wagner neodlučan: \"Ne znam što savezna vlada planira\"",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-unentschlossen-weiss-nicht-was-die-bundesregierung-plant/401142717"
     }, {
       "id" : "AsnkrpXk",
       "imgUrl" : "https://image.kurier.at/images/original/4090116/20200128-ABD0194-1-1.jpg",
@@ -37,12 +43,6 @@
       "titleSource" : "Grüner Querschuss aus Tirol: Kogler nicht automatisch die \"Nummer eins\"",
       "titleTarget" : "Zeleni centaršut iz Tirola: Kogler ne postaje automatski \"broj jedan\"",
       "url" : "https://kurier.at/politik/inland/gruener-querschuss-aus-tirol-kogler-nicht-automatisch-die-nummer-eins/401143095"
-    }, {
-      "id" : "av0zk8SD",
-      "imgUrl" : "https://image.kurier.at/images/original/4848450/46-173823377.jpg",
-      "titleSource" : "Kroatien: 38 Erdbeben in 49 Stunden",
-      "titleTarget" : "Hrvatska: 38 potresa u 49 sati",
-      "url" : "https://kurier.at/politik/inland/kroatien-38-erdbeben-in-49-stunden/401143599"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,60 +59,43 @@
       "titleTarget" : "Bivši šef Dayli Haberleitner u osobnom bankrotu",
       "url" : "https://kurier.at/wirtschaft/ex-dayli-chef-haberleitner-in-privatkonkurs/401143140"
     }, {
-      "id" : "RgpuWsBk",
-      "imgUrl" : "https://image.kurier.at/images/original/4430564/78350011454803466_BLD_Online.jpg",
-      "titleSource" : "EU und China einigen sich auf Investitionsabkommen",
-      "titleTarget" : "EU i Kina dogovaraju se o ugovorima o ulaganju",
-      "url" : "https://kurier.at/wirtschaft/eu-und-china-einigen-sich-auf-investitionsabkommen/401143473"
-    }, {
       "id" : "i44aW7X6",
       "imgUrl" : "https://image.kurier.at/images/original/3671462/81690356749822868_BLD_Online.jpg",
       "titleSource" : "Ankläger fordern neun Jahre Haft für Samsung-Erben wegen Korruption",
       "titleTarget" : "Tužitelji zahtijevaju devet godina zatvora za nasljednike Samsunga zbog korupcije",
       "url" : "https://kurier.at/wirtschaft/anklaeger-fordern-neun-jahre-haft-fuer-samsung-erben-wegen-korruption/401143626"
     }, {
+      "id" : "RgpuWsBk",
+      "imgUrl" : "https://image.kurier.at/images/original/4430564/78350011454803466_BLD_Online.jpg",
+      "titleSource" : "EU und China einigen sich auf Investitionsabkommen",
+      "titleTarget" : "EU i Kina dogovaraju se o ugovorima o ulaganju",
+      "url" : "https://kurier.at/wirtschaft/eu-und-china-einigen-sich-auf-investitionsabkommen/401143473"
+    }, {
+      "id" : "vguG5npI",
+      "imgUrl" : "https://image.kurier.at/images/original/4584980/78370011356030654_BLD_Online.jpg",
+      "titleSource" : "Für die Autobank wird es immer enger",
+      "titleTarget" : "Za Autobank je sve čvršće",
+      "url" : "https://kurier.at/wirtschaft/fuer-die-autobank-wird-es-immer-enger/401143824"
+    }, {
+      "id" : "L6Xqa7LV",
+      "imgUrl" : "https://image.kurier.at/images/original/4658590/46-167708985.jpg",
+      "titleSource" : "Insiderhandel mit Gerry-Weber-Aktien: Geldstrafen in Millionenhöhe",
+      "titleTarget" : "Trgovanje dionicama Gerryja Webera iznutra: milijunske kazne",
+      "url" : "https://kurier.at/wirtschaft/insiderhandel-mit-gerry-weber-aktien-geldstrafen-in-millionenhoehe/401143743"
+    }, {
       "id" : "BroVK5wk",
       "imgUrl" : "https://image.kurier.at/images/original/4848402/78370011358192146_BLD_Online.jpg",
       "titleSource" : "Das ist das teuerste Unternehmen der Welt",
       "titleTarget" : "Ovo je najskuplja tvrtka na svijetu",
       "url" : "https://kurier.at/wirtschaft/das-ist-das-teuerste-unternehmen-der-welt/401143578"
-    }, {
-      "id" : "aOL2ZpvT",
-      "imgUrl" : "https://image.kurier.at/images/original/2791025/78470026144221654_BLD_Online.jpg",
-      "titleSource" : "ATX mit Jahresminus von 12,8 Prozent",
-      "titleTarget" : "ATX s godišnjim minusom od 12,8 posto",
-      "url" : "https://kurier.at/wirtschaft/atx-mit-jahresminus-von-128-prozent/401143506"
-    }, {
-      "id" : "5p5DdMIs",
-      "imgUrl" : "https://image.kurier.at/images/original/4674730/78370011356768914_BLD_Online.jpg",
-      "titleSource" : "Goldpreis 2020 im Aufwärtstrend",
-      "titleTarget" : "Cijena zlata u 2020. u rastućem trendu",
-      "url" : "https://kurier.at/wirtschaft/goldpreis-2020-im-aufwaertstrend/401143464"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "rdjuD3t7",
-      "titleSource" : "13 Kühe auf Bauernhof verendet",
-      "titleTarget" : "Na farmi je uginulo 13 krava",
-      "url" : "https://noe.orf.at/stories/3082919/"
-    }, {
-      "id" : "iGkc87wI",
-      "titleSource" : "141 Anzeigen nach Party in Simmering",
-      "titleTarget" : "141 oglas nakon zabave u Simmeringu",
-      "url" : "https://wien.orf.at/stories/3082913/"
-    }, {
-      "id" : "xARogQan",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/90/crops/w=1280/799140_opener_278390_20201227_132227.jpg?s=169d045c4a06c0fe9186b3f7eb0dd55d57dd0826",
-      "titleSource" : "Zagersdorf: Reh aus vereistem Teich gerettet",
-      "titleTarget" : "Zagersdorf: jelen spašen iz zaleđenog ribnjaka",
-      "url" : "https://burgenland.orf.at/stories/3082922/"
-    }, {
-      "id" : "GZZsfzxI",
-      "imgUrl" : "https://image.kurier.at/images/original/4847532/46-173717459.jpg",
-      "titleSource" : "Corona-Infizierter Fahrgast reiste von Bischofshofen nach Graz",
-      "titleTarget" : "Putnik zaražen koronom putovao je od Bischofshofena do Graza",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-fahrgast-reiste-von-bischofshofen-nach-graz/401143014"
+      "id" : "l6C259wd",
+      "titleSource" : "Erdbeben: Feuerwehr bringt 82 Container",
+      "titleTarget" : "Potres: vatrogasci donose 82 kontejnera",
+      "url" : "https://noe.orf.at/stories/3082983/"
     }, {
       "id" : "lxBkOHMp",
       "imgUrl" : "https://image.kurier.at/images/original/4846542/46-76249862.jpg",
@@ -120,16 +103,35 @@
       "titleTarget" : "4.000 policajaca na dužnosti: Što je dopušteno u novogodišnjoj noći - a što nije",
       "url" : "https://kurier.at/chronik/oesterreich/4000-polizisten-im-einsatz-silvester-im-zeichen-des-babyelefanten/401142570"
     }, {
-      "id" : "wzbTp20P",
-      "titleSource" : "Frau wollte Hund loswerden: 8.700 Euro Strafe",
-      "titleTarget" : "Žena se htjela riješiti psa: 8.700 eura kazne",
-      "url" : "https://wien.orf.at/stories/3082950/"
+      "id" : "GZZsfzxI",
+      "imgUrl" : "https://image.kurier.at/images/original/4847532/46-173717459.jpg",
+      "titleSource" : "Corona-Infizierter Fahrgast reiste von Bischofshofen nach Graz",
+      "titleTarget" : "Putnik zaražen koronom putovao je od Bischofshofena do Graza",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-fahrgast-reiste-von-bischofshofen-nach-graz/401143014"
     }, {
       "id" : "UugPzrHL",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.550 Neuinfektionen in Österreich: Aktive Fälle steigen erstmals seit November",
       "titleTarget" : "2.550 novih infekcija u Austriji: Aktivni slučajevi povećavaju se prvi put od studenog",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-2550-neuinfektionen-in-oesterreich/401142834"
+    }, {
+      "id" : "ut6Nvj7l",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/53/crops/w=1280/799327_opener_278453_dcb83f8d-1a49-49c2-8614-adc3ecb89d6b.jpg?s=6091981a42a81df66c23225b5be9ff8269a00a7e",
+      "titleSource" : "Unterschriftenaktion nach Wolfriss gestartet",
+      "titleTarget" : "Započela je kampanja potpisa Wolfrissa",
+      "url" : "https://steiermark.orf.at/stories/3082945/"
+    }, {
+      "id" : "XbPNsP51",
+      "imgUrl" : "https://image.kurier.at/images/original/4847523/46-173796372.jpg",
+      "titleSource" : "Frostiger Jahreswechsel: Kälte und Schnee zum Start ins neue Jahr",
+      "titleTarget" : "Mrazni preokret godine: hladnoća i snijeg za početak nove godine",
+      "url" : "https://kurier.at/chronik/oesterreich/frostiger-jahreswechsel-kaelte-und-schnee-zum-start-ins-neue-jahr/401143005"
+    }, {
+      "id" : "0utvpZIW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/41/crops/w=1280/798370_opener_278141_rohrhofer.jpg?s=764e5d43ca64b84203fb9b0d9e236377c8283307",
+      "titleSource" : "Contact Tracing mit „Elefant“ macht Schule",
+      "titleTarget" : "Traženje kontakata s \"Elefant\" postavlja presedan",
+      "url" : "https://steiermark.orf.at/stories/3082960/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -146,6 +148,12 @@
       "titleTarget" : "Dirigent Meister: \"Što bi bilo društvo bez kulture?\"",
       "url" : "https://kurier.at/kultur/dirigent-meister-was-waere-eine-gesellschaft-ohne-kultur/401142675"
     }, {
+      "id" : "8HfgNzei",
+      "imgUrl" : "https://image.kurier.at/images/original/4848840/bildschirmfoto_2020-12-30_um_21.10.54.png",
+      "titleSource" : "Wagner- und Verdi-Bariton Sándor Sólyom-Nagy gestorben",
+      "titleTarget" : "Umro je bariton Wagner i Verdi Sándor Sólyom-Nagy",
+      "url" : "https://kurier.at/kultur/wagner-und-verdi-bariton-sandor-solyom-nagy-gestorben/401143800"
+    }, {
       "id" : "zsmHU6f0",
       "imgUrl" : "https://image.kurier.at/images/original/4846284/46-173799247.jpg",
       "titleSource" : "ORF-Sportchef Trost: \"Wir sind Journalisten, wir sind nicht Fan\"",
@@ -157,12 +165,6 @@
       "titleSource" : "VfGH: Filzmaiers \"Plemplem\"-Sager zu Stronach zulässig",
       "titleTarget" : "VfGH: Dozvoljen Filzmaierov \"Plemplem\" -ager zu Stronach",
       "url" : "https://www.diepresse.com/5917122/VfGH_Filzmaiers-PlemplemSager-zu-Stronach-zulaessig?from=rss"
-    }, {
-      "id" : "AZak6zBe",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/3/7/5916983/2020_h.jpg",
-      "titleSource" : "Beethoven, Schach und Covid-Dating",
-      "titleTarget" : "Beethoven, šah i Covid dating",
-      "url" : "https://www.diepresse.com/5916983/2020_Beethoven-Schach-und-CovidDating?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -175,17 +177,6 @@
       "titleSource" : "Doppelsieg in Bormio: Das Ende der ÖSV-Durststrecke",
       "titleTarget" : "Dvostruka pobjeda u Bormiu: Kraj ÖSV vitkog razdoblja",
       "url" : "https://kurier.at/sport/wintersport/der-bann-ist-gebrochen-oesv-doppelsieg-in-bormio-mayer-siegt-vor-kriechmayr/401142996"
-    }, {
-      "id" : "LrmwDkOk",
-      "imgUrl" : "https://image.kurier.at/images/original/4847847/46-173809373.jpg",
-      "titleSource" : "Live: So steht's beim Abfahrts-Klassiker in Bormio",
-      "titleTarget" : "Uživo: Tako je to na klasiku spusta u Bormiu",
-      "url" : "https://kurier.at/sport/wintersport/live-so-stehts-beim-abfahrts-klassiker-in-bormio/401142996"
-    }, {
-      "id" : "Nw3jRuIm",
-      "titleSource" : "Liensberger schrammt an erstem Sieg vorbei",
-      "titleTarget" : "Liensberger struže prošlu prvu pobjedu",
-      "url" : "https://sport.orf.at/stories/3071217/"
     }, {
       "id" : "a3jcSHYY",
       "titleSource" : "ÖSV-Doppelsieg in Bormio-Abfahrtskrimi",
@@ -208,6 +199,18 @@
       "titleSource" : "Dadic führt Weltbestenliste zu Jahresende an",
       "titleTarget" : "Dadić je na vrhu svjetske liste na kraju godine",
       "url" : "https://sport.orf.at/stories/3071253/"
+    }, {
+      "id" : "6AKQJSp1",
+      "imgUrl" : "https://image.kurier.at/images/original/4846062/46-173438835.jpg",
+      "titleSource" : "Das sind die besten Bilder des Sport-Jahres 2020",
+      "titleTarget" : "Ovo su najbolje slike sportske 2020. godine",
+      "url" : "https://kurier.at/sport/thiem-hamilton-und-co-das-sind-die-besten-bilder-des-sport-jahres-2020/401142741"
+    }, {
+      "id" : "vKqNx5Ik",
+      "imgUrl" : "https://image.kurier.at/images/original/4847322/46-173811410.jpg",
+      "titleSource" : "Kraft nach Platz sechs in Oberstdorf: \"Nicht ganz fair\"",
+      "titleTarget" : "Kraft nakon šestog mjesta u Oberstdorfu: \"Nije baš pošteno\"",
+      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-kraft-nach-platz-sechs-in-oberstdorf-nicht-ganz-fair/401142891"
     } ]
   } ],
   "country" : "austria",
