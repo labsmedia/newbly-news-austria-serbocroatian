@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kdOBH4aS",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/1/e/5917726/6D3CDA69-4C9E-4719-9F74-B6F1AB2EE3EA_v0_l.jpg",
-      "titleSource" : "Freitesten: Kickl sieht \"bodenlose Frechheit\"",
-      "titleTarget" : "Najslobodniji: Kickl vidi \"obraz bez dna\"",
-      "url" : "https://www.diepresse.com/5917726/CoronaPandemie_Freitesten-Kickl_Bodenlose-Frechheit?from=rss"
+      "id" : "oP4RJTVQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4835406/20201221-ABD0041-1-1.jpg",
+      "titleSource" : "\"Bodenlose Frechheit\": Steht das Freitesten vorerst vor dem Aus?",
+      "titleTarget" : "Kickl: Freestyle je \"obraz bez dna\"",
+      "url" : "https://kurier.at/politik/inland/kickl-freitesten-ist-bodenlose-frechheit/401144481"
     }, {
       "id" : "DrAT5btB",
       "imgUrl" : "https://image.kurier.at/images/original/4849923/46-173715420.jpg",
       "titleSource" : "Aschbacher: Corona-Kurzarbeit wird auch nach März weiterlaufen",
       "titleTarget" : "Aschbacher: Kratkotrajni rad na Coroni nastavit će se i nakon ožujka",
       "url" : "https://kurier.at/politik/inland/aschbacher-corona-kurzarbeit-wird-auch-nach-maerz-weiterlaufen/401144412"
-    }, {
-      "id" : "oP4RJTVQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4835406/20201221-ABD0041-1-1.jpg",
-      "titleSource" : "\"Bodenlose Frechheit\": Steht das Freitesten vorerst vor dem Aus?",
-      "titleTarget" : "Kickl: Freestyle je \"obraz bez dna\"",
-      "url" : "https://kurier.at/politik/inland/kickl-freitesten-ist-bodenlose-frechheit/401144481"
     }, {
       "id" : "NnAAZhDG",
       "imgUrl" : "https://image.kurier.at/images/original/4850661/46-173844243.jpg",
@@ -86,17 +80,11 @@
       "titleTarget" : "Neredi u novogodišnjoj noći: Policajci pucali petardama",
       "url" : "https://kurier.at/chronik/oesterreich/wenig-trubel-zum-jahreswechsel-silvester-war-anders/401144466"
     }, {
-      "id" : "Te7ksYc1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/98/crops/w=1280/800657_opener_278998_vlcsnap-2021-01-01-12h22m52s687.jpg?s=2b5971afdbbc8f7e83f164a6566813660113a613",
-      "titleSource" : "Pyrotechnik gegen Polizei in Favoriten",
-      "titleTarget" : "Pirotehnika protiv policije u Favoritenu",
-      "url" : "https://wien.orf.at/stories/3083138/"
-    }, {
-      "id" : "z7YT7NmO",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/45/crops/w=1280/800258_opener_278845_210101_bh_100_jahre_burgenland-00.03.56.jpg?s=007b230794ace49debd6de272b013576100016b1",
-      "titleSource" : "2021: 100 Jahre Burgenland",
-      "titleTarget" : "2021: 100 godina Gradišća",
-      "url" : "https://burgenland.orf.at/stories/3083093/"
+      "id" : "WxOViuKE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/62/crops/w=1280/800836_opener_279062_wetteer_c0005-00.00.05.jpg?s=038441ee8ff820546767f8f60f87bc328f92bd5c",
+      "titleSource" : "Neujahrsbaby: Luca kam um 4.30 Uhr zur Welt",
+      "titleTarget" : "Novogodišnja beba: Luca je rođena u 4:30 ujutro",
+      "url" : "https://burgenland.orf.at/stories/3083127/"
     }, {
       "id" : "ilkA3CUp",
       "imgUrl" : "https://image.kurier.at/images/original/4850076/Laura%20Dimo.JPG",
@@ -104,23 +92,29 @@
       "titleTarget" : "Novogodišnja beba: Dimo je rođen u ponoć",
       "url" : "https://kurier.at/chronik/oesterreich/neujahrsbaby-dimo-kam-um-000-uhr-zur-welt/401144397"
     }, {
-      "id" : "WxOViuKE",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/62/crops/w=1280/800836_opener_279062_wetteer_c0005-00.00.05.jpg?s=038441ee8ff820546767f8f60f87bc328f92bd5c",
-      "titleSource" : "Neujahrsbaby: Luca kam um 4.30 Uhr zur Welt",
-      "titleTarget" : "Novogodišnja beba: Luca je rođena u 4:30 ujutro",
-      "url" : "https://burgenland.orf.at/stories/3083127/"
-    }, {
-      "id" : "IUe1hpsf",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/65/crops/w=1280/798446_opener_278165_neujahrskonzert2.jpg?s=847514d9e6a61dea0af6d80816e395e0d447ad02",
-      "titleSource" : "Neujahrskonzert feiert das Burgenland",
-      "titleTarget" : "Gradišće slavi novogodišnji koncert",
-      "url" : "https://burgenland.orf.at/stories/3083134/"
-    }, {
       "id" : "8KC7Xv29",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.096 neue Corona-Infektionen in Österreich",
       "titleTarget" : "2.096 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2096-neue-corona-infektionen-in-oesterreich/401144406"
+    }, {
+      "id" : "RbRikJQx",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/90/crops/w=1280/800913_opener_279090_p.jpg?s=e3e4f601d4a9dca5dc8a3dc6a2c4b0e7d13be564",
+      "titleSource" : "Erfolgreiche Firmengründung in CoV-Zeit",
+      "titleTarget" : "Uspješno osnivanje tvrtke u CoV vremenu",
+      "url" : "https://vorarlberg.orf.at/stories/3083171/"
+    }, {
+      "id" : "X7UXV0BT",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/31/crops/w=1280/800756_opener_279031_lpd_silvester.jpg?s=761b1234bc7251945188fa86e9c8ee63f47e2262",
+      "titleSource" : "Polizei erwischte Duo mit 136 Raketen",
+      "titleTarget" : "Policija je Duo uhvatila sa 136 projektila",
+      "url" : "https://noe.orf.at/stories/3083155/"
+    }, {
+      "id" : "qmJCl1Xt",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/40/crops/w=1280/789432_opener_274940_201229_mangel_an_pflegekraeften_00_00_33_05.jpg?s=da1a1211e53133f59cb817bf0006fb30888bff40",
+      "titleSource" : "Umschulungen für mehr Pflegepersonal",
+      "titleTarget" : "Prekvalifikacija za više sestrinskog osoblja",
+      "url" : "https://noe.orf.at/stories/3081445/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -137,11 +131,23 @@
       "titleTarget" : "Daniel Barenboim dirigirat će novogodišnjim koncertom 2022",
       "url" : "https://kurier.at/kultur/daniel-barenboim-wird-das-neujahrskonzert-2022-leiten/401144565"
     }, {
+      "id" : "Eg1BozXC",
+      "imgUrl" : "https://image.kurier.at/images/original/4850676/46-173846338.jpg",
+      "titleSource" : "Fado-Sänger Carlos do Carmo ist tot",
+      "titleTarget" : "Fado pjevač Carlos do Carmo je mrtav",
+      "url" : "https://kurier.at/kultur/fado-saenger-carlos-do-carmo-ist-tot/401144742"
+    }, {
       "id" : "mRx7XTfO",
       "imgUrl" : "https://image.kurier.at/images/original/4850037/46-168764059.jpg",
       "titleSource" : "Eine Frage des Stils: Hummer muss immer Hummer bleiben",
       "titleTarget" : "Pitanje stila: jastog uvijek mora biti jastog",
       "url" : "https://kurier.at/kultur/buch/eine-frage-des-stils-hummer-muss-immer-hummer-bleiben/401144445"
+    }, {
+      "id" : "migRun9X",
+      "imgUrl" : "https://image.kurier.at/images/original/4850040/46-168764070.jpg",
+      "titleSource" : "Neue Biografie des \"Weltensammlers\" Richard Francis Burton",
+      "titleTarget" : "Nova biografija \"svjetskog kolekcionara\" Richarda Francisa Burtona",
+      "url" : "https://kurier.at/kultur/buch/neue-biografie-des-weltensammlers-richard-francis-burton/401144448"
     }, {
       "id" : "9ginACjs",
       "imgUrl" : "https://image.kurier.at/images/original/4850211/apv_wir_kinder_vom_bahnzoo_28c_constantin_television_mike_kraus.jpg",
@@ -154,17 +160,6 @@
       "titleSource" : "Geglücktes Experiment im Burg-Kasino: Das transdramatische Theater",
       "titleTarget" : "Uspješan eksperiment u kazinu Burg: transdramsko kazalište",
       "url" : "https://kurier.at/kultur/gegluecktes-experiment-im-burg-kasino-das-transdramatische-theater/401144535"
-    }, {
-      "id" : "bORXl1Ih",
-      "titleSource" : "Rapper MF Doom ist im Oktober 2020 gestorben",
-      "titleTarget" : "Reper MF Doom umro je u listopadu 2020",
-      "url" : "https://kurier.at/kultur/rapper-mf-doom-ist-im-oktober-2020-gestorben/401144511"
-    }, {
-      "id" : "4sA4tULT",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/5/a/5917786/kimmy_1609502859593454_v0_l.jpg",
-      "titleSource" : "Diese Filme machen das Glas halb voll",
-      "titleTarget" : "Ovi filmovi čine čašu napola punom",
-      "url" : "https://www.diepresse.com/5917786/Streamingtipps_Diese-Filme-machen-das-Glas-halb-voll?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,31 +179,30 @@
       "titleTarget" : "Rekordni skok: Kubacki pobjeđuje u Garmischu, ÖSV sprečava debakl",
       "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-kubacki-gewinnt-neujahrsspringen-in-garmisch-aschenwald-bester-oesv-adler/401144475"
     }, {
-      "id" : "uCSGsvDe",
-      "imgUrl" : "https://image.kurier.at/images/original/4850424/46-173846796.jpg",
-      "titleSource" : "Vierschanzentournee live: So steht es beim Springen in Garmisch",
-      "titleTarget" : "Turnir četiri brda uživo: Tako je to kad skačete u Garmischu",
-      "url" : "https://kurier.at/sport/wintersport/vierschanzentournee-live-so-steht-es-beim-zweiten-springen-in-garmisch-partenkirchen/401144475"
-    }, {
       "id" : "jzrmqZpO",
       "titleSource" : "Kubacki dominiert im Neujahrsspringen",
       "titleTarget" : "Kubacki dominira novogodišnjim skokovima",
       "url" : "https://sport.orf.at/stories/3071299/"
-    }, {
-      "id" : "pkLKctFh",
-      "titleSource" : "U20-Team verliert auch letztes Spiel bei WM",
-      "titleTarget" : "U20 momčad također gubi zadnju utakmicu na Svjetskom kupu",
-      "url" : "https://sport.orf.at/stories/3071294/"
     }, {
       "id" : "u4yUvq55",
       "titleSource" : "Zagreb-Slaloms unterstützen Erdbebenopfer",
       "titleTarget" : "Zagrebački slalomi podržavaju žrtve potresa",
       "url" : "https://sport.orf.at/stories/3071309/"
     }, {
-      "id" : "B0JsfSxo",
-      "titleSource" : "Leipzig-Legionär Laimer droht für EM auszufallen",
-      "titleTarget" : "Leipziški legionar Laimer prijeti neuspjehom za EM",
-      "url" : "https://sport.orf.at/stories/3071312/"
+      "id" : "lsGVlgWd",
+      "titleSource" : "Hasenhüttl nach Isolation zurück auf Trainerbank",
+      "titleTarget" : "Hasenhüttl natrag na klupu nakon izolacije",
+      "url" : "https://sport.orf.at/stories/3071304/"
+    }, {
+      "id" : "EiobLiXv",
+      "titleSource" : "ManUnited startet erfolgreich ins Jahr",
+      "titleTarget" : "ManUnited je godinu započeo uspješno",
+      "url" : "https://sport.orf.at/stories/3071319/"
+    }, {
+      "id" : "pWEivn1C",
+      "titleSource" : "Van Gerwen kassiert Abfuhr bei WM",
+      "titleTarget" : "Van Gerwen skuplja odbijenicu na WM-u",
+      "url" : "https://sport.orf.at/stories/3071318/"
     } ]
   } ],
   "country" : "austria",
