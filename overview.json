@@ -2,6 +2,24 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "zNkEySSt",
+      "imgUrl" : "https://image.kurier.at/images/original/4817934/78350011457950670_BLD_Online.jpg",
+      "titleSource" : "Rendi unterstützt Mahrer: Die SPÖ-Chefin will neues Testsystem",
+      "titleTarget" : "Rendi podržava Mahrera: Šef SPÖ-a želi novi testni sustav",
+      "url" : "https://kurier.at/politik/inland/rendi-unterstuetzt-mahrer-die-spoe-chefin-will-neues-testsystem/401145261"
+    }, {
+      "id" : "vkQ3tfNf",
+      "imgUrl" : "https://image.kurier.at/images/original/4567022/78350011455869198_BLD_Online.jpg",
+      "titleSource" : "Freitesten: Dornauer empfiehlt SPÖ klares \"Nein\" im Bundesrat",
+      "titleTarget" : "Freestest: Dornauer preporučuje SPÖ-u jasan \"ne\" u Saveznom vijeću",
+      "url" : "https://kurier.at/politik/inland/freitesten-dornauer-empfiehlt-spoe-klares-nein-im-bundesrat/401145270"
+    }, {
+      "id" : "IwWPreHs",
+      "imgUrl" : "https://image.kurier.at/images/original/4851564/46-173736826.jpg",
+      "titleSource" : "EU bestellte nach: Zwei Millionen Impfdosen mehr für Österreich",
+      "titleTarget" : "EU je naručila nakon: Još dva milijuna doza cjepiva za Austriju",
+      "url" : "https://kurier.at/politik/inland/eu-bestellte-nach-zwei-millionen-impfdosen-mehr-fuer-oesterreich/401145255"
+    }, {
       "id" : "KvLz79lo",
       "imgUrl" : "https://image.kurier.at/images/original/4753446/20201111-ABD0046-1-1.jpg",
       "titleSource" : "Kogler: Zahlen „weit unter dem europäischen Schnitt“",
@@ -25,24 +43,6 @@
       "titleSource" : "Doskozil ist zur Nachuntersuchung seiner Stimmbänder in Leipzig",
       "titleTarget" : "Doskozil je u Leipzigu na naknadnom pregledu glasnica",
       "url" : "https://kurier.at/politik/inland/politik-von-innen/doskozil-ist-zur-nachuntersuchung-seiner-stimmbaender-in-leipzig/401145135"
-    }, {
-      "id" : "nAcAUL2G",
-      "imgUrl" : "https://image.kurier.at/images/original/4520411/46-164676727.jpg",
-      "titleSource" : "Doskozils ist zur Nachuntersuchung seiner Stimmbänder in Leipzig",
-      "titleTarget" : "Doskozils je u Leipzigu na naknadnom pregledu glasnica",
-      "url" : "https://kurier.at/politik/inland/politik-von-innen/doskozils-ist-zur-nachuntersuchung-seiner-stimmbaender-in-leipzig/401145135"
-    }, {
-      "id" : "fSpLvQVW",
-      "imgUrl" : "https://image.kurier.at/images/original/4671514/20201001-ABD0015-1-1.jpg",
-      "titleSource" : "Zugangsbeschränkungen steigerten Uni-Abschlüsse nicht",
-      "titleTarget" : "Ograničenja pristupa nisu povećala sveučilišne diplome",
-      "url" : "https://kurier.at/politik/inland/zugangsbeschraenkungen-an-unis-steigerten-abschluesse-nicht/401144982"
-    }, {
-      "id" : "DOJtB7ht",
-      "imgUrl" : "https://image.kurier.at/images/original/4810461/46-168900724.jpg",
-      "titleSource" : "Coronahilfen finden weite Zustimmung",
-      "titleTarget" : "Koronska pomoć široko je prihvaćena",
-      "url" : "https://kurier.at/politik/inland/coronahilfen-finden-weite-zustimmung/401144973"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -74,11 +74,11 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "37KvGvpG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/15/crops/w=1280/559644_opener_190515_sitzung_des_tiroler_landtags_dornauer_.jpg?s=e19a35fc5dd54c9fc08736b5a7a4daaca8697e24",
-      "titleSource" : "Dornauer empfiehlt Nein zu Freitesten",
-      "titleTarget" : "Dornauer preporučuje besplatne testove",
-      "url" : "https://tirol.orf.at/stories/3083258/"
+      "id" : "ZCGdiHAW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/24/89/crops/w=1280/585293_opener_199789_wolf-003_schar.jpg?s=3a2d97d768bc360926cac3090291179d97cd1014",
+      "titleSource" : "Erstmals Wolf mit Sender im Böhmerwald",
+      "titleTarget" : "Prvi put vuk s odašiljačem u boemskoj šumi",
+      "url" : "https://ooe.orf.at/stories/3080033/"
     }, {
       "id" : "GeX80HRV",
       "imgUrl" : "https://image.kurier.at/images/original/4722213/46-168444789.jpg",
@@ -92,11 +92,6 @@
       "titleTarget" : "Snowboarder se ugušio nakon pada u snježnu rupu",
       "url" : "https://kurier.at/chronik/oesterreich/snowboarder-erstickte-nach-sturz-in-schneeloch/401144832"
     }, {
-      "id" : "GijoEOge",
-      "titleSource" : "Klinik Floridsdorf tanzt ins neue Jahr",
-      "titleTarget" : "Klinik Floridsdorf pleše u novoj godini",
-      "url" : "https://wien.orf.at/stories/3083259/"
-    }, {
       "id" : "lc0Dk0ln",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.391 neue Corona-Infektionen in Österreich",
@@ -109,38 +104,32 @@
       "titleTarget" : "Tri su alkoholičara imala nesreće: Nitko ne želi voziti",
       "url" : "https://kurier.at/chronik/oesterreich/drei-alkolenker-hatten-unfaelle-keiner-will-gefahren-sein/401144889"
     }, {
-      "id" : "Eb9xZO6Y",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/24/crops/w=1280/801292_opener_279224_kh_grosser_boom_bei_selbstbedienungsh_tten__201227_00_00_47_10.jpg?s=ff6ddbd3dcf0ad3abdcc9c5930c23098b758122d",
-      "titleSource" : "Immer mehr Bauern setzen auf SB-Hütten",
-      "titleTarget" : "Sve se više poljoprivrednika oslanja na samoposlužne kolibe",
-      "url" : "https://kaernten.orf.at/stories/3083234/"
+      "id" : "CElByson",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/75/crops/w=1280/521275_opener_176175_apacoronavirus_hotel_in_innsbruck_vorerst_gesperrt_.jpg?s=4325ae7e484d4593632785cde594afa775f66c7e",
+      "titleSource" : "Mehrheit hält dritten Lockdown ein",
+      "titleTarget" : "Većina se drži trećeg zaključavanja",
+      "url" : "https://noe.orf.at/stories/3083227/"
+    }, {
+      "id" : "LsyN2xqp",
+      "imgUrl" : "https://image.kurier.at/images/original/4752735/78350011457449424_BLD_Online.jpg",
+      "titleSource" : "17-Jähriger starb bei Motorradunfall",
+      "titleTarget" : "17-godišnjak je smrtno stradao u motociklističkoj nesreći",
+      "url" : "https://kurier.at/chronik/oesterreich/17-jaehriger-starb-bei-motorradunfall/401144841"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "Eg1BozXC",
-      "imgUrl" : "https://image.kurier.at/images/original/4850676/46-173846338.jpg",
-      "titleSource" : "Fado-Sänger Carlos do Carmo ist tot",
-      "titleTarget" : "Fado pjevač Carlos do Carmo je mrtav",
-      "url" : "https://kurier.at/kultur/fado-saenger-carlos-do-carmo-ist-tot/401144742"
-    }, {
-      "id" : "HlnDIuun",
-      "imgUrl" : "https://image.kurier.at/images/original/4850034/46-149500956.jpg",
-      "titleSource" : "Richard Ford und seine Suche nach vollkommener Einfachheit",
-      "titleTarget" : "Richard Ford i njegova potraga za potpunom jednostavnošću",
-      "url" : "https://kurier.at/kultur/buch/richard-ford-und-seine-suche-nach-vollkommener-einfachheit/401144442"
-    }, {
       "id" : "y3q7Lre8",
       "imgUrl" : "https://image.kurier.at/images/original/4850370/46-173820407.jpg",
       "titleSource" : "\"Das ist fast wie ein K.-o.-Schlag\"",
       "titleTarget" : "\"To je gotovo kao udarac nokautom\"",
       "url" : "https://kurier.at/kultur/medien/das-ist-fast-wie-ein-k-o-schlag/401144631"
     }, {
-      "id" : "migRun9X",
-      "imgUrl" : "https://image.kurier.at/images/original/4850040/46-168764070.jpg",
-      "titleSource" : "Neue Biografie des \"Weltensammlers\" Richard Francis Burton",
-      "titleTarget" : "Nova biografija \"svjetskog kolekcionara\" Richarda Francisa Burtona",
-      "url" : "https://kurier.at/kultur/buch/neue-biografie-des-weltensammlers-richard-francis-burton/401144448"
+      "id" : "HlnDIuun",
+      "imgUrl" : "https://image.kurier.at/images/original/4850034/46-149500956.jpg",
+      "titleSource" : "Richard Ford und seine Suche nach vollkommener Einfachheit",
+      "titleTarget" : "Richard Ford i njegova potraga za potpunom jednostavnošću",
+      "url" : "https://kurier.at/kultur/buch/richard-ford-und-seine-suche-nach-vollkommener-einfachheit/401144442"
     }, {
       "id" : "rImnvSuN",
       "imgUrl" : "https://image.kurier.at/images/original/4849284/46-111660497.jpg",
@@ -166,20 +155,16 @@
       "titleTarget" : "10 milijuna neto godišnje? Real je ozbiljan u vezi s Alaba pokerom",
       "url" : "https://kurier.at/sport/fussball/4-jahre-10-millionen-real-madrid-macht-im-poker-um-bayern-verteidiger-david-alaba-ernst/401144892"
     }, {
-      "id" : "pWEivn1C",
-      "titleSource" : "Van Gerwen kassiert Abfuhr bei WM",
-      "titleTarget" : "Van Gerwen skuplja odbijenicu na WM-u",
-      "url" : "https://sport.orf.at/stories/3071318/"
-    }, {
-      "id" : "t5bu3fb9",
-      "titleSource" : "Was das Jahr 2021 den Fans bringt",
-      "titleTarget" : "Što će 2021. donijeti navijačima",
-      "url" : "https://sport.orf.at/stories/3071124/"
-    }, {
       "id" : "s294LiTi",
       "titleSource" : "Sport laut Papst Schule für das Leben",
       "titleTarget" : "Sport prema Papinoj školi za život",
       "url" : "https://sport.orf.at/stories/3071330/"
+    }, {
+      "id" : "sdKb4K4I",
+      "imgUrl" : "https://image.kurier.at/images/original/4851522/46-166783505.jpg",
+      "titleSource" : "Neue Liebe: Formel-1-Star Max Verstappen zeigt seine Freundin",
+      "titleTarget" : "Nova ljubav: Zvijezda Formule 1 Max Verstappen pokazuje svoju djevojku",
+      "url" : "https://kurier.at/sport/motorsport/neue-liebe-formel-1-star-max-verstappen-zeigt-seine-freundin-kelly-piquet/401145219"
     }, {
       "id" : "1UEqzk1A",
       "titleSource" : "Steu/Koller behaupten Weltcup-Führung",
@@ -191,11 +176,15 @@
       "titleTarget" : "Novine: Real Madrid pojačava napore na Alabi",
       "url" : "https://sport.orf.at/stories/3071329/"
     }, {
-      "id" : "sdKb4K4I",
-      "imgUrl" : "https://image.kurier.at/images/original/4851522/46-166783505.jpg",
-      "titleSource" : "Neue Liebe: Formel-1-Star Max Verstappen zeigt seine Freundin",
-      "titleTarget" : "Nova ljubav: Zvijezda Formule 1 Max Verstappen pokazuje svoju djevojku",
-      "url" : "https://kurier.at/sport/motorsport/neue-liebe-formel-1-star-max-verstappen-zeigt-seine-freundin-kelly-piquet/401145219"
+      "id" : "PNlyJZKV",
+      "titleSource" : "Startliste für Damen-Slalom in Zagreb",
+      "titleTarget" : "Startna lista za ženski slalom u Zagrebu",
+      "url" : "https://sport.orf.at/stories/3071354/"
+    }, {
+      "id" : "OElkvcRb",
+      "titleSource" : "Gmunden gewinnt OÖ-Derby – Wiener Derby an BC Vienna",
+      "titleTarget" : "Gmunden je pobijedio derbi Gornje Austrije - Bečki derbi u BC Vienna",
+      "url" : "https://sport.orf.at/stories/3071350/"
     } ]
   } ],
   "country" : "austria",
