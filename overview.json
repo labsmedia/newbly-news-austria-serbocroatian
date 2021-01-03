@@ -26,27 +26,39 @@
       "titleTarget" : "Kogler: Brojevi \"daleko ispod europskog prosjeka\"",
       "url" : "https://kurier.at/politik/inland/kogler-zahlen-weit-unter-dem-europaeischen-schnitt/401145018"
     }, {
-      "id" : "HrxrqgP6",
-      "imgUrl" : "https://image.kurier.at/images/original/4754934/78350011457466086_BLD_Online.jpg",
-      "titleSource" : "Tanner: \"Sicherheit gibt es nicht zum Nulltarif\"",
-      "titleTarget" : "Tanner: \"Sigurnost ne dolazi besplatno\"",
-      "url" : "https://kurier.at/politik/inland/tanner-sicherheit-gibt-es-nicht-zum-nulltarif/401144844"
-    }, {
-      "id" : "1pFto6ux",
-      "imgUrl" : "https://image.kurier.at/images/original/2151/heinisch-000_christandl%252Bjuerg.jpg",
-      "titleSource" : "Heinisch-Hosek kritisiert Raab und \"männliches\" Krisenmanagement",
-      "titleTarget" : "Heinisch-Hosek kritizira Raaba i \"muški\" krizni menadžment",
-      "url" : "https://kurier.at/politik/inland/heinisch-hosek-kritisiert-raab-und-maennliches-krisenmanagement/401144850"
-    }, {
       "id" : "zCVRsC1f",
       "imgUrl" : "https://image.kurier.at/images/original/4520411/46-164676727.jpg",
       "titleSource" : "Doskozil ist zur Nachuntersuchung seiner Stimmbänder in Leipzig",
       "titleTarget" : "Doskozil je u Leipzigu na naknadnom pregledu glasnica",
       "url" : "https://kurier.at/politik/inland/politik-von-innen/doskozil-ist-zur-nachuntersuchung-seiner-stimmbaender-in-leipzig/401145135"
+    }, {
+      "id" : "fSpLvQVW",
+      "imgUrl" : "https://image.kurier.at/images/original/4671514/20201001-ABD0015-1-1.jpg",
+      "titleSource" : "Zugangsbeschränkungen steigerten Uni-Abschlüsse nicht",
+      "titleTarget" : "Ograničenja pristupa nisu povećala sveučilišne diplome",
+      "url" : "https://kurier.at/politik/inland/zugangsbeschraenkungen-an-unis-steigerten-abschluesse-nicht/401144982"
+    }, {
+      "id" : "DOJtB7ht",
+      "imgUrl" : "https://image.kurier.at/images/original/4810461/46-168900724.jpg",
+      "titleSource" : "Coronahilfen finden weite Zustimmung",
+      "titleTarget" : "Koronska pomoć široko je prihvaćena",
+      "url" : "https://kurier.at/politik/inland/coronahilfen-finden-weite-zustimmung/401144973"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "fNyJAiVD",
+      "imgUrl" : "https://image.kurier.at/images/original/4836777/46-173618667.jpg",
+      "titleSource" : "Trendscout: James Bond wäre neidisch",
+      "titleTarget" : "Izviđač trenda: James Bond bio bi ljubomoran",
+      "url" : "https://kurier.at/wirtschaft/immobiz/trendscout-james-bond-waere-neidisch/401137275"
+    }, {
+      "id" : "lPywUhxn",
+      "imgUrl" : "https://image.kurier.at/images/original/4837281/46-168745892.jpg",
+      "titleSource" : "„Akzeptieren Sie die Realität“: Roman Braun über Stereotypen",
+      "titleTarget" : "\"Prihvati stvarnost\": Roman Braun o stereotipima",
+      "url" : "https://kurier.at/wirtschaft/karriere/akzeptieren-sie-die-realitaet-roman-braun-ueber-stereotypen/401136339"
+    }, {
       "id" : "wNgxpHuU",
       "imgUrl" : "https://image.kurier.at/images/original/3704942/78370011350047632_BLD_Online.jpg",
       "titleSource" : "Bitcoin knackt die Marke von 30.000 Dollar",
@@ -65,11 +77,17 @@
       "titleTarget" : "Njemački ekonomski stručnjak: val bankrota zbog druge blokade",
       "url" : "https://kurier.at/wirtschaft/deutscher-wirtschaftsexperte-pleitewelle-durch-zweiten-lockdown/401145102"
     }, {
-      "id" : "OV8KT23q",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/d/1/6/5917974/9943EA08-336C-456D-8903-06CC22D8DF7C_v0_h.jpg",
-      "titleSource" : "TUI-Chef erwartet \"weitgehend normalen\" Sommer 2021",
-      "titleTarget" : "Šef TUI-ja očekuje \"uglavnom normalno\" ljeto 2021",
-      "url" : "https://www.diepresse.com/5917974/TUIChef-erwartet-weitgehend-normalen-Sommer-2021?from=rss"
+      "id" : "nTKicw5r",
+      "imgUrl" : "https://image.kurier.at/images/original/4755021/20201112-ABD0005-1-1.jpg",
+      "titleSource" : "AMS-Vorstand Kopf: Zuerst 500.000 Arbeitslose, dann Aufschwung",
+      "titleTarget" : "Šef uprave AMS-a: Prvo 500 000 nezaposlenih, a zatim uspon",
+      "url" : "https://kurier.at/wirtschaft/ams-vorstand-kopf-zuerst-500000-arbeitslose-dann-aufschwung/401145453"
+    }, {
+      "id" : "0xTCIU7n",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/0/d/5918221/70A1A1CE-8035-4645-8011-D381D29CE14E_v0_l.jpg",
+      "titleSource" : "AMS-Chef Kopf: Nach der Krise kommt der Aufschwung",
+      "titleTarget" : "Šef AMS-a: Nakon krize dolazi do uspona",
+      "url" : "https://www.diepresse.com/5918221/Arbeitsmarkt_AMSChef-Kopf_Nach-der-Krise-kommt-der-Aufschwung?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -80,29 +98,11 @@
       "titleTarget" : "Prvi put vuk s odašiljačem u boemskoj šumi",
       "url" : "https://ooe.orf.at/stories/3080033/"
     }, {
-      "id" : "GeX80HRV",
-      "imgUrl" : "https://image.kurier.at/images/original/4722213/46-168444789.jpg",
-      "titleSource" : "Corona-Demos in Linz, Innsbruck und Graz",
-      "titleTarget" : "Demo demonstracije Corone u Linzu, Innsbrucku i Grazu",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demo-mit-1000-teilnehmern-in-linz/401144913"
-    }, {
-      "id" : "0N2ce3s3",
-      "imgUrl" : "https://image.kurier.at/images/original/4706559/46-155058165.jpg",
-      "titleSource" : "Snowboarder erstickte nach Sturz in Schneeloch",
-      "titleTarget" : "Snowboarder se ugušio nakon pada u snježnu rupu",
-      "url" : "https://kurier.at/chronik/oesterreich/snowboarder-erstickte-nach-sturz-in-schneeloch/401144832"
-    }, {
       "id" : "lc0Dk0ln",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.391 neue Corona-Infektionen in Österreich",
       "titleTarget" : "1.391 nova infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1391-neue-corona-infektionen-in-oesterreich/401144835"
-    }, {
-      "id" : "THT5Ki48",
-      "imgUrl" : "https://image.kurier.at/images/original/4830570/78350011458041100_BLD_Online.jpg",
-      "titleSource" : "Drei Alkolenker hatten Unfälle: Keiner will gefahren sein",
-      "titleTarget" : "Tri su alkoholičara imala nesreće: Nitko ne želi voziti",
-      "url" : "https://kurier.at/chronik/oesterreich/drei-alkolenker-hatten-unfaelle-keiner-will-gefahren-sein/401144889"
     }, {
       "id" : "CElByson",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/75/crops/w=1280/521275_opener_176175_apacoronavirus_hotel_in_innsbruck_vorerst_gesperrt_.jpg?s=4325ae7e484d4593632785cde594afa775f66c7e",
@@ -110,32 +110,38 @@
       "titleTarget" : "Većina se drži trećeg zaključavanja",
       "url" : "https://noe.orf.at/stories/3083227/"
     }, {
-      "id" : "LsyN2xqp",
-      "imgUrl" : "https://image.kurier.at/images/original/4752735/78350011457449424_BLD_Online.jpg",
-      "titleSource" : "17-Jähriger starb bei Motorradunfall",
-      "titleTarget" : "17-godišnjak je smrtno stradao u motociklističkoj nesreći",
-      "url" : "https://kurier.at/chronik/oesterreich/17-jaehriger-starb-bei-motorradunfall/401144841"
+      "id" : "UiamSG2e",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/20/crops/w=1280/801724_opener_279420_geimpfte.jpg?s=e398045178db1e3134e987b71a90808a7fb2c367",
+      "titleSource" : "Geimpfte berichtet über gute Verträglichkeit",
+      "titleTarget" : "Cijepljene osobe prijavile su dobru toleranciju",
+      "url" : "https://wien.orf.at/stories/3083191/"
+    }, {
+      "id" : "jLO2S6Ga",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/43/crops/w=1280/802019_opener_279543_11.jpg?s=50e603a5d3920ef3046f21aabf93d5493dfd2e01",
+      "titleSource" : "Situation in Osttirol entspannt sich leicht",
+      "titleTarget" : "Situacija u Istočnom Tirolu blago se smiruje",
+      "url" : "https://tirol.orf.at/stories/3083285/"
+    }, {
+      "id" : "vO92xycJ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/15/crops/w=1280/801258_opener_279215_werner_kogler_c_orf_schoettl_2.jpg?s=4e84b8db2500a2a8900b353485ab14ec662309e0",
+      "titleSource" : "Kogler: „Grüne Schwerpunkte durchgesetzt“",
+      "titleTarget" : "Kogler: \"Provedeni zeleni prioriteti\"",
+      "url" : "https://steiermark.orf.at/stories/3083235/"
+    }, {
+      "id" : "pVtsm6MC",
+      "imgUrl" : "https://image.kurier.at/images/original/4851000/wagrain_kleinarl2.jpg",
+      "titleSource" : "\"Flatten the curve\": Werbung von Skigebiet sorgt für Aufregung",
+      "titleTarget" : "\"Poravnajte krivulju\": Oglašavanje sa skijališta izaziva uzbuđenje",
+      "url" : "https://kurier.at/chronik/oesterreich/flatten-the-curve-werbung-von-skigebiet-sorgt-fuer-aufregung/401144979"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "y3q7Lre8",
-      "imgUrl" : "https://image.kurier.at/images/original/4850370/46-173820407.jpg",
-      "titleSource" : "\"Das ist fast wie ein K.-o.-Schlag\"",
-      "titleTarget" : "\"To je gotovo kao udarac nokautom\"",
-      "url" : "https://kurier.at/kultur/medien/das-ist-fast-wie-ein-k-o-schlag/401144631"
-    }, {
-      "id" : "HlnDIuun",
-      "imgUrl" : "https://image.kurier.at/images/original/4850034/46-149500956.jpg",
-      "titleSource" : "Richard Ford und seine Suche nach vollkommener Einfachheit",
-      "titleTarget" : "Richard Ford i njegova potraga za potpunom jednostavnošću",
-      "url" : "https://kurier.at/kultur/buch/richard-ford-und-seine-suche-nach-vollkommener-einfachheit/401144442"
-    }, {
-      "id" : "rImnvSuN",
-      "imgUrl" : "https://image.kurier.at/images/original/4849284/46-111660497.jpg",
-      "titleSource" : "Der Soundtrack zum Jahr 2021: Wer neue Alben veröffentlichen wird",
-      "titleTarget" : "Filmska glazba za 2021: Tko će objaviti nove albume",
-      "url" : "https://kurier.at/kultur/der-soundtrack-zum-jahr-2021-wer-neue-alben-veroeffentlichen-wird/401144109"
+      "id" : "Cqb5gF4h",
+      "imgUrl" : "https://image.kurier.at/images/original/4851066/46-173795140.jpg",
+      "titleSource" : "21 Serien, auf die wir uns 2021 freuen",
+      "titleTarget" : "21 serija kojoj se radujemo 2021. godine",
+      "url" : "https://kurier.at/kultur/medien/21-serien-auf-die-wir-uns-2021-freuen/401145030"
     }, {
       "id" : "WfgPHPdQ",
       "imgUrl" : "https://image.kurier.at/images/original/4851012/46-173846368.jpg",
@@ -149,42 +155,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "pAt94dHd",
-      "imgUrl" : "https://image.kurier.at/images/original/4850910/46-173409497.jpg",
-      "titleSource" : "10 Millionen netto pro Jahr? Real macht im Alaba-Poker ernst",
-      "titleTarget" : "10 milijuna neto godišnje? Real je ozbiljan u vezi s Alaba pokerom",
-      "url" : "https://kurier.at/sport/fussball/4-jahre-10-millionen-real-madrid-macht-im-poker-um-bayern-verteidiger-david-alaba-ernst/401144892"
-    }, {
-      "id" : "s294LiTi",
-      "titleSource" : "Sport laut Papst Schule für das Leben",
-      "titleTarget" : "Sport prema Papinoj školi za život",
-      "url" : "https://sport.orf.at/stories/3071330/"
-    }, {
       "id" : "sdKb4K4I",
       "imgUrl" : "https://image.kurier.at/images/original/4851522/46-166783505.jpg",
       "titleSource" : "Neue Liebe: Formel-1-Star Max Verstappen zeigt seine Freundin",
       "titleTarget" : "Nova ljubav: Zvijezda Formule 1 Max Verstappen pokazuje svoju djevojku",
       "url" : "https://kurier.at/sport/motorsport/neue-liebe-formel-1-star-max-verstappen-zeigt-seine-freundin-kelly-piquet/401145219"
     }, {
-      "id" : "1UEqzk1A",
-      "titleSource" : "Steu/Koller behaupten Weltcup-Führung",
-      "titleTarget" : "Steu / Koller polažu pravo na vodstvo Svjetskog kupa",
-      "url" : "https://sport.orf.at/stories/3071331/"
+      "id" : "dLoagsP0",
+      "titleSource" : "Shiffrin vor Rekord und Meilenstein",
+      "titleTarget" : "Shiffrin ispred rekorda i prekretnice",
+      "url" : "https://sport.orf.at/stories/3071332/"
     }, {
-      "id" : "SINrdtSZ",
-      "titleSource" : "Zeitung: Real Madrid verstärkt Bemühungen um Alaba",
-      "titleTarget" : "Novine: Real Madrid pojačava napore na Alabi",
-      "url" : "https://sport.orf.at/stories/3071329/"
+      "id" : "V4m62YWs",
+      "titleSource" : "Österreicher spüren auf Bergisel Aufwind",
+      "titleTarget" : "Austrijanci osjećaju uzlet Bergisela",
+      "url" : "https://sport.orf.at/stories/3071344/"
     }, {
-      "id" : "PNlyJZKV",
-      "titleSource" : "Startliste für Damen-Slalom in Zagreb",
-      "titleTarget" : "Startna lista za ženski slalom u Zagrebu",
-      "url" : "https://sport.orf.at/stories/3071354/"
+      "id" : "XkZOTCQR",
+      "titleSource" : "Semifinale bei U20-WM in Kanada komplett",
+      "titleTarget" : "Završeno polufinale na U20 Svjetskom kupu u Kanadi",
+      "url" : "https://sport.orf.at/stories/3071360/"
     }, {
-      "id" : "OElkvcRb",
-      "titleSource" : "Gmunden gewinnt OÖ-Derby – Wiener Derby an BC Vienna",
-      "titleTarget" : "Gmunden je pobijedio derbi Gornje Austrije - Bečki derbi u BC Vienna",
-      "url" : "https://sport.orf.at/stories/3071350/"
+      "id" : "Ju1AsZhk",
+      "titleSource" : "Zwischenstand beim Bergiselspringen ab 13.30 Uhr",
+      "titleTarget" : "Srednji rezultat skoka Bergisela od 13.30 sati",
+      "url" : "https://sport.orf.at/stories/3071359/"
+    }, {
+      "id" : "nmczZAiP",
+      "titleSource" : "Spielstände der ICE Hockey League ab 16.30 Uhr",
+      "titleTarget" : "Rezultati ICE hokejaške lige od 16.30 sati",
+      "url" : "https://sport.orf.at/stories/3071357/"
+    }, {
+      "id" : "MTiI6WTj",
+      "titleSource" : "Zehnwöchige Sperre für Trippier offenbar ausgesetzt",
+      "titleTarget" : "Očito je suspendirana desettjedna zabrana Trippiera",
+      "url" : "https://sport.orf.at/stories/3071355/"
     } ]
   } ],
   "country" : "austria",
