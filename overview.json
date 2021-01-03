@@ -2,51 +2,69 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "zNkEySSt",
-      "imgUrl" : "https://image.kurier.at/images/original/4817934/78350011457950670_BLD_Online.jpg",
-      "titleSource" : "Rendi unterstützt Mahrer: Die SPÖ-Chefin will neues Testsystem",
-      "titleTarget" : "Rendi podržava Mahrera: Šef SPÖ-a želi novi testni sustav",
-      "url" : "https://kurier.at/politik/inland/rendi-unterstuetzt-mahrer-die-spoe-chefin-will-neues-testsystem/401145261"
+      "id" : "WTDIoCVY",
+      "imgUrl" : "https://image.kurier.at/images/original/4852023/46-173805629.jpg",
+      "titleSource" : "Kollektives Nein: Opposition wird \"Freitesten\" wohl vorerst verhindern",
+      "titleTarget" : "Kolektivni br: oporba će zasad vjerojatno spriječiti \"slobodni stil\"",
+      "url" : "https://kurier.at/politik/inland/freitesten-parlamentsserver-kollabiert-fpoe-uebt-harte-kritik/401145462"
     }, {
-      "id" : "vkQ3tfNf",
-      "imgUrl" : "https://image.kurier.at/images/original/4567022/78350011455869198_BLD_Online.jpg",
-      "titleSource" : "Freitesten: Dornauer empfiehlt SPÖ klares \"Nein\" im Bundesrat",
-      "titleTarget" : "Freestest: Dornauer preporučuje SPÖ-u jasan \"ne\" u Saveznom vijeću",
-      "url" : "https://kurier.at/politik/inland/freitesten-dornauer-empfiehlt-spoe-klares-nein-im-bundesrat/401145270"
+      "id" : "vwl2uTpr",
+      "imgUrl" : "https://image.kurier.at/images/original/4851903/46-173507491.jpg",
+      "titleSource" : "Schützenhöfer: Politiker sollen sich \"schnellstens\" impfen lassen",
+      "titleTarget" : "Schützenhöfer: Političari bi se trebali cijepiti \"što prije\"",
+      "url" : "https://kurier.at/politik/inland/schuetzenhoefer-politiker-sollen-sich-schnellstens-impfen-lassen/401145531"
     }, {
-      "id" : "IwWPreHs",
-      "imgUrl" : "https://image.kurier.at/images/original/4851564/46-173736826.jpg",
-      "titleSource" : "EU bestellte nach: Zwei Millionen Impfdosen mehr für Österreich",
-      "titleTarget" : "EU je naručila nakon: Još dva milijuna doza cjepiva za Austriju",
-      "url" : "https://kurier.at/politik/inland/eu-bestellte-nach-zwei-millionen-impfdosen-mehr-fuer-oesterreich/401145255"
+      "id" : "Fg70rIgf",
+      "imgUrl" : "https://image.kurier.at/images/original/4815846/46-173505897.jpg",
+      "titleSource" : "Verwirrung um Corona-Statistik: Antigentests in Wien nicht mitgerechnet",
+      "titleTarget" : "Zbrka oko statistike korone: testovi antigena u Beču nisu uključeni",
+      "url" : "https://kurier.at/politik/inland/verwirrung-um-corona-statistik-antigentests-in-wien-nicht-mitgerechnet/401145699"
     }, {
-      "id" : "KvLz79lo",
-      "imgUrl" : "https://image.kurier.at/images/original/4753446/20201111-ABD0046-1-1.jpg",
-      "titleSource" : "Kogler: Zahlen „weit unter dem europäischen Schnitt“",
-      "titleTarget" : "Kogler: Brojevi \"daleko ispod europskog prosjeka\"",
-      "url" : "https://kurier.at/politik/inland/kogler-zahlen-weit-unter-dem-europaeischen-schnitt/401145018"
+      "id" : "XGaJ7UJA",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/d/5918301/E2D1B080-6EE8-4E4E-9B81-71C04EB82AFC_v0_l.jpg",
+      "titleSource" : "Missglückte \"Datenbereinigung\" in der Corona-Statistik",
+      "titleTarget" : "Neuspješno \"čišćenje podataka\" u statistici korona",
+      "url" : "https://www.diepresse.com/5918301/Epidemie_Missglueckten-Datenbereinigung-in-der-CoronaStatistik?from=rss"
     }, {
-      "id" : "zCVRsC1f",
-      "imgUrl" : "https://image.kurier.at/images/original/4520411/46-164676727.jpg",
-      "titleSource" : "Doskozil ist zur Nachuntersuchung seiner Stimmbänder in Leipzig",
-      "titleTarget" : "Doskozil je u Leipzigu na naknadnom pregledu glasnica",
-      "url" : "https://kurier.at/politik/inland/politik-von-innen/doskozil-ist-zur-nachuntersuchung-seiner-stimmbaender-in-leipzig/401145135"
+      "id" : "iJx6CdlC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/3/1/5918257/B1707DE0-74C6-4326-81A8-43EE15471B10_v0_l.jpg",
+      "titleSource" : "Freitesten: Opposition steht geschlossen auf der Bremse",
+      "titleTarget" : "Najslobodnije od svega: opozicija čvrsto koči",
+      "url" : "https://www.diepresse.com/5918257/CoronaPandemie_Freitesten_Opposition-steht-geschlossen-auf-der-Bremse?from=rss"
     }, {
-      "id" : "fSpLvQVW",
-      "imgUrl" : "https://image.kurier.at/images/original/4671514/20201001-ABD0015-1-1.jpg",
-      "titleSource" : "Zugangsbeschränkungen steigerten Uni-Abschlüsse nicht",
-      "titleTarget" : "Ograničenja pristupa nisu povećala sveučilišne diplome",
-      "url" : "https://kurier.at/politik/inland/zugangsbeschraenkungen-an-unis-steigerten-abschluesse-nicht/401144982"
-    }, {
-      "id" : "DOJtB7ht",
-      "imgUrl" : "https://image.kurier.at/images/original/4810461/46-168900724.jpg",
-      "titleSource" : "Coronahilfen finden weite Zustimmung",
-      "titleTarget" : "Koronska pomoć široko je prihvaćena",
-      "url" : "https://kurier.at/politik/inland/coronahilfen-finden-weite-zustimmung/401144973"
+      "id" : "KXWk65Eh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/2/1/5918241/A21DC8B7-532C-426D-802F-777698181599_v0_l.jpg",
+      "titleSource" : "Schützenhöfer für schnelle Impfung von Politikern",
+      "titleTarget" : "Schützenhöfer za brzo cijepljenje političara",
+      "url" : "https://www.diepresse.com/5918241/CoronaPandemie_Schuetzenhoefer-fuer-schnelle-Impfung-von-Politikern?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "bgQO1aE6",
+      "imgUrl" : "https://image.kurier.at/images/original/4287692/78350011454400018_BLD_Online.jpg",
+      "titleSource" : "Anklage wegen Millionenbetrugs bei Semmering-Basistunnel",
+      "titleTarget" : "Optužbe za milijunske prijevare u baznom tunelu Semmering",
+      "url" : "https://kurier.at/wirtschaft/millionenbetrug-bei-semmering-basistunnel/401145489"
+    }, {
+      "id" : "wczXOSpL",
+      "imgUrl" : "https://image.kurier.at/images/original/4852044/46-168651395.jpg",
+      "titleSource" : "Nach Regime-Kritik: Reichster Mann Chinas spurlos verschwunden",
+      "titleTarget" : "Nakon kritika režima: najbogatiji čovjek Kine netragom je nestao",
+      "url" : "https://kurier.at/wirtschaft/nach-regime-kritik-reichster-mann-chinas-spurlos-verschwunden/401145573"
+    }, {
+      "id" : "tZd14vaf",
+      "imgUrl" : "https://image.kurier.at/images/original/3974936/78370011352050836_BLD_Online.jpg",
+      "titleSource" : "Fusion von PSA und Fiat/Chrysler wird am Montag besiegelt",
+      "titleTarget" : "Spajanje PSA-a i Fiata / Chryslera bit će zapečaćeno u ponedjeljak",
+      "url" : "https://kurier.at/wirtschaft/fusion-von-psa-und-fiatchrysler-wird-am-montag-besiegelt/401145474"
+    }, {
+      "id" : "nTKicw5r",
+      "imgUrl" : "https://image.kurier.at/images/original/4755021/20201112-ABD0005-1-1.jpg",
+      "titleSource" : "AMS-Vorstand Kopf: Zuerst 500.000 Arbeitslose, dann Aufschwung",
+      "titleTarget" : "Šef uprave AMS-a: Prvo 500 000 nezaposlenih, a zatim uspon",
+      "url" : "https://kurier.at/wirtschaft/ams-vorstand-kopf-zuerst-500000-arbeitslose-dann-aufschwung/401145453"
+    }, {
       "id" : "fNyJAiVD",
       "imgUrl" : "https://image.kurier.at/images/original/4836777/46-173618667.jpg",
       "titleSource" : "Trendscout: James Bond wäre neidisch",
@@ -59,95 +77,77 @@
       "titleTarget" : "\"Prihvati stvarnost\": Roman Braun o stereotipima",
       "url" : "https://kurier.at/wirtschaft/karriere/akzeptieren-sie-die-realitaet-roman-braun-ueber-stereotypen/401136339"
     }, {
-      "id" : "wNgxpHuU",
-      "imgUrl" : "https://image.kurier.at/images/original/3704942/78370011350047632_BLD_Online.jpg",
-      "titleSource" : "Bitcoin knackt die Marke von 30.000 Dollar",
-      "titleTarget" : "Bitcoin probija granicu od 30.000 dolara",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-knackt-die-marke-von-30000-dollar/401145111"
-    }, {
-      "id" : "YtkjEcJg",
-      "imgUrl" : "https://image.kurier.at/images/original/3987522/20191211-ABD0014-1-1.jpg",
-      "titleSource" : "TUI erwartet \"weitgehend normalen\" Sommer 2021",
-      "titleTarget" : "TUI očekuje \"uglavnom normalno\" ljeto 2021",
-      "url" : "https://kurier.at/wirtschaft/tui-erwartet-weitgehend-normalen-sommer-2021/401145093"
-    }, {
-      "id" : "p6GeewEC",
-      "imgUrl" : "https://image.kurier.at/images/original/4851243/46-148136548.jpg",
-      "titleSource" : "Deutscher Wirtschaftsexperte: Pleitewelle durch zweiten Lockdown",
-      "titleTarget" : "Njemački ekonomski stručnjak: val bankrota zbog druge blokade",
-      "url" : "https://kurier.at/wirtschaft/deutscher-wirtschaftsexperte-pleitewelle-durch-zweiten-lockdown/401145102"
-    }, {
-      "id" : "nTKicw5r",
-      "imgUrl" : "https://image.kurier.at/images/original/4755021/20201112-ABD0005-1-1.jpg",
-      "titleSource" : "AMS-Vorstand Kopf: Zuerst 500.000 Arbeitslose, dann Aufschwung",
-      "titleTarget" : "Šef uprave AMS-a: Prvo 500 000 nezaposlenih, a zatim uspon",
-      "url" : "https://kurier.at/wirtschaft/ams-vorstand-kopf-zuerst-500000-arbeitslose-dann-aufschwung/401145453"
-    }, {
-      "id" : "0xTCIU7n",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/0/d/5918221/70A1A1CE-8035-4645-8011-D381D29CE14E_v0_l.jpg",
-      "titleSource" : "AMS-Chef Kopf: Nach der Krise kommt der Aufschwung",
-      "titleTarget" : "Šef AMS-a: Nakon krize dolazi do uspona",
-      "url" : "https://www.diepresse.com/5918221/Arbeitsmarkt_AMSChef-Kopf_Nach-der-Krise-kommt-der-Aufschwung?from=rss"
+      "id" : "PvkAOLlP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/0/5/5918213/5B6D2936-3D9B-4259-A1D2-FA9893D6C796_v0_l.jpg",
+      "titleSource" : "Bitcoin kratzt an der Marke von 35.000 Dollar",
+      "titleTarget" : "Bitcoin grebe granicu od 35.000 dolara",
+      "url" : "https://www.diepresse.com/5918213/Kryptowaehrungen_Bitcoin-kratzt-an-der-Marke-von-35000-Dollar?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "ZCGdiHAW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/24/89/crops/w=1280/585293_opener_199789_wolf-003_schar.jpg?s=3a2d97d768bc360926cac3090291179d97cd1014",
-      "titleSource" : "Erstmals Wolf mit Sender im Böhmerwald",
-      "titleTarget" : "Prvi put vuk s odašiljačem u boemskoj šumi",
-      "url" : "https://ooe.orf.at/stories/3080033/"
+      "id" : "0Xw1dtya",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/75/crops/w=1280/802153_opener_279575_niederoesterreich-heute--_corona-virus-st.-corona-a_esys_fuchs_00_00_10_03.jpg?s=418d9388454cefb7fee1110c0782f3918d216a0c",
+      "titleSource" : "Ortstafeln von St. Corona gestohlen",
+      "titleTarget" : "Ukradeni znakovi grada St. Corona",
+      "url" : "https://noe.orf.at/stories/3083328/"
     }, {
-      "id" : "lc0Dk0ln",
+      "id" : "9Y6pvlr4",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/18/crops/w=1280/802250_opener_279618_img_7280.jpg?s=52825248d48a1da003055801369afad7f160e1fd",
+      "titleSource" : "Protest-„Spaziergang“ in Salzburg",
+      "titleTarget" : "Prosvjedna \"šetnja\" u Salzburgu",
+      "url" : "https://salzburg.orf.at/stories/3083340/"
+    }, {
+      "id" : "0mP9v4V4",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.391 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.391 nova infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1391-neue-corona-infektionen-in-oesterreich/401144835"
+      "titleSource" : "Corona: 1.466 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: 1.466 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-1466-neuinfektionen-in-oesterreich/401145411"
     }, {
-      "id" : "CElByson",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/75/crops/w=1280/521275_opener_176175_apacoronavirus_hotel_in_innsbruck_vorerst_gesperrt_.jpg?s=4325ae7e484d4593632785cde594afa775f66c7e",
-      "titleSource" : "Mehrheit hält dritten Lockdown ein",
-      "titleTarget" : "Većina se drži trećeg zaključavanja",
-      "url" : "https://noe.orf.at/stories/3083227/"
+      "id" : "bdFm9ZXI",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/89/crops/w=1280/786776_opener_273989_2012xx_grossbetriebe_vermeiden_lebensmittelabfall_00_00_11_08.jpg?s=9e2419230aff21d3ced268bc52316ad8e444b339",
+      "titleSource" : "Lebensmittelabfälle in Großküchen vermeiden",
+      "titleTarget" : "Izbjegavajte bacanje hrane u komercijalnim kuhinjama",
+      "url" : "https://noe.orf.at/stories/3080157/"
     }, {
-      "id" : "UiamSG2e",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/20/crops/w=1280/801724_opener_279420_geimpfte.jpg?s=e398045178db1e3134e987b71a90808a7fb2c367",
-      "titleSource" : "Geimpfte berichtet über gute Verträglichkeit",
-      "titleTarget" : "Cijepljene osobe prijavile su dobru toleranciju",
-      "url" : "https://wien.orf.at/stories/3083191/"
+      "id" : "2p826ANm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/60/crops/w=1280/802345_opener_279660_demo1.jpg?s=7029aada0d6d45db954817eb2319f1b92523aa08",
+      "titleSource" : "„Corona“-Demo in Innenstadt aufgelöst",
+      "titleTarget" : "Demo \"Corona\" riješen u centru grada",
+      "url" : "https://wien.orf.at/stories/3083362/"
     }, {
-      "id" : "jLO2S6Ga",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/43/crops/w=1280/802019_opener_279543_11.jpg?s=50e603a5d3920ef3046f21aabf93d5493dfd2e01",
-      "titleSource" : "Situation in Osttirol entspannt sich leicht",
-      "titleTarget" : "Situacija u Istočnom Tirolu blago se smiruje",
-      "url" : "https://tirol.orf.at/stories/3083285/"
+      "id" : "9k1Cr7fi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/67/crops/w=1280/802369_opener_279667_liensberger.jpg?s=50cd81dc8a7231ded73bc2b86c464b900255cb24",
+      "titleSource" : "Liensberger fünf Hundertstel hinter Vlhova",
+      "titleTarget" : "Liensberger pet stotinki iza Vlhove",
+      "url" : "https://vorarlberg.orf.at/stories/3083368/"
     }, {
-      "id" : "vO92xycJ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/15/crops/w=1280/801258_opener_279215_werner_kogler_c_orf_schoettl_2.jpg?s=4e84b8db2500a2a8900b353485ab14ec662309e0",
-      "titleSource" : "Kogler: „Grüne Schwerpunkte durchgesetzt“",
-      "titleTarget" : "Kogler: \"Provedeni zeleni prioriteti\"",
-      "url" : "https://steiermark.orf.at/stories/3083235/"
-    }, {
-      "id" : "pVtsm6MC",
-      "imgUrl" : "https://image.kurier.at/images/original/4851000/wagrain_kleinarl2.jpg",
-      "titleSource" : "\"Flatten the curve\": Werbung von Skigebiet sorgt für Aufregung",
-      "titleTarget" : "\"Poravnajte krivulju\": Oglašavanje sa skijališta izaziva uzbuđenje",
-      "url" : "https://kurier.at/chronik/oesterreich/flatten-the-curve-werbung-von-skigebiet-sorgt-fuer-aufregung/401144979"
+      "id" : "knFZqg1f",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/802262_opener_279625_boedele.jpg?s=868a1fc1b0c38da682555beaa1d33f7f6bcf7a32",
+      "titleSource" : "Schwerer Rodelunfall am Bödele",
+      "titleTarget" : "Ozbiljna nesreća na sanjkanju na Bödeleu",
+      "url" : "https://vorarlberg.orf.at/stories/3083353/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "mKEGfw2t",
+      "imgUrl" : "https://image.kurier.at/images/original/4851906/46-173855335.jpg",
+      "titleSource" : "Christian Ulmens Serientod könnte Aus für Weimar-\"Tatort\"-Paar bringen",
+      "titleTarget" : "Serijska smrt Christiana Ulmena mogla bi okončati bračni par Weimar \"Tatort\"",
+      "url" : "https://kurier.at/kultur/medien/christian-ulmens-serientod-koennte-aus-fuer-weimar-tatort-paar-bringen/401145549"
+    }, {
       "id" : "Cqb5gF4h",
       "imgUrl" : "https://image.kurier.at/images/original/4851066/46-173795140.jpg",
       "titleSource" : "21 Serien, auf die wir uns 2021 freuen",
       "titleTarget" : "21 serija kojoj se radujemo 2021. godine",
       "url" : "https://kurier.at/kultur/medien/21-serien-auf-die-wir-uns-2021-freuen/401145030"
     }, {
-      "id" : "WfgPHPdQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4851012/46-173846368.jpg",
-      "titleSource" : "TV-Quoten: \"Diner for One\" stärkste TV-Sendung am Silvester-Abend",
-      "titleTarget" : "TV rejting: \"Diner for One\" najjača je TV emisija uoči Nove godine",
-      "url" : "https://kurier.at/kultur/medien/tv-quoten-diner-for-one-staerkste-tv-sendung-am-silvester-abend/401144988"
+      "id" : "N3CJCVg6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/7/5918295/4CF53267-3D9C-4885-B974-E49D2B3AB292_v0_l.jpg",
+      "titleSource" : "Liebe statt Sex: Dating Apps sind besser als ihr Ruf",
+      "titleTarget" : "Ljubav umjesto seksa: Aplikacije za sastanke su bolje od njihove reputacije",
+      "url" : "https://www.diepresse.com/5918295/Internet_Liebe-statt-Sex_Dating-Apps-sind-besser-als-ihr-Ruf?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -155,41 +155,41 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "sdKb4K4I",
-      "imgUrl" : "https://image.kurier.at/images/original/4851522/46-166783505.jpg",
-      "titleSource" : "Neue Liebe: Formel-1-Star Max Verstappen zeigt seine Freundin",
-      "titleTarget" : "Nova ljubav: Zvijezda Formule 1 Max Verstappen pokazuje svoju djevojku",
-      "url" : "https://kurier.at/sport/motorsport/neue-liebe-formel-1-star-max-verstappen-zeigt-seine-freundin-kelly-piquet/401145219"
+      "id" : "s8uxHbZq",
+      "titleSource" : "Liensberger mischt in Zagreb um Sieg mit",
+      "titleTarget" : "Liensberger je uključen u Zagreb zbog pobjede",
+      "url" : "https://sport.orf.at/stories/3071364/"
+    }, {
+      "id" : "vXXu6eao",
+      "imgUrl" : "https://image.kurier.at/images/original/4851261/46-168733906.jpg",
+      "titleSource" : "Alaba, Thiem und Co.: Gagenkaiser und Weltenbummler",
+      "titleTarget" : "Alaba, Thiem i Co.: Gagenovi carevi i globetrotteri",
+      "url" : "https://kurier.at/sport/david-alaba-dominic-thiem-und-co-gagenkaiser-und-weltenbummler-im-sport/401145108"
+    }, {
+      "id" : "3d57Tosm",
+      "titleSource" : "Stoch mit Sieg auf Bergisel neuer Leader",
+      "titleTarget" : "Pobijedio je novog vođu Bergisela pobjedom",
+      "url" : "https://sport.orf.at/stories/3071362/"
+    }, {
+      "id" : "czWkp9xp",
+      "titleSource" : "Egle und Teamstaffel zeigen in Königssee auf",
+      "titleTarget" : "Egle i Teamstaffel show u Königsseeu",
+      "url" : "https://sport.orf.at/stories/3071365/"
     }, {
       "id" : "dLoagsP0",
       "titleSource" : "Shiffrin vor Rekord und Meilenstein",
       "titleTarget" : "Shiffrin ispred rekorda i prekretnice",
       "url" : "https://sport.orf.at/stories/3071332/"
     }, {
-      "id" : "V4m62YWs",
-      "titleSource" : "Österreicher spüren auf Bergisel Aufwind",
-      "titleTarget" : "Austrijanci osjećaju uzlet Bergisela",
-      "url" : "https://sport.orf.at/stories/3071344/"
+      "id" : "i3tofraV",
+      "titleSource" : "Liensberger Zweite im Zagreb-Slalom",
+      "titleTarget" : "Liensberger drugi u zagrebačkom slalomu",
+      "url" : "https://sport.orf.at/stories/3071378/"
     }, {
-      "id" : "XkZOTCQR",
-      "titleSource" : "Semifinale bei U20-WM in Kanada komplett",
-      "titleTarget" : "Završeno polufinale na U20 Svjetskom kupu u Kanadi",
-      "url" : "https://sport.orf.at/stories/3071360/"
-    }, {
-      "id" : "Ju1AsZhk",
-      "titleSource" : "Zwischenstand beim Bergiselspringen ab 13.30 Uhr",
-      "titleTarget" : "Srednji rezultat skoka Bergisela od 13.30 sati",
-      "url" : "https://sport.orf.at/stories/3071359/"
-    }, {
-      "id" : "nmczZAiP",
-      "titleSource" : "Spielstände der ICE Hockey League ab 16.30 Uhr",
-      "titleTarget" : "Rezultati ICE hokejaške lige od 16.30 sati",
-      "url" : "https://sport.orf.at/stories/3071357/"
-    }, {
-      "id" : "MTiI6WTj",
-      "titleSource" : "Zehnwöchige Sperre für Trippier offenbar ausgesetzt",
-      "titleTarget" : "Očito je suspendirana desettjedna zabrana Trippiera",
-      "url" : "https://sport.orf.at/stories/3071355/"
+      "id" : "hmHiyJHR",
+      "titleSource" : "Liensberger erneut hauchdünn besiegt",
+      "titleTarget" : "Liensberger je ponovno pobijedio tanke oblatne",
+      "url" : "https://sport.orf.at/stories/3071371/"
     } ]
   } ],
   "country" : "austria",
