@@ -53,11 +53,11 @@
       "titleTarget" : "Nakon kritika režima: najbogatiji čovjek Kine netragom je nestao",
       "url" : "https://kurier.at/wirtschaft/nach-regime-kritik-reichster-mann-chinas-spurlos-verschwunden/401145573"
     }, {
-      "id" : "tZd14vaf",
-      "imgUrl" : "https://image.kurier.at/images/original/3974936/78370011352050836_BLD_Online.jpg",
-      "titleSource" : "Fusion von PSA und Fiat/Chrysler wird am Montag besiegelt",
-      "titleTarget" : "Spajanje PSA-a i Fiata / Chryslera bit će zapečaćeno u ponedjeljak",
-      "url" : "https://kurier.at/wirtschaft/fusion-von-psa-und-fiatchrysler-wird-am-montag-besiegelt/401145474"
+      "id" : "lPywUhxn",
+      "imgUrl" : "https://image.kurier.at/images/original/4837281/46-168745892.jpg",
+      "titleSource" : "„Akzeptieren Sie die Realität“: Roman Braun über Stereotypen",
+      "titleTarget" : "\"Prihvati stvarnost\": Roman Braun o stereotipima",
+      "url" : "https://kurier.at/wirtschaft/karriere/akzeptieren-sie-die-realitaet-roman-braun-ueber-stereotypen/401136339"
     }, {
       "id" : "nTKicw5r",
       "imgUrl" : "https://image.kurier.at/images/original/4755021/20201112-ABD0005-1-1.jpg",
@@ -65,17 +65,17 @@
       "titleTarget" : "Šef uprave AMS-a: Prvo 500 000 nezaposlenih, a zatim uspon",
       "url" : "https://kurier.at/wirtschaft/ams-vorstand-kopf-zuerst-500000-arbeitslose-dann-aufschwung/401145453"
     }, {
+      "id" : "tZd14vaf",
+      "imgUrl" : "https://image.kurier.at/images/original/3974936/78370011352050836_BLD_Online.jpg",
+      "titleSource" : "Fusion von PSA und Fiat/Chrysler wird am Montag besiegelt",
+      "titleTarget" : "Spajanje PSA-a i Fiata / Chryslera bit će zapečaćeno u ponedjeljak",
+      "url" : "https://kurier.at/wirtschaft/fusion-von-psa-und-fiatchrysler-wird-am-montag-besiegelt/401145474"
+    }, {
       "id" : "fNyJAiVD",
       "imgUrl" : "https://image.kurier.at/images/original/4836777/46-173618667.jpg",
       "titleSource" : "Trendscout: James Bond wäre neidisch",
       "titleTarget" : "Izviđač trenda: James Bond bio bi ljubomoran",
       "url" : "https://kurier.at/wirtschaft/immobiz/trendscout-james-bond-waere-neidisch/401137275"
-    }, {
-      "id" : "lPywUhxn",
-      "imgUrl" : "https://image.kurier.at/images/original/4837281/46-168745892.jpg",
-      "titleSource" : "„Akzeptieren Sie die Realität“: Roman Braun über Stereotypen",
-      "titleTarget" : "\"Prihvati stvarnost\": Roman Braun o stereotipima",
-      "url" : "https://kurier.at/wirtschaft/karriere/akzeptieren-sie-die-realitaet-roman-braun-ueber-stereotypen/401136339"
     }, {
       "id" : "PvkAOLlP",
       "imgUrl" : "https://media.diepresse.com/images/uploads/e/0/5/5918213/5B6D2936-3D9B-4259-A1D2-FA9893D6C796_v0_l.jpg",
@@ -86,11 +86,11 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "0Xw1dtya",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/75/crops/w=1280/802153_opener_279575_niederoesterreich-heute--_corona-virus-st.-corona-a_esys_fuchs_00_00_10_03.jpg?s=418d9388454cefb7fee1110c0782f3918d216a0c",
-      "titleSource" : "Ortstafeln von St. Corona gestohlen",
-      "titleTarget" : "Ukradeni znakovi grada St. Corona",
-      "url" : "https://noe.orf.at/stories/3083328/"
+      "id" : "9k1Cr7fi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/67/crops/w=1280/802369_opener_279667_liensberger.jpg?s=50cd81dc8a7231ded73bc2b86c464b900255cb24",
+      "titleSource" : "Liensberger fünf Hundertstel hinter Vlhova",
+      "titleTarget" : "Liensberger pet stotinki iza Vlhove",
+      "url" : "https://vorarlberg.orf.at/stories/3083368/"
     }, {
       "id" : "9Y6pvlr4",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/18/crops/w=1280/802250_opener_279618_img_7280.jpg?s=52825248d48a1da003055801369afad7f160e1fd",
@@ -98,17 +98,11 @@
       "titleTarget" : "Prosvjedna \"šetnja\" u Salzburgu",
       "url" : "https://salzburg.orf.at/stories/3083340/"
     }, {
-      "id" : "0mP9v4V4",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: 1.466 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: 1.466 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-1466-neuinfektionen-in-oesterreich/401145411"
-    }, {
-      "id" : "bdFm9ZXI",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/89/crops/w=1280/786776_opener_273989_2012xx_grossbetriebe_vermeiden_lebensmittelabfall_00_00_11_08.jpg?s=9e2419230aff21d3ced268bc52316ad8e444b339",
-      "titleSource" : "Lebensmittelabfälle in Großküchen vermeiden",
-      "titleTarget" : "Izbjegavajte bacanje hrane u komercijalnim kuhinjama",
-      "url" : "https://noe.orf.at/stories/3080157/"
+      "id" : "wnhKyq3z",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/35/crops/w=1280/799556_opener_190235_tierheime_1.jpg?s=6024c363cd85c43dd73343bbdfc9f4d18bc95ca7",
+      "titleSource" : "Kleinen Tierheimen geht das Geld aus",
+      "titleTarget" : "Skloništa za male životinje ostaju bez novca",
+      "url" : "https://noe.orf.at/stories/3083003/"
     }, {
       "id" : "2p826ANm",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/60/crops/w=1280/802345_opener_279660_demo1.jpg?s=7029aada0d6d45db954817eb2319f1b92523aa08",
@@ -116,17 +110,23 @@
       "titleTarget" : "Demo \"Corona\" riješen u centru grada",
       "url" : "https://wien.orf.at/stories/3083362/"
     }, {
-      "id" : "9k1Cr7fi",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/67/crops/w=1280/802369_opener_279667_liensberger.jpg?s=50cd81dc8a7231ded73bc2b86c464b900255cb24",
-      "titleSource" : "Liensberger fünf Hundertstel hinter Vlhova",
-      "titleTarget" : "Liensberger pet stotinki iza Vlhove",
-      "url" : "https://vorarlberg.orf.at/stories/3083368/"
+      "id" : "0mP9v4V4",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Corona: 1.466 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: 1.466 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-1466-neuinfektionen-in-oesterreich/401145411"
     }, {
       "id" : "knFZqg1f",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/802262_opener_279625_boedele.jpg?s=868a1fc1b0c38da682555beaa1d33f7f6bcf7a32",
       "titleSource" : "Schwerer Rodelunfall am Bödele",
       "titleTarget" : "Ozbiljna nesreća na sanjkanju na Bödeleu",
       "url" : "https://vorarlberg.orf.at/stories/3083353/"
+    }, {
+      "id" : "iP2tFvPH",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/33/crops/w=1280/783450_opener_272733_24084eca-2f59-4058-b68e-1303238b2e7b.jpg?s=e9fa51062b0276ec19a631de7a7b63aafd64b3c1",
+      "titleSource" : "Anmeldung für neuen Massentest gestartet",
+      "titleTarget" : "Započela je registracija za novi masovni test",
+      "url" : "https://noe.orf.at/stories/3083366/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -166,30 +166,30 @@
       "titleTarget" : "Alaba, Thiem i Co.: Gagenovi carevi i globetrotteri",
       "url" : "https://kurier.at/sport/david-alaba-dominic-thiem-und-co-gagenkaiser-und-weltenbummler-im-sport/401145108"
     }, {
-      "id" : "3d57Tosm",
-      "titleSource" : "Stoch mit Sieg auf Bergisel neuer Leader",
-      "titleTarget" : "Pobijedio je novog vođu Bergisela pobjedom",
-      "url" : "https://sport.orf.at/stories/3071362/"
-    }, {
       "id" : "czWkp9xp",
       "titleSource" : "Egle und Teamstaffel zeigen in Königssee auf",
       "titleTarget" : "Egle i Teamstaffel show u Königsseeu",
       "url" : "https://sport.orf.at/stories/3071365/"
     }, {
-      "id" : "dLoagsP0",
-      "titleSource" : "Shiffrin vor Rekord und Meilenstein",
-      "titleTarget" : "Shiffrin ispred rekorda i prekretnice",
-      "url" : "https://sport.orf.at/stories/3071332/"
+      "id" : "8Td9fTKs",
+      "titleSource" : "Bayern dreht nach 0:2-Rückstand auf",
+      "titleTarget" : "Bayern se pojavio nakon 0-2 zaostatka",
+      "url" : "https://sport.orf.at/stories/3071381/"
+    }, {
+      "id" : "3d57Tosm",
+      "titleSource" : "Stoch mit Sieg auf Bergisel neuer Leader",
+      "titleTarget" : "Pobijedio je novog vođu Bergisela pobjedom",
+      "url" : "https://sport.orf.at/stories/3071362/"
+    }, {
+      "id" : "NmfVenaA",
+      "titleSource" : "Price krönt sich erstmals zum Weltmeister",
+      "titleTarget" : "Price se prvi put okrunio svjetskim prvakom",
+      "url" : "https://sport.orf.at/stories/3071390/"
     }, {
       "id" : "i3tofraV",
       "titleSource" : "Liensberger Zweite im Zagreb-Slalom",
       "titleTarget" : "Liensberger drugi u zagrebačkom slalomu",
       "url" : "https://sport.orf.at/stories/3071378/"
-    }, {
-      "id" : "hmHiyJHR",
-      "titleSource" : "Liensberger erneut hauchdünn besiegt",
-      "titleTarget" : "Liensberger je ponovno pobijedio tanke oblatne",
-      "url" : "https://sport.orf.at/stories/3071371/"
     } ]
   } ],
   "country" : "austria",
