@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "WTDIoCVY",
-      "imgUrl" : "https://image.kurier.at/images/original/4852023/46-173805629.jpg",
-      "titleSource" : "Kollektives Nein: Opposition wird \"Freitesten\" wohl vorerst verhindern",
-      "titleTarget" : "Kolektivni br: oporba će zasad vjerojatno spriječiti \"slobodni stil\"",
-      "url" : "https://kurier.at/politik/inland/freitesten-parlamentsserver-kollabiert-fpoe-uebt-harte-kritik/401145462"
+      "id" : "CTP16KsD",
+      "imgUrl" : "https://image.kurier.at/images/original/4849032/46-173833667.jpg",
+      "titleSource" : "Anschober bestätigt: Kein Freitesten, Lockdown für alle bis 24. Jänner",
+      "titleTarget" : "Anschober potvrđuje: Nema besplatnog testiranja, zaključavanje za sve do 24. siječnja",
+      "url" : "https://kurier.at/politik/inland/corona-kein-freitesten-lockdown-um-eine-woche-verlaengert/401145819"
+    }, {
+      "id" : "WgpQXCqi",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/c/9/5918409/75FEE16F-927D-4EE5-B927-7EE1C12F449E_v0_l.jpg",
+      "titleSource" : "Anschober: \"Freitesten\" aus Lockdown wird nicht möglich",
+      "titleTarget" : "Anschober: \"Besplatno testiranje\" nakon zaključavanja nije moguće",
+      "url" : "https://www.diepresse.com/5918409/CoronaMassnahmen_Oesterreichs-Lockdown-duerfte-sich-um-eine-Woche?from=rss"
     }, {
       "id" : "vwl2uTpr",
       "imgUrl" : "https://image.kurier.at/images/original/4851903/46-173507491.jpg",
@@ -20,23 +26,23 @@
       "titleTarget" : "Zbrka oko statistike korone: testovi antigena u Beču nisu uključeni",
       "url" : "https://kurier.at/politik/inland/verwirrung-um-corona-statistik-antigentests-in-wien-nicht-mitgerechnet/401145699"
     }, {
-      "id" : "XGaJ7UJA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/d/5918301/E2D1B080-6EE8-4E4E-9B81-71C04EB82AFC_v0_l.jpg",
-      "titleSource" : "Missglückte \"Datenbereinigung\" in der Corona-Statistik",
-      "titleTarget" : "Neuspješno \"čišćenje podataka\" u statistici korona",
-      "url" : "https://www.diepresse.com/5918301/Epidemie_Missglueckten-Datenbereinigung-in-der-CoronaStatistik?from=rss"
+      "id" : "rS24DKNO",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/1/5/5918485/7DE9F03C-0F9B-4883-BA58-B830D23736FD_v0_l.jpg",
+      "titleSource" : "Nehammer kauft zehn weitere Drohnen zur Grenzüberwachung",
+      "titleTarget" : "Nehammer kupuje još deset dronova za nadzor granice",
+      "url" : "https://www.diepresse.com/5918485/Jahresvorschau_Nehammer-kauft-zehn-weitere-Drohnen-zur?from=rss"
     }, {
-      "id" : "iJx6CdlC",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/3/1/5918257/B1707DE0-74C6-4326-81A8-43EE15471B10_v0_l.jpg",
-      "titleSource" : "Freitesten: Opposition steht geschlossen auf der Bremse",
-      "titleTarget" : "Najslobodnije od svega: opozicija čvrsto koči",
-      "url" : "https://www.diepresse.com/5918257/CoronaPandemie_Freitesten_Opposition-steht-geschlossen-auf-der-Bremse?from=rss"
+      "id" : "atwqrAxr",
+      "imgUrl" : "https://image.kurier.at/images/original/4586489/46-166890111.jpg",
+      "titleSource" : "Nehammer kauft zehn Drohnen zur Grenzüberwachung",
+      "titleTarget" : "Nehammer kupuje deset dronova za nadzor granice",
+      "url" : "https://kurier.at/politik/inland/nehammer-kauft-zehn-drohnen-zur-grenzueberwachung/401146128"
     }, {
-      "id" : "KXWk65Eh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/2/1/5918241/A21DC8B7-532C-426D-802F-777698181599_v0_l.jpg",
-      "titleSource" : "Schützenhöfer für schnelle Impfung von Politikern",
-      "titleTarget" : "Schützenhöfer za brzo cijepljenje političara",
-      "url" : "https://www.diepresse.com/5918241/CoronaPandemie_Schuetzenhoefer-fuer-schnelle-Impfung-von-Politikern?from=rss"
+      "id" : "0cfCm8rv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/1/5/5918485/7DE9F03C-0F9B-4883-BA58-B830D23736FD_v0_l.jpg",
+      "titleSource" : "Nehammer kauft zehn weitere Drohnen zur Grenzüberwachung",
+      "titleTarget" : "Nehammer kupuje još deset dronova za nadzor granice",
+      "url" : "https://www.diepresse.com/5918485/Jahresvorschau_Nehammer-kauft-zehn-Drohnen-zur-Grenzueberwachung?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,35 +59,35 @@
       "titleTarget" : "Nakon kritika režima: najbogatiji čovjek Kine netragom je nestao",
       "url" : "https://kurier.at/wirtschaft/nach-regime-kritik-reichster-mann-chinas-spurlos-verschwunden/401145573"
     }, {
-      "id" : "lPywUhxn",
-      "imgUrl" : "https://image.kurier.at/images/original/4837281/46-168745892.jpg",
-      "titleSource" : "„Akzeptieren Sie die Realität“: Roman Braun über Stereotypen",
-      "titleTarget" : "\"Prihvati stvarnost\": Roman Braun o stereotipima",
-      "url" : "https://kurier.at/wirtschaft/karriere/akzeptieren-sie-die-realitaet-roman-braun-ueber-stereotypen/401136339"
+      "id" : "vsHvM2w7",
+      "imgUrl" : "https://image.kurier.at/images/original/4851699/46-173840030.jpg",
+      "titleSource" : "Bitcoin setzt Rekordjagd fort: Kurs beträgt jetzt 33.867,50 Dollar",
+      "titleTarget" : "Bitcoin nastavlja rekordni lov: Cijena sada iznosi 33 867,50 USD",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-setzt-rekordjagd-fort-3386750-dollar/401145942"
     }, {
-      "id" : "nTKicw5r",
-      "imgUrl" : "https://image.kurier.at/images/original/4755021/20201112-ABD0005-1-1.jpg",
-      "titleSource" : "AMS-Vorstand Kopf: Zuerst 500.000 Arbeitslose, dann Aufschwung",
-      "titleTarget" : "Šef uprave AMS-a: Prvo 500 000 nezaposlenih, a zatim uspon",
-      "url" : "https://kurier.at/wirtschaft/ams-vorstand-kopf-zuerst-500000-arbeitslose-dann-aufschwung/401145453"
+      "id" : "QtZCSrc4",
+      "imgUrl" : "https://image.kurier.at/images/original/4161765/peugeot-3008-hybrid-2020.jpg",
+      "titleSource" : "Hauptversammlung von Peugeot Citroen zur Fusion mit Fiat Chrysler",
+      "titleTarget" : "Generalni sastanak Peugeota Citroena o spajanju s Fiatom Chryslerom",
+      "url" : "https://kurier.at/wirtschaft/hauptversammlung-von-peugeot-citroen-zur-fusion-mit-fiat-chrysler/401145924"
     }, {
-      "id" : "tZd14vaf",
-      "imgUrl" : "https://image.kurier.at/images/original/3974936/78370011352050836_BLD_Online.jpg",
-      "titleSource" : "Fusion von PSA und Fiat/Chrysler wird am Montag besiegelt",
-      "titleTarget" : "Spajanje PSA-a i Fiata / Chryslera bit će zapečaćeno u ponedjeljak",
-      "url" : "https://kurier.at/wirtschaft/fusion-von-psa-und-fiatchrysler-wird-am-montag-besiegelt/401145474"
+      "id" : "OHARXrCf",
+      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
+      "titleSource" : "Ölpreise legten deutlich zu, OPEC berät über Förderung",
+      "titleTarget" : "Cijene nafte znatno su porasle, OPEC savjetuje o proizvodnji",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-legten-deutlich-zu-opec-beraet-ueber-foerderung/401145906"
     }, {
-      "id" : "fNyJAiVD",
-      "imgUrl" : "https://image.kurier.at/images/original/4836777/46-173618667.jpg",
-      "titleSource" : "Trendscout: James Bond wäre neidisch",
-      "titleTarget" : "Izviđač trenda: James Bond bio bi ljubomoran",
-      "url" : "https://kurier.at/wirtschaft/immobiz/trendscout-james-bond-waere-neidisch/401137275"
+      "id" : "29gxyiuM",
+      "imgUrl" : "https://image.kurier.at/images/original/1614210/forschung.jpg",
+      "titleSource" : "Unternehmen beantragten 2020 mehr als eine Milliarde Forschungsprämie",
+      "titleTarget" : "Tvrtke su se prijavile za više od milijardu bespovratnih sredstava za istraživanje u 2020. godini",
+      "url" : "https://kurier.at/wirtschaft/unternehmen-beantragten-2020-mehr-als-eine-milliarde-forschungspraemie/401145909"
     }, {
-      "id" : "PvkAOLlP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/0/5/5918213/5B6D2936-3D9B-4259-A1D2-FA9893D6C796_v0_l.jpg",
-      "titleSource" : "Bitcoin kratzt an der Marke von 35.000 Dollar",
-      "titleTarget" : "Bitcoin grebe granicu od 35.000 dolara",
-      "url" : "https://www.diepresse.com/5918213/Kryptowaehrungen_Bitcoin-kratzt-an-der-Marke-von-35000-Dollar?from=rss"
+      "id" : "3SYuHlRG",
+      "imgUrl" : "https://image.kurier.at/images/original/448371/46-68842591.jpg",
+      "titleSource" : "Steuerstundung: Geschäftsführer haften am Ende für Firmenschulden",
+      "titleTarget" : "Odgoda poreza: izvršni direktori u konačnici su odgovorni za dugove poduzeća",
+      "url" : "https://kurier.at/wirtschaft/steuerstundung-geschaeftsfuehrer-haften-am-ende-fuer-firmenschulden/401145900"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -91,12 +97,6 @@
       "titleSource" : "Liensberger fünf Hundertstel hinter Vlhova",
       "titleTarget" : "Liensberger pet stotinki iza Vlhove",
       "url" : "https://vorarlberg.orf.at/stories/3083368/"
-    }, {
-      "id" : "9Y6pvlr4",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/18/crops/w=1280/802250_opener_279618_img_7280.jpg?s=52825248d48a1da003055801369afad7f160e1fd",
-      "titleSource" : "Protest-„Spaziergang“ in Salzburg",
-      "titleTarget" : "Prosvjedna \"šetnja\" u Salzburgu",
-      "url" : "https://salzburg.orf.at/stories/3083340/"
     }, {
       "id" : "wnhKyq3z",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/35/crops/w=1280/799556_opener_190235_tierheime_1.jpg?s=6024c363cd85c43dd73343bbdfc9f4d18bc95ca7",
@@ -110,23 +110,29 @@
       "titleTarget" : "Demo \"Corona\" riješen u centru grada",
       "url" : "https://wien.orf.at/stories/3083362/"
     }, {
-      "id" : "0mP9v4V4",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Corona: 1.466 Neuinfektionen in Österreich",
-      "titleTarget" : "Corona: 1.466 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-1466-neuinfektionen-in-oesterreich/401145411"
-    }, {
-      "id" : "knFZqg1f",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/802262_opener_279625_boedele.jpg?s=868a1fc1b0c38da682555beaa1d33f7f6bcf7a32",
-      "titleSource" : "Schwerer Rodelunfall am Bödele",
-      "titleTarget" : "Ozbiljna nesreća na sanjkanju na Bödeleu",
-      "url" : "https://vorarlberg.orf.at/stories/3083353/"
+      "id" : "7Zg7cIxL",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/98/crops/w=1280/802430_opener_279698_kraehenberg.jpg?s=2dd21a9fa9e2029f1dcc1075211f19f2958a8dc9",
+      "titleSource" : "Kleine Skigebiete profitieren von Einheimischen",
+      "titleTarget" : "Mala skijaška područja imaju koristi od lokalnog stanovništva",
+      "url" : "https://vorarlberg.orf.at/stories/3083376/"
     }, {
       "id" : "iP2tFvPH",
       "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/33/crops/w=1280/783450_opener_272733_24084eca-2f59-4058-b68e-1303238b2e7b.jpg?s=e9fa51062b0276ec19a631de7a7b63aafd64b3c1",
       "titleSource" : "Anmeldung für neuen Massentest gestartet",
       "titleTarget" : "Započela je registracija za novi masovni test",
       "url" : "https://noe.orf.at/stories/3083366/"
+    }, {
+      "id" : "FGVEQAcX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/19/51/crops/w=1280/553890_opener_188351_themenbild_2_stoerche_in_rust_.jpg?s=edc986975671d383f15e8c9469ddb48ec06ffb05",
+      "titleSource" : "Plastik in jedem dritten Storchen-Gewölle",
+      "titleTarget" : "Plastika u svakom trećem svodu rode",
+      "url" : "https://burgenland.orf.at/stories/3083336/"
+    }, {
+      "id" : "tYLrrxKX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/30/crops/w=1280/802283_opener_279630_fenster2.jpg?s=0dffa4791cf24c6965694ce9ed215f353bf112c2",
+      "titleSource" : "Fensterporträts im Lockdown",
+      "titleTarget" : "Portreti prozora u zaključanom položaju",
+      "url" : "https://wien.orf.at/stories/3083351/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -137,11 +143,10 @@
       "titleTarget" : "Serijska smrt Christiana Ulmena mogla bi okončati bračni par Weimar \"Tatort\"",
       "url" : "https://kurier.at/kultur/medien/christian-ulmens-serientod-koennte-aus-fuer-weimar-tatort-paar-bringen/401145549"
     }, {
-      "id" : "Cqb5gF4h",
-      "imgUrl" : "https://image.kurier.at/images/original/4851066/46-173795140.jpg",
-      "titleSource" : "21 Serien, auf die wir uns 2021 freuen",
-      "titleTarget" : "21 serija kojoj se radujemo 2021. godine",
-      "url" : "https://kurier.at/kultur/medien/21-serien-auf-die-wir-uns-2021-freuen/401145030"
+      "id" : "oruHmsHt",
+      "titleSource" : "Bond-Girl und Seriendarstellerin Tanya Roberts gestorben",
+      "titleTarget" : "Umrla je Bond djevojka i glumica serije Tanya Roberts",
+      "url" : "https://kurier.at/kultur/bond-girl-und-seriendarstellerin-tanya-roberts-gestorben/401145981"
     }, {
       "id" : "N3CJCVg6",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/7/5918295/4CF53267-3D9C-4885-B974-E49D2B3AB292_v0_l.jpg",
@@ -155,31 +160,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "s8uxHbZq",
-      "titleSource" : "Liensberger mischt in Zagreb um Sieg mit",
-      "titleTarget" : "Liensberger je uključen u Zagreb zbog pobjede",
-      "url" : "https://sport.orf.at/stories/3071364/"
-    }, {
-      "id" : "vXXu6eao",
-      "imgUrl" : "https://image.kurier.at/images/original/4851261/46-168733906.jpg",
-      "titleSource" : "Alaba, Thiem und Co.: Gagenkaiser und Weltenbummler",
-      "titleTarget" : "Alaba, Thiem i Co.: Gagenovi carevi i globetrotteri",
-      "url" : "https://kurier.at/sport/david-alaba-dominic-thiem-und-co-gagenkaiser-und-weltenbummler-im-sport/401145108"
-    }, {
-      "id" : "czWkp9xp",
-      "titleSource" : "Egle und Teamstaffel zeigen in Königssee auf",
-      "titleTarget" : "Egle i Teamstaffel show u Königsseeu",
-      "url" : "https://sport.orf.at/stories/3071365/"
+      "id" : "xDBfuReq",
+      "imgUrl" : "https://image.kurier.at/images/original/4852398/46-173872267.jpg",
+      "titleSource" : "FC Liverpool trauert um den Sänger von \"You'll Never Walk Alone\"",
+      "titleTarget" : "Liverpool FC oplakuje pjevača \"Nikad nećeš hodati sam\"",
+      "url" : "https://kurier.at/sport/fussball/fc-liverpool-trauert-um-den-saenger-von-youll-never-walk-alone/401145753"
     }, {
       "id" : "8Td9fTKs",
       "titleSource" : "Bayern dreht nach 0:2-Rückstand auf",
       "titleTarget" : "Bayern se pojavio nakon 0-2 zaostatka",
       "url" : "https://sport.orf.at/stories/3071381/"
-    }, {
-      "id" : "3d57Tosm",
-      "titleSource" : "Stoch mit Sieg auf Bergisel neuer Leader",
-      "titleTarget" : "Pobijedio je novog vođu Bergisela pobjedom",
-      "url" : "https://sport.orf.at/stories/3071362/"
     }, {
       "id" : "NmfVenaA",
       "titleSource" : "Price krönt sich erstmals zum Weltmeister",
@@ -190,6 +180,22 @@
       "titleSource" : "Liensberger Zweite im Zagreb-Slalom",
       "titleTarget" : "Liensberger drugi u zagrebačkom slalomu",
       "url" : "https://sport.orf.at/stories/3071378/"
+    }, {
+      "id" : "zhgpk9yL",
+      "titleSource" : "Price krönt sich zum neuen Weltmeister",
+      "titleTarget" : "Price se okrunio za novog svjetskog prvaka",
+      "url" : "https://sport.orf.at/stories/3071389/"
+    }, {
+      "id" : "hmHiyJHR",
+      "titleSource" : "Liensberger erneut hauchdünn besiegt",
+      "titleTarget" : "Liensberger je ponovno pobijedio tanke oblatne",
+      "url" : "https://sport.orf.at/stories/3071371/"
+    }, {
+      "id" : "8aoXDb8T",
+      "imgUrl" : "https://image.kurier.at/images/original/4852329/46-173870284.jpg",
+      "titleSource" : "Zagreb-Slalom: Liensberger verpasst ersten Weltcup-Sieg hauchdünn",
+      "titleTarget" : "Zagrebački slalom: Liensberger je propustio prvu pobjedu u Svjetskom kupu napolitankama",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-liensberger-verpasst-ersten-weltcup-sieg-hauchduenn-vlhova-gewinnt/401145558"
     } ]
   } ],
   "country" : "austria",
