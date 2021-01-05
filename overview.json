@@ -2,17 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "GfGW4Sgs",
-      "imgUrl" : "https://image.kurier.at/images/original/4796115/46-168062777.jpg",
-      "titleSource" : "Lockdown verlängert, Schulen öffnen trotzdem am 18. Jänner",
-      "titleTarget" : "Zaključavanje produljeno, škole se i dalje otvaraju 18. siječnja",
-      "url" : "https://kurier.at/politik/inland/lockdown-verlaengert-schulen-sperren-trotzdem-am-18-jaenner/401146314"
-    }, {
-      "id" : "FVGrlMAz",
-      "imgUrl" : "https://image.kurier.at/images/original/4843959/20201228-ABD0059-1-1.jpg",
-      "titleSource" : "Auer: Impfungen erst wieder wenn \"kritische Größe\" an Impfstoff im Land ist",
-      "titleTarget" : "Auer: Cijepljenje samo ponovno kada je \"kritična veličina\" cjepiva u zemlji",
-      "url" : "https://kurier.at/politik/inland/auer-impfungen-erst-wenn-kritische-groesse-an-impfstoff-im-land-ist/401146359"
+      "id" : "RmxRLW2w",
+      "imgUrl" : "https://image.kurier.at/images/original/4809162/78370011357885656_BLD_Online.jpg",
+      "titleSource" : "Corona: Wirtschaftskammer für Eintrittstests",
+      "titleTarget" : "Corona: Gospodarska komora za ulazne testove",
+      "url" : "https://kurier.at/politik/inland/corona-wirtschaftskammer-fuer-eintrittstests/401147517"
     }, {
       "id" : "oj55HgZX",
       "imgUrl" : "https://image.kurier.at/images/original/4844709/46-173774568.jpg",
@@ -20,29 +14,35 @@
       "titleTarget" : "Politolog: Ne oslobađanju, spasila je vladina sramota",
       "url" : "https://kurier.at/politik/inland/politologin-nein-zu-freitesten-ersparte-regierung-blamage/401146995"
     }, {
-      "id" : "QNKV3leA",
-      "imgUrl" : "https://image.kurier.at/images/original/4854687/46-173764000.jpg",
-      "titleSource" : "Kein Plan für die Massenimpfung: \"Das ist erbärmlich\"",
-      "titleTarget" : "Kaos oko cijepljenja Covid: \"To je jadno\"",
-      "url" : "https://kurier.at/politik/inland/chaos-um-die-covid-impfungen-das-ist-erbaermlich/401146872"
+      "id" : "DcSOM1Tp",
+      "imgUrl" : "https://image.kurier.at/images/original/4593587/20200824-ABD0061-1-1.jpg",
+      "titleSource" : "Corona - Elternvertreter für Schülertests und Lehrer-Impfpflicht",
+      "titleTarget" : "Corona - predstavnik roditelja za studentske testove i cijepljenje učitelja",
+      "url" : "https://kurier.at/politik/inland/corona-elternvertreter-fuer-schuelertests-und-lehrer-impfpflicht/401147493"
     }, {
-      "id" : "Wjz3oxhy",
-      "imgUrl" : "https://image.kurier.at/images/original/4847787/46-173614196.jpg",
-      "titleSource" : "Corona: Länder und Verfassungsdienst sehen Probleme beim \"Freitesten\"",
-      "titleTarget" : "Corona: zemlje i ustavna služba vide probleme sa \"slobodnim stilom\"",
-      "url" : "https://kurier.at/politik/inland/corona-laender-und-verfassungsdienst-sehen-probleme-beim-freitesten/401146449"
+      "id" : "OGn9H1v3",
+      "imgUrl" : "https://image.kurier.at/images/original/4812900/78350011457911600_BLD_Online.jpg",
+      "titleSource" : "600 Millionen Impfdosen: EU will Pfizer-Auftrag verdoppeln",
+      "titleTarget" : "600 milijuna doza cjepiva: EU želi udvostručiti narudžbu Pfizera",
+      "url" : "https://kurier.at/politik/inland/600-millionen-impfdosen-eu-will-pfizer-auftrag-verdoppeln/401147526"
     }, {
-      "id" : "aatr78F7",
-      "imgUrl" : "https://image.kurier.at/images/original/4854027/46-173858691.jpg",
-      "titleSource" : "\"Wichtig ist, nicht zu resignieren\": Doskozil muss erneut operiert werden",
-      "titleTarget" : "\"Važno je ne odustati\": Doskozil se mora operirati ponovo",
-      "url" : "https://kurier.at/politik/inland/burgenlands-landeshauptmann-doskozil-muss-erneut-operiert-werden/401146785"
+      "id" : "neWq4Snc",
+      "imgUrl" : "https://image.kurier.at/images/original/3944501/46-151064617.jpg",
+      "titleSource" : "Migration: Anteil in Wien gesunken, Flüchtlinge haben die meisten Kinder",
+      "titleTarget" : "Migracije: Udio u Beču je opao, izbjeglice imaju većinu djece",
+      "url" : "https://kurier.at/politik/inland/migration-anteil-in-wien-gesunken-fluechtlinge-haben-die-meisten-kinder/401147328"
     }, {
-      "id" : "NK5YNM1x",
-      "imgUrl" : "https://image.kurier.at/images/original/4847142/20201230-ABD0012-1-1.jpg",
-      "titleSource" : "Corona: Schützenhöfer sieht Mittragen der Maßnahmen durch Mehrheit",
-      "titleTarget" : "Corona: Schützenhöfer vidi podršku mjerama od strane većine",
-      "url" : "https://kurier.at/politik/inland/corona-schuetzenhoefer-sieht-mittragen-der-massnahmen-durch-mehrheit/401146650"
+      "id" : "ktrAnghz",
+      "imgUrl" : "https://image.kurier.at/images/original/4842357/20201227-ABD0008-1-1.jpg",
+      "titleSource" : "Impfung: Bisher erst 8.360 Impfdosen ausgeliefert",
+      "titleTarget" : "Cijepljenje: Do sada je isporučeno samo 8 360 doza cijepljenja",
+      "url" : "https://kurier.at/politik/inland/impfung-bisher-erst-8360-impfdosen-ausgeliefert/401147487"
+    }, {
+      "id" : "hxWa2vb6",
+      "imgUrl" : "https://image.kurier.at/images/original/4304702/20200511-ABD0001-1-1.jpg",
+      "titleSource" : "8.360 Covid-19- Impfdosen in Österreich injiziert",
+      "titleTarget" : "8.360 doza cjepiva Covid-19 ubrizgano u Austriji",
+      "url" : "https://kurier.at/politik/inland/8360-covid-19-impfdosen-in-oesterreich-injiziert/401147505"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,23 +53,11 @@
       "titleTarget" : "Gospodarska komora poziva na proširenje testova",
       "url" : "https://kurier.at/wirtschaft/wirtschaftskammer-draengt-auf-ausbau-der-tests/401146986"
     }, {
-      "id" : "eduvbhqS",
-      "imgUrl" : "https://image.kurier.at/images/original/4844385/46-164148158.jpg",
-      "titleSource" : "Lockdown-Verlängerung kostet Handel eine Milliarde Euro",
-      "titleTarget" : "Produljenje zaključavanja košta trgovinu milijardu eura",
-      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-kostet-handel-eine-milliarde-euro/401146527"
-    }, {
-      "id" : "VKQW9odU",
-      "imgUrl" : "https://image.kurier.at/images/original/4499711/suite_amenities.jpg",
-      "titleSource" : "Hotellerie: Obfrau verärgert über \"ständiges Auf- und Zusperren\"",
-      "titleTarget" : "Hotelska industrija: predsjedavajuća bijesna zbog \"stalnog otključavanja i zaključavanja\"",
-      "url" : "https://kurier.at/wirtschaft/hotellerie-obfrau-veraergert-ueber-staendiges-auf-und-zusperren/401146599"
-    }, {
-      "id" : "6BbxraUX",
-      "imgUrl" : "https://image.kurier.at/images/original/4853844/20210104-ABD0079-1-1.jpg",
-      "titleSource" : "Jobkiller Lockdown: Mehr als 500.000 Arbeitslose im Dezember",
-      "titleTarget" : "Zaključavanje ubojica posla: Više od 500 000 nezaposlenih u prosincu",
-      "url" : "https://kurier.at/wirtschaft/jobkiller-lockdown-mehr-als-500000-arbeitslose-im-dezember/401146860"
+      "id" : "grJFnDqr",
+      "imgUrl" : "https://image.kurier.at/images/original/4779990/20201125-ABD0074-1-1.jpg",
+      "titleSource" : "Wie Uber von Pandemie und Gesetzen ausgebremst wird",
+      "titleTarget" : "Kako Uber sputavaju pandemija i zakoni",
+      "url" : "https://kurier.at/wirtschaft/wie-uber-von-pandemie-und-gesetzen-ausgebremst-wird/401146707"
     }, {
       "id" : "UQsvMhFl",
       "imgUrl" : "https://media.diepresse.com/images/uploads/0/5/1/5918801/3E90F63B-A26F-4375-A689-6B6542DCD0AA_v0_l.jpg",
@@ -88,78 +76,84 @@
       "titleSource" : "Keine Einigung bei Treffen von OPEC+",
       "titleTarget" : "Nema dogovora na sastancima OPEC +",
       "url" : "https://kurier.at/wirtschaft/keine-einigung-bei-treffen-von-opec/401146926"
+    }, {
+      "id" : "C1khmK85",
+      "imgUrl" : "https://image.kurier.at/images/original/4009623/46-153870401.jpg",
+      "titleSource" : "Essensgutscheine vom Arbeitgeber gelten auch im Homeoffice",
+      "titleTarget" : "Bonovi poslodavca za obrok vrijede i u kućnom uredu",
+      "url" : "https://kurier.at/wirtschaft/essensgutscheine-vom-arbeitgeber-gelten-auch-im-homeoffice/401147274"
+    }, {
+      "id" : "8gGZ1T7v",
+      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
+      "titleSource" : "Drei Lockdowns den kosten Einzelhandel 8,5 Milliarden Euro",
+      "titleTarget" : "Tri zaključavanja maloprodaju koštaju 8,5 milijardi eura",
+      "url" : "https://kurier.at/wirtschaft/drei-lockdowns-den-kosten-einzelhandel-85-milliarden-euro/401147091"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "aqG9lwKB",
-      "imgUrl" : "https://image.kurier.at/images/original/4454291/46-145944921.jpg",
-      "titleSource" : "Volksanwalt prüft Blutspende-Verbot für homosexuelle Männer",
-      "titleTarget" : "Pučki pravobranitelj ispituje zabranu darivanja krvi za homoseksualne muškarce",
-      "url" : "https://kurier.at/chronik/oesterreich/volksanwalt-prueft-blutspende-verbot-fuer-homosexuelle-maenner/401146893"
+      "id" : "bQFWex0j",
+      "imgUrl" : "https://image.kurier.at/images/original/4836069/46-173701710.jpg",
+      "titleSource" : "\"Eintrittstests\" statt Freitests? Was jetzt kommen soll",
+      "titleTarget" : "\"Ulazni testovi\" umjesto besplatnih testova? Što bi sad trebalo doći",
+      "url" : "https://kurier.at/chronik/oesterreich/eintrittstests-statt-freitests-was-ist-der-unterschied/401147022"
     }, {
-      "id" : "bSw0ozN5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/16/crops/w=1280/786136_opener_273216_201214-bh_dokozil-zu-massentests-und-impfpflicht-00.00.19.jpg?s=bbfebcf663d135d674f250cd703d9e1cda569f72",
-      "titleSource" : "Doskozil: Wieder Operation notwendig",
-      "titleTarget" : "Doskozil: Potrebna je još jedna operacija",
-      "url" : "https://burgenland.orf.at/stories/3083473/"
+      "id" : "CTFgpzLj",
+      "imgUrl" : "https://image.kurier.at/images/original/4853487/46-173884862.jpg",
+      "titleSource" : "Semmering-Chaos: Die meisten Gäste kamen aus Favoriten",
+      "titleTarget" : "Sumorni kaos: Većina gostiju došla je iz Favoritena",
+      "url" : "https://kurier.at/chronik/oesterreich/semmering-chaos-die-meisten-gaeste-kamen-aus-favoriten/401147658"
     }, {
-      "id" : "w9yRi54a",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/08/crops/w=1280/802472_opener_279708_210103_erdbebenhilfe_kroatien_00_02_00_06.jpg?s=9f17ce05d6c635ee185ffc369ba73c250918f894",
-      "titleSource" : "Feuerwehren sammeln für Erdbebenopfer",
-      "titleTarget" : "Vatrogasne službe prikupljaju žrtve potresa",
-      "url" : "https://burgenland.orf.at/stories/3083494/"
+      "id" : "rttFYhlo",
+      "imgUrl" : "https://image.kurier.at/images/original/4821717/20201215-ABD0032-1-1.jpg",
+      "titleSource" : "Das sind die Bezirke mit der höchsten 7-Tages-Inzidenz in Österreich",
+      "titleTarget" : "To su okruzi s najvećom sedmodnevnom učestalošću u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/das-sind-die-bezirke-mit-der-hoechsten-7-tages-inzidenz-in-oesterreich/401147064"
     }, {
-      "id" : "mmK9NWXz",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/13/crops/w=1280/801485_opener_279313_bauernhof_der_zukunft_201217_berger_33208_00_41_16_11.jpg?s=00f1ad59f0c6a79e2608dade84b2f6bd4f422205",
-      "titleSource" : "Landwirte suchen nach Erwerbsalternativen",
-      "titleTarget" : "Poljoprivrednici traže alternative za zapošljavanje",
-      "url" : "https://noe.orf.at/stories/3082110/"
+      "id" : "e2k98mKd",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/32/crops/w=1280/804152_opener_280332_meldungsliste13.jpg?s=983e649070f98337bc907e19793ce16399a40b0c",
+      "titleSource" : "Pensionistin bei Polizeieinsatz erschossen",
+      "titleTarget" : "Umirovljenik je ubijen tijekom policijske akcije",
+      "url" : "https://wien.orf.at/stories/3083636/"
     }, {
-      "id" : "Ok3y6zGl",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/68/crops/w=1280/803265_opener_279968_lockdown_verlaengerung_wr_neustadt_zrost_52241_00_19_35_17.jpg?s=e314f04c8d8f5aa6c70c7afe91701ab504eface0",
-      "titleSource" : "„Schwerer Rückschlag“ für Gastro und Handel",
-      "titleTarget" : "\"Ozbiljni zastoj\" za gastronomiju i maloprodaju",
-      "url" : "https://noe.orf.at/stories/3083515/"
+      "id" : "Y0hXts0m",
+      "imgUrl" : "https://image.kurier.at/images/original/4836069/46-173701710.jpg",
+      "titleSource" : "Die Zahlen steigen wieder: Sind das schon die Auswirkungen der Weihnachtsfeiertage?",
+      "titleTarget" : "Brojke ponovno rastu: jesu li to učinci božićnih blagdana?",
+      "url" : "https://kurier.at/chronik/oesterreich/2311-neuinfektionen-in-oesterreich/401147103"
     }, {
-      "id" : "Oqaz9Ag6",
-      "imgUrl" : "https://image.kurier.at/images/original/4853043/46-173738399.jpg",
-      "titleSource" : "Chaos bei Testzahlen: Bund und Länder streiten um Testerfassung",
-      "titleTarget" : "Kaos s brojevima testova: Savezna i državna vlada bore se oko prijave za test",
-      "url" : "https://kurier.at/chronik/oesterreich/chaos-bei-testzahlen-bund-und-laender-streiten-um-testerfassung/401146194"
+      "id" : "Jclvl5OY",
+      "imgUrl" : "https://image.kurier.at/images/original/4855254/46-173890091.jpg",
+      "titleSource" : "Erst 8.360 Impfdosen ausgeliefert; Deutschland verlängert und verschärft Lockdown",
+      "titleTarget" : "Dostavljeno samo 8.360 doza cijepljenja; Njemačka proširuje i pooštrava zaključavanje",
+      "url" : "https://kurier.at/chronik/oesterreich/impfung-new-york-will-strafen-fuer-krankenhaeuser-bei-verzoegerung-neuer-lockdown-fuer-england/401146992"
     }, {
-      "id" : "IKcLoDME",
-      "imgUrl" : "https://image.kurier.at/images/original/4853427/46-173573262.jpg",
-      "titleSource" : "Corona-Grenzkontrollen: 10.000 Einreise-Verweigerungen seit 19. Dezember",
-      "titleTarget" : "Granična kontrola Corone: 10.000 odbijanja ulaska od 19. prosinca",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-grenzkontrollen-10000-einreise-verweigerungen-seit-19-dezember/401146485"
+      "id" : "o0aXWtf1",
+      "imgUrl" : "https://image.kurier.at/images/original/4704405/78350011457015854_BLD_Online.jpg",
+      "titleSource" : "13 Corona-Anzeigen nach Menschenauflauf bei südsteirischem Lokal",
+      "titleTarget" : "13 Corona izvještava nakon gužve u južnoštajerskom restoranu",
+      "url" : "https://kurier.at/chronik/oesterreich/13-corona-anzeigen-nach-menschenauflauf-bei-suedsteirischem-lokal/401147301"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "80o52mvU",
-      "imgUrl" : "https://image.kurier.at/images/original/4853520/46-173839575.jpg",
-      "titleSource" : "Kein Lockdownende für die Kultur: \"Zeigt, wo die Kulturnation wirklich steht\"",
-      "titleTarget" : "Bez kraja zaključavanja za kulturu: \"Prikazuje gdje kulturna nacija zaista stoji\"",
-      "url" : "https://kurier.at/kultur/kultur-hat-keine-perspektiven-vielleicht-muss-publikum-skischuhe-anziehen/401146521"
-    }, {
-      "id" : "28dTIWlJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4853409/46-173562506.jpg",
-      "titleSource" : "Matthias Bartolomey im KURIER Pop-up-Studio",
-      "titleTarget" : "Matthias Bartolomey u skočnom studiju KURIER",
-      "url" : "https://kurier.at/kultur/matthias-bartolomey-im-kurier-pop-up-studio/401146494"
-    }, {
       "id" : "O1hXHH0C",
       "imgUrl" : "https://image.kurier.at/images/original/4854156/46-173878648.jpg",
       "titleSource" : "Debüt-EP von OSKA: Druckverband fürs gebrochene Herz",
       "titleTarget" : "OSKA-in debitantski EP: Zavoj pod pritiskom za slomljeno srce",
       "url" : "https://kurier.at/kultur/debuet-ep-von-oska-druckverband-fuers-gebrochene-herz/401146554"
     }, {
-      "id" : "vJB01QLG",
-      "imgUrl" : "https://image.kurier.at/images/original/4853013/46-164932886.jpg",
-      "titleSource" : "\"Neuorientierung\": Eckert gibt Intendanz der Raimundspiele ab",
-      "titleTarget" : "\"Preusmjeravanje\": Eckert odustaje od ravnateljstva Raimundspielea",
-      "url" : "https://kurier.at/kultur/neuorientierung-eckert-gibt-intendanz-der-raimundspiele-ab/401146170"
+      "id" : "BYN2AodU",
+      "imgUrl" : "https://image.kurier.at/images/original/4855062/s._203_live_bei_der_west_coast_rock_show_ninian_park_cardiff_uk_19.6.1976_cadrian_boot.jpg",
+      "titleSource" : "Bob Marley: Bilder aus dem Familienarchiv",
+      "titleTarget" : "Bob Marley: Slike iz obiteljske arhive",
+      "url" : "https://kurier.at/kultur/bob-marley-bilder-aus-dem-familienarchiv/401147346"
+    }, {
+      "id" : "1mp9ecI0",
+      "imgUrl" : "https://image.kurier.at/images/original/4854453/46-108453668.jpg",
+      "titleSource" : "David Hasselhoff lässt K.I.T.T.-Auto aus \"Knight Rider\" versteigern",
+      "titleTarget" : "David Hasselhoff dao je na aukciju K.I.T.T.-Car iz \"Knight Rider\"",
+      "url" : "https://kurier.at/kultur/david-hasselhoff-laesst-kitt-auto-aus-knight-rider-versteigern/401147058"
     }, {
       "id" : "pEmAaP6e",
       "imgUrl" : "https://image.kurier.at/images/original/4853988/46-173881118.jpg",
@@ -167,17 +161,17 @@
       "titleTarget" : "\"Wonder Woman 1984\": Čak i superheroji mogu razočarati",
       "url" : "https://kurier.at/kultur/wonder-woman-1984-auch-superheldinnen-koennen-enttaeuschen/401146767"
     }, {
-      "id" : "0og7LGrD",
-      "imgUrl" : "https://image.kurier.at/images/original/4852938/46-173553126.jpg",
-      "titleSource" : "TV-Quoten: ORF2 punktet mit Brandauer und Fernseh-Experiment",
-      "titleTarget" : "TV ocjene: ORF2 ocjenjuje s Brandauerom i televizijskim eksperimentom",
-      "url" : "https://kurier.at/kultur/medien/tv-quoten-orf2-punktet-mit-brandauer-und-fernseh-experiment/401146251"
-    }, {
       "id" : "98c8frpY",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/3/5918883/Rowan-Atkinsons-Mr-Bean-Brings-Mayhem-To-The-Mall_1609840041769494_v0_l.jpg",
       "titleSource" : "Rowan Atkinson über seine Rolle als Mr. Bean: \"Stressig und anstrengend\"",
       "titleTarget" : "Rowan Atkinson o ulozi gospodina Beana: \"Stresno i iscrpljujuće\"",
       "url" : "https://www.diepresse.com/5918883/Schauspieler_Rowan-Atkinson-ueber-seine-Rolle-als-Mr-Bean_?from=rss"
+    }, {
+      "id" : "D6i6ZuOq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/5/9/5918809/C5A29ED9-9318-479C-A201-3B8B4BA12269_v0_l.jpg",
+      "titleSource" : "Verwirrung um angeblichen Tod von Tanya Roberts",
+      "titleTarget" : "Zbrka oko navodne smrti Tanje Roberts",
+      "url" : "https://www.diepresse.com/5918809/James-Bond_Verwirrung-um-angeblichen-Tod-von-Tanya-Roberts?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,44 +179,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Am6a8nfy",
-      "imgUrl" : "https://image.kurier.at/images/original/4597376/46-115299792.jpg",
-      "titleSource" : "Hoffnung auf die Verletzten bei Rapid: Nur Ljubicic ist voll fit",
-      "titleTarget" : "Nada za ozlijeđene u Rapidu: Samo je Ljubičić u potpunosti u formi",
-      "url" : "https://kurier.at/sport/fussball/hoffnung-auf-die-verletzten-bei-rapid-nur-ljubicic-ist-voll-fit/401146857"
+      "id" : "L2Gw2NND",
+      "imgUrl" : "https://image.kurier.at/images/original/4854843/46-173892858.jpg",
+      "titleSource" : "Hasenhüttl nach Sieg gegen Klopp: \"Hatte Tränen in den Augen - wegen des Windes\"",
+      "titleTarget" : "Hasenhüttl nakon što je pretukao Kloppa: \"Imao sam suze u očima - zbog vjetra\"",
+      "url" : "https://kurier.at/sport/fussball/ralph-hasenhuettl-nach-sieg-gegen-liverpool-hatte-traenen-in-meinen-augen-wegen-des-windes/401147322"
     }, {
-      "id" : "q8ohD3wK",
-      "imgUrl" : "https://image.kurier.at/images/original/4853001/46-71343434.jpg",
-      "titleSource" : "Corona-Lockdown: Neue Plattform fordert Öffnung der Tennishallen",
-      "titleTarget" : "Zaključavanje Corone: nova platforma poziva na otvaranje teniskih dvorana",
-      "url" : "https://kurier.at/sport/tennis/corona-lockdown-neue-plattform-fordert-oeffnung-der-tennishallen/401146209"
+      "id" : "QQ62WY4J",
+      "titleSource" : "Elway zieht sich in Denver als General Manager zurück",
+      "titleTarget" : "Elway se povlači kao generalni direktor u Denveru",
+      "url" : "https://sport.orf.at/stories/3071439/"
     }, {
-      "id" : "IlSROE6u",
-      "titleSource" : "Bewerbe für ÖSV diesmal kein Geschäft",
-      "titleTarget" : "Ovaj put se nemojte prijavljivati za posao za ÖSV",
-      "url" : "https://sport.orf.at/stories/3071271/"
+      "id" : "0fYQakye",
+      "titleSource" : "Topstars beim ATP-Cup wieder dabei",
+      "titleTarget" : "Opet vrhunske zvijezde na ATP kupu",
+      "url" : "https://sport.orf.at/stories/3071436/"
     }, {
-      "id" : "2Ojp6obA",
-      "titleSource" : "Clevelands langes Leiden hat ein Ende",
-      "titleTarget" : "Duga patnja Clevelanda je gotova",
-      "url" : "https://sport.orf.at/stories/3071397/"
+      "id" : "XDeDqN5T",
+      "titleSource" : "Traumherbst hebt Sturms Zuversicht",
+      "titleTarget" : "Jesen iz snova podiže Sturmovo samopouzdanje",
+      "url" : "https://sport.orf.at/stories/3071413/"
     }, {
-      "id" : "G4DtqQl0",
-      "imgUrl" : "https://image.kurier.at/images/original/4853442/46-173884779.jpg",
-      "titleSource" : "St. Pölten in der Champions League: \"Jetzt kommen nur noch Kracher\"",
-      "titleTarget" : "St. Pölten u Ligi prvaka: \"Sad ima samo pogodaka\"",
-      "url" : "https://kurier.at/sport/fussball/die-frauen-des-skn-st-poelten-in-der-champions-league-jetzt-kommen-nur-noch-kracher/401146551"
-    }, {
-      "id" : "vsQ50WUl",
-      "titleSource" : "Hasenhüttl nach Sieg gegen „Reds“ gerührt",
-      "titleTarget" : "Hasenhüttl je dodirnuo nakon što je pobijedio \"Redse\"",
-      "url" : "https://sport.orf.at/stories/3071421/"
+      "id" : "Mbxr99yT",
+      "titleSource" : "Stoch auch in Bischofshofen-Quali vorne",
+      "titleTarget" : "Također je bio ispred u kvalifikacijama za Bischofshofen",
+      "url" : "https://sport.orf.at/stories/3071454/"
     }, {
       "id" : "JKMqn8Ej",
       "imgUrl" : "https://image.kurier.at/images/original/4854459/46-173892713.jpg",
       "titleSource" : "England: Hasenhüttl besiegt Klopp und hat Tränen in den Augen",
       "titleTarget" : "Engleska: Hasenhüttl pobjeđuje Kloppa i suze mu se slijepe",
       "url" : "https://kurier.at/sport/fussball/premier-league-hasenhuettl-besiegt-auch-juergen-klopp/401146947"
+    }, {
+      "id" : "vsQ50WUl",
+      "titleSource" : "Hasenhüttl nach Sieg gegen „Reds“ gerührt",
+      "titleTarget" : "Hasenhüttl je dodirnuo nakon što je pobijedio \"Redse\"",
+      "url" : "https://sport.orf.at/stories/3071421/"
     } ]
   } ],
   "country" : "austria",
