@@ -2,35 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "RmxRLW2w",
-      "imgUrl" : "https://image.kurier.at/images/original/4809162/78370011357885656_BLD_Online.jpg",
-      "titleSource" : "Corona: Wirtschaftskammer für Eintrittstests",
-      "titleTarget" : "Corona: Gospodarska komora za ulazne testove",
-      "url" : "https://kurier.at/politik/inland/corona-wirtschaftskammer-fuer-eintrittstests/401147517"
-    }, {
-      "id" : "oj55HgZX",
-      "imgUrl" : "https://image.kurier.at/images/original/4844709/46-173774568.jpg",
-      "titleSource" : "Politologin: Nein zu Freitesten ersparte Regierung Blamage",
-      "titleTarget" : "Politolog: Ne oslobađanju, spasila je vladina sramota",
-      "url" : "https://kurier.at/politik/inland/politologin-nein-zu-freitesten-ersparte-regierung-blamage/401146995"
-    }, {
-      "id" : "DcSOM1Tp",
-      "imgUrl" : "https://image.kurier.at/images/original/4593587/20200824-ABD0061-1-1.jpg",
-      "titleSource" : "Corona - Elternvertreter für Schülertests und Lehrer-Impfpflicht",
-      "titleTarget" : "Corona - predstavnik roditelja za studentske testove i cijepljenje učitelja",
-      "url" : "https://kurier.at/politik/inland/corona-elternvertreter-fuer-schuelertests-und-lehrer-impfpflicht/401147493"
-    }, {
-      "id" : "neWq4Snc",
-      "imgUrl" : "https://image.kurier.at/images/original/3944501/46-151064617.jpg",
-      "titleSource" : "Migration: Anteil in Wien gesunken, Flüchtlinge haben die meisten Kinder",
-      "titleTarget" : "Migracije: Udio u Beču je opao, izbjeglice imaju većinu djece",
-      "url" : "https://kurier.at/politik/inland/migration-anteil-in-wien-gesunken-fluechtlinge-haben-die-meisten-kinder/401147328"
-    }, {
-      "id" : "OGn9H1v3",
-      "imgUrl" : "https://image.kurier.at/images/original/4812900/78350011457911600_BLD_Online.jpg",
-      "titleSource" : "600 Millionen Impfdosen: EU will Pfizer-Auftrag verdoppeln",
-      "titleTarget" : "600 milijuna doza cjepiva: EU želi udvostručiti narudžbu Pfizera",
-      "url" : "https://kurier.at/politik/inland/600-millionen-impfdosen-eu-will-pfizer-auftrag-verdoppeln/401147526"
+      "id" : "XBnij9cD",
+      "imgUrl" : "https://image.kurier.at/images/original/4835523/20201221-ABD0049-1-1.jpg",
+      "titleSource" : "Kurz zu vorgezogenem Impfstart: \"Was geliefert wird, muss sofort verimpft werden\"",
+      "titleTarget" : "Ukratko o ranom početku cijepljenja: \"Ono što se isporuči mora se odmah cijepiti\"",
+      "url" : "https://kurier.at/politik/inland/kurz-zu-vorgezogenem-impfstart-was-geliefert-wird-muss-sofort-verimpft-werden/401148096"
     }, {
       "id" : "AuqMohRu",
       "imgUrl" : "https://image.kurier.at/images/original/4856082/46-173638696.jpg",
@@ -38,146 +14,170 @@
       "titleTarget" : "Mnogo kritika nakon TV nastupa: šef odsjeka opravdava polagan početak cijepljenja",
       "url" : "https://kurier.at/politik/inland/reich-brauchen-zeit-fuer-aufklaerung-und-gespraeche/401147922"
     }, {
-      "id" : "hxWa2vb6",
-      "imgUrl" : "https://image.kurier.at/images/original/4304702/20200511-ABD0001-1-1.jpg",
-      "titleSource" : "8.360 Covid-19- Impfdosen in Österreich injiziert",
-      "titleTarget" : "8.360 doza cjepiva Covid-19 ubrizgano u Austriji",
-      "url" : "https://kurier.at/politik/inland/8360-covid-19-impfdosen-in-oesterreich-injiziert/401147505"
+      "id" : "fTTCeZqu",
+      "imgUrl" : "https://image.kurier.at/images/original/4856475/46-161848153.jpg",
+      "titleSource" : "Anschober und Tanner appellieren an Pflegeheime: \"Rufen Sie Impfstoffe ab\"",
+      "titleTarget" : "Anschober i Tanner pozivaju se na staračke domove: \"Nabavite cjepiva od\"",
+      "url" : "https://kurier.at/politik/inland/anschober-und-tanner-appellieren-an-pflegeheime-rufen-sie-impfstoffe-ab/401148138"
+    }, {
+      "id" : "zKEX73r3",
+      "imgUrl" : "https://image.kurier.at/images/original/4845693/20201229-ABD0041-1-1.jpg",
+      "titleSource" : "SPÖ will Sondersitzung, FPÖ kritisiert ebenfalls \"Impfchaos\"",
+      "titleTarget" : "SPÖ želi posebnu sjednicu, FPÖ također kritizira \"kaos cijepljenja\"",
+      "url" : "https://kurier.at/politik/inland/spoe-will-sondersitzung-fpoe-kritisiert-ebenfalls-impfchaos/401148105"
+    }, {
+      "id" : "1Fc8vtDy",
+      "imgUrl" : "https://image.kurier.at/images/original/4856373/46-173787567.jpg",
+      "titleSource" : "Früherer Impfstart: Wieviel die einzelnen Bundesländer verimpfen",
+      "titleTarget" : "Raniji početak cijepljenja: Koliko cijepe pojedine savezne države",
+      "url" : "https://kurier.at/politik/inland/impfstart-wurde-nun-doch-vorgezogen-21000-impfungen-diese-woche/401147997"
+    }, {
+      "id" : "yrZRCdHf",
+      "imgUrl" : "https://image.kurier.at/images/original/4693584/46-167790193.jpg",
+      "titleSource" : "Corona an Schulen so stark verbreitet wie in Gesamtbevölkerung",
+      "titleTarget" : "Corona je jednako raširena u školama kao i u općoj populaciji",
+      "url" : "https://kurier.at/politik/inland/corona-an-schulen-so-stark-verbreitet-wie-in-gesamtbevoelkerung/401148363"
+    }, {
+      "id" : "gFC125S1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/2/d/5919277/97D1500B-CD41-4E2D-821E-94C6F5E5B1BE_v0_l.jpg",
+      "titleSource" : "Regierung zieht Impfstart vor",
+      "titleTarget" : "Vlada preferira početak cijepljenja",
+      "url" : "https://www.diepresse.com/5919277/CoronaPandemie_Regierung-zieht-Impfstart-vor?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "N307k3Fu",
-      "imgUrl" : "https://image.kurier.at/images/original/4815846/46-173505897.jpg",
-      "titleSource" : "Wirtschaftskammer drängt auf Ausbau der Tests",
-      "titleTarget" : "Gospodarska komora poziva na proširenje testova",
-      "url" : "https://kurier.at/wirtschaft/wirtschaftskammer-draengt-auf-ausbau-der-tests/401146986"
+      "id" : "mXY3rVkD",
+      "imgUrl" : "https://image.kurier.at/images/original/4856379/46-173695314.jpg",
+      "titleSource" : "Corona: Hotels wollen Tests für Gäste um aufsperren zu dürfen",
+      "titleTarget" : "Corona: Hoteli žele da se otključaju testovi za goste",
+      "url" : "https://kurier.at/wirtschaft/corona-hotels-wollen-tests-fuer-gaeste-um-aufsperren-zu-duerfen/401148078"
     }, {
-      "id" : "8gGZ1T7v",
-      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
-      "titleSource" : "Drei Lockdowns den kosten Einzelhandel 8,5 Milliarden Euro",
-      "titleTarget" : "Tri zaključavanja maloprodaju koštaju 8,5 milijardi eura",
-      "url" : "https://kurier.at/wirtschaft/drei-lockdowns-den-kosten-einzelhandel-85-milliarden-euro/401147091"
+      "id" : "z5vgwmj3",
+      "imgUrl" : "https://image.kurier.at/images/original/4856340/46-173913921.jpg",
+      "titleSource" : "Reifenhersteller Michelin will bis zu 2.300 Stellen streichen",
+      "titleTarget" : "Proizvođač guma Michelin želi smanjiti do 2300 radnih mjesta",
+      "url" : "https://kurier.at/wirtschaft/reifenhersteller-michelin-will-bis-zu-2300-stellen-streichen/401148057"
     }, {
-      "id" : "grJFnDqr",
-      "imgUrl" : "https://image.kurier.at/images/original/4779990/20201125-ABD0074-1-1.jpg",
-      "titleSource" : "Wie Uber von Pandemie und Gesetzen ausgebremst wird",
-      "titleTarget" : "Kako Uber sputavaju pandemija i zakoni",
-      "url" : "https://kurier.at/wirtschaft/wie-uber-von-pandemie-und-gesetzen-ausgebremst-wird/401146707"
+      "id" : "ImZ5KYe7",
+      "imgUrl" : "https://image.kurier.at/images/original/4856745/46-166259842.jpg",
+      "titleSource" : "Nach Kritik: Deutsche Fleischbetriebe stocken Stammpersonal auf",
+      "titleTarget" : "Nakon kritika: Njemačke mesne tvrtke imaju zalihe stalnog osoblja",
+      "url" : "https://kurier.at/wirtschaft/nach-kritik-deutsche-fleischbetriebe-stocken-stammpersonal-auf/401148234"
     }, {
-      "id" : "UQsvMhFl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/5/1/5918801/3E90F63B-A26F-4375-A689-6B6542DCD0AA_v0_l.jpg",
-      "titleSource" : "Oberster Gerichtshof schiebt \"Inselbetrieben\" einen Riegel vor",
-      "titleTarget" : "Vrhovni sud zaustavio \"otočne tvrtke\"",
-      "url" : "https://www.diepresse.com/5918801/Kollektivvertraege_Oberster-Gerichtshof-schiebt-Inselbetrieben?from=rss"
+      "id" : "IWhX4fM2",
+      "imgUrl" : "https://image.kurier.at/images/original/4856403/46-146576240.jpg",
+      "titleSource" : "Deutschland beschloss verbindliche Frauenquote für Vorstände",
+      "titleTarget" : "Njemačka je donijela obvezujuću kvotu za žene u članovima odbora",
+      "url" : "https://kurier.at/wirtschaft/deutschland-beschloss-verbindliche-frauenquote-fuer-vorstaende/401148093"
     }, {
-      "id" : "cx7MmXUH",
-      "imgUrl" : "https://image.kurier.at/images/original/4789452/46-165379893.jpg",
-      "titleSource" : "US-Börse NYSE: Doch keine Sperre für chinesische Telekom-Konzerne ",
-      "titleTarget" : "Američka burza NYSE: Ali nema zabrane za kineske telekomunikacijske tvrtke",
-      "url" : "https://kurier.at/wirtschaft/us-boerse-nyse-doch-keine-sperre-fuer-chinesische-telekom-konzerne/401147034"
+      "id" : "4bEN4YHl",
+      "imgUrl" : "https://image.kurier.at/images/original/4856355/46-173900504.jpg",
+      "titleSource" : "Ölpreise legten weiter zu: OPEC+ kürzt Förderung",
+      "titleTarget" : "Cijene nafte nastavile su rasti: OPEC + smanjuje proizvodnju",
+      "url" : "https://kurier.at/wirtschaft/oelpreise-legten-weiter-zu-opec-kuerzt-foerderung/401148072"
     }, {
-      "id" : "C1khmK85",
-      "imgUrl" : "https://image.kurier.at/images/original/4009623/46-153870401.jpg",
-      "titleSource" : "Essensgutscheine vom Arbeitgeber gelten auch im Homeoffice",
-      "titleTarget" : "Bonovi poslodavca za obrok vrijede i u kućnom uredu",
-      "url" : "https://kurier.at/wirtschaft/essensgutscheine-vom-arbeitgeber-gelten-auch-im-homeoffice/401147274"
+      "id" : "ctlQVoGB",
+      "imgUrl" : "https://image.kurier.at/images/original/4856352/46-173616745.jpg",
+      "titleSource" : "VW mit Absatzsprung in USA - Gesamtjahr 2020 aber schwach",
+      "titleTarget" : "VW s skokom prodaje u SAD-u - puna 2020. godina, ali slaba",
+      "url" : "https://kurier.at/wirtschaft/vw-mit-absatzsprung-in-usa-gesamtjahr-2020-aber-schwach/401148063"
     }, {
-      "id" : "l6xkNxed",
-      "imgUrl" : "https://image.kurier.at/images/original/4795962/78370011357778298_BLD_Online.jpg",
-      "titleSource" : "Deutscher Staat steigt in großem Stil bei Reisekonzern Tui ein",
-      "titleTarget" : "Njemačka država se u velikoj mjeri uključuje u turističku tvrtku Tui",
-      "url" : "https://kurier.at/wirtschaft/deutscher-staat-steigt-in-grossem-stil-bei-reisekonzern-tui-ein/401147673"
+      "id" : "LzKImWuH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/2/8/9/5919369/A350-passenger-aircraft-are-seen-parked-at-the-Airbus-factory-in-Blagnac-near-Toulouse_160994674134226.jpg",
+      "titleSource" : "Airbus für Wasserstoff",
+      "titleTarget" : "Airbus za vodik",
+      "url" : "https://www.diepresse.com/5919369/Flugzeughersteller_Airbus-fuer-Wasserstoff?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "e2k98mKd",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/32/crops/w=1280/804152_opener_280332_meldungsliste13.jpg?s=983e649070f98337bc907e19793ce16399a40b0c",
-      "titleSource" : "Pensionistin bei Polizeieinsatz erschossen",
-      "titleTarget" : "Umirovljenik je ubijen tijekom policijske akcije",
-      "url" : "https://wien.orf.at/stories/3083636/"
+      "id" : "gp9H5UHW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/98/crops/w=1280/803885_opener_280198_arbeitsphoto_03_04_13_4.jpg?s=57e2a2d6e38529ca8fe27e05a471e10462d732f3",
+      "titleSource" : "Römisches Theater in Bregenz entdeckt",
+      "titleTarget" : "Rimsko kazalište otkriveno u Bregenzu",
+      "url" : "https://vorarlberg.orf.at/stories/3083626/"
     }, {
-      "id" : "bQFWex0j",
-      "imgUrl" : "https://image.kurier.at/images/original/4836069/46-173701710.jpg",
-      "titleSource" : "\"Eintrittstests\" statt Freitests? Was jetzt kommen soll",
-      "titleTarget" : "\"Ulazni testovi\" umjesto besplatnih testova? Što bi sad trebalo doći",
-      "url" : "https://kurier.at/chronik/oesterreich/eintrittstests-statt-freitests-was-ist-der-unterschied/401147022"
+      "id" : "Dx9Uzp9K",
+      "imgUrl" : "https://image.kurier.at/images/original/4853487/46-173884862.jpg",
+      "titleSource" : "Semmering-Chaos: Mobilfunk-Daten zeigen Spitzenzeiten mit mehr als 4.700 Besuchern",
+      "titleTarget" : "Sumorni kaos: podaci s mobitela pokazuju vršna vremena s više od 4700 posjetitelja",
+      "url" : "https://kurier.at/chronik/oesterreich/semmering-chaos-mobilfunk-daten-zeigen-spitzenzeiten-mit-mehr-als-4000-besuchern/401147658"
     }, {
-      "id" : "rttFYhlo",
-      "imgUrl" : "https://image.kurier.at/images/original/4821717/20201215-ABD0032-1-1.jpg",
-      "titleSource" : "Das sind die Bezirke mit der höchsten 7-Tages-Inzidenz in Österreich",
-      "titleTarget" : "To su okruzi s najvećom sedmodnevnom učestalošću u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/das-sind-die-bezirke-mit-der-hoechsten-7-tages-inzidenz-in-oesterreich/401147064"
+      "id" : "wQiQdUSr",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/87/crops/w=1280/798801_opener_278287_coronaimpfung.jpg?s=6d72cb4fb5a50886ef90b3ba311f4f5f224790a1",
+      "titleSource" : "Zweite Runde der Impfungen hat begonnen",
+      "titleTarget" : "Počeo je drugi krug cijepljenja",
+      "url" : "https://wien.orf.at/stories/3083694/"
     }, {
-      "id" : "Y0hXts0m",
-      "imgUrl" : "https://image.kurier.at/images/original/4836069/46-173701710.jpg",
-      "titleSource" : "Die Zahlen steigen wieder: Sind das schon die Auswirkungen der Weihnachtsfeiertage?",
-      "titleTarget" : "Brojke ponovno rastu: jesu li to učinci božićnih blagdana?",
-      "url" : "https://kurier.at/chronik/oesterreich/2311-neuinfektionen-in-oesterreich/401147103"
+      "id" : "UE9TF42C",
+      "imgUrl" : "https://image.kurier.at/images/original/4856442/46-173855058.jpg",
+      "titleSource" : "2.469 Neuinfektionen in Österreich",
+      "titleTarget" : "2.469 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2469-neuinfektionen-in-oesterreich/401148114"
     }, {
-      "id" : "Jclvl5OY",
-      "imgUrl" : "https://image.kurier.at/images/original/4855254/46-173890091.jpg",
-      "titleSource" : "Erst 8.360 Impfdosen ausgeliefert; Deutschland verlängert und verschärft Lockdown",
-      "titleTarget" : "Dostavljeno samo 8.360 doza cijepljenja; Njemačka proširuje i pooštrava zaključavanje",
-      "url" : "https://kurier.at/chronik/oesterreich/impfung-new-york-will-strafen-fuer-krankenhaeuser-bei-verzoegerung-neuer-lockdown-fuer-england/401146992"
+      "id" : "zovqljxa",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/87/crops/w=1280/804953_opener_280587_img_20210106_151042.jpg?s=d0ff4db81a2a705440cd36c4a290f981eea510db",
+      "titleSource" : "2.500 bei Demonstration in Wr. Neustadt",
+      "titleTarget" : "2.500 na demonstracijama u Wr. Neustadt",
+      "url" : "https://noe.orf.at/stories/3083753/"
     }, {
-      "id" : "o0aXWtf1",
-      "imgUrl" : "https://image.kurier.at/images/original/4704405/78350011457015854_BLD_Online.jpg",
-      "titleSource" : "13 Corona-Anzeigen nach Menschenauflauf bei südsteirischem Lokal",
-      "titleTarget" : "13 Corona izvještava nakon gužve u južnoštajerskom restoranu",
-      "url" : "https://kurier.at/chronik/oesterreich/13-corona-anzeigen-nach-menschenauflauf-bei-suedsteirischem-lokal/401147301"
+      "id" : "uqmMFYvb",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/24/crops/w=1280/805068_opener_280624_2012xx_bh_historischer_brotbackofen_00.02.34.17.jpg?s=6a6a09e7f8c3a21641ddb3dc5947543ed3e44a1a",
+      "titleSource" : "Neues Leben für barocke Backstube",
+      "titleTarget" : "Novi život barokne pekare",
+      "url" : "https://burgenland.orf.at/stories/3083718/"
     }, {
-      "id" : "5VmNOaD9",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/91/crops/w=1280/804081_opener_280291_hd_210104_corona-virus_chaos_am_semmering_00_01_52_13.jpg?s=bcaddc68ebb4832680f90c265566d33b0edbe1aa",
-      "titleSource" : "Semmering: Weniger Parkplätze, mehr Kontrollen",
-      "titleTarget" : "Semmering: manje parkirnih mjesta, više kontrola",
-      "url" : "https://noe.orf.at/stories/3083646/"
+      "id" : "F1YlTh0z",
+      "imgUrl" : "https://image.kurier.at/images/original/4856601/46-173901624.jpg",
+      "titleSource" : "Zweiter Impfstoff in der EU zugelassen; Neue Studie zu Corona an Schulen",
+      "titleTarget" : "Drugo cjepivo odobreno u EU; Nova studija o koroni u školama",
+      "url" : "https://kurier.at/chronik/oesterreich/impfziel-20000-dosen-noch-diese-woche-mehr-als-tausend-tote-in-deutschland/401147970"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "O1hXHH0C",
-      "imgUrl" : "https://image.kurier.at/images/original/4854156/46-173878648.jpg",
-      "titleSource" : "Debüt-EP von OSKA: Druckverband fürs gebrochene Herz",
-      "titleTarget" : "OSKA-in debitantski EP: Zavoj pod pritiskom za slomljeno srce",
-      "url" : "https://kurier.at/kultur/debuet-ep-von-oska-druckverband-fuers-gebrochene-herz/401146554"
+      "id" : "sybi5pSN",
+      "imgUrl" : "https://image.kurier.at/images/original/4856091/78350011458269186_BLD_Online.jpg",
+      "titleSource" : "Nach Falschmeldung: Schauspielerin Tanya Roberts laut Sprecher tot",
+      "titleTarget" : "Nakon podvale: Glumica Tanya Roberts mrtva, prema glasnogovorniku",
+      "url" : "https://kurier.at/kultur/nach-falschmeldung-schauspielerin-tanya-roberts-laut-sprecher-tot/401147991"
     }, {
-      "id" : "1mp9ecI0",
-      "imgUrl" : "https://image.kurier.at/images/original/4854453/46-108453668.jpg",
-      "titleSource" : "David Hasselhoff lässt K.I.T.T.-Auto aus \"Knight Rider\" versteigern",
-      "titleTarget" : "David Hasselhoff dao je na aukciju K.I.T.T.-Car iz \"Knight Rider\"",
-      "url" : "https://kurier.at/kultur/david-hasselhoff-laesst-kitt-auto-aus-knight-rider-versteigern/401147058"
+      "id" : "PdVkTbtp",
+      "imgUrl" : "https://image.kurier.at/images/original/4093371/46-156873173.jpg",
+      "titleSource" : "Grammy-Gala wegen Pandemie verschoben",
+      "titleTarget" : "Gala Grammy odgođena zbog pandemije",
+      "url" : "https://kurier.at/kultur/grammy-gala-wegen-pandemie-verschoben/401147982"
     }, {
-      "id" : "BYN2AodU",
-      "imgUrl" : "https://image.kurier.at/images/original/4855062/s._203_live_bei_der_west_coast_rock_show_ninian_park_cardiff_uk_19.6.1976_cadrian_boot.jpg",
-      "titleSource" : "Bob Marley: Bilder aus dem Familienarchiv",
-      "titleTarget" : "Bob Marley: Slike iz obiteljske arhive",
-      "url" : "https://kurier.at/kultur/bob-marley-bilder-aus-dem-familienarchiv/401147346"
+      "id" : "5TCYMP8k",
+      "imgUrl" : "https://image.kurier.at/images/original/4552805/46-105033606.jpg",
+      "titleSource" : "Neil Young verkauft Hälfte seiner Song-Rechte",
+      "titleTarget" : "Neil Young prodaje polovicu svojih prava na pjesmu",
+      "url" : "https://kurier.at/kultur/neil-young-verkauft-haelfte-seiner-song-rechte/401148210"
     }, {
-      "id" : "pEmAaP6e",
-      "imgUrl" : "https://image.kurier.at/images/original/4853988/46-173881118.jpg",
-      "titleSource" : "\"Wonder Woman 1984\": Auch Superheldinnen können enttäuschen",
-      "titleTarget" : "\"Wonder Woman 1984\": Čak i superheroji mogu razočarati",
-      "url" : "https://kurier.at/kultur/wonder-woman-1984-auch-superheldinnen-koennen-enttaeuschen/401146767"
+      "id" : "mdEzl5Il",
+      "imgUrl" : "https://image.kurier.at/images/original/4856199/armend_nuredini_c_puls_4_kniepeiss_4_hires.jpg",
+      "titleSource" : "Neue \"Ninja Warrior\"-Staffel startet 2021 auf Puls4",
+      "titleTarget" : "Nova sezona \"Ninja ratnika\" započinje 2021. na Puls4",
+      "url" : "https://kurier.at/kultur/medien/neue-ninja-warrior-staffel-auf-puls4/401148000"
     }, {
-      "id" : "iageSdXm",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/f/5/5919221/78994856-DA0E-4F7E-AE7E-F0AB129CEE77_v0_h.jpg",
-      "titleSource" : "Grammy Awards laut Medien wegen Coronavirus verschoben",
-      "titleTarget" : "Nagrade Grammy odgođene zbog koronavirusa, kažu mediji",
-      "url" : "https://www.diepresse.com/5919221/MusikAwards_Grammy-Awards-laut-Medien-wegen-Coronavirus-verschoben?from=rss"
+      "id" : "0Fuq3ARs",
+      "imgUrl" : "https://image.kurier.at/images/original/4857132/46-168478990.jpg",
+      "titleSource" : "Filmfestival von Cannes könnte wegen Corona verschoben werden",
+      "titleTarget" : "Filmski festival u Cannesu mogao bi biti odgođen zbog Corone",
+      "url" : "https://kurier.at/kultur/filmfestival-von-cannes-koennte-wegen-corona-verschoben-werden/401148366"
     }, {
-      "id" : "98c8frpY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/3/5918883/Rowan-Atkinsons-Mr-Bean-Brings-Mayhem-To-The-Mall_1609840041769494_v0_l.jpg",
-      "titleSource" : "Rowan Atkinson über seine Rolle als Mr. Bean: \"Stressig und anstrengend\"",
-      "titleTarget" : "Rowan Atkinson o ulozi gospodina Beana: \"Stresno i iscrpljujuće\"",
-      "url" : "https://www.diepresse.com/5918883/Schauspieler_Rowan-Atkinson-ueber-seine-Rolle-als-Mr-Bean_?from=rss"
+      "id" : "XVMTPGcO",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/8/c/5919372/78B1144E-2A34-441A-8D7D-1F32911EAA31_1609946836486832.jpg",
+      "titleSource" : "Bridgerton: Der Brautmarkt ist eröffnet",
+      "titleTarget" : "Bridgerton: Tržište mladenki je otvoreno",
+      "url" : "https://www.diepresse.com/5919372/Serie_Bridgerton_Der-Brautmarkt-ist-eroeffnet?from=rss"
     }, {
-      "id" : "D6i6ZuOq",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/5/9/5918809/C5A29ED9-9318-479C-A201-3B8B4BA12269_v0_l.jpg",
-      "titleSource" : "Verwirrung um angeblichen Tod von Tanya Roberts",
-      "titleTarget" : "Zbrka oko navodne smrti Tanje Roberts",
-      "url" : "https://www.diepresse.com/5918809/James-Bond_Verwirrung-um-angeblichen-Tod-von-Tanya-Roberts?from=rss"
+      "id" : "kk3qh3GG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/f/7/5918711/0197CCE6-B9FF-4737-AA5E-6056B6E65650_v0_l.jpg",
+      "titleSource" : "Paul Chaim Eisenberg: Die Jahre haben mich toleranter gemacht",
+      "titleTarget" : "Paul Chaim Eisenberg: Godine su me učinile tolerantnijima",
+      "url" : "https://www.diepresse.com/5918711/Interview_Paul-Chaim-Eisenberg_Die-Jahre-haben-mich-toleranter?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,41 +185,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "L2Gw2NND",
-      "imgUrl" : "https://image.kurier.at/images/original/4854843/46-173892858.jpg",
-      "titleSource" : "Hasenhüttl nach Sieg gegen Klopp: \"Hatte Tränen in den Augen - wegen des Windes\"",
-      "titleTarget" : "Hasenhüttl nakon što je pretukao Kloppa: \"Imao sam suze u očima - zbog vjetra\"",
-      "url" : "https://kurier.at/sport/fussball/ralph-hasenhuettl-nach-sieg-gegen-liverpool-hatte-traenen-in-meinen-augen-wegen-des-windes/401147322"
+      "id" : "00BMzUxU",
+      "titleSource" : "ÖHB-Team fordert Deutschland heraus",
+      "titleTarget" : "ÖHB tim izaziva Njemačku",
+      "url" : "https://sport.orf.at/stories/3071424/"
     }, {
-      "id" : "0fYQakye",
-      "titleSource" : "Topstars beim ATP-Cup wieder dabei",
-      "titleTarget" : "Opet vrhunske zvijezde na ATP kupu",
-      "url" : "https://sport.orf.at/stories/3071436/"
+      "id" : "fQxj45S9",
+      "imgUrl" : "https://image.kurier.at/images/original/4856874/46-173920001.jpg",
+      "titleSource" : "Platz zwei im Zagreb-Slalom: ÖSV-Star Feller ist nun die Nummer eins",
+      "titleTarget" : "Drugo mjesto u zagrebačkom slalomu: ÖSV zvijezda Feller sada je broj jedan",
+      "url" : "https://kurier.at/sport/wintersport/zagreb-slalom-sieg-an-strasser-oesv-star-feller-holt-platz-zwei-vor-schwarz/401148177"
     }, {
-      "id" : "XDeDqN5T",
-      "titleSource" : "Traumherbst hebt Sturms Zuversicht",
-      "titleTarget" : "Jesen iz snova podiže Sturmovo samopouzdanje",
-      "url" : "https://sport.orf.at/stories/3071413/"
+      "id" : "ezDiM3fG",
+      "titleSource" : "Achterbahnfahrt geht für Walkner weiter",
+      "titleTarget" : "Vožnja toboganima nastavlja se za Walkner",
+      "url" : "https://sport.orf.at/stories/3071475/"
     }, {
-      "id" : "QQ62WY4J",
-      "titleSource" : "Elway zieht sich in Denver als General Manager zurück",
-      "titleTarget" : "Elway se povlači kao generalni direktor u Denveru",
-      "url" : "https://sport.orf.at/stories/3071439/"
+      "id" : "1faUDRje",
+      "titleSource" : "Cleveland-Cheftrainer fällt für Play-off-Spiel aus",
+      "titleTarget" : "Glavni trener Clevelanda izašao je u play-off utakmicu",
+      "url" : "https://sport.orf.at/stories/3071467/"
     }, {
-      "id" : "Mbxr99yT",
-      "titleSource" : "Stoch auch in Bischofshofen-Quali vorne",
-      "titleTarget" : "Također je bio ispred u kvalifikacijama za Bischofshofen",
-      "url" : "https://sport.orf.at/stories/3071454/"
+      "id" : "KpJwmy3a",
+      "titleSource" : "Deutscher vereitelt ÖSV-Dreifachsieg",
+      "titleTarget" : "Nijemac osujetio trostruku pobjedu ÖSV-a",
+      "url" : "https://sport.orf.at/stories/3071477/"
     }, {
-      "id" : "Wltfmq9Y",
-      "titleSource" : "Stadlober kommt in Toblach auf Touren",
-      "titleTarget" : "Stadlober kreće u Toblach",
-      "url" : "https://sport.orf.at/stories/3071440/"
+      "id" : "cKMfsFhs",
+      "imgUrl" : "https://image.kurier.at/images/original/4856550/46-173898217.jpg",
+      "titleSource" : "Zagreb-Slalom: Noel in Führung, ÖSV-Läufer mischen vorne mit",
+      "titleTarget" : "Zagrebački slalom: Noel u vodstvu, ÖSV trkači miješaju se sprijeda",
+      "url" : "https://kurier.at/sport/wintersport/zagreb-slalom-noel-in-fuehrung-oesv-laeufer-feller-und-schwarz-mischen-vorne-mit/401148177"
     }, {
-      "id" : "kLXafSpo",
-      "titleSource" : "EC-Doppelsieg im Super-G durch Grill und Ager",
-      "titleTarget" : "EC dvostruka pobjeda u Super-G-u od Grilla i Agera",
-      "url" : "https://sport.orf.at/stories/3071443/"
+      "id" : "lUifTI2A",
+      "imgUrl" : "https://image.kurier.at/images/original/4856514/46-151241201.jpg",
+      "titleSource" : "Özil soll für Fenerbahce spielen und Erdogans Nachbar werden",
+      "titleTarget" : "Özil bi trebao igrati za Fenerbahce i postati Erdoganov susjed",
+      "url" : "https://kurier.at/sport/fussball/mesut-oezil-soll-fuer-fenerbahce-spielen-und-erdogans-nachbar-werden/401148162"
     } ]
   } ],
   "country" : "austria",
