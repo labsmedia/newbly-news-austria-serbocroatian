@@ -8,12 +8,6 @@
       "titleTarget" : "Ukratko o ranom početku cijepljenja: \"Ono što se isporuči mora se odmah cijepiti\"",
       "url" : "https://kurier.at/politik/inland/kurz-zu-vorgezogenem-impfstart-was-geliefert-wird-muss-sofort-verimpft-werden/401148096"
     }, {
-      "id" : "AuqMohRu",
-      "imgUrl" : "https://image.kurier.at/images/original/4856082/46-173638696.jpg",
-      "titleSource" : "Viel Kritik nach TV-Auftritt: Sektionschefin rechtfertigt langsamen Impfstart",
-      "titleTarget" : "Mnogo kritika nakon TV nastupa: šef odsjeka opravdava polagan početak cijepljenja",
-      "url" : "https://kurier.at/politik/inland/reich-brauchen-zeit-fuer-aufklaerung-und-gespraeche/401147922"
-    }, {
       "id" : "fTTCeZqu",
       "imgUrl" : "https://image.kurier.at/images/original/4856475/46-161848153.jpg",
       "titleSource" : "Anschober und Tanner appellieren an Pflegeheime: \"Rufen Sie Impfstoffe ab\"",
@@ -26,23 +20,17 @@
       "titleTarget" : "SPÖ želi posebnu sjednicu, FPÖ također kritizira \"kaos cijepljenja\"",
       "url" : "https://kurier.at/politik/inland/spoe-will-sondersitzung-fpoe-kritisiert-ebenfalls-impfchaos/401148105"
     }, {
-      "id" : "1Fc8vtDy",
-      "imgUrl" : "https://image.kurier.at/images/original/4856373/46-173787567.jpg",
-      "titleSource" : "Früherer Impfstart: Wieviel die einzelnen Bundesländer verimpfen",
-      "titleTarget" : "Raniji početak cijepljenja: Koliko cijepe pojedine savezne države",
-      "url" : "https://kurier.at/politik/inland/impfstart-wurde-nun-doch-vorgezogen-21000-impfungen-diese-woche/401147997"
-    }, {
       "id" : "yrZRCdHf",
       "imgUrl" : "https://image.kurier.at/images/original/4693584/46-167790193.jpg",
       "titleSource" : "Corona an Schulen so stark verbreitet wie in Gesamtbevölkerung",
       "titleTarget" : "Corona je jednako raširena u školama kao i u općoj populaciji",
       "url" : "https://kurier.at/politik/inland/corona-an-schulen-so-stark-verbreitet-wie-in-gesamtbevoelkerung/401148363"
     }, {
-      "id" : "gFC125S1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/2/d/5919277/97D1500B-CD41-4E2D-821E-94C6F5E5B1BE_v0_l.jpg",
-      "titleSource" : "Regierung zieht Impfstart vor",
-      "titleTarget" : "Vlada preferira početak cijepljenja",
-      "url" : "https://www.diepresse.com/5919277/CoronaPandemie_Regierung-zieht-Impfstart-vor?from=rss"
+      "id" : "1Fc8vtDy",
+      "imgUrl" : "https://image.kurier.at/images/original/4856373/46-173787567.jpg",
+      "titleSource" : "Früherer Impfstart: Wieviel die einzelnen Bundesländer verimpfen",
+      "titleTarget" : "Raniji početak cijepljenja: Koliko cijepe pojedine savezne države",
+      "url" : "https://kurier.at/politik/inland/impfstart-wurde-nun-doch-vorgezogen-21000-impfungen-diese-woche/401147997"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -58,6 +46,12 @@
       "titleSource" : "Reifenhersteller Michelin will bis zu 2.300 Stellen streichen",
       "titleTarget" : "Proizvođač guma Michelin želi smanjiti do 2300 radnih mjesta",
       "url" : "https://kurier.at/wirtschaft/reifenhersteller-michelin-will-bis-zu-2300-stellen-streichen/401148057"
+    }, {
+      "id" : "xvXdEMSN",
+      "imgUrl" : "https://image.kurier.at/images/original/4857006/46-173910162.jpg",
+      "titleSource" : "Apple knüpft Boni für Chefs an soziale Werte und Umweltstandards",
+      "titleTarget" : "Apple povezuje bonuse za šefove sa društvenim vrijednostima i ekološkim standardima",
+      "url" : "https://kurier.at/wirtschaft/apple-knuepft-boni-fuer-chefs-an-soziale-werte-und-umweltstandards/401148327"
     }, {
       "id" : "ImZ5KYe7",
       "imgUrl" : "https://image.kurier.at/images/original/4856745/46-166259842.jpg",
@@ -82,40 +76,10 @@
       "titleSource" : "VW mit Absatzsprung in USA - Gesamtjahr 2020 aber schwach",
       "titleTarget" : "VW s skokom prodaje u SAD-u - puna 2020. godina, ali slaba",
       "url" : "https://kurier.at/wirtschaft/vw-mit-absatzsprung-in-usa-gesamtjahr-2020-aber-schwach/401148063"
-    }, {
-      "id" : "LzKImWuH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/2/8/9/5919369/A350-passenger-aircraft-are-seen-parked-at-the-Airbus-factory-in-Blagnac-near-Toulouse_160994674134226.jpg",
-      "titleSource" : "Airbus für Wasserstoff",
-      "titleTarget" : "Airbus za vodik",
-      "url" : "https://www.diepresse.com/5919369/Flugzeughersteller_Airbus-fuer-Wasserstoff?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "gp9H5UHW",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/98/crops/w=1280/803885_opener_280198_arbeitsphoto_03_04_13_4.jpg?s=57e2a2d6e38529ca8fe27e05a471e10462d732f3",
-      "titleSource" : "Römisches Theater in Bregenz entdeckt",
-      "titleTarget" : "Rimsko kazalište otkriveno u Bregenzu",
-      "url" : "https://vorarlberg.orf.at/stories/3083626/"
-    }, {
-      "id" : "Dx9Uzp9K",
-      "imgUrl" : "https://image.kurier.at/images/original/4853487/46-173884862.jpg",
-      "titleSource" : "Semmering-Chaos: Mobilfunk-Daten zeigen Spitzenzeiten mit mehr als 4.700 Besuchern",
-      "titleTarget" : "Sumorni kaos: podaci s mobitela pokazuju vršna vremena s više od 4700 posjetitelja",
-      "url" : "https://kurier.at/chronik/oesterreich/semmering-chaos-mobilfunk-daten-zeigen-spitzenzeiten-mit-mehr-als-4000-besuchern/401147658"
-    }, {
-      "id" : "wQiQdUSr",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/87/crops/w=1280/798801_opener_278287_coronaimpfung.jpg?s=6d72cb4fb5a50886ef90b3ba311f4f5f224790a1",
-      "titleSource" : "Zweite Runde der Impfungen hat begonnen",
-      "titleTarget" : "Počeo je drugi krug cijepljenja",
-      "url" : "https://wien.orf.at/stories/3083694/"
-    }, {
-      "id" : "UE9TF42C",
-      "imgUrl" : "https://image.kurier.at/images/original/4856442/46-173855058.jpg",
-      "titleSource" : "2.469 Neuinfektionen in Österreich",
-      "titleTarget" : "2.469 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2469-neuinfektionen-in-oesterreich/401148114"
-    }, {
       "id" : "zovqljxa",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/87/crops/w=1280/804953_opener_280587_img_20210106_151042.jpg?s=d0ff4db81a2a705440cd36c4a290f981eea510db",
       "titleSource" : "2.500 bei Demonstration in Wr. Neustadt",
@@ -128,15 +92,45 @@
       "titleTarget" : "Novi život barokne pekare",
       "url" : "https://burgenland.orf.at/stories/3083718/"
     }, {
-      "id" : "F1YlTh0z",
-      "imgUrl" : "https://image.kurier.at/images/original/4856601/46-173901624.jpg",
-      "titleSource" : "Zweiter Impfstoff in der EU zugelassen; Neue Studie zu Corona an Schulen",
-      "titleTarget" : "Drugo cjepivo odobreno u EU; Nova studija o koroni u školama",
-      "url" : "https://kurier.at/chronik/oesterreich/impfziel-20000-dosen-noch-diese-woche-mehr-als-tausend-tote-in-deutschland/401147970"
+      "id" : "eEI1fiHK",
+      "imgUrl" : "https://image.kurier.at/images/original/4857075/demo.jpeg",
+      "titleSource" : "Festnahmen bei Corona-Demo in Wiener Neustadt",
+      "titleTarget" : "Uhićenja na demonstraciji Corona u Bečkom Novom Mjestu",
+      "url" : "https://kurier.at/chronik/oesterreich/festnahmen-bei-corona-demo-in-wiener-neustadt/401148345"
+    }, {
+      "id" : "UE9TF42C",
+      "imgUrl" : "https://image.kurier.at/images/original/4856442/46-173855058.jpg",
+      "titleSource" : "2.469 Neuinfektionen in Österreich",
+      "titleTarget" : "2.469 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2469-neuinfektionen-in-oesterreich/401148114"
+    }, {
+      "id" : "qNsvnyv9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/43/crops/w=1280/805130_opener_280643_lungaufin.jpg?s=6908a6333ebf0ebdc64849f8054a7f86aebd1510",
+      "titleSource" : "Ansturm von Skitourengehern: Zederhaus greift ein",
+      "titleTarget" : "Navala skijaških turista: intervenira Zederhaus",
+      "url" : "https://salzburg.orf.at/stories/3083757/"
+    }, {
+      "id" : "fmU5x7If",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/72/crops/w=1280/803792_opener_280172_trainer_5.jpg?s=d83fc9d190d900a526a7719541e2a61fe971f3c1",
+      "titleSource" : "Mit 26 Jahren Co-Trainer bei den New York Red Bulls",
+      "titleTarget" : "S 26 godina bio je pomoćni trener u New York Red Bullsu",
+      "url" : "https://burgenland.orf.at/stories/3083416/"
+    }, {
+      "id" : "6zZpP0JM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/25/crops/w=1280/804741_opener_280525_8aecd821-ea2b-4309-9108-b2168c2acdad.jpg?s=69a207c3c52ba177cf8d6e4938d6ec957d7cc9dd",
+      "titleSource" : "Schützenhöfer: „Jetzt nicht Nerven verlieren“",
+      "titleTarget" : "Schützenhöfer: \"Ne gubite živce sada\"",
+      "url" : "https://steiermark.orf.at/stories/3083739/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "0Fuq3ARs",
+      "imgUrl" : "https://image.kurier.at/images/original/4857132/46-168478990.jpg",
+      "titleSource" : "Filmfestival von Cannes könnte wegen Corona verschoben werden",
+      "titleTarget" : "Filmski festival u Cannesu mogao bi biti odgođen zbog Corone",
+      "url" : "https://kurier.at/kultur/filmfestival-von-cannes-koennte-wegen-corona-verschoben-werden/401148366"
+    }, {
       "id" : "sybi5pSN",
       "imgUrl" : "https://image.kurier.at/images/original/4856091/78350011458269186_BLD_Online.jpg",
       "titleSource" : "Nach Falschmeldung: Schauspielerin Tanya Roberts laut Sprecher tot",
@@ -161,23 +155,17 @@
       "titleTarget" : "Nova sezona \"Ninja ratnika\" započinje 2021. na Puls4",
       "url" : "https://kurier.at/kultur/medien/neue-ninja-warrior-staffel-auf-puls4/401148000"
     }, {
-      "id" : "0Fuq3ARs",
-      "imgUrl" : "https://image.kurier.at/images/original/4857132/46-168478990.jpg",
-      "titleSource" : "Filmfestival von Cannes könnte wegen Corona verschoben werden",
-      "titleTarget" : "Filmski festival u Cannesu mogao bi biti odgođen zbog Corone",
-      "url" : "https://kurier.at/kultur/filmfestival-von-cannes-koennte-wegen-corona-verschoben-werden/401148366"
+      "id" : "7dCO3GA2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/c/9/5919433/C68FB15E-FAA6-4EA0-BF2E-0D32D4BCE439_v0_h.jpg",
+      "titleSource" : "Nach \"KZ\"-Äußerung: RTL schneidet Wendler aus \"DSDS\"",
+      "titleTarget" : "Nakon izjave \"KZ\": RTL presjekao Wendlera iz \"DSDS-a\"",
+      "url" : "https://www.diepresse.com/5919433/Coronavirus_Nach-KZAeusserung_RTL-schneidet-Wendler-aus-DSDS?from=rss"
     }, {
       "id" : "XVMTPGcO",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/8/c/5919372/78B1144E-2A34-441A-8D7D-1F32911EAA31_1609946836486832.jpg",
       "titleSource" : "Bridgerton: Der Brautmarkt ist eröffnet",
       "titleTarget" : "Bridgerton: Tržište mladenki je otvoreno",
       "url" : "https://www.diepresse.com/5919372/Serie_Bridgerton_Der-Brautmarkt-ist-eroeffnet?from=rss"
-    }, {
-      "id" : "kk3qh3GG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/f/7/5918711/0197CCE6-B9FF-4737-AA5E-6056B6E65650_v0_l.jpg",
-      "titleSource" : "Paul Chaim Eisenberg: Die Jahre haben mich toleranter gemacht",
-      "titleTarget" : "Paul Chaim Eisenberg: Godine su me učinile tolerantnijima",
-      "url" : "https://www.diepresse.com/5918711/Interview_Paul-Chaim-Eisenberg_Die-Jahre-haben-mich-toleranter?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,16 +173,28 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "00BMzUxU",
-      "titleSource" : "ÖHB-Team fordert Deutschland heraus",
-      "titleTarget" : "ÖHB tim izaziva Njemačku",
-      "url" : "https://sport.orf.at/stories/3071424/"
+      "id" : "jyjbY6Nk",
+      "imgUrl" : "https://image.kurier.at/images/original/4857105/46-168687527.jpg",
+      "titleSource" : "Fortsetzung bei Rapid: Steffen Hofmann, der unerwartete Trainer",
+      "titleTarget" : "Nastavak u Rapidu: Steffen Hofmann, neočekivani trener",
+      "url" : "https://kurier.at/sport/fussball/fortsetzung-bei-rapid-steffen-hofmann-der-unerwartete-trainer/401148348"
+    }, {
+      "id" : "ePQ78I6w",
+      "imgUrl" : "https://image.kurier.at/images/original/4855725/46-173904876.jpg",
+      "titleSource" : "Schlechter Verlierer: Schlierenzauer bei der Tournee disqualifiziert",
+      "titleTarget" : "Loš gubitnik: Schlierenzauer je diskvalificiran tijekom turneje",
+      "url" : "https://kurier.at/sport/wintersport/schlechter-verlierer-schlierenzauer-bei-der-tournee-disqualifiziert/401148336"
     }, {
       "id" : "fQxj45S9",
       "imgUrl" : "https://image.kurier.at/images/original/4856874/46-173920001.jpg",
       "titleSource" : "Platz zwei im Zagreb-Slalom: ÖSV-Star Feller ist nun die Nummer eins",
       "titleTarget" : "Drugo mjesto u zagrebačkom slalomu: ÖSV zvijezda Feller sada je broj jedan",
       "url" : "https://kurier.at/sport/wintersport/zagreb-slalom-sieg-an-strasser-oesv-star-feller-holt-platz-zwei-vor-schwarz/401148177"
+    }, {
+      "id" : "KpJwmy3a",
+      "titleSource" : "Deutscher vereitelt ÖSV-Dreifachsieg",
+      "titleTarget" : "Nijemac osujetio trostruku pobjedu ÖSV-a",
+      "url" : "https://sport.orf.at/stories/3071477/"
     }, {
       "id" : "ezDiM3fG",
       "titleSource" : "Achterbahnfahrt geht für Walkner weiter",
@@ -205,17 +205,6 @@
       "titleSource" : "Cleveland-Cheftrainer fällt für Play-off-Spiel aus",
       "titleTarget" : "Glavni trener Clevelanda izašao je u play-off utakmicu",
       "url" : "https://sport.orf.at/stories/3071467/"
-    }, {
-      "id" : "KpJwmy3a",
-      "titleSource" : "Deutscher vereitelt ÖSV-Dreifachsieg",
-      "titleTarget" : "Nijemac osujetio trostruku pobjedu ÖSV-a",
-      "url" : "https://sport.orf.at/stories/3071477/"
-    }, {
-      "id" : "cKMfsFhs",
-      "imgUrl" : "https://image.kurier.at/images/original/4856550/46-173898217.jpg",
-      "titleSource" : "Zagreb-Slalom: Noel in Führung, ÖSV-Läufer mischen vorne mit",
-      "titleTarget" : "Zagrebački slalom: Noel u vodstvu, ÖSV trkači miješaju se sprijeda",
-      "url" : "https://kurier.at/sport/wintersport/zagreb-slalom-noel-in-fuehrung-oesv-laeufer-feller-und-schwarz-mischen-vorne-mit/401148177"
     }, {
       "id" : "lUifTI2A",
       "imgUrl" : "https://image.kurier.at/images/original/4856514/46-151241201.jpg",
