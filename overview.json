@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "V6QdfKLK",
+      "imgUrl" : "https://image.kurier.at/images/original/4819899/20201214-ABD0034-1-1.jpg",
+      "titleSource" : "Massive Vorwürfe gegen Diplomarbeit von Ministerin Aschbacher",
+      "titleTarget" : "Masovni navodi protiv diplomskog rada ministra Aschbachera",
+      "url" : "https://kurier.at/politik/inland/massive-vorwuerfe-gegen-diplomarbeit-von-ministerin-aschbacher/401149530"
+    }, {
       "id" : "OVQKN3r4",
       "imgUrl" : "https://image.kurier.at/images/original/4858839/46-173937438.jpg",
       "titleSource" : "Rendi-Wagner: \"Impfung ist Chance, die nicht verspielt werden darf\"",
       "titleTarget" : "Rendi-Wagner: \"Cijepljenje je prilika koju se ne smije prokockati\"",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-impfung-ist-chance-die-nicht-verspielt-werden-darf/401149146"
-    }, {
-      "id" : "IHM9QoqN",
-      "imgUrl" : "https://image.kurier.at/images/original/4854180/46-173833672.jpg",
-      "titleSource" : "Anschober verteidigt Impf-Strategie: Pilotphase wurde abgewartet",
-      "titleTarget" : "Anschober brani strategiju cijepljenja: čekalo se na pilot fazu",
-      "url" : "https://kurier.at/politik/inland/anschober-verteidigt-impf-strategie-pilotphase-wurde-abgewartet/401148681"
     }, {
       "id" : "Lvep2lyB",
       "imgUrl" : "https://image.kurier.at/images/original/4848933/20201231-ABD0006-1-1.jpg",
@@ -46,6 +46,24 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "GQIv4FFR",
+      "imgUrl" : "https://image.kurier.at/images/original/4858656/46-173508205.jpg",
+      "titleSource" : "Corona-Jahrhundertkrise kostet uns drei Jahre Wirtschaftsleistung",
+      "titleTarget" : "Koronska kriza stoljeća koštat će nas tri godine ekonomske proizvodnje",
+      "url" : "https://kurier.at/wirtschaft/corona-jahrhundertkrise-kostet-uns-drei-jahre-wirtschaftsleistung/401149038"
+    }, {
+      "id" : "1LAESj2m",
+      "imgUrl" : "https://image.kurier.at/images/original/4531226/46-165812465.jpg",
+      "titleSource" : "Tesla-Chef Musk überholt Bezos als reichster Mensch der Welt",
+      "titleTarget" : "Teslin šef Musk pretekao je Bezosa kao najbogatiju osobu na svijetu",
+      "url" : "https://kurier.at/wirtschaft/tesla-chef-musk-ueberholt-bezos-als-reichster-mensch-der-welt/401149440"
+    }, {
+      "id" : "QqLXhyoh",
+      "imgUrl" : "https://image.kurier.at/images/original/4858452/46-160065491.jpg",
+      "titleSource" : "Tiroler WK-Chef: \"Eine Wintersaison ist heuer unrealistisch\"",
+      "titleTarget" : "Šef tirolskog WK-a: \"Zimska sezona je ove godine nerealna\"",
+      "url" : "https://kurier.at/wirtschaft/tiroler-wk-chef-eine-wintersaison-ist-heuer-unrealistisch/401148975"
+    }, {
       "id" : "uARNcfWj",
       "imgUrl" : "https://image.kurier.at/images/original/4858128/46-173932809.jpg",
       "titleSource" : "US-Firmen \"entsetzt und besorgt\" über Sturm auf das Kapitol",
@@ -58,56 +76,32 @@
       "titleTarget" : "Istraživanje - švicarske banke predviđaju sve veće zadatke po kreditima",
       "url" : "https://kurier.at/wirtschaft/umfrage-schweizer-banken-rechnen-mit-steigenden-kreditausfaellen/401148930"
     }, {
-      "id" : "GwvvVNJ7",
-      "imgUrl" : "https://image.kurier.at/images/original/4859271/46-173916198.jpg",
-      "titleSource" : "Nord Stream 2 wird in Dänemark weitergebaut",
-      "titleTarget" : "Sjeverni tok 2 nastavlja se graditi u Danskoj",
-      "url" : "https://kurier.at/wirtschaft/nord-stream-2-wird-in-daenemark-weitergebaut/401149338"
+      "id" : "PHLGfL5a",
+      "imgUrl" : "https://image.kurier.at/images/original/4837326/46-173700140.jpg",
+      "titleSource" : "Design der Woche: Mit einer Tischlampe Akzente setzen",
+      "titleTarget" : "Dizajn tjedna: postavite akcente stolnom lampom",
+      "url" : "https://kurier.at/wirtschaft/immobiz/design-der-woche-mit-einer-tischlampe-akzente-setzen/401137584"
     }, {
-      "id" : "OElbU3ny",
-      "imgUrl" : "https://image.kurier.at/images/original/4743576/81690356757366564_BLD_Online.jpg",
-      "titleSource" : "Osram: Aktionäre klagen gegen Beherrschungsvertrag mit ams",
-      "titleTarget" : "Osram: dioničari tuže ugovor o dominaciji s ams-om",
-      "url" : "https://kurier.at/wirtschaft/osram-aktionaere-klagen-gegen-beherrschungsvertrag-mit-ams/401149278"
-    }, {
-      "id" : "6IF2yLeP",
-      "imgUrl" : "https://image.kurier.at/images/original/3423349/78370011348059636_BLD_Online.jpg",
-      "titleSource" : "Optikerkette Fielmann übertraf eigene Jahresprognose",
-      "titleTarget" : "Lanac optičara Fielmann premašio je vlastitu godišnju prognozu",
-      "url" : "https://kurier.at/wirtschaft/optikerkette-fielmann-uebertraf-eigene-jahresprognose/401149254"
-    }, {
-      "id" : "NMlxGSog",
-      "imgUrl" : "https://image.kurier.at/images/original/4484807/78370011355238142_BLD_Online.jpg",
-      "titleSource" : "AUA-Mutter Lufthansa setzt Flugzeuge als Sicherheiten ein",
-      "titleTarget" : "AUA roditelj Lufthansa koristi zrakoplove kao zalog",
-      "url" : "https://kurier.at/wirtschaft/aua-mutter-lufthansa-setzt-flugzeuge-als-sicherheiten-ein/401149128"
-    }, {
-      "id" : "SoUp3wPQ",
-      "imgUrl" : "https://image.kurier.at/images/original/2276304/cc%252Bby%252Bcorsi%252Bphoto%25252C%252Bjesolo.jpg",
-      "titleSource" : "Hoteliers in Jesolo rekrutieren Personal für den Sommer",
-      "titleTarget" : "Hotelijeri u Jesolu zapošljavaju osoblje za ljeto",
-      "url" : "https://kurier.at/wirtschaft/hoteliers-in-jesolo-rekrutieren-personal-fuer-den-sommer/401149101"
+      "id" : "kmFzMMdA",
+      "imgUrl" : "https://image.kurier.at/images/original/4695897/78370011356952548_BLD_Online.jpg",
+      "titleSource" : "Boeing zahlt wegen 737-Max-Debakels Milliardenstrafe",
+      "titleTarget" : "Boeing plaća milijarde globa za debakl 737 Max",
+      "url" : "https://kurier.at/wirtschaft/boeing-zahlt-wegen-737-max-debakels-milliardenstrafe/401149539"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "u03oZJcR",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/94/crops/w=1280/805863_opener_280894_6a2a9808.jpg?s=c0134f6003ca4de912ab22d35e0601170abf40c6",
-      "titleSource" : "Tiertransporter kippte in Straßengraben",
-      "titleTarget" : "U jarku se prevrnuo kamion za životinje",
-      "url" : "https://ooe.orf.at/stories/3083869/"
-    }, {
       "id" : "AROokuOA",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "2.540 neue Corona-Infektionen in Österreich",
       "titleTarget" : "2.540 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2540-neue-corona-infektionen-in-oesterreich/401148543"
     }, {
-      "id" : "OMwuT8d3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/00/crops/w=1280/805720_opener_280600_img_20210106_152719.jpg?s=0fb711a7143266de9fea83fae7e2bb1ee2ae4fc1",
-      "titleSource" : "Kritik an CoV-Demos: Neue Regeln für Polizei",
-      "titleTarget" : "Kritika demonstracija CoV: Nova pravila za policiju",
-      "url" : "https://noe.orf.at/stories/3083835/"
+      "id" : "dhk03HF7",
+      "imgUrl" : "https://image.kurier.at/images/original/3444208/46-145651428.jpg",
+      "titleSource" : "Ein Urlaub trotz Lockdown ist strafbar",
+      "titleTarget" : "Odmor unatoč zaključavanju kazneno je djelo",
+      "url" : "https://kurier.at/chronik/oesterreich/ein-urlaub-trotz-lockdown-ist-strafbar/401149407"
     }, {
       "id" : "eSF6tSWx",
       "imgUrl" : "https://image.kurier.at/images/original/4858137/46-168502393.jpg",
@@ -121,16 +115,23 @@
       "titleTarget" : "Cijepljenje koronom: gradski vijećnik u Salzburgu primio je višak doze",
       "url" : "https://kurier.at/chronik/oesterreich/corona-impfung-salzburger-stadtraetin-bekam-ueberzaehlige-dosis/401148933"
     }, {
+      "id" : "YJwjz6UN",
+      "imgUrl" : "https://image.kurier.at/images/original/4694382/78350011456938636_BLD_Online.jpg",
+      "titleSource" : "Corona-Ampel könnte teils auf Orange springen",
+      "titleTarget" : "Koronski semafori ponekad bi mogli postati narančasti",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-koennte-teils-auf-orange-springen/401149260"
+    }, {
       "id" : "GjGLtDwX",
       "imgUrl" : "https://image.kurier.at/images/original/4848453/46-173776180.jpg",
       "titleSource" : "Noch im Jänner erste Impfungen außerhalb der Heime",
       "titleTarget" : "Prvo cijepljenje izvan domova u siječnju",
       "url" : "https://kurier.at/chronik/oesterreich/noch-im-jaenner-erste-impfungen-ausserhalb-der-heime/401148462"
     }, {
-      "id" : "KyEvpllr",
-      "titleSource" : "Polizei warnt vor „falschem Polizisten“",
-      "titleTarget" : "Policija upozorava na \"lažnog policajca\"",
-      "url" : "https://vorarlberg.orf.at/stories/3083848/"
+      "id" : "vPPWoThU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/13/crops/w=1280/806188_opener_281013_impfungfeldk.259.jpg?s=937f92fe538f9b943e240859a1c8c499946bb52d",
+      "titleSource" : "Impfstart in den Krankenhäusern",
+      "titleTarget" : "Početak cijepljenja u bolnicama",
+      "url" : "https://vorarlberg.orf.at/stories/3083925/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -153,6 +154,18 @@
       "titleTarget" : "Zvijezde zgrožene američkim događajima: \"Ne domoljublje, već terorizam\"",
       "url" : "https://kurier.at/kultur/stars-entsetzt-von-us-ereignissen-kein-patriotismus-sondern-terrorismus/401149122"
     }, {
+      "id" : "m7B41dZX",
+      "imgUrl" : "https://image.kurier.at/images/original/4858761/46-168607713.jpg",
+      "titleSource" : "Nick Cave und die Bad Seeds kündigen neues Album an",
+      "titleTarget" : "Nick Cave i Bad Seeds najavljuju novi album",
+      "url" : "https://kurier.at/kultur/nick-cave-und-die-bad-seeds-kuendigen-neues-album-an/401149107"
+    }, {
+      "id" : "wrDPZ6pA",
+      "imgUrl" : "https://image.kurier.at/images/original/4756818/apv_friends_2c_warner_bros._entertainment_inc.v4.9.2.jpg",
+      "titleSource" : "\"Friends\" ist wieder bei Netflix verfügbar",
+      "titleTarget" : "\"Prijatelji\" su ponovo dostupni na Netflixu",
+      "url" : "https://kurier.at/kultur/medien/friends-ist-wieder-bei-netflix-verfuegbar/401148387"
+    }, {
       "id" : "OWqNPdP7",
       "imgUrl" : "https://image.kurier.at/images/original/4094664/podcast_illu_hell-01.png",
       "titleSource" : "5 Podcast-Tipps für den Jänner",
@@ -164,16 +177,6 @@
       "titleSource" : "Comeback von Ja, Panik: Soundtrack für eine Utopie",
       "titleTarget" : "Povratak Ja, Panik: Soundtrack za utopiju",
       "url" : "https://kurier.at/kultur/comeback-von-ja-panik-soundtrack-fuer-eine-utopie/401148270"
-    }, {
-      "id" : "YUfIH4Of",
-      "titleSource" : "\"Verbotene Liebe\"-Schauspieler Thomas Gumpert tot",
-      "titleTarget" : "Glumac \"Zabranjene ljubavi\" Thomas Gumpert mrtav",
-      "url" : "https://kurier.at/kultur/medien/verbotene-liebe-schauspieler-thomas-gumpert-tot/401149188"
-    }, {
-      "id" : "N3KLxeL8",
-      "titleSource" : "Mezzosopranistin Biserka Cvejic mit 97 Jahren verstorben",
-      "titleTarget" : "Mezzosopranistica Biserka Cvejić umrla je u 97. godini",
-      "url" : "https://kurier.at/kultur/mezzosopranistin-biserka-cvejic-mit-97-jahren-verstorben/401149191"
     } ]
   }, {
     "category" : "HEALTH",
@@ -181,17 +184,16 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "jyjbY6Nk",
-      "imgUrl" : "https://image.kurier.at/images/original/4857105/46-168687527.jpg",
-      "titleSource" : "Fortsetzung bei Rapid: Steffen Hofmann, der unerwartete Trainer",
-      "titleTarget" : "Nastavak u Rapidu: Steffen Hofmann, neočekivani trener",
-      "url" : "https://kurier.at/sport/fussball/fortsetzung-bei-rapid-steffen-hofmann-der-unerwartete-trainer/401148348"
-    }, {
       "id" : "pZrTbpCj",
       "imgUrl" : "https://image.kurier.at/images/original/4857681/46-173660303.jpg",
-      "titleSource" : "Unsportlich: Interne Kritik nach Schlierenzauers Kontroll-Boykott",
+      "titleSource" : "Nach Kritik meldet sich Schlierenzauer: \"Tut mir sehr leid\"",
       "titleTarget" : "Unsporting: Interna kritika nakon Schlierenzauerovog bojkota kontrole",
       "url" : "https://kurier.at/sport/wintersport/unsportlich-kontroll-boykott-und-disqualifikation-brachten-oesv-star-schlierenzauer-ruege-ein/401148552"
+    }, {
+      "id" : "BIsbGW78",
+      "titleSource" : "Tennisstar Thiem bestätigt neue Beziehung",
+      "titleTarget" : "Teniska zvijezda Thiem potvrđuje novu vezu",
+      "url" : "https://sport.orf.at/stories/3071512/"
     }, {
       "id" : "Wc73cG6A",
       "titleSource" : "St. Anton freut sich auf Weltcup-Rückkehr",
@@ -203,22 +205,22 @@
       "titleTarget" : "Vlhova otkriva nekonvencionalne metode treninga",
       "url" : "https://sport.orf.at/stories/3071503/"
     }, {
+      "id" : "1976iY01",
+      "titleSource" : "Schlierenzauer handelt sich Rüge ein",
+      "titleTarget" : "Schlierenzauer je prigovor",
+      "url" : "https://sport.orf.at/stories/3071498/"
+    }, {
       "id" : "LYPDAE3p",
       "imgUrl" : "https://image.kurier.at/images/original/4857750/46-173931693.jpg",
       "titleSource" : "NBA entsetzt über Sturm aufs Kapitol: \"Beweis für privilegiertes Leben\"",
       "titleTarget" : "NBA zgrožen jurišem na Capitol: \"Dokaz privilegiranog života\"",
       "url" : "https://kurier.at/sport/nba-entsetzt-ueber-krawalle-in-washington-am-us-kapitol-beweis-fuer-privilegiertes-leben/401148624"
     }, {
-      "id" : "WYeX0s8a",
-      "titleSource" : "Olympiasiegerin soll Team für Tokio rüsten",
-      "titleTarget" : "Olimpijski prvak trebao bi opremiti momčad za Tokio",
-      "url" : "https://sport.orf.at/stories/3071513/"
-    }, {
-      "id" : "kgMWaKzZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4859208/46-96128639.jpg",
-      "titleSource" : "Teambesitzer Stroll: Formel-1-Auftakt soll in Bahrain stattfinden",
-      "titleTarget" : "Vlasnik ekipe Šetnja: Početak Formule 1 trebao bi se održati u Bahreinu",
-      "url" : "https://kurier.at/sport/motorsport/aston-martin-besitzer-lawrence-stroll-formel-1-auftakt-soll-in-bahrain-stattfinden/401149320"
+      "id" : "F2xCnnTy",
+      "imgUrl" : "https://image.kurier.at/images/original/4859784/46-173719034.jpg",
+      "titleSource" : " Ex-FIFA-Boss Joseph Blatter im Spital",
+      "titleTarget" : " Bivši šef FIFA-e Joseph Blatter u bolnici",
+      "url" : "https://kurier.at/sport/fussball/ex-fifa-boss-joseph-blatter-im-spital/401149545"
     } ]
   } ],
   "country" : "austria",
