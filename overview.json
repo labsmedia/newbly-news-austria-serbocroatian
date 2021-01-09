@@ -8,29 +8,11 @@
       "titleTarget" : "Dolaze \"ulazni testovi\": detalji nove strategije testiranja",
       "url" : "https://kurier.at/politik/inland/eintrittstests-kommen-neue-teststrategie-steht/401150646"
     }, {
-      "id" : "dRuZopNu",
-      "imgUrl" : "https://image.kurier.at/images/original/4860864/46-155063238.jpg",
-      "titleSource" : "Justiministerin Zadić bekam am Dreikönigstag ihr Baby",
-      "titleTarget" : "Ministar pravosuđa Zadić dobio je svoju bebu na Bogojavljenje",
-      "url" : "https://kurier.at/politik/inland/justiministerin-zadic-wurde-am-dreikoenigstag-mutter/401150106"
-    }, {
-      "id" : "LZWTNtQP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/e/5920446/WEITERE-DETAILS-ZU-CORONAMASSNAHMEN-FASSMANN_1610180831977761_v0_h.jpg",
-      "titleSource" : "Wöchentliche Selbsttests für Schüler kommen, Beginn des Präsenzunterrichts weiter offen",
-      "titleTarget" : "Dolaze tjedni samotestiranja za učenike, početak predavanja licem u lice još uvijek je otvoren",
-      "url" : "https://www.diepresse.com/5920446/Corona_Woechentliche-Selbsttests-fuer-Schueler-kommen-Beginn-des?from=rss"
-    }, {
-      "id" : "m19KkwBz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/c/5920444/CORONA-ST-PLTEN----BEGINN-DER-MASSENTESTS-FR-DIE-BEVLKERUNG_1610180357423850_v0_h.jpg",
-      "titleSource" : "Koalition einigt sich mit SPÖ auf Eingangstests für Veranstaltungen und Hotels",
-      "titleTarget" : "Koalicija se dogovara sa SPÖ o ulaznim testovima za priredbe i hotele",
-      "url" : "https://www.diepresse.com/5920444/Corona_Koalition-einigt-sich-mit-SPOe-auf-Eingangstests-fuer?from=rss"
-    }, {
-      "id" : "CGMZjGre",
-      "imgUrl" : "https://image.kurier.at/images/original/4807473/46-151341418.jpg",
-      "titleSource" : "\"Montag ist Testtag\" - Wie in Schulen getestet werden soll",
-      "titleTarget" : "\"Ponedjeljak je test dan\" - Kako testirati u školama",
-      "url" : "https://kurier.at/politik/inland/live-so-soll-es-fuer-oesterreichs-schueler-nach-dem-18-jaenner-weitergehen/401150736"
+      "id" : "OEUjUDXW",
+      "imgUrl" : "https://image.kurier.at/images/original/4849923/46-173715420.jpg",
+      "titleSource" : "Plagiatsvorwurf: FH prüft Diplomarbeit von Aschbacher",
+      "titleTarget" : "Navod o plagijarizmu: FH ispituje Aschbacherov diplomski rad",
+      "url" : "https://kurier.at/politik/inland/plagiatsvorwurf-fh-prueft-diplomarbeit-von-aschbacher/401150856"
     }, {
       "id" : "LcQmOlyw",
       "imgUrl" : "https://image.kurier.at/images/original/4853775/20210104-ABD0064-1-1.jpg",
@@ -38,31 +20,55 @@
       "titleTarget" : "Šef zdravstvenog odjela izražava sumnju u kraj zaključavanja",
       "url" : "https://kurier.at/politik/inland/gesundheits-sektionschefin-aeussert-zweifel-am-lockdown-ende/401150742"
     }, {
-      "id" : "hCqeSZLj",
-      "titleSource" : "Seit Mitternacht Grenzkontrollen zu Tschechien und Slowakei",
-      "titleTarget" : "Granična kontrola prema Češkoj i Slovačkoj od ponoći",
-      "url" : "https://www.diepresse.com/5920448/Corona_Seit-Mitternacht-Grenzkontrollen-zu-Tschechien-und-Slowakei?from=rss"
+      "id" : "1RgAuEnW",
+      "imgUrl" : "https://image.kurier.at/images/original/4843920/20201228-ABD0055-1-1.jpg",
+      "titleSource" : "Anschober: Auslieferung von mehr als 106.000 Impfdosen fixiert",
+      "titleTarget" : "Anschober: Fiksna isporuka više od 106 000 doza cijepljenja",
+      "url" : "https://kurier.at/politik/inland/anschober-auslieferung-von-mehr-als-106000-impfdosen-fixiert/401150916"
+    }, {
+      "id" : "J4cf1STC",
+      "imgUrl" : "https://image.kurier.at/images/original/4819890/20201214-ABD0031-1-1.jpg",
+      "titleSource" : "Aschbacher: Doktorehren während Corona-Pandemie",
+      "titleTarget" : "Aschbacher: Doktorat tijekom pandemije korone",
+      "url" : "https://kurier.at/politik/inland/aschbacher-doktorehren-waehrend-corona-pandemie/401151018"
+    }, {
+      "id" : "CGMZjGre",
+      "imgUrl" : "https://image.kurier.at/images/original/4807473/46-151341418.jpg",
+      "titleSource" : "Faßmann bringt 5 Millionen Selbsttests an die Schulen",
+      "titleTarget" : "\"Ponedjeljak je test dan\" - Kako testirati u školama",
+      "url" : "https://kurier.at/politik/inland/live-so-soll-es-fuer-oesterreichs-schueler-nach-dem-18-jaenner-weitergehen/401150736"
+    }, {
+      "id" : "noxelBxk",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/e/9/5920489/PK-PFLEGE-UND-CORONA-JOBOFFENSIVE-ASCHBACHER_1610191233291973_v0_h.jpg",
+      "titleSource" : "Weitere Plagiatsvorwürfe gegen Ministerin Aschbacher",
+      "titleTarget" : "Daljnje optužbe za plagijarizam protiv ministra Aschbachera",
+      "url" : "https://www.diepresse.com/5920489/Dissertation_Weitere-Plagiatsvorwuerfe-gegen-Ministerin-Aschbacher?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "v8D6tBBf",
-      "imgUrl" : "https://image.kurier.at/images/original/4722210/46-168390742.jpg",
-      "titleSource" : "Großunternehmen wollen Mitarbeiter betriebsintern impfen",
-      "titleTarget" : "Velike tvrtke žele interno cijepiti zaposlenike",
-      "url" : "https://kurier.at/wirtschaft/grossunternehmen-wollen-mitarbeiter-betriebsintern-impfen/401149914"
-    }, {
-      "id" : "xSTtXXuK",
-      "imgUrl" : "https://image.kurier.at/images/original/4263257/81751351654219534_BLD_Online.jpg",
-      "titleSource" : "Nach Hamsterkäufen: Klopapiervorrat bis nach Los Angeles",
-      "titleTarget" : "Nakon kupovine hrčaka: opskrba toaletnim papirom u Los Angelesu",
-      "url" : "https://kurier.at/wirtschaft/nach-hamsterkaeufen-klopapiervorrat-bis-nach-los-angeles/401150217"
-    }, {
       "id" : "MH0U7dy7",
       "imgUrl" : "https://image.kurier.at/images/original/4858902/46-173906670.jpg",
       "titleSource" : "Leichter Knick in der Immobilien-Preiskurve",
       "titleTarget" : "Lagano naginjanje u krivulji cijene nekretnine",
       "url" : "https://kurier.at/wirtschaft/immobiz/leichter-knick-in-der-immobilien-preiskurve/401149179"
+    }, {
+      "id" : "wKt3QDhj",
+      "imgUrl" : "https://image.kurier.at/images/original/4740936/78370011357348074_BLD_Online.jpg",
+      "titleSource" : "AUA muss Flüge aus GB und Südafrika  bis 24. Jänner streichen",
+      "titleTarget" : "AUA mora otkazati letove iz Velike Britanije i Južne Afrike do 24. siječnja",
+      "url" : "https://kurier.at/wirtschaft/aua-muss-fluege-aus-gb-und-suedafrika-bis-24-jaenner-streichen/401150979"
+    }, {
+      "id" : "jW6CNlMV",
+      "imgUrl" : "https://image.kurier.at/images/original/4727064/20201029-ABD0035-1-1.jpg",
+      "titleSource" : "Höchstgericht gegen das Steuersparmodell von XXXLutz",
+      "titleTarget" : "Vrhovni sud protiv modela uštede poreza XXXLutz",
+      "url" : "https://kurier.at/wirtschaft/hoechstgericht-gegen-das-steuersparmodell-von-xxxlutz/401150937"
+    }, {
+      "id" : "znlPj8UN",
+      "titleSource" : "Ökonom: „Europa will Asien folgen, es fehlt aber die Kompetenz“",
+      "titleTarget" : "Ekonomist: \"Europa želi slijediti Aziju, ali nedostaju kompetencije\"",
+      "url" : "https://kurier.at/wirtschaft/oekonom-europa-will-asien-folgen-es-fehlt-aber-die-kompetenz/401150823"
     }, {
       "id" : "mMtje3AH",
       "imgUrl" : "https://image.kurier.at/images/original/3448660/46-119026607.jpg",
@@ -81,57 +87,51 @@
       "titleSource" : "Warum Microsoft-Managerin Magdalena Rogl für eine Frauenquote in Vorständen ist",
       "titleTarget" : "Zašto se menadžerica Microsofta Magdalena Rogl zalaže za kvotu za žene u odborima",
       "url" : "https://kurier.at/wirtschaft/karriere/deutschland-beliesst-eine-frauenquote-in-vorstaenden-warum-microsoft-managerin-magdalena-rogl-dafuer/401149749"
-    }, {
-      "id" : "LUIbDRR9",
-      "imgUrl" : "https://image.kurier.at/images/original/2864249/78470026144878014_BLD_Online.jpg",
-      "titleSource" : "Großaktionär Starwood Capital will CA Immo übernehmen",
-      "titleTarget" : "Glavni dioničar Starwood Capital želi preuzeti CA Immo",
-      "url" : "https://kurier.at/wirtschaft/grossaktionaer-starwood-capital-will-ca-immo-uebernehmen/401150613"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "vU5claIT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/44/64/crops/w=1280/737640_opener_256064_demo_gegen_corona_massnahmen_der_bundesregierung_2.jpg?s=2184d37344dc5c2423acf4a550d3b32887b7479a",
-      "titleSource" : "CoV: Vierte Demo von Organisatorin abgesagt",
-      "titleTarget" : "CoV: Policija zabranjuje tri od četiri demonstracije",
-      "url" : "https://wien.orf.at/stories/3084065/"
+      "id" : "n0bJjOcr",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/37/crops/w=1280/807917_opener_281637_20210108_coronatests_an_schulen_00_00_08_04.jpg?s=616899b49dd1d1994c7419e40f38aa8454a6c103",
+      "titleSource" : "Selbsttests an Schulen in Vorbereitung",
+      "titleTarget" : "Samotestiranje u školama u pripremi",
+      "url" : "https://kaernten.orf.at/stories/3084178/"
     }, {
-      "id" : "xj6tdK7B",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/89/crops/w=1280/534347_opener_181189_20xxxx_bh_wildbret_00.00.09.08.jpg?s=8a1a331c7fff7e06d5f2b66878d035b8d7a87bb8",
-      "titleSource" : "4.000 Unterschriften für Gatterjagd-Volksabstimmung",
-      "titleTarget" : "4.000 potpisa za referendum o lovu na vrata",
-      "url" : "https://burgenland.orf.at/stories/3084052/"
+      "id" : "xRtmt1To",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/01/crops/w=1280/783630_opener_272801_messe.jpg?s=a7ff4f8e7f4c36bcfc61f79bf58a876e7f368e88",
+      "titleSource" : "Wien lockert Anmeldung für CoV-Massentest",
+      "titleTarget" : "Beč olakšava registraciju za masovni test CoV",
+      "url" : "https://wien.orf.at/stories/3084130/"
     }, {
-      "id" : "ugbx70TW",
-      "imgUrl" : "https://image.kurier.at/images/original/4860825/46-173573261.jpg",
-      "titleSource" : "Ab Mitternacht Grenzkontrollen zu Tschechien und Slowakei",
-      "titleTarget" : "Od ponoći granične kontrole prema Češkoj i Slovačkoj",
-      "url" : "https://kurier.at/chronik/oesterreich/ab-mitternacht-grenzkontrollen-zu-tschechien-und-slowakei/401150073"
+      "id" : "coMVTJvb",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.278 Neuinfektionen in Österreich",
+      "titleTarget" : "2.278 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2278-neuinfektionen-in-oesterreich/401150715"
     }, {
-      "id" : "BIast9cP",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/35/39/crops/w=1280/662886_opener_228539_themenbild_schule_sommerschule_schulbeginn_unterrichtsstart_.jpg?s=6ecc043a3a05310428462148d32df005a2ca0cda",
-      "titleSource" : "Heuras will temporär mehr Schulstunden",
-      "titleTarget" : "Heuras privremeno želi više školskih sati",
-      "url" : "https://noe.orf.at/stories/3084091/"
+      "id" : "tR6dprCJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4862916/46-173974038.jpg",
+      "titleSource" : "Corona-Demonstration in Wien fand trotz Verbots statt",
+      "titleTarget" : "Demonstracija Corone u Beču održala se unatoč zabrani",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstration-in-wien-fand-trotz-verbots-statt/401151078"
     }, {
-      "id" : "hMpkW6RU",
-      "imgUrl" : "https://image.kurier.at/images/original/4861305/46-173610288.jpg",
-      "titleSource" : "Corona-Regeln: Deutsche Polizei zeigte Tourengeher aus Salzburg an",
-      "titleTarget" : "Pravila Corone: njemačka policija izvijestila je o turistima skijanja iz Salzburga",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-regeln-deutsche-polizei-zeigte-tourengeher-aus-salzburg-an/401150295"
+      "id" : "jfrrNVjt",
+      "imgUrl" : "https://image.kurier.at/images/original/4861854/46-168550786.jpg",
+      "titleSource" : "Reise-Quarantäne dauert noch länger",
+      "titleTarget" : "Putnička karantena traje još duže",
+      "url" : "https://kurier.at/chronik/oesterreich/reise-quarantaene-dauert-noch-laenger/401150661"
     }, {
-      "id" : "4DxcARv1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/03/crops/w=1280/807211_opener_281403_vlcsnap-2021-01-08-19h18m17s178.jpg?s=7838c5e93301d45b7bf877d1c074d027f87fcf92",
-      "titleSource" : "Fünf Polizisten bei Kindesabnahme verletzt",
-      "titleTarget" : "Pet policajaca ozlijeđeno prilikom odvođenja djece",
-      "url" : "https://wien.orf.at/stories/3084071/"
+      "id" : "wArZvK1K",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/20/71/crops/w=1280/153286_opener_37671_strom_masten_leitungen_apa_helmut_fohringer.jpg?s=59141faa31d8ffd63fcd744eeeb506f9bb36854f",
+      "titleSource" : "„Beinahe-Blackout“: EVN fordert Konsequenz",
+      "titleTarget" : "\"Gotovo zatamnjenje\": EVN zahtijeva dosljednost",
+      "url" : "https://noe.orf.at/stories/3084166/"
     }, {
-      "id" : "I9rigDyx",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/41/crops/w=1280/798370_opener_278141_rohrhofer.jpg?s=764e5d43ca64b84203fb9b0d9e236377c8283307",
-      "titleSource" : "CoV: 24 Infizierte in steirischem Pflegeheim",
-      "titleTarget" : "CoV: 24 zaražene osobe u štajerskom staračkom domu",
-      "url" : "https://steiermark.orf.at/stories/3084069/"
+      "id" : "OSD9hycp",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/40/01/crops/w=1280/701593_opener_242601_gurgeltest2.jpg?s=f427b628505ae8453c4ca817fa1c70e90b096fd8",
+      "titleSource" : "Studie: Kinder ebenso von CoV betroffen",
+      "titleTarget" : "Studija: Djeca koja su također pogođena CoV",
+      "url" : "https://steiermark.orf.at/stories/3084080/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,17 +142,17 @@
       "titleTarget" : "Dokumentarni film o pištolju Glock: bestseler s obje strane zakona",
       "url" : "https://kurier.at/kultur/doku-ueber-die-glock-pistole-bestseller-auf-beiden-seiten-des-gesetzes/401150280"
     }, {
+      "id" : "kL1SNwka",
+      "imgUrl" : "https://image.kurier.at/images/original/4861893/46-173968955.jpg",
+      "titleSource" : "Trauer um Michael Apted: Bond-Regisseur gestorben",
+      "titleTarget" : "Žalovanje za Michaelom Aptetom: Umro je redatelj Bonda",
+      "url" : "https://kurier.at/kultur/regisseur-michael-apted-ist-tot/401150688"
+    }, {
       "id" : "XJdgN6R9",
       "imgUrl" : "https://image.kurier.at/images/original/4860039/46-168911319.jpg",
       "titleSource" : "Di Lampedusa: Warum darf der Leopard nicht ins Bett kommen?",
       "titleTarget" : "Di Lampedusa: Zašto leopard ne smije ići u krevet?",
       "url" : "https://kurier.at/kultur/buch/di-lampedusa-warum-darf-der-leopard-nicht-ins-bett-kommen/401149668"
-    }, {
-      "id" : "v7uHQaSu",
-      "imgUrl" : "https://image.kurier.at/images/original/4860042/46-168910822.jpg",
-      "titleSource" : "Paolo Casadio: Ein Roman über den Zug in Richtung Vernichtung",
-      "titleTarget" : "Paolo Casadio: Roman o vlaku prema uništenju",
-      "url" : "https://kurier.at/kultur/buch/paolo-casadio-ein-roman-ueber-den-zug-in-richtung-vernichtung/401149665"
     }, {
       "id" : "eVZngvTB",
       "imgUrl" : "https://image.kurier.at/images/original/4860045/46-168925641.jpg",
@@ -160,23 +160,17 @@
       "titleTarget" : "Recenzija knjige: Johann Scheerer i \"Unheimlich nah\"",
       "url" : "https://kurier.at/kultur/buch/buchkritik-johann-scheerer-und-unheimlich-nah/401149662"
     }, {
-      "id" : "kL1SNwka",
-      "imgUrl" : "https://image.kurier.at/images/original/4861893/46-173968955.jpg",
-      "titleSource" : "Trauer um Michael Aptet: Bond-Regisseur gestorben",
-      "titleTarget" : "Žalovanje za Michaelom Aptetom: Umro je redatelj Bonda",
-      "url" : "https://kurier.at/kultur/regisseur-michael-apted-ist-tot/401150688"
-    }, {
       "id" : "ZFfyEvJD",
       "imgUrl" : "https://image.kurier.at/images/original/4861902/batman1.jpg",
       "titleSource" : "Batman-Comic wird bei US-Auktion um Rekordsumme versteigert",
       "titleTarget" : "Batmanov strip bit će na aukciji za rekordne iznose na američkoj aukciji",
       "url" : "https://kurier.at/kultur/batman-comic-wird-bei-us-auktion-um-rekordsumme-versteigert/401150694"
     }, {
-      "id" : "CWv4TSEt",
-      "imgUrl" : "https://image.kurier.at/images/original/4861620/46-173942312.jpg",
-      "titleSource" : "Jamiroquai-Frontmann stellt klar: War bei Kapitol-Sturm nicht dabei",
-      "titleTarget" : "Čelni čovjek Jamiroquaija jasno govori: Nije bio tamo u Capitol Stormu",
-      "url" : "https://kurier.at/kultur/jamiroquai-frontmann-stellt-klar-war-bei-kapitol-sturm-nicht-dabei/401150529"
+      "id" : "EGwsV9aZ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/c/1/5920449/FILE-PHOTO-Robert-Aldrich-Award-recipient-Michael-Apted-attends-the-65th-annual-Directors-Guild-of-America-Awards-in-Los-Angeles_1610181394230669_v0_h.jpg",
+      "titleSource" : "Regisseur Michael Apted ist tot",
+      "titleTarget" : "Redatelj Michael Apted je mrtav",
+      "url" : "https://www.diepresse.com/5920449/Los-Angeles_Regisseur-Michael-Apted-ist-tot?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,43 +178,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "kWQzx1s8",
-      "imgUrl" : "https://image.kurier.at/images/original/4861725/46-173870937.jpg",
-      "titleSource" : "Capitals-Pleite in Graz: Wiener gingen 2:6 unter",
-      "titleTarget" : "Bankrot glavnog grada u Grazu: Bečani su pali 2: 6",
-      "url" : "https://kurier.at/sport/capitals-pleite-in-graz-wiener-gingen-26-unter/401150583"
+      "id" : "2aQzanb9",
+      "imgUrl" : "https://image.kurier.at/images/original/4862259/46-173957649.jpg",
+      "titleSource" : "Nächster Podestplatz für Biathletin Lisa Hauser",
+      "titleTarget" : "Sljedeće postolje za biatlonku Lisu Hauser",
+      "url" : "https://kurier.at/sport/wintersport/naechster-podestplatz-fuer-biathletin-lisa-hauser/401150904"
     }, {
-      "id" : "gJI4l6Ou",
-      "titleSource" : "ÖSV-Abfahrerinnen auf Jagd nach Heimsieg",
-      "titleTarget" : "ÖSV skijaši u spustu u lovu na domaću pobjedu",
-      "url" : "https://sport.orf.at/stories/3071555/"
+      "id" : "o9CmZuHw",
+      "titleSource" : "Österreich erobert zweimal EM-Bronze",
+      "titleTarget" : "Austrija je dva puta osvajala brončanu medalju",
+      "url" : "https://sport.orf.at/stories/3071589/"
     }, {
-      "id" : "PhOKigTN",
-      "titleSource" : "Flock rast bei EM in Winterberg zu Bronze",
-      "titleTarget" : "Flock utrke do bronce na EP u Winterbergu",
-      "url" : "https://sport.orf.at/stories/3071557/"
-    }, {
-      "id" : "vbs5sE4F",
-      "imgUrl" : "https://image.kurier.at/images/original/4861560/46-168920133.jpg",
-      "titleSource" : "Sport Austria-Chef Niessl ruft zur freiwilligen Impfung auf",
-      "titleTarget" : "Šef Sport Austrije Niessl poziva na dobrovoljno cijepljenje",
-      "url" : "https://kurier.at/sport/sport-austria-chef-niessl-ruft-zur-freiwilligen-impfung-auf/401150484"
-    }, {
-      "id" : "Q7aGAaoz",
-      "titleSource" : "Salzburg-Testspiel wegen CoV-Fällen abgesagt",
-      "titleTarget" : "Testna utakmica iz Salzburga otkazana zbog slučajeva CoV",
-      "url" : "https://sport.orf.at/stories/3071578/"
+      "id" : "KuqhRaiH",
+      "imgUrl" : "https://image.kurier.at/images/original/4862073/46-173657481.jpg",
+      "titleSource" : "Zwei EM-Medaillen: Der Austrobob erlebt ein Revival",
+      "titleTarget" : "Dvije EM medalje: Austrobob doživljava preporod",
+      "url" : "https://kurier.at/sport/wintersport/em-medaille-fuer-bobpilotin-katrin-beierl/401150826"
     }, {
       "id" : "1KVSsybk",
       "titleSource" : "Sigulda lädt zu Weltcup und EM",
       "titleTarget" : "Sigulda vas poziva na Svjetski kup i EP",
       "url" : "https://sport.orf.at/stories/3071527/"
     }, {
-      "id" : "wKVGieaH",
-      "imgUrl" : "https://image.kurier.at/images/original/4861362/46-173560615.jpg",
-      "titleSource" : "Sportler und die Politik: Wer ausschert, wird bestraft",
-      "titleTarget" : "Sportaši i politika: oni koji se povuku bit će kažnjeni",
-      "url" : "https://kurier.at/sport/sportler-und-die-politik-wer-ausschert-wird-bestraft/401150334"
+      "id" : "Ho2it4xm",
+      "imgUrl" : "https://image.kurier.at/images/original/4861386/46-173952303.jpg",
+      "titleSource" : "\"Die Demokratie gerettet\": Wie sich US-Sportstars gegen Trump stellten",
+      "titleTarget" : "\"Spašena demokracija\": Kako su se američke sportske zvijezde suprotstavile Trumpu",
+      "url" : "https://kurier.at/sport/die-demokratie-gerettet-wie-sich-us-sportstars-gegen-donald-trump-stellten/401150340"
+    }, {
+      "id" : "IRiDrVzd",
+      "titleSource" : "Hauser auch in Verfolgung auf Rang drei",
+      "titleTarget" : "Hauser je također na trećem mjestu u potjeri",
+      "url" : "https://sport.orf.at/stories/3071596/"
+    }, {
+      "id" : "eCPILMe6",
+      "titleSource" : "Schalke droht unrühmlicher Rekord",
+      "titleTarget" : "Schalkeu prijeti neslavni dosje",
+      "url" : "https://sport.orf.at/stories/3071563/"
     } ]
   } ],
   "country" : "austria",
