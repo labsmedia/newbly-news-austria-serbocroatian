@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "V6QdfKLK",
-      "imgUrl" : "https://image.kurier.at/images/original/4819899/20201214-ABD0034-1-1.jpg",
-      "titleSource" : "Massive Vorwürfe gegen Diplomarbeit von Ministerin Aschbacher",
-      "titleTarget" : "Masovni navodi protiv diplomskog rada ministra Aschbachera",
-      "url" : "https://kurier.at/politik/inland/massive-vorwuerfe-gegen-diplomarbeit-von-ministerin-aschbacher/401149530"
-    }, {
       "id" : "u5BQ1cjx",
       "imgUrl" : "https://image.kurier.at/images/original/4846605/46-173805419.jpg",
       "titleSource" : "Virus-Mutation: Um 56 Prozent ansteckender",
@@ -42,6 +36,12 @@
       "titleSource" : "Oberösterreich: Landesrat Kaineder an Corona erkrankt",
       "titleTarget" : "Gornja Austrija: provincijski vijećnik Kaineder razbolio se od Corone",
       "url" : "https://www.diepresse.com/5920158/Landesregierung_Oberoesterreich_Landesrat-Kaineder-an-Corona-erkrankt?from=rss"
+    }, {
+      "id" : "HMyhYsNR",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/5/4/5920084/CORONA---ERSTE-COVID-IMPFUNGEN-IN-NIEDERSTERREICH_1610107492305749_v0_h.jpg",
+      "titleSource" : "Länder organisieren künftig Corona-Impfungen",
+      "titleTarget" : "Zemlje će u budućnosti organizirati cijepljenje protiv korone",
+      "url" : "https://www.diepresse.com/5920084/Impfstrategie_Laender-organisieren-kuenftig-CoronaImpfungen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -58,35 +58,35 @@
       "titleTarget" : "Nakon kupovine hrčaka: opskrba toaletnim papirom u Los Angelesu",
       "url" : "https://kurier.at/wirtschaft/nach-hamsterkaeufen-klopapiervorrat-bis-nach-los-angeles/401150217"
     }, {
-      "id" : "kmFzMMdA",
-      "imgUrl" : "https://image.kurier.at/images/original/4695897/78370011356952548_BLD_Online.jpg",
-      "titleSource" : "Boeing zahlt wegen 737-Max-Debakels Milliardenstrafe",
-      "titleTarget" : "Boeing plaća milijarde globa za debakl 737 Max",
-      "url" : "https://kurier.at/wirtschaft/boeing-zahlt-wegen-737-max-debakels-milliardenstrafe/401149539"
+      "id" : "LUIbDRR9",
+      "imgUrl" : "https://image.kurier.at/images/original/2864249/78470026144878014_BLD_Online.jpg",
+      "titleSource" : "Großaktionär Starwood Capital will CA Immo übernehmen",
+      "titleTarget" : "Glavni dioničar Starwood Capital želi preuzeti CA Immo",
+      "url" : "https://kurier.at/wirtschaft/grossaktionaer-starwood-capital-will-ca-immo-uebernehmen/401150613"
     }, {
-      "id" : "OIpL60ip",
-      "imgUrl" : "https://image.kurier.at/images/original/4660861/78370011356651970_BLD_Online.jpg",
-      "titleSource" : "Apple und Hyundai wollen selbstfahrende E-Autos entwickeln",
-      "titleTarget" : "Apple i Hyundai žele razviti samovozeće električne automobile",
-      "url" : "https://kurier.at/wirtschaft/apple-und-hyundai-wollen-selbstfahrende-e-autos-entwickeln/401150172"
+      "id" : "EQMmMjYe",
+      "imgUrl" : "https://image.kurier.at/images/original/4861713/46-173957540.jpg",
+      "titleSource" : "Deutsche Bank einigt sich auf Vergleiche mit US-Gericht",
+      "titleTarget" : "Deutsche Bank postigla je nagodbu s američkim sudom",
+      "url" : "https://kurier.at/wirtschaft/deutsche-bank-einigt-sich-auf-vergleiche-mit-us-gericht/401150565"
     }, {
-      "id" : "3rFkj68m",
-      "imgUrl" : "https://image.kurier.at/images/original/4843008/46-173622299.jpg",
-      "titleSource" : "Brexit-Deal für Leitl eine \"pragmatische Lösung\"",
-      "titleTarget" : "Brexitov ugovor za Leitl \"pragmatično rješenje\"",
-      "url" : "https://kurier.at/wirtschaft/brexit-deal-fuer-leitl-eine-pragmatische-loesung/401149797"
-    }, {
-      "id" : "Tu5r0gtW",
-      "imgUrl" : "https://image.kurier.at/images/original/3948779/78370011351879086_BLD_Online.jpg",
-      "titleSource" : "US-Traditionsjuwelier Tiffany kommt in französische Hände",
-      "titleTarget" : "Tradicionalni američki draguljar Tiffany dolazi u francuske ruke",
-      "url" : "https://kurier.at/wirtschaft/us-traditionsjuwelier-tiffany-kommt-in-franzoesische-haende/401149503"
+      "id" : "nbPg6y5i",
+      "imgUrl" : "https://image.kurier.at/images/original/4861710/46-108694949.jpg",
+      "titleSource" : "Jetzt ist Schluss: Autobank soll geordnet schließen",
+      "titleTarget" : "Sad je gotovo: Autobank bi se trebao pravilno zatvoriti",
+      "url" : "https://kurier.at/wirtschaft/jetzt-ist-schluss-autobank-soll-geordnet-schliessen/401150568"
     }, {
       "id" : "zdYqsnC9",
       "imgUrl" : "https://image.kurier.at/images/original/4700190/78370011356985346_BLD_Online.jpg",
       "titleSource" : "Airbus liefert 2020 fast 570 Jets: Mehr Aufträge als Stornierungen",
       "titleTarget" : "Airbus će 2020. isporučiti gotovo 570 aviona: više narudžbi nego otkaza",
       "url" : "https://kurier.at/wirtschaft/airbus-liefert-2020-fast-570-jets-mehr-auftraege-als-stornierungen/401150526"
+    }, {
+      "id" : "gE9ZZk0N",
+      "imgUrl" : "https://image.kurier.at/images/original/4861575/46-173820290.jpg",
+      "titleSource" : "Goldpreis setzt zur Talfahrt an und fiel deutlich unter 1.900 Dollar",
+      "titleTarget" : "Cijene zlata počele su klizati i padale su znatno ispod 1900 dolara",
+      "url" : "https://kurier.at/wirtschaft/goldpreis-setzt-zur-talfahrt-an-und-fiel-deutlich-unter-1900-dollar/401150493"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,11 +97,11 @@
       "titleTarget" : "CoV: Policija zabranjuje tri od četiri demonstracije",
       "url" : "https://wien.orf.at/stories/3084065/"
     }, {
-      "id" : "BOGKtIpr",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/35/07/crops/w=1280/698702_opener_228507_abd0070.jpg?s=dddf4a2bb36dc752ebabf6ad6069418d94f17027",
-      "titleSource" : "Maskengegner drohen Lehrern",
-      "titleTarget" : "Maskirani protivnici prijete učiteljima",
-      "url" : "https://wien.orf.at/stories/3083947/"
+      "id" : "xj6tdK7B",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/16/89/crops/w=1280/534347_opener_181189_20xxxx_bh_wildbret_00.00.09.08.jpg?s=8a1a331c7fff7e06d5f2b66878d035b8d7a87bb8",
+      "titleSource" : "4.000 Unterschriften für Gatterjagd-Volksabstimmung",
+      "titleTarget" : "4.000 potpisa za referendum o lovu na vrata",
+      "url" : "https://burgenland.orf.at/stories/3084052/"
     }, {
       "id" : "ugbx70TW",
       "imgUrl" : "https://image.kurier.at/images/original/4860825/46-173573261.jpg",
@@ -115,23 +115,23 @@
       "titleTarget" : "Učitelji kojima prijete protivnici maski",
       "url" : "https://kurier.at/chronik/oesterreich/lehrer-von-maskengegnern-bedroht/401149584"
     }, {
-      "id" : "4d0VI4yj",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/75/crops/w=1280/799996_opener_278775_22971a5c-1013-4306-9fdf-de78f1ba045d.jpg?s=920a04cef51b901da36b07c2c2003c308d5d67e2",
-      "titleSource" : "Erneut Hilfskonvoi nach Kroatien unterwegs",
-      "titleTarget" : "Na putu je još jedan konvoj pomoći za Hrvatsku",
-      "url" : "https://steiermark.orf.at/stories/3083883/"
+      "id" : "hMpkW6RU",
+      "imgUrl" : "https://image.kurier.at/images/original/4861305/46-173610288.jpg",
+      "titleSource" : "Corona-Regeln: Deutsche Polizei zeigte Tourengeher aus Salzburg an",
+      "titleTarget" : "Pravila Corone: njemačka policija izvijestila je o turistima skijanja iz Salzburga",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-regeln-deutsche-polizei-zeigte-tourengeher-aus-salzburg-an/401150295"
     }, {
-      "id" : "A4v5KFVB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/94/crops/w=1280/806697_opener_281194_2d0358e4-40eb-41ff-93aa-ca4d06e85037.jpg?s=a551e6bc57c3196f44c3bc4cdfcd778384c6df1c",
-      "titleSource" : "Uni Graz: Tablette soll CoV-Übertragung hindern",
-      "titleTarget" : "Uni Graz: tableta bi trebala spriječiti prijenos CoV",
-      "url" : "https://steiermark.orf.at/stories/3084001/"
+      "id" : "4DxcARv1",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/03/crops/w=1280/807211_opener_281403_vlcsnap-2021-01-08-19h18m17s178.jpg?s=7838c5e93301d45b7bf877d1c074d027f87fcf92",
+      "titleSource" : "Fünf Polizisten bei Kindesabnahme verletzt",
+      "titleTarget" : "Pet policajaca ozlijeđeno prilikom odvođenja djece",
+      "url" : "https://wien.orf.at/stories/3084071/"
     }, {
-      "id" : "ZNH5DSeh",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/46/crops/w=1280/806825_opener_281246_dus2.jpg?s=aecc8e1d29ee03784e070166389a50108dc11209",
-      "titleSource" : "Dusika-Stadion weicht Sport-Arena Wien",
-      "titleTarget" : "Stadion Dusika ustupa mjesto Sport Areni u Beču",
-      "url" : "https://wien.orf.at/stories/3084038/"
+      "id" : "HFdSETuL",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/27/crops/w=1280/807025_opener_281327_img_7853_bearbeitet.jpg?s=20bc288d0ead3e4f2c3d2fc0dcb6fcc80509cb44",
+      "titleSource" : "Deutsche Polizei hielt Skitourengeher  auf",
+      "titleTarget" : "Njemačka policija zaustavila je skijaške turiste",
+      "url" : "https://salzburg.orf.at/stories/3084062/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -141,6 +141,12 @@
       "titleSource" : "Lotte Lenya - Viel mehr als James Bonds Gegenspielerin",
       "titleTarget" : "Lotte Lenya - Puno više od protivnice Jamesa Bonda",
       "url" : "https://kurier.at/kultur/buch/lotte-lenya-viel-mehr-als-james-bonds-gegenspielerin/401149464"
+    }, {
+      "id" : "v7uHQaSu",
+      "imgUrl" : "https://image.kurier.at/images/original/4860042/46-168910822.jpg",
+      "titleSource" : "Paolo Casadio: Ein Roman über den Zug in Richtung Vernichtung",
+      "titleTarget" : "Paolo Casadio: Roman o vlaku prema uništenju",
+      "url" : "https://kurier.at/kultur/buch/paolo-casadio-ein-roman-ueber-den-zug-in-richtung-vernichtung/401149665"
     }, {
       "id" : "qGR09Dcy",
       "imgUrl" : "https://image.kurier.at/images/original/4859097/46-173933989.jpg",
@@ -153,12 +159,6 @@
       "titleSource" : "Jamiroquai-Frontmann stellt klar: War bei Kapitol-Sturm nicht dabei",
       "titleTarget" : "Čelni čovjek Jamiroquaija jasno govori: Nije bio tamo u Capitol Stormu",
       "url" : "https://kurier.at/kultur/jamiroquai-frontmann-stellt-klar-war-bei-kapitol-sturm-nicht-dabei/401150529"
-    }, {
-      "id" : "v7uHQaSu",
-      "imgUrl" : "https://image.kurier.at/images/original/4860042/46-168910822.jpg",
-      "titleSource" : "Paolo Casadio: Ein Roman über den Zug in Richtung Vernichtung",
-      "titleTarget" : "Paolo Casadio: Roman o vlaku prema uništenju",
-      "url" : "https://kurier.at/kultur/buch/paolo-casadio-ein-roman-ueber-den-zug-in-richtung-vernichtung/401149665"
     }, {
       "id" : "GBVhHkOB",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/d/6/5920214/IDIOCRACY-Terry-Alan-Crews-left-Luke-Wilson-orange-pants-2006-TM--20th-Century-Foxcourtesy-Everett-20thCentFox_1610120518964350.jpg",
@@ -189,35 +189,37 @@
       "titleTarget" : "Hauser zauzima prvo mjesto na postolju",
       "url" : "https://sport.orf.at/stories/3071546/"
     }, {
-      "id" : "Z6HonRQs",
-      "titleSource" : "Flock hat neuntes EM-Edelmetall im Visier",
-      "titleTarget" : "Flock je usmjeren na deveti EM plemeniti metal",
-      "url" : "https://sport.orf.at/stories/3071468/"
+      "id" : "kWQzx1s8",
+      "imgUrl" : "https://image.kurier.at/images/original/4861725/46-173870937.jpg",
+      "titleSource" : "Capitals-Pleite in Graz: Wiener gingen 2:6 unter",
+      "titleTarget" : "Bankrot glavnog grada u Grazu: Bečani su pali 2: 6",
+      "url" : "https://kurier.at/sport/capitals-pleite-in-graz-wiener-gingen-26-unter/401150583"
     }, {
-      "id" : "JT8YEqJn",
-      "titleSource" : "ÖSV-Techniker bereit für Adelboden-Triple",
-      "titleTarget" : "ÖSV tehničari spremni za trojku Adelboden",
-      "url" : "https://sport.orf.at/stories/3071502/"
+      "id" : "vbs5sE4F",
+      "imgUrl" : "https://image.kurier.at/images/original/4861560/46-168920133.jpg",
+      "titleSource" : "Sport Austria-Chef Niessl ruft zur freiwilligen Impfung auf",
+      "titleTarget" : "Šef Sport Austrije Niessl poziva na dobrovoljno cijepljenje",
+      "url" : "https://kurier.at/sport/sport-austria-chef-niessl-ruft-zur-freiwilligen-impfung-auf/401150484"
+    }, {
+      "id" : "PhOKigTN",
+      "titleSource" : "Flock rast bei EM in Winterberg zu Bronze",
+      "titleTarget" : "Flock utrke do bronce na EP u Winterbergu",
+      "url" : "https://sport.orf.at/stories/3071557/"
     }, {
       "id" : "kLN1u3cj",
       "titleSource" : "Dusika-Stadion weicht Sport-Arena Wien",
       "titleTarget" : "Stadion Dusika ustupa mjesto Sport Areni u Beču",
       "url" : "https://sport.orf.at/stories/3071551/"
     }, {
-      "id" : "20aKG9ov",
-      "titleSource" : "Schlierenzauer gesteht „dummen Fehler“ ein",
-      "titleTarget" : "Schlierenzauer priznaje \"glupe pogreške\"",
-      "url" : "https://sport.orf.at/stories/3071535/"
+      "id" : "UsVUySPU",
+      "titleSource" : "Saison-Aus für Sölden-Sieger Braathen nach Sturz",
+      "titleTarget" : "Kraj sezone za pobjednika Söldena Braathena nakon pada",
+      "url" : "https://sport.orf.at/stories/3071575/"
     }, {
-      "id" : "wgFM1K7L",
-      "titleSource" : "Die ungewöhnliche Saison der Namenlosen",
-      "titleTarget" : "Neobična sezona bezimenih",
-      "url" : "https://sport.orf.at/stories/3071471/"
-    }, {
-      "id" : "YKDdBi9I",
-      "titleSource" : "Spieler wollen bei WM keine Fans in der Halle",
-      "titleTarget" : "Igrači ne žele navijače u dvorani na Svjetskom prvenstvu",
-      "url" : "https://sport.orf.at/stories/3071554/"
+      "id" : "qzcHRqVG",
+      "titleSource" : "Liverpool im FA-Cup gegen Aston Villa souverän weiter",
+      "titleTarget" : "Liverpool samouvjereno nastavlja FA kup protiv Aston Ville",
+      "url" : "https://sport.orf.at/stories/3071574/"
     } ]
   } ],
   "country" : "austria",
