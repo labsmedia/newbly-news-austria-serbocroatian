@@ -2,11 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "a4iZPhne",
+      "imgUrl" : "https://image.kurier.at/images/original/4748988/78370011357424248_BLD_Online.jpg",
+      "titleSource" : "Arbeitsministerin tritt nach Plagiatsvorwurf zurück",
+      "titleTarget" : "Ministar rada dao je ostavku nakon optužbi za plagijarizam",
+      "url" : "https://kurier.at/politik/inland/arbeitsministerin-tritt-nach-plagiatsvorwurf-zurueck/401151117"
+    }, {
       "id" : "Gq8j0Ach",
       "imgUrl" : "https://image.kurier.at/images/original/4861839/46-172009567.jpg",
       "titleSource" : "\"Eintrittstests\" kommen: Die Details zur neuen Teststrategie",
       "titleTarget" : "Dolaze \"ulazni testovi\": detalji nove strategije testiranja",
       "url" : "https://kurier.at/politik/inland/eintrittstests-kommen-neue-teststrategie-steht/401150646"
+    }, {
+      "id" : "ubHS0GXv",
+      "imgUrl" : "https://image.kurier.at/images/original/4858722/46-173824550.jpg",
+      "titleSource" : "Skepsis sinkt: Jeder Zweite ist bereit, sich impfen zu lassen ",
+      "titleTarget" : "Skepticizam pada: svaka druga osoba spremna je za cijepljenje",
+      "url" : "https://kurier.at/politik/inland/skepsis-sinkt-jeder-zweite-ist-bereit-sich-impfen-zu-lassen/401150841"
+    }, {
+      "id" : "J4cf1STC",
+      "imgUrl" : "https://image.kurier.at/images/original/4819890/20201214-ABD0031-1-1.jpg",
+      "titleSource" : "Aschbacher: Doktorehren während Corona-Pandemie",
+      "titleTarget" : "Aschbacher: Doktorat tijekom pandemije korone",
+      "url" : "https://kurier.at/politik/inland/aschbacher-doktorehren-waehrend-corona-pandemie/401151018"
     }, {
       "id" : "OEUjUDXW",
       "imgUrl" : "https://image.kurier.at/images/original/4849923/46-173715420.jpg",
@@ -25,24 +43,6 @@
       "titleSource" : "Anschober: Auslieferung von mehr als 106.000 Impfdosen fixiert",
       "titleTarget" : "Anschober: Fiksna isporuka više od 106 000 doza cijepljenja",
       "url" : "https://kurier.at/politik/inland/anschober-auslieferung-von-mehr-als-106000-impfdosen-fixiert/401150916"
-    }, {
-      "id" : "J4cf1STC",
-      "imgUrl" : "https://image.kurier.at/images/original/4819890/20201214-ABD0031-1-1.jpg",
-      "titleSource" : "Aschbacher: Doktorehren während Corona-Pandemie",
-      "titleTarget" : "Aschbacher: Doktorat tijekom pandemije korone",
-      "url" : "https://kurier.at/politik/inland/aschbacher-doktorehren-waehrend-corona-pandemie/401151018"
-    }, {
-      "id" : "CGMZjGre",
-      "imgUrl" : "https://image.kurier.at/images/original/4807473/46-151341418.jpg",
-      "titleSource" : "Faßmann bringt 5 Millionen Selbsttests an die Schulen",
-      "titleTarget" : "\"Ponedjeljak je test dan\" - Kako testirati u školama",
-      "url" : "https://kurier.at/politik/inland/live-so-soll-es-fuer-oesterreichs-schueler-nach-dem-18-jaenner-weitergehen/401150736"
-    }, {
-      "id" : "noxelBxk",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/e/9/5920489/PK-PFLEGE-UND-CORONA-JOBOFFENSIVE-ASCHBACHER_1610191233291973_v0_h.jpg",
-      "titleSource" : "Weitere Plagiatsvorwürfe gegen Ministerin Aschbacher",
-      "titleTarget" : "Daljnje optužbe za plagijarizam protiv ministra Aschbachera",
-      "url" : "https://www.diepresse.com/5920489/Dissertation_Weitere-Plagiatsvorwuerfe-gegen-Ministerin-Aschbacher?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -91,6 +91,18 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "tR6dprCJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4862916/46-173974038.jpg",
+      "titleSource" : "Corona-Demonstration in Wien fand trotz Verbots statt",
+      "titleTarget" : "Demonstracija Corone u Beču održala se unatoč zabrani",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstration-in-wien-fand-trotz-verbots-statt/401151078"
+    }, {
+      "id" : "zQtY2UkU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/44/crops/w=1280/807632_opener_281544_glattauer.jpg?s=ea6424096a659519b0f2eea6cdaf109d274e90be",
+      "titleSource" : "Glattauer: Schulapparat „ist nicht ehrlich“",
+      "titleTarget" : "Glattauer: Školski aparat \"nije iskren\"",
+      "url" : "https://wien.orf.at/stories/3084155/"
+    }, {
       "id" : "n0bJjOcr",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/37/crops/w=1280/807917_opener_281637_20210108_coronatests_an_schulen_00_00_08_04.jpg?s=616899b49dd1d1994c7419e40f38aa8454a6c103",
       "titleSource" : "Selbsttests an Schulen in Vorbereitung",
@@ -109,29 +121,17 @@
       "titleTarget" : "2.278 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/2278-neuinfektionen-in-oesterreich/401150715"
     }, {
-      "id" : "tR6dprCJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4862916/46-173974038.jpg",
-      "titleSource" : "Corona-Demonstration in Wien fand trotz Verbots statt",
-      "titleTarget" : "Demonstracija Corone u Beču održala se unatoč zabrani",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstration-in-wien-fand-trotz-verbots-statt/401151078"
-    }, {
       "id" : "jfrrNVjt",
       "imgUrl" : "https://image.kurier.at/images/original/4861854/46-168550786.jpg",
       "titleSource" : "Reise-Quarantäne dauert noch länger",
       "titleTarget" : "Putnička karantena traje još duže",
       "url" : "https://kurier.at/chronik/oesterreich/reise-quarantaene-dauert-noch-laenger/401150661"
     }, {
-      "id" : "wArZvK1K",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/20/71/crops/w=1280/153286_opener_37671_strom_masten_leitungen_apa_helmut_fohringer.jpg?s=59141faa31d8ffd63fcd744eeeb506f9bb36854f",
-      "titleSource" : "„Beinahe-Blackout“: EVN fordert Konsequenz",
-      "titleTarget" : "\"Gotovo zatamnjenje\": EVN zahtijeva dosljednost",
-      "url" : "https://noe.orf.at/stories/3084166/"
-    }, {
-      "id" : "OSD9hycp",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/40/01/crops/w=1280/701593_opener_242601_gurgeltest2.jpg?s=f427b628505ae8453c4ca817fa1c70e90b096fd8",
-      "titleSource" : "Studie: Kinder ebenso von CoV betroffen",
-      "titleTarget" : "Studija: Djeca koja su također pogođena CoV",
-      "url" : "https://steiermark.orf.at/stories/3084080/"
+      "id" : "QMmzt4Qb",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/56/crops/w=1280/807953_opener_281656_kub.jpg?s=7c7519552815c93c2cd460ec56be20fe1a1a95e7",
+      "titleSource" : "Schülervertreter  fordert schnelle Schulöffnung",
+      "titleTarget" : "Predstavnik učenika poziva da se škola brzo otvori",
+      "url" : "https://vorarlberg.orf.at/stories/3084150/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -184,10 +184,15 @@
       "titleTarget" : "Sljedeće postolje za biatlonku Lisu Hauser",
       "url" : "https://kurier.at/sport/wintersport/naechster-podestplatz-fuer-biathletin-lisa-hauser/401150904"
     }, {
-      "id" : "o9CmZuHw",
-      "titleSource" : "Österreich erobert zweimal EM-Bronze",
-      "titleTarget" : "Austrija je dva puta osvajala brončanu medalju",
-      "url" : "https://sport.orf.at/stories/3071589/"
+      "id" : "kEQEkAPm",
+      "titleSource" : "Chardy über Privileg für Thiem und Co. sauer",
+      "titleTarget" : "Chardy ljuta zbog privilegija za Thiem i Co.",
+      "url" : "https://sport.orf.at/stories/3071590/"
+    }, {
+      "id" : "FynE5kMT",
+      "titleSource" : "Stoch setzt Siegesserie fort",
+      "titleTarget" : "Stoch nastavlja niz pobjeda",
+      "url" : "https://sport.orf.at/stories/3071602/"
     }, {
       "id" : "KuqhRaiH",
       "imgUrl" : "https://image.kurier.at/images/original/4862073/46-173657481.jpg",
@@ -195,10 +200,11 @@
       "titleTarget" : "Dvije EM medalje: Austrobob doživljava preporod",
       "url" : "https://kurier.at/sport/wintersport/em-medaille-fuer-bobpilotin-katrin-beierl/401150826"
     }, {
-      "id" : "1KVSsybk",
-      "titleSource" : "Sigulda lädt zu Weltcup und EM",
-      "titleTarget" : "Sigulda vas poziva na Svjetski kup i EP",
-      "url" : "https://sport.orf.at/stories/3071527/"
+      "id" : "7G4amJda",
+      "imgUrl" : "https://image.kurier.at/images/original/4862967/46-173973768.jpg",
+      "titleSource" : "Dritter Sieg in Folge: Kamil Stoch schwebt auf Wolke sieben",
+      "titleTarget" : "Treća pobjeda zaredom: Kamil Stoch nalazi se na devetom oblaku",
+      "url" : "https://kurier.at/sport/wintersport/dritter-sieg-in-folge-kamil-stoch-schwebt-auf-wolke-sieben/401151126"
     }, {
       "id" : "Ho2it4xm",
       "imgUrl" : "https://image.kurier.at/images/original/4861386/46-173952303.jpg",
@@ -210,11 +216,6 @@
       "titleSource" : "Hauser auch in Verfolgung auf Rang drei",
       "titleTarget" : "Hauser je također na trećem mjestu u potjeri",
       "url" : "https://sport.orf.at/stories/3071596/"
-    }, {
-      "id" : "eCPILMe6",
-      "titleSource" : "Schalke droht unrühmlicher Rekord",
-      "titleTarget" : "Schalkeu prijeti neslavni dosje",
-      "url" : "https://sport.orf.at/stories/3071563/"
     } ]
   } ],
   "country" : "austria",
