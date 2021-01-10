@@ -4,33 +4,21 @@
     "newsArticles" : [ {
       "id" : "a4iZPhne",
       "imgUrl" : "https://image.kurier.at/images/original/4863327/46-173548305.jpg",
-      "titleSource" : "Arbeitsministerin Christine Aschbacher tritt nach Plagiatsvorwurf zurück",
+      "titleSource" : "Arbeitsministerin Aschbacher nach Plagiatsvorwurf zurückgetreten",
       "titleTarget" : "Ministar rada dao je ostavku nakon optužbi za plagijarizam",
       "url" : "https://kurier.at/politik/inland/arbeitsministerin-tritt-nach-plagiatsvorwurf-zurueck/401151117"
     }, {
-      "id" : "ubHS0GXv",
-      "imgUrl" : "https://image.kurier.at/images/original/4858722/46-173824550.jpg",
-      "titleSource" : "Skepsis sinkt: Jeder Zweite ist bereit, sich impfen zu lassen ",
-      "titleTarget" : "Skepticizam pada: svaka druga osoba spremna je za cijepljenje",
-      "url" : "https://kurier.at/politik/inland/skepsis-sinkt-jeder-zweite-ist-bereit-sich-impfen-zu-lassen/401150841"
+      "id" : "t8C6UZ8h",
+      "imgUrl" : "https://image.kurier.at/images/original/4863885/46-173986259.jpg",
+      "titleSource" : "Aschbacher-Nachfolge: Martin Kocher wird neuer Arbeitsminister ohne Familienagenden",
+      "titleTarget" : "Aschbacherov nasljednik: Martin Kocher postaje novi ministar rada bez obiteljskih programa",
+      "url" : "https://kurier.at/politik/inland/aschbacher-ruecktritt-kurz-favorisiert-top-experten-martin-kocher-fuer-arbeitsministerium/401151378"
     }, {
-      "id" : "J4cf1STC",
-      "imgUrl" : "https://image.kurier.at/images/original/4819890/20201214-ABD0031-1-1.jpg",
-      "titleSource" : "Aschbacher: Doktorehren während Corona-Pandemie",
-      "titleTarget" : "Aschbacher: Doktorat tijekom pandemije korone",
-      "url" : "https://kurier.at/politik/inland/aschbacher-doktorehren-waehrend-corona-pandemie/401151018"
-    }, {
-      "id" : "OEUjUDXW",
-      "imgUrl" : "https://image.kurier.at/images/original/4849923/46-173715420.jpg",
-      "titleSource" : "Plagiatsvorwurf: FH prüft Diplomarbeit von Aschbacher",
-      "titleTarget" : "Navod o plagijarizmu: FH ispituje Aschbacherov diplomski rad",
-      "url" : "https://kurier.at/politik/inland/plagiatsvorwurf-fh-prueft-diplomarbeit-von-aschbacher/401150856"
-    }, {
-      "id" : "1RgAuEnW",
-      "imgUrl" : "https://image.kurier.at/images/original/4843920/20201228-ABD0055-1-1.jpg",
-      "titleSource" : "Anschober: Auslieferung von mehr als 106.000 Impfdosen fixiert",
-      "titleTarget" : "Anschober: Fiksna isporuka više od 106 000 doza cijepljenja",
-      "url" : "https://kurier.at/politik/inland/anschober-auslieferung-von-mehr-als-106000-impfdosen-fixiert/401150916"
+      "id" : "Z0b7QTOi",
+      "imgUrl" : "https://image.kurier.at/images/original/4863330/46-173488349.jpg",
+      "titleSource" : "Aschbacher-Rücktritt: Slowakische Uni will Dissertation prüfen",
+      "titleTarget" : "Aschbacherova ostavka: slovačko sveučilište želi ispitati disertaciju",
+      "url" : "https://kurier.at/politik/inland/aschbacher-ruecktritt-slowakische-uni-will-dissertation-pruefen/401151264"
     }, {
       "id" : "XuW7v550",
       "imgUrl" : "https://image.kurier.at/images/original/4792917/20201201-ABD0063-1-1.jpg",
@@ -38,11 +26,23 @@
       "titleTarget" : "Aschbacherova ostavka: Ovako reagira oporba",
       "url" : "https://kurier.at/politik/inland/aschbacher-ruecktritt-so-reagiert-die-opposition/401151168"
     }, {
-      "id" : "Z0b7QTOi",
-      "imgUrl" : "https://image.kurier.at/images/original/4863330/46-173488349.jpg",
-      "titleSource" : "Aschbacher-Rücktritt: Slowakische Uni will Dissertation prüfen",
-      "titleTarget" : "Aschbacherova ostavka: slovačko sveučilište želi ispitati disertaciju",
-      "url" : "https://kurier.at/politik/inland/aschbacher-ruecktritt-slowakische-uni-will-dissertation-pruefen/401151264"
+      "id" : "rIG3DDbU",
+      "imgUrl" : "https://image.kurier.at/images/original/4795326/20201202-ABD0052-1-1.jpg",
+      "titleSource" : "\"Österreich impft“-Initiative startet, 106.680 Impfdosen werden ausgeliefert",
+      "titleTarget" : "Pokreće inicijativa \"Austrija cijepi\", isporučuje se 106.680 doza cijepljenja",
+      "url" : "https://kurier.at/politik/inland/woesterreich-impft-initiative-startet-106680-impfdosen-werden-ausgeliefert/401151138"
+    }, {
+      "id" : "NoEPeYgQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4863336/46-173956234.jpg",
+      "titleSource" : "Arbeitnehmer-Tests für mehr als halbe Million Menschen",
+      "titleTarget" : "Ispitivanja radnika za više od pola milijuna ljudi",
+      "url" : "https://kurier.at/politik/inland/arbeitnehmer-tests-fuer-mehr-als-halbe-million-menschen/401151243"
+    }, {
+      "id" : "sfOA0O9j",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/3/e/5920830/FRANCE-HEALTH-VIRUS-VACCINE_1610290503741685.jpg",
+      "titleSource" : "Wiener sollen sich ab 18 Jänner für Corona-Impfung anmelden können",
+      "titleTarget" : "Bečani bi se trebali moći prijaviti za cijepljenje protiv korone od 18. siječnja",
+      "url" : "https://www.diepresse.com/5920830/Wiener-sollen-sich-ab-18-Jaenner-fuer-CoronaImpfung-anmelden-koennen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,17 +53,29 @@
       "titleTarget" : "Državni tajnik Brunner očekuje dokaz o cijepljenju za zračna putovanja",
       "url" : "https://kurier.at/wirtschaft/staatssektretaer-brunner-erwartet-impfnachweis-fuer-flugreisen/401151240"
     }, {
+      "id" : "GejffR5R",
+      "imgUrl" : "https://image.kurier.at/images/original/4862394/46-173958214.jpg",
+      "titleSource" : "Der Österreicher hinter einer der größten Meme-Seiten der Welt",
+      "titleTarget" : "Austrijanac iza jednog od najvećih meme mjesta na svijetu",
+      "url" : "https://kurier.at/wirtschaft/der-oesterreicher-hinter-einer-der-groessten-meme-seiten-der-welt/401151000"
+    }, {
       "id" : "Jcms1Pf6",
       "imgUrl" : "https://image.kurier.at/images/original/4858860/46-173900856.jpg",
       "titleSource" : "Das sind die Wohntrends 2021: Es wird kuschelig",
       "titleTarget" : "Ovo su životni trendovi za 2021. godinu: Bit će ugodno",
       "url" : "https://kurier.at/wirtschaft/immobiz/das-sind-die-wohntrends-2021-es-wird-kuschelig/401149164"
     }, {
-      "id" : "wKt3QDhj",
-      "imgUrl" : "https://image.kurier.at/images/original/4740936/78370011357348074_BLD_Online.jpg",
-      "titleSource" : "AUA muss Flüge aus GB und Südafrika  bis 24. Jänner streichen",
-      "titleTarget" : "AUA mora otkazati letove iz Velike Britanije i Južne Afrike do 24. siječnja",
-      "url" : "https://kurier.at/wirtschaft/aua-muss-fluege-aus-gb-und-suedafrika-bis-24-jaenner-streichen/401150979"
+      "id" : "pL0VThay",
+      "imgUrl" : "https://image.kurier.at/images/original/4157778/46-86086703.jpg",
+      "titleSource" : "Stromversorger warnen: Erneuerbaren-Ausbau erhöht Blackout-Gefahr",
+      "titleTarget" : "Dobavljači električne energije upozoravaju: širenje obnovljivih izvora povećava rizik od nestanka struje",
+      "url" : "https://kurier.at/wirtschaft/stromversorger-warnen-erneuerbaren-ausbau-erhoeht-blackout-gefahr/401151522"
+    }, {
+      "id" : "YYLkKo7j",
+      "imgUrl" : "https://image.kurier.at/images/original/4863402/20210110-ABD0001-1-1.jpg",
+      "titleSource" : "\"Sie können doch nicht alle Betriebe schließen\"",
+      "titleTarget" : "\"Ne možete zatvoriti sve tvrtke\"",
+      "url" : "https://kurier.at/wirtschaft/sie-koennen-doch-nicht-alle-betriebe-schliessen/401151516"
     }, {
       "id" : "FjayrNxK",
       "imgUrl" : "https://image.kurier.at/images/original/4859139/46-173711655.jpg",
@@ -76,67 +88,61 @@
       "titleSource" : "Initiative: Der Barkeeper, der Heim kommt",
       "titleTarget" : "Inicijativa: Barmen koji se vraća kući",
       "url" : "https://kurier.at/wirtschaft/karriere/initiative-der-barkeeper-der-heim-kommt/401149743"
-    }, {
-      "id" : "GejffR5R",
-      "imgUrl" : "https://image.kurier.at/images/original/4862394/46-173958214.jpg",
-      "titleSource" : "Der Österreicher hinter einer der größten Meme-Seiten der Welt",
-      "titleTarget" : "Austrijanac iza jednog od najvećih meme mjesta na svijetu",
-      "url" : "https://kurier.at/wirtschaft/der-oesterreicher-hinter-einer-der-groessten-meme-seiten-der-welt/401151000"
-    }, {
-      "id" : "jW6CNlMV",
-      "imgUrl" : "https://image.kurier.at/images/original/4727064/20201029-ABD0035-1-1.jpg",
-      "titleSource" : "Höchstgericht gegen das Steuersparmodell von XXXLutz",
-      "titleTarget" : "Vrhovni sud protiv modela uštede poreza XXXLutz",
-      "url" : "https://kurier.at/wirtschaft/hoechstgericht-gegen-das-steuersparmodell-von-xxxlutz/401150937"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "zQtY2UkU",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/44/crops/w=1280/807632_opener_281544_glattauer.jpg?s=ea6424096a659519b0f2eea6cdaf109d274e90be",
-      "titleSource" : "Glattauer: Schulapparat „ist nicht ehrlich“",
-      "titleTarget" : "Glattauer: Školski aparat \"nije iskren\"",
-      "url" : "https://wien.orf.at/stories/3084155/"
+      "id" : "gAnZsSo8",
+      "imgUrl" : "https://image.kurier.at/images/original/4863489/46-173638136.jpg",
+      "titleSource" : "Anschober und Nehammer drohen Liftbetreibern mit Sperren",
+      "titleTarget" : "Anschober i Nehammer prijete zabranima operaterima liftova",
+      "url" : "https://kurier.at/chronik/oesterreich/anschober-und-nehammer-drohen-liftbetreibern-mit-sperren/401151339"
     }, {
-      "id" : "tR6dprCJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4862916/46-173974038.jpg",
-      "titleSource" : "Corona-Demonstration in Wien fand trotz Verbots statt",
-      "titleTarget" : "Demonstracija Corone u Beču održala se unatoč zabrani",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstration-in-wien-fand-trotz-verbots-statt/401151078"
+      "id" : "6moenzDE",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/18/65/crops/w=1280/546958_opener_185765_gitarre.jpg?s=3e2e84d0c2a9ba2385a0f1cbc07b6d82af41915d",
+      "titleSource" : "CoV: Immer mehr lernen Musikinstrument",
+      "titleTarget" : "CoV: Sve više ljudi uči glazbene instrumente",
+      "url" : "https://wien.orf.at/stories/3084084/"
     }, {
-      "id" : "n0bJjOcr",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/37/crops/w=1280/807917_opener_281637_20210108_coronatests_an_schulen_00_00_08_04.jpg?s=616899b49dd1d1994c7419e40f38aa8454a6c103",
-      "titleSource" : "Selbsttests an Schulen in Vorbereitung",
-      "titleTarget" : "Samotestiranje u školama u pripremi",
-      "url" : "https://kaernten.orf.at/stories/3084178/"
+      "id" : "NBWyc17W",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/13/91/crops/w=1280/125670_opener_27291_001_kw_simmering.jpg?s=b79927d31a6f8c38b4165fa0af65bb6af039985d",
+      "titleSource" : "Blackout-Gefahr: Immer mehr Noteinsätze",
+      "titleTarget" : "Rizik zamračenja: sve više i više hitnih operacija",
+      "url" : "https://wien.orf.at/stories/3084264/"
     }, {
-      "id" : "QMmzt4Qb",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/56/crops/w=1280/807953_opener_281656_kub.jpg?s=7c7519552815c93c2cd460ec56be20fe1a1a95e7",
-      "titleSource" : "Schülervertreter  fordert schnelle Schulöffnung",
-      "titleTarget" : "Predstavnik učenika poziva da se škola brzo otvori",
-      "url" : "https://vorarlberg.orf.at/stories/3084150/"
+      "id" : "aX0vKBjw",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/15/crops/w=1280/559644_opener_190515_sitzung_des_tiroler_landtags_dornauer_.jpg?s=e19a35fc5dd54c9fc08736b5a7a4daaca8697e24",
+      "titleSource" : "Widerstand aus Tiroler SPÖ zu Zugangstests",
+      "titleTarget" : "Otpor tirolskog SPÖ pristupnim testovima",
+      "url" : "https://tirol.orf.at/stories/3084215/"
     }, {
-      "id" : "nj5zlkYj",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/48/crops/w=1280/807935_opener_281648_kundgebung_kjoe-gegenaktion_lowres_3.jpg?s=7f0320bbfa0c410eb272d061b1ad0b0a11104150",
-      "titleSource" : "Kundgebung mit Gegendemonstration",
-      "titleTarget" : "Skup s protudemonstracijom",
-      "url" : "https://steiermark.orf.at/stories/3084200/"
+      "id" : "8lvjKrFO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/17/crops/w=1280/808447_opener_281817_gepa_full_5854_gepa-202101101011150549.jpg?s=fd11f278cdb72b4bc0add07648b7f66b32b44b98",
+      "titleSource" : "Ariane Rädler erstmals in den Top Ten",
+      "titleTarget" : "Ariane Rädler prvi put među deset najboljih",
+      "url" : "https://vorarlberg.orf.at/stories/3084283/"
     }, {
-      "id" : "LRaKV5wg",
-      "imgUrl" : "https://image.kurier.at/images/original/4861272/46-173899856.jpg",
-      "titleSource" : "7-Tages-Inzidenz in Österreich: Das sind die Bezirke die am stärksten betroffen sind",
-      "titleTarget" : "Sedmodnevna incidencija u Austriji: Ovo su okruzi koji su najviše pogođeni",
-      "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-in-oesterreich-das-sind-die-bezirke-die-am-staerksten-betroffen-sind/401150289"
+      "id" : "aX91nfoc",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.651 Neuinfektionen in Österreich",
+      "titleTarget" : "1.651 nova infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1651-neuinfektionen-in-oesterreich/401151321"
     }, {
-      "id" : "1SXifbnb",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/46/crops/w=1280/772608_opener_268646_201206_mib_feuerwerkerin_alexandra_burgstaller_00_02_17_19.jpg?s=765be02a5723011bb873a8595b593f42a24b10cc",
-      "titleSource" : "Eine Fachfrau für Bomben und Granaten",
-      "titleTarget" : "Specijalist za bombe i granate",
-      "url" : "https://noe.orf.at/stories/3078836/"
+      "id" : "bqCngtCW",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/35/crops/w=1280/808518_opener_281835_test.jpg?s=75da6f4de16c50c2b6e9fe6404fa1511ed7034b8",
+      "titleSource" : "Test aus dem Automaten mit Do-it-yourself-Methode",
+      "titleTarget" : "Testirajte na stroju metodom uradi sam",
+      "url" : "https://salzburg.orf.at/stories/3084263/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "wPv9yck1",
+      "imgUrl" : "https://image.kurier.at/images/original/4863420/46-145265263.jpg",
+      "titleSource" : "Mirjam Weichselbraun wird neue Moderatorin von \"The Masked Singer Austria\"",
+      "titleTarget" : "Mirjam Weichselbraun postala je nova voditeljica filma \"Zamaskirana pjevačica Austrija\"",
+      "url" : "https://kurier.at/kultur/medien/mirjam-weichselbraun-wird-neue-the-masked-singer-austria-moderatorin/401151288"
+    }, {
       "id" : "1X6Ac2Qp",
       "imgUrl" : "https://image.kurier.at/images/original/4862016/46-89130284.jpg",
       "titleSource" : "David Bowie: Fünf Jahre nach seinem Tod schmerzlich vermisst",
@@ -149,11 +155,29 @@
       "titleTarget" : "Američki kritičari proglasili su \"Nomadland\" najboljim filmom 2020. godine",
       "url" : "https://kurier.at/kultur/us-kritiker-kuerten-nomadland-zum-besten-film-von-2020/401151273"
     }, {
-      "id" : "wPv9yck1",
-      "imgUrl" : "https://image.kurier.at/images/original/4863420/46-145265263.jpg",
-      "titleSource" : "Mirjam Weichselbraun wird neue Moderatorin von \"The Masked Singer Austria\"",
-      "titleTarget" : "Mirjam Weichselbraun postala je nova voditeljica filma \"Zamaskirana pjevačica Austrija\"",
-      "url" : "https://kurier.at/kultur/medien/mirjam-weichselbraun-wird-neue-the-masked-singer-austria-moderatorin/401151288"
+      "id" : "RhuVmQX8",
+      "imgUrl" : "https://image.kurier.at/images/original/4863726/46-165829358.jpg",
+      "titleSource" : "Corona-\"Eintrittstests\": Veranstalter orten \"Ankündigungs-Schnellschuss\"",
+      "titleTarget" : "Corona \"ulazni testovi\": organizatori pronalaze \"brzu najavu\"",
+      "url" : "https://kurier.at/kultur/corona-eintrittstests-veranstalter-orten-ankuendigungs-schnellschuss/401151441"
+    }, {
+      "id" : "6P9Vh2tE",
+      "imgUrl" : "https://image.kurier.at/images/original/4864089/46-168068468.jpg",
+      "titleSource" : "\"Starmania\"-Revival beim ORF mit Arabella Kiesbauer",
+      "titleTarget" : "Oživljavanje \"Starmanije\" na ORF-u s Arabellom Kiesbauer",
+      "url" : "https://kurier.at/kultur/medien/starmania-revival-beim-orf-mit-arabella-kiesbauer/401151540"
+    }, {
+      "id" : "EWIN64iz",
+      "imgUrl" : "https://image.kurier.at/images/original/4864269/46-167414665.jpg",
+      "titleSource" : "\"Wir können Kulturstätten sofort wieder aufsperren\"",
+      "titleTarget" : "\"Možemo odmah otključati kulturna mjesta\"",
+      "url" : "https://kurier.at/kultur/wir-koennen-kulturstaetten-sofort-wieder-aufsperren/401151327"
+    }, {
+      "id" : "ndvcJRBp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/3/5/5920821/VARIOUS-SPORTS---LOTTERIEN-Sporthilfe-Gala-2020_1610287064766581.jpg",
+      "titleSource" : "Weichselbraun moderiert Puls 4-Show \"The Masked Singer Austria\"",
+      "titleTarget" : "Weichselbraun moderira emisiju Puls 4 \"Zamaskirana pjevačica Austrija\"",
+      "url" : "https://www.diepresse.com/5920821/Vom-ORF-zu-Puls-4_Weichselbraun-moderiert-Puls-4Show-The-Masked?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -161,38 +185,40 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "2aQzanb9",
-      "imgUrl" : "https://image.kurier.at/images/original/4862259/46-173957649.jpg",
-      "titleSource" : "Nächster Podestplatz für Biathletin Lisa Hauser",
-      "titleTarget" : "Sljedeće postolje za biatlonku Lisu Hauser",
-      "url" : "https://kurier.at/sport/wintersport/naechster-podestplatz-fuer-biathletin-lisa-hauser/401150904"
+      "id" : "L0vYp95T",
+      "imgUrl" : "https://image.kurier.at/images/original/4864059/46-173987718.jpg",
+      "titleSource" : "Schwarz sei Dank: ÖSV-Technikherren können doch noch siegen",
+      "titleTarget" : "Hvala crnini: ÖSV tehničari i dalje mogu pobijediti",
+      "url" : "https://kurier.at/sport/wintersport/durststrecke-beendet-marco-schwarz-gewinnt-adelboden-slalom/401151330"
     }, {
-      "id" : "FynE5kMT",
-      "titleSource" : "Stoch setzt Siegesserie fort",
-      "titleTarget" : "Stoch nastavlja niz pobjeda",
-      "url" : "https://sport.orf.at/stories/3071602/"
+      "id" : "WpzWAMpK",
+      "titleSource" : "Schwarz jubelt über ersten Slalom-Sieg",
+      "titleTarget" : "Crni slave prvu slalomsku pobjedu",
+      "url" : "https://sport.orf.at/stories/3071636/"
     }, {
-      "id" : "7G4amJda",
-      "imgUrl" : "https://image.kurier.at/images/original/4862967/46-173973768.jpg",
-      "titleSource" : "Dritter Sieg in Folge: Kamil Stoch schwebt auf Wolke sieben",
-      "titleTarget" : "Treća pobjeda zaredom: Kamil Stoch nalazi se na devetom oblaku",
-      "url" : "https://kurier.at/sport/wintersport/dritter-sieg-in-folge-kamil-stoch-schwebt-auf-wolke-sieben/401151126"
+      "id" : "nWefEcUQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4863606/46-173982435.jpg",
+      "titleSource" : "Homophober Fluch: Golf-Star droht eine saftige Strafe",
+      "titleTarget" : "Homofobično prokletstvo: Golf zvijezda suočena je s velikom kaznom",
+      "url" : "https://kurier.at/sport/homophober-fluch-golf-star-justin-thomas-droht-eine-saftige-strafe/401151396"
     }, {
-      "id" : "tqkLwW0v",
-      "titleSource" : "Stand im Herren-Slalom in Adelboden ab 10.30 Uhr",
-      "titleTarget" : "Stanite u muškom slalomu u Adelbodenu od 10.30 sati",
-      "url" : "https://sport.orf.at/stories/3071606/"
+      "id" : "C9FPd0nI",
+      "imgUrl" : "https://image.kurier.at/images/original/4863600/46-105428024.jpg",
+      "titleSource" : "Bob-Star Benjamin Maier rast zur nächsten EM-Medaille",
+      "titleTarget" : "Bob zvijezda Benjamin Maier utrkuje se za sljedeću medalju Europskog prvenstva",
+      "url" : "https://kurier.at/sport/wintersport/bob-star-benjamin-maier-rast-zur-naechsten-em-medaille/401151411"
     }, {
-      "id" : "2qf0Ldoj",
-      "imgUrl" : "https://image.kurier.at/images/original/4862157/46-169023021.jpg",
-      "titleSource" : "\"So viele Privilegien\": Kritik an Sonderbehandlung von Thiem und Co.",
-      "titleTarget" : "\"Toliko privilegija\": kritika Thiema i tvrtke zbog posebnog tretmana",
-      "url" : "https://kurier.at/sport/tennis/tennis-so-viele-privilegien-kritik-an-sonderbehandlung-von-thiem-und-co/401150847"
+      "id" : "rjpwYGlT",
+      "imgUrl" : "https://image.kurier.at/images/original/4863477/46-173984241.jpg",
+      "titleSource" : "Slalom-Klassiker in Adelboden: Schwarz Halbzeit-Vierter, Feller out",
+      "titleTarget" : "Klasik slaloma u Adelbodenu: Crni četvrti na poluvremenu, Feller van",
+      "url" : "https://kurier.at/sport/wintersport/live-so-stehts-beim-slalom-klassiker-in-adelboden/401151330"
     }, {
-      "id" : "SWB5Umxp",
-      "titleSource" : "Stadlober als Zwölfte ins Tour-de-Ski-Finale",
-      "titleTarget" : "Stadlober na dvanaestom mjestu u finalu Tour de Skija",
-      "url" : "https://sport.orf.at/stories/3071603/"
+      "id" : "71sv4pKm",
+      "imgUrl" : "https://image.kurier.at/images/original/4863999/46-168527236.jpg",
+      "titleSource" : "Alle vier Österreicher in Australian-Open-Quali schon out",
+      "titleTarget" : "Sva četvorica Austrijanaca u kvalifikacijama za Australian Open već su izašla",
+      "url" : "https://kurier.at/sport/tennis/tennis-alle-vier-oesterreicher-in-australian-open-quali-schon-out/401151486"
     }, {
       "id" : "KIc6GfJC",
       "titleSource" : "Brady führt Buccaneers in nächste Runde",
