@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "PHeRUigC",
-      "imgUrl" : "https://image.kurier.at/images/original/4855158/20210105-ABD0061-1-1.jpg",
-      "titleSource" : "Experten: \"Es ist klar, dass die Impfung einen enormen Nutzen hat\"",
-      "titleTarget" : "Početni udarac za inicijativu \"Austrija cijepi\"",
-      "url" : "https://kurier.at/politik/inland/startschuss-fuer-die-initiative-oesterreich-impft/401151924"
-    }, {
       "id" : "5G8ztc6G",
       "imgUrl" : "https://image.kurier.at/images/original/4863123/20210109-ABD0183-1-1.jpg",
       "titleSource" : "Aschbacher: Unternehmer erhebt weitere schwere Vorwürfe",
@@ -15,7 +9,7 @@
       "url" : "https://kurier.at/politik/inland/aschbacher-unternehmer-erhebt-weitere-schwere-vorwuerfe/401152770"
     }, {
       "id" : "azlENLw6",
-      "imgUrl" : "https://image.kurier.at/images/original/4866132/46-173734250.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4795023/20201202-ABD0045-1-1.jpg",
       "titleSource" : "Corona-Fahrplan: Diese fünf Entscheidungen stehen diese Woche an",
       "titleTarget" : "Plan Corone: Ovih pet odluka donijet će se ovaj tjedan",
       "url" : "https://kurier.at/politik/inland/corona-fahrplan-diese-fuenf-entscheidungen-stehen-diese-woche-an/401152764"
@@ -31,6 +25,12 @@
       "titleSource" : "Behinderte klagen an: \"Beim Impfen hat man auf uns vergessen\"",
       "titleTarget" : "Invalidi se žale: \"Bili smo zaboravljeni kad smo cijepili\"",
       "url" : "https://kurier.at/politik/inland/behinderte-klagen-an-beim-impfen-hat-man-auf-uns-vergessen/401152845"
+    }, {
+      "id" : "vJfVCA2h",
+      "imgUrl" : "https://image.kurier.at/images/original/4774977/20201123-ABD0015-1-1.jpg",
+      "titleSource" : "Wien-Attentäter hatte trotz Verurteilung kein Waffenverbot",
+      "titleTarget" : "Bečkom bombašu nije zabranjeno korištenje oružja unatoč tome što je osuđen",
+      "url" : "https://kurier.at/politik/inland/wien-attentaeter-hatte-trotz-verurteilung-kein-waffenverbot/401153022"
     }, {
       "id" : "M5zQOuPo",
       "imgUrl" : "https://image.kurier.at/images/original/4866354/46-168965808.jpg",
@@ -53,23 +53,11 @@
       "titleTarget" : "Frizerski lanac Klier u stečaju: Mala nada za vjerovnike",
       "url" : "https://kurier.at/wirtschaft/friseurkette-klier-im-konkurs-wenig-hoffnung-fuer-glaeubiger/401152221"
     }, {
-      "id" : "MyRWLIiu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/e/d/5921005/0A83C496-D47B-4928-A2DD-6D57826CF054_v0_h.jpg",
-      "titleSource" : "Der radikale Wandel der Europäischen Zentralbank",
-      "titleTarget" : "Radikalna promjena Europske središnje banke",
-      "url" : "https://www.diepresse.com/5921005/Der-oekonomische-Blick_Der-radikale-Wandel-der-Europaeischen?from=rss"
-    }, {
       "id" : "IGJvidmb",
       "imgUrl" : "https://image.kurier.at/images/original/4864914/20210111-ABD0012-1-1.jpg",
       "titleSource" : "Adler: Österreich von Insolvenz nicht betroffen",
       "titleTarget" : "Adler: Austrija nije pogođena bankrotom",
       "url" : "https://kurier.at/wirtschaft/adler-oesterreich-von-insolvenz-nicht-betroffen/401152593"
-    }, {
-      "id" : "QCECfM4J",
-      "imgUrl" : "https://image.kurier.at/images/original/3125398/78370011345921506_BLD_Online.jpg",
-      "titleSource" : "Insolvenzwelle droht spätestens im zweiten Halbjahr",
-      "titleTarget" : "Val nesolventnosti prijeti najkasnije u drugoj polovici godine",
-      "url" : "https://kurier.at/wirtschaft/insolvenzwelle-droht-spaetestens-im-zweiten-halbjahr/401151837"
     }, {
       "id" : "kTPGxSKi",
       "imgUrl" : "https://image.kurier.at/images/original/4828692/81670356458033466_BLD_Online.jpg",
@@ -83,11 +71,23 @@
       "titleTarget" : "Austrija postaje sve atraktivnija kao poslovno mjesto",
       "url" : "https://kurier.at/wirtschaft/standort-oesterreich-gewinnt-an-attraktivitaet/401152389"
     }, {
-      "id" : "YM9aCN9E",
-      "imgUrl" : "https://image.kurier.at/images/original/4866315/46-173961714.jpg",
-      "titleSource" : "Protestaktion: Deutsche Händler sollen trotz Verbots aufsperren",
-      "titleTarget" : "Protestna akcija: njemački trgovci trebali bi se otključati unatoč zabrani",
-      "url" : "https://kurier.at/wirtschaft/protestaktion-deutsche-haendler-sollen-trotz-verbots-aufsperren/401152893"
+      "id" : "ipf6k6Nu",
+      "imgUrl" : "https://image.kurier.at/images/original/4866360/46-167685671.jpg",
+      "titleSource" : "Deutsche Bank will keine Geschäfte mehr mit Trump machen",
+      "titleTarget" : "Deutsche Bank više ne želi poslovati s Trumpom",
+      "url" : "https://kurier.at/wirtschaft/deutsche-bank-will-keine-geschaefte-mehr-mit-trump-machen/401153139"
+    }, {
+      "id" : "wbRAKWYL",
+      "imgUrl" : "https://image.kurier.at/images/original/4856820/p90382603_highres_the-new-bmw-m340d-xd.jpg",
+      "titleSource" : "BMW verkaufte zuletzt mehr Autos",
+      "titleTarget" : "BMW je nedavno prodao više automobila",
+      "url" : "https://kurier.at/wirtschaft/bmw-verkaufte-zuletzt-mehr-autos/401153109"
+    }, {
+      "id" : "6coNy55b",
+      "imgUrl" : "https://image.kurier.at/images/original/4213283/78370011353844870_BLD_Online.jpg",
+      "titleSource" : "Neues Ranking: Die sichersten Airlines der Welt",
+      "titleTarget" : "Nova ljestvica: najsigurnije zrakoplovne tvrtke na svijetu",
+      "url" : "https://kurier.at/wirtschaft/die-top-20-der-sichersten-airlines-der-welt/401153061"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,28 +98,23 @@
       "titleTarget" : "Gazdarica je otključana unatoč zaključavanju",
       "url" : "https://ooe.orf.at/stories/3084450/"
     }, {
+      "id" : "8Rk0RL40",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/8/3/5921411/429FD61A-6B32-4879-A276-FA5A5E0A79F5_v0_l.jpg",
+      "titleSource" : "Registrierungspflicht bei Einreise nach Österreich ab Freitag",
+      "titleTarget" : "Obveza registracije prilikom ulaska u Austriju od petka",
+      "url" : "https://www.diepresse.com/5921411/Pendler-ausgenommen_Registrierungspflicht-bei-Einreise-nach?from=rss"
+    }, {
       "id" : "qD0j4CcY",
       "imgUrl" : "https://image.kurier.at/images/original/4865736/46-168941922.jpg",
       "titleSource" : "63 Fälle: Neuer Cluster in privatem Salzburger Seniorenheim",
       "titleTarget" : "63 slučaja: Nova skupina u privatnom domu umirovljenika u Salzburgu",
       "url" : "https://kurier.at/chronik/oesterreich/50-faelle-neuer-cluster-in-privatem-salzburger-seniorenheim/401152617"
     }, {
-      "id" : "3sjcACGi",
-      "imgUrl" : "https://image.kurier.at/images/original/4849446/46-173796372.jpg",
-      "titleSource" : "Auf Schnee folgt nun eisige Kälte: Bis zu minus 25 Grad",
-      "titleTarget" : "Sada slijedi ledena hladnoća nakon snijega: do minus 25 stupnjeva",
-      "url" : "https://kurier.at/chronik/oesterreich/auf-schnee-folgt-nun-eisige-kaelte-bis-zu-minus-25-grad/401151840"
-    }, {
-      "id" : "d4r9eCkW",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.536 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.536 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1536-neue-corona-infektionen-in-oesterreich/401151903"
-    }, {
-      "id" : "q4yjS5uH",
-      "titleSource" : "Vor Prozess: Angeblicher Ex-Agent abgeschoben",
-      "titleTarget" : "Prije suđenja: Navodni bivši agent deportiran",
-      "url" : "https://wien.orf.at/stories/3084447/"
+      "id" : "PjmElkzb",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/21/crops/w=1280/745026_opener_258521_tatort2.jpg?s=09530b2d02c9c6a5b737005a99d384f421582960",
+      "titleSource" : "Attentäter hatte kein Waffenverbot",
+      "titleTarget" : "Ubojica nije imao zabranu oružja",
+      "url" : "https://wien.orf.at/stories/3084475/"
     }, {
       "id" : "sY7Ef7Rz",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/56/crops/w=1280/809777_opener_282256_himmer-ung.jpg?s=b5aa38bf00eaff3dc1d6933c9e8f8b761203cd6b",
@@ -127,11 +122,16 @@
       "titleTarget" : "Himmer: Novi načini roditeljskih dana",
       "url" : "https://wien.orf.at/stories/3084401/"
     }, {
-      "id" : "vByGIx4j",
-      "imgUrl" : "https://image.kurier.at/images/original/4592408/20200823-ABD0056-1-1.jpg",
-      "titleSource" : "Registrierungspflicht bei Österreich-Einreise ab Freitag; Von der Leyen: \"Ära der Pandemien\"",
-      "titleTarget" : "1.536 novih infekcija u Austriji; Cjepivo AstraZeneca manje učinkovito",
-      "url" : "https://kurier.at/chronik/oesterreich/astrazeneca-impfstoff-offenbar-weniger-wirksam-neue-virus-variante-in-japan-gefunden/401151705"
+      "id" : "q4yjS5uH",
+      "titleSource" : "Vor Prozess: Angeblicher Ex-Agent abgeschoben",
+      "titleTarget" : "Prije suđenja: Navodni bivši agent deportiran",
+      "url" : "https://wien.orf.at/stories/3084447/"
+    }, {
+      "id" : "FAtkPqWY",
+      "imgUrl" : "https://image.kurier.at/images/original/4863024/20210109-ABD0164-1-1.jpg",
+      "titleSource" : "Anti-Corona-Demos in acht Bundesländern: 300 Anzeigen",
+      "titleTarget" : "Demonstracije protiv Corone u osam saveznih država: 300 oglasa",
+      "url" : "https://kurier.at/chronik/oesterreich/anti-corona-demos-in-acht-bundeslaendern-300-anzeigen/401152419"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,11 +142,23 @@
       "titleTarget" : "Razgovor ORF-a o zaključavanju: \"Već kolutate očima\"",
       "url" : "https://kurier.at/kultur/medien/orf-talk-im-zentrum-zu-lockdown-und-corona-sie-rollen-jetzt-schon-mit-den-augen/401152677"
     }, {
-      "id" : "XHKTUpBy",
-      "imgUrl" : "https://image.kurier.at/images/original/4864407/46-173995756.jpg",
-      "titleSource" : "TV-Serie \"Sex and the City\" wird mit Originaldarstellerinnen fortgesetzt",
-      "titleTarget" : "TV serija \"Seks i grad\" nastavlja se s originalnim glumicama",
-      "url" : "https://kurier.at/kultur/medien/tv-serie-sex-and-the-city-wird-mit-originaldarstellerinnen-fortgesetzt/401151726"
+      "id" : "gpPuQumi",
+      "imgUrl" : "https://image.kurier.at/images/original/4866297/46-96333298.jpg",
+      "titleSource" : "Sleaford Mods: Gute Zeiten für schlechte Laune",
+      "titleTarget" : "Sleaford Mods: Dobra vremena za loše raspoloženje",
+      "url" : "https://kurier.at/kultur/sleaford-mods-gute-zeiten-fuer-schlechte-laune/401152581"
+    }, {
+      "id" : "oSiXUXyU",
+      "imgUrl" : "https://image.kurier.at/images/original/4866381/46-174005437.jpg",
+      "titleSource" : "TV-Quoten: ORF2  gewinnt in allen Zielgruppen dazu",
+      "titleTarget" : "TV ocjene: ORF2 pobjeđuje u svim ciljnim skupinama",
+      "url" : "https://kurier.at/kultur/medien/tv-quoten-orf2-gewinnt-in-allen-zielgruppen-dazu/401152935"
+    }, {
+      "id" : "uWSSfmDy",
+      "imgUrl" : "https://image.kurier.at/images/original/4201202/46-150005950.jpg",
+      "titleSource" : "Österreichischer Buchmarkt 2020 mit Umsatzminus von 4,4 Prozent",
+      "titleTarget" : "Austrijsko tržište knjiga 2020. s padom prodaje od 4,4 posto",
+      "url" : "https://kurier.at/kultur/oesterreichischer-buchmarkt-2020-mit-umsatzminus-von-44-prozent/401152962"
     }, {
       "id" : "QcHqj957",
       "imgUrl" : "https://image.kurier.at/images/original/4865853/mh_press2020bw.jpg",
@@ -159,22 +171,11 @@
       "titleTarget" : "Autor Ludwig Fels umro je u 74. godini",
       "url" : "https://kurier.at/kultur/autor-ludwig-fels-74-jaehrig-gestorben/401152344"
     }, {
-      "id" : "pT5Vurha",
-      "imgUrl" : "https://image.kurier.at/images/original/4864938/46-109057872.jpg",
-      "titleSource" : "Simon Rattle wird Chefdirigent beim Bayerischen Rundfunk",
-      "titleTarget" : "Simon Rattle postaje šef-dirigent u Bayerischer Rundfunku",
-      "url" : "https://kurier.at/kultur/simon-rattle-wird-chefdirigent-beim-bayerischen-rundfunk/401152143"
-    }, {
-      "id" : "qVPx8NPO",
-      "titleSource" : "\"General Hospital\"-Star John Reilly ist tot",
-      "titleTarget" : "Zvijezda \"Opće bolnice\" John Reilly je mrtav",
-      "url" : "https://kurier.at/kultur/general-hospital-star-john-reilly-ist-tot/401151732"
-    }, {
-      "id" : "uWSSfmDy",
-      "imgUrl" : "https://image.kurier.at/images/original/4201202/46-150005950.jpg",
-      "titleSource" : "Österreichischer Buchmarkt 2020 mit Umsatzminus von 4,4 Prozent",
-      "titleTarget" : "Austrijsko tržište knjiga 2020. s padom prodaje od 4,4 posto",
-      "url" : "https://kurier.at/kultur/oesterreichischer-buchmarkt-2020-mit-umsatzminus-von-44-prozent/401152962"
+      "id" : "bmSNwyNx",
+      "imgUrl" : "https://image.kurier.at/images/original/4866861/46-174013332.jpg",
+      "titleSource" : "TV-Quoten: Starker Start für die \"Vorstadtweiber\"",
+      "titleTarget" : "TV rejting: snažan početak za \"žene iz predgrađa\"",
+      "url" : "https://kurier.at/kultur/medien/tv-quoten-starker-start-fuer-die-vorstadtweiber/401153328"
     } ]
   }, {
     "category" : "HEALTH",
@@ -198,28 +199,26 @@
       "titleTarget" : "Kitzbühel stupa na utrke u Wengenu",
       "url" : "https://sport.orf.at/stories/3071689/"
     }, {
-      "id" : "U69WGBjd",
-      "imgUrl" : "https://image.kurier.at/images/original/4864134/46-173985083.jpg",
-      "titleSource" : "Benjamin Maier: Der neue King of Austrobob",
-      "titleTarget" : "Benjamin Maier: Novi kralj Austroboba",
-      "url" : "https://kurier.at/sport/benjamin-maier-der-neue-king-of-austrobob/401151564"
-    }, {
-      "id" : "adamTng4",
-      "imgUrl" : "https://image.kurier.at/images/original/2555113/46-107297679.jpg",
-      "titleSource" : "Comeback von Peya: \"Werde nach Australien einsteigen\"",
-      "titleTarget" : "Povratak Peya: \"Ukrcat će se u Australiji\"",
-      "url" : "https://kurier.at/sport/tennis/comeback-von-peya-werde-nach-australien-einsteigen/401151864"
+      "id" : "IBUcD9Al",
+      "imgUrl" : "https://image.kurier.at/images/original/4866408/46-173648576.jpg",
+      "titleSource" : "Corona: Tennishallen sollen bald öffnen, Amateur-Fußballer müssen zittern",
+      "titleTarget" : "Corona: Teniske dvorane uskoro bi se trebale otvoriti, nogometaši amateri moraju drhtati",
+      "url" : "https://kurier.at/sport/corona-tennisspieler-duerfen-hoffen-fussballer-muessen-zittern/401152953"
     }, {
       "id" : "UNFQneTQ",
       "titleSource" : "Wengen-Rennen endgültig abgesagt",
       "titleTarget" : "Wengen utrka napokon otkazana",
       "url" : "https://sport.orf.at/stories/3071688/"
     }, {
-      "id" : "7feBseKO",
-      "imgUrl" : "https://image.kurier.at/images/original/4865889/46-174000832.jpg",
-      "titleSource" : "Kitzbühel übernimmt zwei der abgesagten Wengen-Rennen",
-      "titleTarget" : "Kitzbühel preuzima dvije otkazane Wengen utrke",
-      "url" : "https://kurier.at/sport/wintersport/kehrtwende-wengen-rennen-finden-doch-nicht-statt/401151435"
+      "id" : "gmSvUgA4",
+      "titleSource" : "Belichick verzichtet auf hohe Auszeichnung durch Trump",
+      "titleTarget" : "Belichick se odriče velike razlike od Trumpa",
+      "url" : "https://sport.orf.at/stories/3071701/"
+    }, {
+      "id" : "4ixRwhFy",
+      "titleSource" : "Kitzbühel übernimmt abgesagte Wengen-Rennen",
+      "titleTarget" : "Kitzbühel preuzima otkazane Wengen utrke",
+      "url" : "https://sport.orf.at/stories/3071690/"
     } ]
   } ],
   "country" : "austria",
