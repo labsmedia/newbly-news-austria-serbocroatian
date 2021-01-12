@@ -8,6 +8,18 @@
       "titleTarget" : "Početni udarac za inicijativu \"Austrija cijepi\"",
       "url" : "https://kurier.at/politik/inland/startschuss-fuer-die-initiative-oesterreich-impft/401151924"
     }, {
+      "id" : "5G8ztc6G",
+      "imgUrl" : "https://image.kurier.at/images/original/4863123/20210109-ABD0183-1-1.jpg",
+      "titleSource" : "Aschbacher: Unternehmer erhebt weitere schwere Vorwürfe",
+      "titleTarget" : "Aschbacher: Poduzetnik iznosi daljnje ozbiljne optužbe",
+      "url" : "https://kurier.at/politik/inland/aschbacher-unternehmer-erhebt-weitere-schwere-vorwuerfe/401152770"
+    }, {
+      "id" : "azlENLw6",
+      "imgUrl" : "https://image.kurier.at/images/original/4866132/46-173734250.jpg",
+      "titleSource" : "Corona-Fahrplan: Diese fünf Entscheidungen stehen diese Woche an",
+      "titleTarget" : "Plan Corone: Ovih pet odluka donijet će se ovaj tjedan",
+      "url" : "https://kurier.at/politik/inland/corona-fahrplan-diese-fuenf-entscheidungen-stehen-diese-woche-an/401152764"
+    }, {
       "id" : "6chkTmDN",
       "imgUrl" : "https://image.kurier.at/images/original/4865424/20210111-ABD0065-1-1.jpg",
       "titleSource" : "Kocher als Arbeitsminister angelobt: Welche Baustellen auf ihn warten",
@@ -20,38 +32,21 @@
       "titleTarget" : "Invalidi se žale: \"Bili smo zaboravljeni kad smo cijepili\"",
       "url" : "https://kurier.at/politik/inland/behinderte-klagen-an-beim-impfen-hat-man-auf-uns-vergessen/401152845"
     }, {
+      "id" : "M5zQOuPo",
+      "imgUrl" : "https://image.kurier.at/images/original/4866354/46-168965808.jpg",
+      "titleSource" : "Arbeitsminister Kocher: \"Ich werde mich nicht einschränken lassen\"",
+      "titleTarget" : "Ministar rada Kocher: \"Neću dopustiti da me ograničavaju\"",
+      "url" : "https://kurier.at/politik/inland/arbeitsminister-kocher-ich-werde-mich-nicht-einschraenken-lassen/401152932"
+    }, {
       "id" : "NcQnD7V6",
       "imgUrl" : "https://image.kurier.at/images/original/4866207/46-173623843.jpg",
       "titleSource" : "Geschummelt: Von Guttenberg bis zum slowakischen Premier",
       "titleTarget" : "Prevaren: Od Guttenberga do slovačkog premijera",
       "url" : "https://kurier.at/politik/inland/von-guttenberg-bis-zum-slowakischen-premier/401152824"
-    }, {
-      "id" : "azlENLw6",
-      "imgUrl" : "https://image.kurier.at/images/original/4866132/46-173734250.jpg",
-      "titleSource" : "Corona-Fahrplan: Diese fünf Entscheidungen stehen diese Woche an",
-      "titleTarget" : "Plan Corone: Ovih pet odluka donijet će se ovaj tjedan",
-      "url" : "https://kurier.at/politik/inland/corona-fahrplan-diese-fuenf-entscheidungen-stehen-diese-woche-an/401152764"
-    }, {
-      "id" : "5G8ztc6G",
-      "imgUrl" : "https://image.kurier.at/images/original/4863123/20210109-ABD0183-1-1.jpg",
-      "titleSource" : "Aschbacher: Unternehmer erhebt weitere schwere Vorwürfe",
-      "titleTarget" : "Aschbacher: Poduzetnik iznosi daljnje ozbiljne optužbe",
-      "url" : "https://kurier.at/politik/inland/aschbacher-unternehmer-erhebt-weitere-schwere-vorwuerfe/401152770"
-    }, {
-      "id" : "Zm4uU9iB",
-      "titleSource" : "Plagiatsvorwürfe gegen Aschbacher:  Grüne sorgen sich um Ruf der FH Wiener Neustadt",
-      "titleTarget" : "Optužbe za plagijarizam protiv Aschbachera: Zeleni se brinu zbog ugleda FH Wiener Neustadta",
-      "url" : "https://www.diepresse.com/5921214/Aufarbeitung-gefordert_Plagiatsvorwuerfe-gegen-Aschbacher_Gruene?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "VQCuRtOh",
-      "imgUrl" : "https://image.kurier.at/images/original/4864299/46-42171418.jpg",
-      "titleSource" : "Modekette Adler stellt Insolvenzantrag",
-      "titleTarget" : "Modni lanac Adler prijavio je bankrot",
-      "url" : "https://kurier.at/wirtschaft/modekette-adler-stellt-insolvenzantrag/401151630"
-    }, {
       "id" : "ddKWr8Bl",
       "imgUrl" : "https://image.kurier.at/images/original/4427828/6699226.jpg",
       "titleSource" : "Friseurkette Klier im Konkurs: Wenig Hoffnung für Gläubiger",
@@ -70,33 +65,33 @@
       "titleTarget" : "Adler: Austrija nije pogođena bankrotom",
       "url" : "https://kurier.at/wirtschaft/adler-oesterreich-von-insolvenz-nicht-betroffen/401152593"
     }, {
-      "id" : "jDcauVxm",
-      "imgUrl" : "https://image.kurier.at/images/original/4865487/46-163360764.jpg",
-      "titleSource" : "Standort Österreich gewinnt an Attraktivität",
-      "titleTarget" : "Austrija postaje sve atraktivnija kao poslovno mjesto",
-      "url" : "https://kurier.at/wirtschaft/standort-oesterreich-gewinnt-an-attraktivitaet/401152389"
-    }, {
       "id" : "QCECfM4J",
       "imgUrl" : "https://image.kurier.at/images/original/3125398/78370011345921506_BLD_Online.jpg",
       "titleSource" : "Insolvenzwelle droht spätestens im zweiten Halbjahr",
       "titleTarget" : "Val nesolventnosti prijeti najkasnije u drugoj polovici godine",
       "url" : "https://kurier.at/wirtschaft/insolvenzwelle-droht-spaetestens-im-zweiten-halbjahr/401151837"
     }, {
-      "id" : "VpQ2eJ8W",
-      "imgUrl" : "https://image.kurier.at/images/original/3393958/81650355547879670_BLD_Online.jpg",
-      "titleSource" : "IHS-Studie: Grüne Altersvorsorge-Investments wirken",
-      "titleTarget" : "IHS studija: Zelena mirovinska ulaganja djeluju",
-      "url" : "https://kurier.at/wirtschaft/ihs-studie-gruene-altersvorsorge-investments-wirken/401152662"
+      "id" : "kTPGxSKi",
+      "imgUrl" : "https://image.kurier.at/images/original/4828692/81670356458033466_BLD_Online.jpg",
+      "titleSource" : "Biontech will 2021 deutlich mehr Impfstoff herstellen",
+      "titleTarget" : "Biontech želi proizvesti znatno više cjepiva 2021. godine",
+      "url" : "https://kurier.at/wirtschaft/biontech-will-2021-deutlich-mehr-impfstoff-herstellen/401152605"
+    }, {
+      "id" : "jDcauVxm",
+      "imgUrl" : "https://image.kurier.at/images/original/4865487/46-163360764.jpg",
+      "titleSource" : "Standort Österreich gewinnt an Attraktivität",
+      "titleTarget" : "Austrija postaje sve atraktivnija kao poslovno mjesto",
+      "url" : "https://kurier.at/wirtschaft/standort-oesterreich-gewinnt-an-attraktivitaet/401152389"
+    }, {
+      "id" : "YM9aCN9E",
+      "imgUrl" : "https://image.kurier.at/images/original/4866315/46-173961714.jpg",
+      "titleSource" : "Protestaktion: Deutsche Händler sollen trotz Verbots aufsperren",
+      "titleTarget" : "Protestna akcija: njemački trgovci trebali bi se otključati unatoč zabrani",
+      "url" : "https://kurier.at/wirtschaft/protestaktion-deutsche-haendler-sollen-trotz-verbots-aufsperren/401152893"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "d4r9eCkW",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.536 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.536 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1536-neue-corona-infektionen-in-oesterreich/401151903"
-    }, {
       "id" : "o8NaU7vt",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/37/crops/w=1280/809721_opener_282237_image.ashx.jpg?s=e694fc2a045c84c1a612928aad9901d5ec1c3cec",
       "titleSource" : "Wirtin sperrte trotz Lockdown auf",
@@ -115,23 +110,28 @@
       "titleTarget" : "Sada slijedi ledena hladnoća nakon snijega: do minus 25 stupnjeva",
       "url" : "https://kurier.at/chronik/oesterreich/auf-schnee-folgt-nun-eisige-kaelte-bis-zu-minus-25-grad/401151840"
     }, {
+      "id" : "d4r9eCkW",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.536 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1.536 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1536-neue-corona-infektionen-in-oesterreich/401151903"
+    }, {
+      "id" : "q4yjS5uH",
+      "titleSource" : "Vor Prozess: Angeblicher Ex-Agent abgeschoben",
+      "titleTarget" : "Prije suđenja: Navodni bivši agent deportiran",
+      "url" : "https://wien.orf.at/stories/3084447/"
+    }, {
+      "id" : "sY7Ef7Rz",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/56/crops/w=1280/809777_opener_282256_himmer-ung.jpg?s=b5aa38bf00eaff3dc1d6933c9e8f8b761203cd6b",
+      "titleSource" : "Himmer: Neue Wege bei Elternsprechtagen",
+      "titleTarget" : "Himmer: Novi načini roditeljskih dana",
+      "url" : "https://wien.orf.at/stories/3084401/"
+    }, {
       "id" : "vByGIx4j",
-      "imgUrl" : "https://image.kurier.at/images/original/4866090/46-173945333.jpg",
-      "titleSource" : "Italien rechnet mit dritter Infektionswelle; Experten: CoV-Impfung \"hat enormen Nutzen\"",
+      "imgUrl" : "https://image.kurier.at/images/original/4592408/20200823-ABD0056-1-1.jpg",
+      "titleSource" : "Registrierungspflicht bei Österreich-Einreise ab Freitag; Von der Leyen: \"Ära der Pandemien\"",
       "titleTarget" : "1.536 novih infekcija u Austriji; Cjepivo AstraZeneca manje učinkovito",
       "url" : "https://kurier.at/chronik/oesterreich/astrazeneca-impfstoff-offenbar-weniger-wirksam-neue-virus-variante-in-japan-gefunden/401151705"
-    }, {
-      "id" : "q8IYUFAq",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/22/crops/w=1280/807864_opener_281622_unfall_fahrerflucht.jpg?s=1c4ec701789a239af2b2fd544a82c401818800da",
-      "titleSource" : "Festnahme nach tödlichem Unfall mit Fahrerflucht",
-      "titleTarget" : "Uhićenje nakon fatalne nesreće udarcem i trčanjem",
-      "url" : "https://wien.orf.at/stories/3084346/"
-    }, {
-      "id" : "C27w9QmG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/08/28/crops/w=1280/477685_opener_160328_z1.jpg?s=4a53e521cfe9e0b75e806c2f4ff7647e70a314f6",
-      "titleSource" : "Startplatz bei EM für Richard Zechmeister",
-      "titleTarget" : "Početno mjesto na EM za Richarda Zechmeistera",
-      "url" : "https://burgenland.orf.at/stories/3084321/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -147,6 +147,12 @@
       "titleSource" : "TV-Serie \"Sex and the City\" wird mit Originaldarstellerinnen fortgesetzt",
       "titleTarget" : "TV serija \"Seks i grad\" nastavlja se s originalnim glumicama",
       "url" : "https://kurier.at/kultur/medien/tv-serie-sex-and-the-city-wird-mit-originaldarstellerinnen-fortgesetzt/401151726"
+    }, {
+      "id" : "QcHqj957",
+      "imgUrl" : "https://image.kurier.at/images/original/4865853/mh_press2020bw.jpg",
+      "titleSource" : "\"The New\" von Monsterheart: Ein Album, das Dämonen vertreiben soll",
+      "titleTarget" : "Monsterheartov \"The New\": album koji bi trebao otjerati demone",
+      "url" : "https://kurier.at/kultur/the-new-von-monsterheart-ein-album-das-die-daemonen-vertreiben-soll/401152602"
     }, {
       "id" : "aECzOxgx",
       "titleSource" : "Autor Ludwig Fels 74-jährig gestorben",
@@ -164,17 +170,11 @@
       "titleTarget" : "Zvijezda \"Opće bolnice\" John Reilly je mrtav",
       "url" : "https://kurier.at/kultur/general-hospital-star-john-reilly-ist-tot/401151732"
     }, {
-      "id" : "3Mg2EAtM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/1/3/5921299/E7508950-6D2E-46A9-9947-1A4975DB7716_v0_h.jpg",
-      "titleSource" : "\"Realistische Rahmenbedingungen\" für Neustart der Kultur gefordert",
-      "titleTarget" : "\"Realni okvirni uvjeti\" potrebni za novi početak kulture",
-      "url" : "https://www.diepresse.com/5921299/Lockdown_Realistische-Rahmenbedingungen-fuer-Neustart-der-Kultur?from=rss"
-    }, {
-      "id" : "FiPwNfIl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/8/b/5921163/D976203F-2DBC-4B28-A69B-8E466B7572C2_v0_h.jpg",
-      "titleSource" : "Empfindsam und brachial, arm und zornig: Ludwig Fels ist tot",
-      "titleTarget" : "Osjetljiv i brutalan, siromašan i ljut: Ludwig Fels je mrtav",
-      "url" : "https://www.diepresse.com/5921163/Nachruf_Empfindsam-und-brachial-arm-und-zornig_Ludwig-Fels-ist-tot?from=rss"
+      "id" : "uWSSfmDy",
+      "imgUrl" : "https://image.kurier.at/images/original/4201202/46-150005950.jpg",
+      "titleSource" : "Österreichischer Buchmarkt 2020 mit Umsatzminus von 4,4 Prozent",
+      "titleTarget" : "Austrijsko tržište knjiga 2020. s padom prodaje od 4,4 posto",
+      "url" : "https://kurier.at/kultur/oesterreichischer-buchmarkt-2020-mit-umsatzminus-von-44-prozent/401152962"
     } ]
   }, {
     "category" : "HEALTH",
@@ -182,16 +182,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "ULp77drq",
+      "titleSource" : "PGA entzieht Trump Major-Turnier",
+      "titleTarget" : "PGA povukao turnir Trump Major",
+      "url" : "https://sport.orf.at/stories/3071679/"
+    }, {
+      "id" : "nymSCsYd",
+      "imgUrl" : "https://image.kurier.at/images/original/4866030/46-174003275.jpg",
+      "titleSource" : "Futsal: Warum die Bundesliga auch im Lockdown spielen darf",
+      "titleTarget" : "Futsal: Zašto Bundesliga također može igrati u zaključavanju",
+      "url" : "https://kurier.at/sport/fussball/futsal-warum-die-bundesliga-auch-im-lockdown-spielen-darf/401152347"
+    }, {
       "id" : "22UuoDdl",
       "titleSource" : "Kitzbühel springt für Rennen in Wengen ein",
       "titleTarget" : "Kitzbühel stupa na utrke u Wengenu",
       "url" : "https://sport.orf.at/stories/3071689/"
-    }, {
-      "id" : "a3qWbhxl",
-      "imgUrl" : "https://image.kurier.at/images/original/4864317/46-173991013.jpg",
-      "titleSource" : "Achtligist verkaufte 30.697 Tickets - doch keiner kam ins Stadion",
-      "titleTarget" : "Osma liga prodala je 30.697 ulaznica - ali niti jedna nije došla na stadion",
-      "url" : "https://kurier.at/sport/fussball/der-englische-achtligist-marine-fc-verkaufte-30697-tickets-doch-keiner-kam-ins-stadion/401151660"
     }, {
       "id" : "U69WGBjd",
       "imgUrl" : "https://image.kurier.at/images/original/4864134/46-173985083.jpg",
@@ -215,12 +220,6 @@
       "titleSource" : "Kitzbühel übernimmt zwei der abgesagten Wengen-Rennen",
       "titleTarget" : "Kitzbühel preuzima dvije otkazane Wengen utrke",
       "url" : "https://kurier.at/sport/wintersport/kehrtwende-wengen-rennen-finden-doch-nicht-statt/401151435"
-    }, {
-      "id" : "McsiW5n0",
-      "imgUrl" : "https://image.kurier.at/images/original/4864902/46-145782157.jpg",
-      "titleSource" : "Bundesliga-Transfers: Das Karussell kommt langsam in Fahrt",
-      "titleTarget" : "Transferi iz Bundeslige: Vrtiljak polako uzima maha",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-transfers-das-karussell-kommt-langsam-in-fahrt/401151537"
     } ]
   } ],
   "country" : "austria",
