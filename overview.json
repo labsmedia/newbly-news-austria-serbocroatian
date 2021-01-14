@@ -14,17 +14,11 @@
       "titleTarget" : "Šef Crvenog križa Foitik o mutaciji Corone: \"Katastrofa u ožujku\"",
       "url" : "https://kurier.at/politik/inland/rot-kreuz-chef-foitik-zu-corona-mutation-katastrophe-im-maerz/401155098"
     }, {
-      "id" : "xjyBxQPr",
-      "imgUrl" : "https://image.kurier.at/images/original/4869294/46-173825070.jpg",
-      "titleSource" : "Zweites Gemeindepaket: 1,5 Milliarden Euro an Finanzhilfen",
-      "titleTarget" : "Drugi općinski paket: 1,5 milijardi eura financijske pomoći",
-      "url" : "https://kurier.at/politik/inland/live-ministerrat-was-die-regierung-im-lockdown-beschlossen-hat/401154432"
-    }, {
-      "id" : "ijZWjsnz",
-      "imgUrl" : "https://image.kurier.at/images/original/4869855/46-174035684.jpg",
-      "titleSource" : "Anschober zu Virusmutation: Bezirk Kitzbühel wird komplett getestet",
-      "titleTarget" : "Posebna sjednica: Rendi-Wagner kritizira \"puževi tempo\" prilikom cijepljenja",
-      "url" : "https://kurier.at/politik/inland/sondersitzung-rendi-wagner-kritisiert-schneckentempo-beim-impfen/401154231"
+      "id" : "31uNG9n5",
+      "imgUrl" : "https://image.kurier.at/images/original/4869981/20210113-ABD0046-1-1.jpg",
+      "titleSource" : "\"Kickl, Kickl, gib acht\": Minisex wehrt sich gegen Verwendung des Hits",
+      "titleTarget" : "\"Kickl, Kickl, obrati pažnju\": Minisex se opire upotrebi pogotka",
+      "url" : "https://kurier.at/politik/inland/kickl-kickl-gib-acht-minisex-wehrt-sich-gegen-verwendung-ihres-hits/401155332"
     }, {
       "id" : "r9cnVuxj",
       "imgUrl" : "https://image.kurier.at/images/original/4870200/46-166549889.jpg",
@@ -43,10 +37,28 @@
       "titleSource" : "Impfplan neu: Menschen mit Behinderung und Hochrisikogruppe in Phase 1",
       "titleTarget" : "Novi plan cijepljenja: osobe s invaliditetom i skupine s visokim rizikom u fazi 1",
       "url" : "https://kurier.at/politik/inland/impfplan-neu-menschen-mit-behinderung-und-hochrisikogruppe-in-phase1/401155047"
+    }, {
+      "id" : "BwrQ8E98",
+      "imgUrl" : "https://image.kurier.at/images/original/4871619/20210114-ABD0027-1-1.jpg",
+      "titleSource" : "\"Vorschusslorbeeren\" für Kocher, der sich \"an die Arbeit\" machen will",
+      "titleTarget" : "\"Unaprijed pohvala\" za Kochera koji se želi \"primiti posla\"",
+      "url" : "https://kurier.at/politik/inland/live-parlament-beschliesst-reintesten-arbeitsminister-stellt-plaene-vor/401155467"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "OZqSJETU",
+      "imgUrl" : "https://image.kurier.at/images/original/4871283/46-174052590.jpg",
+      "titleSource" : "\"Richtige Entscheidung\": Twitter-Chef verteidigt Trump-Bann",
+      "titleTarget" : "\"Ispravna odluka\": Šef Twittera brani Trumpovu zabranu",
+      "url" : "https://kurier.at/wirtschaft/richtige-entscheidung-twitter-chef-verteidigt-trump-bann/401155425"
+    }, {
+      "id" : "z6JzvDmF",
+      "imgUrl" : "https://image.kurier.at/images/original/4868022/20210112-ABD0149-1-1.jpg",
+      "titleSource" : "Kathrin Glock übernimmt Aufsichtsratsvorsitz der Glock GmbH",
+      "titleTarget" : "Kathrin Glock preuzima dužnost predsjednice nadzornog odbora Glock GmbH",
+      "url" : "https://kurier.at/wirtschaft/kathrin-glock-uebernimmt-aufsichtsratsvorsitz-der-glock-gmbh/401155116"
+    }, {
       "id" : "Yw5qwpcq",
       "imgUrl" : "https://image.kurier.at/images/original/4869675/46-166470161.jpg",
       "titleSource" : "Handwerks-Sprecherin: \"Bitte keinen weiteren Lockdown mehr\"",
@@ -59,35 +71,23 @@
       "titleTarget" : "Skijališta: Salzburg razmišlja o ranom završetku sezone",
       "url" : "https://kurier.at/wirtschaft/skigebiete-salzburg-ueberlegt-vorzeitiges-saisonende/401154744"
     }, {
-      "id" : "RiCUUmHx",
-      "imgUrl" : "https://image.kurier.at/images/original/3914756/blick_vom_gartnerkofel_auf_den_trogkofel_2_c_nassfeld.at_.jpg",
-      "titleSource" : "Kärntner Skigebiete: Deutsche stellen ein Viertel der Gäste",
-      "titleTarget" : "Koruška skijaška područja: Nijemci čine četvrtinu gostiju",
-      "url" : "https://kurier.at/wirtschaft/kaerntner-skigebiete-deutsche-stellen-ein-viertel-der-gaeste/401154534"
+      "id" : "ygrRjwj0",
+      "imgUrl" : "https://image.kurier.at/images/original/4871286/46-174052839.jpg",
+      "titleSource" : "Snapchat sperrt Trump dauerhaft",
+      "titleTarget" : "Snapchat trajno zabranjuje Trumpu",
+      "url" : "https://kurier.at/wirtschaft/snapchat-sperrt-trump-dauerhaft/401155455"
     }, {
-      "id" : "wN7oAmlL",
-      "imgUrl" : "https://image.kurier.at/images/original/4832892/78350011458061044_BLD_Online.jpg",
-      "titleSource" : "Supermärkte: Brexit gefährdet Lebensmittelversorgung in Nordirland",
-      "titleTarget" : "Supermarketi: Brexit prijeti zalihama hrane u Sjevernoj Irskoj",
-      "url" : "https://kurier.at/wirtschaft/supermaerkte-brexit-gefaehrdet-lebensmittelversorgung-in-nordirland/401154549"
+      "id" : "JTqREwu1",
+      "imgUrl" : "https://image.kurier.at/images/original/4871352/46-173565525.jpg",
+      "titleSource" : "Mahrer: Lockdown über den 24. Jänner hinaus wäre \"ein Wahnsinn\"",
+      "titleTarget" : "Mahrer: Zaključavanje nakon 24. siječnja bilo bi \"ludo\"",
+      "url" : "https://kurier.at/wirtschaft/mahrer-lockdown-ueber-den-24-jaenner-hinaus-waere-ein-wahnsinn/401155482"
     }, {
-      "id" : "z6JzvDmF",
-      "imgUrl" : "https://image.kurier.at/images/original/4868022/20210112-ABD0149-1-1.jpg",
-      "titleSource" : "Kathrin Glock übernimmt Aufsichtsratsvorsitz der Glock GmbH",
-      "titleTarget" : "Kathrin Glock preuzima dužnost predsjednice nadzornog odbora Glock GmbH",
-      "url" : "https://kurier.at/wirtschaft/kathrin-glock-uebernimmt-aufsichtsratsvorsitz-der-glock-gmbh/401155116"
-    }, {
-      "id" : "yGQJ4tyn",
-      "imgUrl" : "https://image.kurier.at/images/original/4071123/81650355552757306_BLD_Online.jpg",
-      "titleSource" : "Siemens Energy und Siemens Gamesa entern Wasserstoffmarkt",
-      "titleTarget" : "Siemens Energy i Siemens Gamesa ulaze na tržište vodika",
-      "url" : "https://kurier.at/wirtschaft/siemens-energy-und-siemens-gamesa-entern-wasserstoffmarkt/401154648"
-    }, {
-      "id" : "9c3V4kwY",
-      "imgUrl" : "https://image.kurier.at/images/original/3047322/78370011345324294_BLD_Online.jpg",
-      "titleSource" : "Rekordjahr bei KTM-Hersteller Pierer Mobility",
-      "titleTarget" : "Rekordna godina za proizvođača KTM-a Pierer Mobility",
-      "url" : "https://kurier.at/wirtschaft/rekordjahr-bei-ktm-hersteller-pierer-mobility/401155305"
+      "id" : "nst2qggC",
+      "imgUrl" : "https://image.kurier.at/images/original/4871352/46-173565525.jpg",
+      "titleSource" : "Mahrer: Lockdown über den 25. Jänner hinaus wäre \"ein Wahnsinn\"",
+      "titleTarget" : "Mahrer: Zaključavanje nakon 25. siječnja bilo bi \"ludo\"",
+      "url" : "https://kurier.at/wirtschaft/mahrer-lockdown-ueber-den-25-jaenner-hinaus-waere-ein-wahnsinn/401155482"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,23 +98,11 @@
       "titleTarget" : "Causa Jochberg: Kritika pripremnog tečaja tijekom zaključavanja",
       "url" : "https://kurier.at/chronik/oesterreich/causa-jochberg-kritik-an-vorbereitungskurs-waehrend-lockdown/401154867"
     }, {
-      "id" : "tmyYj7D7",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.917 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.917 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1917-neue-corona-infektionen-in-oesterreich/401154348"
-    }, {
-      "id" : "EIIlSoo9",
-      "imgUrl" : "https://image.kurier.at/images/original/4218041/46-162745772.jpg",
-      "titleSource" : "Rot-Kreuz-Chef warnt vor \"Katastrophe im März\"; Schweizer Lockdown bis Ende Februar",
-      "titleTarget" : "Šef Crvenog križa upozorava na \"ožujsku katastrofu\"; Švicarsko zaključavanje do kraja veljače",
-      "url" : "https://kurier.at/chronik/oesterreich/kollaritsch-covid-impfung-besser-als-alle-bekannten-impfungen-neues-impf-dashboard-veroeffentlicht/401154162"
-    }, {
-      "id" : "hPh5OjVY",
-      "imgUrl" : "https://image.kurier.at/images/original/4809603/46-167982510.jpg",
-      "titleSource" : "Bier um 1,7 Mio. Euro von Brauerei gestohlen: 24 Personen angeklagt",
-      "titleTarget" : "Pivo ukradeno iz pivovare za 1,7 milijuna eura: optužene 24 osobe",
-      "url" : "https://kurier.at/chronik/oesterreich/bier-um-17-mio-euro-von-brauerei-gestohlen-24-personen-angeklagt/401155056"
+      "id" : "qw2IysRJ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/43/crops/w=1280/810285_opener_282443_251238_laboratory-5601435_1920.jpg?s=8d7ab92bc5a4edc2f5f7cd2586da3cfdbae34302",
+      "titleSource" : "CoV-Mutation: Fünf Verdachtsfälle in Vorarlberg",
+      "titleTarget" : "Mutacija CoV: pet sumnjivih slučajeva u Vorarlbergu",
+      "url" : "https://vorarlberg.orf.at/stories/3084813/"
     }, {
       "id" : "qVwXmpix",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/21/crops/w=1280/812100_opener_283121_210113_v2_ke_braustadt_weitra_00_00_18_04.jpg?s=a2c9c5bc9fffa20d70c1e7a2c3faf530b0e28d3a",
@@ -122,61 +110,73 @@
       "titleTarget" : "700 godina prava na pivo za građane Weitre",
       "url" : "https://noe.orf.at/stories/3084728/"
     }, {
-      "id" : "nWQhgJ83",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/11/crops/w=1280/811857_opener_283011_dok1tiertransporte_ff2.jpg?s=e4290e283581fcca51511101860464a8dbb425b7",
-      "titleSource" : "Billiges Fleisch fährt durch Südtirol",
-      "titleTarget" : "Jeftino meso vozi Južnim Tirolom",
-      "url" : "https://tirol.orf.at/stories/3084764/"
+      "id" : "0WC2NA4q",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/45/87/crops/w=1280/740277_opener_256887_girl-3422711_1920.jpg?s=f29d4c61e3495577b219d53d27debd6a59c2648a",
+      "titleSource" : "CoV: Psychische Folgen bei Kindern belegt",
+      "titleTarget" : "CoV: Dokazi o psihološkim posljedicama u djece",
+      "url" : "https://tirol.orf.at/stories/3084741/"
     }, {
-      "id" : "7AgtNniu",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/44/crops/w=1280/811673_opener_282944_210113_neue_buecherei_aspern_00_00_00_00.jpg?s=722472317f1f363888fcd1f15815f549299213ba",
-      "titleSource" : "Neue Bücherei in der Seestadt ab Herbst",
-      "titleTarget" : "Nova knjižnica u Seestadtu od jeseni",
-      "url" : "https://wien.orf.at/stories/3084745/"
+      "id" : "hPh5OjVY",
+      "imgUrl" : "https://image.kurier.at/images/original/4809603/46-167982510.jpg",
+      "titleSource" : "Bier um 1,7 Mio. Euro von Brauerei gestohlen: 24 Personen angeklagt",
+      "titleTarget" : "Pivo ukradeno iz pivovare za 1,7 milijuna eura: optužene 24 osobe",
+      "url" : "https://kurier.at/chronik/oesterreich/bier-um-17-mio-euro-von-brauerei-gestohlen-24-personen-angeklagt/401155056"
+    }, {
+      "id" : "uM1aeMzV",
+      "imgUrl" : "https://image.kurier.at/images/original/4870995/46-174041945.jpg",
+      "titleSource" : "Von 1.000 PCR-Tests in Jochberg zwei positiv",
+      "titleTarget" : "Dva pozitivna od 1.000 PCR testova u Jochbergu",
+      "url" : "https://kurier.at/chronik/oesterreich/von-1000-pcr-tests-in-jochberg-zwei-positiv/401155413"
+    }, {
+      "id" : "LOXEh412",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/01/54/crops/w=1280/801147_opener_279154_lul_generationentoepfer_210102_00_03_34_18.jpg?s=c834de66853a9eee62fe3efe044861ed58f676f5",
+      "titleSource" : "Töpferei nach uraltem Vorbild",
+      "titleTarget" : "Keramika po drevnom uzoru",
+      "url" : "https://kaernten.orf.at/stories/3083207/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "uYAWrBom",
-      "imgUrl" : "https://image.kurier.at/images/original/4869417/46-173881810.jpg",
-      "titleSource" : "Theater rechnen nicht mit baldigem Wiederaufsperren",
-      "titleTarget" : "Kazališta ne očekuju da će uskoro biti ponovno otvorena",
-      "url" : "https://kurier.at/kultur/theater-rechnen-nicht-mit-baldigem-wiederaufsperren/401154546"
-    }, {
-      "id" : "v96JLT9r",
-      "imgUrl" : "https://image.kurier.at/images/original/4206506/46-96103636.jpg",
-      "titleSource" : "Neuer Bond-Film soll schon wieder verschoben werden",
-      "titleTarget" : "Novi Bondov film ponovno se odgađa",
-      "url" : "https://kurier.at/kultur/neuer-bond-film-soll-schon-wieder-verschoben-werden/401154423"
-    }, {
       "id" : "VTN0hSkk",
       "imgUrl" : "https://image.kurier.at/images/original/4870470/46-173731878.jpg",
       "titleSource" : "Gemischte Platte: Jane Birkin, Belle and Sebastian, Richie Hawtin und mehr",
       "titleTarget" : "Mješovita ploča: Jane Birkin, Belle i Sebastian, Richie Hawtin i drugi",
       "url" : "https://kurier.at/kultur/gemischte-platte-jane-birkin-belle-and-sebastian-richie-hawtin-und-mehr/401155029"
     }, {
+      "id" : "Zhy4iH7p",
+      "imgUrl" : "https://image.kurier.at/images/original/10245/JauchWWM002.jpg",
+      "titleSource" : "RTL gibt unglücklichem Kandidaten zweite Chance bei Günther Jauch",
+      "titleTarget" : "RTL nesretnom kandidatu daje drugu priliku s Güntherom Jauchom",
+      "url" : "https://kurier.at/kultur/medien/rtl-gibt-ungluecklichem-kandidaten-zweite-chance-bei-guenther-jauch/401155503"
+    }, {
       "id" : "zgTpFnCF",
       "titleSource" : "Italien öffnet Museen in gelben Regionen wieder",
       "titleTarget" : "Italija ponovno otvara muzeje u žutim regijama",
       "url" : "https://kurier.at/kultur/italien-oeffnet-museen-in-gelben-regionen-wieder/401154651"
     }, {
-      "id" : "TjarfncY",
-      "imgUrl" : "https://image.kurier.at/images/original/1742208/46-47859219.jpg",
-      "titleSource" : "Kinoeinnahmen in Nordamerika auf historischem Tiefststand",
-      "titleTarget" : "Prihodi od kina u Sjevernoj Americi uvijek su niski",
-      "url" : "https://kurier.at/kultur/kinoeinnahmen-in-nordamerika-auf-historischem-tiefststand/401154450"
+      "id" : "dUWsLxRg",
+      "imgUrl" : "https://image.kurier.at/images/original/4871544/46-163486061.jpg",
+      "titleSource" : "Corona: Semper-Oper in Dresden bleibt bis Ende März geschlossen",
+      "titleTarget" : "Corona: Opera Semper u Dresdenu bit će zatvorena do kraja ožujka",
+      "url" : "https://kurier.at/kultur/corona-semper-oper-in-dresden-bleibt-bis-ende-maerz-geschlossen/401155656"
     }, {
-      "id" : "omo2Zsuk",
-      "imgUrl" : "https://image.kurier.at/images/original/4868442/46-174012451.jpg",
-      "titleSource" : "Doku über Holocaust-Trauma: Erzogen, um zu überleben",
-      "titleTarget" : "Dokumentarni film o traumi holokausta: obrazovan za preživljavanje",
-      "url" : "https://kurier.at/kultur/doku-ueber-holocaust-trauma-erzogen-um-zu-ueberleben/401154030"
+      "id" : "uKL9SAiC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/a/b/5922475/341AF2DA-879E-44BA-9F08-5323ADE242B9_v0_h.jpg",
+      "titleSource" : "Shakira verkauft Rechte an 145 Songs",
+      "titleTarget" : "Shakira prodaje prava na 145 pjesama",
+      "url" : "https://www.diepresse.com/5922475/Pop_Shakira-verkauft-Rechte-an-145-Songs?from=rss"
     }, {
-      "id" : "fuAnyMrz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/d/f/5921247/vinterberg-rausch-1_1610531247876372.jpg",
-      "titleSource" : "Diese Filme kommen 2021 - hoffentlich",
-      "titleTarget" : "Ovi filmovi dolaze 2021. - nadamo se",
-      "url" : "https://www.diepresse.com/5921247/Kino_Diese-Filme-kommen-2021-hoffentlich?from=rss"
+      "id" : "opijHyVh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/a/b/5922475/341AF2DA-879E-44BA-9F08-5323ADE242B9_v0_h.jpg",
+      "titleSource" : "Shakira verkauft Rechte an 145 Songs",
+      "titleTarget" : "Shakira prodaje prava na 145 pjesama",
+      "url" : "https://www.diepresse.com/5922475/Popstar-Shakira-verkauft-Rechte-an-145-Songs?from=rss"
+    }, {
+      "id" : "POFgMPEC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/d/e/5922270/pretend-2_1610550857655983.jpg",
+      "titleSource" : "Pretend It's a City: Mit ihr spürt man die Großstadt",
+      "titleTarget" : "Pravite se da je to grad: s njim možete osjetiti veliki grad",
+      "url" : "https://www.diepresse.com/5922270/NetflixSerie_Pretend-Its-a-City_Mit-ihr-spuert-man-die-Grossstadt?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,10 +184,10 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "U98QTpuY",
-      "titleSource" : "Flachau hilft für Kitzbühel aus",
-      "titleTarget" : "Flachau pomaže Kitzbühelu",
-      "url" : "https://sport.orf.at/stories/3071768/"
+      "id" : "Nxoqx3GL",
+      "titleSource" : "Bayern blamieren sich im DFB-Pokal",
+      "titleTarget" : "Bayern se sramoti u DFB kupu",
+      "url" : "https://sport.orf.at/stories/3071788/"
     }, {
       "id" : "8jfqj8oh",
       "imgUrl" : "https://image.kurier.at/images/original/4871112/46-169044344.jpg",
@@ -195,31 +195,32 @@
       "titleTarget" : "Thiem je sam odletio u Australiju: trener Massu ima Coronu",
       "url" : "https://kurier.at/sport/tennis/dominic-thiem-flog-alleine-nach-australien-trainer-massu-hat-corona/401155323"
     }, {
-      "id" : "xbM90Wbh",
-      "imgUrl" : "https://image.kurier.at/images/original/4871112/46-169044344.jpg",
-      "titleSource" : "Thiem flog alleine nach Austrialien: Trainer Massu hat Corona",
-      "titleTarget" : "Thiem je sam odletio u Australiju: trener Massu ima Coronu",
-      "url" : "https://kurier.at/sport/tennis/dominic-thiem-flog-alleine-nach-austrialien-trainer-massu-hat-corona/401155323"
-    }, {
-      "id" : "vcYkIedd",
-      "titleSource" : "CoV-Mutation: Slaloms in Kitzbühel gestrichen",
-      "titleTarget" : "Mutacija CoV: otkazani slalomi u Kitzbühelu",
-      "url" : "https://sport.orf.at/stories/3071764/"
-    }, {
       "id" : "10Kbr6hE",
       "titleSource" : "Bayern scheitern im deutschen Pokal-Bewerb",
       "titleTarget" : "Bayern nije uspio u njemačkom kup natjecanju",
       "url" : "https://sport.orf.at/stories/3071790/"
     }, {
-      "id" : "Br3wgkWH",
-      "titleSource" : "Sieg für „Oldies“ Riegler und Prommegger",
-      "titleTarget" : "Pobjeda za \"starce\" Rieglera i Prommeggera",
-      "url" : "https://sport.orf.at/stories/3071769/"
+      "id" : "1n3GKo8T",
+      "imgUrl" : "https://image.kurier.at/images/original/4870209/46-174024282.jpg",
+      "titleSource" : "Corona-Chaos: Zwei Slaloms in Flachau statt in Kitzbühel",
+      "titleTarget" : "Corona kaos: Dva slaloma u Flachauu umjesto Kitzbühela",
+      "url" : "https://kurier.at/sport/wintersport/corona-chaos-im-weltcup-doch-keine-wengen-rennen-in-kitzbuehel/401154810"
     }, {
-      "id" : "BQY7pTA0",
-      "titleSource" : "Wengen-Ersatzrennen in Kitzbühel gestrichen",
-      "titleTarget" : "Otkazana zamjenska utrka Wengena u Kitzbühelu",
-      "url" : "https://sport.orf.at/stories/3071763/"
+      "id" : "Jd0UvPzW",
+      "imgUrl" : "https://image.kurier.at/images/original/4871211/46-174050982.jpg",
+      "titleSource" : "Sensation im Deutschen Cup: Bayern scheitern gegen Zweitligist",
+      "titleTarget" : "Senzacija u njemačkom kupu: Bayern propada protiv druge lige",
+      "url" : "https://kurier.at/sport/fussball/sensation-im-deutschen-cup-bayern-scheitern-gegen-zweitligist/401155404"
+    }, {
+      "id" : "Zng3U9S5",
+      "titleSource" : "Heftige Kritik an CoV-Schutzmaßnahmen",
+      "titleTarget" : "Oštra kritika zaštitnih mjera CoV",
+      "url" : "https://sport.orf.at/stories/3071774/"
+    }, {
+      "id" : "SbPxIrK7",
+      "titleSource" : "Gastgeber Ägypten gewinnt Eröffnungsspiel",
+      "titleTarget" : "Domaćin Egipat pobjeđuje u uvodnoj utakmici",
+      "url" : "https://sport.orf.at/stories/3071780/"
     } ]
   } ],
   "country" : "austria",
