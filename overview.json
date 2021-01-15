@@ -2,62 +2,56 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kvFlwvfm",
-      "imgUrl" : "https://image.kurier.at/images/original/4869981/20210113-ABD0046-1-1.jpg",
-      "titleSource" : "\"Lockdown-Fetischisten\": Youtube löscht Kickl-Rede",
-      "titleTarget" : "\"Lockdown fetishists\": Youtube briše Kicklov govor",
-      "url" : "https://kurier.at/politik/inland/youtube-loescht-kickl-rede-fpoe-spricht-von-unglaublichem-akt-der-zensur/401156055"
+      "id" : "bCmc1oI2",
+      "imgUrl" : "https://image.kurier.at/images/original/4218041/46-162745772.jpg",
+      "titleSource" : "Rot-Kreuz-Chef fordert zehn Gratis-\"Wohnzimmer-Tests\" pro Monat für alle",
+      "titleTarget" : "Šef Crvenog križa poziva na deset besplatnih \"testova dnevne sobe\" mjesečno za sve",
+      "url" : "https://kurier.at/politik/inland/rot-kreuz-chef-fordert-fuer-jeden-zehn-gratis-wohnzimmer-tests-pro-monat/401156700"
     }, {
-      "id" : "Hnmm5R2L",
-      "imgUrl" : "https://image.kurier.at/images/original/4863828/20210110-ABD0066-1-1.jpg",
-      "titleSource" : "Coronavirus: Entscheidung über Lockdown-Öffnung am Wochenende",
-      "titleTarget" : "Koronavirus: odluka o zaključavanju za vikend",
-      "url" : "https://kurier.at/politik/inland/coronavirus-entscheidung-ueber-lockdown-oeffnung-am-wochenende/401156178"
+      "id" : "cArGkCdW",
+      "imgUrl" : "https://image.kurier.at/images/original/4874052/20210115-ABD0018-1-1.jpg",
+      "titleSource" : "Anschober über Virusmutation: \"100 Verdachtsfälle in Österreich\"",
+      "titleTarget" : "Bijes zbog mutacije virusa: \"100 sumnjivih slučajeva u Austriji\"",
+      "url" : "https://kurier.at/politik/inland/live-wie-weit-ist-die-virusmutation-in-oesterreich-verbreitet/401156877"
     }, {
-      "id" : "cPhN2sui",
-      "imgUrl" : "https://image.kurier.at/images/original/4848936/20201231-ABD0008-1-1.jpg",
-      "titleSource" : "Anschober: Im ersten Quartal 600.000 Menschen impfen",
-      "titleTarget" : "Anschober: Cijepljeno 600 000 ljudi u prvom tromjesečju",
-      "url" : "https://kurier.at/politik/inland/anschober-im-ersten-quartal-600000-menschen-impfen/401156472"
+      "id" : "iZqHm3Ex",
+      "imgUrl" : "https://image.kurier.at/images/original/4874322/46-173570374.jpg",
+      "titleSource" : "Test- oder FFP2-Maskenpflicht für bestimmte Berufsgruppen",
+      "titleTarget" : "Zahtjev za test ili FFP2 za određene profesionalne skupine",
+      "url" : "https://kurier.at/politik/inland/test-oder-ffp2-maskenpflicht-fuer-bestimmte-berufsgruppen/401157255"
     }, {
-      "id" : "3eTfkcXU",
-      "imgUrl" : "https://image.kurier.at/images/original/4777941/78350011457646906_BLD_Online.jpg",
-      "titleSource" : "Ärztekammer: Regierung soll mehr Impfstoffe beschaffen",
-      "titleTarget" : "Liječničko udruženje: Vlada bi trebala dobiti više cjepiva",
-      "url" : "https://kurier.at/politik/inland/aerztekammer-regierung-soll-mehr-impfstoffe-beschaffen/401156157"
+      "id" : "hFcKZa8V",
+      "imgUrl" : "https://image.kurier.at/images/original/4869855/46-174035684.jpg",
+      "titleSource" : "APA/OGM-Vertrauensindex: Regierung verliert weiter an Vertrauen",
+      "titleTarget" : "APA / OGM indeks povjerenja: Vlada nastavlja gubiti povjerenje",
+      "url" : "https://kurier.at/politik/inland/apaogm-vertrauensindex-regierung-verliert-weiter-an-vertrauen/401157195"
+    }, {
+      "id" : "rYx1HDAW",
+      "imgUrl" : "https://image.kurier.at/images/original/4874454/20210115-ABD0076-1-1.jpg",
+      "titleSource" : "Corona: SPÖ macht Anschober für Test-Chaos verantwortlich",
+      "titleTarget" : "Corona: SPÖ za testni kaos krivi Anschobera",
+      "url" : "https://kurier.at/politik/inland/corona-spoe-macht-anschober-fuer-test-chaos-verantwortlich/401157399"
+    }, {
+      "id" : "IHh5zB7a",
+      "imgUrl" : "https://image.kurier.at/images/original/4845645/20201229-ABD0038-1-1.jpg",
+      "titleSource" : "SPÖ: Burgenländer stimmen gegen Rendi-Wagner",
+      "titleTarget" : "SPÖ: Gradišćani glasuju protiv Rendi-Wagnera",
+      "url" : "https://kurier.at/politik/inland/spoe-burgenlaender-stimmen-gegen-rendi-wagner/401157693"
     }, {
       "id" : "Ev8XXDpk",
       "imgUrl" : "https://image.kurier.at/images/original/4873500/46-174060858.jpg",
       "titleSource" : "Corona-Krise beschäftigt laut Umfrage Österreich auch 2021 intensiv",
       "titleTarget" : "Prema istraživanju, kriza s koronom nastavit će intenzivno okupirati Austriju 2021. godine",
       "url" : "https://kurier.at/politik/inland/corona-krise-beschaeftigt-laut-umfrage-oesterreich-auch-2021-intensiv/401156799"
-    }, {
-      "id" : "8j0x5NIo",
-      "imgUrl" : "https://image.kurier.at/images/original/4872912/46-165523939.jpg",
-      "titleSource" : "U-Ausschuss: Opposition fordert Suspendierung von Pilnacek und Fuchs",
-      "titleTarget" : "Odbor U: Oporba poziva na suspenziju Pilnaceka i Fuchsa",
-      "url" : "https://kurier.at/politik/inland/u-ausschuss-opposition-fordert-suspendierung-von-pilnacek-und-fuchs/401156361"
-    }, {
-      "id" : "bCmc1oI2",
-      "imgUrl" : "https://image.kurier.at/images/original/4218041/46-162745772.jpg",
-      "titleSource" : "Rot-Kreuz-Chef fordert zehn Gratis-\"Wohnzimmer-Tests\" pro Monat für alle",
-      "titleTarget" : "Šef Crvenog križa poziva na deset besplatnih \"testova dnevne sobe\" mjesečno za sve",
-      "url" : "https://kurier.at/politik/inland/rot-kreuz-chef-fordert-fuer-jeden-zehn-gratis-wohnzimmer-tests-pro-monat/401156700"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "OlyAJzzl",
-      "imgUrl" : "https://image.kurier.at/images/original/4865646/20210111-ABD0104-1-1.jpg",
-      "titleSource" : "Handelsvertreter fordern rasche Öffnung",
-      "titleTarget" : "Predstavnici prodaje pozivaju na brzo otvaranje",
-      "url" : "https://kurier.at/wirtschaft/handelsvertreter-fordern-rasche-oeffnung/401156175"
-    }, {
-      "id" : "CxP1lPkU",
-      "imgUrl" : "https://image.kurier.at/images/original/2357244/20171130-ABD0137-1-1.jpg",
-      "titleSource" : "Bitcoin-Passwort vergessen: Deutscher hat noch zwei Versuche für 220 Millionen",
-      "titleTarget" : "Zaboravljena bitcoin lozinka: Deutscher još uvijek ima dva pokušaja za 220 milijuna",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-passwort-vergessen-deutscher-hat-noch-zwei-versuche-fuer-220-millionen/401156478"
+      "id" : "xJeKkhMk",
+      "imgUrl" : "https://image.kurier.at/images/original/4729455/46-167390078.jpg",
+      "titleSource" : "Anderl und Katzian für \"Corona-Vermögensabgabe\"",
+      "titleTarget" : "Anderl i Katzian za \"porez na imovinu Corona\"",
+      "url" : "https://kurier.at/wirtschaft/anderl-und-katzian-fuer-corona-vermoegensabgabe/401157123"
     }, {
       "id" : "QZbcBc2q",
       "imgUrl" : "https://image.kurier.at/images/original/4725915/46-143465973.jpg",
@@ -65,62 +59,61 @@
       "titleTarget" : "Zimski turizam ispred ponora: \"Vječno zaključavanje spušta vas dolje\"",
       "url" : "https://kurier.at/wirtschaft/wintertourismus-vor-dem-abgrund-ewiges-zusperren-macht-einen-fertig/401156784"
     }, {
-      "id" : "vbFocU8v",
-      "imgUrl" : "https://image.kurier.at/images/original/4794477/78370011357763208_BLD_Online.jpg",
-      "titleSource" : "\"Risiko zu hoch\": Banken gingen früh auf Distanz zu Wirecard",
-      "titleTarget" : "\"Prevelik rizik\": banke su se rano distancirale od Wirecarda",
-      "url" : "https://kurier.at/wirtschaft/risiko-zu-hoch-banken-gingen-frueh-auf-distanz-zu-wirecard/401156568"
+      "id" : "iDlhTOlL",
+      "imgUrl" : "https://image.kurier.at/images/original/3380005/46-78502036.jpg",
+      "titleSource" : "Mahnungsstopp bei der Sozialversicherung gefordert",
+      "titleTarget" : "Podsjetnik je potreban od socijalnog osiguranja",
+      "url" : "https://kurier.at/wirtschaft/mahnungsstopp-bei-der-sozialversicherung-gefordert/401157672"
     }, {
-      "id" : "jnli8Ou5",
-      "imgUrl" : "https://image.kurier.at/images/original/3110329/78370011345797442_BLD_Online.jpg",
-      "titleSource" : "USA gegen Digitalsteuerpläne aus Österreich, Spanien, Großbritannien",
-      "titleTarget" : "SAD protiv digitalnih poreznih planova iz Austrije, Španjolske, Velike Britanije",
-      "url" : "https://kurier.at/wirtschaft/usa-gegen-digitalsteuerplaene-aus-oesterreich-spanien-grossbritannien/401156541"
+      "id" : "KLWPtAAw",
+      "imgUrl" : "https://image.kurier.at/images/original/4874538/46-167704312.jpg",
+      "titleSource" : "Dieselskandal: Prozess gegen Ex-VW-Boss Winterkorn eingestellt",
+      "titleTarget" : "Dieselov skandal: Obustavljeno suđenje bivšem šefu VW-a Winterkornu",
+      "url" : "https://kurier.at/wirtschaft/dieselskandal-prozess-gegen-ex-vw-boss-winterkorn-eingestellt/401157360"
     }, {
-      "id" : "hYP8dgiv",
-      "imgUrl" : "https://image.kurier.at/images/original/4869798/46-173887804.jpg",
-      "titleSource" : "Holz-Kosmetik: Welches Holz braucht was?",
-      "titleTarget" : "Drvna kozmetika: kojem drvu što treba?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/holz-kosmetik-welches-holz-braucht-was/401155992"
+      "id" : "luGTmzEr",
+      "imgUrl" : "https://image.kurier.at/images/original/4864794/p90411059_highres_the-new-bmw-idrive-c.jpg",
+      "titleSource" : "BMW nach Absatzminus optimistisch für 2021",
+      "titleTarget" : "BMW optimističan za 2021. godinu nakon pada prodaje",
+      "url" : "https://kurier.at/wirtschaft/bmw-nach-absatzminus-optimistisch-fuer-2021/401157309"
     }, {
       "id" : "H9FUa3PI",
       "imgUrl" : "https://image.kurier.at/images/original/4871925/46-174001317.jpg",
       "titleSource" : "Anträge für Geld aus Härtefallfonds sprunghaft gestiegen",
       "titleTarget" : "Zahtjevi za novac iz fondova za teškoće naglo su porasli",
       "url" : "https://kurier.at/wirtschaft/antraege-fuer-geld-aus-haertefallfonds-sprunghaft-gestiegen/401156886"
+    }, {
+      "id" : "sjJu45dK",
+      "imgUrl" : "https://image.kurier.at/images/original/4467941/46-165564170.jpg",
+      "titleSource" : "Sammelklage gegen Amazon bei e-Books",
+      "titleTarget" : "Skupna tužba protiv Amazona zbog e-knjiga",
+      "url" : "https://kurier.at/wirtschaft/sammelklage-gegen-amazon-bei-e-books/401156862"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "eYnWav3y",
-      "imgUrl" : "https://image.kurier.at/images/original/4871019/46-174037077.jpg",
-      "titleSource" : "Turbulentes Demo-Wochenende in Wien erwartet",
-      "titleTarget" : "Turbulentni demo vikend očekuje se u Beču",
-      "url" : "https://kurier.at/chronik/oesterreich/turbulentes-demo-wochenende-in-wien-erwartet/401156061"
+      "id" : "I5uFCKZT",
+      "imgUrl" : "https://image.kurier.at/images/original/4802517/46-168934786.jpg",
+      "titleSource" : "93-Jähriger wartet auf Impfung und hat wenig Verständnis für Gabalier",
+      "titleTarget" : "93-godišnjak čeka na cijepljenje i slabo razumije Gabaliera",
+      "url" : "https://kurier.at/chronik/oesterreich/93-jaehriger-wartet-auf-impfung-und-hat-wenig-verstaendnis-fuer-gabalier/401157471"
     }, {
-      "id" : "Smq7DJI7",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "3.510 Neuinfektionen in Österreich",
-      "titleTarget" : "3.510 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/3510-neuinfektionen-in-oesterreich/401155638"
+      "id" : "jounnOcm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/01/18/crops/w=1280/796589_opener_277518_impfen3.jpg?s=d4830c9c008412c63a71db66d9f2a473d262b1d2",
+      "titleSource" : "Wien startet erste große Impfaktion",
+      "titleTarget" : "Beč započinje svoju prvu veliku kampanju cijepljenja",
+      "url" : "https://wien.orf.at/stories/3085037/"
     }, {
-      "id" : "pA9jGiz6",
-      "imgUrl" : "https://image.kurier.at/images/original/4870995/46-174041945.jpg",
-      "titleSource" : "Britische Skilehrer sollen in Tirol \"nonstop\" Party gemacht haben",
-      "titleTarget" : "Navodi se da su britanski instruktori skijanja \"non-stop\" zabavljali u Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/britische-skilehrer-sollen-in-tirol-non-stop-party-gemacht-haben/401156469"
+      "id" : "SrlKStMM",
+      "imgUrl" : "https://image.kurier.at/images/original/3954551/46-151188079.jpg",
+      "titleSource" : "Vize-Polizeichef nach Notruf-Affäre: \"Tut mir unendlich leid\"",
+      "titleTarget" : "Zamjenik šefa policije nakon hitne službe: \"Žao mi je\"",
+      "url" : "https://kurier.at/chronik/oesterreich/vize-polizeichef-nach-notruf-affaere-tut-mir-unendlich-leid/401157042"
     }, {
-      "id" : "RsnyyNre",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/63/crops/w=1280/812688_opener_283363_image.asgdhdhx.jpg?s=9c73bbfefdc0cec2833d38210ddb8f2781adc718",
-      "titleSource" : "Precious Nnebedum: Poesie gegen Rassismus",
-      "titleTarget" : "Dragocjeni Nnebedum: Poezija protiv rasizma",
-      "url" : "https://steiermark.orf.at/stories/3084865/"
-    }, {
-      "id" : "iqxYSlYj",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/26/47/crops/w=1280/812845_opener_54847_img_5987.jpg?s=363fb90c51ba72a3536ace813864e546d772c5e0",
-      "titleSource" : "Ärger mit Freizeitrowdies in Faistenau",
-      "titleTarget" : "Nevolje s dokoličarskim huliganima u Faistenauu",
-      "url" : "https://salzburg.orf.at/stories/3084911/"
+      "id" : "TpvafrdS",
+      "titleSource" : "Polizei sucht Opfer von Sexualverbrechen",
+      "titleTarget" : "Policija traga za žrtvama seksualnih zločina",
+      "url" : "https://kaernten.orf.at/stories/3085172/"
     }, {
       "id" : "f3qaCg25",
       "imgUrl" : "https://oekastatic.orf.at/mims/2019/18/69/crops/w=1280/170444_opener_33069_polizist_nahaufnahme_01_coe.jpg?s=ad7ea9f0a19e4a2b62a847c2de143003a2db8570",
@@ -128,32 +121,32 @@
       "titleTarget" : "Nestanak na policijskom hitnom pozivu: Preusmjeravanje prihvaćeno",
       "url" : "https://steiermark.orf.at/stories/3084399/"
     }, {
-      "id" : "hmuFBffE",
-      "imgUrl" : "https://image.kurier.at/images/original/4827444/20201217-ABD0045-1-1.jpg",
-      "titleSource" : "Corona: Hotel in Vorarlberg soll Betretungsverbot umgangen haben",
-      "titleTarget" : "Corona: Kaže se da je hotel u Vorarlbergu zaobišao zabranu ulaska",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-hotel-in-vorarlberg-soll-betretungsverbot-umgangen-haben/401156502"
+      "id" : "3TN52CzG",
+      "imgUrl" : "https://image.kurier.at/images/original/3764039/46-145080556.jpg",
+      "titleSource" : "Das gilt ab heute bei der Einreise nach Österreich",
+      "titleTarget" : "To vrijedi od danas prilikom ulaska u Austriju",
+      "url" : "https://kurier.at/chronik/oesterreich/das-gilt-ab-heute-bei-der-einreise-nach-oesterreich/401156769"
+    }, {
+      "id" : "7LIHhzHR",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/93/crops/w=1280/813347_opener_283593_210115_bh_v1_100_jaehriger_brief-00.01.13.jpg?s=0d2aa4cea9ab54a10c6fb90f1de6e15091f32412",
+      "titleSource" : "Brief so alt wie das Burgenland",
+      "titleTarget" : "Pismo staro poput Gradišća",
+      "url" : "https://burgenland.orf.at/stories/3085059/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "Y5Z8CEHn",
-      "imgUrl" : "https://image.kurier.at/images/original/4541642/46-164503429.jpg",
-      "titleSource" : "Siegfried Fischbacher: Der Magier ist tot",
-      "titleTarget" : "Siegfried Fischbacher: Mađioničar je mrtav",
-      "url" : "https://kurier.at/kultur/siegfried-fischbacher-der-magier-ist-tot/401156475"
+      "id" : "zc2dhwKk",
+      "imgUrl" : "https://image.kurier.at/images/original/4874262/orf_kurier_20210115115832.jpg",
+      "titleSource" : "\"Millionenshow\": Ersatz für den \"Publikumsjoker\" gefunden",
+      "titleTarget" : "\"Millionenshow\": pronašao zamjenu za \"šaljivdžiju publike\"",
+      "url" : "https://kurier.at/kultur/medien/millionenshow-ersatz-fuer-den-publikumsjoker-gefunden/401157279"
     }, {
-      "id" : "y8cAbyJV",
-      "imgUrl" : "https://image.kurier.at/images/original/4872696/46-77815745.jpg",
-      "titleSource" : "Lady Gaga führt Staraufgebot bei Biden-Amtseinführung an",
-      "titleTarget" : "Lady Gaga vodi popis zvijezda na inauguraciji Bidena",
-      "url" : "https://kurier.at/kultur/lady-gaga-fuehrt-staraufgebot-bei-biden-amtseinfuehrung-an/401156265"
-    }, {
-      "id" : "A2hBFztb",
-      "imgUrl" : "https://image.kurier.at/images/original/4872102/46-174059516.jpg",
-      "titleSource" : "Neuer Moderator für den ORF-\"Kulturmontag\"",
-      "titleTarget" : "Novi moderator za ORF \"Kulturmontag\"",
-      "url" : "https://kurier.at/kultur/medien/neuer-moderator-fuer-den-orf-kulturmontag/401155959"
+      "id" : "0fUX261M",
+      "imgUrl" : "https://image.kurier.at/images/original/4873536/46-143342401.jpg",
+      "titleSource" : "David Schalko porträtiert die Ruinen im Kurort \"Bad Regina\"",
+      "titleTarget" : "David Schalko prikazuje ruševine u lječilištu \"Bad Regina\"",
+      "url" : "https://kurier.at/kultur/buch/david-schalko-portraetiert-die-ruinen-im-kurort-bad-regina/401156856"
     }, {
       "id" : "FmenzlmZ",
       "imgUrl" : "https://image.kurier.at/images/original/3669482/78452305849810908_BLD_Online.jpg",
@@ -167,17 +160,23 @@
       "titleTarget" : "James May kuha: Osveta pileće juhe",
       "url" : "https://kurier.at/kultur/james-may-kocht-die-rache-der-huehnersuppe/401156355"
     }, {
-      "id" : "wXKuE9EF",
-      "imgUrl" : "https://image.kurier.at/images/original/4873149/46-144865412.jpg",
-      "titleSource" : "Nach TikTok-Erfolg: Mick Fleetwood verkauft alle Songrechte",
-      "titleTarget" : "Nakon uspjeha TikToka: Mick Fleetwood prodaje sva prava na pjesme",
-      "url" : "https://kurier.at/kultur/nach-tiktok-erfolg-mick-fleetwood-verkauft-alle-songrechte/401156520"
+      "id" : "oar9nQWF",
+      "imgUrl" : "https://image.kurier.at/images/original/4787448/46-169004005.jpg",
+      "titleSource" : "Kulturveranstalter wollen vor mehr Publikum spielen können",
+      "titleTarget" : "Kulturni organizatori žele moći igrati pred većom publikom",
+      "url" : "https://kurier.at/kultur/veranstalter-wollen-vor-mehr-publikum-spielen-koennen/401157654"
     }, {
-      "id" : "kwpLwfKN",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/7/5/5922677/streaming31610631652618777_h.jpg",
-      "titleSource" : "Im Film geht Black Lives Matter weiter: Neues schwarzes Kino auf Netflix, Amazon & Co.",
-      "titleTarget" : "Black Lives Matter nastavlja se u filmu: Novo crno kino na Netflixu, Amazon & Co.",
-      "url" : "https://www.diepresse.com/5922677/Streamingtipps_Im-Film-geht-Black-Lives-Matter-weiter_Neues?from=rss"
+      "id" : "yjgPOzWG",
+      "imgUrl" : "https://image.kurier.at/images/original/4875180/46-168689974.jpg",
+      "titleSource" : "ProSieben: Finanzinvestor KKR verkaufte seine Anteile",
+      "titleTarget" : "ProSieben: Financijski investitor KKR prodao je svoje dionice",
+      "url" : "https://kurier.at/kultur/medien/prosieben-finanzinvestor-kkr-verkaufte-seine-anteile/401157711"
+    }, {
+      "id" : "JGxnWlVc",
+      "imgUrl" : "https://image.kurier.at/images/original/4874931/46-156673206.jpg",
+      "titleSource" : "Emma Thompson übernimmt Rolle in \"Matilda\"-Musical bei Netflix",
+      "titleTarget" : "Emma Thompson preuzima ulogu u mjuziklu \"Matilda\" na Netflixu",
+      "url" : "https://kurier.at/kultur/medien/emma-thompson-uebernimmt-rolle-in-matilda-musical-bei-netflix/401157540"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,41 +184,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "6zF83QvI",
-      "titleSource" : "Hauser schafft Podest-Hattrick",
-      "titleTarget" : "Hauser uspijeva postići hat-trick na podiju",
-      "url" : "https://sport.orf.at/stories/3071809/"
-    }, {
-      "id" : "8DX6w8ln",
-      "titleSource" : "Bitterer WM-Auftakt für Österreicher",
-      "titleTarget" : "Gorki početak Svjetskog kupa za Austrijance",
-      "url" : "https://sport.orf.at/stories/3071813/"
+      "id" : "MtQZ8dk3",
+      "titleSource" : "ÖFB-Cupspiel unter Betrugsverdacht",
+      "titleTarget" : "Utakmica ÖFB kupa pod sumnjom za prijevaru",
+      "url" : "https://sport.orf.at/stories/3071834/"
     }, {
       "id" : "5JZITKeP",
       "titleSource" : "„Märchenwiese“ statt Klassiker in Kitzbühel",
       "titleTarget" : "“Märchenwiese” umjesto klasika u Kitzbühelu",
       "url" : "https://sport.orf.at/stories/3071811/"
     }, {
-      "id" : "VF8DolJv",
-      "imgUrl" : "https://image.kurier.at/images/original/4873176/46-174059765.jpg",
-      "titleSource" : "Thiems Wunsch für 2021: \"Natürlich ein zweiter Major-Titel\"",
-      "titleTarget" : "Thiemova želja za 2021: \"Naravno, drugi glavni naslov\"",
-      "url" : "https://kurier.at/sport/tennis/tennis-dominic-thiems-wunsch-fuer-2021-natuerlich-ein-zweiter-major-titel/401156556"
+      "id" : "ZEGoSEvP",
+      "titleSource" : "Rooney hängt Schuhe an den Nagel",
+      "titleTarget" : "Rooney spusti cipele",
+      "url" : "https://sport.orf.at/stories/3071853/"
     }, {
-      "id" : "57PSPhYY",
-      "titleSource" : "„The Beard“ sorgt für Beben in Brooklyn",
-      "titleTarget" : "\"Brada\" izaziva drhtanje u Brooklynu",
-      "url" : "https://sport.orf.at/stories/3071803/"
+      "id" : "lxGBHdJF",
+      "titleSource" : "Haftstrafe für Drahtzieher Mark S.",
+      "titleTarget" : "Zatvor za nalogodavca Marka S.",
+      "url" : "https://sport.orf.at/stories/3071838/"
     }, {
-      "id" : "HaZqZlEM",
-      "titleSource" : "Bayern wollen aus Schmach Lehren ziehen",
-      "titleTarget" : "Bayern želi učiti iz srama",
-      "url" : "https://sport.orf.at/stories/3071810/"
+      "id" : "OXaPJleH",
+      "imgUrl" : "https://image.kurier.at/images/original/4295903/46-164205271.jpg",
+      "titleSource" : "Betrugsverdacht bei Drittligist Stadl-Paura: Große Summen im Spiel",
+      "titleTarget" : "Sumnja na prijevaru kod trećeligaša Stadl-Paura: Velike sume u igri",
+      "url" : "https://kurier.at/sport/fussball/fussball-drittligist-stadl-paura-steht-unter-betrugsverdacht/401157078"
     }, {
-      "id" : "vWtnLhao",
-      "titleSource" : "Motorradpilot Cherpin nach Sturz bei Dakar verstorben",
-      "titleTarget" : "Pilot motocikla Cherpin umro je nakon pada na Dakaru",
-      "url" : "https://sport.orf.at/stories/3071832/"
+      "id" : "bn4f990A",
+      "imgUrl" : "https://image.kurier.at/images/original/4874133/46-167501957.jpg",
+      "titleSource" : "Doping-Arzt Mark S. zu Haftstrafe von über 4 Jahren verurteilt",
+      "titleTarget" : "Liječnik za doping Mark S. osuđen je na preko 4 godine zatvora",
+      "url" : "https://kurier.at/sport/wintersport/doping-freispruch-fuer-wurm-bei-betrug-schuldig-bei-falschaussage/401157102"
+    }, {
+      "id" : "e7yjY6e5",
+      "titleSource" : "Acht Quarterbacks sorgen für Premieren",
+      "titleTarget" : "Osam kvoterbeka čini premijere",
+      "url" : "https://sport.orf.at/stories/3071775/"
     } ]
   } ],
   "country" : "austria",
