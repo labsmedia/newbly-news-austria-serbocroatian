@@ -2,56 +2,44 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "IHh5zB7a",
-      "imgUrl" : "https://image.kurier.at/images/original/4845645/20201229-ABD0038-1-1.jpg",
-      "titleSource" : "SPÖ: Burgenländer stimmen gegen Rendi-Wagner",
-      "titleTarget" : "SPÖ: Gradišćani glasuju protiv Rendi-Wagnera",
-      "url" : "https://kurier.at/politik/inland/spoe-burgenlaender-stimmen-gegen-rendi-wagner/401157693"
-    }, {
       "id" : "jTBD7Du6",
       "imgUrl" : "https://image.kurier.at/images/original/4875645/46-174039141.jpg",
       "titleSource" : "Nach YouTube-Löschung: Kickl will\"Anti-Zensur-Gesetz\"",
       "titleTarget" : "Nakon brisanja s YouTubea: Kickl želi \"zakon protiv cenzure\"",
       "url" : "https://kurier.at/politik/inland/nach-youtube-loeschung-kickl-willanti-zensur-gesetz/401158044"
     }, {
-      "id" : "hFcKZa8V",
-      "imgUrl" : "https://image.kurier.at/images/original/4869855/46-174035684.jpg",
-      "titleSource" : "APA/OGM-Vertrauensindex: Regierung verliert weiter an Vertrauen",
-      "titleTarget" : "APA / OGM indeks povjerenja: Vlada nastavlja gubiti povjerenje",
-      "url" : "https://kurier.at/politik/inland/apaogm-vertrauensindex-regierung-verliert-weiter-an-vertrauen/401157195"
-    }, {
-      "id" : "iZqHm3Ex",
-      "imgUrl" : "https://image.kurier.at/images/original/4874322/46-173570374.jpg",
-      "titleSource" : "Test- oder FFP2-Maskenpflicht für bestimmte Berufsgruppen",
-      "titleTarget" : "Zahtjev za test ili FFP2 za određene profesionalne skupine",
-      "url" : "https://kurier.at/politik/inland/test-oder-ffp2-maskenpflicht-fuer-bestimmte-berufsgruppen/401157255"
-    }, {
-      "id" : "tQo4tkbW",
-      "imgUrl" : "https://image.kurier.at/images/original/4875882/46-174100000.jpg",
-      "titleSource" : "Experten fordern: Lockdown um \"zwei, drei Wochen\" verlängern, Homeoffice-Pflicht",
-      "titleTarget" : "Stručnjaci zahtijevaju: produžite zaključavanje za \"dva ili tri tjedna\", kućni ured je obvezan",
-      "url" : "https://kurier.at/politik/inland/vor-der-entscheidung-was-die-experten-jetzt-der-regierung-raten/401158059"
-    }, {
-      "id" : "rYx1HDAW",
-      "imgUrl" : "https://image.kurier.at/images/original/4874454/20210115-ABD0076-1-1.jpg",
-      "titleSource" : "Corona: SPÖ macht Anschober für Test-Chaos verantwortlich",
-      "titleTarget" : "Corona: SPÖ za testni kaos krivi Anschobera",
-      "url" : "https://kurier.at/politik/inland/corona-spoe-macht-anschober-fuer-test-chaos-verantwortlich/401157399"
-    }, {
       "id" : "BW2H5Z4r",
       "imgUrl" : "https://image.kurier.at/images/original/4726182/46-168474680.jpg",
       "titleSource" : "Epidemiologe schlägt vor, Bewegungsradius der Menschen einzuschränken",
       "titleTarget" : "Epidemiolog predlaže ograničavanje opsega pokreta ljudi",
       "url" : "https://kurier.at/politik/inland/epidemiologe-schlaegt-vor-bewegungsradius-der-menschen-einzuschraenken/401158005"
+    }, {
+      "id" : "tQo4tkbW",
+      "imgUrl" : "https://image.kurier.at/images/original/4875882/46-174100000.jpg",
+      "titleSource" : "Experten: Lockdown verlängern, Homeoffice-Pflicht und FFP2-Masken für alle",
+      "titleTarget" : "Stručnjaci zahtijevaju: produžite zaključavanje za \"dva ili tri tjedna\", kućni ured je obvezan",
+      "url" : "https://kurier.at/politik/inland/vor-der-entscheidung-was-die-experten-jetzt-der-regierung-raten/401158059"
+    }, {
+      "id" : "WBXNEuQj",
+      "imgUrl" : "https://image.kurier.at/images/original/4765776/homeoffice-magenta.jpg",
+      "titleSource" : "Corona-Umfrage: Mehrheit arbeitet nicht im Homeoffice",
+      "titleTarget" : "Istraživanje Corone: većina ne radi od kuće",
+      "url" : "https://kurier.at/politik/inland/corona-umfrage-mehrheit-arbeitet-nicht-im-homeoffice/401158230"
+    }, {
+      "id" : "KiSoucOn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/4/5923684/49C72BDF-7BD0-4C55-8C11-DF3569A01E83_v0_h.jpg",
+      "titleSource" : "Mehr zu als auf: Der Lockdown geht weiter",
+      "titleTarget" : "Više o nego o: Zaključavanje se nastavlja",
+      "url" : "https://www.diepresse.com/5923684/Coronavirus_Mehr-zu-als-auf_Der-Lockdown-geht-weiter?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "iDlhTOlL",
-      "imgUrl" : "https://image.kurier.at/images/original/3380005/46-78502036.jpg",
-      "titleSource" : "Mahnungsstopp bei der Sozialversicherung gefordert",
-      "titleTarget" : "Podsjetnik je potreban od socijalnog osiguranja",
-      "url" : "https://kurier.at/wirtschaft/mahnungsstopp-bei-der-sozialversicherung-gefordert/401157672"
+      "id" : "edL3pCgH",
+      "imgUrl" : "https://image.kurier.at/images/original/4873587/46-146627485.jpg",
+      "titleSource" : "AMS-Chef Johannes Kopf: „Der Aufschwung wird kommen“",
+      "titleTarget" : "Šef AMS-a Johannes Kopf: \"Uspon će doći\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/ams-chef-johannes-kopf-der-aufschwung-wird-kommen/401156889"
     }, {
       "id" : "bM30EDRz",
       "imgUrl" : "https://image.kurier.at/images/original/4875552/46-174007671.jpg",
@@ -59,23 +47,11 @@
       "titleTarget" : "WhatsApp odgađa uvođenje novih pravila o zaštiti podataka",
       "url" : "https://kurier.at/wirtschaft/whatsapp-verschiebt-einfuehrung-der-neuen-datenschutzregeln/401157984"
     }, {
-      "id" : "GpQeKxSF",
-      "imgUrl" : "https://image.kurier.at/images/original/4875447/46-174088547.jpg",
-      "titleSource" : "Britische Versicherer müssen für Corona-Betriebsschließungen zahlen",
-      "titleTarget" : "Britanska osiguravajuća društva moraju platiti zatvaranje poslovanja u Coroni",
-      "url" : "https://kurier.at/wirtschaft/britische-versicherer-muessen-fuer-corona-betriebsschliessungen-zahlen/401157891"
-    }, {
       "id" : "I9rDwbbd",
       "imgUrl" : "https://image.kurier.at/images/original/4875498/46-174036685.jpg",
       "titleSource" : "Beinahe-Blackout wegen Split des europäischen Stromnetzes",
       "titleTarget" : "Gotovo zatamnjenje zbog podjele u europskoj elektroenergetskoj mreži",
       "url" : "https://kurier.at/wirtschaft/beinahe-blackout-wegen-split-des-europaeischen-stromnetzes/401157933"
-    }, {
-      "id" : "3Xrtj2DN",
-      "imgUrl" : "https://image.kurier.at/images/original/4875342/46-174006162.jpg",
-      "titleSource" : "Bitcoin-Kurs fiel um fast 5.000 Dollar",
-      "titleTarget" : "Cijena bitcoina pala je za gotovo 5000 dolara",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-kurs-fiel-um-fast-5000-dollar/401157834"
     }, {
       "id" : "7NquPwOE",
       "imgUrl" : "https://image.kurier.at/images/original/4873914/46-174019361.jpg",
@@ -83,44 +59,38 @@
       "titleTarget" : "Kućni praznici: analiza tržišta",
       "url" : "https://kurier.at/wirtschaft/immobiz/ferien-im-eigenheim-eine-marktanalyse/401157024"
     }, {
-      "id" : "LmMDckx6",
-      "imgUrl" : "https://image.kurier.at/images/original/4042887/46-154615936.jpg",
-      "titleSource" : "Arbeitsmarkt: Wann mit Erholung zu rechnen ist",
-      "titleTarget" : "Tržište rada: kada očekivati oporavak",
-      "url" : "https://kurier.at/wirtschaft/karriere/arbeitsmarkt-wann-mit-erholung-zu-rechnen-ist/401155122"
+      "id" : "5mzp9Myz",
+      "imgUrl" : "https://image.kurier.at/images/original/4706139/46-166307113.jpg",
+      "titleSource" : "Commerzialbank: Pucher soll Millionen mit Toto verspielt haben",
+      "titleTarget" : "Commerzialbank: Kaže se da je Pucher kockao milijune s bazenima",
+      "url" : "https://kurier.at/wirtschaft/commerzialbank-pucher-soll-millionen-mit-toto-verspielt-haben/401158383"
+    }, {
+      "id" : "01GKc3bo",
+      "imgUrl" : "https://image.kurier.at/images/original/4266485/46-155953256.jpg",
+      "titleSource" : "Stellenabbau bei IBM Österreich betrifft bis zu 200 Jobs",
+      "titleTarget" : "Smanjivanje broja u IBM Austria utječe na do 200 radnih mjesta",
+      "url" : "https://kurier.at/wirtschaft/stellenabbau-bei-ibm-oesterreich-betrifft-bis-zu-200-jobs/401158281"
+    }, {
+      "id" : "Zhu7KpH3",
+      "imgUrl" : "https://image.kurier.at/images/original/4876002/46-173593958.jpg",
+      "titleSource" : "Regeln fürs Privatleben: Wieder Vorwürfe gegen Huawei",
+      "titleTarget" : "Pravila za privatni život: Opet optužbe protiv Huaweija",
+      "url" : "https://kurier.at/wirtschaft/regeln-fuers-privatleben-wieder-vorwuerfe-gegen-huawei/401158194"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "I5uFCKZT",
-      "imgUrl" : "https://image.kurier.at/images/original/4802517/46-168934786.jpg",
-      "titleSource" : "93-Jähriger wartet auf Impfung und hat wenig Verständnis für Gabalier",
-      "titleTarget" : "93-godišnjak čeka na cijepljenje i slabo razumije Gabaliera",
-      "url" : "https://kurier.at/chronik/oesterreich/93-jaehriger-wartet-auf-impfung-und-hat-wenig-verstaendnis-fuer-gabalier/401157471"
-    }, {
-      "id" : "aNIOYKDo",
-      "imgUrl" : "https://image.kurier.at/images/original/4862562/46-173972093.jpg",
-      "titleSource" : "Corona-Demonstranten: BVT sieht \"staatsgefährdendes Potenzial\"",
-      "titleTarget" : "Demonstranti Corone: BVT vidi \"potencijal koji ugrožava državu\"",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstranten-bvt-sieht-staatsgefaehrdendes-potenzial/401157603"
-    }, {
-      "id" : "AdyqGZpG",
-      "imgUrl" : "https://image.kurier.at/images/original/4875219/lichtbild.jpg",
-      "titleSource" : "Missbrauchsskandal Münster: Polizei sucht in Ö nach weiteren Opfern",
-      "titleTarget" : "Skandal sa zlostavljanjem u Münsteru: Policija traži još žrtava u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/missbrauchsskandal-muenster-polizei-sucht-in-oe-nach-weiteren-opfern/401157726"
-    }, {
-      "id" : "1fUKcl3p",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/82/crops/w=1280/814376_opener_283982_saab.jpg?s=dea65bea3bf95a9d58501c952c68ea3b6f7cd6a7",
-      "titleSource" : "Berufliche Zukunft der Saab-Piloten",
-      "titleTarget" : "Profesionalna budućnost Saabovih pilota",
-      "url" : "https://salzburg.orf.at/stories/3085126/"
-    }, {
       "id" : "CYWe7vVu",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/92/crops/w=1280/814118_opener_283892_demi3.jpg?s=f37d9ac70a309ac0c03081c393027e0fefe79beb",
-      "titleSource" : "Behinderungen wegen „Corona“-Demos",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/35/crops/w=1280/815376_opener_284335_demo25.jpg?s=4fa2d28b199e1ac7d53521a2ef0ee974bb01db16",
+      "titleSource" : "CoV-Großdemo ohne gröbere Zwischenfälle",
       "titleTarget" : "Invaliditeti zbog demonstracija \"Corona\"",
       "url" : "https://wien.orf.at/stories/3085165/"
+    }, {
+      "id" : "KqCgkdpf",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.723 Neuinfektionen in Österreich",
+      "titleTarget" : "1.723 nove infekcije u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1723-neuinfektionen-in-oesterreich/401158053"
     }, {
       "id" : "nX0tcZyL",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/87/crops/w=1280/814093_opener_283887_lampe9.jpg?s=55da40f00daba06bed07deec356c88f7a6910040",
@@ -128,49 +98,50 @@
       "titleTarget" : "\"Lamp šuma\" u MuseumsQuartieru",
       "url" : "https://wien.orf.at/stories/3085154/"
     }, {
-      "id" : "7FZoEqAT",
-      "titleSource" : "Lawinenabgang: Tourengeherin gestorben",
-      "titleTarget" : "Lavina: ski tourer umro",
-      "url" : "https://steiermark.orf.at/stories/3085182/"
+      "id" : "sTw1rpfZ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/21/14/crops/w=1280/159296_opener_39214_weisser_tiger-vierlinge_geboren_falcototomiamautzi_.jpg?s=caad7e169ac1e5a21ddbb0e3862ebd85e10e47e5",
+      "titleSource" : "Weißer Zoo: „Geld für Futter geht langsam aus“",
+      "titleTarget" : "Bijeli zoološki vrt: \"Novac za hranu polako ističe\"",
+      "url" : "https://noe.orf.at/stories/3085173/"
+    }, {
+      "id" : "lzab6v4o",
+      "imgUrl" : "https://image.kurier.at/images/original/4834926/46-107551224.jpg",
+      "titleSource" : "CoV-Mutation in Wien verbreitet",
+      "titleTarget" : "Mutacija CoV proširila se u Beču",
+      "url" : "https://kurier.at/chronik/oesterreich/cov-mutation-17-prozent-anteil-in-wien/401158338"
+    }, {
+      "id" : "ibcP27J6",
+      "imgUrl" : "https://image.kurier.at/images/original/4861272/46-173899856.jpg",
+      "titleSource" : "7-Tages-Inzidenz: Diese Bezirke sind am stärksten betroffen",
+      "titleTarget" : "Sedmodnevna incidencija: Ova su područja najviše pogođena",
+      "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-diese-bezirke-sind-am-staerksten-betroffen/401157708"
+    }, {
+      "id" : "w7b78nok",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/94/crops/w=1280/524034_opener_177194_bb85cf55-70ed-4e56-8e71-a435e0ac87f8.jpg?s=a17880c3ca2302d625816aef6a9b8561dd49b765",
+      "titleSource" : "Gabalier: „Werde mich impfen lassen“",
+      "titleTarget" : "Gabalier: \"Cjepit ću me\"",
+      "url" : "https://steiermark.orf.at/stories/3085209/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "zc2dhwKk",
-      "imgUrl" : "https://image.kurier.at/images/original/4874262/orf_kurier_20210115115832.jpg",
-      "titleSource" : "\"Millionenshow\": Ersatz für den \"Publikumsjoker\" gefunden",
-      "titleTarget" : "\"Millionenshow\": pronašao zamjenu za \"šaljivdžiju publike\"",
-      "url" : "https://kurier.at/kultur/medien/millionenshow-ersatz-fuer-den-publikumsjoker-gefunden/401157279"
-    }, {
       "id" : "btMbpVx5",
       "imgUrl" : "https://image.kurier.at/images/original/4875414/46-174042163.jpg",
       "titleSource" : "Sleaford Mods: Elektropunk als außerparlamentarische Opposition",
       "titleTarget" : "Sleaford Mods: Electropunk kao izvanparlamentarna oporba",
       "url" : "https://kurier.at/kultur/sleaford-mods-elektropunk-als-ausserparlamentarische-opposition/401157525"
     }, {
-      "id" : "0fUX261M",
-      "imgUrl" : "https://image.kurier.at/images/original/4873536/46-143342401.jpg",
-      "titleSource" : "David Schalko porträtiert die Ruinen im Kurort \"Bad Regina\"",
-      "titleTarget" : "David Schalko prikazuje ruševine u lječilištu \"Bad Regina\"",
-      "url" : "https://kurier.at/kultur/buch/david-schalko-portraetiert-die-ruinen-im-kurort-bad-regina/401156856"
+      "id" : "KuHhx6zj",
+      "imgUrl" : "https://image.kurier.at/images/original/4875621/3_684625.jpg",
+      "titleSource" : "Und es ward wieder Dschungel: \"Ich mache hier nicht ein Mal Pipi\"",
+      "titleTarget" : "Prva \"predstava džungle\": Panika u spremniku za vodu, ali frizura drži",
+      "url" : "https://kurier.at/kultur/medien/erste-dschungelshow-panik-im-wassertank-aber-die-frisur-haelt/401158032"
     }, {
       "id" : "67P2y5iq",
       "imgUrl" : "https://image.kurier.at/images/original/4873314/46-174070191.jpg",
       "titleSource" : "Thomas Bernhard: Der Bruder dachte an einen Vampir",
       "titleTarget" : "Thomas Bernhard: Brat je mislio na vampira",
       "url" : "https://kurier.at/kultur/buch/thomas-bernhard-der-bruder-dachte-an-einen-vampir/401156517"
-    }, {
-      "id" : "lAe2xFjp",
-      "imgUrl" : "https://image.kurier.at/images/original/4874352/46-159386015.jpg",
-      "titleSource" : "\"Parasite\"-Regisseur Bong Joon-ho wird Jury-Präsident in Venedig",
-      "titleTarget" : "Redatelj \"Parazita\" Bong Joon-ho postaje predsjednik žirija u Veneciji",
-      "url" : "https://kurier.at/kultur/parasite-regisseur-bong-joon-ho-wird-jury-praesident-in-venedig/401157285"
-    }, {
-      "id" : "KuHhx6zj",
-      "imgUrl" : "https://image.kurier.at/images/original/4875621/3_684625.jpg",
-      "titleSource" : "Erste \"Dschungelshow\": Panik im Wassertank, aber die Frisur hält",
-      "titleTarget" : "Prva \"predstava džungle\": Panika u spremniku za vodu, ali frizura drži",
-      "url" : "https://kurier.at/kultur/medien/erste-dschungelshow-panik-im-wassertank-aber-die-frisur-haelt/401158032"
     }, {
       "id" : "Iy8eJXaL",
       "imgUrl" : "https://image.kurier.at/images/original/4875492/46-174082402.jpg",
@@ -184,43 +155,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "5gARp1zd",
-      "imgUrl" : "https://image.kurier.at/images/original/4834197/46-173664705.jpg",
-      "titleSource" : "Rot für Taxi Fountas: Dem Rapidler droht eine lange Pause",
-      "titleTarget" : "Crveno za taksi fontane: Rapidleru prijeti duga pauza",
-      "url" : "https://kurier.at/sport/fussball/rot-fuer-taxi-fountas-im-test-gegen-admira-dem-rapid-stuermer-droht-eine-lange-pause/401157804"
+      "id" : "4XoaLHk1",
+      "imgUrl" : "https://image.kurier.at/images/original/4876332/46-174101736.jpg",
+      "titleSource" : "Premierensieg nach 124 Rennen: Feller triumphiert in Flachau",
+      "titleTarget" : "Premijer pobjeda nakon 124 utrke: Feller trijumfirao u Flachauu",
+      "url" : "https://kurier.at/sport/wintersport/flachau-slalom-oesv-star-manuel-feller-jubelt-ueber-seinen-ersten-weltcupsieg/401158179"
     }, {
-      "id" : "ncLiubGm",
-      "imgUrl" : "https://image.kurier.at/images/original/4875045/oesvteam.jpeg",
-      "titleSource" : "Österreich ist wieder die Ski-Nation Nummer eins",
-      "titleTarget" : "Austrija je opet skijaška nacija broj jedan",
-      "url" : "https://kurier.at/sport/wintersport/oesterreich-ist-wieder-die-skination-nummer-eins/401157639"
+      "id" : "lKHsfNte",
+      "imgUrl" : "https://image.kurier.at/images/original/4875870/46-174099472.jpg",
+      "titleSource" : "Flachau-Slalom: Noel in Führung, Feller wieder auf Podestkurs",
+      "titleTarget" : "Flachau Slalom: Noel u vodstvu, Feller natrag na postolje",
+      "url" : "https://kurier.at/sport/wintersport/flachau-slalom-noel-in-fuehrung-oesv-star-manuel-feller-wieder-auf-podestkurs/401158179"
     }, {
-      "id" : "ZEGoSEvP",
-      "titleSource" : "Rooney hängt Schuhe an den Nagel",
-      "titleTarget" : "Rooney spusti cipele",
-      "url" : "https://sport.orf.at/stories/3071853/"
+      "id" : "BcwNCsPP",
+      "titleSource" : "Feller feiert in Flachau ersten Sieg",
+      "titleTarget" : "Feller slavi prvu pobjedu u Flachauu",
+      "url" : "https://sport.orf.at/stories/3071888/"
+    }, {
+      "id" : "JVXKvV3c",
+      "imgUrl" : "https://image.kurier.at/images/original/4876785/46-174102787.jpg",
+      "titleSource" : "Feller nach Flachau-Sieg: \"Viele Kritiker wurden mundtot gemacht\"",
+      "titleTarget" : "Feller nakon Flachauove pobjede: \"Mnogi su kritičari utihnuli\"",
+      "url" : "https://kurier.at/sport/wintersport/oesv-star-manuel-feller-nach-flachau-sieg-viele-fragen-wurden-mundtot-gemacht/401158401"
     }, {
       "id" : "UsNSewxI",
       "titleSource" : "Schwarz freut sich auf Flachau-Premiere",
       "titleTarget" : "Schwarz se raduje premijeri u Flachauu",
       "url" : "https://sport.orf.at/stories/3071840/"
     }, {
-      "id" : "ns79fH9N",
-      "imgUrl" : "https://image.kurier.at/images/original/4875144/46-173971665.jpg",
-      "titleSource" : "Rollentausch im Ski-Weltcup: Die Österreicher sind die Gejagten",
-      "titleTarget" : "Preokret uloga u Svjetskom skijaškom kupu: Austrijanci se love",
-      "url" : "https://kurier.at/sport/wintersport/rollentausch-im-ski-weltcup-die-oesterreicher-sind-wieder-die-gejagten/401157678"
+      "id" : "jQkZ1IIn",
+      "titleSource" : "Feller gewinnt Flachau-Slalom",
+      "titleTarget" : "Feller pobjeđuje u slalomu Flachau",
+      "url" : "https://sport.orf.at/stories/3071893/"
     }, {
-      "id" : "hovkkVqM",
-      "titleSource" : "Stand im Herren-Slalom in Flachau ab 9.30 Uhr",
-      "titleTarget" : "Stajati u muškom slalomu u Flachauu od 9.30 sati",
-      "url" : "https://sport.orf.at/stories/3071859/"
-    }, {
-      "id" : "vZuhdjVL",
-      "titleSource" : "Herzog sieht bei EM kaum Medaillenchance",
-      "titleTarget" : "Herzog vidi male šanse za medalju na EM",
-      "url" : "https://sport.orf.at/stories/3071796/"
+      "id" : "4rJpqkLY",
+      "titleSource" : "Steu/Koller feiern vierten Saisonsieg",
+      "titleTarget" : "Steu / Koller slave četvrtu pobjedu u sezoni",
+      "url" : "https://sport.orf.at/stories/3071899/"
     } ]
   } ],
   "country" : "austria",
