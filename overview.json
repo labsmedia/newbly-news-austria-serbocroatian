@@ -8,12 +8,6 @@
       "titleTarget" : "Nakon brisanja s YouTubea: Kickl želi \"zakon protiv cenzure\"",
       "url" : "https://kurier.at/politik/inland/nach-youtube-loeschung-kickl-willanti-zensur-gesetz/401158044"
     }, {
-      "id" : "BW2H5Z4r",
-      "imgUrl" : "https://image.kurier.at/images/original/4726182/46-168474680.jpg",
-      "titleSource" : "Epidemiologe schlägt vor, Bewegungsradius der Menschen einzuschränken",
-      "titleTarget" : "Epidemiolog predlaže ograničavanje opsega pokreta ljudi",
-      "url" : "https://kurier.at/politik/inland/epidemiologe-schlaegt-vor-bewegungsradius-der-menschen-einzuschraenken/401158005"
-    }, {
       "id" : "tQo4tkbW",
       "imgUrl" : "https://image.kurier.at/images/original/4875882/46-174100000.jpg",
       "titleSource" : "Experten: Lockdown verlängern, Homeoffice-Pflicht und FFP2-Masken für alle",
@@ -41,18 +35,6 @@
       "titleTarget" : "Šef AMS-a Johannes Kopf: \"Uspon će doći\"",
       "url" : "https://kurier.at/wirtschaft/karriere/ams-chef-johannes-kopf-der-aufschwung-wird-kommen/401156889"
     }, {
-      "id" : "bM30EDRz",
-      "imgUrl" : "https://image.kurier.at/images/original/4875552/46-174007671.jpg",
-      "titleSource" : "WhatsApp verschiebt Einführung der neuen Datenschutzregeln",
-      "titleTarget" : "WhatsApp odgađa uvođenje novih pravila o zaštiti podataka",
-      "url" : "https://kurier.at/wirtschaft/whatsapp-verschiebt-einfuehrung-der-neuen-datenschutzregeln/401157984"
-    }, {
-      "id" : "I9rDwbbd",
-      "imgUrl" : "https://image.kurier.at/images/original/4875498/46-174036685.jpg",
-      "titleSource" : "Beinahe-Blackout wegen Split des europäischen Stromnetzes",
-      "titleTarget" : "Gotovo zatamnjenje zbog podjele u europskoj elektroenergetskoj mreži",
-      "url" : "https://kurier.at/wirtschaft/beinahe-blackout-wegen-split-des-europaeischen-stromnetzes/401157933"
-    }, {
       "id" : "7NquPwOE",
       "imgUrl" : "https://image.kurier.at/images/original/4873914/46-174019361.jpg",
       "titleSource" : "Ferien im Eigenheim: Eine Marktanalyse",
@@ -76,33 +58,33 @@
       "titleSource" : "Regeln fürs Privatleben: Wieder Vorwürfe gegen Huawei",
       "titleTarget" : "Pravila za privatni život: Opet optužbe protiv Huaweija",
       "url" : "https://kurier.at/wirtschaft/regeln-fuers-privatleben-wieder-vorwuerfe-gegen-huawei/401158194"
+    }, {
+      "id" : "D8n9aXLa",
+      "imgUrl" : "https://image.kurier.at/images/original/4875825/46-174085013.jpg",
+      "titleSource" : "Übernahme von Carrefour vorerst geplatzt",
+      "titleTarget" : "Preuzimanje Carrefoura zasad nije uspjelo",
+      "url" : "https://kurier.at/wirtschaft/uebernahme-von-carrefour-vorerst-geplatzt/401158155"
+    }, {
+      "id" : "LmMDckx6",
+      "imgUrl" : "https://image.kurier.at/images/original/4042887/46-154615936.jpg",
+      "titleSource" : "Arbeitsmarkt: Wann mit Erholung zu rechnen ist",
+      "titleTarget" : "Tržište rada: kada očekivati oporavak",
+      "url" : "https://kurier.at/wirtschaft/karriere/arbeitsmarkt-wann-mit-erholung-zu-rechnen-ist/401155122"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "CYWe7vVu",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/35/crops/w=1280/815376_opener_284335_demo25.jpg?s=4fa2d28b199e1ac7d53521a2ef0ee974bb01db16",
-      "titleSource" : "CoV-Großdemo ohne gröbere Zwischenfälle",
-      "titleTarget" : "Invaliditeti zbog demonstracija \"Corona\"",
-      "url" : "https://wien.orf.at/stories/3085165/"
-    }, {
       "id" : "KqCgkdpf",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.723 Neuinfektionen in Österreich",
       "titleTarget" : "1.723 nove infekcije u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1723-neuinfektionen-in-oesterreich/401158053"
     }, {
-      "id" : "nX0tcZyL",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/87/crops/w=1280/814093_opener_283887_lampe9.jpg?s=55da40f00daba06bed07deec356c88f7a6910040",
-      "titleSource" : "„Lampenwald“ im MuseumsQuartier",
-      "titleTarget" : "\"Lamp šuma\" u MuseumsQuartieru",
-      "url" : "https://wien.orf.at/stories/3085154/"
-    }, {
-      "id" : "sTw1rpfZ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/21/14/crops/w=1280/159296_opener_39214_weisser_tiger-vierlinge_geboren_falcototomiamautzi_.jpg?s=caad7e169ac1e5a21ddbb0e3862ebd85e10e47e5",
-      "titleSource" : "Weißer Zoo: „Geld für Futter geht langsam aus“",
-      "titleTarget" : "Bijeli zoološki vrt: \"Novac za hranu polako ističe\"",
-      "url" : "https://noe.orf.at/stories/3085173/"
+      "id" : "ZCvRKIW6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/e/b/5923563/858F7FE5-91B0-4DEE-B334-277AEF6EA63A_v0_l.jpg",
+      "titleSource" : "Mehrere tausend Demonstranten bei Anti-Corona-Demos in Wien",
+      "titleTarget" : "Nekoliko tisuća demonstranata na demonstracijama protiv korone u Beču",
+      "url" : "https://www.diepresse.com/5923563/Proteste_Mehrere-tausend-Demonstranten-bei-AntiCoronaDemos-in-Wien?from=rss"
     }, {
       "id" : "lzab6v4o",
       "imgUrl" : "https://image.kurier.at/images/original/4834926/46-107551224.jpg",
@@ -116,38 +98,44 @@
       "titleTarget" : "Sedmodnevna incidencija: Ova su područja najviše pogođena",
       "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-diese-bezirke-sind-am-staerksten-betroffen/401157708"
     }, {
-      "id" : "w7b78nok",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/14/94/crops/w=1280/524034_opener_177194_bb85cf55-70ed-4e56-8e71-a435e0ac87f8.jpg?s=a17880c3ca2302d625816aef6a9b8561dd49b765",
-      "titleSource" : "Gabalier: „Werde mich impfen lassen“",
-      "titleTarget" : "Gabalier: \"Cjepit ću me\"",
-      "url" : "https://steiermark.orf.at/stories/3085209/"
+      "id" : "6jnG7mgr",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/50/00/crops/w=1280/781308_opener_129500_pucher2.jpg?s=223fde5472807bf018c9dfd6eefa7f5877fd7b41",
+      "titleSource" : "Pucher soll im Toto Millionen verspielt haben",
+      "titleTarget" : "Kaže se da je Pucher prokockao milijune u bazenu",
+      "url" : "https://burgenland.orf.at/stories/3085271/"
+    }, {
+      "id" : "Zk5pEKn0",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/72/crops/w=1280/815494_opener_284372_img-20210115-wa0019.jpg?s=0a0b9c9898ea5d9556bc785fd4f9a67bb58aeb25",
+      "titleSource" : "Arlbergbahnstrecke wieder frei",
+      "titleTarget" : "Arlbergova željeznička pruga opet besplatna",
+      "url" : "https://vorarlberg.orf.at/stories/3085299/"
+    }, {
+      "id" : "g1AIrSmh",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/74/crops/w=1280/815499_opener_284374_puchhammer.jpg?s=8a88ff1e249496e58c9a73c08fc55d4351f512bc",
+      "titleSource" : "Puchhammer-Stöckl für FFP2-Maskenpflicht",
+      "titleTarget" : "Puchhammer-Stöckl za FFP2 masku",
+      "url" : "https://wien.orf.at/stories/3085300/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "btMbpVx5",
-      "imgUrl" : "https://image.kurier.at/images/original/4875414/46-174042163.jpg",
-      "titleSource" : "Sleaford Mods: Elektropunk als außerparlamentarische Opposition",
-      "titleTarget" : "Sleaford Mods: Electropunk kao izvanparlamentarna oporba",
-      "url" : "https://kurier.at/kultur/sleaford-mods-elektropunk-als-ausserparlamentarische-opposition/401157525"
-    }, {
       "id" : "KuHhx6zj",
       "imgUrl" : "https://image.kurier.at/images/original/4875621/3_684625.jpg",
       "titleSource" : "Und es ward wieder Dschungel: \"Ich mache hier nicht ein Mal Pipi\"",
       "titleTarget" : "Prva \"predstava džungle\": Panika u spremniku za vodu, ali frizura drži",
       "url" : "https://kurier.at/kultur/medien/erste-dschungelshow-panik-im-wassertank-aber-die-frisur-haelt/401158032"
     }, {
+      "id" : "btMbpVx5",
+      "imgUrl" : "https://image.kurier.at/images/original/4875414/46-174042163.jpg",
+      "titleSource" : "Sleaford Mods: Elektropunk als außerparlamentarische Opposition",
+      "titleTarget" : "Sleaford Mods: Electropunk kao izvanparlamentarna oporba",
+      "url" : "https://kurier.at/kultur/sleaford-mods-elektropunk-als-ausserparlamentarische-opposition/401157525"
+    }, {
       "id" : "67P2y5iq",
       "imgUrl" : "https://image.kurier.at/images/original/4873314/46-174070191.jpg",
       "titleSource" : "Thomas Bernhard: Der Bruder dachte an einen Vampir",
       "titleTarget" : "Thomas Bernhard: Brat je mislio na vampira",
       "url" : "https://kurier.at/kultur/buch/thomas-bernhard-der-bruder-dachte-an-einen-vampir/401156517"
-    }, {
-      "id" : "Iy8eJXaL",
-      "imgUrl" : "https://image.kurier.at/images/original/4875492/46-174082402.jpg",
-      "titleSource" : "Corona - Faithfull kann nach Erkrankung vielleicht nie mehr singen",
-      "titleTarget" : "Corona - Vjeran možda više nikada neće moći pjevati nakon bolesti",
-      "url" : "https://kurier.at/kultur/corona-faithfull-kann-nach-erkrankung-vielleicht-nie-mehr-singen/401157936"
     } ]
   }, {
     "category" : "HEALTH",
@@ -161,16 +149,21 @@
       "titleTarget" : "Premijer pobjeda nakon 124 utrke: Feller trijumfirao u Flachauu",
       "url" : "https://kurier.at/sport/wintersport/flachau-slalom-oesv-star-manuel-feller-jubelt-ueber-seinen-ersten-weltcupsieg/401158179"
     }, {
-      "id" : "lKHsfNte",
-      "imgUrl" : "https://image.kurier.at/images/original/4875870/46-174099472.jpg",
-      "titleSource" : "Flachau-Slalom: Noel in Führung, Feller wieder auf Podestkurs",
-      "titleTarget" : "Flachau Slalom: Noel u vodstvu, Feller natrag na postolje",
-      "url" : "https://kurier.at/sport/wintersport/flachau-slalom-noel-in-fuehrung-oesv-star-manuel-feller-wieder-auf-podestkurs/401158179"
+      "id" : "dP3lNu7l",
+      "imgUrl" : "https://image.kurier.at/images/original/4877022/46-173972624.jpg",
+      "titleSource" : "Kreuzbandriss: Saisonende für Aleksander Aamodt Kilde",
+      "titleTarget" : "Puknuće križnih ligamenata: kraj sezone za Aleksandera Aamodta Kildea",
+      "url" : "https://kurier.at/sport/wintersport/kreuzbandriss-saisonende-fuer-aleksander-aamodt-kilde/401158488"
     }, {
-      "id" : "BcwNCsPP",
-      "titleSource" : "Feller feiert in Flachau ersten Sieg",
-      "titleTarget" : "Feller slavi prvu pobjedu u Flachauu",
-      "url" : "https://sport.orf.at/stories/3071888/"
+      "id" : "TlT1g1x8",
+      "titleSource" : "Team-Springen in Zakopane an ÖSV-Adler",
+      "titleTarget" : "Tim skače u Zakopanama do ÖSV-Adlera",
+      "url" : "https://sport.orf.at/stories/3071900/"
+    }, {
+      "id" : "A34dVuku",
+      "titleSource" : "Entscheidung über Kitzbühel-Rennen am Sonntag",
+      "titleTarget" : "Odluka o utrci u Kitzbühelu u nedjelju",
+      "url" : "https://sport.orf.at/stories/3071901/"
     }, {
       "id" : "JVXKvV3c",
       "imgUrl" : "https://image.kurier.at/images/original/4876785/46-174102787.jpg",
@@ -178,15 +171,11 @@
       "titleTarget" : "Feller nakon Flachauove pobjede: \"Mnogi su kritičari utihnuli\"",
       "url" : "https://kurier.at/sport/wintersport/oesv-star-manuel-feller-nach-flachau-sieg-viele-fragen-wurden-mundtot-gemacht/401158401"
     }, {
-      "id" : "UsNSewxI",
-      "titleSource" : "Schwarz freut sich auf Flachau-Premiere",
-      "titleTarget" : "Schwarz se raduje premijeri u Flachauu",
-      "url" : "https://sport.orf.at/stories/3071840/"
-    }, {
-      "id" : "jQkZ1IIn",
-      "titleSource" : "Feller gewinnt Flachau-Slalom",
-      "titleTarget" : "Feller pobjeđuje u slalomu Flachau",
-      "url" : "https://sport.orf.at/stories/3071893/"
+      "id" : "8ZkYbVlz",
+      "imgUrl" : "https://image.kurier.at/images/original/4876821/46-174001061.jpg",
+      "titleSource" : "Eishockey-WM in Belarus: Skoda droht mit Rückzug als Sponsor",
+      "titleTarget" : "Svjetsko prvenstvo u hokeju na ledu u Bjelorusiji: Škoda prijeti povlačenjem kao sponzor",
+      "url" : "https://kurier.at/sport/wintersport/eishockey-wm-in-belarus-skoda-droht-mit-rueckzug-als-sponsor/401158419"
     }, {
       "id" : "4rJpqkLY",
       "titleSource" : "Steu/Koller feiern vierten Saisonsieg",
