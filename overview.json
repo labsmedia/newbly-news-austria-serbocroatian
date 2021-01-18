@@ -2,29 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "4pgUSWKE",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/a/5923834/31585BDB-0FD3-4C05-B1C1-933CF5645F54_v0_l.jpg",
-      "titleSource" : "Lockdown bis 7. Februar verlängert, FFP2-Maskenpflicht kommt",
-      "titleTarget" : "Zaključavanje produljeno do 7. veljače, dolazi zahtjev za FFP2 maskom",
-      "url" : "https://www.diepresse.com/5923834/CoronaMassnahmen_Lockdown-bis-7-Februar-verlaengert?from=rss"
-    }, {
-      "id" : "47RW1FYa",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/a/5923834/31585BDB-0FD3-4C05-B1C1-933CF5645F54_v0_l.jpg",
-      "titleSource" : "Lockdown bis 7. Februar verlängert, FFP2-Maskenpflicht kommt",
-      "titleTarget" : "Zaključavanje produljeno do 7. veljače, dolazi zahtjev za FFP2 maskom",
-      "url" : "https://www.diepresse.com/5923834/Livestream_Lockdown-bis-7-Februar-verlaengert-FFP2Maskenpflicht-kommt?from=rss"
+      "id" : "IsoKUJBo",
+      "imgUrl" : "https://image.kurier.at/images/original/4843569/20201228-ABD0011-1-1.jpg",
+      "titleSource" : "Erster Meilenstein geschafft: 100.000 Österreicher wurden bereits geimpft",
+      "titleTarget" : "Prva postignuta prekretnica: 100 000 Austrijanaca već je cijepljeno",
+      "url" : "https://kurier.at/politik/inland/erster-meilenstein-geschafft-100000-oesterreicher-wurden-bereits-geimpft/401158791"
     }, {
       "id" : "b40RIQdJ",
       "imgUrl" : "https://image.kurier.at/images/original/4877688/46-174117570.jpg",
       "titleSource" : "Lockdown bis 7. Februar verlängert, Babyelefant wächst, FFP2-Maske wird Pflicht",
       "titleTarget" : "UŽIVO: Vlada najavljuje zaključavanje do 7. veljače, sve pojedinosti",
       "url" : "https://kurier.at/politik/inland/live-regierung-verkuendet-lockdown-bis-7-februar-alle-details/401158671"
-    }, {
-      "id" : "IsoKUJBo",
-      "imgUrl" : "https://image.kurier.at/images/original/4843569/20201228-ABD0011-1-1.jpg",
-      "titleSource" : "Erster Meilenstein geschafft: 100.000 Österreicher wurden bereits geimpft",
-      "titleTarget" : "Prva postignuta prekretnica: 100 000 Austrijanaca već je cijepljeno",
-      "url" : "https://kurier.at/politik/inland/erster-meilenstein-geschafft-100000-oesterreicher-wurden-bereits-geimpft/401158791"
     }, {
       "id" : "v8tVWtzX",
       "imgUrl" : "https://image.kurier.at/images/original/4831374/20201219-ABD0009-1-1.jpg",
@@ -38,11 +26,23 @@
       "titleTarget" : "Ekonomska pomoć: dolazi \"bonus za neuspjeh\" do 30 posto",
       "url" : "https://kurier.at/politik/inland/live-welche-wirtschaftshilfen-kommen-jetzt/401158764"
     }, {
-      "id" : "5XpI5Ott",
-      "imgUrl" : "https://image.kurier.at/images/original/4877400/46-167173428.jpg",
-      "titleSource" : "\"System Amazon beenden\": Massive Gesetzesverstöße bei Auslieferungsfirmen",
-      "titleTarget" : "\"Kraj sustava Amazon\": Masovna kršenja zakona od strane dostavnih tvrtki",
-      "url" : "https://kurier.at/politik/inland/mehr-als-700-verstoesse-massive-gesetzesuebertretungen-bei-amazon-auslieferern/401158593"
+      "id" : "AyMDlfbM",
+      "imgUrl" : "https://image.kurier.at/images/original/4877769/46-174059202.jpg",
+      "titleSource" : "Vordrängen beim Impfen gegen \"Spende\": Kaiser schaltet Staatsanwalt ein",
+      "titleTarget" : "Napredak u cijepljenju protiv \"donacije\": Kaiser poziva državnog tužitelja",
+      "url" : "https://kurier.at/politik/inland/vordraengen-beim-impfen-gegen-spende-kaiser-schaltet-staatsanwalt-ein/401158752"
+    }, {
+      "id" : "8seWCJMS",
+      "imgUrl" : "https://image.kurier.at/images/original/4848942/20201231-ABD0009-1-1.jpg",
+      "titleSource" : "Anschober gibt \"Fehler\" zu: \"Kommunikation ist der Schlüssel\"",
+      "titleTarget" : "Anschober priznaje \"pogrešku\": \"komunikacija je ključ\"",
+      "url" : "https://kurier.at/politik/inland/anschober-gibt-fehler-zu-kommunikation-ist-der-schluessel/401159031"
+    }, {
+      "id" : "aKGrhCge",
+      "imgUrl" : "https://image.kurier.at/images/original/331386/geld_euro_rendite_zinsen-000_FROG%252B974%252B-%252BFOTOLIA%252B34870028_Frog%252B974_Fotolia.jpg",
+      "titleSource" : "Corona-Hilfen: Mehr Geld für Gemeinden",
+      "titleTarget" : "Koronska pomoć: Više novca za zajednice",
+      "url" : "https://kurier.at/politik/inland/corona-hilfen-mehr-geld-fuer-gemeinden/401158581"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,6 +59,12 @@
       "titleTarget" : "Novi \"bonus za neuspjeh\" može se zatražiti od 16. veljače",
       "url" : "https://kurier.at/wirtschaft/neuer-ausfallsbonus-kann-ab-16-februar-beantragt-werden/401158827"
     }, {
+      "id" : "RqSsFhOd",
+      "imgUrl" : "https://image.kurier.at/images/original/4878495/46-174085634.jpg",
+      "titleSource" : "Corona-Impfung: Bereits 120.000 Vormerkungen in Wien",
+      "titleTarget" : "Već 120.000 rezervacija u Beču",
+      "url" : "https://kurier.at/wirtschaft/bereits-120000-vormerkungen-in-wien/401158977"
+    }, {
       "id" : "rNvtJLA7",
       "imgUrl" : "https://image.kurier.at/images/original/4135497/46-159888482.jpg",
       "titleSource" : "Grünes für alle Sinne: Küchenkräuter für zu Hause",
@@ -70,12 +76,6 @@
       "titleSource" : "Messengerdienste: Der Preis der Bequemlichkeit",
       "titleTarget" : "Messenger usluge: cijena pogodnosti",
       "url" : "https://kurier.at/wirtschaft/karriere/messengerdienste-der-preis-der-bequemlichkeit/401156274"
-    }, {
-      "id" : "RqSsFhOd",
-      "imgUrl" : "https://image.kurier.at/images/original/4878495/46-174085634.jpg",
-      "titleSource" : "Bereits 120.000 Vormerkungen in Wien",
-      "titleTarget" : "Već 120.000 rezervacija u Beču",
-      "url" : "https://kurier.at/wirtschaft/bereits-120000-vormerkungen-in-wien/401158977"
     }, {
       "id" : "4TyKtzlZ",
       "imgUrl" : "https://image.kurier.at/images/original/4877400/46-167173428.jpg",
@@ -104,23 +104,11 @@
       "titleTarget" : "Corona demos: Desničarska domačnost, uhićenja ljevičara, brojna izvješća",
       "url" : "https://kurier.at/chronik/oesterreich/corona-demos-rechte-heimatseligkeit-festnahmen-von-linken-zahlreiche-anzeigen/401158620"
     }, {
-      "id" : "VYHaJz3S",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/27/crops/w=1280/813718_opener_283727_meldungsliste1.jpg?s=b7977b80f02d4125236d204405478080d2def3d7",
-      "titleSource" : "Vormerkung für CoV-Impfung gestartet",
-      "titleTarget" : "Započela je rezervacija za cijepljenje protiv CoV",
-      "url" : "https://wien.orf.at/stories/3085332/"
-    }, {
-      "id" : "nomkjDEE",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.267 Neuinfektionen in Österreich",
-      "titleTarget" : "1.267 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1267-neuinfektionen-in-oesterreich/401158605"
-    }, {
-      "id" : "IefRBgTE",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/46/76/crops/w=1280/367554_opener_118676_2.png?s=f3a8820d131f76d7e5986ec9c80c0664430bafe5",
-      "titleSource" : "Schwarzarbeit bei Amazon-Lieferanten",
-      "titleTarget" : "Neprijavljeni rad kod dobavljača Amazona",
-      "url" : "https://noe.orf.at/stories/3085326/"
+      "id" : "xVdGv9ir",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/99/crops/w=1280/807797_opener_281599_impfungbludenz050.jpg?s=7b995aa89315619f047c0ed309dacb2bcc31b0a7",
+      "titleSource" : "Politiker wurden in Pflegeheim  geimpft",
+      "titleTarget" : "Političari su cijepljeni u staračkim domovima",
+      "url" : "https://ooe.orf.at/stories/3085387/"
     }, {
       "id" : "RvttcaH5",
       "titleSource" : "Maler Hans Staudacher gestorben",
@@ -132,6 +120,18 @@
       "titleSource" : "Stadt Dornbirn: „Bitte bleibt daheim“",
       "titleTarget" : "Grad Dornbirn: \"Molim vas, ostanite kod kuće\"",
       "url" : "https://vorarlberg.orf.at/stories/3085328/"
+    }, {
+      "id" : "nomkjDEE",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.267 Neuinfektionen in Österreich",
+      "titleTarget" : "1.267 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1267-neuinfektionen-in-oesterreich/401158605"
+    }, {
+      "id" : "tk6wuLo9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/06/11/crops/w=1280/460783_opener_153911_cdc-vyunnjchynw-unsplash.jpg?s=99a51ce3a23d10d3490a5d22ab8508d671a3c34f",
+      "titleSource" : "CoV-Maßnahmen verhindern bisher Influenza",
+      "titleTarget" : "Mjere CoV do sada su sprječavale gripu",
+      "url" : "https://vorarlberg.orf.at/stories/3085297/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -141,6 +141,18 @@
       "titleSource" : "Kultur-Lockdown erneut verlängert - keine Vorstellungen bis Ende Februar",
       "titleTarget" : "Blokada kulture ponovno se produžila - do kraja veljače nije bilo izvedbi",
       "url" : "https://kurier.at/kultur/kultur-lockdown-erneut-verlaengert-keine-vorstellungen-bis-ende-februar/401158788"
+    }, {
+      "id" : "WjUaZSV6",
+      "imgUrl" : "https://image.kurier.at/images/original/4878276/46-174121919.jpg",
+      "titleSource" : "Maler Hans Staudacher im Alter von 98 Jahren gestorben",
+      "titleTarget" : "Slikar Hans Staudacher umro je u 98. godini",
+      "url" : "https://kurier.at/kultur/maler-hans-staudacher-im-alter-von-98-jahren-gestorben/401158884"
+    }, {
+      "id" : "Cdj92DAA",
+      "imgUrl" : "https://image.kurier.at/images/original/4878348/46-174122741.jpg",
+      "titleSource" : "Musikproduzent Phil Spector starb im Gefängnis",
+      "titleTarget" : "Producent ploča Phil Spector umro je u zatvoru",
+      "url" : "https://kurier.at/kultur/musikproduzent-phil-spector-starb-im-gefaengnis/401158917"
     }, {
       "id" : "JX3JTlOc",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/3/5923987/3C6B38EC-5EF5-4FAC-8047-BE427B021E43_v0_h.jpg",
@@ -153,30 +165,6 @@
       "titleSource" : "Maler und Dadaist Hans Staudacher im Alter von 98 Jahren gestorben",
       "titleTarget" : "Slikar i dadaist Hans Staudacher umro je u 98. godini",
       "url" : "https://www.diepresse.com/5923960/Kunst_Maler-und-Dadaist-Hans-Staudacher-im-Alter-von-98-Jahren?from=rss"
-    }, {
-      "id" : "etjtYewn",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/3/5923987/3C6B38EC-5EF5-4FAC-8047-BE427B021E43_v0_h.jpg",
-      "titleSource" : "US-Musikproduzent Phil Spector 81-jährig im Gefängnis gestorben",
-      "titleTarget" : "Američki glazbeni producent Phil Spector umro je u zatvoru u 81. godini",
-      "url" : "https://www.diepresse.com/5923987/RockPop_USMusikproduzent-Phil-Spector-81jaehrig-im-Gefaengnis?from=rss"
-    }, {
-      "id" : "Cdj92DAA",
-      "imgUrl" : "https://image.kurier.at/images/original/4878348/46-174122741.jpg",
-      "titleSource" : "Musikproduzent Phil Spector starb im Gefängnis",
-      "titleTarget" : "Producent ploča Phil Spector umro je u zatvoru",
-      "url" : "https://kurier.at/kultur/musikproduzent-phil-spector-starb-im-gefaengnis/401158917"
-    }, {
-      "id" : "WjUaZSV6",
-      "imgUrl" : "https://image.kurier.at/images/original/4878276/46-174121919.jpg",
-      "titleSource" : "Maler Hans Staudacher im Alter von 98 Jahren gestorben",
-      "titleTarget" : "Slikar Hans Staudacher umro je u 98. godini",
-      "url" : "https://kurier.at/kultur/maler-hans-staudacher-im-alter-von-98-jahren-gestorben/401158884"
-    }, {
-      "id" : "VCPYflwO",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/8/5923960/0314F243-F663-4C9E-B822-0BDD335A142A_v0_h.jpg",
-      "titleSource" : "Maler Hans Staudacher im Alter von 98 Jahren gestorben",
-      "titleTarget" : "Slikar Hans Staudacher umro je u 98. godini",
-      "url" : "https://www.diepresse.com/5923960/Kunst_Maler-Hans-Staudacher-im-Alter-von-98-Jahren-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -184,10 +172,11 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "OENLrL5V",
-      "titleSource" : "Pöltl überzeugt mit Double-Double",
-      "titleTarget" : "Pöltl uvjerava s double-doubleom",
-      "url" : "https://sport.orf.at/stories/3071925/"
+      "id" : "rxOCQ2jS",
+      "imgUrl" : "https://image.kurier.at/images/original/4878285/46-168369656.jpg",
+      "titleSource" : "Gegner bespuckt: Fountas wird Rapid wohl lange fehlen",
+      "titleTarget" : "Protivnik je pljunuo: Fountasu će vjerojatno još dugo nedostajati Rapid",
+      "url" : "https://kurier.at/sport/fussball/warum-der-rapidler-fountas-gegen-admira-ausgeschlossen-wurde/401158905"
     }, {
       "id" : "GVQOKIXg",
       "imgUrl" : "https://image.kurier.at/images/original/4877763/46-174079067.jpg",
@@ -201,26 +190,25 @@
       "titleTarget" : "Flachau Slalom: Marco Schwarz zauzima sljedeće mjesto u ÖSV-u",
       "url" : "https://kurier.at/sport/wintersport/flachau-slalom-premierensieg-fuer-norweger-foss-solevaag-oesv-laeufer-marco-schwarz-zweiter/401158716"
     }, {
-      "id" : "dP3lNu7l",
-      "imgUrl" : "https://image.kurier.at/images/original/4877022/46-173972624.jpg",
-      "titleSource" : "Kreuzbandriss: Saisonende für Aleksander Aamodt Kilde",
-      "titleTarget" : "Puknuće križnih ligamenata: kraj sezone za Aleksandera Aamodta Kildea",
-      "url" : "https://kurier.at/sport/wintersport/kreuzbandriss-saisonende-fuer-aleksander-aamodt-kilde/401158488"
+      "id" : "eGHquQsO",
+      "titleSource" : "Leitner verpasst Sieg in Oberhof ganz knapp",
+      "titleTarget" : "Leitner je tijesno promašio pobjedu u Oberhofu",
+      "url" : "https://sport.orf.at/stories/3071951/"
     }, {
       "id" : "dOuR92z8",
       "titleSource" : "Maier im Viererbob nur von Friedrich geschlagen",
       "titleTarget" : "Maiera je Friedrich pretukao samo u bobu s četvero ljudi",
       "url" : "https://sport.orf.at/stories/3071957/"
     }, {
-      "id" : "eGHquQsO",
-      "titleSource" : "Leitner verpasst Sieg in Oberhof ganz knapp",
-      "titleTarget" : "Leitner je tijesno promašio pobjedu u Oberhofu",
-      "url" : "https://sport.orf.at/stories/3071951/"
+      "id" : "UHZA2i6r",
+      "titleSource" : "Foss-Solevaag gewinnt Slalom vor Schwarz",
+      "titleTarget" : "Foss-Solevaag pobjeđuje u slalomu ispred crnaca",
+      "url" : "https://sport.orf.at/stories/3071944/"
     }, {
-      "id" : "Zs0ktISj",
-      "titleSource" : "Shiffrin gibt in Kranjska Gora Tempo vor",
-      "titleTarget" : "Shiffrin postavlja tempo u Kranjskoj Gori",
-      "url" : "https://sport.orf.at/stories/3071926/"
+      "id" : "zAJcsopF",
+      "titleSource" : "Bassino gewinnt erneut in Kranjska Gora",
+      "titleTarget" : "Bassino ponovno pobjeđuje u Kranjskoj Gori",
+      "url" : "https://sport.orf.at/stories/3071949/"
     } ]
   } ],
   "country" : "austria",
