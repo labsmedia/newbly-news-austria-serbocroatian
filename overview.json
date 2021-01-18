@@ -2,17 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "4pgUSWKE",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/a/5923834/31585BDB-0FD3-4C05-B1C1-933CF5645F54_v0_l.jpg",
+      "titleSource" : "Lockdown bis 7. Februar verlängert, FFP2-Maskenpflicht kommt",
+      "titleTarget" : "Zaključavanje produljeno do 7. veljače, dolazi zahtjev za FFP2 maskom",
+      "url" : "https://www.diepresse.com/5923834/CoronaMassnahmen_Lockdown-bis-7-Februar-verlaengert?from=rss"
+    }, {
       "id" : "IsoKUJBo",
       "imgUrl" : "https://image.kurier.at/images/original/4843569/20201228-ABD0011-1-1.jpg",
       "titleSource" : "Erster Meilenstein geschafft: 100.000 Österreicher wurden bereits geimpft",
       "titleTarget" : "Prva postignuta prekretnica: 100 000 Austrijanaca već je cijepljeno",
       "url" : "https://kurier.at/politik/inland/erster-meilenstein-geschafft-100000-oesterreicher-wurden-bereits-geimpft/401158791"
-    }, {
-      "id" : "b40RIQdJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4877688/46-174117570.jpg",
-      "titleSource" : "Lockdown bis 7. Februar verlängert, Babyelefant wächst, FFP2-Maske wird Pflicht",
-      "titleTarget" : "UŽIVO: Vlada najavljuje zaključavanje do 7. veljače, sve pojedinosti",
-      "url" : "https://kurier.at/politik/inland/live-regierung-verkuendet-lockdown-bis-7-februar-alle-details/401158671"
     }, {
       "id" : "v8tVWtzX",
       "imgUrl" : "https://image.kurier.at/images/original/4831374/20201219-ABD0009-1-1.jpg",
@@ -26,32 +26,32 @@
       "titleTarget" : "Ekonomska pomoć: dolazi \"bonus za neuspjeh\" do 30 posto",
       "url" : "https://kurier.at/politik/inland/live-welche-wirtschaftshilfen-kommen-jetzt/401158764"
     }, {
+      "id" : "mviOgzqd",
+      "imgUrl" : "https://image.kurier.at/images/original/4878750/46-174117431.jpg",
+      "titleSource" : "Anschober: Homeoffice größter Unterschied zu erstem Lockdown",
+      "titleTarget" : "Anschober: Kućni ured je najveća razlika u odnosu na prvo zaključavanje",
+      "url" : "https://kurier.at/politik/inland/anschober-homeoffice-groesster-unterschied-zu-erstem-lockdown/401159112"
+    }, {
       "id" : "AyMDlfbM",
       "imgUrl" : "https://image.kurier.at/images/original/4877769/46-174059202.jpg",
       "titleSource" : "Vordrängen beim Impfen gegen \"Spende\": Kaiser schaltet Staatsanwalt ein",
       "titleTarget" : "Napredak u cijepljenju protiv \"donacije\": Kaiser poziva državnog tužitelja",
       "url" : "https://kurier.at/politik/inland/vordraengen-beim-impfen-gegen-spende-kaiser-schaltet-staatsanwalt-ein/401158752"
     }, {
-      "id" : "8seWCJMS",
-      "imgUrl" : "https://image.kurier.at/images/original/4848942/20201231-ABD0009-1-1.jpg",
-      "titleSource" : "Anschober gibt \"Fehler\" zu: \"Kommunikation ist der Schlüssel\"",
-      "titleTarget" : "Anschober priznaje \"pogrešku\": \"komunikacija je ključ\"",
-      "url" : "https://kurier.at/politik/inland/anschober-gibt-fehler-zu-kommunikation-ist-der-schluessel/401159031"
-    }, {
-      "id" : "aKGrhCge",
-      "imgUrl" : "https://image.kurier.at/images/original/331386/geld_euro_rendite_zinsen-000_FROG%252B974%252B-%252BFOTOLIA%252B34870028_Frog%252B974_Fotolia.jpg",
-      "titleSource" : "Corona-Hilfen: Mehr Geld für Gemeinden",
-      "titleTarget" : "Koronska pomoć: Više novca za zajednice",
-      "url" : "https://kurier.at/politik/inland/corona-hilfen-mehr-geld-fuer-gemeinden/401158581"
+      "id" : "R7FleonJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4878702/46-164175807.jpg",
+      "titleSource" : "Verschärfter Lockdown: \"Müssen auf 700 Neuinfektionen kommen\"",
+      "titleTarget" : "Pojačano zaključavanje: \"Mora doći do 700 novih infekcija\"",
+      "url" : "https://kurier.at/politik/inland/xxl-lockdown-muessen-auf-700-neuinfektionen-kommen/401159070"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "tClIAO8r",
-      "imgUrl" : "https://image.kurier.at/images/original/4877394/46-169124196.jpg",
-      "titleSource" : "Lockdown-Verlängerung: Hoteliers verzweifelt",
-      "titleTarget" : "Proširenje zaključavanja: hotelijeri očajni",
-      "url" : "https://kurier.at/wirtschaft/lockdown-verlaengerung-hoteliers-verzweifelt/401158572"
+      "id" : "spsH4ACs",
+      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "titleSource" : "Schlag gegen das \"System Amazon\"",
+      "titleTarget" : "Štrajk protiv \"Amazonskog sustava\"",
+      "url" : "https://kurier.at/wirtschaft/schlag-gegen-das-system-amazon/401159082"
     }, {
       "id" : "8ryryusF",
       "imgUrl" : "https://image.kurier.at/images/original/4869561/20210113-ABD0013-1-1.jpg",
@@ -65,44 +65,44 @@
       "titleTarget" : "Već 120.000 rezervacija u Beču",
       "url" : "https://kurier.at/wirtschaft/bereits-120000-vormerkungen-in-wien/401158977"
     }, {
-      "id" : "rNvtJLA7",
-      "imgUrl" : "https://image.kurier.at/images/original/4135497/46-159888482.jpg",
-      "titleSource" : "Grünes für alle Sinne: Küchenkräuter für zu Hause",
-      "titleTarget" : "Zelena za sva osjetila: kuhinjsko bilje za dom",
-      "url" : "https://kurier.at/wirtschaft/immobiz/gruenes-fuer-alle-sinne-kuechenkraeuter-fuer-zu-hause/401157318"
+      "id" : "KO5nJSeg",
+      "imgUrl" : "https://image.kurier.at/images/original/4611239/46-164271094.jpg",
+      "titleSource" : "Autoindustrie lehnt neuen Corona-Zwangsstopp ab",
+      "titleTarget" : "Auto industrija odbija novo obvezno zamrzavanje Corone",
+      "url" : "https://kurier.at/wirtschaft/autoindustrie-lehnt-neuen-corona-zwangsstopp-ab/401159154"
     }, {
-      "id" : "vpgDeNtf",
-      "imgUrl" : "https://image.kurier.at/images/original/4872702/46-166263631.jpg",
-      "titleSource" : "Messengerdienste: Der Preis der Bequemlichkeit",
-      "titleTarget" : "Messenger usluge: cijena pogodnosti",
-      "url" : "https://kurier.at/wirtschaft/karriere/messengerdienste-der-preis-der-bequemlichkeit/401156274"
+      "id" : "wj0YgpBZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4878714/46-174124510.jpg",
+      "titleSource" : "Trump-Regierung verschärft Vorgehen gegen Huawei",
+      "titleTarget" : "Trumpova administracija pooštrila je akciju protiv Huaweija",
+      "url" : "https://kurier.at/wirtschaft/trump-regierung-verschaerft-vorgehen-gegen-huawei/401159091"
     }, {
-      "id" : "4TyKtzlZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4877400/46-167173428.jpg",
-      "titleSource" : "\"System Amazon beenden\": Massive Gesetzesverstöße bei Auslieferungsfirmen",
-      "titleTarget" : "\"Kraj sustava Amazon\": Masovna kršenja zakona od strane dostavnih tvrtki",
-      "url" : "https://kurier.at/wirtschaft/mehr-als-700-verstoesse-massive-gesetzesuebertretungen-bei-amazon-auslieferern/401158593"
+      "id" : "TJQEXLyz",
+      "imgUrl" : "https://image.kurier.at/images/original/4872765/46-174034409.jpg",
+      "titleSource" : "Plagiatsregeln: Zeilen, die man nie schrieb",
+      "titleTarget" : "Plagijarizam vlada: redovi koje nikada niste napisali",
+      "url" : "https://kurier.at/wirtschaft/karriere/plagiatsregeln-zeilen-die-man-nie-schrieb/401156310"
     }, {
-      "id" : "7TN7LtUn",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/4/7/e/5923966/D79A1E41-D88E-494A-A311-C9ED4FA35D60_v0_l.jpg",
-      "titleSource" : "Amazon im Visier der Finanz",
-      "titleTarget" : "Amazon u prizorima financija",
-      "url" : "https://www.diepresse.com/5923966/Kontrollen_Amazon-im-Visier-der-Finanz?from=rss"
+      "id" : "MNkZ3APb",
+      "imgUrl" : "https://image.kurier.at/images/original/774255/46-31682312.jpg",
+      "titleSource" : "Grand Hotel Europa Innsbruck: Inventar kommt unter den Hammer",
+      "titleTarget" : "Grand Hotel Europa Innsbruck: inventar ide pod čekić",
+      "url" : "https://kurier.at/wirtschaft/grand-hotel-europa-innsbruck-inventar-kommt-unter-den-hammer/401159181"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "S9xC9CLo",
-      "imgUrl" : "https://image.kurier.at/images/original/4873581/46-174040566.jpg",
-      "titleSource" : "Erfolg trotz Corona: Ein Onlinehändler ohne Onlineshop",
-      "titleTarget" : "Uspjeh unatoč Coroni: mrežni prodavač bez internetske trgovine",
-      "url" : "https://kurier.at/chronik/oesterreich/erfolg-trotz-corona-ein-onlinehaendler-ohne-onlineshop/401157690"
+      "id" : "BOlrkDRY",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/48/crops/w=1280/816682_opener_284748_2.jpg?s=e88f6c8165684b2ead6642e520b3a708f53204f8",
+      "titleSource" : "Hochgurgl: Motorradmuseum ausgebrannt",
+      "titleTarget" : "Hochgurgl: izgorio muzej motocikala",
+      "url" : "https://tirol.orf.at/stories/3085418/"
     }, {
-      "id" : "BWQWKJq6",
-      "imgUrl" : "https://image.kurier.at/images/original/4877427/46-174105671.jpg",
-      "titleSource" : "Corona-Demos: Rechte Heimatseligkeit, Festnahmen von Linken, zahlreiche Anzeigen",
-      "titleTarget" : "Corona demos: Desničarska domačnost, uhićenja ljevičara, brojna izvješća",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demos-rechte-heimatseligkeit-festnahmen-von-linken-zahlreiche-anzeigen/401158620"
+      "id" : "tk6wuLo9",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/06/11/crops/w=1280/460783_opener_153911_cdc-vyunnjchynw-unsplash.jpg?s=99a51ce3a23d10d3490a5d22ab8508d671a3c34f",
+      "titleSource" : "CoV-Maßnahmen verhindern bisher Influenza",
+      "titleTarget" : "Mjere CoV do sada su sprječavale gripu",
+      "url" : "https://vorarlberg.orf.at/stories/3085297/"
     }, {
       "id" : "xVdGv9ir",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/99/crops/w=1280/807797_opener_281599_impfungbludenz050.jpg?s=7b995aa89315619f047c0ed309dacb2bcc31b0a7",
@@ -121,17 +121,17 @@
       "titleTarget" : "Grad Dornbirn: \"Molim vas, ostanite kod kuće\"",
       "url" : "https://vorarlberg.orf.at/stories/3085328/"
     }, {
-      "id" : "nomkjDEE",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.267 Neuinfektionen in Österreich",
-      "titleTarget" : "1.267 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1267-neuinfektionen-in-oesterreich/401158605"
+      "id" : "wyJxvAVG",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/48/crops/w=1280/816388_opener_284648_test.jpg?s=446eaa194cdd5b778a4e1c6da639b355b93af958",
+      "titleSource" : "Zweiter Massentest: 0,13 Prozent positiv",
+      "titleTarget" : "Drugi test mase: 0,13 posto pozitivno",
+      "url" : "https://noe.orf.at/stories/3085405/"
     }, {
-      "id" : "tk6wuLo9",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/06/11/crops/w=1280/460783_opener_153911_cdc-vyunnjchynw-unsplash.jpg?s=99a51ce3a23d10d3490a5d22ab8508d671a3c34f",
-      "titleSource" : "CoV-Maßnahmen verhindern bisher Influenza",
-      "titleTarget" : "Mjere CoV do sada su sprječavale gripu",
-      "url" : "https://vorarlberg.orf.at/stories/3085297/"
+      "id" : "wG6hxgup",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/52/75/crops/w=1280/793791_opener_276475_adobestock_361088407.jpeg?s=38c9c4cb0c2971d1d0501a102fa3688ea98e96d8",
+      "titleSource" : "Preis für Pflicht-FFP2-Masken offen",
+      "titleTarget" : "Otvorena cijena obveznih FFP2 maski",
+      "url" : "https://oesterreich.orf.at/stories/3085388/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -154,17 +154,29 @@
       "titleTarget" : "Producent ploča Phil Spector umro je u zatvoru",
       "url" : "https://kurier.at/kultur/musikproduzent-phil-spector-starb-im-gefaengnis/401158917"
     }, {
+      "id" : "nwfp4kQy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/8/5923960/0314F243-F663-4C9E-B822-0BDD335A142A_v0_h.jpg",
+      "titleSource" : "Maler und Dadaist Hans Staudacher gestorben",
+      "titleTarget" : "Umro je slikar i dadaist Hans Staudacher",
+      "url" : "https://www.diepresse.com/5923960/Kunst_Maler-und-Dadaist-Hans-Staudacher-gestorben?from=rss"
+    }, {
+      "id" : "PqNzW2PG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/3/5923987/3C6B38EC-5EF5-4FAC-8047-BE427B021E43_v0_h.jpg",
+      "titleSource" : "Meister des Sounds: Phil Spector im Gefängnis an Covid gestorben",
+      "titleTarget" : "Master of Sound: Phil Spector umro je od Covida u zatvoru",
+      "url" : "https://www.diepresse.com/5923987/RockPop_Meister-des-Sounds_Phil-Spector-im-Gefaengnis-an-Covid?from=rss"
+    }, {
+      "id" : "dZMDciHo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/8/9/5923977/D0D4C9F2-1E9D-487B-8686-3632F094C938_v0_l.jpg",
+      "titleSource" : "Sexuelles Erwachen: Kann das Sünde sein?",
+      "titleTarget" : "Seksualno buđenje: može li to biti grijeh?",
+      "url" : "https://www.diepresse.com/5923977/Film_Sexuelles-Erwachen_Kann-das-Suende-sein?from=rss"
+    }, {
       "id" : "JX3JTlOc",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/3/5923987/3C6B38EC-5EF5-4FAC-8047-BE427B021E43_v0_h.jpg",
       "titleSource" : "Meister des Sounds: Phil Spector ist im Gefängnis an Covid gestorben",
       "titleTarget" : "Master of Sound: Phil Spector umro je od Covida u zatvoru",
       "url" : "https://www.diepresse.com/5923987/RockPop_Meister-des-Sounds_Phil-Spector-ist-im-Gefaengnis-an?from=rss"
-    }, {
-      "id" : "7zov5Rst",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/8/5923960/0314F243-F663-4C9E-B822-0BDD335A142A_v0_h.jpg",
-      "titleSource" : "Maler und Dadaist Hans Staudacher im Alter von 98 Jahren gestorben",
-      "titleTarget" : "Slikar i dadaist Hans Staudacher umro je u 98. godini",
-      "url" : "https://www.diepresse.com/5923960/Kunst_Maler-und-Dadaist-Hans-Staudacher-im-Alter-von-98-Jahren?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -178,37 +190,38 @@
       "titleTarget" : "Protivnik je pljunuo: Fountasu će vjerojatno još dugo nedostajati Rapid",
       "url" : "https://kurier.at/sport/fussball/warum-der-rapidler-fountas-gegen-admira-ausgeschlossen-wurde/401158905"
     }, {
-      "id" : "GVQOKIXg",
-      "imgUrl" : "https://image.kurier.at/images/original/4877763/46-174079067.jpg",
-      "titleSource" : "Trotz Corona: Die Hahnenkammrennen in Kitzbühel finden statt",
-      "titleTarget" : "Unatoč Coroni: održavaju se utrke Hahnenkamm u Kitzbühelu",
-      "url" : "https://kurier.at/sport/wintersport/trotz-corona-die-hahnenkammrennen-in-kitzbuehel-finden-statt/401158758"
-    }, {
       "id" : "GoAt68Z3",
       "imgUrl" : "https://image.kurier.at/images/original/4877928/46-174119496.jpg",
       "titleSource" : "Flachau-Slalom: Marco Schwarz holt nächsten Spitzenplatz für ÖSV",
       "titleTarget" : "Flachau Slalom: Marco Schwarz zauzima sljedeće mjesto u ÖSV-u",
       "url" : "https://kurier.at/sport/wintersport/flachau-slalom-premierensieg-fuer-norweger-foss-solevaag-oesv-laeufer-marco-schwarz-zweiter/401158716"
     }, {
-      "id" : "eGHquQsO",
-      "titleSource" : "Leitner verpasst Sieg in Oberhof ganz knapp",
-      "titleTarget" : "Leitner je tijesno promašio pobjedu u Oberhofu",
-      "url" : "https://sport.orf.at/stories/3071951/"
+      "id" : "GVQOKIXg",
+      "imgUrl" : "https://image.kurier.at/images/original/4877763/46-174079067.jpg",
+      "titleSource" : "Trotz Corona: Die Hahnenkammrennen in Kitzbühel finden statt",
+      "titleTarget" : "Unatoč Coroni: održavaju se utrke Hahnenkamm u Kitzbühelu",
+      "url" : "https://kurier.at/sport/wintersport/trotz-corona-die-hahnenkammrennen-in-kitzbuehel-finden-statt/401158758"
     }, {
       "id" : "dOuR92z8",
       "titleSource" : "Maier im Viererbob nur von Friedrich geschlagen",
       "titleTarget" : "Maiera je Friedrich pretukao samo u bobu s četvero ljudi",
       "url" : "https://sport.orf.at/stories/3071957/"
     }, {
+      "id" : "6TjdMruL",
+      "titleSource" : "Egle erzielt ihr bestes Weltcup-Resultat",
+      "titleTarget" : "Egle postiže svoj najbolji rezultat Svjetskog kupa",
+      "url" : "https://sport.orf.at/stories/3071966/"
+    }, {
+      "id" : "t2LanZq7",
+      "imgUrl" : "https://image.kurier.at/images/original/4878720/46-174129718.jpg",
+      "titleSource" : "Faustschlag: Lionel Messi verliert die Nerven und sieht Rot",
+      "titleTarget" : "Punch: Lionel Messi gubi živce i vidi crvenu boju",
+      "url" : "https://kurier.at/sport/fussball/faustschlag-lionel-messi-sieht-erstmals-eine-rote-karte/401159088"
+    }, {
       "id" : "UHZA2i6r",
       "titleSource" : "Foss-Solevaag gewinnt Slalom vor Schwarz",
       "titleTarget" : "Foss-Solevaag pobjeđuje u slalomu ispred crnaca",
       "url" : "https://sport.orf.at/stories/3071944/"
-    }, {
-      "id" : "zAJcsopF",
-      "titleSource" : "Bassino gewinnt erneut in Kranjska Gora",
-      "titleTarget" : "Bassino ponovno pobjeđuje u Kranjskoj Gori",
-      "url" : "https://sport.orf.at/stories/3071949/"
     } ]
   } ],
   "country" : "austria",
