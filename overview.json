@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "t1RANXyl",
-      "imgUrl" : "https://image.kurier.at/images/original/4879026/20210118-ABD0017-1-1.jpg",
-      "titleSource" : "Kurz: \"Derzeit Lieferverzögerung von 20 Prozent bei Pfizer-Impfstoff\"",
-      "titleTarget" : "Ukratko: \"Trenutno kašnjenje isporuke od 20 posto za cjepivo Pfizer\"",
-      "url" : "https://kurier.at/politik/inland/kurz-derzeit-lieferverzoegerung-von-20-prozent-bei-pfizer-impfstoff/401159313"
-    }, {
       "id" : "12rI3vl9",
       "imgUrl" : "https://image.kurier.at/images/original/4838826/20201223-ABD0015-1-1.jpg",
       "titleSource" : "Kurz will Lockdown-Ende ab 8. Februar nicht garantieren",
       "titleTarget" : "Ukratko, zaključavanje ne želi jamčiti kraj 8. veljače",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-gegen-lockdown-enddatum/401159739"
     }, {
-      "id" : "8seWCJMS",
-      "imgUrl" : "https://image.kurier.at/images/original/4848942/20201231-ABD0009-1-1.jpg",
-      "titleSource" : "Anschober gibt \"Fehler\" zu: \"Kommunikation ist der Schlüssel\"",
-      "titleTarget" : "Anschober priznaje \"pogrešku\": \"komunikacija je ključ\"",
-      "url" : "https://kurier.at/politik/inland/anschober-gibt-fehler-zu-kommunikation-ist-der-schluessel/401159031"
+      "id" : "t1RANXyl",
+      "imgUrl" : "https://image.kurier.at/images/original/4879026/20210118-ABD0017-1-1.jpg",
+      "titleSource" : "Kurz: \"Derzeit Lieferverzögerung von 20 Prozent bei Pfizer-Impfstoff\"",
+      "titleTarget" : "Ukratko: \"Trenutno kašnjenje isporuke od 20 posto za cjepivo Pfizer\"",
+      "url" : "https://kurier.at/politik/inland/kurz-derzeit-lieferverzoegerung-von-20-prozent-bei-pfizer-impfstoff/401159313"
     }, {
       "id" : "mviOgzqd",
       "imgUrl" : "https://image.kurier.at/images/original/4878750/46-174117431.jpg",
@@ -32,26 +26,32 @@
       "titleTarget" : "Pojačano zaključavanje: \"Mora doći do 700 novih infekcija\"",
       "url" : "https://kurier.at/politik/inland/xxl-lockdown-muessen-auf-700-neuinfektionen-kommen/401159070"
     }, {
-      "id" : "w7QmAu6r",
-      "imgUrl" : "https://image.kurier.at/images/original/4761519/78350011457518708_BLD_Online.jpg",
-      "titleSource" : "\"Rivalitäten\" im Grünen Klub: Maurer bekommt neue Vizeklubchefin",
-      "titleTarget" : "\"Rivalstva\" u Zelenom klubu: Maurer dobio novog šefa potpredsjedničkog kluba",
-      "url" : "https://kurier.at/politik/inland/rochade-im-gruenen-klub-maurer-bekommt-neue-vizeklubchefin/401159430"
+      "id" : "66diw1eW",
+      "imgUrl" : "https://image.kurier.at/images/original/4871700/20210114-ABD0043-1-1.jpg",
+      "titleSource" : "Kurz: \"Wenn wir kein Datum nennen, klingelt den ganzen Tag das Telefon\"",
+      "titleTarget" : "Ukratko: \"Ako ne odredimo datum, telefon će zvoniti cijeli dan\"",
+      "url" : "https://kurier.at/politik/inland/kurz-wenn-wir-kein-datum-nennen-klingelt-den-ganzen-tag-das-telefon/401160303"
     }, {
       "id" : "RUzNumtL",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "Diese Regeln gelten ab 25. Jänner",
       "titleTarget" : "Ta se pravila primjenjuju od 25. siječnja",
       "url" : "https://kurier.at/politik/inland/diese-regeln-gelten-ab-25jaenner-bis-in-den-februar-hinein/401083170"
+    }, {
+      "id" : "HiYoilbi",
+      "imgUrl" : "https://image.kurier.at/images/original/4835526/20201221-ABD0050-1-1.jpg",
+      "titleSource" : "FPÖ bringt Strafanzeige gegen Minister Anschober ein",
+      "titleTarget" : "FPÖ podnosi kaznene prijave protiv ministra Anschobera",
+      "url" : "https://kurier.at/politik/inland/fpoe-bringt-strafanzeige-gegen-minister-anschober-ein/401159919"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "spsH4ACs",
-      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
-      "titleSource" : "Schlag gegen das \"System Amazon\"",
-      "titleTarget" : "Štrajk protiv \"Amazonskog sustava\"",
-      "url" : "https://kurier.at/wirtschaft/schlag-gegen-das-system-amazon/401159082"
+      "id" : "WTQ1Pp8A",
+      "imgUrl" : "https://image.kurier.at/images/original/4875351/46-164408874.jpg",
+      "titleSource" : "Corona: FFP2-Masken gehen weg wie warme Semmeln",
+      "titleTarget" : "Corona: FFP2 maske nestaju poput vrućih kolača",
+      "url" : "https://kurier.at/wirtschaft/corona-ffp2-masken-gehen-weg-wie-warme-semmeln/401159646"
     }, {
       "id" : "BdEg3c6z",
       "imgUrl" : "https://image.kurier.at/images/original/4834635/46-170536127.jpg",
@@ -59,62 +59,44 @@
       "titleTarget" : "Corona: proizvođač zaštitne maske osuđen zbog obmanjujućeg oglašavanja",
       "url" : "https://kurier.at/wirtschaft/vki-schutzmaskenhersteller-wegen-irrefuehrender-werbung-verurteilt/401159187"
     }, {
-      "id" : "WTQ1Pp8A",
-      "imgUrl" : "https://image.kurier.at/images/original/4875351/46-164408874.jpg",
-      "titleSource" : "Corona: FFP2-Masken gehen weg wie warme Semmeln",
-      "titleTarget" : "Corona: FFP2 maske nestaju poput vrućih kolača",
-      "url" : "https://kurier.at/wirtschaft/corona-ffp2-masken-gehen-weg-wie-warme-semmeln/401159646"
+      "id" : "J971hDBZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4480247/46-163705589.jpg",
+      "titleSource" : "450 Kündigungen: Steakhaus Maredo dreht Betrieb in Deutschland zu",
+      "titleTarget" : "450 prekida: Steakhaus Maredo zatvara rad u Njemačkoj",
+      "url" : "https://kurier.at/wirtschaft/450-kuendigungen-steakhaus-maredo-dreht-betrieb-in-deutschland-zu/401159907"
     }, {
-      "id" : "KO5nJSeg",
-      "imgUrl" : "https://image.kurier.at/images/original/4611239/46-164271094.jpg",
-      "titleSource" : "Autoindustrie lehnt neuen Corona-Zwangsstopp ab",
-      "titleTarget" : "Auto industrija odbija novo obvezno zamrzavanje Corone",
-      "url" : "https://kurier.at/wirtschaft/autoindustrie-lehnt-neuen-corona-zwangsstopp-ab/401159154"
+      "id" : "FmFKFFO0",
+      "imgUrl" : "https://image.kurier.at/images/original/3434683/20190425-ABD0125-1-1.jpg",
+      "titleSource" : "Prozess um Schmiergeld in der österreichischen Baubranche",
+      "titleTarget" : "Parnice za primanje mita u austrijskoj građevinskoj industriji",
+      "url" : "https://kurier.at/wirtschaft/prozess-um-schmiergeld-in-der-oesterreichischen-baubranche/401159661"
     }, {
-      "id" : "wj0YgpBZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4878714/46-174124510.jpg",
-      "titleSource" : "Trump-Regierung verschärft Vorgehen gegen Huawei",
-      "titleTarget" : "Trumpova administracija pooštrila je akciju protiv Huaweija",
-      "url" : "https://kurier.at/wirtschaft/trump-regierung-verschaerft-vorgehen-gegen-huawei/401159091"
+      "id" : "RW0aBvPw",
+      "imgUrl" : "https://image.kurier.at/images/original/4733625/20201101-ABD0091-1-1.jpg",
+      "titleSource" : "Lockdown: Gastro-Zulieferer leiden besonders",
+      "titleTarget" : "Zaključavanje: Osobito trpe dobavljači ugostiteljskih objekata",
+      "url" : "https://kurier.at/wirtschaft/lockdown-gastro-zulieferer-leiden-besonders/401159619"
     }, {
-      "id" : "TJQEXLyz",
-      "imgUrl" : "https://image.kurier.at/images/original/4872765/46-174034409.jpg",
-      "titleSource" : "Plagiatsregeln: Zeilen, die man nie schrieb",
-      "titleTarget" : "Plagijarizam vlada: redovi koje nikada niste napisali",
-      "url" : "https://kurier.at/wirtschaft/karriere/plagiatsregeln-zeilen-die-man-nie-schrieb/401156310"
+      "id" : "dW3aWEqT",
+      "imgUrl" : "https://image.kurier.at/images/original/3957923/78370011351934400_BLD_Online.jpg",
+      "titleSource" : "Kfz-Branche ärgert sich über \"grüne Verbotspartei\"",
+      "titleTarget" : "Automobilsku industriju iznervirala \"zelena zabava\"",
+      "url" : "https://kurier.at/wirtschaft/kfz-branche-aergert-sich-ueber-gruene-verbotspartei/401160183"
     }, {
-      "id" : "m1SHqTkz",
-      "imgUrl" : "https://image.kurier.at/images/original/4518143/20200714-ABD0021-1-1.jpg",
-      "titleSource" : "Nationalbank erwartet leichten Anstieg der Inflation",
-      "titleTarget" : "Narodna banka očekuje lagani rast inflacije",
-      "url" : "https://kurier.at/wirtschaft/nationalbank-erwartet-leichten-anstieg-der-inflation/401159742"
+      "id" : "8uNyYnU0",
+      "imgUrl" : "https://image.kurier.at/images/original/4657051/46-167612712.jpg",
+      "titleSource" : "Trotz Corona: 275 Firmenübernahmen und Eigentümerwechsel",
+      "titleTarget" : "Unatoč Coroni: 275 preuzimanja tvrtki i promjene vlasništva",
+      "url" : "https://kurier.at/wirtschaft/trotz-corona-275-firmenuebernahmen-und-eigentuemerwechsel/401159538"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "BOlrkDRY",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/48/crops/w=1280/816682_opener_284748_2.jpg?s=e88f6c8165684b2ead6642e520b3a708f53204f8",
-      "titleSource" : "Hochgurgl: Motorradmuseum ausgebrannt",
-      "titleTarget" : "Hochgurgl: izgorio muzej motocikala",
-      "url" : "https://tirol.orf.at/stories/3085418/"
-    }, {
       "id" : "O76PVERi",
       "imgUrl" : "https://image.kurier.at/images/original/4871040/46-168311082.jpg",
       "titleSource" : "Gratis-FFP2-Maske für Einkommensschwache",
       "titleTarget" : "Besplatna FFP2 maska za male prihode",
       "url" : "https://kurier.at/chronik/oesterreich/gratis-ffp2-maske-fuer-einkommensschwache/401159079"
-    }, {
-      "id" : "fIrpzurd",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/47/crops/w=1280/815417_opener_284347_imaasdfsdge.ashx.jpg?s=d00c09af42927cbc5a5912ed5d24732db6b2efd1",
-      "titleSource" : "Land: Impfung-Anmeldung ab 25. Jänner",
-      "titleTarget" : "Država: Prijava cijepljenja od 25. siječnja",
-      "url" : "https://steiermark.orf.at/stories/3085449/"
-    }, {
-      "id" : "IlJajGcY",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/00/crops/w=1280/807801_opener_281600_impfungbludenz046.jpg?s=b918f6feab178087efc066a5f20d2c5f46adce22",
-      "titleSource" : "Ab heute für Impfungen vormerken lassen",
-      "titleTarget" : "Prijavite se za cijepljenje od danas",
-      "url" : "https://vorarlberg.orf.at/stories/3085407/"
     }, {
       "id" : "cFVKIOIh",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/59/crops/w=1280/816688_opener_284759_ffp2_maske2.jpg?s=663390912ad7c2efec4b09abd2b5a932749a6c02",
@@ -122,31 +104,54 @@
       "titleTarget" : "Proizvođač maske FFP2 iz Graza \"iznenađen\"",
       "url" : "https://steiermark.orf.at/stories/3085547/"
     }, {
+      "id" : "xXOGmrDf",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/28/crops/w=1280/815362_opener_284328_demo23.jpg?s=98db6cadbd34adbaa1f931cafa10e87db4611d8f",
+      "titleSource" : "CoV-Demos: Nehammer lässt Einsatz evaluieren",
+      "titleTarget" : "Demonstracije CoV: Nehammer je procijenio raspoređivanje",
+      "url" : "https://wien.orf.at/stories/3085550/"
+    }, {
+      "id" : "0ew7eeIT",
+      "imgUrl" : "https://image.kurier.at/images/original/4879443/46-174136237.jpg",
+      "titleSource" : "Großbrand: Tiroler Motorradmuseum vollkommen abgebrannt",
+      "titleTarget" : "Veliki požar: Tirolski muzej motocikala potpuno je izgorio",
+      "url" : "https://kurier.at/chronik/oesterreich/grossbrand-in-tiroler-motorradmuseum-ausgebrochen/401159577"
+    }, {
+      "id" : "a502G8pt",
+      "titleSource" : "71-Jährige stirbt bei Unfall auf S31",
+      "titleTarget" : "71-godišnjak je smrtno stradao u nesreći na S31",
+      "url" : "https://burgenland.orf.at/stories/3085564/"
+    }, {
       "id" : "pF34rVbw",
       "imgUrl" : "https://image.kurier.at/images/original/4879524/46-174085634.jpg",
       "titleSource" : "Mehr als 300.000 Voranmeldungen für Corona-Impfung in NÖ und Wien",
       "titleTarget" : "Više od 300 000 predbilježbi za cijepljenje koronom u Donjoj Austriji i Beču",
       "url" : "https://kurier.at/chronik/oesterreich/mehr-als-300000-voranmeldungen-fuer-corona-impfung-in-noe-und-wien/401159634"
     }, {
-      "id" : "73jGkNCF",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/29/43/crops/w=1280/225789_opener_64143_polizeihubschrauber_salzburg_04_o.jpg?s=ea97741c085755ab85de6fb18d046c41dc7bf8de",
-      "titleSource" : "Gefrorene Leiche in Berghütte entdeckt",
-      "titleTarget" : "Otkriven smrznuti leš u planinskoj kolibi",
-      "url" : "https://vorarlberg.orf.at/stories/3085488/"
+      "id" : "Mx1gSTaX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/50/29/crops/w=1280/781269_opener_270629_20201023_pd2018.hr.jpg?s=d5900fed1d782c391bf65e19a8a7db28a073eea9",
+      "titleSource" : "80 fixe Covid-Teststationen ab 25. Jänner",
+      "titleTarget" : "80 fiksnih ispitnih stanica Covid od 25. siječnja",
+      "url" : "https://noe.orf.at/stories/3085548/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "kOBkAZBo",
-      "titleSource" : "WKStA blitzt gegen \"Presse\" ab",
-      "titleTarget" : "WKStA bljesne protiv \"tiska\"",
-      "url" : "https://www.diepresse.com/5924210/WKStA-blitzt-gegen-Presse-ab?from=rss"
+      "id" : "oEqoOTUA",
+      "imgUrl" : "https://image.kurier.at/images/original/4880103/imzentrumtotale.jpg",
+      "titleSource" : "Experte in ORF-Talk: \"Mit Dorfmannschaft in der Champions League\"",
+      "titleTarget" : "Stručnjak za razgovor ORF-a: \"Sa seoskim timom u Ligi prvaka\"",
+      "url" : "https://kurier.at/kultur/medien/experte-im-orf-talk-ueber-langen-corona-lockdown-mit-dorfmannschaft-in-der-champions-league/401159880"
     }, {
       "id" : "XOtLwnWJ",
       "imgUrl" : "https://image.kurier.at/images/original/4880448/46-174088498.jpg",
       "titleSource" : "Plácido Domingo: Jahrhundertsänger mit Stehaufqualitäten",
       "titleTarget" : "Plácido Domingo: pjevač iz stoljeća s uspravnim kvalitetama",
       "url" : "https://kurier.at/kultur/placido-domingo-jahrhundertsaenger-mit-stehaufqualitaeten/401160069"
+    }, {
+      "id" : "kOBkAZBo",
+      "titleSource" : "WKStA blitzt gegen \"Presse\" ab",
+      "titleTarget" : "WKStA bljesne protiv \"tiska\"",
+      "url" : "https://www.diepresse.com/5924210/WKStA-blitzt-gegen-Presse-ab?from=rss"
     }, {
       "id" : "hhne63Go",
       "imgUrl" : "https://image.kurier.at/images/original/4620632/20200907-ABD0059-1-1.jpg",
@@ -159,12 +164,6 @@
       "titleSource" : "TV-Quoten 2020: ORF2 dominiert, Privatsender behaupten sich",
       "titleTarget" : "TV ocjene 2020: ORF2 dominira, privatni emiteri se drže svoje",
       "url" : "https://kurier.at/kultur/medien/tv-quoten-2020-orf2-dominiert-privatsender-behaupten-sich/401159658"
-    }, {
-      "id" : "oEqoOTUA",
-      "imgUrl" : "https://image.kurier.at/images/original/4880103/imzentrumtotale.jpg",
-      "titleSource" : "Experte in ORF-Talk: \"Mit Dorfmannschaft in der Champions League\"",
-      "titleTarget" : "Stručnjak za razgovor ORF-a: \"Sa seoskim timom u Ligi prvaka\"",
-      "url" : "https://kurier.at/kultur/medien/experte-im-orf-talk-ueber-langen-corona-lockdown-mit-dorfmannschaft-in-der-champions-league/401159880"
     }, {
       "id" : "eCpuO61G",
       "imgUrl" : "https://image.kurier.at/images/original/1902133/louvre2_epa.jpg",
@@ -184,33 +183,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "LbyOElzJ",
-      "titleSource" : "Schröcksnadel bürgt für sichere Kitz-Rennen",
-      "titleTarget" : "Schröcksnadel jamči sigurne Kitz utrke",
-      "url" : "https://sport.orf.at/stories/3071962/"
+      "id" : "NMnjcvCH",
+      "titleSource" : "Weltverband entzieht Weißrussland die WM",
+      "titleTarget" : "Svjetska federacija povukla je Svjetsko prvenstvo iz Bjelorusije",
+      "url" : "https://sport.orf.at/stories/3071998/"
     }, {
-      "id" : "cwPqs2cl",
-      "imgUrl" : "https://image.kurier.at/images/original/4878873/46-174132327.jpg",
-      "titleSource" : "Japans Regierungschef hält an Olympia-Planung fest",
-      "titleTarget" : "Japanski šef vlade drži se olimpijskog planiranja",
-      "url" : "https://kurier.at/sport/japans-regierungschef-haelt-an-olympia-planung-fest/401159193"
+      "id" : "ePQxmBUq",
+      "titleSource" : "Harte Strafe für Rapids Fountas nach Testspiel-Eklat",
+      "titleTarget" : "Teška kazna za Rapids Fountas nakon skandala na test utakmici",
+      "url" : "https://sport.orf.at/stories/3072000/"
     }, {
-      "id" : "6TjdMruL",
-      "titleSource" : "Egle erzielt ihr bestes Weltcup-Resultat",
-      "titleTarget" : "Egle postiže svoj najbolji rezultat Svjetskog kupa",
-      "url" : "https://sport.orf.at/stories/3071966/"
-    }, {
-      "id" : "6EomEZhJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4879605/46-173479253.jpg",
-      "titleSource" : "Maximilian Ullmann zum \"Rapidler des Jahres 2020\" gewählt",
-      "titleTarget" : "Maximilian Ullmann proglašen je \"Rapidlerom godine 2020\"",
-      "url" : "https://kurier.at/sport/fussball/fussball-maximilian-ullmann-zum-rapidler-des-jahres-2020-gewaehlt/401159700"
-    }, {
-      "id" : "t2LanZq7",
-      "imgUrl" : "https://image.kurier.at/images/original/4878720/46-174129718.jpg",
-      "titleSource" : "Faustschlag: Lionel Messi verliert die Nerven und sieht Rot",
-      "titleTarget" : "Punch: Lionel Messi gubi živce i vidi crvenu boju",
-      "url" : "https://kurier.at/sport/fussball/faustschlag-lionel-messi-sieht-erstmals-eine-rote-karte/401159088"
+      "id" : "ZgcsSrDU",
+      "imgUrl" : "https://image.kurier.at/images/original/4880784/46-173857962.jpg",
+      "titleSource" : "Party mit 15 leicht bekleideten Damen - Embolo fliegt raus",
+      "titleTarget" : "Zabava s 15 oskudno odjevenih žena - Embolo je izbačen",
+      "url" : "https://kurier.at/sport/fussball/party-mit-15-leicht-bekleideten-damen-embolo-fliegt-raus/401160267"
     }, {
       "id" : "TpGT0EpQ",
       "titleSource" : "72 Athleten in Vollisolation",
@@ -221,6 +208,17 @@
       "titleSource" : "Österreicher hoffen auf Sensation",
       "titleTarget" : "Austrijanci se nadaju senzaciji",
       "url" : "https://sport.orf.at/stories/3071935/"
+    }, {
+      "id" : "6EomEZhJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4879605/46-173479253.jpg",
+      "titleSource" : "Maximilian Ullmann zum \"Rapidler des Jahres 2020\" gewählt",
+      "titleTarget" : "Maximilian Ullmann proglašen je \"Rapidlerom godine 2020\"",
+      "url" : "https://kurier.at/sport/fussball/fussball-maximilian-ullmann-zum-rapidler-des-jahres-2020-gewaehlt/401159700"
+    }, {
+      "id" : "a2KH6dQE",
+      "titleSource" : "Norwegen erteilt Österreich Lektion",
+      "titleTarget" : "Norveška drži Austriju lekciju",
+      "url" : "https://sport.orf.at/stories/3072001/"
     } ]
   } ],
   "country" : "austria",
