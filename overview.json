@@ -2,23 +2,35 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "zIMYwTVl",
-      "imgUrl" : "https://image.kurier.at/images/original/4863828/20210110-ABD0066-1-1.jpg",
-      "titleSource" : "Kurz machen geimpfte Bürgermeister \"zornig\"",
-      "titleTarget" : "Ukratko, cijepljeni gradonačelnici vas čine \"bijesnima\"",
-      "url" : "https://kurier.at/politik/inland/kurz-machen-geimpfte-buergermeister-zornig/401161806"
+      "id" : "E6DABbiG",
+      "imgUrl" : "https://image.kurier.at/images/original/4874313/20210115-ABD0041-1-1.jpg",
+      "titleSource" : "Anschober: \"Februar und März schwierigste Phase der Pandemie\"",
+      "titleTarget" : "Anschober: \"Najteža faza pandemije u veljači i ožujku\"",
+      "url" : "https://kurier.at/politik/inland/live-gesundheitsminister-und-experten-zu-virus-mutation/401162823"
     }, {
-      "id" : "rSsgXaA2",
-      "imgUrl" : "https://image.kurier.at/images/original/4883181/20210120-ABD0033-1-1.jpg",
-      "titleSource" : "Kogler zu Wirtschaftshilfen: \"'Alles, was es braucht' gilt immer noch\"",
-      "titleTarget" : "Kogler o ekonomskoj pomoći: \"\" Sve što je potrebno \"i dalje vrijedi\"",
-      "url" : "https://kurier.at/politik/inland/alles-was-es-braucht-gilt-immer-noch/401161629"
+      "id" : "LKKaziIL",
+      "imgUrl" : "https://image.kurier.at/images/original/4885446/46-174117784.jpg",
+      "titleSource" : "EU-Gipfel: Kurz fordert erneut rasche Impfstoff-Zulassung",
+      "titleTarget" : "Summit EU: Kurz još jednom poziva na brzo odobravanje cjepiva",
+      "url" : "https://kurier.at/politik/inland/eu-gipfel-kurz-fordert-erneut-rasche-impfstoff-zulassung/401162781"
     }, {
       "id" : "y5j5lLdM",
       "imgUrl" : "https://image.kurier.at/images/original/3681923/20190805-ABD0005-1-1.jpg",
       "titleSource" : "Parteienförderung: ÖVP für Einfrieren, Grüne fordern mehr Transparenz",
       "titleTarget" : "Promocija političkih stranaka: ÖVP za zamrzavanje, Zeleni traže veću transparentnost",
       "url" : "https://kurier.at/politik/inland/parteienfoerderung-oevp-fuer-einfrieren-gruene-fordern-mehr-transparenz/401162145"
+    }, {
+      "id" : "4bCRMaD1",
+      "imgUrl" : "https://image.kurier.at/images/original/4257854/46-145695962.jpg",
+      "titleSource" : "SPÖ will heuer am 1. Mai wieder marschieren",
+      "titleTarget" : "SPÖ želi ponovno marširati 1. svibnja ove godine",
+      "url" : "https://kurier.at/politik/inland/spoe-will-heuer-am-1-mai-wieder-marschieren/401162790"
+    }, {
+      "id" : "uPJIxlyD",
+      "imgUrl" : "https://image.kurier.at/images/original/4238807/78350011454038786_BLD_Online.jpg",
+      "titleSource" : "Corona: Semesterzeugnis diesmal als Zwickmühle für Lehrer",
+      "titleTarget" : "Corona: Semestarski izvještaj ovaj put kao dilemu za učitelje",
+      "url" : "https://kurier.at/politik/inland/corona-semesterzeugnis-diesmal-als-zwickmuehle-fuer-lehrer/401162775"
     }, {
       "id" : "BT5YPC4z",
       "imgUrl" : "https://image.kurier.at/images/original/4883547/20210120-ABD0065-1-1.jpg",
@@ -31,33 +43,21 @@
       "titleSource" : "Blümel hat Budget- und Präsidialsektion neu besetzt",
       "titleTarget" : "Blümel je regrutirao proračunske i predsjedničke odsjeke",
       "url" : "https://kurier.at/politik/inland/bluemel-hat-budget-und-praesidialsektion-neu-besetzt/401162040"
-    }, {
-      "id" : "VMkGqQGW",
-      "imgUrl" : "https://image.kurier.at/images/original/4882557/46-174160390.jpg",
-      "titleSource" : "Rektoren-Chefin Seidler fürchtet mehr Studienabbrüche",
-      "titleTarget" : "Rektorski šef Seidler boji se još odustajanja",
-      "url" : "https://kurier.at/politik/inland/rektoren-chefin-seidler-fuerchtet-mehr-studienabbrueche/401161392"
-    }, {
-      "id" : "Fw4M0Ry1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/0/c/5925388/Biden_h.jpg",
-      "titleSource" : "Joe Biden ist neuer US-Präsident",
-      "titleTarget" : "Joe Biden novi je američki predsjednik",
-      "url" : "https://www.diepresse.com/5925388/TickerNachlese_Joe-Biden-ist-neuer-USPraesident?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "tRxJPfVe",
-      "imgUrl" : "https://image.kurier.at/images/original/3779786/78370011350597492_BLD_Online.jpg",
-      "titleSource" : "Nachzahlung für Arbeitslose in Schulungen und Reha",
-      "titleTarget" : "Doplata za nezaposlene na osposobljavanju i rehabilitaciji",
-      "url" : "https://kurier.at/wirtschaft/nachzahlung-fuer-arbeitslose-in-schulungen-und-reha/401162178"
-    }, {
       "id" : "MR8r7LEN",
       "imgUrl" : "https://image.kurier.at/images/original/3785816/78370011350638546_BLD_Online.jpg",
       "titleSource" : "Douglas soll europaweit 500 Filialen schließen",
       "titleTarget" : "Douglas će zatvoriti 500 podružnica diljem Europe",
       "url" : "https://kurier.at/wirtschaft/douglas-soll-europaweit-500-filialen-zu-schliessen/401162361"
+    }, {
+      "id" : "tRxJPfVe",
+      "imgUrl" : "https://image.kurier.at/images/original/3779786/78370011350597492_BLD_Online.jpg",
+      "titleSource" : "Nachzahlung für Arbeitslose in Schulungen und Reha",
+      "titleTarget" : "Doplata za nezaposlene na osposobljavanju i rehabilitaciji",
+      "url" : "https://kurier.at/wirtschaft/nachzahlung-fuer-arbeitslose-in-schulungen-und-reha/401162178"
     }, {
       "id" : "ZvxP8r96",
       "imgUrl" : "https://image.kurier.at/images/original/4884375/46-143501589.jpg",
@@ -65,17 +65,11 @@
       "titleTarget" : "Nakon 400 godina za salzburšku pekaru",
       "url" : "https://kurier.at/wirtschaft/aus-nach-400-jahren-fuer-salzburger-baeckerei/401162385"
     }, {
-      "id" : "3yzpGFmK",
-      "imgUrl" : "https://image.kurier.at/images/original/3760907/81771351250459672_BLD_Online.jpg",
-      "titleSource" : "Top-Manager starten Initiative gegen Klimawandel",
-      "titleTarget" : "Top menadžeri pokreću inicijativu protiv klimatskih promjena",
-      "url" : "https://kurier.at/wirtschaft/top-manager-starten-initiative-gegen-klimawandel/401162115"
-    }, {
-      "id" : "RrUACnun",
-      "imgUrl" : "https://image.kurier.at/images/original/4882854/46-174095220.jpg",
-      "titleSource" : "Neue Datenschutzregeln bei WhatsApp: Änderungen \"kosmetischer Natur\"",
-      "titleTarget" : "Nova pravila o zaštiti podataka za WhatsApp: promjene \"kozmetičke prirode\"",
-      "url" : "https://kurier.at/wirtschaft/neue-datenschutzregeln-bei-whatsapp-aenderungen-kosmetischer-natur/401161578"
+      "id" : "VFciOspX",
+      "imgUrl" : "https://image.kurier.at/images/original/4810464/78370011357895654_BLD_Online.jpg",
+      "titleSource" : "Flughafen Wien erwartet 2021 wieder bis zu 12,5 Millionen Passagiere",
+      "titleTarget" : "Bečka zračna luka ponovno očekuje do 12,5 milijuna putnika 2021. godine",
+      "url" : "https://kurier.at/wirtschaft/flughafen-wien-erwartet-2021-wieder-bis-zu-125-millionen-passagiere/401162835"
     }, {
       "id" : "BYoCmL7L",
       "imgUrl" : "https://media.diepresse.com/images/uploads/a/8/7/5925511/-THEMENBILD--CORONA-DRITTER-LOCKDOWN--HANDEL_1611157949678471_v0_l.jpg",
@@ -83,11 +77,17 @@
       "titleTarget" : "Posebna pravila u stečajnom zakonu: nisu svi vjerovnici jednaki",
       "url" : "https://www.diepresse.com/5925511/CovidSondergesetze_Sonderregeln-im-Insolvenzrecht_Nicht-alle?from=rss"
     }, {
-      "id" : "UW0N2d5L",
-      "imgUrl" : "https://image.kurier.at/images/original/1009305/supermarkt.jpg",
-      "titleSource" : "Mieten, Strom und Lebensmittel treiben Inflation",
-      "titleTarget" : "Najam, struja i hrana pokretači su inflacije",
-      "url" : "https://kurier.at/wirtschaft/inflation-sank-2020-auf-14-prozent/401161668"
+      "id" : "3yzpGFmK",
+      "imgUrl" : "https://image.kurier.at/images/original/3760907/81771351250459672_BLD_Online.jpg",
+      "titleSource" : "Top-Manager starten Initiative gegen Klimawandel",
+      "titleTarget" : "Top menadžeri pokreću inicijativu protiv klimatskih promjena",
+      "url" : "https://kurier.at/wirtschaft/top-manager-starten-initiative-gegen-klimawandel/401162115"
+    }, {
+      "id" : "SSXCxRRg",
+      "imgUrl" : "https://image.kurier.at/images/original/4825230/20201216-ABD0068-1-1.jpg",
+      "titleSource" : "VW will mit \"Trinity\" autonomes Fahren massentauglich machen",
+      "titleTarget" : "VW želi autonomnu vožnju učiniti prikladnom za mase sa \"Trinity\"",
+      "url" : "https://kurier.at/wirtschaft/vw-will-mit-trinity-autonomes-fahren-massentauglich-machen/401162628"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -110,6 +110,12 @@
       "titleTarget" : "3,8 milijuna dodatnih doza cjepiva Biontech za Austriju",
       "url" : "https://kurier.at/chronik/oesterreich/38-millionen-biontech-impfdosen-zusaetzlich-fuer-oesterreich/401162112"
     }, {
+      "id" : "7XeXbdvI",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/51/59/crops/w=1280/657471_opener_132459_unfallkrankenhaus_lorenz_boehler_03_coe.jpg?s=7adf860196027912100f4bf5bd0deab3035933bb",
+      "titleSource" : "Lorenz-Böhler-Spital: Schließung vom Tisch",
+      "titleTarget" : "Lorenz-Böhler-Spital: Zatvaranje stola",
+      "url" : "https://wien.orf.at/stories/3086031/"
+    }, {
       "id" : "5lUViHh1",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/58/crops/w=1280/819676_opener_285858_20210120_situation_kindergaerten_00_02_15_14.jpg?s=5485acce8c76a520bdce5e57645335a65c7475b8",
       "titleSource" : "Kindergärtnerinnen fordern besseren Schutz",
@@ -122,17 +128,11 @@
       "titleTarget" : "Doktor je na demonstracijama Corone ometao \"zdravstvenu diktaturu\"",
       "url" : "https://kurier.at/chronik/oesterreich/aerztin-bei-corona-demo-alte-werden-mit-impfstoffen-erledigt/401161977"
     }, {
-      "id" : "xmf3gD4N",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.671 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.671 nova infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1671-neue-corona-infektionen-in-oesterreich/401161611"
-    }, {
-      "id" : "3YnPquqJ",
-      "imgUrl" : "https://image.kurier.at/images/original/3868184/78350011451286856_BLD_Online.jpg",
-      "titleSource" : "Erneutes Erdbeben in der Obersteiermark",
-      "titleTarget" : "Još jedan potres u Gornjoj Štajerskoj",
-      "url" : "https://kurier.at/chronik/oesterreich/erneutes-erdbeben-im-sueden-oesterreich/401161647"
+      "id" : "PBYwQPzm",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/12/crops/w=1280/819853_opener_285912_210120_ooeh_v1_musikvereine_in_der_coronakrise_00012920.jpg?s=08382b3035092cf6e3ed764268a5049db5126282",
+      "titleSource" : "Musikvereine leiden unter „Corona-Stille“",
+      "titleTarget" : "Glazbene udruge pate od \"Corona tišine\"",
+      "url" : "https://ooe.orf.at/stories/3086021/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,23 +143,17 @@
       "titleTarget" : "Filmska adaptacija olimpijske pobjede Franza Klammera: Austrijsko slijetanje na mjesec",
       "url" : "https://kurier.at/kultur/verfilmung-von-franz-klammers-olympiasieg-oesterreichs-mondlandung/401162526"
     }, {
-      "id" : "ABHGBol2",
-      "imgUrl" : "https://image.kurier.at/images/original/4882464/46-61099034.jpg",
-      "titleSource" : "... und wieder 18 Bücher, ganz kurz",
-      "titleTarget" : "... i opet 18 knjiga, vrlo kratko",
-      "url" : "https://kurier.at/kultur/buch/und-wieder-18-buecher-ganz-kurz/401161356"
+      "id" : "oFVnEaiY",
+      "imgUrl" : "https://image.kurier.at/images/original/4885599/46-174204038.jpg",
+      "titleSource" : "Zum Nachschauen: Springsteen, Gaga, Lopez singen für Joe Biden",
+      "titleTarget" : "Da vidim: Springsteen, Gaga, Lopez pjevaju za Joea Bidena",
+      "url" : "https://kurier.at/kultur/zum-nachschauen-springsteen-gaga-lopez-singen-fuer-joe-biden/401162922"
     }, {
-      "id" : "OYcB7XAM",
-      "imgUrl" : "https://image.kurier.at/images/original/4882617/46-174156871.jpg",
-      "titleSource" : "\"Sörensen hat Angst\": Bjarne Mädel als kauziger Ermittler",
-      "titleTarget" : "\"Sörensen se boji\": Bjarne Mädel kao znatiželjni istražitelj",
-      "url" : "https://kurier.at/kultur/medien/soerensen-hat-angst-bjarne-maedel-als-kauziger-ermittler/401161425"
-    }, {
-      "id" : "cwumNT7A",
-      "imgUrl" : "https://image.kurier.at/images/original/4878303/46-174056196.jpg",
-      "titleSource" : "Henk Schiffmachers \"Tattoo\": Der Körper als Tagebuch",
-      "titleTarget" : "\"Tetovaža\" Henka Schiffmachera: Tijelo kao dnevnik",
-      "url" : "https://kurier.at/kultur/henk-schiffmachers-tattoo-der-koerper-als-tagebuch/401158902"
+      "id" : "LYP7O7wT",
+      "imgUrl" : "https://image.kurier.at/images/original/3907091/46-150651236.jpg",
+      "titleSource" : "Rapper Drake verschiebt erneut Veröffentlichung seines Albums",
+      "titleTarget" : "Reper Drake ponovno odgađa izlazak svog albuma",
+      "url" : "https://kurier.at/kultur/rapper-drake-verschiebt-erneut-veroeffentlichung-seines-albums/401162856"
     }, {
       "id" : "qMDXJU4e",
       "imgUrl" : "https://image.kurier.at/images/original/4884921/46-174190227.jpg",
@@ -173,11 +167,17 @@
       "titleTarget" : "Skijaški filmovi: Dvije ploče, puno snijega - ali ne uvijek sjajno",
       "url" : "https://kurier.at/kultur/skifilme-zwei-brettl-a-gfuehriger-schnee-aber-nicht-immer-juchhe/401162523"
     }, {
-      "id" : "giCXYABk",
-      "imgUrl" : "https://image.kurier.at/images/original/4882887/46-101811715.jpg",
-      "titleSource" : "Musiker Van Morrison will gegen Kulturlockdown klagen",
-      "titleTarget" : "Glazbenik Van Morrison želi tužiti protiv zatvaranja kulture",
-      "url" : "https://kurier.at/kultur/musiker-van-morrison-will-gegen-kulturlockdown-klagen/401161620"
+      "id" : "e8LcPP0Z",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/6/c/5925740/erkurt_16112222418361.jpg",
+      "titleSource" : "Neue Medienprojekte: Melisa Erkurt, Stefan Apfl",
+      "titleTarget" : "Projekti novih medija: Melisa Erkurt, Stefan Apfl",
+      "url" : "https://www.diepresse.com/5925740/Medien_Neue-Medienprojekte_Melisa-Erkurt-Stefan-Apfl?from=rss"
+    }, {
+      "id" : "xPJOcPPz",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/a/5925546/ED20D040-CD42-4E73-86F2-B17826B0B433_v0_h.jpg",
+      "titleSource" : "Sky-Serie \"Your Honor\": Düsteres Bild der Justiz in den USA",
+      "titleTarget" : "Sky serija \"Vaša visosti\": tmurna slika pravde u SAD-u",
+      "url" : "https://www.diepresse.com/5925546/Streaming_SkySerie-Your-Honor_Duesteres-Bild-der-Justiz-in-den-USA?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,22 +185,33 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "PTRviDb2",
-      "imgUrl" : "https://image.kurier.at/images/original/4883235/46-173934891.jpg",
-      "titleSource" : "Gregor Schlierenzauer fliegt aus dem Weltcup-Team",
-      "titleTarget" : "Gregor Schlierenzauer izbačen je iz momčadi Svjetskog kupa",
-      "url" : "https://kurier.at/sport/wintersport/gregor-schlierenzauer-fliegt-aus-dem-weltcup-team/401161917"
+      "id" : "4xPYZv2V",
+      "titleSource" : "Real blamiert sich im Cup gegen Drittligisten",
+      "titleTarget" : "Real se posramio u kupu protiv trećeligaša",
+      "url" : "https://sport.orf.at/stories/3072083/"
     }, {
-      "id" : "FJAW8a3U",
-      "titleSource" : "Quarterback-Star Rivers beendet NFL-Karriere",
-      "titleTarget" : "Quarterback zvijezda Rivers završava NFL karijeru",
-      "url" : "https://sport.orf.at/stories/3072065/"
+      "id" : "QeYNMta3",
+      "imgUrl" : "https://image.kurier.at/images/original/4677607/46-165982262.jpg",
+      "titleSource" : "„Um ein Drittel weniger“: Conference League in Finanznöten?",
+      "titleTarget" : "\"Za trećinu manje\": Liga konferencije u financijskim poteškoćama?",
+      "url" : "https://kurier.at/sport/fussball/um-ein-drittel-weniger-conference-league-der-uefa-vor-start-in-finanznoeten/401162394"
     }, {
       "id" : "1EMaY5yK",
       "imgUrl" : "https://image.kurier.at/images/original/4884069/46-169053739.jpg",
       "titleSource" : "Sturm-Trainer Ilzer will die Fountas-Sperre nicht überbewerten",
       "titleTarget" : "Trener Sturma Ilzer ne želi precijeniti zabranu Fountasa",
       "url" : "https://kurier.at/sport/fussball/sturm-trainer-ilzer-will-vor-dem-duell-mit-rapid-die-fountas-sperre-nicht-ueberbewerten/401162265"
+    }, {
+      "id" : "GoTJoobG",
+      "imgUrl" : "https://image.kurier.at/images/original/4885350/46-174073192.jpg",
+      "titleSource" : "Real Madrid blamiert sich im Cup bei einem Drittligisten",
+      "titleTarget" : "Real Madrid se osramotio u kupu u trećeligaškom klubu",
+      "url" : "https://kurier.at/sport/fussball/real-madrid-blamiert-sich-im-cup-bei-einem-drittligisten/401162712"
+    }, {
+      "id" : "FJAW8a3U",
+      "titleSource" : "Quarterback-Star Rivers beendet NFL-Karriere",
+      "titleTarget" : "Quarterback zvijezda Rivers završava NFL karijeru",
+      "url" : "https://sport.orf.at/stories/3072065/"
     }, {
       "id" : "Rjdpnk5U",
       "imgUrl" : "https://image.kurier.at/images/original/4885083/46-174185085.jpg",
@@ -212,16 +223,6 @@
       "titleSource" : "WM nimmt in Monte Carlo Fahrt auf",
       "titleTarget" : "WM ubrzava u Monte Carlu",
       "url" : "https://sport.orf.at/stories/3072016/"
-    }, {
-      "id" : "QhEGBwQc",
-      "titleSource" : "Ortlieb droht nach Sturz Saisonende",
-      "titleTarget" : "Ortlieb prijeti završnicom sezone nakon svog pada",
-      "url" : "https://sport.orf.at/stories/3072059/"
-    }, {
-      "id" : "gHPlnQTP",
-      "titleSource" : "Offensivspieler Möschl zurück bei Ried",
-      "titleTarget" : "Ofanzivni igrač Möschl vratio se u Ried",
-      "url" : "https://sport.orf.at/stories/3072072/"
     } ]
   } ],
   "country" : "austria",
