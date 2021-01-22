@@ -2,35 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kzBoztaM",
-      "imgUrl" : "https://image.kurier.at/images/original/4886241/46-108111384.jpg",
-      "titleSource" : "Lienzer SPÖ-Bürgermeisterin Blanik ließ sich ebenfalls impfen",
-      "titleTarget" : "Cijepljen je i gradonačelnik Lienz SPÖ Blanik",
-      "url" : "https://kurier.at/politik/inland/lienzer-spoe-buergermeisterin-blanik-liess-sich-ebenfalls-impfen/401163300"
+      "id" : "1fbql0ur",
+      "imgUrl" : "https://image.kurier.at/images/original/4889784/46-174153902.jpg",
+      "titleSource" : "Österreichs Impfplan wackelt: Astra Zeneca liefert wohl nur Bruchteil seines Impfstoffs",
+      "titleTarget" : "Austrijski plan cijepljenja klimav je: Astra Zeneca vjerojatno isporučuje samo dio svog cjepiva",
+      "url" : "https://kurier.at/politik/inland/astrazenca-duerfte-nur-einen-bruchteil-impfstoff-liefern/401164989"
     }, {
-      "id" : "o5BptwzM",
-      "imgUrl" : "https://image.kurier.at/images/original/4868022/20210112-ABD0149-1-1.jpg",
-      "titleSource" : "U-Ausschuss: Kathrin Glock beschwert sich bei Gewessler wegen Abberufung",
-      "titleTarget" : "Odbor U: Kathrin Glock žali se Gewessleru zbog otkaza",
-      "url" : "https://kurier.at/politik/inland/u-ausschuss-kathrin-glock-ruegt-in-brief-gewessler-wegen-abberufung/401163381"
-    }, {
-      "id" : "Qzt1C3SV",
-      "imgUrl" : "https://image.kurier.at/images/original/4879674/20210118-ABD0064-1-1.jpg",
-      "titleSource" : "Corona: Mittlerweile rund ein Viertel der Kinder an Schulen",
-      "titleTarget" : "Corona: sada oko četvrtine djece u školama",
-      "url" : "https://kurier.at/politik/inland/corona-mittlerweile-rund-ein-viertel-der-kinder-an-schulen/401163771"
-    }, {
-      "id" : "8bdMqdOE",
-      "imgUrl" : "https://image.kurier.at/images/original/4879464/20210118-ABD0039-1-1.jpg",
-      "titleSource" : "Rendi-Wagner zu Bürgermeistern: Impfprogramm ist kein Selbstbedienungsladen",
-      "titleTarget" : "Rendi-Wagner gradonačelnicima: Program cijepljenja nije samoposluga",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-zu-buergermeistern-impfprogramm-ist-kein-selbstbedienungsladen/401163390"
-    }, {
-      "id" : "lomijTO8",
-      "imgUrl" : "https://image.kurier.at/images/original/4875786/impfen_c_apa_georg_hochmuth.jpg",
-      "titleSource" : "Impfung: Ärztekammer urgiert fehlende Umsetzungsverordnung",
-      "titleTarget" : "Cijepljenje: Liječničko udruženje poziva na nedostajanje provedbenih propisa",
-      "url" : "https://kurier.at/politik/inland/impfung-aerztekammer-urgiert-fehlende-umsetzungsverordnung/401163729"
+      "id" : "6ZbZSSXz",
+      "imgUrl" : "https://image.kurier.at/images/original/4869624/20210113-ABD0022-1-1.jpg",
+      "titleSource" : "Anschober gibt mit Impf-Experten \"Update\": Keine Sorge wegen Kinderwunsch",
+      "titleTarget" : "Anschober daje \"novosti\" sa stručnjacima za cijepljenje: Ne brinite hoćete li imati djecu",
+      "url" : "https://kurier.at/politik/inland/anschober-gibt-mit-experten-update-zur-impfung/401164629"
     }, {
       "id" : "koDHsJAm",
       "imgUrl" : "https://image.kurier.at/images/original/4888422/raab3810f297-f099-4a91-81c9-e0edd4c75c5b.jpg",
@@ -38,146 +20,164 @@
       "titleTarget" : "\"1 + 1 = 3 ❤️\": Ministar Raab je trudna, beba u srpnju",
       "url" : "https://kurier.at/politik/inland/113-ministerin-raab-ist-schwanger-baby-im-juli/401164407"
     }, {
-      "id" : "jJOvbgsh",
-      "imgUrl" : "https://image.kurier.at/images/original/3155651/46-110433202.jpg",
-      "titleSource" : "GPA: \"Finanzministerium blockiert Homeoffice-Regelung\"",
-      "titleTarget" : "GPA: \"Ministarstvo financija blokira propise o kućnim uredima\"",
-      "url" : "https://kurier.at/politik/inland/gpa-finanzministerium-blockiert-homeoffice-regelung/401163528"
+      "id" : "LfKFZtbg",
+      "imgUrl" : "https://image.kurier.at/images/original/4888608/46-174209491.jpg",
+      "titleSource" : "Anschober: Bürgermeister nur bei freiwilliger Tätigkeit vorgezogen",
+      "titleTarget" : "Anschober: Gradonačelnik je preferirao samo dobrovoljni rad",
+      "url" : "https://kurier.at/politik/inland/anschober-buergermeister-nur-bei-freiwilliger-taetigkeit-vorgezogen/401164362"
+    }, {
+      "id" : "1RNTQnf4",
+      "imgUrl" : "https://image.kurier.at/images/original/4888539/46-174079967.jpg",
+      "titleSource" : "1-2-3-Ticket: Nach Salzburg auch Tirol und Vorarlberg an Bord",
+      "titleTarget" : "1-2-3 karta: Nakon Salzburga također Tirol i Vorarlberg na brodu",
+      "url" : "https://kurier.at/politik/inland/1-2-3-ticket-nach-salzburg-auch-tirol-und-vorarlberg-an-bord/401164458"
+    }, {
+      "id" : "8T98zEkx",
+      "imgUrl" : "https://image.kurier.at/images/original/4890420/46-174085092.jpg",
+      "titleSource" : "Um 1,4 Millionen Impfdosen weniger bis Ende März",
+      "titleTarget" : "1,4 milijuna manje doza cjepiva do kraja ožujka",
+      "url" : "https://kurier.at/politik/inland/um-14-millionen-impfdosen-weniger-bis-ende-maerz/401165298"
+    }, {
+      "id" : "nSZwmOhO",
+      "imgUrl" : "https://image.kurier.at/images/original/4889784/46-174153902.jpg",
+      "titleSource" : "Österreichs Impfplan wackelt: Astra Zeneca liefert nur Bruchteil seines Impfstoffs",
+      "titleTarget" : "Austrijski plan cijepljenja klimav je: Astra Zeneca isporučuje samo djelić svog cjepiva",
+      "url" : "https://kurier.at/politik/inland/oesterreichs-impfplan-wackelt-astra-zeneca-liefert-nur-bruchteil-seines-impfstoffs/401164989"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "VQqCPB1A",
-      "imgUrl" : "https://image.kurier.at/images/original/4886919/46-174156508.jpg",
-      "titleSource" : "Ansturm: FFP2-Masken im Handel teilweise ausverkauft",
-      "titleTarget" : "Rush: FFP2 maske djelomično su rasprodane u trgovinama",
-      "url" : "https://kurier.at/wirtschaft/ansturm-ffp2-masken-im-handel-teilweise-ausverkauft/401163564"
-    }, {
-      "id" : "7wB2YPrZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4091952/20200129-ABD0101-1-1.jpg",
-      "titleSource" : "EU-Kommission unterstützt Einführung eines digitalen Euro",
-      "titleTarget" : "Komisija EU podržava uvođenje digitalnog eura",
-      "url" : "https://kurier.at/wirtschaft/eu-kommission-unterstuetzt-einfuehrung-eines-digitalen-euro/401163252"
-    }, {
-      "id" : "gldKI9Sf",
-      "imgUrl" : "https://image.kurier.at/images/original/4886151/46-164361102.jpg",
-      "titleSource" : "Corona: Uber und Amazon bieten Biden Hilfe bei Kampagne an",
-      "titleTarget" : "Corona: Uber i Amazon nude Bidenu pomoć u kampanjama",
-      "url" : "https://kurier.at/wirtschaft/corona-uber-und-amazon-bieten-biden-hilfe-bei-kampagne-an/401163201"
-    }, {
-      "id" : "2Mepdjiw",
-      "imgUrl" : "https://image.kurier.at/images/original/4716861/20201023-ABD0039-1-1.jpg",
-      "titleSource" : "Beinahe-Blackout verursachte beim Flughafen Wien hohen Schaden",
-      "titleTarget" : "Skoro zamračenje uzrokovalo je veliku štetu u bečkoj zračnoj luci",
-      "url" : "https://kurier.at/wirtschaft/beinahe-blackout-verursachte-beim-flughafen-wien-hohen-schaden/401163408"
-    }, {
       "id" : "JpzVrl4I",
       "imgUrl" : "https://image.kurier.at/images/original/4888179/46-3519170.jpg",
       "titleSource" : "Größter Swarovski-Gesellschafter Gernot Langes-Swarovski ist tot",
       "titleTarget" : "Najveći dioničar Swarovskog Gernot Langes-Swarovski je mrtav",
       "url" : "https://kurier.at/wirtschaft/groesster-swarovski-gesellschafter-gernot-langes-swarovski-ist-tot/401164215"
     }, {
-      "id" : "unEOWhv5",
-      "imgUrl" : "https://image.kurier.at/images/original/4886538/46-165918781.jpg",
-      "titleSource" : "Coronakrise traf Junge und Arbeiter im Tourismus am stärksten",
-      "titleTarget" : "Koronska kriza najviše je pogodila mlade ljude i radnike u turizmu",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-traf-junge-und-arbeiter-im-tourismus-am-staerksten/401163273"
+      "id" : "xus68fkf",
+      "imgUrl" : "https://image.kurier.at/images/original/4887972/46-173612978.jpg",
+      "titleSource" : " Ex-Commerzialbank-Chef Pucher laut Gutachten vernehmungsfähig",
+      "titleTarget" : " Prema izvješću, šef bivše komercijalne banke Pucher može biti ispitan",
+      "url" : "https://kurier.at/wirtschaft/ex-commerzialbank-chef-pucher-laut-gutachten-vernehmungsfaehig/401164089"
     }, {
-      "id" : "uFnOgCsQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4701396/78370011356990694_BLD_Online.jpg",
-      "titleSource" : "EZB belässt Leitzins bei 0,0 Prozent: Kein weiterer Anti-Krisen-Kurs",
-      "titleTarget" : "ECB ostavlja ključnu kamatnu stopu na 0,0 posto: Nema daljnjeg antikriznog tečaja",
-      "url" : "https://kurier.at/wirtschaft/ezb-belaesst-leitzins-bei-00-prozent-kein-weiterer-anti-krisen-kurs/401163489"
+      "id" : "KTKKc0NA",
+      "imgUrl" : "https://image.kurier.at/images/original/4825230/20201216-ABD0068-1-1.jpg",
+      "titleSource" : "VW bleibt in der Corona-Krise robust: 10 Milliarden Euro Gewinn",
+      "titleTarget" : "VW ostaje snažan u krizi Corona: 10 milijardi eura dobiti",
+      "url" : "https://kurier.at/wirtschaft/vw-bleibt-in-der-corona-krise-robust-10-milliarden-euro-gewinn/401164692"
+    }, {
+      "id" : "lBDc4AI0",
+      "imgUrl" : "https://image.kurier.at/images/original/4890159/46-173456749.jpg",
+      "titleSource" : "Post 2020 mit EBIT-Rückgang: Weniger Briefe, mehr Pakete",
+      "titleTarget" : "Poslije 2020. s padom EBIT-a: manje pisama, više paketa",
+      "url" : "https://kurier.at/wirtschaft/post-2020-mit-ebit-rueckgang-weniger-briefe-mehr-pakete/401165142"
+    }, {
+      "id" : "JqO5qK44",
+      "imgUrl" : "https://image.kurier.at/images/original/4445843/78370011354934494_BLD_Online.jpg",
+      "titleSource" : "Weiteres Millionen-Bußgeld im VW-Dieselskandal verhängt",
+      "titleTarget" : "Još jedna milijunska kazna izrečena u skandalu s dizelskim motorom VW",
+      "url" : "https://kurier.at/wirtschaft/weiteres-millionen-bussgeld-im-vw-dieselskandal-verhaengt/401165133"
+    }, {
+      "id" : "5i9t6dUR",
+      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
+      "titleSource" : "Lockdown: Hoteliers rechnen mit Öffnung frühestens im März",
+      "titleTarget" : "Zaključavanje: Hotelijeri očekuju otvaranje najranije u ožujku",
+      "url" : "https://kurier.at/wirtschaft/lockdown-hoteliers-rechnen-mit-oeffnung-fruehestens-im-maerz/401165091"
+    }, {
+      "id" : "IR8ZOLFd",
+      "imgUrl" : "https://image.kurier.at/images/original/4795962/78370011357778298_BLD_Online.jpg",
+      "titleSource" : "TUI-Mitarbeiterstand schrumpfte in Coronakrise um über 20.000",
+      "titleTarget" : "Broj zaposlenih u TUI-u smanjio se za preko 20 000 u krizi s koronom",
+      "url" : "https://kurier.at/wirtschaft/tui-mitarbeiterstand-schrumpfte-in-coronakrise-um-ueber-20000/401165106"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "ZuOcM4oB",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/32/71/crops/w=1280/255520_opener_75671_mediterranean-cuisine-2378758_1920.jpg?s=bfd62fed49c76a31280215d168a6c6801f7b7128",
-      "titleSource" : "Lockdown: Lebensmittel werden vernichtet",
-      "titleTarget" : "Zaključavanje: Hrana je uništena",
-      "url" : "https://kaernten.orf.at/stories/3086286/"
+      "id" : "0DDwmE3U",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/93/crops/w=1280/821261_opener_286393_20210121_abgelaufene_lebensmittel_00_01_44_10.jpg?s=ceccda14d0114e7e7b71130f4abfb4a05447c143",
+      "titleSource" : "Lebensmittelvernichtung: Problem Ablaufdatum",
+      "titleTarget" : "Uništavanje hrane: datum isteka problema",
+      "url" : "https://kaernten.orf.at/stories/3086370/"
     }, {
-      "id" : "nnTRfPKq",
-      "imgUrl" : "https://image.kurier.at/images/original/4886184/46-169078369.jpg",
-      "titleSource" : "29 Corona-Fälle bei internationalem Skilehrerkurs in Salzburg",
-      "titleTarget" : "29 slučajeva Corone na međunarodnom tečaju instruktora skijanja u Salzburgu",
-      "url" : "https://kurier.at/chronik/oesterreich/sechs-corona-faelle-bei-internationalem-skilehrerkurs-in-salzburg/401163225"
+      "id" : "q939SwlN",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/85/crops/w=1280/820937_opener_286285_cov-impfung2.jpg?s=7d34187057598442ed3306b6fb3e51a39f41c300",
+      "titleSource" : "Ab 1. Februar können sich alle anmelden",
+      "titleTarget" : "Od 1. veljače svi se mogu registrirati",
+      "url" : "https://steiermark.orf.at/stories/3086387/"
     }, {
-      "id" : "GCW3KztZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4887585/46-174152650.jpg",
-      "titleSource" : "„Diese Erkrankung ist keine Grippe und kein Schnupfen“",
-      "titleTarget" : "\"Ova bolest nije ni gripa ni prehlada\"",
-      "url" : "https://kurier.at/chronik/oesterreich/diese-erkrankung-ist-keine-grippe-und-kein-schnupfen/401163840"
+      "id" : "MYKqAnxM",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/17/crops/w=1280/806750_opener_281217_tor_des_jahres_2020_logo.jpg?s=e56d9870b4d723136a57957c63f9cc736cf068db",
+      "titleSource" : "Rafhael Domingues erzielte „Tor des Jahres“ 2020",
+      "titleTarget" : "Rafhael Domingues postigao je \"Cilj godine\" 2020",
+      "url" : "https://vorarlberg.orf.at/stories/3086224/"
     }, {
-      "id" : "3DYegFg1",
-      "imgUrl" : "https://image.kurier.at/images/original/4841973/20201226-ABD0025-1-1.jpg",
-      "titleSource" : "\"Kann jetzt wieder Senioren besuchen\": Bürgermeister von Bad Gastein ließ sich heute impfen",
-      "titleTarget" : "\"Sad može ponovo posjetiti starije građane\": Gradonačelnik Bad Gasteina danas se sam cijepio",
-      "url" : "https://kurier.at/chronik/oesterreich/buergermeister-von-bad-gastein-liess-sich-heute-impfen/401163570"
+      "id" : "NFz06QOL",
+      "imgUrl" : "https://image.kurier.at/images/original/4888533/46-174230104.jpg",
+      "titleSource" : "Nach 100 Jahren gibt es wieder Luchse im Wiener Quellenschutzgebiet",
+      "titleTarget" : "Nakon 100 godina na zaštićenom području bečkog proljeća ponovno su risi",
+      "url" : "https://kurier.at/chronik/oesterreich/nach-100-jahren-gibt-es-wieder-luchse-im-wiener-quellenschutzgebiet/401164557"
     }, {
-      "id" : "FqqZAB12",
-      "imgUrl" : "https://image.kurier.at/images/original/4882737/zwischenablage06.jpg",
-      "titleSource" : "\"Impf-Vordrängler\": Feldkircher Bürgermeister entschuldigt sich doch",
-      "titleTarget" : "\"Impf-Vordrängler\": Gradonačelnik Feldkircha ispričava se",
-      "url" : "https://kurier.at/chronik/oesterreich/impf-vordraengler-feldkircher-buergermeister-entschuldigt-sich-doch/401163702"
+      "id" : "OpHafR0m",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "2.088 gemeldete Corona-Infektionen in Österreich",
+      "titleTarget" : "2.088 prijavljenih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2088-gemeldete-corona-infektionen-in-oesterreich/401164371"
     }, {
-      "id" : "Y2tKZJOJ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/38/crops/w=1280/817444_opener_285038_abd00051.jpg?s=d8d5c23766a5747a639014556ef1dead2de7a793",
-      "titleSource" : "Bürgermeister nach Impfung: „Tut uns leid“",
-      "titleTarget" : "Gradonačelnik nakon cijepljenja: \"Oprostite\"",
-      "url" : "https://ooe.orf.at/stories/3086249/"
+      "id" : "XkiSoppk",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/23/31/crops/w=1280/176721_opener_45131_justiz_gericht_justizzentrum_eisenstadt3_mib.jpg?s=962fdfb5491c6cf3b23994bd015e247202a6fb28",
+      "titleSource" : "Tödlicher Unfall: Teilbedingte Haft für Lenker",
+      "titleTarget" : "Fatalna nesreća: Djelomični zatvor za vozače",
+      "url" : "https://burgenland.orf.at/stories/3086376/"
     }, {
-      "id" : "Kwz3BL6e",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/23/40/crops/w=1280/820838_opener_198040_medalp.jpg?s=7d4816bd5a92f2bcd7855d813f67805d69274702",
-      "titleSource" : "Diskussion um Impfstoff für Privatspitäler",
-      "titleTarget" : "Rasprava o cjepivu za privatne bolnice",
-      "url" : "https://tirol.orf.at/stories/3086244/"
+      "id" : "9rm9tGbi",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/06/17/crops/w=1280/460796_opener_153917_david-mao-m0l5j8lqnzo-unsplash.jpg?s=bd552017d153290916f7a006a0035f75b9b15085",
+      "titleSource" : "Teleüberwachung für Covid-Patienten",
+      "titleTarget" : "Telenadzor za pacijente s Covidom",
+      "url" : "https://tirol.orf.at/stories/3086333/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "H9aMXyNw",
-      "imgUrl" : "https://image.kurier.at/images/original/4887165/46-174212448.jpg",
-      "titleSource" : "Goslarer Kaiserring geht an US-Künstlerin Adrian Piper",
-      "titleTarget" : "Goslarer Kaiserring odlazi američkom umjetniku Adrianu Piperu",
-      "url" : "https://kurier.at/kultur/goslarer-kaiserring-geht-an-us-kuenstlerin-adrian-piper/401163615"
+      "id" : "V1sn2Tci",
+      "imgUrl" : "https://image.kurier.at/images/original/4867260/bridgerton-daphne.jpg",
+      "titleSource" : "Netflix-Hit \"Bridgerton\" bekommt zweite Staffel",
+      "titleTarget" : "Netflixov hit \"Bridgerton\" dobio je drugu sezonu",
+      "url" : "https://kurier.at/kultur/medien/netflix-hit-bridgerton-bekommt-zweite-staffel/401164479"
     }, {
-      "id" : "NnCrErMe",
-      "imgUrl" : "https://image.kurier.at/images/original/4887324/46-174213800.jpg",
-      "titleSource" : "Französische Schauspielerin Nathalie Delon starb mit 79 Jahren",
-      "titleTarget" : "Francuska glumica Nathalie Delon umrla je u 79. godini",
-      "url" : "https://kurier.at/kultur/franzoesische-schauspielerin-nathalie-delon-starb-mit-79-jahren/401163717"
+      "id" : "vD5xO4me",
+      "imgUrl" : "https://image.kurier.at/images/original/4888254/46-173264837.jpg",
+      "titleSource" : "Buchkritik: Elvira Dones und \"Verbrannte Sonne\"",
+      "titleTarget" : "Recenzija knjige: Elvira Dones i \"Spaljeno sunce\"",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-elvira-dones-und-verbrannte-sonne/401164269"
     }, {
-      "id" : "vNJXTAif",
-      "imgUrl" : "https://image.kurier.at/images/original/4754070/46-70441869.jpg",
-      "titleSource" : "Kunstmessen-Flaggschiff \"Art Basel\" in den September verschoben",
-      "titleTarget" : "Glavni sajam umjetnosti \"Art Basel\" odgođen za rujan",
-      "url" : "https://kurier.at/kultur/kunstmessen-flaggschiff-art-basel-in-den-september-verschoben/401163573"
+      "id" : "xh8Qo9P7",
+      "imgUrl" : "https://image.kurier.at/images/original/4888254/46-173264837.jpg",
+      "titleSource" : "Buchkritik: Elvira Dones und \"Verbrannte Sonne\"",
+      "titleTarget" : "Recenzija knjige: Elvira Dones i \"Spaljeno sunce\"",
+      "url" : "https://kurier.at/kultur/buchkritik-elvira-dones-und-verbrannte-sonne/401164269"
     }, {
-      "id" : "eOMkoQFM",
-      "imgUrl" : "https://image.kurier.at/images/original/4887741/preview_asterix1.jpg",
-      "titleSource" : "Asterix geht 2021 auf eine \"lange Reise\" - aber wohin?",
-      "titleTarget" : "Asterix odlazi na „dugo putovanje“ 2021. godine - ali kamo ide?",
-      "url" : "https://kurier.at/kultur/buch/asterix-geht-2021-auf-eine-lange-reise-aber-wohin/401163882"
+      "id" : "J20zooDh",
+      "imgUrl" : "https://image.kurier.at/images/original/4889649/46-174234983.jpg",
+      "titleSource" : "Wie der virtuelle Jubel bei den Hahnenkamm-Rennen funktioniert",
+      "titleTarget" : "Kako funkcioniraju virtualni navijači na utrkama Hahnenkamm",
+      "url" : "https://kurier.at/kultur/medien/wie-der-virtuelle-jubel-bei-den-hahnenkamm-rennen-in-kitzbuehel-funktioniert/401164974"
     }, {
-      "id" : "JiE1xpKE",
-      "imgUrl" : "https://image.kurier.at/images/original/4888170/46-160131082.jpg",
-      "titleSource" : "Billie Eilish und Rosalia veröffentlichten Duett",
-      "titleTarget" : "Billie Eilish i Rosalia objavile su duet",
-      "url" : "https://kurier.at/kultur/billie-eilish-und-rosalia-veroeffentlichten-duett/401164206"
+      "id" : "jVEpBb2V",
+      "imgUrl" : "https://image.kurier.at/images/original/4889454/46-174229081.jpg",
+      "titleSource" : "Machte \"Bond\" spektakulär: Stuntman-Legende Remy Julienne ist tot",
+      "titleTarget" : "Napravio \"Bonda\" spektakularno: kaskaderska legenda Remy Julienne je mrtva",
+      "url" : "https://kurier.at/kultur/machte-bond-spektakulaer-stuntman-legende-remy-julienne-ist-tot/401164854"
     }, {
-      "id" : "EqZV2c1G",
-      "imgUrl" : "https://image.kurier.at/images/original/4887192/46-174207452.jpg",
-      "titleSource" : "Indie-Band Kreisky: Regionale Manufaktur für Genussmenschen",
-      "titleTarget" : "Indie bend Kreisky: Regionalna fabrika za znalce",
-      "url" : "https://kurier.at/kultur/indie-band-kreisky-regionale-manufaktur-fuer-genussmenschen/401163630"
+      "id" : "gQz8OXlo",
+      "imgUrl" : "https://image.kurier.at/images/original/4886166/46-174037825.jpg",
+      "titleSource" : "Oska zu Gast beim KURIER Talk",
+      "titleTarget" : "Oska kao gost na razgovoru KURIER",
+      "url" : "https://kurier.at/kultur/oska-zu-gast-beim-kurier-talk/401163291"
     }, {
-      "id" : "jo5o89tJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4887873/46-173723028.jpg",
-      "titleSource" : "Glastonbury-Festival erneut wegen Corona abgesagt",
-      "titleTarget" : "Festival Glastonbury ponovno je otkazan zbog Corone",
-      "url" : "https://kurier.at/kultur/glastonbury-festival-erneut-wegen-corona-abgesagt/401163990"
+      "id" : "rs4m573O",
+      "imgUrl" : "https://image.kurier.at/images/original/4888941/46-173916443.jpg",
+      "titleSource" : "FM4-Fest im Wohnzimmer - diesmal ohne Gedränge",
+      "titleTarget" : "FM4 zabava u dnevnoj sobi - ovaj put bez gužve",
+      "url" : "https://kurier.at/kultur/medien/fm4-geburtstagsfest-im-wohnzimmer-diesmal-ohne-gedraenge/401164614"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,22 +185,22 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "lqGJyTGX",
-      "titleSource" : "Hauser sorgt in Antholz für Sensation",
-      "titleTarget" : "Hauser izaziva senzaciju u Antholzu",
-      "url" : "https://sport.orf.at/stories/3072102/"
+      "id" : "cBZYpx45",
+      "titleSource" : "Feuz gewinnt chaotische Kitz-Abfahrt",
+      "titleTarget" : "Feuz je pobijedio u kaotičnom trčanju Kitza nizbrdo",
+      "url" : "https://sport.orf.at/stories/3072122/"
     }, {
-      "id" : "I3kghwa5",
-      "imgUrl" : "https://image.kurier.at/images/original/4887552/46-30415006.jpg",
-      "titleSource" : "Fußball-EM 2021 in Wien? Die UEFA dementiert nicht",
-      "titleTarget" : "Nogomet EM 2021 u Beču? UEFA to ne poriče",
-      "url" : "https://kurier.at/sport/fussball/fussball-em-in-wien-die-uefa-dementiert-nicht/401163813"
+      "id" : "5ZQwld6b",
+      "imgUrl" : "https://image.kurier.at/images/original/4890207/46-174229435.jpg",
+      "titleSource" : "Von Müller bis Happel: Wie Gernot Langes den Tiroler Fußball prägte",
+      "titleTarget" : "Od Müllera do Happela: Kako je Gernot Langes oblikovao tirolski nogomet",
+      "url" : "https://kurier.at/sport/fussball/von-mueller-bis-happel-wie-gernot-langes-den-tiroler-fussball-praegte/401164431"
     }, {
-      "id" : "EIT9iSpa",
-      "imgUrl" : "https://image.kurier.at/images/original/4887150/46-173971753.jpg",
-      "titleSource" : "Erster Sieg: Hauser schreibt österreichische Biathlon-Geschichte",
-      "titleTarget" : "Prva pobjeda: Hauser ulazi u austrijski biatlon",
-      "url" : "https://kurier.at/sport/wintersport/volltreffer-erster-weltcupsieg-fuer-oesv-biathletin-lisa-hauser/401163627"
+      "id" : "TpHCc3Dd",
+      "imgUrl" : "https://image.kurier.at/images/original/4889313/46-174234294.jpg",
+      "titleSource" : "Chaotische Kitz-Abfahrt: Zwei schlimme Stürze, Feuz vor Mayer",
+      "titleTarget" : "Kaotičan Kitzov spust: dva loša pada, Feuz prije Mayera",
+      "url" : "https://kurier.at/sport/wintersport/live-so-stehts-beim-abfahrts-klassiker-auf-der-streif-in-kitzbuehel/401164257"
     }, {
       "id" : "ym1ctrBq",
       "imgUrl" : "https://image.kurier.at/images/original/4744899/46-168695463.jpg",
@@ -208,21 +208,20 @@
       "titleTarget" : "Brza oluja: Broj 1 je fokus zelenog broja 1",
       "url" : "https://kurier.at/sport/fussball/sturm-auf-rapid-die-nr-1-ist-bei-der-gruenen-nr-1-im-fokus/401163789"
     }, {
-      "id" : "ONzJtpYn",
-      "titleSource" : "Kriechmayr rast in Favoritenrolle",
-      "titleTarget" : "Kriechmayr se utrkuje u ulozi favorita",
-      "url" : "https://sport.orf.at/stories/3072097/"
+      "id" : "9AVYNRHU",
+      "titleSource" : "Goggia gelingt Abfahrtshattrick",
+      "titleTarget" : "Goggia uspijeva u triku nizbrdo",
+      "url" : "https://sport.orf.at/stories/3072121/"
     }, {
-      "id" : "GvxwXC0f",
-      "titleSource" : "Stand in der ersten Herren-Abfahrt in Kitzbühel ab 11.30 Uhr",
-      "titleTarget" : "Stanite u prvi muški spust u Kitzbühelu od 11.30 sati",
-      "url" : "https://sport.orf.at/stories/3072112/"
+      "id" : "j71KYTzI",
+      "titleSource" : "Streif-Double startet mit Jubiläumsrennen",
+      "titleTarget" : "Streif-Double započinje obljetničkom utrkom",
+      "url" : "https://sport.orf.at/stories/3072104/"
     }, {
-      "id" : "njsQ4NUs",
-      "imgUrl" : "https://image.kurier.at/images/original/4886295/46-174211583.jpg",
-      "titleSource" : "Kriechmayr nach Trainingsbestzeit in Kitz: \"Ich habe mich richtig geärgert\"",
-      "titleTarget" : "Kriechmayr nakon najboljeg vremena na praksi u Kitzu: \"Stvarno sam se živcirao\"",
-      "url" : "https://kurier.at/sport/wintersport/kriechmayr-nach-trainingsbestzeit-in-kitz-ich-habe-mich-richtig-geaergert/401163393"
+      "id" : "XIsiHnKX",
+      "titleSource" : "Stand bei Rapid – Sturm ab 19.00 Uhr",
+      "titleTarget" : "Stanite na Rapid - Sturm od 19:00",
+      "url" : "https://sport.orf.at/stories/3072124/"
     } ]
   } ],
   "country" : "austria",
