@@ -8,12 +8,6 @@
       "titleTarget" : "Demo demonstracije Corone: Policija poduzima oštre akcije protiv maskiranih grešnika",
       "url" : "https://kurier.at/politik/inland/corona-demos-polizei-geht-haerter-gegen-maskensuender-vor/401165514"
     }, {
-      "id" : "6ZbZSSXz",
-      "imgUrl" : "https://image.kurier.at/images/original/4869624/20210113-ABD0022-1-1.jpg",
-      "titleSource" : "Anschober gibt mit Impf-Experten \"Update\": Keine Sorge wegen Kinderwunsch",
-      "titleTarget" : "Anschober daje \"novosti\" sa stručnjacima za cijepljenje: Ne brinite hoćete li imati djecu",
-      "url" : "https://kurier.at/politik/inland/anschober-gibt-mit-experten-update-zur-impfung/401164629"
-    }, {
       "id" : "gMyJCHUq",
       "imgUrl" : "https://image.kurier.at/images/original/4889286/20210122-ABD0077-1-1.jpg",
       "titleSource" : "Anschober zu Astra Zeneca: \"Herber Rückschlag\"",
@@ -32,26 +26,50 @@
       "titleTarget" : "Anketa: Roditelji AHS često doživljavaju kao \"zastarjeli paralelni svijet\"",
       "url" : "https://kurier.at/politik/inland/umfrage-eltern-erleben-ahs-oft-als-veraltete-parallelwelt/401165520"
     }, {
-      "id" : "svUrLvFa",
-      "imgUrl" : "https://image.kurier.at/images/original/4891344/46-173898464.jpg",
-      "titleSource" : "Wahlkampfkosten: SPÖ und Grüne in OÖ für Senkung vor LT-Wahl offen",
-      "titleTarget" : "Troškovi izborne kampanje: SPÖ i Zeleni u Gornjoj Austriji otvoreni za smanjenje prije izbora za LT",
-      "url" : "https://kurier.at/politik/inland/wahlkampfkosten-spoe-und-gruene-in-ooe-fuer-senkung-vor-lt-wahl-offen/401165550"
+      "id" : "WhPlvgtQ",
+      "imgUrl" : "https://image.kurier.at/images/original/378177/volksbegehren.jpg",
+      "titleSource" : "Tierschutz-Volksbegehren: Bisher 300.000 Unterschriften",
+      "titleTarget" : "Referendum o zaštiti životinja: Do sada 300 000 potpisa",
+      "url" : "https://kurier.at/politik/inland/tierschutz-volksbegehren-bisher-300000-unterschriften/401165796"
     }, {
       "id" : "ZcvWjLUr",
       "imgUrl" : "https://image.kurier.at/images/original/4673677/20201001-ABD0101-1-1.jpg",
       "titleSource" : "Politischer Aschermittwoch der FPÖ in Ried heuer digital",
       "titleTarget" : "Politička pepelnica FPÖ-a u Riedu ove godine digitalna",
       "url" : "https://kurier.at/politik/inland/politischer-aschermittwoch-der-fpoe-in-ried-heuer-digital/401165631"
+    }, {
+      "id" : "svUrLvFa",
+      "imgUrl" : "https://image.kurier.at/images/original/4891344/46-173898464.jpg",
+      "titleSource" : "Wahlkampfkosten: SPÖ und Grüne in OÖ für Senkung vor LT-Wahl offen",
+      "titleTarget" : "Troškovi izborne kampanje: SPÖ i Zeleni u Gornjoj Austriji otvoreni za smanjenje prije izbora za LT",
+      "url" : "https://kurier.at/politik/inland/wahlkampfkosten-spoe-und-gruene-in-ooe-fuer-senkung-vor-lt-wahl-offen/401165550"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "id" : "NgAFVnVB",
+      "imgUrl" : "https://image.kurier.at/images/original/4879722/ffp2-mask-5590112_1920.jpg",
+      "titleSource" : "Rewe und Spar verschenken FFP2-Masken an ihre Kunden",
+      "titleTarget" : "Rewe i Spar poklanjaju FFP2 maske svojim kupcima",
+      "url" : "https://kurier.at/wirtschaft/rewe-und-spar-verschenken-ffp2-masken-an-ihre-kunden/401165661"
+    }, {
+      "id" : "8NhQyEaP",
+      "imgUrl" : "https://image.kurier.at/images/original/321975/flugzeug-000_Reinhard%252BVogel.jpg",
+      "titleSource" : "Landeverbot ab Montag auch für Flüge aus Brasilien",
+      "titleTarget" : "Zabrana slijetanja od ponedjeljka i za letove iz Brazila",
+      "url" : "https://kurier.at/wirtschaft/landeverbot-ab-montag-auch-fuer-fluege-aus-brasilien/401165748"
+    }, {
       "id" : "STqTSSMo",
       "imgUrl" : "https://image.kurier.at/images/original/4563785/46-166604987.jpg",
       "titleSource" : "Lehre: Wer und wo gesucht wird",
       "titleTarget" : "Poučavanje: Tko i gdje se traži",
       "url" : "https://kurier.at/wirtschaft/karriere/lehre-wer-und-wo-gesucht-wird/401163360"
+    }, {
+      "id" : "J1ECNl7l",
+      "imgUrl" : "https://image.kurier.at/images/original/4891374/46-174155942.jpg",
+      "titleSource" : "Vodafone-Chef zu Corona-App: Bei Datenschutz \"über Schatten springen\"",
+      "titleTarget" : "Vodafone šef u aplikaciji Corona: \"Preskoči sjene\" u zaštiti podataka",
+      "url" : "https://kurier.at/wirtschaft/vodafone-chef-zu-corona-app-bei-datenschutz-ueber-schatten-springen/401165577"
     }, {
       "id" : "5CeFvPEv",
       "imgUrl" : "https://image.kurier.at/images/original/4886325/46-174182176.jpg",
@@ -59,35 +77,17 @@
       "titleTarget" : "Zahtjev za mlađahnijom samouništenjem",
       "url" : "https://kurier.at/wirtschaft/karriere/aufruf-zu-mehr-jugendlichen-selbstverwuestung/401163342"
     }, {
-      "id" : "7mCoYM4M",
-      "imgUrl" : "https://image.kurier.at/images/original/2828054/46-64669803.jpg",
-      "titleSource" : "60 Millionen Corona-Hilfe  für die Landwirtschaft",
-      "titleTarget" : "60 milijuna pomoći za poljodjelstvo",
-      "url" : "https://kurier.at/wirtschaft/60-millionen-corona-hilfe-fuer-die-landwirtschaft/401165193"
-    }, {
-      "id" : "5i9t6dUR",
-      "imgUrl" : "https://image.kurier.at/images/original/1326129/Geschlossen%252BGesch%2525C3%2525A4ft%252BLaden.jpg",
-      "titleSource" : "Lockdown: Hoteliers rechnen mit Öffnung frühestens im März",
-      "titleTarget" : "Zaključavanje: Hotelijeri očekuju otvaranje najranije u ožujku",
-      "url" : "https://kurier.at/wirtschaft/lockdown-hoteliers-rechnen-mit-oeffnung-fruehestens-im-maerz/401165091"
-    }, {
-      "id" : "mLJdQhQn",
-      "imgUrl" : "https://image.kurier.at/images/original/4889775/46-174138671.jpg",
-      "titleSource" : "FFP2-Maskenpflicht: Unterschiedlich strenge Durchsetzung im Handel",
-      "titleTarget" : "Zahtjev za maskom FFP2: Različite razine izvršenja u maloprodaji",
-      "url" : "https://kurier.at/wirtschaft/ffp2-maskenpflicht-unterschiedlich-strenge-durchsetzung-im-handel/401164998"
+      "id" : "vE7URidD",
+      "imgUrl" : "https://image.kurier.at/images/original/4892169/46-168543482.jpg",
+      "titleSource" : "Wirecard: Fluchthilfe aus Österreich für Jan Marsalek",
+      "titleTarget" : "Wirecard: Pomoć za bijeg iz Austrije za Jana Marsaleka",
+      "url" : "https://kurier.at/wirtschaft/wirecard-fluchthilfe-aus-oesterreich-fuer-jan-marsalek/401165958"
     }, {
       "id" : "wG54jIxO",
       "imgUrl" : "https://image.kurier.at/images/original/4888350/46-174206825.jpg",
       "titleSource" : "Ein Einblick in die Wohnungen der Österreicher",
       "titleTarget" : "Uvid u stanove Austrijanaca",
       "url" : "https://kurier.at/wirtschaft/immobiz/ein-einblick-in-die-wohnungen-der-oesterreicher/401164341"
-    }, {
-      "id" : "KTKKc0NA",
-      "imgUrl" : "https://image.kurier.at/images/original/4825230/20201216-ABD0068-1-1.jpg",
-      "titleSource" : "VW bleibt in der Corona-Krise robust: 10 Milliarden Euro Gewinn",
-      "titleTarget" : "VW ostaje snažan u krizi Corona: 10 milijardi eura dobiti",
-      "url" : "https://kurier.at/wirtschaft/vw-bleibt-in-der-corona-krise-robust-10-milliarden-euro-gewinn/401164692"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,56 +98,56 @@
       "titleTarget" : "Nakon otprilike 100 godina, risovi su ponovno primijećeni na području Rax / Schneeberg",
       "url" : "https://www.diepresse.com/5926754/Wildkatze_Nach-rund-100-Jahren-wieder-Luchse-im?from=rss"
     }, {
-      "id" : "nekxFFgf",
-      "imgUrl" : "https://image.kurier.at/images/original/3988992/46-80307935.jpg",
-      "titleSource" : "Operation Luxor: Uni-Professoren stellen sich hinter Farid Hafez",
-      "titleTarget" : "Operacija Luxor: Sveučilišni profesori stoje iza Farida Hafeza",
-      "url" : "https://kurier.at/chronik/oesterreich/operation-luxor-uni-professoren-stellen-sich-hinter-farid-hafez/401165178"
+      "id" : "YCQfUDit",
+      "imgUrl" : "https://image.kurier.at/images/original/4884756/coorna-impfung.jpg",
+      "titleSource" : "\"Nur für Bewohner\": In Pflegeheim wurden Impfungen einfach weggeschmissen",
+      "titleTarget" : "\"Samo za stanovnike\": U staračkim domovima cijepljenje se jednostavno bacalo",
+      "url" : "https://kurier.at/chronik/oesterreich/unfassbar-im-pflegeheim-wurden-corona-impfungen-einfach-weggeschmissen/401165670"
     }, {
-      "id" : "wEklVTZ9",
-      "imgUrl" : "https://image.kurier.at/images/original/4888704/46-153956109.jpg",
-      "titleSource" : "Zu wenig Personal und Betten für Neugeborene in Wien und NÖ",
-      "titleTarget" : "Premalo osoblja i kreveta za novorođenčad u Beču i Donjoj Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/zu-wenig-personal-und-betten-fuer-neugeborene-in-wien-und-noe/401164551"
+      "id" : "zaq0k01J",
+      "imgUrl" : "https://image.kurier.at/images/original/4891428/46-174102194.jpg",
+      "titleSource" : "Illegale Corona-Party bei Ordinationseröffnung von bekannter Ärztin",
+      "titleTarget" : "Ilegalna koronska zabava na otvaranju ređenja poznatog liječnika",
+      "url" : "https://kurier.at/chronik/oesterreich/illegale-corona-party-bei-ordinationseroeffnung-von-bekannter-aerztin/401165649"
     }, {
-      "id" : "hy4uFx2H",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/42/crops/w=1280/821681_opener_286542_kaiserschmarrn.jpg?s=b593ed7b6ebd2eeb9b1f6f73a5f7f7e81b1de785",
-      "titleSource" : "Kaiserschmarrn-to-go in der City",
-      "titleTarget" : "Kaiserschmarrn-to-go u gradu",
-      "url" : "https://wien.orf.at/stories/3086412/"
+      "id" : "TCS4Brir",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/32/crops/w=1280/822212_opener_286732_handout_nach_rund_100_jahren_wieder_luchse_nahe_wien_gesichtet2_.jpg?s=d582e0bfa05a61967d705e8b8a81efddbd56d931",
+      "titleSource" : "Nach 100 Jahren wieder Luchse gesichtet",
+      "titleTarget" : "Ris je ponovno vidio nakon 100 godina",
+      "url" : "https://noe.orf.at/stories/3086482/"
     }, {
-      "id" : "naPLVAlv",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/14/crops/w=1280/821323_opener_286414_21xxxx_bh_fanfare-00.02.17.jpg?s=c994d4e2195623dde8dd817b4a7d963f35215206",
-      "titleSource" : "Fanfare von Hans Hausl zum Jubiläum",
-      "titleTarget" : "Fanfare Hansa Hausla za obljetnicu",
-      "url" : "https://burgenland.orf.at/stories/3086364/"
+      "id" : "l1SYu1Om",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/43/62/crops/w=1280/725324_opener_251662_20110928_schule_hs_120_cka.jpg?s=13651431012c38754aea0c33485e767565c54939",
+      "titleSource" : "Scharfe Kritik von Eltern an AHS-Schulsystem",
+      "titleTarget" : "Oštre kritike roditelja školskog sustava AHS",
+      "url" : "https://tirol.orf.at/stories/3086480/"
     }, {
-      "id" : "CDrPvunQ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/70/crops/w=1280/822025_opener_286670_image_4.jpg?s=7d76e26bec7a064f70272b987e44aed450a2a460",
-      "titleSource" : "Altschnee besonders lawinengefährlich",
-      "titleTarget" : "Stari snijeg posebno opasan za lavine",
-      "url" : "https://salzburg.orf.at/stories/3086449/"
+      "id" : "wxphTqCV",
+      "imgUrl" : "https://image.kurier.at/images/original/4889079/20210122-ABD0040-1-1.jpg",
+      "titleSource" : "Coronavirus: 25 Euro Strafe bei Nicht-Tragen einer FFP2-Maske",
+      "titleTarget" : "Koronavirus: 25 eura kazne zbog nenanošenja FFP2 maske",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-25-euro-strafe-bei-nicht-tragen-einer-ffp2-maske/401165811"
     }, {
-      "id" : "OpHafR0m",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "2.088 gemeldete Corona-Infektionen in Österreich",
-      "titleTarget" : "2.088 prijavljenih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2088-gemeldete-corona-infektionen-in-oesterreich/401164371"
+      "id" : "8IjIMs3F",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/75/crops/w=1280/821190_opener_286375_pistenklo2.jpg?s=a4abc6eaef36ed42181f6ab9b6ff7078fbdc7db9",
+      "titleSource" : "St. Jakob im Walde: Mit den Skiern aufs Klo",
+      "titleTarget" : "Sveti Jakob im Walde: Na skijama do zahoda",
+      "url" : "https://steiermark.orf.at/stories/3086344/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "vD5xO4me",
-      "imgUrl" : "https://image.kurier.at/images/original/4888254/46-173264837.jpg",
-      "titleSource" : "Buchkritik: Elvira Dones und \"Verbrannte Sonne\"",
-      "titleTarget" : "Recenzija knjige: Elvira Dones i \"Spaljeno sunce\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-elvira-dones-und-verbrannte-sonne/401164269"
-    }, {
       "id" : "3P3xFfad",
       "imgUrl" : "https://image.kurier.at/images/original/4891017/81412305858559978_BLD_Online.jpg",
       "titleSource" : "\"Babylon 5\"-Schauspielerin Mira Furlan mit 65 Jahren gestorben",
       "titleTarget" : "Glumica \"Babylona 5\" Mira Furlan umrla je u 65. godini",
       "url" : "https://kurier.at/kultur/babylon-5-schauspielerin-mira-furlan-mit-65-jahren-gestorben/401165415"
+    }, {
+      "id" : "wY7jJfhR",
+      "imgUrl" : "https://image.kurier.at/images/original/4891851/46-173864032.jpg",
+      "titleSource" : "Legendärer US-Moderator Larry King gestorben",
+      "titleTarget" : "Preminuo je legendarni američki voditelj Larry King",
+      "url" : "https://kurier.at/kultur/medien/legendaerer-us-moderator-larry-king-gestorben/401165838"
     }, {
       "id" : "1bgYbU7r",
       "imgUrl" : "https://image.kurier.at/images/original/4888251/46-102809856.jpg",
@@ -155,29 +155,29 @@
       "titleTarget" : "Franzobelova vesela avantura \"Osvajanje Amerike\"",
       "url" : "https://kurier.at/kultur/buch/franzobels-heiteres-abenteuer-die-eroberung-amerikas/401164296"
     }, {
-      "id" : "J20zooDh",
-      "imgUrl" : "https://image.kurier.at/images/original/4889649/46-174234983.jpg",
-      "titleSource" : "Wie der virtuelle Jubel bei den Hahnenkamm-Rennen funktioniert",
-      "titleTarget" : "Kako funkcioniraju virtualni navijači na utrkama Hahnenkamm",
-      "url" : "https://kurier.at/kultur/medien/wie-der-virtuelle-jubel-bei-den-hahnenkamm-rennen-in-kitzbuehel-funktioniert/401164974"
+      "id" : "EzL8oSOl",
+      "imgUrl" : "https://image.kurier.at/images/original/4889874/46-174211268.jpg",
+      "titleSource" : "\"Tatort\" am Sonntag: Emotionale Gezeitenlage",
+      "titleTarget" : "\"Tatort\" u nedjelju: Emocionalne plime i oseke",
+      "url" : "https://kurier.at/kultur/medien/tatort-am-sonntag-emotionale-gezeitenlage/401165175"
     }, {
-      "id" : "jVEpBb2V",
-      "imgUrl" : "https://image.kurier.at/images/original/4889454/46-174229081.jpg",
-      "titleSource" : "Machte \"Bond\" spektakulär: Stuntman-Legende Remy Julienne ist tot",
-      "titleTarget" : "Napravio \"Bonda\" spektakularno: kaskaderska legenda Remy Julienne je mrtva",
-      "url" : "https://kurier.at/kultur/machte-bond-spektakulaer-stuntman-legende-remy-julienne-ist-tot/401164854"
+      "id" : "GZh2ocGw",
+      "imgUrl" : "https://image.kurier.at/images/original/4891449/orf_kurier_20210123104926.jpg",
+      "titleSource" : "TV-Quoten: Peter Kliens \"Gute Nacht Österreich\" wittert Morgenluft",
+      "titleTarget" : "TV ocjene: \"Gute Nacht Österreich\" Petera Kliena miriše na jutarnji zrak",
+      "url" : "https://kurier.at/kultur/medien/tv-quoten-peter-kliens-gute-nacht-oesterreich-wittert-morgenluft/401165715"
     }, {
-      "id" : "gQz8OXlo",
-      "imgUrl" : "https://image.kurier.at/images/original/4886166/46-174037825.jpg",
-      "titleSource" : "Oska zu Gast beim KURIER Talk",
-      "titleTarget" : "Oska kao gost na razgovoru KURIER",
-      "url" : "https://kurier.at/kultur/oska-zu-gast-beim-kurier-talk/401163291"
+      "id" : "188tqwcx",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/f/431183/Unbenannt-120081118115906.jpg",
+      "titleSource" : "Larry King: Der Mann mit den Hosenträgern ist tot",
+      "titleTarget" : "Larry King: Tip s tregerima je mrtav",
+      "url" : "https://www.diepresse.com/431236/Star-Moderator_Larry-King_Der-Mann-mit-den-Hosentraegern-ist-tot?from=rss"
     }, {
-      "id" : "rs4m573O",
-      "imgUrl" : "https://image.kurier.at/images/original/4888941/46-173916443.jpg",
-      "titleSource" : "FM4-Fest im Wohnzimmer - diesmal ohne Gedränge",
-      "titleTarget" : "FM4 zabava u dnevnoj sobi - ovaj put bez gužve",
-      "url" : "https://kurier.at/kultur/medien/fm4-geburtstagsfest-im-wohnzimmer-diesmal-ohne-gedraenge/401164614"
+      "id" : "NiNyJWNO",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/6/b/5926763/22B00413-BFA9-4BFF-8B18-66670E4F2496_v0_h.jpg",
+      "titleSource" : "\"Babylon 5\", \"Lost\": Schauspielerin Mira Furlan gestorben",
+      "titleTarget" : "\"Babylon 5\", \"Lost\": Glumica Mira Furlan umrla je",
+      "url" : "https://www.diepresse.com/5926763/Todesfall_Babylon-5-Lost_Schauspielerin-Mira-Furlan-gestorben?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,27 +185,21 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "NNnr94Ln",
+      "titleSource" : "Starkes Comeback von Gruber in Lahti",
+      "titleTarget" : "Snažan povratak Grubera u Lahti",
+      "url" : "https://sport.orf.at/stories/3072216/"
+    }, {
       "id" : "ghVrD9FO",
       "imgUrl" : "https://image.kurier.at/images/original/4890663/46-174242971.jpg",
       "titleSource" : "Klarer Sieg gegen Sturm: Rapid schießt sich an die Tabellenspitze",
       "titleTarget" : "Čista pobjeda protiv Sturma: Brze puca na vrh tablice",
       "url" : "https://kurier.at/sport/fussball/klarer-heimsieg-gegen-sturm-graz-rapid-wien-erobert-die-bundesliga-tabellenfuehrung/401164956"
     }, {
-      "id" : "NJIWYmxh",
-      "titleSource" : "Ein „zweiter Frühling“ lässt Packers träumen",
-      "titleTarget" : "\"Drugo proljeće\" čini Packers snovima",
-      "url" : "https://sport.orf.at/stories/3071984/"
-    }, {
       "id" : "SlWI6wOo",
       "titleSource" : "Kitz-Programm neu aufgestellt",
       "titleTarget" : "Kitzov program reorganiziran",
       "url" : "https://sport.orf.at/stories/3072186/"
-    }, {
-      "id" : "7akG6QgL",
-      "imgUrl" : "https://image.kurier.at/images/original/4890216/20210122-ABD0205-1-1.jpg",
-      "titleSource" : "Schneefall und weiche Piste: Kitzbühel-Abfahrt auf Sonntag verschoben",
-      "titleTarget" : "Snježne padavine i blage padine: Nizbrdica Kitzbühel odgođena za nedjelju",
-      "url" : "https://kurier.at/sport/wintersport/kitzbuehel-abfahrt-wegen-wetterverhaeltnissen-abgesagt/401165517"
     }, {
       "id" : "XmM3oJvX",
       "imgUrl" : "https://image.kurier.at/images/original/4891257/46-174244285.jpg",
@@ -213,16 +207,21 @@
       "titleTarget" : "Nakon gala protiv Sturma: Rapid želi zadržati tajnu",
       "url" : "https://kurier.at/sport/fussball/bundesliga-rapid-wien-will-sich-nach-der-gala-beim-41-gegen-sturm-ein-geheimnis-bewahren/401165454"
     }, {
-      "id" : "aOtYQceN",
-      "titleSource" : "Streif-Zielsprung erneut in der Kritik",
-      "titleTarget" : "Streif meta ponovno uskočio u kritiku",
-      "url" : "https://sport.orf.at/stories/3072152/"
+      "id" : "GBQuftkg",
+      "titleSource" : "Ofner beim Weltcup in Idre Vierte, Siebenhofer Achter",
+      "titleTarget" : "Ofner četvrti na Svjetskom kupu u Idru, osmi u Siebenhofu",
+      "url" : "https://sport.orf.at/stories/3072209/"
     }, {
-      "id" : "iqV3h2cz",
-      "imgUrl" : "https://image.kurier.at/images/original/4891269/46-174247085.jpg",
-      "titleSource" : "Dortmunder 2:4-Pleite bei Gladbach: Haaland brach Tor-Rekord",
-      "titleTarget" : "Stečaj Dortmunda 2-4 kod Gladbacha: Haaland je srušio rekord golova",
-      "url" : "https://kurier.at/sport/fussball/24-pleite-gegen-borussia-moenchengladbach-naechster-rueckschlag-fuer-dortmund-in-der-bundesliga/401165463"
+      "id" : "H3bDyA7N",
+      "titleSource" : "Podestplatz für Hauser in Massenstart-Krimi",
+      "titleTarget" : "Podij za Hausera u kriminalističkom trileru s masovnim startom",
+      "url" : "https://sport.orf.at/stories/3072207/"
+    }, {
+      "id" : "7akG6QgL",
+      "imgUrl" : "https://image.kurier.at/images/original/4890216/20210122-ABD0205-1-1.jpg",
+      "titleSource" : "Schneefall und weiche Piste: Kitzbühel-Abfahrt auf Sonntag verschoben",
+      "titleTarget" : "Snježne padavine i blage padine: Nizbrdica Kitzbühel odgođena za nedjelju",
+      "url" : "https://kurier.at/sport/wintersport/kitzbuehel-abfahrt-wegen-wetterverhaeltnissen-abgesagt/401165517"
     } ]
   } ],
   "country" : "austria",
