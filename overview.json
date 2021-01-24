@@ -2,60 +2,31 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "yvW6XSFF",
+      "imgUrl" : "https://image.kurier.at/images/original/4886805/20210121-ABD0104-1-1.jpg",
+      "titleSource" : "Szekeres für rasche Impfung von Spitzenpolitikern",
+      "titleTarget" : "Szekeres za brzo cijepljenje vodećih političara",
+      "url" : "https://kurier.at/politik/inland/szekeres-fuer-rasche-impfung-von-spitzenpolitikern/401166288"
+    }, {
       "id" : "e0wN64JK",
       "imgUrl" : "https://image.kurier.at/images/original/4892568/46-174237108.jpg",
       "titleSource" : "Nach Liefer-Engpass: Regierung hält an Impfstrategie fest",
       "titleTarget" : "Nakon uskog grla nakon isporuke: vlada se drži strategije cijepljenja",
       "url" : "https://kurier.at/politik/inland/nach-liefer-engpass-regierung-haelt-an-impfstrategie-fest/401166054"
     }, {
-      "id" : "WhPlvgtQ",
-      "imgUrl" : "https://image.kurier.at/images/original/378177/volksbegehren.jpg",
-      "titleSource" : "Tierschutz-Volksbegehren: Bisher 300.000 Unterschriften",
-      "titleTarget" : "Referendum o zaštiti životinja: Do sada 300 000 potpisa",
-      "url" : "https://kurier.at/politik/inland/tierschutz-volksbegehren-bisher-300000-unterschriften/401165796"
-    }, {
       "id" : "ydu0oX72",
       "titleSource" : "Kogler kritisiert Anzeige der WKStA gegen \"Presse\"-Journalistin",
       "titleTarget" : "Kogler kritizira reklamu WKStA-e protiv novinara \"tiska\"",
       "url" : "https://www.diepresse.com/5927116/Medien_Kogler-kritisiert-Anzeige-der-WKStA-gegen-PresseJournalistin?from=rss"
-    }, {
-      "id" : "dMxYteHH",
-      "titleSource" : "Kogler kritisiert Anzeige der WKStA gegen \"Presse\"-Journalistin",
-      "titleTarget" : "Kogler kritizira reklamu WKStA-e protiv novinara \"tiska\"",
-      "url" : "https://www.diepresse.com/5927116/Kogler-kritisiert-Anzeige-der-WKStA-gegen-PresseJournalistin?from=rss"
-    }, {
-      "id" : "v7jsOzXu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/3/5/5926965/CORONA-DEMO-GEGEN-CORONA-MASSNAHMEN-DER-BUNDESREGIERUNG_1611417091360757_v0_l.jpg",
-      "titleSource" : "Polizei geht härter gegen Maskensünder bei Corona-Demos vor",
-      "titleTarget" : "Policija poduzima oštriju akciju protiv maskiranih grešnika na demo demonstracijama",
-      "url" : "https://www.diepresse.com/5926965/Einsatzkonzept_Polizei-geht-haerter-gegen-Maskensuender-bei?from=rss"
-    }, {
-      "id" : "305TA3rQ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/2/7/5926951/CORONA-TIROL---BEGINN-DER-CORONA-MASSENTESTS-IN-INNSBRUCK_1611416217731537_v0_l.jpg",
-      "titleSource" : "Willi sucht neue Mehrheiten, aber kein Koalitionsende in Innsbruck",
-      "titleTarget" : "Willi traži nove većine, ali ne i kraj koalicije u Innsbrucku",
-      "url" : "https://www.diepresse.com/5926951/Tirol_Willi-sucht-neue-Mehrheiten-aber-kein-Koalitionsende-in?from=rss"
-    }, {
-      "id" : "7gk3vUAL",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/d/b/5926875/50EF1275-AC00-44C9-AF03-08EB703F8513_v0_h.jpg",
-      "titleSource" : "Anschober sieht Startphase vorerst nicht gefährdet",
-      "titleTarget" : "Anschober zasad ne vidi početnu fazu u opasnosti",
-      "url" : "https://www.diepresse.com/5926875/Impfplan_Anschober-sieht-Startphase-vorerst-nicht-gefaehrdet?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "8NhQyEaP",
-      "imgUrl" : "https://image.kurier.at/images/original/321975/flugzeug-000_Reinhard%252BVogel.jpg",
-      "titleSource" : "Landeverbot ab Montag auch für Flüge aus Brasilien",
-      "titleTarget" : "Zabrana slijetanja od ponedjeljka i za letove iz Brazila",
-      "url" : "https://kurier.at/wirtschaft/landeverbot-ab-montag-auch-fuer-fluege-aus-brasilien/401165748"
-    }, {
-      "id" : "vE7URidD",
-      "imgUrl" : "https://image.kurier.at/images/original/4892169/46-168543482.jpg",
-      "titleSource" : "Wirecard: Fluchthilfe aus Österreich für Jan Marsalek",
-      "titleTarget" : "Wirecard: Pomoć za bijeg iz Austrije za Jana Marsaleka",
-      "url" : "https://kurier.at/wirtschaft/wirecard-fluchthilfe-aus-oesterreich-fuer-jan-marsalek/401165958"
+      "id" : "qSMzPuzz",
+      "imgUrl" : "https://image.kurier.at/images/original/4893870/46-174067958.jpg",
+      "titleSource" : "Immer mehr Verstrickungen: Weiterer BVT-Beamter wegen Wirecard verhaftet",
+      "titleTarget" : "Sve više i više spletki: Još jedan dužnosnik BVT-a uhićen zbog Wirecarda",
+      "url" : "https://kurier.at/wirtschaft/immer-mehr-verstrickungen-weiterer-bvt-beamter-wegen-wirecard-verhaftet/401166432"
     }, {
       "id" : "DyTcILSW",
       "imgUrl" : "https://image.kurier.at/images/original/1730388/46-47346875.jpg",
@@ -69,55 +40,54 @@
       "titleTarget" : "U kućnom uredu i onda sva ova buka?",
       "url" : "https://kurier.at/wirtschaft/immobiz/im-homeoffice-und-dann-staendig-dieser-laerm/401164425"
     }, {
-      "id" : "UjCshXjK",
-      "imgUrl" : "https://image.kurier.at/images/original/4891647/46-80555910.jpg",
-      "titleSource" : "Neue Verordnung für Lehrberufe in Begutachtung",
-      "titleTarget" : "Nova uredba o naukovanju u pregledu",
-      "url" : "https://kurier.at/wirtschaft/neue-verordnung-fuer-lehrberufe-in-begutachtung/401165730"
+      "id" : "C0azeoSi",
+      "imgUrl" : "https://image.kurier.at/images/original/911895/deutschland_wirtschaft_export-000_dpa_Christian%252BCharisius.jpg",
+      "titleSource" : "Unter Joe Biden „kein Kuschelkurs, aber Handelstür geht ein Stück weit auf“",
+      "titleTarget" : "Pod Joeom Bidenom \"nema maženja, ali vrata za trgovanje se malo otvaraju\"",
+      "url" : "https://kurier.at/wirtschaft/unter-joe-biden-kein-kuschelkurs-aber-handelstuer-geht-ein-stueck-weit-auf/401166537"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "bBOZ3Aoy",
-      "imgUrl" : "https://image.kurier.at/images/original/4892337/46-174254336.jpg",
-      "titleSource" : "Polizei schritt gegen illegale Corona-Demos ein",
-      "titleTarget" : "Policija je poduzela akciju protiv ilegalnih demonstracija korone",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-schritt-gegen-illegale-corona-demos-ein/401166006"
-    }, {
-      "id" : "wxphTqCV",
-      "imgUrl" : "https://image.kurier.at/images/original/4889079/20210122-ABD0040-1-1.jpg",
-      "titleSource" : "Coronavirus: 25 Euro Strafe bei Nicht-Tragen einer FFP2-Maske",
-      "titleTarget" : "Koronavirus: 25 eura kazne zbog nenanošenja FFP2 maske",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-25-euro-strafe-bei-nicht-tragen-einer-ffp2-maske/401165811"
-    }, {
       "id" : "M9Md3ABH",
       "titleSource" : "Polizei löst Eisstockveranstaltung auf",
       "titleTarget" : "Policija je rastvorila događaj o ledu",
       "url" : "https://kaernten.orf.at/stories/3086598/"
     }, {
-      "id" : "S3CAX2Ry",
-      "imgUrl" : "https://image.kurier.at/images/original/4591514/78350011456079970_BLD_Online.jpg",
-      "titleSource" : "Corona - Impftag: Eine Million Österreicher bisher infiziert",
-      "titleTarget" : "Korona - dan cijepljenja: Do sada je zaraženo milijun Austrijanaca",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-impftag-eine-million-oesterreicher-bisher-infiziert/401165691"
+      "id" : "kOFMOgJN",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/23/crops/w=1280/823282_opener_287123_geh2.jpg?s=1976130b182b62d59900c1e500c31ed0851a2b5f",
+      "titleSource" : "Ernst Gehmacher gestorben",
+      "titleTarget" : "Ernst Gehmacher je umro",
+      "url" : "https://wien.orf.at/stories/3086639/"
     }, {
-      "id" : "jUQu6PKb",
-      "imgUrl" : "https://image.kurier.at/images/original/4891746/46-174082321.jpg",
-      "titleSource" : "Coronavirus: Sieben Südafrika-Mutationen in Tirol",
-      "titleTarget" : "Koronavirus: sedam mutacija u Južnoj Africi u Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-fuenf-suedafrika-mutationen-in-tirol/401165778"
+      "id" : "RollRXKX",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.202 gemeldete Corona-Infektionen in Österreich",
+      "titleTarget" : "1202 prijavljene infekcije koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1202-gemeldete-corona-infektionen-in-oesterreich/401166183"
     }, {
-      "id" : "kLRlZIiE",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/55/crops/w=1280/822553_opener_286855_test1.jpeg?s=a7f681e3543891fcb484f5492b38c560f87685b8",
-      "titleSource" : "Permanente Teststellen in 120 Gemeinden",
-      "titleTarget" : "Stalna mjesta za testiranje u 120 zajednica",
-      "url" : "https://noe.orf.at/stories/3086544/"
+      "id" : "zaCqbvoh",
+      "imgUrl" : "https://image.kurier.at/images/original/4837635/46-173691037.jpg",
+      "titleSource" : "Polizei stoppte Corona-Party in Faschingswagen",
+      "titleTarget" : "Policija je karnevalskim automobilom zaustavila zabavu Corona",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-stoppte-corona-party-in-faschingswagen/401166147"
     }, {
-      "id" : "Vzt9S0D6",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/27/91/crops/w=1280/609240_opener_208691_pcr_test_am_flughafen_wien.jpg?s=f6e4ce6db5605316f4d47f62930e43be863c60f2",
-      "titleSource" : "PCR-Tests im Bezirk Schwaz gestartet",
-      "titleTarget" : "PCR testovi započeli su u okrugu Schwaz",
-      "url" : "https://tirol.orf.at/stories/3086591/"
+      "id" : "yto1oByD",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/25/36/crops/w=1280/189160_opener_49736_apastromausfall__-_apa-bilderdienst_-_07.41_-_abd0025.jpg?s=8f8ae4de72633be5e2ba5cf97913774ef137aa2b",
+      "titleSource" : "Land fördert Gemeinde-Notstromaggregate",
+      "titleTarget" : "Država subvencionira hitne proizvođače električne energije u zajednici",
+      "url" : "https://kaernten.orf.at/stories/3086634/"
+    }, {
+      "id" : "p7nElOVt",
+      "titleSource" : "Fünf-Sterne-Familienhotel vor Baustart",
+      "titleTarget" : "Obiteljski hotel s pet zvjezdica prije početka gradnje",
+      "url" : "https://vorarlberg.orf.at/stories/3086579/"
+    }, {
+      "id" : "pWyBfcgK",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/49/crops/w=1280/823077_opener_287049_welpentransport.jpg?s=51ab0b555b788e36509743020fb99fdb4544ce55",
+      "titleSource" : "Illegaler Welpentransport in Hörbranz aufgedeckt",
+      "titleTarget" : "Otkriven ilegalni prijevoz štenaca u Hörbranzu",
+      "url" : "https://vorarlberg.orf.at/stories/3086626/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -128,23 +98,41 @@
       "titleTarget" : "Redatelj \"Klammera\" Andreas Schmied: \"Materijal za veliko platno\"",
       "url" : "https://kurier.at/kultur/klammer-regisseur-andreas-schmied-stoff-fuer-ganz-grosses-kino/401165976"
     }, {
-      "id" : "wY7jJfhR",
-      "imgUrl" : "https://image.kurier.at/images/original/4891851/46-173864032.jpg",
-      "titleSource" : "Legendärer US-Moderator Larry King gestorben",
-      "titleTarget" : "Preminuo je legendarni američki voditelj Larry King",
-      "url" : "https://kurier.at/kultur/medien/legendaerer-us-moderator-larry-king-gestorben/401165838"
-    }, {
-      "id" : "GZh2ocGw",
-      "imgUrl" : "https://image.kurier.at/images/original/4891449/orf_kurier_20210123104926.jpg",
-      "titleSource" : "TV-Quoten: Peter Kliens \"Gute Nacht Österreich\" wittert Morgenluft",
-      "titleTarget" : "TV ocjene: \"Gute Nacht Österreich\" Petera Kliena miriše na jutarnji zrak",
-      "url" : "https://kurier.at/kultur/medien/tv-quoten-peter-kliens-gute-nacht-oesterreich-wittert-morgenluft/401165715"
+      "id" : "HFhyxBsO",
+      "imgUrl" : "https://image.kurier.at/images/original/4893213/knossi.jpg",
+      "titleSource" : "Twitch-Star Jens Knossalla erhält eigene Late-Night-Show auf RTL",
+      "titleTarget" : "Twitch zvijezda Jens Knossalla prima vlastiti kasnonoćni show na RTL-u",
+      "url" : "https://kurier.at/kultur/medien/twitch-star-jens-knossalla-erhaelt-eigene-late-night-show-auf-rtl/401166291"
     }, {
       "id" : "kurndRgo",
       "imgUrl" : "https://image.kurier.at/images/original/4822404/46-173568362.jpg",
       "titleSource" : "Max Ophüls Preis: Arman T. Riahi räumt mit \"Fuchs im Bau\" ab",
       "titleTarget" : "Nagrada Max Ophüls: Arman T. Riahi pobjeđuje s \"Fuchs im Bau\"",
       "url" : "https://kurier.at/kultur/max-ophuels-preis-arman-t-riahi-raeumt-mit-fuchs-im-bau-ab/401166072"
+    }, {
+      "id" : "SjtCjJYv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/6/5/5927269/36733067-AAE1-4342-98C9-E487CD9B8333_v0_l.jpg",
+      "titleSource" : "Emily Dickinson, die hipste Poetin der 1850er",
+      "titleTarget" : "Emily Dickinson, najtiražnija pjesnikinja 1850-ih",
+      "url" : "https://www.diepresse.com/5927269/Serie_Emily-Dickinson-die-hipste-Poetin-der-1850er?from=rss"
+    }, {
+      "id" : "xeIjJGPT",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/9/5927129/beet_1611484364428779_v0_h.jpg",
+      "titleSource" : "Hat Beethoven sein Metronom einfach nicht verstanden?",
+      "titleTarget" : "Je li Beethoven jednostavno nije razumio svoj metronom?",
+      "url" : "https://www.diepresse.com/5927129/Studie_Hat-Beethoven-sein-Metronom-einfach-nicht-verstanden?from=rss"
+    }, {
+      "id" : "ZFKYGxJR",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "titleSource" : "Musiksalon Nr. 47: Die Mozartwoche, online",
+      "titleTarget" : "Glazbeni salon br. 47: Mozartov tjedan, na mreži",
+      "url" : "https://www.diepresse.com/5927144/Podcast_Musiksalon-Nr-47_Die-Mozartwoche-online?from=rss"
+    }, {
+      "id" : "hyCN4dKi",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/9/5927129/beet_1611484364428779_v0_h.jpg",
+      "titleSource" : "Hat Beethoven hat sein Metronom einfach nicht verstanden?",
+      "titleTarget" : "Je li Beethoven jednostavno nije razumio svoj metronom?",
+      "url" : "https://www.diepresse.com/5927129/Studie_Hat-Beethoven-hat-sein-Metronom-einfach-nicht-verstanden?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -152,41 +140,42 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "tLYiNZpj",
-      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
-      "titleSource" : "Drama um ÖSV-Kombinierer Gruber: Akute Herz-OP nach Comeback",
-      "titleTarget" : "Drama o ÖSV kombiniraču Gruberu: akutna operacija srca nakon povratka",
-      "url" : "https://kurier.at/sport/wintersport/akute-herzoperation-bei-oesv-kombinierer-bernhard-gruber/401166150"
+      "id" : "RmkGKibO",
+      "titleSource" : "Rang zwei für Tippler im Super-G",
+      "titleTarget" : "Drugo mjesto za Tippler u Super-G-u",
+      "url" : "https://sport.orf.at/stories/3072248/"
     }, {
       "id" : "A1gDY7I4",
       "titleSource" : "Gruber nach Comeback wieder im Spital",
       "titleTarget" : "Gruber se vratio u bolnicu nakon povratka",
       "url" : "https://sport.orf.at/stories/3072243/"
     }, {
-      "id" : "D0L8P8Xc",
-      "titleSource" : "Stand in der zweiten Hahnenkamm-Abfahrt ab 10.20 Uhr",
-      "titleTarget" : "Stanite na drugom spustu Hahnenkamm od 10.20 sati",
-      "url" : "https://sport.orf.at/stories/3072227/"
+      "id" : "tLYiNZpj",
+      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
+      "titleSource" : "Drama um ÖSV-Kombinierer Gruber: Akute Herz-OP nach Comeback",
+      "titleTarget" : "Drama o ÖSV kombiniraču Gruberu: akutna operacija srca nakon povratka",
+      "url" : "https://kurier.at/sport/wintersport/akute-herzoperation-bei-oesv-kombinierer-bernhard-gruber/401166150"
+    }, {
+      "id" : "fexLwNcr",
+      "titleSource" : "Steu/Koller rasen vorzeitig zu Gesamtsieg",
+      "titleTarget" : "Utrka Steu / Kollera do ukupne pobjede",
+      "url" : "https://sport.orf.at/stories/3072257/"
+    }, {
+      "id" : "TnKiVBpu",
+      "imgUrl" : "https://image.kurier.at/images/original/4893393/46-174268261.jpg",
+      "titleSource" : "Damen-Super-G: Lara Gut-Behrami siegt vor Tamara Tippler",
+      "titleTarget" : "Dame Super G: Lara Gut-Behrami pobjeđuje ispred Tamare Tippler",
+      "url" : "https://kurier.at/sport/wintersport/damen-super-g-lara-gut-behrami-siegt-vor-tamara-tippler/401166342"
+    }, {
+      "id" : "J9uGs90w",
+      "titleSource" : "Feuz rast zu seltenem Streif-Abfahrtsdouble",
+      "titleTarget" : "Feuz se utrkuje do rijetkog dvostrukog strmina Streif",
+      "url" : "https://sport.orf.at/stories/3072241/"
     }, {
       "id" : "9kAgFyRW",
       "titleSource" : "Streif-Abfahrt wird zu riskantem Balanceakt",
       "titleTarget" : "Streif spuštanje postaje rizičan čin uravnoteženja",
       "url" : "https://sport.orf.at/stories/3072210/"
-    }, {
-      "id" : "svHI9wvp",
-      "titleSource" : "Stand im Damen-Super-G in Crans-Montana ab 12.00 Uhr",
-      "titleTarget" : "Stanite u ženski super-G u Crans-Montani od 12 sati",
-      "url" : "https://sport.orf.at/stories/3072228/"
-    }, {
-      "id" : "F9piCSUJ",
-      "titleSource" : "Bittere Niederlagen für Bayern-Verfolger",
-      "titleTarget" : "Gorki porazi za progonitelje Bayerna",
-      "url" : "https://sport.orf.at/stories/3072219/"
-    }, {
-      "id" : "2Bb7vEQn",
-      "titleSource" : "Stände in internationalen Ligen ab 13.00 Uhr",
-      "titleTarget" : "Stoji u međunarodnim ligama od 13 sati.",
-      "url" : "https://sport.orf.at/stories/3072240/"
     } ]
   } ],
   "country" : "austria",
