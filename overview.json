@@ -2,11 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "yvW6XSFF",
-      "imgUrl" : "https://image.kurier.at/images/original/4886805/20210121-ABD0104-1-1.jpg",
-      "titleSource" : "Szekeres für rasche Impfung von Spitzenpolitikern",
-      "titleTarget" : "Szekeres za brzo cijepljenje vodećih političara",
-      "url" : "https://kurier.at/politik/inland/szekeres-fuer-rasche-impfung-von-spitzenpolitikern/401166288"
+      "id" : "RIE17yui",
+      "imgUrl" : "https://image.kurier.at/images/original/4894941/20210125-ABD0037-1-1.jpg",
+      "titleSource" : "Nachhilfe: Faßmann will mit 200 Millionen Euro Not der Schüler lindern",
+      "titleTarget" : "Poduke: Faßmann želi ublažiti nevolju učenika s 200 milijuna eura",
+      "url" : "https://kurier.at/politik/inland/fassmann-will-mit-200-millionen-euro-not-der-schueler-lindern/401166921"
+    }, {
+      "id" : "gOoFr9ei",
+      "imgUrl" : "https://image.kurier.at/images/original/4895745/46-174234469.jpg",
+      "titleSource" : "Anschober: Erste Lieferung von AstraZeneca ab 7. Februar",
+      "titleTarget" : "Sidro: Prva dostava iz AstraZenece od 7. veljače",
+      "url" : "https://kurier.at/politik/inland/anschober-erste-lieferung-von-astrazeneca-ab-7-februar/401167425"
     }, {
       "id" : "34hLRFQE",
       "imgUrl" : "https://image.kurier.at/images/original/4889505/20210122-ABD0113-1-1.jpg",
@@ -14,44 +20,38 @@
       "titleTarget" : "FFP2 maske: Što vrijedi od ponedjeljka",
       "url" : "https://kurier.at/politik/inland/ffp2-masken-was-ab-montag-gilt/401166048"
     }, {
-      "id" : "RIE17yui",
-      "imgUrl" : "https://image.kurier.at/images/original/4894941/20210125-ABD0037-1-1.jpg",
-      "titleSource" : "Nachhilfe: Faßmann will mit 200 Millionen Euro Not der Schüler lindern",
-      "titleTarget" : "Poduke: Faßmann želi ublažiti nevolju učenika s 200 milijuna eura",
-      "url" : "https://kurier.at/politik/inland/fassmann-will-mit-200-millionen-euro-not-der-schueler-lindern/401166921"
+      "id" : "L8qTYtXI",
+      "imgUrl" : "https://image.kurier.at/images/original/4896453/46-174117459.jpg",
+      "titleSource" : "Corona: Regierung berät mit Experten, Ländern und Opposition",
+      "titleTarget" : "Corona: Vlada se savjetuje sa stručnjacima, zemljama i oporbom",
+      "url" : "https://kurier.at/politik/inland/corona-regierung-beraet-mit-experten-laendern-und-opposition/401167752"
     }, {
-      "id" : "PzASKD19",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/b/5927451/518B5B66-552C-4BBD-A9D7-8F31E9FAAE97_v0_l.jpg",
-      "titleSource" : "\"Impfstoffchaos\": Türkis-Grün für SPÖ Burgenland rücktrittsreif",
-      "titleTarget" : "\"Kaos cjepiva\": Tirkizno-zelena za SPÖ Gradišće spremna za povlačenje",
-      "url" : "https://www.diepresse.com/5927451/Kritik_Impfstoffchaos_TuerkisGruen-fuer-SPOe-Burgenland?from=rss"
+      "id" : "OjapD7vg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/2/0/5927712/A129E1BD-FE29-47D3-8797-E1F12B932197_v0_h.jpg",
+      "titleSource" : "Wie weiter mit den Ski-Liften? Ein Lage-Update im Kanzleramt",
+      "titleTarget" : "Što je sa žičarama? Ažuriranje situacije u kancelariji",
+      "url" : "https://www.diepresse.com/5927712/Videkonferenz_Wie-weiter-mit-den-SkiLiften-Ein-LageUpdate-im?from=rss"
     }, {
-      "id" : "GyaMHQDh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/e/5927454/13AEC2C7-9049-46BB-BD69-CA9E84D438B7_v0_l.jpg",
-      "titleSource" : "SPÖ und Neos wollen Ibiza-Video \"weniger geheim\" machen",
-      "titleTarget" : "SPÖ i Neos žele da video na Ibizi učine \"manje tajnim\"",
-      "url" : "https://www.diepresse.com/5927454/UAusschuss_SPOe-und-Neos-wollen-IbizaVideo-weniger-geheim-machen?from=rss"
+      "id" : "lnez7JTd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/b/a/5927610/EFC74962-5EEB-44C6-8824-77DB82396BF4_v0_l.jpg",
+      "titleSource" : "Innsbruck: Willi verhandelt mit Neos über Zusammenarbeit",
+      "titleTarget" : "Innsbruck: Willi pregovara o suradnji s Neosom",
+      "url" : "https://www.diepresse.com/5927610/Stadtpolitik_Innsbruck_Willi-verhandelt-mit-Neos-ueber?from=rss"
     }, {
-      "id" : "wcpxnrm3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/3/5927395/EA450FC9-6B11-4D6A-8D90-4FCBDDB20B3E_v0_l.jpg",
-      "titleSource" : "\"Keine verlorene Generation\": Mehr Lehrer, mehr Förderung geplant",
-      "titleTarget" : "\"Nema izgubljene generacije\": više učitelja, planirana veća podrška",
-      "url" : "https://www.diepresse.com/5927395/Schule_Keine-verlorene-Generation_Mehr-Lehrer-mehr-Foerderung-geplant?from=rss"
-    }, {
-      "id" : "TlDAK2Ke",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/3/5927395/EA450FC9-6B11-4D6A-8D90-4FCBDDB20B3E_v0_l.jpg",
-      "titleSource" : "Mehr Lehrer, mehr Förderstunden: Wie es in der Schule weitergeht",
-      "titleTarget" : "Više učitelja, više sati podrške: što se događa u školi",
-      "url" : "https://www.diepresse.com/5927395/Schule_Mehr-Lehrer-mehr-Foerderstunden_Wie-es-in-der-Schule?from=rss"
+      "id" : "7AOSaWRA",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/4/d/5927501/208363E5-D364-4841-92E5-E8E0D72703F7_v1_l.jpg",
+      "titleSource" : "FPÖ will Ex-Minister Schelling zu Causa Casinos befragen",
+      "titleTarget" : "FPÖ želi pitati bivšeg ministra Schellinga o uzroku kockarnica",
+      "url" : "https://www.diepresse.com/5927501/UAusschuss_FPOe-will-ExMinister-Schelling-zu-Causa-Casinos-befragen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "qSMzPuzz",
-      "imgUrl" : "https://image.kurier.at/images/original/4893870/46-174067958.jpg",
-      "titleSource" : "Immer mehr Verstrickungen: Weiterer BVT-Beamter wegen Wirecard verhaftet",
-      "titleTarget" : "Sve više i više spletki: Još jedan dužnosnik BVT-a uhićen zbog Wirecarda",
-      "url" : "https://kurier.at/wirtschaft/immer-mehr-verstrickungen-weiterer-bvt-beamter-wegen-wirecard-verhaftet/401166432"
+      "id" : "jOUuHNPj",
+      "imgUrl" : "https://image.kurier.at/images/original/3599380/78370011349341490_BLD_Online.jpg",
+      "titleSource" : "Lidl und Aldi zahlen Angestellten in den USA Impf-Prämien",
+      "titleTarget" : "Lidl i Aldi plaćaju zaposlenicima američke bonuse za cijepljenje",
+      "url" : "https://kurier.at/wirtschaft/lidl-und-aldi-zahlen-angestellten-in-den-usa-impf-praemien/401167140"
     }, {
       "id" : "4uOdach4",
       "imgUrl" : "https://image.kurier.at/images/original/428595/Made%252Bin%252BChina.jpg",
@@ -59,11 +59,17 @@
       "titleTarget" : "Najveći kineski primatelj izravnih stranih ulaganja",
       "url" : "https://kurier.at/wirtschaft/china-groesster-empfaenger-von-auslandsdirektinvestitionen/401166789"
     }, {
-      "id" : "rWYqjsCT",
-      "imgUrl" : "https://image.kurier.at/images/original/4888584/46-174138493.jpg",
-      "titleSource" : "Suche nach dem Traumberuf: Und wer willst du sein? ",
-      "titleTarget" : "Potražite posao iz snova: a tko želite biti?",
-      "url" : "https://kurier.at/wirtschaft/karriere/suche-nach-dem-traumberuf-und-wer-willst-du-sein/401164500"
+      "id" : "nz6fRz8Q",
+      "imgUrl" : "https://image.kurier.at/images/original/2664746/20180702-ABD0001-1-1.jpg",
+      "titleSource" : "Europaweit mehr Öko- als fossiler Strom",
+      "titleTarget" : "Više zelene od fosilne električne energije u Europi",
+      "url" : "https://kurier.at/wirtschaft/europa-mehr-oeko-als-fossiler-strom/401166861"
+    }, {
+      "id" : "skahoblW",
+      "imgUrl" : "https://image.kurier.at/images/original/4896045/46-174283795.jpg",
+      "titleSource" : "Neuer Aufsichtrat der Lotterien tritt sein Amt nicht an",
+      "titleTarget" : "Novi nadzorni odbor lutrija ne preuzima dužnost",
+      "url" : "https://kurier.at/wirtschaft/neuer-aufsichtrat-der-lotterien-tritt-amt-nicht-an/401167566"
     }, {
       "id" : "T5CODIo9",
       "imgUrl" : "https://image.kurier.at/images/original/4894641/46-79106341.jpg",
@@ -71,68 +77,62 @@
       "titleTarget" : "Zelene obveznice dosegle su rekordne razine",
       "url" : "https://kurier.at/wirtschaft/gruene-anleihen-erreichen-rekordniveau/401166801"
     }, {
-      "id" : "GfRGwG7r",
-      "imgUrl" : "https://image.kurier.at/images/original/4886367/46-174035960.jpg",
-      "titleSource" : "Krisensichere Arbeit: Drei Jobprofile für Berufseinsteiger",
-      "titleTarget" : "Rad bez kriza: tri profila posla za mlade stručnjake",
-      "url" : "https://kurier.at/wirtschaft/karriere/krisensichere-arbeit-drei-jobprofile-fuer-berufseinsteiger/401163369"
+      "id" : "rWYqjsCT",
+      "imgUrl" : "https://image.kurier.at/images/original/4888584/46-174138493.jpg",
+      "titleSource" : "Suche nach dem Traumberuf: Und wer willst du sein? ",
+      "titleTarget" : "Potražite posao iz snova: a tko želite biti?",
+      "url" : "https://kurier.at/wirtschaft/karriere/suche-nach-dem-traumberuf-und-wer-willst-du-sein/401164500"
     }, {
-      "id" : "6s6AJdCW",
-      "imgUrl" : "https://image.kurier.at/images/original/4894806/46-174160299.jpg",
-      "titleSource" : "Börsengang von Auto1 soll bis zu 1,8 Mrd. Euro schwer sein",
-      "titleTarget" : "IPO Auto1 trebao bi vrijediti do 1,8 milijardi eura",
-      "url" : "https://kurier.at/wirtschaft/boersengang-von-auto1-soll-bis-zu-18-mrd-euro-schwer-sein/401166942"
-    }, {
-      "id" : "nz6fRz8Q",
-      "imgUrl" : "https://image.kurier.at/images/original/2664746/20180702-ABD0001-1-1.jpg",
-      "titleSource" : "Europaweit mehr Öko- als fossiler Strom",
-      "titleTarget" : "Više zelene od fosilne električne energije u Europi",
-      "url" : "https://kurier.at/wirtschaft/europa-mehr-oeko-als-fossiler-strom/401166861"
+      "id" : "yvlgIVbM",
+      "imgUrl" : "https://image.kurier.at/images/original/4540487/46-163815211.jpg",
+      "titleSource" : "Echtzeitzahlungen sollen bis 2025 normal werden",
+      "titleTarget" : "Očekuje se da će plaćanja u stvarnom vremenu postati normalna do 2025. godine",
+      "url" : "https://kurier.at/wirtschaft/echtzeitzahlungen-sollen-bis-2025-normal-werden/401167332"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "xLU6J7u6",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/49/41/crops/w=1280/769955_opener_267741_dsc_0058.jpg?s=a9a1a823616d1577497b1f7968433cb8e2e88a5e",
-      "titleSource" : "St. Pölten: SPÖ-Absolute trotz Verlusten",
-      "titleTarget" : "St. Pölten: SPÖ apsolutni unatoč gubicima",
-      "url" : "https://noe.orf.at/stories/3086683/"
+      "id" : "mJaVoqbt",
+      "imgUrl" : "https://image.kurier.at/images/original/4828638/46-84141314.jpg",
+      "titleSource" : "AUA-Crew mit Cocktails - aber ohne Abstand - auf den Malediven",
+      "titleTarget" : "Posada AUA s koktelima - ali bez ikakve udaljenosti - na Maldivima",
+      "url" : "https://kurier.at/chronik/oesterreich/aua-crew-mit-cocktails-aber-ohne-abstand-auf-den-malediven/401167689"
     }, {
-      "id" : "mggxPHQT",
-      "imgUrl" : "https://image.kurier.at/images/original/4894029/46-174255844.jpg",
-      "titleSource" : "Neuerliche Attacke auf zweisprachige Ortstafeln",
-      "titleTarget" : "Još jedan napad na dvojezične znakove imena mjesta",
-      "url" : "https://kurier.at/chronik/oesterreich/neuerliche-attacke-auf-zweisprachige-ortstafeln/401166516"
-    }, {
-      "id" : "Iz7D5ukO",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/06/crops/w=1280/823302_opener_287106_50862205461_0d9c1a5c5e_o.jpg?s=d24c73aeaae3321539e5e69ac9ce52776710da85",
-      "titleSource" : "Mann schmuggelte 74 Chamäleons in Koffer",
-      "titleTarget" : "Čovjek je prošvercao 74 kameleona u kofere",
-      "url" : "https://noe.orf.at/stories/3086650/"
-    }, {
-      "id" : "QzazXexG",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/93/crops/w=1280/823293_opener_190293_bib.jpg?s=25a00a5283d79359b145f9f452ea78c4efb294be",
-      "titleSource" : "Büchereien starten mit Click & Collect",
-      "titleTarget" : "Knjižnice započinju s Click & Collect",
-      "url" : "https://wien.orf.at/stories/3086658/"
-    }, {
-      "id" : "Yc307R3K",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/84/crops/w=1280/822644_opener_286884_210xxx_bh_v2_das-juengste-bundesland-00.02.40.jpg?s=ecd42560d17fcf5556660e6e9dd37bd95920499b",
-      "titleSource" : "Burgenland – das jüngste Bundesland?",
-      "titleTarget" : "Gradišće - najmlađa savezna država?",
-      "url" : "https://burgenland.orf.at/stories/3086548/"
-    }, {
-      "id" : "U1nMnlQo",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/44/crops/w=1280/819119_opener_285544_20210120_093120.jpg?s=63d3a33936a7e5da9d3933841944a20298a625ac",
-      "titleSource" : "„Zirkus Berlin“ sucht Bleibe in Vorarlberg",
-      "titleTarget" : "“Berlin Circus” traži mjesto za boravak u Vorarlbergu",
-      "url" : "https://vorarlberg.orf.at/stories/3085790/"
+      "id" : "SMHAe8SX",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/32/crops/w=1280/814257_opener_283932_img_7045_1.jpg?s=152d177338fc707b0304856eec9da05847496363",
+      "titleSource" : "Italienischer Mozzarella made in Klagenfurt",
+      "titleTarget" : "Talijanska mocarela proizvedena u Klagenfurtu",
+      "url" : "https://kaernten.orf.at/stories/3085423/"
     }, {
       "id" : "bdOkNdPc",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.009 Neuinfektionen in Österreich",
       "titleTarget" : "1.009 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1009-neuinfektionen-in-oesterreich/401166930"
+    }, {
+      "id" : "r3o9W50z",
+      "imgUrl" : "https://image.kurier.at/images/original/3454510/46-145757056.jpg",
+      "titleSource" : "Corona-Infizierter reiste von Salzburg nach Italien auf Urlaub",
+      "titleTarget" : "Osoba zaražena koronom putovala je iz Salzburga u Italiju na odmor",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-reiste-von-salzburg-nach-italien-auf-urlaub/401167506"
+    }, {
+      "id" : "IoGCp04N",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/84/crops/w=1280/807467_opener_281484_kh_fahrschulen_ohne_unterricht_210109_00_00_43_12.jpg?s=28caa164ca82df8bda9b568124d8ecdf79544ac9",
+      "titleSource" : "Führerscheinprüfungen erlaubt",
+      "titleTarget" : "Dopušteni testovi vozačke dozvole",
+      "url" : "https://oesterreich.orf.at/stories/3086781/"
+    }, {
+      "id" : "G8CHgHnZ",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/44/crops/w=1280/747302_opener_259344_friedhof.jpg?s=6187fd7b3c7cf3b771ab5d31067f66b8c603e485",
+      "titleSource" : "Uni Graz: Digitales Erinnern an NS-Gräuel",
+      "titleTarget" : "Uni Graz: digitalna sjećanja na nacistička zlodjela",
+      "url" : "https://steiermark.orf.at/stories/3086792/"
+    }, {
+      "id" : "JK0SDXB4",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/36/crops/w=1280/823965_opener_287336_matt.jpg?s=13b5c27e24ff92b8f6bc463c99703ce52a5daaf6",
+      "titleSource" : "„Bürgermeister-Impfung“ schlägt weiter Wellen",
+      "titleTarget" : "\"Cijepljenje gradonačelnika\" i dalje stvara valove",
+      "url" : "https://vorarlberg.orf.at/stories/3086769/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,41 +143,41 @@
       "titleTarget" : "Arik Brauer umro je nekoliko dana nakon 92. rođendana",
       "url" : "https://kurier.at/kultur/arik-brauer-starb-wenige-tage-nach-seinem-92-geburtstag/401166681"
     }, {
-      "id" : "HFhyxBsO",
-      "imgUrl" : "https://image.kurier.at/images/original/4893213/knossi.jpg",
-      "titleSource" : "Twitch-Star Jens Knossalla erhält eigene Late-Night-Show auf RTL",
-      "titleTarget" : "Twitch zvijezda Jens Knossalla prima vlastiti kasnonoćni show na RTL-u",
-      "url" : "https://kurier.at/kultur/medien/twitch-star-jens-knossalla-erhaelt-eigene-late-night-show-auf-rtl/401166291"
+      "id" : "Q3mIYXNH",
+      "imgUrl" : "https://image.kurier.at/images/original/4894581/20210125-ABD0004-1-1.jpg",
+      "titleSource" : "Reaktionen auf Tod von Arik Brauer: \"Österreich wird diese Stimme vermissen\"",
+      "titleTarget" : "Reakcije na smrt Arika Brauera: \"Austriji će nedostajati ovaj glas\"",
+      "url" : "https://kurier.at/kultur/reaktionen-auf-tod-von-arik-brauer-oesterreich-wird-diese-stimme-vermissen/401167338"
+    }, {
+      "id" : "D7rLmJ89",
+      "imgUrl" : "https://image.kurier.at/images/original/3078741/78350011445578518_BLD_Online.jpg",
+      "titleSource" : "In memoriam Arik Brauer: ORF ändert sein Programm",
+      "titleTarget" : "In memoriam Arik Brauer: ORF mijenja svoj program",
+      "url" : "https://kurier.at/kultur/medien/in-memoriam-arik-brauer-orf-aendert-sein-programm/401167419"
+    }, {
+      "id" : "DnzULxRo",
+      "imgUrl" : "https://image.kurier.at/images/original/4895355/46-142339953.jpg",
+      "titleSource" : "Lauter Knall live im \"ZiB 2\"-Studio: Das steckt dahinter",
+      "titleTarget" : "Glasan prasak uživo u studiju \"ZiB 2\": to stoji iza toga",
+      "url" : "https://kurier.at/kultur/medien/lauter-knall-live-im-zib2-studio-das-steckt-dahinter/401167323"
+    }, {
+      "id" : "VAzy3arB",
+      "imgUrl" : "https://image.kurier.at/images/original/4896549/46-164932853.jpg",
+      "titleSource" : "Neues Drama mit Hader: \"Andrea lässt sich scheiden\"",
+      "titleTarget" : "Nova drama s Hader: \"Andrea se razvodi\"",
+      "url" : "https://kurier.at/kultur/neues-drama-mit-josef-hader-andrea-laesst-sich-scheiden/401167803"
+    }, {
+      "id" : "oulwY5ra",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/5/6/5927766/DAVOS_1_CMYK_1611596686460952_v0_h.jpg",
+      "titleSource" : "Davos ist ein Miniaturporträt unserer Gegenwart",
+      "titleTarget" : "Davos je minijaturni portret naše sadašnjosti",
+      "url" : "https://www.diepresse.com/5927766/Doku_Davos-ist-ein-Miniaturportraet-unserer-Gegenwart?from=rss"
     }, {
       "id" : "ybubxdSL",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/e/5927406/1C41AB1E-D2A9-416C-8144-AA2229EB1307_v0_h.jpg",
       "titleSource" : "Wiener Büchereien starten Abholservice",
       "titleTarget" : "Bečke knjižnice pokreću uslugu sakupljanja",
       "url" : "https://www.diepresse.com/5927406/Click-Collect_Wiener-Buechereien-starten-Abholservice?from=rss"
-    }, {
-      "id" : "JFbxYZOq",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/e/5927406/1C41AB1E-D2A9-416C-8144-AA2229EB1307_v0_h.jpg",
-      "titleSource" : "Wiener Büchereien starten Abholservice",
-      "titleTarget" : "Bečke knjižnice pokreću uslugu sakupljanja",
-      "url" : "https://www.diepresse.com/5927406/Wien_Wiener-Buechereien-starten-Abholservice?from=rss"
-    }, {
-      "id" : "uy3QPShj",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/c/3/5927363/A468912B-46E4-4D87-918D-153C61C9DA60_v0_l.jpg",
-      "titleSource" : "Künstler Arik Brauer verstorben",
-      "titleTarget" : "Umro je umjetnik Arik Brauer",
-      "url" : "https://www.diepresse.com/5927363/1929-2021_Kuenstler-Arik-Brauer-verstorben?from=rss"
-    }, {
-      "id" : "SjtCjJYv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/6/5/5927269/36733067-AAE1-4342-98C9-E487CD9B8333_v0_l.jpg",
-      "titleSource" : "Emily Dickinson, die hipste Poetin der 1850er",
-      "titleTarget" : "Emily Dickinson, najtiražnija pjesnikinja 1850-ih",
-      "url" : "https://www.diepresse.com/5927269/Serie_Emily-Dickinson-die-hipste-Poetin-der-1850er?from=rss"
-    }, {
-      "id" : "xeIjJGPT",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/9/5927129/beet_1611484364428779_v0_h.jpg",
-      "titleSource" : "Hat Beethoven sein Metronom einfach nicht verstanden?",
-      "titleTarget" : "Je li Beethoven jednostavno nije razumio svoj metronom?",
-      "url" : "https://www.diepresse.com/5927129/Studie_Hat-Beethoven-sein-Metronom-einfach-nicht-verstanden?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,44 +185,43 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "9oGlWg91",
+      "titleSource" : "Kriechmayr schlägt auf Streif im Super-G zu",
+      "titleTarget" : "Kriechmayr pogađa Streifa u Super-G-u",
+      "url" : "https://sport.orf.at/stories/3072300/"
+    }, {
       "id" : "0amZkGVt",
       "imgUrl" : "https://image.kurier.at/images/original/4894305/46-174275365.jpg",
       "titleSource" : "Drama in Brasilien: Flugzeug mit Fußballern an Bord abgestürzt",
       "titleTarget" : "Drama u Brazilu: avion se srušio s nogometašima na brodu",
       "url" : "https://kurier.at/sport/fussball/drama-in-brasilien-flugzeug-mit-fussball-team-abgestuerzt/401166570"
     }, {
+      "id" : "ILRoM4y0",
+      "imgUrl" : "https://image.kurier.at/images/original/4894629/46-174140416.jpg",
+      "titleSource" : "Sexuelle Belästigung: Eine Olympionikin bricht ihr Schweigen",
+      "titleTarget" : "Seksualno uznemiravanje: Olimpijka prekida njezinu šutnju",
+      "url" : "https://kurier.at/sport/sexuelle-belaestigung-olympionikin-sofia-bekatorou-bricht-ihr-schweigen/401166804"
+    }, {
       "id" : "ENolCXrJ",
       "titleSource" : "Tampa Bay sorgt für Super-Bowl-Premiere​",
       "titleTarget" : "Tampa Bay premijerno prikazuje premijeru Super Bowla",
       "url" : "https://sport.orf.at/stories/3072294/"
     }, {
-      "id" : "TnKiVBpu",
-      "imgUrl" : "https://image.kurier.at/images/original/4893393/46-174268261.jpg",
-      "titleSource" : "Damen-Super-G: Lara Gut-Behrami siegt vor Tamara Tippler",
-      "titleTarget" : "Dame Super G: Lara Gut-Behrami pobjeđuje ispred Tamare Tippler",
-      "url" : "https://kurier.at/sport/wintersport/damen-super-g-lara-gut-behrami-siegt-vor-tamara-tippler/401166342"
+      "id" : "sTLl4I5W",
+      "titleSource" : "Salzburg und Rapid setzen sich etwas ab",
+      "titleTarget" : "Salzburg i Rapid su se izdvojili",
+      "url" : "https://sport.orf.at/stories/3072299/"
     }, {
-      "id" : "zXO3dqYj",
-      "imgUrl" : "https://image.kurier.at/images/original/4893768/46-174267620.jpg",
-      "titleSource" : "Langlauf: Eklat um Russen Bolschunow - Attacke auf Konkurrenten",
-      "titleTarget" : "Skijaško trčanje: skandal oko Rusa Bolšunova - napad na konkurente",
-      "url" : "https://kurier.at/sport/wintersport/langlauf-eklat-um-russen-bolschunow-attacke-auf-konkurrenten/401166408"
+      "id" : "LvpGhlic",
+      "titleSource" : "Deutscher Dreßen darf auf WM-Teilnahme hoffen",
+      "titleTarget" : "Nijemac Dreßen može se nadati sudjelovanju na Svjetskom kupu",
+      "url" : "https://sport.orf.at/stories/3072314/"
     }, {
-      "id" : "vToLBNuD",
-      "titleSource" : "Alaba trifft bei Bayern-Kantersieg",
-      "titleTarget" : "Alaba zabija u pobjedi Bayerna",
-      "url" : "https://sport.orf.at/stories/3072277/"
-    }, {
-      "id" : "WwlltRc7",
-      "imgUrl" : "https://image.kurier.at/images/original/4894140/46-174273081.jpg",
-      "titleSource" : "Rückschlag im Titelkampf: LASK blamiert sich gegen WSG Tirol",
-      "titleTarget" : "Neuspjeh u borbi za naslov: LASK je posramljen protiv WSG Tirola",
-      "url" : "https://kurier.at/sport/fussball/rueckschlag-im-bundesliga-titelkampf-lask-blamiert-sich-gegen-wsg-tirol/401166558"
-    }, {
-      "id" : "ZKGR0OWy",
-      "titleSource" : "LASK legt Fehlstart ins Frühjahr hin",
-      "titleTarget" : "LASK lažno započinje proljeće",
-      "url" : "https://sport.orf.at/stories/3072280/"
+      "id" : "RIS6lIew",
+      "imgUrl" : "https://image.kurier.at/images/original/4896048/46-146158546.jpg",
+      "titleSource" : "Pal Dardai kehrt auf die Hertha-Trainerbank zurück",
+      "titleTarget" : "Pal Dardai vraća se na trenersku klupu Herthe",
+      "url" : "https://kurier.at/sport/fussball/fussball-dardai-neuer-chefcoach-bei-hertha-bsc-vertrag-bis-2022/401167560"
     } ]
   } ],
   "country" : "austria",
