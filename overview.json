@@ -14,17 +14,22 @@
       "titleTarget" : "Sidro: Prva dostava iz AstraZenece od 7. veljače",
       "url" : "https://kurier.at/politik/inland/anschober-erste-lieferung-von-astrazeneca-ab-7-februar/401167425"
     }, {
-      "id" : "34hLRFQE",
-      "imgUrl" : "https://image.kurier.at/images/original/4889505/20210122-ABD0113-1-1.jpg",
-      "titleSource" : "FFP2-Masken: Was ab Montag gilt",
-      "titleTarget" : "FFP2 maske: Što vrijedi od ponedjeljka",
-      "url" : "https://kurier.at/politik/inland/ffp2-masken-was-ab-montag-gilt/401166048"
-    }, {
       "id" : "L8qTYtXI",
       "imgUrl" : "https://image.kurier.at/images/original/4896453/46-174117459.jpg",
       "titleSource" : "Corona: Regierung berät mit Experten, Ländern und Opposition",
       "titleTarget" : "Corona: Vlada se savjetuje sa stručnjacima, zemljama i oporbom",
       "url" : "https://kurier.at/politik/inland/corona-regierung-beraet-mit-experten-laendern-und-opposition/401167752"
+    }, {
+      "id" : "9NYCDXYK",
+      "imgUrl" : "https://image.kurier.at/images/original/4879794/tierschutz2.jpg",
+      "titleSource" : "Tierschutz-Volksbegehren erreicht 416.229 Unterschriften",
+      "titleTarget" : "Referendum o zaštiti životinja dosegnuo je 416.229 potpisa",
+      "url" : "https://kurier.at/politik/inland/tierschutz-volksbegehren-erreicht-416229-unterschriften/401167921"
+    }, {
+      "id" : "DBxJtAst",
+      "titleSource" : "Volksbegehren: 416.229 Unterschriften für den Tierschutz",
+      "titleTarget" : "Narodna inicijativa: 416.229 potpisa za dobrobit životinja",
+      "url" : "https://www.diepresse.com/5927817/Direkte-Demokratie_Volksbegehren_416229-Unterschriften-fuer-den?from=rss"
     }, {
       "id" : "OjapD7vg",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/2/0/5927712/A129E1BD-FE29-47D3-8797-E1F12B932197_v0_h.jpg",
@@ -37,12 +42,6 @@
       "titleSource" : "Innsbruck: Willi verhandelt mit Neos über Zusammenarbeit",
       "titleTarget" : "Innsbruck: Willi pregovara o suradnji s Neosom",
       "url" : "https://www.diepresse.com/5927610/Stadtpolitik_Innsbruck_Willi-verhandelt-mit-Neos-ueber?from=rss"
-    }, {
-      "id" : "7AOSaWRA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/4/d/5927501/208363E5-D364-4841-92E5-E8E0D72703F7_v1_l.jpg",
-      "titleSource" : "FPÖ will Ex-Minister Schelling zu Causa Casinos befragen",
-      "titleTarget" : "FPÖ želi pitati bivšeg ministra Schellinga o uzroku kockarnica",
-      "url" : "https://www.diepresse.com/5927501/UAusschuss_FPOe-will-ExMinister-Schelling-zu-Causa-Casinos-befragen?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -65,17 +64,17 @@
       "titleTarget" : "Više zelene od fosilne električne energije u Europi",
       "url" : "https://kurier.at/wirtschaft/europa-mehr-oeko-als-fossiler-strom/401166861"
     }, {
-      "id" : "skahoblW",
-      "imgUrl" : "https://image.kurier.at/images/original/4896045/46-174283795.jpg",
-      "titleSource" : "Neuer Aufsichtrat der Lotterien tritt sein Amt nicht an",
-      "titleTarget" : "Novi nadzorni odbor lutrija ne preuzima dužnost",
-      "url" : "https://kurier.at/wirtschaft/neuer-aufsichtrat-der-lotterien-tritt-amt-nicht-an/401167566"
-    }, {
       "id" : "T5CODIo9",
       "imgUrl" : "https://image.kurier.at/images/original/4894641/46-79106341.jpg",
       "titleSource" : "Grüne Anleihen erreichen Rekordniveau",
       "titleTarget" : "Zelene obveznice dosegle su rekordne razine",
       "url" : "https://kurier.at/wirtschaft/gruene-anleihen-erreichen-rekordniveau/401166801"
+    }, {
+      "id" : "EPErtKno",
+      "imgUrl" : "https://image.kurier.at/images/original/2058264/46-77621517.jpg",
+      "titleSource" : "EU erwägt 10.000-Euro-Limit für Bargeldzahlungen",
+      "titleTarget" : "EU razmatra ograničenje od 10.000 eura za gotovinska plaćanja",
+      "url" : "https://kurier.at/wirtschaft/eu-erwaegt-10000-euro-limit-fuer-bargeldzahlungen/401167860"
     }, {
       "id" : "rWYqjsCT",
       "imgUrl" : "https://image.kurier.at/images/original/4888584/46-174138493.jpg",
@@ -98,11 +97,11 @@
       "titleTarget" : "Posada AUA s koktelima - ali bez ikakve udaljenosti - na Maldivima",
       "url" : "https://kurier.at/chronik/oesterreich/aua-crew-mit-cocktails-aber-ohne-abstand-auf-den-malediven/401167689"
     }, {
-      "id" : "SMHAe8SX",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/03/32/crops/w=1280/814257_opener_283932_img_7045_1.jpg?s=152d177338fc707b0304856eec9da05847496363",
-      "titleSource" : "Italienischer Mozzarella made in Klagenfurt",
-      "titleTarget" : "Talijanska mocarela proizvedena u Klagenfurtu",
-      "url" : "https://kaernten.orf.at/stories/3085423/"
+      "id" : "r3o9W50z",
+      "imgUrl" : "https://image.kurier.at/images/original/3454510/46-145757056.jpg",
+      "titleSource" : "Corona-Infizierter reiste von Salzburg nach Italien auf Urlaub",
+      "titleTarget" : "Osoba zaražena koronom putovala je iz Salzburga u Italiju na odmor",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-reiste-von-salzburg-nach-italien-auf-urlaub/401167506"
     }, {
       "id" : "bdOkNdPc",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
@@ -110,39 +109,32 @@
       "titleTarget" : "1.009 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1009-neuinfektionen-in-oesterreich/401166930"
     }, {
-      "id" : "r3o9W50z",
-      "imgUrl" : "https://image.kurier.at/images/original/3454510/46-145757056.jpg",
-      "titleSource" : "Corona-Infizierter reiste von Salzburg nach Italien auf Urlaub",
-      "titleTarget" : "Osoba zaražena koronom putovala je iz Salzburga u Italiju na odmor",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-infizierter-reiste-von-salzburg-nach-italien-auf-urlaub/401167506"
-    }, {
-      "id" : "IoGCp04N",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/02/84/crops/w=1280/807467_opener_281484_kh_fahrschulen_ohne_unterricht_210109_00_00_43_12.jpg?s=28caa164ca82df8bda9b568124d8ecdf79544ac9",
-      "titleSource" : "Führerscheinprüfungen erlaubt",
-      "titleTarget" : "Dopušteni testovi vozačke dozvole",
-      "url" : "https://oesterreich.orf.at/stories/3086781/"
-    }, {
-      "id" : "G8CHgHnZ",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/44/crops/w=1280/747302_opener_259344_friedhof.jpg?s=6187fd7b3c7cf3b771ab5d31067f66b8c603e485",
-      "titleSource" : "Uni Graz: Digitales Erinnern an NS-Gräuel",
-      "titleTarget" : "Uni Graz: digitalna sjećanja na nacistička zlodjela",
-      "url" : "https://steiermark.orf.at/stories/3086792/"
-    }, {
       "id" : "JK0SDXB4",
       "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/36/crops/w=1280/823965_opener_287336_matt.jpg?s=13b5c27e24ff92b8f6bc463c99703ce52a5daaf6",
-      "titleSource" : "„Bürgermeister-Impfung“ schlägt weiter Wellen",
+      "titleSource" : "„Bürgermeister-Impfung“: U-Ausschuss vom Tisch",
       "titleTarget" : "\"Cijepljenje gradonačelnika\" i dalje stvara valove",
       "url" : "https://vorarlberg.orf.at/stories/3086769/"
+    }, {
+      "id" : "azXy9cnC",
+      "titleSource" : "SPÖ: Bundesregierung rücktrittsreif",
+      "titleTarget" : "SPÖ: Savezna vlada spremna dati ostavku",
+      "url" : "https://burgenland.orf.at/stories/3086762/"
+    }, {
+      "id" : "fyFgiair",
+      "imgUrl" : "https://image.kurier.at/images/original/4705689/78350011457032546_BLD_Online.jpg",
+      "titleSource" : "Corona-Demos in der Steiermark und OÖ: Mehrere Festnahmen",
+      "titleTarget" : "Demo demonstracije Corone u Štajerskoj i Gornjoj Austriji: Nekoliko uhićenja",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demos-in-der-steiermark-und-ooe-mehrere-festnahmen/401167002"
+    }, {
+      "id" : "0eaQAP8d",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/12/crops/w=1280/764864_opener_265912_impfung_kurz_impfung_jaenner_a.jpg?s=d74abe47b30507a3ec2aa39030a3d12c00db3b5d",
+      "titleSource" : "Notruf 144: „Keine Impfdosen verschwenden“",
+      "titleTarget" : "Broj hitne službe 144: \"Ne trošite doze cijepljenja\"",
+      "url" : "https://noe.orf.at/stories/3086794/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "kdtLix0d",
-      "imgUrl" : "https://image.kurier.at/images/original/4894497/46-140243544.jpg",
-      "titleSource" : "Arik Brauer starb wenige Tage nach seinem 92. Geburtstag",
-      "titleTarget" : "Arik Brauer umro je nekoliko dana nakon 92. rođendana",
-      "url" : "https://kurier.at/kultur/arik-brauer-starb-wenige-tage-nach-seinem-92-geburtstag/401166681"
-    }, {
       "id" : "Q3mIYXNH",
       "imgUrl" : "https://image.kurier.at/images/original/4894581/20210125-ABD0004-1-1.jpg",
       "titleSource" : "Reaktionen auf Tod von Arik Brauer: \"Österreich wird diese Stimme vermissen\"",
@@ -161,6 +153,18 @@
       "titleTarget" : "Glasan prasak uživo u studiju \"ZiB 2\": to stoji iza toga",
       "url" : "https://kurier.at/kultur/medien/lauter-knall-live-im-zib2-studio-das-steckt-dahinter/401167323"
     }, {
+      "id" : "8Cu6d5JX",
+      "imgUrl" : "https://image.kurier.at/images/original/4896591/46-167997633.jpg",
+      "titleSource" : "Ex-Skiprofi Schönfelder verstärkt „The Masked Singer“",
+      "titleTarget" : "Bivši skijaški profesionalac Schönfelder ojačao je \"Maskiranog pjevača\"",
+      "url" : "https://kurier.at/kultur/ex-skiprofi-schoenfelder-verstaerkt-the-masked-singer/401167845"
+    }, {
+      "id" : "RBhTQdhV",
+      "imgUrl" : "https://image.kurier.at/images/original/4896678/46-174227721.jpg",
+      "titleSource" : "Darling, ich bin später im Kino: Neue Starttermine für Filmhits",
+      "titleTarget" : "Draga, bit ću kasnije u kinu: Novi datumi izlaska hit filmova",
+      "url" : "https://kurier.at/kultur/darling-ich-bin-spaeter-im-kino-neue-starttermine-fuer-filmhits/401167842"
+    }, {
       "id" : "VAzy3arB",
       "imgUrl" : "https://image.kurier.at/images/original/4896549/46-164932853.jpg",
       "titleSource" : "Neues Drama mit Hader: \"Andrea lässt sich scheiden\"",
@@ -172,12 +176,6 @@
       "titleSource" : "Davos ist ein Miniaturporträt unserer Gegenwart",
       "titleTarget" : "Davos je minijaturni portret naše sadašnjosti",
       "url" : "https://www.diepresse.com/5927766/Doku_Davos-ist-ein-Miniaturportraet-unserer-Gegenwart?from=rss"
-    }, {
-      "id" : "ybubxdSL",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/e/e/5927406/1C41AB1E-D2A9-416C-8144-AA2229EB1307_v0_h.jpg",
-      "titleSource" : "Wiener Büchereien starten Abholservice",
-      "titleTarget" : "Bečke knjižnice pokreću uslugu sakupljanja",
-      "url" : "https://www.diepresse.com/5927406/Click-Collect_Wiener-Buechereien-starten-Abholservice?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -190,38 +188,36 @@
       "titleTarget" : "Kriechmayr pogađa Streifa u Super-G-u",
       "url" : "https://sport.orf.at/stories/3072300/"
     }, {
-      "id" : "0amZkGVt",
-      "imgUrl" : "https://image.kurier.at/images/original/4894305/46-174275365.jpg",
-      "titleSource" : "Drama in Brasilien: Flugzeug mit Fußballern an Bord abgestürzt",
-      "titleTarget" : "Drama u Brazilu: avion se srušio s nogometašima na brodu",
-      "url" : "https://kurier.at/sport/fussball/drama-in-brasilien-flugzeug-mit-fussball-team-abgestuerzt/401166570"
-    }, {
-      "id" : "ILRoM4y0",
-      "imgUrl" : "https://image.kurier.at/images/original/4894629/46-174140416.jpg",
-      "titleSource" : "Sexuelle Belästigung: Eine Olympionikin bricht ihr Schweigen",
-      "titleTarget" : "Seksualno uznemiravanje: Olimpijka prekida njezinu šutnju",
-      "url" : "https://kurier.at/sport/sexuelle-belaestigung-olympionikin-sofia-bekatorou-bricht-ihr-schweigen/401166804"
-    }, {
       "id" : "ENolCXrJ",
       "titleSource" : "Tampa Bay sorgt für Super-Bowl-Premiere​",
       "titleTarget" : "Tampa Bay premijerno prikazuje premijeru Super Bowla",
       "url" : "https://sport.orf.at/stories/3072294/"
     }, {
-      "id" : "sTLl4I5W",
-      "titleSource" : "Salzburg und Rapid setzen sich etwas ab",
-      "titleTarget" : "Salzburg i Rapid su se izdvojili",
-      "url" : "https://sport.orf.at/stories/3072299/"
+      "id" : "DPgHUEPj",
+      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
+      "titleSource" : "Nach Herz-OP: Bernhard Gruber verlässt Intensivstation",
+      "titleTarget" : "Nakon operacije srca: Bernhard Gruber napušta odjel intenzivne njege",
+      "url" : "https://kurier.at/sport/wintersport/nach-herz-op-der-nordische-kombinierer-bernhard-gruber-verlaesst-intensivstation/401167909"
     }, {
-      "id" : "LvpGhlic",
-      "titleSource" : "Deutscher Dreßen darf auf WM-Teilnahme hoffen",
-      "titleTarget" : "Nijemac Dreßen može se nadati sudjelovanju na Svjetskom kupu",
-      "url" : "https://sport.orf.at/stories/3072314/"
+      "id" : "24xpfRaK",
+      "titleSource" : "Wolff bleibt im Vertragspoker mit Hamilton gelassen",
+      "titleTarget" : "Wolff ostaje miran u ugovornom pokeru s Hamiltonom",
+      "url" : "https://sport.orf.at/stories/3072304/"
     }, {
-      "id" : "RIS6lIew",
-      "imgUrl" : "https://image.kurier.at/images/original/4896048/46-146158546.jpg",
-      "titleSource" : "Pal Dardai kehrt auf die Hertha-Trainerbank zurück",
-      "titleTarget" : "Pal Dardai vraća se na trenersku klupu Herthe",
-      "url" : "https://kurier.at/sport/fussball/fussball-dardai-neuer-chefcoach-bei-hertha-bsc-vertrag-bis-2022/401167560"
+      "id" : "yWSvpAoM",
+      "titleSource" : "Kriechmayr belohnt sich für Gratwanderung",
+      "titleTarget" : "Kriechmayr se nagrađuje za hodanje po užadi",
+      "url" : "https://sport.orf.at/stories/3072310/"
+    }, {
+      "id" : "xVHDTdtR",
+      "titleSource" : "Ersatz für Trump-Kurs für PGA Championship gefunden",
+      "titleTarget" : "Pronađena zamjena za Trumpov tečaj za PGA prvenstvo",
+      "url" : "https://sport.orf.at/stories/3072326/"
+    }, {
+      "id" : "iS5CLbrp",
+      "titleSource" : "WM-Test auf Kronplatz für ÖSV-Damen",
+      "titleTarget" : "Test svjetskog kupa na Kronplatzu za ÖSV žene",
+      "url" : "https://sport.orf.at/stories/3072305/"
     } ]
   } ],
   "country" : "austria",
