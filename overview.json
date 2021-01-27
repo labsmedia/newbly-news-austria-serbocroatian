@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "9NYCDXYK",
-      "imgUrl" : "https://image.kurier.at/images/original/4879794/tierschutz2.jpg",
-      "titleSource" : "Tierschutz-Volksbegehren erreicht 416.229 Unterschriften",
-      "titleTarget" : "Referendum o zaštiti životinja dosegnuo je 416.229 potpisa",
-      "url" : "https://kurier.at/politik/inland/tierschutz-volksbegehren-erreicht-416229-unterschriften/401167921"
-    }, {
       "id" : "tC2O3MyI",
       "imgUrl" : "https://image.kurier.at/images/original/4896988/46-173698828.jpg",
       "titleSource" : "Tiroler Politiker Hörl positiv: Vor Test mit Platter in Sitzung",
@@ -38,38 +32,32 @@
       "titleTarget" : "Anschober o problemima s isporukom u Astra Zeneci: \"Želite određene datume isporuke\"",
       "url" : "https://kurier.at/politik/inland/anschober-ueber-lieferprobleme-bei-astrazeneca-wollen-konkrete-liefertermine/401168029"
     }, {
-      "id" : "vwkat1zc",
-      "imgUrl" : "https://image.kurier.at/images/original/4897813/20210126-ABD0082-1-1.jpg",
-      "titleSource" : "U-Ausschuss: Werber Pelinka schilderte Video-Angebot bei Treffen",
-      "titleTarget" : "Odbor U: Oglašivač Pelinka opisao je video ponudu na sastancima",
-      "url" : "https://kurier.at/politik/inland/u-ausschuss-werber-pelinka-schilderte-video-angebot-bei-treffen/401168914"
+      "id" : "WTxdmPP5",
+      "imgUrl" : "https://image.kurier.at/images/original/4898758/46-173484944.jpg",
+      "titleSource" : "Kaiser über Astra Zeneca: \"Ist hier jemand betrogen worden?'\"",
+      "titleTarget" : "Kaiser o Astra Zeneci: \"Je li ovdje netko izdan?\"",
+      "url" : "https://kurier.at/politik/inland/kaiser-ueber-astra-zeneca-ist-hier-jemand-betrogen-worden/401169088"
+    }, {
+      "id" : "mrvMs14L",
+      "imgUrl" : "https://image.kurier.at/images/original/4898758/46-173484944.jpg",
+      "titleSource" : "Kaiser über AstraZeneca: \"Ist hier jemand betrogen worden?'\"",
+      "titleTarget" : "Kaiser na AstraZeneci: \"Je li ovdje netko izdan?\"",
+      "url" : "https://kurier.at/politik/inland/kaiser-ueber-astrazeneca-ist-hier-jemand-betrogen-worden/401169088"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "EPErtKno",
-      "imgUrl" : "https://image.kurier.at/images/original/2058264/46-77621517.jpg",
-      "titleSource" : "EU erwägt 10.000-Euro-Limit für Bargeldzahlungen",
-      "titleTarget" : "EU razmatra ograničenje od 10.000 eura za gotovinska plaćanja",
-      "url" : "https://kurier.at/wirtschaft/eu-erwaegt-10000-euro-limit-fuer-bargeldzahlungen/401167860"
-    }, {
       "id" : "79Co2r5H",
       "imgUrl" : "https://image.kurier.at/images/original/321975/flugzeug-000_Reinhard%252BVogel.jpg",
-      "titleSource" : " Nur noch mit Test oder Impfung ins Flugzeug",
+      "titleSource" : "Nur noch mit Test oder Impfung ins Flugzeug",
       "titleTarget" : " Samo testom ili cijepljenjem u avionu",
       "url" : "https://kurier.at/wirtschaft/fliegen-ab-sommer-nur-noch-mit-negativem-test/401168512"
     }, {
-      "id" : "DTrpuaxc",
-      "imgUrl" : "https://image.kurier.at/images/original/4867158/20210112-ABD0058-1-1.jpg",
-      "titleSource" : "Nochmals zwei Milliarden mehr für Kurzarbeit",
-      "titleTarget" : "Još dvije milijarde više za kratkotrajni rad",
-      "url" : "https://kurier.at/wirtschaft/nochmals-zwei-milliarden-mehr-fuer-kurzarbeit/401168350"
-    }, {
-      "id" : "gvTw5LIv",
-      "imgUrl" : "https://image.kurier.at/images/original/4896892/46-90377577.jpg",
-      "titleSource" : "Lehrgang für Aufsichtsräte: Junger Schwung in die alte Welt",
-      "titleTarget" : "Tečaj za nadzorne odbore: mladi zamah u starom svijetu",
-      "url" : "https://kurier.at/wirtschaft/karriere/lehrgang-fuer-aufsichtsraete-junger-schwung-in-die-alte-welt/401168023"
+      "id" : "qFMOxPVp",
+      "imgUrl" : "https://image.kurier.at/images/original/4898125/46-174874317.jpg",
+      "titleSource" : "„Wiederaufbau-Trio“ feilt an Vision 2040",
+      "titleTarget" : "\"Rekonstrukcijski trio\" radi na Visionu 2040",
+      "url" : "https://kurier.at/wirtschaft/wiederaufbau-trio-feilt-an-vision-2040/401168851"
     }, {
       "id" : "yY4ayWE0",
       "imgUrl" : "https://image.kurier.at/images/original/3435895/46-129540686.jpg",
@@ -77,38 +65,50 @@
       "titleTarget" : "Kupaonica, kauč ili nova kuhinja? Leiner daje na aukciju 40.000 predmeta",
       "url" : "https://kurier.at/wirtschaft/bad-sofa-oder-neue-kueche-leiner-versteigert-40000-artikel/401168218"
     }, {
+      "id" : "gvTw5LIv",
+      "imgUrl" : "https://image.kurier.at/images/original/4896892/46-90377577.jpg",
+      "titleSource" : "Lehrgang für Aufsichtsräte: Junger Schwung in die alte Welt",
+      "titleTarget" : "Tečaj za nadzorne odbore: mladi zamah u starom svijetu",
+      "url" : "https://kurier.at/wirtschaft/karriere/lehrgang-fuer-aufsichtsraete-junger-schwung-in-die-alte-welt/401168023"
+    }, {
+      "id" : "DTrpuaxc",
+      "imgUrl" : "https://image.kurier.at/images/original/4867158/20210112-ABD0058-1-1.jpg",
+      "titleSource" : "Nochmals zwei Milliarden mehr für Kurzarbeit",
+      "titleTarget" : "Još dvije milijarde više za kratkotrajni rad",
+      "url" : "https://kurier.at/wirtschaft/nochmals-zwei-milliarden-mehr-fuer-kurzarbeit/401168350"
+    }, {
       "id" : "Ze0CupO1",
       "imgUrl" : "https://image.kurier.at/images/original/4629332/20200911-ABD0001-1-1.jpg",
       "titleSource" : "MAN droht mit Verkauf oder Schließung des Werks in Steyr",
       "titleTarget" : "MAN prijeti prodajom ili zatvaranjem tvornice u Steyru",
       "url" : "https://kurier.at/wirtschaft/man-droht-mit-verkauf-oder-schliessung-des-werks-in-steyr/401168659"
     }, {
-      "id" : "ilWJ6YtP",
-      "imgUrl" : "https://image.kurier.at/images/original/3982748/81650355552118964_BLD_Online.jpg",
-      "titleSource" : "EU-Milliarden für Batterieprojekt",
-      "titleTarget" : "Milijarde u EU za projekt baterija",
-      "url" : "https://kurier.at/wirtschaft/eu-milliarden-fuer-batterieprojekt/401168791"
+      "id" : "kNETDG9x",
+      "imgUrl" : "https://image.kurier.at/images/original/3263399/46-143749962.jpg",
+      "titleSource" : "Bestellplattform Mjam eröffnet Online-Supermarkt",
+      "titleTarget" : "Platforma za naručivanje Mjam otvara internetski supermarket",
+      "url" : "https://kurier.at/wirtschaft/bestellplattform-mjam-eroeffnet-online-supermarkt/401168467"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "JRAUnm5K",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/40/crops/w=1280/821408_opener_286440_image_4.jpg?s=4c568d850321478f49360c8bff2b2abbc4e1e8e1",
+      "titleSource" : "Frischer Wind beim Haldenlift in Schwarzenberg",
+      "titleTarget" : "Dašak svježeg zraka u Haldenliftu u Schwarzenbergu",
+      "url" : "https://vorarlberg.orf.at/stories/3086377/"
+    }, {
       "id" : "EouaEvVS",
       "imgUrl" : "https://image.kurier.at/images/original/4896642/46-174321841.jpg",
       "titleSource" : "Burger-Boom in Wien: Zwei Typen gegen \"Five Guys\"",
       "titleTarget" : "Burger-procvat u Beču: dvojica protiv \"Five Guys\"",
       "url" : "https://kurier.at/chronik/oesterreich/burger-boom-in-wien-zwei-typen-gegen-five-guys/401167827"
     }, {
-      "id" : "7uOsrC08",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/28/42/crops/w=1280/215758_opener_60242_unbenannt-2.jpg?s=e25a9e42a035fac6c2aff80105c03b0ca9e59ef5",
-      "titleSource" : "CoV-positiver Hörl war mit Platter in Sitzung",
-      "titleTarget" : "Pozitivni CoV Hörl bio je na sastanku s Platterom",
-      "url" : "https://tirol.orf.at/stories/3086868/"
-    }, {
-      "id" : "ORD5jsyG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/e/a/5927914/Themenbild-Corona-Eine-junge-Frau-mit-Schutzmaske-MundschutzFFP2-KN95-medizinische-Maske-Community-Maske-blickt-sorg_161165909838635_v0_h.jpg",
-      "titleSource" : "Was es mit den KN95-Masken auf sich hat",
-      "titleTarget" : "O čemu se radi u maskama KN95",
-      "url" : "https://www.diepresse.com/5927914/Masken_Was-es-mit-den-KN95Masken-auf-sich-hat?from=rss"
+      "id" : "2m5sCUSt",
+      "imgUrl" : "https://image.kurier.at/images/original/4243085/46-106892127.jpg",
+      "titleSource" : "Fast die Hälfte der Todesfälle in Alters- und Pflegeheimen",
+      "titleTarget" : "Gotovo polovica smrtnih slučajeva u domovima umirovljenika i njega",
+      "url" : "https://kurier.at/chronik/oesterreich/fast-die-haelfte-der-todesfaelle-in-alters-und-pflegeheimen/401167999"
     }, {
       "id" : "8P0tdH9m",
       "imgUrl" : "https://image.kurier.at/images/original/4897630/46-77781501.jpg",
@@ -116,27 +116,32 @@
       "titleTarget" : "80 belgijskih vojnika već u Tirolu: zapečaćeno na 2000 metara",
       "url" : "https://kurier.at/chronik/oesterreich/80-belgische-soldaten-sollen-fuer-ausbildung-nach-tirol-kommen/401168128"
     }, {
+      "id" : "ORD5jsyG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/e/a/5927914/Themenbild-Corona-Eine-junge-Frau-mit-Schutzmaske-MundschutzFFP2-KN95-medizinische-Maske-Community-Maske-blickt-sorg_161165909838635_v0_h.jpg",
+      "titleSource" : "Was es mit den KN95-Masken auf sich hat",
+      "titleTarget" : "O čemu se radi u maskama KN95",
+      "url" : "https://www.diepresse.com/5927914/Masken_Was-es-mit-den-KN95Masken-auf-sich-hat?from=rss"
+    }, {
+      "id" : "XHmWvGgb",
+      "titleSource" : "Neue Chancen für junge Barkeeper",
+      "titleTarget" : "Nove mogućnosti za mlade barmene",
+      "url" : "https://salzburg.orf.at/stories/3086982/"
+    }, {
       "id" : "zIolOVIl",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "titleSource" : "1.417 neue Corona-Infektionen in Österreich",
       "titleTarget" : "1.417 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1417-neue-corona-infektionen-in-oesterreich/401168155"
-    }, {
-      "id" : "tT61hnO1",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/25/crops/w=1280/824697_opener_287625_leiner_5.jpg?s=245c4c9bb08569d5fe3fbc4b26f1a41a3a9d55c4",
-      "titleSource" : "Leiner-Sortiment wird versteigert",
-      "titleTarget" : "Leiner asortiman je na aukciji",
-      "url" : "https://wien.orf.at/stories/3086882/"
-    }, {
-      "id" : "Q6BUz2Kw",
-      "imgUrl" : "https://image.kurier.at/images/original/4898368/46-174384126.jpg",
-      "titleSource" : " Mehr als 100.000 Tote in Großbritannien; Belgische Soldaten in Tirol abgeschottet",
-      "titleTarget" : " Više od 100 000 mrtvih u Velikoj Britaniji; Belgijski vojnici zapečatili su u Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/hotspot-zwettl-appell-an-bevoelkerung-astrazeneca-vakzin-bei-aelteren-kaum-wirksam/401167993"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "TkWX9NK4",
+      "imgUrl" : "https://image.kurier.at/images/original/4898173/46-174910604.jpg",
+      "titleSource" : "Autor Lars Norén starb 76-jährig an den Folgen von Covid-19",
+      "titleTarget" : "Autor Lars Norén umro je u 76. godini od Covid-19",
+      "url" : "https://kurier.at/kultur/autor-lars-noren-starb-76-jaehrig-an-den-folgen-von-covid-19/401168890"
+    }, {
       "id" : "v2dQ3bre",
       "imgUrl" : "https://image.kurier.at/images/original/4897354/46-164529600.jpg",
       "titleSource" : "Auktionsrekord: 408.000 US-Dollar für ein Set von Pokémon-Karten",
@@ -149,24 +154,6 @@
       "titleTarget" : "Minus 199 milijardi eura: Koronska kriza šokira europsku kulturnu industriju",
       "url" : "https://kurier.at/kultur/minus-199-mrd-euro-coronakrise-beutelt-europaeische-kulturwirtschaft/401168089"
     }, {
-      "id" : "8Cu6d5JX",
-      "imgUrl" : "https://image.kurier.at/images/original/4896591/46-167997633.jpg",
-      "titleSource" : "Ex-Skiprofi Schönfelder verstärkt „The Masked Singer“",
-      "titleTarget" : "Bivši skijaški profesionalac Schönfelder ojačao je \"Maskiranog pjevača\"",
-      "url" : "https://kurier.at/kultur/ex-skiprofi-schoenfelder-verstaerkt-the-masked-singer/401167845"
-    }, {
-      "id" : "RBhTQdhV",
-      "imgUrl" : "https://image.kurier.at/images/original/4896678/46-174227721.jpg",
-      "titleSource" : "Darling, ich bin später im Kino: Neue Starttermine für Filmhits",
-      "titleTarget" : "Draga, bit ću kasnije u kinu: Novi datumi izlaska hit filmova",
-      "url" : "https://kurier.at/kultur/darling-ich-bin-spaeter-im-kino-neue-starttermine-fuer-filmhits/401167842"
-    }, {
-      "id" : "TkWX9NK4",
-      "imgUrl" : "https://image.kurier.at/images/original/4898173/46-174910604.jpg",
-      "titleSource" : "Autor Lars Norén starb 76-jährig an den Folgen von Covid-19",
-      "titleTarget" : "Autor Lars Norén umro je u 76. godini od Covid-19",
-      "url" : "https://kurier.at/kultur/autor-lars-noren-starb-76-jaehrig-an-den-folgen-von-covid-19/401168890"
-    }, {
       "id" : "H8cNQPub",
       "imgUrl" : "https://image.kurier.at/images/original/4897951/46-174908252.jpg",
       "titleSource" : "Schalkos \"Ich und die Anderen\" feiert in Berlin Premiere",
@@ -178,6 +165,18 @@
       "titleSource" : "Kochen mit Spotify: Barillas Playlists verraten, wann die Spaghetti al dente sind",
       "titleTarget" : "Kuhanje sa Spotifyjem: Barillini popisi pjesama otkrivaju kada su špageti al dente",
       "url" : "https://kurier.at/kultur/medien/kochen-mit-spotify-barillas-playlists-verraten-wann-die-spaghetti-al-dente-sind/401168614"
+    }, {
+      "id" : "DMBPeY5L",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/4/d/5927757/FE0732A6-1C81-44D6-A0A1-8E15D43FD5F6_v0_l.jpg",
+      "titleSource" : "\"Die Ausgrabung\": So spannend kann Buddeln sein",
+      "titleTarget" : "\"Iskop\": kopanje može biti tako uzbudljivo",
+      "url" : "https://www.diepresse.com/5927757/Film_Die-Ausgrabung_So-spannend-kann-Buddeln-sein?from=rss"
+    }, {
+      "id" : "ArCoevyL",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/0/e/5927950/blouds_1611657479993459.jpg",
+      "titleSource" : "Die zehn besten Filme 2020 - für das American Film Institute",
+      "titleTarget" : "Deset najboljih filmova 2020. - za Američki filmski institut",
+      "url" : "https://www.diepresse.com/5927950/Ausgezeichnet_Die-zehn-besten-Filme-2020-fuer-das-American-Film?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,15 +184,26 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "zlsAbxyH",
-      "titleSource" : "Gedenken an Bryant: „Legenden sterben nie“",
-      "titleTarget" : "U sjećanje na Bryanta: \"Legende nikad ne umiru\"",
-      "url" : "https://sport.orf.at/stories/3072308/"
+      "id" : "SDnAI7lP",
+      "titleSource" : "Furioser Schwarz krallt sich Schladming-Sieg",
+      "titleTarget" : "Bijesne crne kandže pobjeda Schladminga",
+      "url" : "https://sport.orf.at/stories/3072360/"
     }, {
       "id" : "O66m6VJ8",
       "titleSource" : "Baumgartlingers EM-Chance lebt",
       "titleTarget" : "Baumgartlingerova EM šansa je živa",
       "url" : "https://sport.orf.at/stories/3072345/"
+    }, {
+      "id" : "Hc21N1Lp",
+      "imgUrl" : "https://image.kurier.at/images/original/4898533/46-174973854.jpg",
+      "titleSource" : "Schneetreiben: Rapid - St. Pölten auf Mittwochabend verschoben",
+      "titleTarget" : "Nanosi snijega: Brz - St. Pölten odgođen za srijedu navečer",
+      "url" : "https://kurier.at/sport/fussball/reges-schneetreiben-bundesliga-spiel-rapid-st-poelten-abgesagt/401169049"
+    }, {
+      "id" : "0STfRunn",
+      "titleSource" : "ÖSV-Techniker für Schladming bereit",
+      "titleTarget" : "ÖSV tehničari spremni za Schladming",
+      "url" : "https://sport.orf.at/stories/3072297/"
     }, {
       "id" : "4fo9k9oR",
       "imgUrl" : "https://image.kurier.at/images/original/4897624/46-174137316.jpg",
@@ -201,26 +211,16 @@
       "titleTarget" : "Milijarde dugova: toliko je Barca zaista teška",
       "url" : "https://kurier.at/sport/fussball/ueber-1-milliarde-euro-schulden-so-schlecht-steht-der-fc-barcelona-wirklich-da/401168449"
     }, {
-      "id" : "0STfRunn",
-      "titleSource" : "ÖSV-Techniker für Schladming bereit",
-      "titleTarget" : "ÖSV tehničari spremni za Schladming",
-      "url" : "https://sport.orf.at/stories/3072297/"
+      "id" : "wFJBVVXB",
+      "imgUrl" : "https://image.kurier.at/images/original/4898317/46-174941949.jpg",
+      "titleSource" : "Halbzeitführung für Feller beim Night Race in Schladming",
+      "titleTarget" : "Turneja na poluvremenu za Fellera na Noćnoj utrci u Schladmingu",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-halbzeitfuehrung-fuer-manuel-feller-beim-night-race-in-schladming/401168968"
     }, {
       "id" : "RaODMRBT",
       "titleSource" : "Barca-Schulden klettern in enorme Höhen",
       "titleTarget" : "Barcin dug vrtoglavo raste",
       "url" : "https://sport.orf.at/stories/3072340/"
-    }, {
-      "id" : "t8cUSHcA",
-      "titleSource" : "Stand im Herren-Slalom in Schladming ab 17.45 Uhr",
-      "titleTarget" : "Stanite u muškom slalomu u Schladmingu od 17.45 sati.",
-      "url" : "https://sport.orf.at/stories/3072322/"
-    }, {
-      "id" : "DPgHUEPj",
-      "imgUrl" : "https://image.kurier.at/images/original/4228163/46-153901408.jpg",
-      "titleSource" : "Nach Herz-OP: Bernhard Gruber verlässt Intensivstation",
-      "titleTarget" : "Nakon operacije srca: Bernhard Gruber napušta odjel intenzivne njege",
-      "url" : "https://kurier.at/sport/wintersport/nach-herz-op-der-nordische-kombinierer-bernhard-gruber-verlaesst-intensivstation/401167909"
     } ]
   } ],
   "country" : "austria",
