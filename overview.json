@@ -8,11 +8,29 @@
       "titleTarget" : "\"Korona diktat\": FPÖ Belakowitsch odbija test korone prije TV prijenosa",
       "url" : "https://kurier.at/politik/inland/corona-diktat-fpoe-belakowitsch-verweigert-corona-test-vor-tv-sendung/401169178"
     }, {
+      "id" : "kjZvJn8w",
+      "imgUrl" : "https://image.kurier.at/images/original/4900816/46-173805514.jpg",
+      "titleSource" : "Hofer überrascht alle: \"Werde mich impfen lassen\"",
+      "titleTarget" : "Hofer iznenađuje sve: \"Idem se cijepiti\"",
+      "url" : "https://kurier.at/politik/inland/hofer-ueberrascht-alle-werde-mich-impfen-lassen/401170273"
+    }, {
       "id" : "zaVVkoez",
       "imgUrl" : "https://image.kurier.at/images/original/4807176/78350011457868020_BLD_Online.jpg",
       "titleSource" : "Hofer fordert Rücktritt von Anschober und Auer wegen AstraZeneca",
       "titleTarget" : "Hofer poziva na ostavku Anschobera i Auera zbog AstraZenece",
       "url" : "https://kurier.at/politik/inland/hofer-fordert-ruecktritt-von-anschober-und-auer-wegen-astrazeneca/401169370"
+    }, {
+      "id" : "OzwbpsiV",
+      "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
+      "titleSource" : "Bevorstehende Abschiebung von Schülerin sorgt für harte Kritik",
+      "titleTarget" : "Čekanje deportacije učenice izaziva oštre kritike",
+      "url" : "https://kurier.at/politik/inland/bevorstehende-abschiebung-von-schuelerin-sorgt-fuer-harte-kritik/401169937"
+    }, {
+      "id" : "vkE3mqmm",
+      "imgUrl" : "https://image.kurier.at/images/original/4884756/coorna-impfung.jpg",
+      "titleSource" : "Verordnung für Corona-Impfung durch Hausärzte ist da",
+      "titleTarget" : "Pravilnik o cijepljenju korone od strane liječnika opće prakse je ovdje",
+      "url" : "https://kurier.at/politik/inland/verordnung-fuer-corona-impfung-durch-hausaerzte-ist-da/401170168"
     }, {
       "id" : "hH4XWzh0",
       "imgUrl" : "https://image.kurier.at/images/original/4899631/20210127-ABD0062-1-1.jpg",
@@ -25,45 +43,21 @@
       "titleSource" : "U-Ausschuss: FPÖ möchte Alexander Van der Bellen laden",
       "titleTarget" : "U odbor: FPÖ želi pozvati Alexandera Van der Bellena",
       "url" : "https://kurier.at/politik/inland/u-ausschuss-fpoe-moechte-alexander-van-der-bellen-laden/401169391"
-    }, {
-      "id" : "QsChHOB2",
-      "imgUrl" : "https://image.kurier.at/images/original/4899307/20210127-ABD0045-1-1.jpg",
-      "titleSource" : "Van der Bellen zu Holocaust-Gedenktag: Antisemitismus entgegentreten",
-      "titleTarget" : "Van der Bellen na Dan sjećanja na holokaust: Suzbijanje antisemitizma",
-      "url" : "https://kurier.at/politik/inland/van-der-bellen-zu-holocaust-gedenktag-antisemitismus-entgegentreten/401169841"
-    }, {
-      "id" : "37YUMZH8",
-      "imgUrl" : "https://image.kurier.at/images/original/4833300/78350011458067028_BLD_Online.jpg",
-      "titleSource" : "Zu hart? FPÖ überarbeitet Compliance-Regeln nochmals",
-      "titleTarget" : "Previše tvrdo? FPÖ ponovno revidira pravila o usklađenosti",
-      "url" : "https://kurier.at/politik/inland/zu-hart-fpoe-ueberarbeitet-compliance-regeln-nochmals/401169439"
-    }, {
-      "id" : "OzwbpsiV",
-      "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
-      "titleSource" : "Bevorstehende Abschiebung von Schülerin sorgt für harte Kritik",
-      "titleTarget" : "Čekanje deportacije učenice izaziva oštre kritike",
-      "url" : "https://kurier.at/politik/inland/bevorstehende-abschiebung-von-schuelerin-sorgt-fuer-harte-kritik/401169937"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "fJrMWwU6",
-      "imgUrl" : "https://image.kurier.at/images/original/4899313/78370011358627526_BLD_Online.jpg",
-      "titleSource" : "Verordnungsentwurf für Lebensmittel-Herkunftskennzeichnung liegt vor",
-      "titleTarget" : "Dostupan je nacrt pravilnika o označavanju podrijetla hrane",
-      "url" : "https://kurier.at/wirtschaft/verordnungsentwurf-fuer-lebensmittel-herkunftskennzeichnung-liegt-vor/401169493"
-    }, {
       "id" : "fxT8RIcb",
       "imgUrl" : "https://image.kurier.at/images/original/4882404/46-174158281.jpg",
       "titleSource" : "Einigung erzielt: Das sind die neuen Homeoffice-Regeln",
       "titleTarget" : "Postignuti sporazum: Ovo su nova pravila matičnog ureda",
       "url" : "https://kurier.at/wirtschaft/einigung-erzielt-das-sind-die-neuen-homeoffice-regeln/401169358"
     }, {
-      "id" : "vHx2dIEW",
-      "imgUrl" : "https://image.kurier.at/images/original/4899247/46-174067958.jpg",
-      "titleSource" : "BVT: U-Haft gegen ehemaligen Beamten verhängt",
-      "titleTarget" : "BVT: Bivši državni službenici u pritvoru",
-      "url" : "https://kurier.at/wirtschaft/bvt-u-haft-gegen-ehemaligen-beamten-verhaengt/401169367"
+      "id" : "FAvVPk2P",
+      "imgUrl" : "https://image.kurier.at/images/original/1124058/aktien_boerse_apa.jpg",
+      "titleSource" : "GameStop: Wie junge Menschen einen Großinvestor um Milliarden bringen",
+      "titleTarget" : "GameStop: Kako mladi ubijaju milijarde za velikog investitora",
+      "url" : "https://kurier.at/wirtschaft/gamestop-aktie-wie-ein-hedgefonds-von-reddit-zu-fall-gebracht-wird/401170033"
     }, {
       "id" : "1aRmr6s0",
       "imgUrl" : "https://image.kurier.at/images/original/4900030/46-174283535.jpg",
@@ -71,50 +65,38 @@
       "titleTarget" : "Predsjednik trgovine poziva na otvaranje 8. veljače",
       "url" : "https://kurier.at/wirtschaft/handelsobmann-draengt-auf-oeffnung-am-8-februar/401169838"
     }, {
-      "id" : "MQ79mfcB",
-      "imgUrl" : "https://image.kurier.at/images/original/4169826/78350011453513474_BLD_Online.jpg",
-      "titleSource" : "Chinas Industrie 2020 trotz Pandemie mit Gewinnplus",
-      "titleTarget" : "Kineska industrija s rastom dobiti u 2020. usprkos pandemiji",
-      "url" : "https://kurier.at/wirtschaft/chinas-industrie-2020-trotz-pandemie-mit-gewinnplus/401169205"
+      "id" : "ZlGk7OTh",
+      "imgUrl" : "https://image.kurier.at/images/original/3169217/78370011346279504_BLD_Online.jpg",
+      "titleSource" : "Leichtes Plus bei Neugründungen im Coronajahr",
+      "titleTarget" : "Mali plus za novoosnovana poduzeća u koronskoj godini",
+      "url" : "https://kurier.at/wirtschaft/leichtes-plus-bei-neugruendungen/401170249"
     }, {
-      "id" : "nUYcwO6X",
-      "imgUrl" : "https://image.kurier.at/images/original/4898575/46-174212734.jpg",
-      "titleSource" : "US-Präsident: Nord Stream 2 \"schlechter Deal für Europa\"",
-      "titleTarget" : "Američki predsjednik: Sjeverni tok 2 \"loš posao za Europu\"",
-      "url" : "https://kurier.at/wirtschaft/us-praesident-nord-stream-2-schlechter-deal-fuer-europa/401169058"
+      "id" : "6Qb2Aowm",
+      "imgUrl" : "https://image.kurier.at/images/original/4467884/78370011355119024_BLD_Online.jpg",
+      "titleSource" : "Staatshilfe für Benkos Galeria Karstadt Kaufhof",
+      "titleTarget" : "Državna pomoć za Benkov Galeria Karstadt Kaufhof",
+      "url" : "https://kurier.at/wirtschaft/staatshilfe-fuer-benkos-galeria-karstadt-kaufhof/401170225"
     }, {
-      "id" : "kyPEcR3d",
-      "imgUrl" : "https://image.kurier.at/images/original/4899166/46-174213565.jpg",
-      "titleSource" : "Tourismus im Coronajahr: Minus 55 Millionen Nächtigungen",
-      "titleTarget" : "Turizam u koronskoj godini: minus 55 milijuna noćenja",
-      "url" : "https://kurier.at/wirtschaft/tourismus-im-coronajahr-minus-55-millionen-naechtigungen/401169331"
+      "id" : "LWtkF2lQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4900717/46-175077660.jpg",
+      "titleSource" : "Andrea Orcel soll UniCredit-Chef werden",
+      "titleTarget" : "Andrea Orcel postat će šefica UniCredita",
+      "url" : "https://kurier.at/wirtschaft/andrea-orcel-soll-unicredit-chef-werden/401170216"
+    }, {
+      "id" : "3EQ1k7gd",
+      "imgUrl" : "https://image.kurier.at/images/original/4900300/46-166497586.jpg",
+      "titleSource" : "Mehr Auskunft über die Herkunft von Lebensmitteln",
+      "titleTarget" : "Više informacija o podrijetlu hrane",
+      "url" : "https://kurier.at/wirtschaft/mehr-auskunft-ueber-die-herkunft-von-lebensmitteln/401169940"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jiKgmGOI",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/21/crops/w=1280/825977_opener_288021_kinder.jpg?s=a24c0f57a72df7b0988c69d920bae748c1b71681",
-      "titleSource" : "Immer mehr Kinder leiden unter Lockdowns",
-      "titleTarget" : "Sve više djece pati od zaključavanja",
-      "url" : "https://wien.orf.at/stories/3087068/"
-    }, {
       "id" : "lVpAln0q",
       "imgUrl" : "https://image.kurier.at/images/original/4899058/46-173494738.jpg",
       "titleSource" : "Neue Details: So legte der Ibiza-Detektiv Strache und Gudenus hinein",
       "titleTarget" : "Novi detalji: Detektiv s Ibize stavio je Strachea i Gudenusa u to",
       "url" : "https://kurier.at/chronik/oesterreich/interview-so-legte-der-ibiza-detektiv-strache-und-gudenus-hinein/401169253"
-    }, {
-      "id" : "7wnCPz52",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/63/crops/w=1280/826631_opener_288263_a097a296-5f40-4ba4-b18f-4dccea5b2a27.jpg?s=7195e12b6e5bd80ae48ed75497a5e7b58d56485f",
-      "titleSource" : "Debatte über Abschiebung von Schülerinnen",
-      "titleTarget" : "Rasprava o deportaciji školarki",
-      "url" : "https://wien.orf.at/stories/3087133/"
-    }, {
-      "id" : "Dw5sfq6J",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/04/43/crops/w=1280/817460_opener_285043_meldungsliste13.jpg?s=8480fd83dbfeae5dcc0ffb99aa27ac5c77ebbac0",
-      "titleSource" : "Tausende Pensionisten warten auf FFP2-Masken",
-      "titleTarget" : "Tisuće umirovljenika čekaju FFP2 maske",
-      "url" : "https://vorarlberg.orf.at/stories/3087049/"
     }, {
       "id" : "IPJxPY5e",
       "imgUrl" : "https://image.kurier.at/images/original/4896396/46-173987125.jpg",
@@ -122,32 +104,55 @@
       "titleTarget" : "Ilegalni skijaši: Ministarstvo pooštrava pravila ulaska",
       "url" : "https://kurier.at/chronik/oesterreich/illegale-skiurlauber-ministerium-schaerft-einreiseregeln-nach/401169325"
     }, {
-      "id" : "w3GqaZii",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/20/13/crops/w=1280/560760_opener_190913_vlcsnap-2020-05-14-12h40m57s846.jpg?s=0f740c216943567b894aa17f94390c666e3146d8",
-      "titleSource" : "Schul-Schichtbetrieb bis Sommer „denkbar“",
-      "titleTarget" : "Školski rad u smjenama \"zamisliv\" do ljeta",
-      "url" : "https://noe.orf.at/stories/3086997/"
+      "id" : "eBdDY4qi",
+      "imgUrl" : "https://image.kurier.at/images/original/752064/Skilehrer.jpg",
+      "titleSource" : "Bereits 76 Fälle in Salzburger Skilehrerkurs-Cluster",
+      "titleTarget" : "Već 76 slučajeva u klasteru tečajeva učitelja skijanja u Salzburgu",
+      "url" : "https://kurier.at/chronik/oesterreich/bereits-76-faelle-in-salzburger-skilehrerkurs-cluster/401169322"
     }, {
-      "id" : "6PnYsrE0",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/04/50/crops/w=1280/820892_opener_147450_skiausruestung_coe.jpg?s=3cefd662f17aa5f9c3eb93452fb9c3e6d46f6aff",
-      "titleSource" : "Skilehrer-Cluster: Mittlerweile 76 Infizierte",
-      "titleTarget" : "Skup učitelja skijanja: u međuvremenu 76 zaraženih ljudi",
-      "url" : "https://salzburg.orf.at/stories/3087042/"
+      "id" : "vm9VJCBd",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.641 Corona-Neuinfektionen in Österreich gemeldet",
+      "titleTarget" : "U Austriji je zabilježena 1.641 nova infekcija koronom",
+      "url" : "https://kurier.at/chronik/oesterreich/1641-corona-neuinfektionen-in-oesterreich-gemeldet/401169295"
+    }, {
+      "id" : "TK7MFu9g",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/19/57/crops/w=1280/553047_opener_188057_coronavirus_psychische_probleme_gy.jpg?s=46ae0ed5d8336c4fefafef7ec01c7f2a89da278a",
+      "titleSource" : "Krise: Weiterer Anstieg bei Depressionen",
+      "titleTarget" : "Kriza: Daljnji porast depresije",
+      "url" : "https://noe.orf.at/stories/3087196/"
+    }, {
+      "id" : "I1wuUULa",
+      "titleSource" : "Feuerwehr rettet Pferd aus Teich",
+      "titleTarget" : "Vatrogasci spašavaju konja iz ribnjaka",
+      "url" : "https://burgenland.orf.at/stories/3087206/"
+    }, {
+      "id" : "ELsSgSHa",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/15/37/crops/w=1280/293933_opener_28837_rathaus_hammer.jpg?s=60c885ebfd8ce0cb33b6f56c324eeeb107a47a90",
+      "titleSource" : "Innsbruck: SPÖ für Zusammenarbeit mit Neos",
+      "titleTarget" : "Innsbruck: SPÖ za suradnju s Neosom",
+      "url" : "https://tirol.orf.at/stories/3087169/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "8n8YEaap",
+      "imgUrl" : "https://image.kurier.at/images/original/4899391/p7_1381689.jpg",
+      "titleSource" : "Elyas M'Barek löst Thomas Gottschalk als Showmaster ab",
+      "titleTarget" : "Elyas M'Barek zamjenjuje Thomasa Gottschalka kao voditelja emisije",
+      "url" : "https://kurier.at/kultur/medien/elyas-mbarek-loest-thomas-gottschalk-als-showmaster-ab/401169490"
+    }, {
       "id" : "1e6UaKiR",
       "imgUrl" : "https://image.kurier.at/images/original/4897957/46-174871807.jpg",
       "titleSource" : "\"Styx“: Urlaubsreise endet mit Schiffbruch",
       "titleTarget" : "\"Styx\": odmor putovanje završava brodolomom",
       "url" : "https://kurier.at/kultur/styx-urlaubsreise-endet-mit-schiffbruch/401168740"
     }, {
-      "id" : "8n8YEaap",
-      "imgUrl" : "https://image.kurier.at/images/original/4899391/p7_1381689.jpg",
-      "titleSource" : "Elyas M'Barek löst Thomas Gottschalk als Showmaster ab",
-      "titleTarget" : "Elyas M'Barek zamjenjuje Thomasa Gottschalka kao voditelja emisije",
-      "url" : "https://kurier.at/kultur/medien/elyas-mbarek-loest-thomas-gottschalk-als-showmaster-ab/401169490"
+      "id" : "c034S251",
+      "imgUrl" : "https://image.kurier.at/images/original/4899301/knossinsekt.jpg",
+      "titleSource" : "Herr Knossi sucht das Glück bei RTL - und verspeist ein Rieseninsekt",
+      "titleTarget" : "Gospodin Knossi traži sreću na RTL-u - i jede divovskog insekta",
+      "url" : "https://kurier.at/kultur/medien/herr-knossi-sucht-das-glueck-bei-rtl-und-verspeist-rieseninsekt/401169454"
     }, {
       "id" : "N2i0d6ZG",
       "imgUrl" : "https://image.kurier.at/images/original/4900354/46-163219333.jpg",
@@ -155,23 +160,16 @@
       "titleTarget" : "Sajam starina \"TEFAF\" odgođen za jesen",
       "url" : "https://kurier.at/kultur/auch-antiquitaetenmesse-tefaf-in-den-herbst-verschoben/401169994"
     }, {
-      "id" : "0GVipVQk",
-      "imgUrl" : "https://image.kurier.at/images/original/4888257/46-103737346.jpg",
-      "titleSource" : "Monika Helfer setzt ihre Familiengeschichte mit \"Vati\" fort",
-      "titleTarget" : "Monika Helfer nastavlja svoju obiteljsku priču s \"Vati\"",
-      "url" : "https://kurier.at/kultur/buch/monika-helfer-setzt-ihre-familiengeschichte-mit-vati-fort/401164272"
-    }, {
       "id" : "eMNKaNqO",
       "imgUrl" : "https://image.kurier.at/images/original/3457717/46-101667459.jpg",
       "titleSource" : "Zürcher Schauspielhaus zahlt der Stadt Subventionen zurück",
       "titleTarget" : "Zürcher Schauspielhaus gradu vraća subvencije",
       "url" : "https://kurier.at/kultur/zuercher-schauspielhaus-zahlt-der-stadt-subventionen-zurueck/401169673"
     }, {
-      "id" : "c034S251",
-      "imgUrl" : "https://image.kurier.at/images/original/4899301/knossinsekt.jpg",
-      "titleSource" : "Herr Knossi sucht das Glück bei RTL - und verspeist ein Rieseninsekt",
-      "titleTarget" : "Gospodin Knossi traži sreću na RTL-u - i jede divovskog insekta",
-      "url" : "https://kurier.at/kultur/medien/herr-knossi-sucht-das-glueck-bei-rtl-und-verspeist-rieseninsekt/401169454"
+      "id" : "z9Y6vdyL",
+      "titleSource" : "Sohn von Trivago-Chef platzt in CNN-Interview",
+      "titleTarget" : "Sin šefa Trivaga upao je u intervju za CNN",
+      "url" : "https://kurier.at/kultur/medien/sohn-von-trivago-chef-platzt-in-cnn-interview/401170246"
     }, {
       "id" : "S1vxLF6W",
       "imgUrl" : "https://image.kurier.at/images/original/4900639/46-175076511.jpg",
@@ -185,11 +183,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "SDnAI7lP",
-      "titleSource" : "Furioser Schwarz krallt sich Schladming-Sieg",
-      "titleTarget" : "Bijesne crne kandže pobjeda Schladminga",
-      "url" : "https://sport.orf.at/stories/3072360/"
-    }, {
       "id" : "y8jcloEL",
       "imgUrl" : "https://image.kurier.at/images/original/4899406/46-174191892.jpg",
       "titleSource" : "Sportminister Kogler vertröstet Hallen-Tennis weiterhin",
@@ -201,27 +194,32 @@
       "titleTarget" : "LASK je pod pritiskom na WAC-u",
       "url" : "https://sport.orf.at/stories/3072347/"
     }, {
+      "id" : "RoGDoYPm",
+      "imgUrl" : "https://image.kurier.at/images/original/4900915/46-3934586.jpg",
+      "titleSource" : "Ex-Sturm-Kicker mit nur 45 Jahren an Corona gestorben",
+      "titleTarget" : "Bivši Sturm-Kicker umro je od Corone u dobi od 45 godina",
+      "url" : "https://kurier.at/sport/fussball/ex-sturm-kicker-mehrdad-minavand-mit-45-an-corona-gestorben/401170297"
+    }, {
       "id" : "fzS5mNlo",
       "titleSource" : "Harter „Brocken“ für ÖHB-Team zum Schluss",
       "titleTarget" : "Težak \"komad\" za ÖHB tim na kraju",
       "url" : "https://sport.orf.at/stories/3072351/"
     }, {
-      "id" : "Hc21N1Lp",
-      "imgUrl" : "https://image.kurier.at/images/original/4898533/46-174973854.jpg",
-      "titleSource" : "Schneetreiben: Rapid - St. Pölten auf Mittwochabend verschoben",
-      "titleTarget" : "Nanosi snijega: Brz - St. Pölten odgođen za srijedu navečer",
-      "url" : "https://kurier.at/sport/fussball/reges-schneetreiben-bundesliga-spiel-rapid-st-poelten-abgesagt/401169049"
-    }, {
-      "id" : "Y6O98uFQ",
-      "titleSource" : "Schwarz gewinnt Schladming-Slalom",
-      "titleTarget" : "Crni pobjeđuje u slalomu Schladminga",
-      "url" : "https://sport.orf.at/stories/3072365/"
+      "id" : "ptce97FX",
+      "titleSource" : "LASK rehabilitiert sich in Wolfsberg",
+      "titleTarget" : "LASK je na rehabilitaciji u Wolfsbergu",
+      "url" : "https://sport.orf.at/stories/3072395/"
     }, {
       "id" : "Pz0Whw8l",
       "imgUrl" : "https://image.kurier.at/images/original/4898986/46-175060613.jpg",
       "titleSource" : "Nach Schwarz-Sieg: \"Cooler, wenn 45.000 Leute da gestanden hätten\"",
       "titleTarget" : "Nakon Schwarzove pobjede: \"Hladnije da je tamo stajalo 45 000 ljudi\"",
       "url" : "https://kurier.at/sport/wintersport/sieg-von-marco-schwarz-im-schladming-slalom-cooler-wenn-45000-leute-da-gestanden-haetten/401169232"
+    }, {
+      "id" : "cYzceYfX",
+      "titleSource" : "Streit im ÖBV um Nationaltrainer eskaliert",
+      "titleTarget" : "Spor u ÖBV-u oko nacionalnog trenera eskalira",
+      "url" : "https://sport.orf.at/stories/3072379/"
     } ]
   } ],
   "country" : "austria",
