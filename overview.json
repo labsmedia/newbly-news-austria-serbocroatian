@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kjZvJn8w",
-      "imgUrl" : "https://image.kurier.at/images/original/4900816/46-173805514.jpg",
-      "titleSource" : "Hofer überrascht alle: \"Werde mich impfen lassen\"",
-      "titleTarget" : "Hofer iznenađuje sve: \"Idem se cijepiti\"",
-      "url" : "https://kurier.at/politik/inland/hofer-ueberrascht-alle-werde-mich-impfen-lassen/401170273"
-    }, {
       "id" : "tDyPrVUY",
       "imgUrl" : "https://image.kurier.at/images/original/4886481/20210121-ABD0049-1-1.jpg",
       "titleSource" : "Kogler: Abschiebung von Schülerinnen \"unmenschlich\"",
@@ -38,6 +32,12 @@
       "titleTarget" : "Cijepljenje: Neos na regulaciju gleda kao na dozvolu cijepljenja za sve",
       "url" : "https://kurier.at/politik/inland/impfung-neos-sehen-verordnung-als-freibrief-zur-impfung-fuer-alle/401171401"
     }, {
+      "id" : "UBQlFwG1",
+      "imgUrl" : "https://image.kurier.at/images/original/4901773/20210128-ABD0046-1-1.jpg",
+      "titleSource" : "Einwegpfand: Umweltministerium und Lidl präsentierten Automaten",
+      "titleTarget" : "Jednosmjerni polog: Ministarstvo okoliša i Lidl predstavili su strojeve",
+      "url" : "https://kurier.at/politik/inland/einwegpfand-umweltministerium-und-lidl-praesentierten-automaten/401170813"
+    }, {
       "id" : "j6laQHUF",
       "imgUrl" : "https://image.kurier.at/images/original/4845576/20201229-ABD0030-1-1.jpg",
       "titleSource" : "Homeschooling: FPÖ fordert 13. Familienbeihilfe",
@@ -47,23 +47,11 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "pyotZA6F",
-      "imgUrl" : "https://image.kurier.at/images/original/4901836/46-175091292.jpg",
-      "titleSource" : "Marke Merkur verschwindet - und heißt künftig Billa Plus",
-      "titleTarget" : "Marka Merkur nestaje - a u budućnosti će se zvati Billa Plus",
-      "url" : "https://kurier.at/wirtschaft/rewe-stellt-merkur-auf-billa-plus-um/401170642"
-    }, {
       "id" : "wxMfi8eG",
       "imgUrl" : "https://media.diepresse.com/images/uploads/8/e/6/5929190/billa_1611828604747866_v0_h.jpg",
       "titleSource" : "Merkur heißt künftig Billa Plus",
       "titleTarget" : "Mercury će se ubuduće zvati Billa Plus",
       "url" : "https://www.diepresse.com/5929190/Supermarkt_Merkur-heisst-kuenftig-Billa-Plus?from=rss"
-    }, {
-      "id" : "WyFKOOvX",
-      "imgUrl" : "https://image.kurier.at/images/original/4657096/20200924-ABD0038-1-1.jpg",
-      "titleSource" : "Wirtschaft fordert Lockdown-Ende: Jede Woche kostet 1,7 Milliarden",
-      "titleTarget" : "Ekonomija traži kraj zaključavanja: svaki tjedan košta 1,7 milijardi",
-      "url" : "https://kurier.at/wirtschaft/wirtschaft-fordert-lockdown-ende-jede-woche-kostet-17-milliarden/401170618"
     }, {
       "id" : "GjKoU1CO",
       "imgUrl" : "https://image.kurier.at/images/original/4899589/20210127-ABD0058-1-1.jpg",
@@ -71,39 +59,39 @@
       "titleTarget" : "Blümel pojačava pritisak na EU zbog većih ograničenja ekonomske pomoći",
       "url" : "https://kurier.at/wirtschaft/bluemel-erhoeht-druck-auf-eu-fuer-hoehere-limits-bei-wirtschaftshilfen/401171077"
     }, {
-      "id" : "ZlGk7OTh",
-      "imgUrl" : "https://image.kurier.at/images/original/3169217/78370011346279504_BLD_Online.jpg",
-      "titleSource" : "Leichtes Plus bei Neugründungen im Coronajahr",
-      "titleTarget" : "Mali plus za novoosnovana poduzeća u koronskoj godini",
-      "url" : "https://kurier.at/wirtschaft/leichtes-plus-bei-neugruendungen/401170249"
-    }, {
       "id" : "SBObb625",
       "imgUrl" : "https://image.kurier.at/images/original/4122864/20200213-ABD0006-1-1.jpg",
       "titleSource" : "Commerzbank streicht 10.000 Jobs und schließt jede zweite Filiale",
       "titleTarget" : "Commerzbank smanjuje 10.000 radnih mjesta i zatvara svaku drugu poslovnicu",
       "url" : "https://kurier.at/wirtschaft/commerzbank-streicht-10000-jobs-und-schliesst-jede-zweite-filiale/401171422"
     }, {
+      "id" : "ZgcF2HU2",
+      "imgUrl" : "https://image.kurier.at/images/original/4867155/20210112-ABD0057-1-1.jpg",
+      "titleSource" : "Österreich auch im Corona-Jahr als Standort attraktiv",
+      "titleTarget" : "Austrija je također atraktivno mjesto u godini Corona",
+      "url" : "https://kurier.at/wirtschaft/oesterreich-auch-im-corona-jahr-als-standort-attraktiv/401171011"
+    }, {
+      "id" : "tBcI9har",
+      "imgUrl" : "https://image.kurier.at/images/original/4687419/46-166218550.jpg",
+      "titleSource" : "Novomatic-Gründer Graf verschenkt 20 Prozent des Konzerns",
+      "titleTarget" : "Osnivač Novomatic-a Graf daje 20 posto grupe",
+      "url" : "https://kurier.at/wirtschaft/novomatic-gruender-graf-verschenkt-20-prozent-des-konzerns/401170936"
+    }, {
       "id" : "NN2XSSJ6",
       "imgUrl" : "https://image.kurier.at/images/original/4637093/jan-trionow_drei.jpg",
       "titleSource" : "Drei-Chef Jan Trionow geht",
       "titleTarget" : "Šef Dreia Jan Trionow odlazi",
       "url" : "https://kurier.at/wirtschaft/drei-chef-jan-trionow-geht/401171125"
+    }, {
+      "id" : "w3gn1cQJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
+      "titleSource" : "Kreditkarten-Riese Visa muss in Corona-Krise Abstriche machen",
+      "titleTarget" : "Div kreditnih kartica Visa mora smanjiti koronsku krizu",
+      "url" : "https://kurier.at/wirtschaft/kreditkarten-riese-visa-muss-in-corona-krise-abstriche-machen/401171770"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "9o0SYZFU",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2019/33/21/crops/w=1280/259271_opener_77221_merkur.jpg?s=4140a660f4ea798e6c21f5dbc804614122161ee9",
-      "titleSource" : "Merkur wird zu Billa Plus",
-      "titleTarget" : "Merkur postaje Billa Plus",
-      "url" : "https://wien.orf.at/stories/3087267/"
-    }, {
-      "id" : "v6icGJur",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/48/45/crops/w=1280/760056_opener_264045_kh_abwasserstudie_201122_00_00_30_17.jpg?s=62256718b7d1e0d8db870033b1a15995a8c33ce4",
-      "titleSource" : "B117 in Region Bad Vöslau nachgewiesen",
-      "titleTarget" : "B117 otkriven u regiji Bad Vöslau",
-      "url" : "https://noe.orf.at/stories/3087237/"
-    }, {
       "id" : "kOSUXiBs",
       "imgUrl" : "https://image.kurier.at/images/original/4900447/46-175069575.jpg",
       "titleSource" : "7-Tages-Inzidenz: Wirtschaft kritisiert Lockdown-Kennzahl",
@@ -116,22 +104,34 @@
       "titleTarget" : "STAROST: Mali rizik od zaraze skijanjem",
       "url" : "https://kurier.at/chronik/oesterreich/ages-kaum-infektionsrisiko-durch-skifahren/401171092"
     }, {
-      "id" : "6fdOQlk3",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/47/15/crops/w=1280/754736_opener_262115_201116_bh_neuerungen_jagdwesen_00.01.07.11.jpg?s=1d231650b5d027199be010a49a2217ad6fc55a44",
-      "titleSource" : "Gatterjagdverbot kommt nun doch",
-      "titleTarget" : "Napokon dolazi zabrana lova na vrata",
-      "url" : "https://burgenland.orf.at/stories/3087258/"
+      "id" : "8Ke0aYPc",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/29/crops/w=1280/827621_opener_288629_weiss.jpg?s=64cf4fbc07b2bd9fba99b66dd363ada6341a7725",
+      "titleSource" : "Wasserstoff-Lkw im Testbetrieb",
+      "titleTarget" : "Vodikov kamion u probnom radu",
+      "url" : "https://vorarlberg.orf.at/stories/3087300/"
     }, {
-      "id" : "Msh1iNYb",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/19/crops/w=1280/750192_opener_260419_kh_besuchsregelung_f_r_pflegeheime_201111_00_00_09_17.jpg?s=f067cafd6220f0837afac061bfa7b32cf6aeff26",
-      "titleSource" : "Seniorenheime: Strenge Regeln trotz Impfung",
-      "titleTarget" : "Domovi umirovljenika: stroga pravila unatoč cijepljenju",
-      "url" : "https://salzburg.orf.at/stories/3087226/"
+      "id" : "ZsAX3LtT",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/39/crops/w=1280/826790_opener_288339_54708398-8f0f-40c7-ba77-82d7a05aaeff.jpeg?s=349dd454607d4b7835c672764ae1d08c7154a4ea",
+      "titleSource" : "Arbeitspensum für Pädagogen deutlich gestiegen",
+      "titleTarget" : "Opterećenje odgajatelja znatno se povećalo",
+      "url" : "https://noe.orf.at/stories/3087183/"
     }, {
-      "id" : "k34kCHyf",
-      "titleSource" : "Familie aus Eichgraben droht Abschiebung",
-      "titleTarget" : "Obitelji iz Eichgrabena prijeti deportacija",
-      "url" : "https://noe.orf.at/stories/3087327/"
+      "id" : "bhpJ0O9T",
+      "imgUrl" : "https://image.kurier.at/images/original/4900534/46-175069518.jpg",
+      "titleSource" : "Lipizzaner-Hengstfohlen macht seine ersten Schritte",
+      "titleTarget" : "Lipicanski ždrebec čini prve korake",
+      "url" : "https://kurier.at/chronik/oesterreich/lipizzaner-hengstfohlen-macht-seine-ersten-schritte/401170129"
+    }, {
+      "id" : "rd3nCSZT",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.449 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "1.449 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1449-corona-neuinfektionen-in-oesterreich/401170582"
+    }, {
+      "id" : "qGJnBcnD",
+      "titleSource" : "AK: OGH-Urteil für sechste Urlaubswoche",
+      "titleTarget" : "AK: Presuda Vrhovnog suda za šesti tjedan odmora",
+      "url" : "https://ooe.orf.at/stories/3087309/"
     } ]
   }, {
     "category" : "CULTURE",
@@ -142,22 +142,11 @@
       "titleTarget" : "General ORF-a Wrabetz pokušava Spin Doctor-a i ne uspijeva",
       "url" : "https://kurier.at/kultur/medien/orf-general-wrabetz-versucht-den-spin-doctor-und-scheitert/401170351"
     }, {
-      "id" : "z9Y6vdyL",
-      "titleSource" : "Sohn von Trivago-Chef platzt in CNN-Interview",
-      "titleTarget" : "Sin šefa Trivaga upao je u intervju za CNN",
-      "url" : "https://kurier.at/kultur/medien/sohn-von-trivago-chef-platzt-in-cnn-interview/401170246"
-    }, {
       "id" : "rlNVCZSL",
       "imgUrl" : "https://image.kurier.at/images/original/3530914/46-146567799.jpg",
       "titleSource" : "Phil Collins und Justin Timberlake feiern runde Geburtstage",
       "titleTarget" : "Phil Collins i Justin Timberlake slave posebne rođendane",
       "url" : "https://kurier.at/kultur/phil-collins-und-justin-timberlake-feiern-runde-geburtstage/401171158"
-    }, {
-      "id" : "lbVwtVTu",
-      "imgUrl" : "https://image.kurier.at/images/original/4901062/46-175084544.jpg",
-      "titleSource" : "US-Schauspielerin Cloris Leachman mit 94 Jahren gestorben",
-      "titleTarget" : "Američka glumica Cloris Leachman umrla je u 94. godini",
-      "url" : "https://kurier.at/kultur/us-schauspielerin-cloris-leachman-mit-94-jahren-gestorben/401170354"
     }, {
       "id" : "aLtYzubC",
       "imgUrl" : "https://image.kurier.at/images/original/4902208/arabellainterviewneu.jpg",
@@ -165,17 +154,29 @@
       "titleTarget" : "\"Dobrodošli kući\": Ovako se Arabella Kiesbauer vratila na ORF",
       "url" : "https://kurier.at/kultur/medien/willkommen-zuhause-im-orf-fuer-starmania-moderatorin-arabella-kiesbauer-im-fruehstuecks-tv/401171035"
     }, {
+      "id" : "2ySEiDQH",
+      "imgUrl" : "https://image.kurier.at/images/original/4883625/bridgerton_108_unit_00543r.jpg",
+      "titleSource" : "\"Bridgerton\" bricht Netflix-Rekord",
+      "titleTarget" : "\"Bridgerton\" obara Netflixov rekord",
+      "url" : "https://kurier.at/kultur/medien/bridgerton-bricht-netflix-rekord/401170825"
+    }, {
       "id" : "uMElmjVy",
       "imgUrl" : "https://image.kurier.at/images/original/3372847/GOT_S8.jpg",
       "titleSource" : "\"Game of Thrones\"-Animationsserie soll in Planung sein",
       "titleTarget" : "Treba planirati animacijsku seriju \"Game of Thrones\"",
       "url" : "https://kurier.at/kultur/medien/game-of-thrones-animationsserie-soll-in-planung-sein/401170927"
     }, {
-      "id" : "2ySEiDQH",
-      "imgUrl" : "https://image.kurier.at/images/original/4883625/bridgerton_108_unit_00543r.jpg",
-      "titleSource" : "\"Bridgerton\" bricht Netflix-Rekord",
-      "titleTarget" : "\"Bridgerton\" obara Netflixov rekord",
-      "url" : "https://kurier.at/kultur/medien/bridgerton-bricht-netflix-rekord/401170825"
+      "id" : "VwWhEZv5",
+      "imgUrl" : "https://image.kurier.at/images/original/4901281/46-108340901.jpg",
+      "titleSource" : "Start für die KURIER ROMY 2021 mit wichtigen Neuerungen",
+      "titleTarget" : "Započnite s KURIER ROMY 2021 s važnim inovacijama",
+      "url" : "https://kurier.at/kultur/start-fuer-die-kurier-romy-2021-mit-wichtigen-neuerungen/401170471"
+    }, {
+      "id" : "TQ2AnqHZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4901728/46-81872401.jpg",
+      "titleSource" : "Grazer Elevate Festival auf Mai verschoben",
+      "titleTarget" : "Festival Graz Elevate odgođen za svibanj",
+      "url" : "https://kurier.at/kultur/grazer-elevate-festival-auf-mai-verschoben/401170714"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,22 +196,6 @@
       "titleTarget" : "Jamstvo za brzi uspjeh Kara: \"Kopirala sam to sa Zlatana\"",
       "url" : "https://kurier.at/sport/fussball/rapid-erfolgsgarant-ercan-kara-ich-hab-mir-das-von-zlatan-abgeschaut/401171314"
     }, {
-      "id" : "RoGDoYPm",
-      "imgUrl" : "https://image.kurier.at/images/original/4900915/46-3934586.jpg",
-      "titleSource" : "Ex-Sturm-Kicker mit nur 45 Jahren an Corona gestorben",
-      "titleTarget" : "Bivši Sturm-Kicker umro je od Corone u dobi od 45 godina",
-      "url" : "https://kurier.at/sport/fussball/ex-sturm-kicker-mehrdad-minavand-mit-45-an-corona-gestorben/401170297"
-    }, {
-      "id" : "ptce97FX",
-      "titleSource" : "LASK rehabilitiert sich in Wolfsberg",
-      "titleTarget" : "LASK je na rehabilitaciji u Wolfsbergu",
-      "url" : "https://sport.orf.at/stories/3072395/"
-    }, {
-      "id" : "aoOb2CKz",
-      "titleSource" : "Ex-Sturm-Spieler Minavand an Covid-19 verstorben",
-      "titleTarget" : "Bivši igrač oluje Minavand umro je od Covid-19",
-      "url" : "https://sport.orf.at/stories/3072399/"
-    }, {
       "id" : "msJD6KxD",
       "imgUrl" : "https://image.kurier.at/images/original/4901842/campos.png",
       "titleSource" : "Die Formel 1 trauert um einen ehemaligen Piloten",
@@ -221,6 +206,21 @@
       "titleSource" : "Für Steu/Koller zählt nur eine Medaille",
       "titleTarget" : "Za Steu / Koller računa se samo jedna medalja",
       "url" : "https://sport.orf.at/stories/3072381/"
+    }, {
+      "id" : "1Vek7rY3",
+      "titleSource" : "Ehemaliger Formel-1-Pilot Campos 60-jährig gestorben",
+      "titleTarget" : "Bivši vozač Formule 1 Campos umro je u 60. godini",
+      "url" : "https://sport.orf.at/stories/3072416/"
+    }, {
+      "id" : "drTHM1fE",
+      "titleSource" : "Rapid nach Kara-Traumtor weiter makellos",
+      "titleTarget" : "Brzo nakon Kare cilj iz snova nastavlja se besprijekorno",
+      "url" : "https://sport.orf.at/stories/3072407/"
+    }, {
+      "id" : "DIxzTuRa",
+      "titleSource" : "Bericht belastet ehemalige IBU-Spitze",
+      "titleTarget" : "Izvještaj opterećuje bivše čelnike IBU-a",
+      "url" : "https://sport.orf.at/stories/3072418/"
     } ]
   } ],
   "country" : "austria",
