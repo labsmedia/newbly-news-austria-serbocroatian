@@ -2,225 +2,271 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "tDyPrVUY",
-      "imgUrl" : "https://image.kurier.at/images/original/4886481/20210121-ABD0049-1-1.jpg",
-      "titleSource" : "Kogler: Abschiebung von Schülerinnen \"unmenschlich\"",
-      "titleTarget" : "Kogler: deportacija školarki \"neljudski\"",
-      "url" : "https://kurier.at/politik/inland/abschiebung-vizekanzler-kogler-spricht-von-verpflichtung-zur-menschlichkeit/401171224"
-    }, {
-      "id" : "wPwvuvGe",
+      "id" : "fmfbLBHo",
       "imgUrl" : "https://image.kurier.at/images/original/1973185/ballhausplatz-000_KURIER_Reinhard%252BVogel.jpg",
       "titleSource" : "Corona: \"Menschenlose Demo\" zu Covid19-Maßnahmen am Ballhausplatz",
       "titleTarget" : "Corona: \"Bezčovječni demo\" o mjerama Covid19 na Ballhausplatzu",
       "url" : "https://kurier.at/politik/inland/corona-menschenlose-demo-zu-covid19-massnahmen-am-ballhausplatz/401171290"
     }, {
-      "id" : "Rr8Gs7AG",
+      "id" : "bSUHfwEx",
       "imgUrl" : "https://image.kurier.at/images/original/4902841/46-173998643.jpg",
       "titleSource" : "Van der Bellen von Abschiebungen \"zutiefst betroffen\"",
       "titleTarget" : "Van der Bellen \"duboko pogođen\" deportacijama",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-von-abschiebungen-zutiefst-betroffen/401171560"
     }, {
-      "id" : "3XqAzFkQ",
+      "id" : "3VpRGE6Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4879515/20210118-ABD0044-1-1.jpg",
+      "titleSource" : "Abschiebungen: SPÖ fordert Entschuldigung wegen Kritik am Präsidenten",
+      "titleTarget" : "Deportacije: SPÖ traži ispriku zbog kritiziranja predsjednika",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-spoe-fordert-entschuldigung-wegen-kritik-am-praesidenten/401172094"
+    }, {
+      "id" : "KwFQt1xb",
       "imgUrl" : "https://image.kurier.at/images/original/4842735/20201227-ABD0058-1-1.jpg",
       "titleSource" : "Impfung: Neos sehen Verordnung als Freibrief zur Impfung für alle",
       "titleTarget" : "Cijepljenje: Neos na regulaciju gleda kao na dozvolu cijepljenja za sve",
       "url" : "https://kurier.at/politik/inland/impfung-neos-sehen-verordnung-als-freibrief-zur-impfung-fuer-alle/401171401"
     }, {
-      "id" : "Mnk8IfRb",
-      "imgUrl" : "https://image.kurier.at/images/original/4878864/46-173970354.jpg",
-      "titleSource" : "Schule: Faßmann ordert weitere 14 Millionen „Nasenbohrer“-Tests",
-      "titleTarget" : "Škola: Fassmann naručuje dodatnih 14 milijuna testova \"bušenja nosa\"",
-      "url" : "https://kurier.at/politik/inland/schulen-fassmann-ordert-weitere-14-millionen-nasenbohrer-tests/401171662"
+      "id" : "1qanuKze",
+      "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
+      "titleSource" : "Abschiebungen: \"Dann ist Nehammer Problem für Koalition\"",
+      "titleTarget" : "Deportacije: \"Tada je Nehammer problem za koaliciju\"",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-gruene-fordern-haertefallkommissionen-und-kritisieren-oevp/401172496"
     }, {
-      "id" : "2zBIDZNf",
-      "imgUrl" : "https://image.kurier.at/images/original/4815312/20201211-ABD0207-1-1.jpg",
-      "titleSource" : "ÖVP und Grüne einigen sich auf neue Digitalförderung für Medien",
-      "titleTarget" : "ÖVP i Zeleni dogovaraju se o novom digitalnom financiranju medija",
-      "url" : "https://kurier.at/politik/inland/oevp-und-gruene-einigen-sich-auf-neue-digitalfoerderung-fuer-medien/401171245"
+      "id" : "A7J1BMeN",
+      "imgUrl" : "https://image.kurier.at/images/original/4896618/20210125-ABD0158-1-1.jpg",
+      "titleSource" : "Coronavirus: Regierung entscheidet am Montag über Lockdown",
+      "titleTarget" : "Koronavirus: Vlada će u ponedjeljak odlučiti o zaključavanju",
+      "url" : "https://kurier.at/politik/inland/coronavirus-regierung-entscheidet-am-montag-ueber-lockdown/401172568"
     }, {
-      "id" : "nfcotBJ8",
-      "imgUrl" : "https://image.kurier.at/images/original/2238006/laptop2.jpg",
-      "titleSource" : "Für alle 10- und 11-Jährigen: Ministerium kauft 130.000 Laptops und Tablets",
-      "titleTarget" : "Za sve uzraste od 10 i 11 godina: Ministarstvo kupuje 130 000 prijenosnih računala i tableta",
-      "url" : "https://kurier.at/politik/inland/fuer-alle-10-und-11-jaehrigen-ministerium-kauft-130000-laptops-und-tablets/401171704"
+      "id" : "tCYbKc21",
+      "imgUrl" : "https://image.kurier.at/images/original/1877149/grenzkontrolle-000_APA_HERBERT%252BNEUBAUER.jpg",
+      "titleSource" : "Coronavirus: Österreich verschärft kommende Woche Einreiseregeln",
+      "titleTarget" : "Koronavirus: Austrija će pooštriti pravila ulaska sljedeći tjedan",
+      "url" : "https://kurier.at/politik/inland/coronavirus-oesterreich-verschaerft-kommende-woche-einreiseregeln/401172529"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "GjKoU1CO",
-      "imgUrl" : "https://image.kurier.at/images/original/4899589/20210127-ABD0058-1-1.jpg",
-      "titleSource" : "Blümel erhöht Druck auf EU für höhere Limits bei Wirtschaftshilfen",
-      "titleTarget" : "Blümel pojačava pritisak na EU zbog većih ograničenja ekonomske pomoći",
-      "url" : "https://kurier.at/wirtschaft/bluemel-erhoeht-druck-auf-eu-fuer-hoehere-limits-bei-wirtschaftshilfen/401171077"
-    }, {
-      "id" : "ZgcF2HU2",
-      "imgUrl" : "https://image.kurier.at/images/original/4867155/20210112-ABD0057-1-1.jpg",
-      "titleSource" : "Österreich auch im Corona-Jahr als Standort attraktiv",
-      "titleTarget" : "Austrija je također atraktivno mjesto u godini Corona",
-      "url" : "https://kurier.at/wirtschaft/oesterreich-auch-im-corona-jahr-als-standort-attraktiv/401171011"
-    }, {
-      "id" : "SBObb625",
+      "id" : "cCTVwZ75",
       "imgUrl" : "https://image.kurier.at/images/original/4122864/20200213-ABD0006-1-1.jpg",
       "titleSource" : "Commerzbank streicht 10.000 Jobs und schließt jede zweite Filiale",
       "titleTarget" : "Commerzbank smanjuje 10.000 radnih mjesta i zatvara svaku drugu poslovnicu",
       "url" : "https://kurier.at/wirtschaft/commerzbank-streicht-10000-jobs-und-schliesst-jede-zweite-filiale/401171422"
     }, {
-      "id" : "NN2XSSJ6",
-      "imgUrl" : "https://image.kurier.at/images/original/4637093/jan-trionow_drei.jpg",
-      "titleSource" : "Drei-Chef Jan Trionow geht",
-      "titleTarget" : "Šef Dreia Jan Trionow odlazi",
-      "url" : "https://kurier.at/wirtschaft/drei-chef-jan-trionow-geht/401171125"
+      "id" : "c8lfNMrM",
+      "imgUrl" : "https://image.kurier.at/images/original/4904587/46-175094030.jpg",
+      "titleSource" : "Handel drängt auf Gesamtöffnung ab 8. Februar",
+      "titleTarget" : "Trgovina teži potpunom otvaranju od 8. veljače",
+      "url" : "https://kurier.at/wirtschaft/handel-draengt-auf-gesamtoeffnung-ab-8-februar/401172493"
     }, {
-      "id" : "w3gn1cQJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
-      "titleSource" : "Kreditkarten-Riese Visa muss in Corona-Krise Abstriche machen",
-      "titleTarget" : "Div kreditnih kartica Visa mora smanjiti koronsku krizu",
-      "url" : "https://kurier.at/wirtschaft/kreditkarten-riese-visa-muss-in-corona-krise-abstriche-machen/401171770"
-    }, {
-      "id" : "qgMCxCFN",
+      "id" : "AvMgdpHr",
       "imgUrl" : "https://image.kurier.at/images/original/4873167/46-143758781.jpg",
       "titleSource" : "GameStop-Hype: Verluste von 70 Mrd. für US-Shortseller",
       "titleTarget" : "GameStop hype: Američki prodavači gube 70 milijardi",
       "url" : "https://kurier.at/wirtschaft/gamestop-hype-verluste-von-70-mrd-fuer-us-shortseller/401171671"
     }, {
-      "id" : "shxBn7wl",
-      "imgUrl" : "https://image.kurier.at/images/original/4903786/46-175197024.jpg",
-      "titleSource" : "Dr. Martens zum Börsendebüt mit 3,7 Mrd. Pfund bewertet",
-      "titleTarget" : "Dr. Martens je na svom debiju na berzi procijenio 3,7 milijardi funti",
-      "url" : "https://kurier.at/wirtschaft/dr-martens-zum-boersendebuet-mit-37-mrd-pfund-bewertet/401172034"
+      "id" : "XaSrQAqP",
+      "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
+      "titleSource" : "Kreditkarten-Riese Visa muss in Corona-Krise Abstriche machen",
+      "titleTarget" : "Div kreditnih kartica Visa mora smanjiti koronsku krizu",
+      "url" : "https://kurier.at/wirtschaft/kreditkarten-riese-visa-muss-in-corona-krise-abstriche-machen/401171770"
+    }, {
+      "id" : "udC0T81d",
+      "imgUrl" : "https://image.kurier.at/images/original/4861845/wirecard.jpg",
+      "titleSource" : "Übernahme von Wirecard-Kerngeschäft durch Santander abgeschlossen",
+      "titleTarget" : "Završeno preuzimanje osnovne djelatnosti Wirecarda od strane Santandera",
+      "url" : "https://kurier.at/wirtschaft/uebernahme-von-wirecard-kerngeschaeft-durch-santander-abgeschlossen/401171602"
+    }, {
+      "id" : "atAvKI5C",
+      "imgUrl" : "https://image.kurier.at/images/original/4472342/78370011355162218_BLD_Online.jpg",
+      "titleSource" : "Deutsches Kartellamt prüft Marktmacht-Missbrauch durch Lufthansa",
+      "titleTarget" : "Njemački ured za kartele istražuje zlouporabu tržišne moći od strane Lufthanse",
+      "url" : "https://kurier.at/wirtschaft/deutsches-kartellamt-prueft-marktmacht-missbrauch-durch-lufthansa/401171647"
+    }, {
+      "id" : "3a2kmNvC",
+      "imgUrl" : "https://image.kurier.at/images/original/4700673/46-164293732.jpg",
+      "titleSource" : "Gesetzliche Corona-Kreditstundungen laufen am Sonntag aus",
+      "titleTarget" : "Zakonske odgode zajma Corone istječu u nedjelju",
+      "url" : "https://kurier.at/wirtschaft/gesetzliche-corona-kreditstundungen-laufen-am-sonntag-aus/401171680"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "IMH7k0No",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/99/crops/w=1280/828435_opener_288899_lang_img_2314_002.jpg?s=5d07f15cb9937578d0127a9996b71381118f12ab",
-      "titleSource" : "Langenzersdorf: Explosion in Wohnhaus",
-      "titleTarget" : "Langenzersdorf: eksplozija u stambenoj zgradi",
-      "url" : "https://noe.orf.at/stories/3087415/"
-    }, {
-      "id" : "D1QSiR9l",
-      "imgUrl" : "https://image.kurier.at/images/original/4839801/46-173676087.jpg",
-      "titleSource" : "AGES: Kaum Infektionsrisiko durch Skifahren",
-      "titleTarget" : "STAROST: Mali rizik od zaraze skijanjem",
-      "url" : "https://kurier.at/chronik/oesterreich/ages-kaum-infektionsrisiko-durch-skifahren/401171092"
-    }, {
-      "id" : "ahgEuC66",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/01/crops/w=1280/828440_opener_288901_20191004_oevp_vorstand_00_00_56_11.jpg?s=58e6529465ae2de64fa1c7d3cb5335dd1ddbbe12",
-      "titleSource" : "Nächste Plagiatsaffäre in ÖVP",
-      "titleTarget" : "Sljedeća afera plagijata u ÖVP-u",
-      "url" : "https://kaernten.orf.at/stories/3087420/"
-    }, {
-      "id" : "gLh2Esvz",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/21/31/crops/w=1280/568986_opener_193931_ss.jpg?s=697c9f94ac6546f82004c3acd4aa766e63bd774c",
-      "titleSource" : "Bürgermeister Willis Plan droht zu scheitern",
-      "titleTarget" : "Plan gradonačelnika Willija prijeti da propadne",
-      "url" : "https://tirol.orf.at/stories/3087397/"
-    }, {
-      "id" : "8Ke0aYPc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/29/crops/w=1280/827621_opener_288629_weiss.jpg?s=64cf4fbc07b2bd9fba99b66dd363ada6341a7725",
-      "titleSource" : "Wasserstoff-Lkw im Testbetrieb",
-      "titleTarget" : "Vodikov kamion u probnom radu",
-      "url" : "https://vorarlberg.orf.at/stories/3087300/"
-    }, {
-      "id" : "ZsAX3LtT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/39/crops/w=1280/826790_opener_288339_54708398-8f0f-40c7-ba77-82d7a05aaeff.jpeg?s=349dd454607d4b7835c672764ae1d08c7154a4ea",
-      "titleSource" : "Arbeitspensum für Pädagogen deutlich gestiegen",
-      "titleTarget" : "Opterećenje odgajatelja znatno se povećalo",
-      "url" : "https://noe.orf.at/stories/3087183/"
-    }, {
-      "id" : "Cq3Dd1Iq",
+      "id" : "Rkgcp5u9",
       "imgUrl" : "https://image.kurier.at/images/original/4875072/46-174085891.jpg",
-      "titleSource" : "Plagiatsaffäre: Villacher Nationalrat legt Magistertitel zurück",
-      "titleTarget" : "Afera plagijarizam: Nacionalno vijeće Beljaka podnosi ostavku na magisterij",
-      "url" : "https://kurier.at/chronik/oesterreich/plagiatsaffaere-villacher-nationalrat-legt-magistertitel-zurueck/401171977"
+      "titleSource" : "Plagiatsaffäre: Villacher Nationalratsabgeordneter legt Magistertitel zurück",
+      "titleTarget" : "Afera plagijarizam: Član Nacionalnog vijeća u Beljaku dao je otkaz na magisteriju",
+      "url" : "https://kurier.at/chronik/oesterreich/plagiatsaffaere-villacher-nationalratsabgeordneter-legt-magistertitel-zurueck/401171977"
+    }, {
+      "id" : "TNpcsUuy",
+      "imgUrl" : "https://image.kurier.at/images/original/4903507/46-167840271.jpg",
+      "titleSource" : "Kinder- und Jugendpsychiatrie: Experten schlagen Alarm",
+      "titleTarget" : "Dječja i adolescentna psihijatrija: stručnjaci oglašavaju uzbunu",
+      "url" : "https://kurier.at/chronik/oesterreich/kinder-und-jugendpsychiatrie-experten-schlagen-alarm/401171830"
+    }, {
+      "id" : "qNjcfTN9",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.500 Neuinfektionen in Österreich",
+      "titleTarget" : "1.500 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1500-neuinfektionen-in-oesterreich/401172106"
+    }, {
+      "id" : "PR4iQ6L9",
+      "imgUrl" : "https://image.kurier.at/images/original/4890456/46-174082288.jpg",
+      "titleSource" : "8,1 Prozent von Tirols Jänner-Proben zeigen Verdacht auf Mutation",
+      "titleTarget" : "8,1 posto tirolskih uzoraka iz siječnja pokazuje sumnju na mutaciju",
+      "url" : "https://kurier.at/chronik/oesterreich/81-prozent-von-tirols-jaenner-proben-zeigen-verdacht-auf-mutation/401171701"
+    }, {
+      "id" : "0OkM1yhA",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Polizei löst Coronaparty auf Parkplatz in Klagenfurt auf",
+      "titleTarget" : "Policija raspušta koronsku zabavu na parkiralištu u Klagenfurtu",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-loest-coronaparty-auf-parkplatz-auf/401171923"
+    }, {
+      "id" : "linewKdc",
+      "imgUrl" : "https://image.kurier.at/images/original/4902640/46-36489454.jpg",
+      "titleSource" : "Der Fall Zogaj: Wo Arigona heute lebt",
+      "titleTarget" : "Slučaj Zogaj: Gdje Arigona danas živi",
+      "url" : "https://kurier.at/chronik/oesterreich/der-fall-zogaj-wo-arigona-heute-lebt/401171350"
+    }, {
+      "id" : "oK3N3MII",
+      "imgUrl" : "https://image.kurier.at/images/original/4891746/46-174082321.jpg",
+      "titleSource" : "Corona: Datenleck auf Test-Anmeldeseite in Salzburg",
+      "titleTarget" : "Corona: curenje podataka na testnoj stranici za prijavu u Salzburgu",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-datenleck-auf-test-anmeldeseite-in-salzburg/401171512"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "rlNVCZSL",
+      "id" : "4BflUP1W",
       "imgUrl" : "https://image.kurier.at/images/original/3530914/46-146567799.jpg",
       "titleSource" : "Phil Collins und Justin Timberlake feiern runde Geburtstage",
       "titleTarget" : "Phil Collins i Justin Timberlake slave posebne rođendane",
       "url" : "https://kurier.at/kultur/phil-collins-und-justin-timberlake-feiern-runde-geburtstage/401171158"
     }, {
-      "id" : "P8LCPXaK",
+      "id" : "fBuHJGy9",
+      "imgUrl" : "https://image.kurier.at/images/original/4901059/46-157185752.jpg",
+      "titleSource" : "ORF-General Wrabetz versucht den Spin-Doctor und scheitert",
+      "titleTarget" : "General ORF-a Wrabetz pokušava Spin Doctor-a i ne uspijeva",
+      "url" : "https://kurier.at/kultur/medien/orf-general-wrabetz-versucht-den-spin-doctor-und-scheitert/401170351"
+    }, {
+      "id" : "YIBu8QVY",
       "imgUrl" : "https://image.kurier.at/images/original/4903654/46-175101724.jpg",
       "titleSource" : "Rekordpreis für Botticelli-Gemälde bei Online-Auktion",
       "titleTarget" : "Rekordna cijena Botticellijeve slike na internetskoj aukciji",
       "url" : "https://kurier.at/kultur/rekordpreis-fuer-botticelli-gemaelde-bei-online-auktion/401171914"
     }, {
-      "id" : "aLtYzubC",
+      "id" : "t6zoACJR",
       "imgUrl" : "https://image.kurier.at/images/original/4902208/arabellainterviewneu.jpg",
       "titleSource" : "„Willkommen zuhause“: So lief Arabella Kiesbauers Rückkehr im ORF",
       "titleTarget" : "\"Dobrodošli kući\": Ovako se Arabella Kiesbauer vratila na ORF",
       "url" : "https://kurier.at/kultur/medien/willkommen-zuhause-im-orf-fuer-starmania-moderatorin-arabella-kiesbauer-im-fruehstuecks-tv/401171035"
     }, {
-      "id" : "8svZPuWj",
-      "imgUrl" : "https://image.kurier.at/images/original/4900474/46-175068057.jpg",
-      "titleSource" : "Die Koch-Welt besteht nicht nur aus Hauben und Sternen",
-      "titleTarget" : "Svijet kuhanja ne čine samo toquei i zvijezde",
-      "url" : "https://kurier.at/kultur/restaurantlegenden-die-koch-welt-besteht-nicht-nur-aus-hauben-und-sternen/401170108"
+      "id" : "TWnzOUTU",
+      "imgUrl" : "https://image.kurier.at/images/original/4883625/bridgerton_108_unit_00543r.jpg",
+      "titleSource" : "\"Bridgerton\" bricht Netflix-Rekord",
+      "titleTarget" : "\"Bridgerton\" obara Netflixov rekord",
+      "url" : "https://kurier.at/kultur/medien/bridgerton-bricht-netflix-rekord/401170825"
     }, {
-      "id" : "uMElmjVy",
-      "imgUrl" : "https://image.kurier.at/images/original/3372847/GOT_S8.jpg",
-      "titleSource" : "\"Game of Thrones\"-Animationsserie soll in Planung sein",
-      "titleTarget" : "Treba planirati animacijsku seriju \"Game of Thrones\"",
-      "url" : "https://kurier.at/kultur/medien/game-of-thrones-animationsserie-soll-in-planung-sein/401170927"
+      "id" : "lDwfjo9G",
+      "imgUrl" : "https://image.kurier.at/images/original/4904530/46-112323830.jpg",
+      "titleSource" : "Franz West: Nun erbt die Schwester - zugunsten der Stiftung",
+      "titleTarget" : "Franz West: Sada sestra nasljeđuje - u korist zaklade",
+      "url" : "https://kurier.at/kultur/franz-west-nun-erbt-die-schwester-zugunsten-der-stiftung/401172451"
     }, {
-      "id" : "ZDko8YEk",
+      "id" : "Kx7Aos6m",
       "imgUrl" : "https://image.kurier.at/images/original/4896183/46-174282972.jpg",
       "titleSource" : "Kunst: Diese Ausstellungen gehen in die Verlängerung",
       "titleTarget" : "Umjetnost: Te se izložbe produžuju",
       "url" : "https://kurier.at/kultur/diese-ausstellungen-gehen-in-die-verlaengerung/401171389"
-    }, {
-      "id" : "W5Znbc99",
-      "imgUrl" : "https://image.kurier.at/images/original/4902211/46-175067765.jpg",
-      "titleSource" : "\"The Hunt\": Eine blutige Jagd auf vorgefertigte Meinungen",
-      "titleTarget" : "\"Lov\": Krvavi lov na gotova mišljenja",
-      "url" : "https://kurier.at/kultur/the-hunt-eine-blutige-jagd-auf-vorgefertigte-meinungen/401171212"
     } ]
   }, {
     "category" : "HEALTH",
-    "newsArticles" : [ ]
+    "newsArticles" : [ {
+      "id" : "awGRmwGf",
+      "imgUrl" : "https://image.kurier.at/images/original/4897732/46-174180637.jpg",
+      "titleSource" : "Testpflicht oder FFP2-Maske für alle: AHS-Lehrer notfalls für Ausschluss von Präsenzunterricht",
+      "titleTarget" : "Obavezni test ili FFP2 maska za sve: učitelji AHS-a, ako je potrebno, da isključe nastavu u učionici",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-ahs-lehrer-wollen-testpflicht-fuer-praesenzunterricht/401168560"
+    }, {
+      "id" : "eujYWed3",
+      "imgUrl" : "https://image.kurier.at/images/original/4904494/46-174136481.jpg",
+      "titleSource" : "Bundeskanzler und Berater wollen öffnen, \"was irgendwie geht\"",
+      "titleTarget" : "Kancelar i savjetnik žele otvoriti \"sve što djeluje\"",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-bundeskanzler-und-berater-wollen-oeffnen-was-irgendwie-geht/401172388"
+    }, {
+      "id" : "EMm0lv4i",
+      "imgUrl" : "https://image.kurier.at/images/original/4889328/20210122-ABD0087-1-1.jpg",
+      "titleSource" : "Infektiologe: Auch vierte und fünfte Welle möglich",
+      "titleTarget" : "Infektiolog: Mogući su i četvrti i peti val",
+      "url" : "https://kurier.at/wissen/gesundheit/infektiologe-auch-vierte-und-fuenfte-welle-moeglich/401168095"
+    }, {
+      "id" : "aFktlvmT",
+      "imgUrl" : "https://image.kurier.at/images/original/4779591/46-168953464.jpg",
+      "titleSource" : "Corona: Neuer PCR-Test erkennt sofort auch Mutationen",
+      "titleTarget" : "Corona: Novi PCR test također odmah prepoznaje mutacije",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-neuer-pcr-test-erkennt-sofort-auch-mutationen/401168518"
+    }, {
+      "id" : "yUs8IJcX",
+      "imgUrl" : "https://image.kurier.at/images/original/4899841/46-175066003.jpg",
+      "titleSource" : "Heilsam für die Leber: Mariendistel ist Arzneipflanze 2021",
+      "titleTarget" : "Korisno za jetru: čička će ljekovita biljka 2021. godine",
+      "url" : "https://kurier.at/wissen/gesundheit/heilsam-fuer-die-leber-mariendistel-ist-arzneipflanze-2021/401169754"
+    }, {
+      "id" : "hIUWqFHq",
+      "imgUrl" : "https://image.kurier.at/images/original/4903735/46-175060391.jpg",
+      "titleSource" : "Erstmals Infektionen mit zwei Virus-Typen gleichzeitig",
+      "titleTarget" : "Po prvi puta infekcije s dva tipa virusa istovremeno",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-erstmals-infektionen-mit-zwei-virus-typen-gleichzeitig/401172061"
+    }, {
+      "id" : "5scIOk9B",
+      "imgUrl" : "https://image.kurier.at/images/original/4903477/46-175106583.jpg",
+      "titleSource" : "Novavax: Neuer Impfstoff mit guter Wirksamkeit",
+      "titleTarget" : "Novavax: Novo cjepivo s dobrom učinkovitošću",
+      "url" : "https://kurier.at/wissen/gesundheit/novavax-neuer-impfstoff-mit-guter-wirksamkeit/401171815"
+    } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "kcE55cQr",
+      "id" : "qMmaas8h",
       "imgUrl" : "https://image.kurier.at/images/original/4902574/46-175091253.jpg",
       "titleSource" : "Rapid-Erfolgsgarant Kara: \"Ich hab mir das von Zlatan abgeschaut\"",
       "titleTarget" : "Jamstvo za brzi uspjeh Kara: \"Kopirala sam to sa Zlatana\"",
       "url" : "https://kurier.at/sport/fussball/rapid-erfolgsgarant-ercan-kara-ich-hab-mir-das-von-zlatan-abgeschaut/401171314"
     }, {
-      "id" : "BbmcwuTy",
-      "titleSource" : "Thiem startet Saison mit Duell gegen Nadal",
-      "titleTarget" : "Thiem sezonu započinje dvobojem protiv Nadala",
-      "url" : "https://sport.orf.at/stories/3072423/"
+      "id" : "BXQmIW5M",
+      "imgUrl" : "https://image.kurier.at/images/original/4904785/46-169041161.jpg",
+      "titleSource" : "Kühbauer: \"Marco Grüll würde mir bei Rapid extrem taugen\"",
+      "titleTarget" : "Kühbauer: \"Marco Grüll bio bi mi izuzetno koristan u Rapidu\"",
+      "url" : "https://kurier.at/sport/fussball/kuehbauer-marco-gruell-wuerde-mir-bei-rapid-extrem-taugen/401172574"
     }, {
-      "id" : "YWaL95ca",
+      "id" : "WPgrb1K1",
       "imgUrl" : "https://image.kurier.at/images/original/4903237/46-175099241.jpg",
       "titleSource" : "Ermittlungen gegen Ronaldo nach einem Ausflug in die Alpen",
       "titleTarget" : "Istrage protiv Ronalda nakon putovanja u Alpe",
       "url" : "https://kurier.at/sport/fussball/ermittlungen-gegen-ronaldo-nach-einem-ausflug-in-die-alpen/401171683"
     }, {
-      "id" : "6wsRnhjb",
-      "titleSource" : "Rigorose Kontrollen sollen WM retten",
-      "titleTarget" : "Stroge kontrole trebale bi spasiti WM",
-      "url" : "https://sport.orf.at/stories/3072419/"
+      "id" : "bLEtoU9y",
+      "imgUrl" : "https://image.kurier.at/images/original/4904749/46-173971091.jpg",
+      "titleSource" : "Rodeln: WM-Gold und Bronze für Gleirscher-Brüder",
+      "titleTarget" : "Sanjkanje: Zlato i bronca Svjetskog kupa za braću Gleirscher",
+      "url" : "https://kurier.at/sport/wintersport/rodeln-wm-gold-und-bronze-fuer-gleirscher-brueder/401172571"
     }, {
-      "id" : "Qzfea88Y",
-      "titleSource" : "Liverpool beendet Negativlauf in Premier League",
-      "titleTarget" : "Liverpool je završio negativan niz u Premier ligi",
-      "url" : "https://sport.orf.at/stories/3072432/"
+      "id" : "Rq9eqfLD",
+      "imgUrl" : "https://image.kurier.at/images/original/3740687/46-125312770.jpg",
+      "titleSource" : "Suljovic: \"Ich hatte Angst, dass ich wieder Dartitis bekomme\"",
+      "titleTarget" : "Suljović: \"Bojao sam se da ću opet dobiti dartitis\"",
+      "url" : "https://kurier.at/sport/darts-profi-mensur-suljovic-ich-hatte-angst-dass-ich-wieder-dartitis-bekomme/401171185"
     }, {
-      "id" : "drTHM1fE",
-      "titleSource" : "Rapid nach Kara-Traumtor weiter makellos",
-      "titleTarget" : "Brzo nakon Kare cilj iz snova nastavlja se besprijekorno",
-      "url" : "https://sport.orf.at/stories/3072407/"
+      "id" : "WIuv0MKd",
+      "titleSource" : "Sebastian Vettel zeigte sich im Aston Martin \"oben ohne\"",
+      "titleTarget" : "Sebastian Vettel bio je \"u toplesu\" u Aston Martinu",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-sebastian-vettel-zeigte-sich-im-aston-martin-oben-ohne/401171749"
     }, {
-      "id" : "DIxzTuRa",
-      "titleSource" : "Bericht belastet ehemalige IBU-Spitze",
-      "titleTarget" : "Izvještaj opterećuje bivše čelnike IBU-a",
-      "url" : "https://sport.orf.at/stories/3072418/"
+      "id" : "dMRZrlfM",
+      "imgUrl" : "https://image.kurier.at/images/original/4902061/46-175079564.jpg",
+      "titleSource" : "Rieds Abschlussschwäche kaschierte Salzburger Abwehrfehler",
+      "titleTarget" : "Posljednja Riedova slabost skrivala je obrambene pogreške Salzburga",
+      "url" : "https://kurier.at/sport/fussball/rieds-abschlussschwaeche-kaschierte-salzburger-abwehrfehler/401171005"
     } ]
   } ],
   "country" : "austria",
