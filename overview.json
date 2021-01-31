@@ -2,17 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "Ci3OZ6N2",
-      "imgUrl" : "https://image.kurier.at/images/original/4906933/46-174103444.jpg",
-      "titleSource" : "Demo-Verbote: Polizei ortet \"Gesetzwidrigkeiten in großem Ausmaß\", FPÖ empört",
-      "titleTarget" : "Demo zabrane: Policija locira \"kršenja velikih razmjera\", ogorčen je FPÖ",
-      "url" : "https://kurier.at/politik/inland/demo-verbote-polizei-erwartet-gesetzwidrigkeiten-in-grossem-ausmass-fpoe-schaeumt/401173504"
+      "id" : "2OVBnq0E",
+      "imgUrl" : "https://image.kurier.at/images/original/4885848/46-174203635.jpg",
+      "titleSource" : "Österreich kümmert sich um portugiesische Intensivpatienten",
+      "titleTarget" : "Austrija brine o portugalskim pacijentima intenzivne njege",
+      "url" : "https://kurier.at/politik/inland/oesterreich-kuemmert-sich-um-portugiesische-intensivpatienten/401173870"
     }, {
-      "id" : "04jKvG1F",
-      "imgUrl" : "https://image.kurier.at/images/original/4906162/46-174137422.jpg",
-      "titleSource" : "Rendi-Wagner für Schulöffnung ab 8. Februar, Neos fordern Öffnungsplan",
-      "titleTarget" : "Rendi-Wagner za otvaranje škole od 8. veljače, Neos zahtijeva plan otvaranja",
-      "url" : "https://kurier.at/politik/inland/rendi-wagner-fuer-schuloeffnung-ab-8-februar-neos-fordern-oeffnungsplan/401173246"
+      "id" : "hgUlZDC4",
+      "imgUrl" : "https://image.kurier.at/images/original/4899589/20210127-ABD0058-1-1.jpg",
+      "titleSource" : "So drastisch sind die Auswirkungen von Covid auf das Budget",
+      "titleTarget" : "Toliko je drastičan utjecaj Covida na proračun",
+      "url" : "https://kurier.at/politik/inland/so-drastisch-sind-die-auswirkungen-von-covid-auf-das-budget/401173798"
+    }, {
+      "id" : "Xeh93Ohe",
+      "imgUrl" : "https://image.kurier.at/images/original/4873881/20210115-ABD0010-1-1.jpg",
+      "titleSource" : "Ludwig: \"Wenn Türkis-Grün scheitert, gibt es Neuwahlen\"",
+      "titleTarget" : "Ludwig: \"Ako tirkizno-zelena zakaže, bit će novih izbora\"",
+      "url" : "https://kurier.at/politik/inland/ludwig-am-ehesten-schulen-oeffnen/401173810"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -23,50 +29,50 @@
       "titleTarget" : "Ako se nadamo otvaranju, maloprodaja se želi pridržavati strogih pravila",
       "url" : "https://kurier.at/wirtschaft/handel-will-bei-erhoffter-oeffnung-strenge-regeln-einhalten/401173576"
     }, {
-      "id" : "IMotfVKJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4904221/46-174873840.jpg",
-      "titleSource" : "Allergie-Strategie für zu Hause",
-      "titleTarget" : "Strategija alergije za dom",
-      "url" : "https://kurier.at/wirtschaft/immobiz/allergie-strategie-fuer-zu-hause/401172361"
-    }, {
       "id" : "YBtnr4Vn",
       "imgUrl" : "https://image.kurier.at/images/original/4902316/46-174271609.jpg",
       "titleSource" : "Warum ein Mediziner Corona-Tests für Unternehmen anbietet",
       "titleTarget" : "Zašto liječnik nudi testove na koronu za tvrtke",
       "url" : "https://kurier.at/wirtschaft/karriere/wie-unternehmen-strategisch-ihre-mitarbeiter-testen-koennen/401171167"
     }, {
-      "id" : "US9VMj39",
-      "imgUrl" : "https://image.kurier.at/images/original/4755051/20201112-ABD0009-1-1.jpg",
-      "titleSource" : "AMS-Chef Kopf will \"jetziges Kurzarbeit-Modell beibehalten\"",
-      "titleTarget" : "Šef AMS-a Kopf želi \"zadržati trenutni kratkotrajni radni model\"",
-      "url" : "https://kurier.at/wirtschaft/ams-chef-kopf-jetziges-kurzarbeit-modell-im-zweiten-quartal-beibehalten/401173330"
+      "id" : "E3waZ1PO",
+      "imgUrl" : "https://image.kurier.at/images/original/4874136/78370011358421642_BLD_Online.jpg",
+      "titleSource" : "Auf Schwarzer Liste der USA gelandet: Chinesischer Konzern Xiaomi wehrt sich",
+      "titleTarget" : "Spustio se na američku crnu listu: Kineska tvrtka Xiaomi uzvraća udarac",
+      "url" : "https://kurier.at/wirtschaft/auf-schwarzer-liste-der-usa-gelandet-chinesischer-konzern-xiaomi-wehrt-sich/401173864"
     }, {
       "id" : "RCSA4iib",
       "imgUrl" : "https://image.kurier.at/images/original/146064/carlos_slim-004_APA_GEORGI%252BLICOVSKI.jpg",
       "titleSource" : "Milliardär Slim nach Corona-Infektion aus Spital entlassen",
       "titleTarget" : "Milijarder Slim pušten iz bolnice nakon infekcije koronom",
       "url" : "https://kurier.at/wirtschaft/milliardaer-slim-nach-corona-infektion-aus-spital-entlassen/401173735"
+    }, {
+      "id" : "IMotfVKJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4904221/46-174873840.jpg",
+      "titleSource" : "Allergie-Strategie für zu Hause",
+      "titleTarget" : "Strategija alergije za dom",
+      "url" : "https://kurier.at/wirtschaft/immobiz/allergie-strategie-fuer-zu-hause/401172361"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "jbmqmomz",
-      "imgUrl" : "https://image.kurier.at/images/original/4906498/46-175236595.jpg",
-      "titleSource" : "Corona-Demos: Rädelsführerin der \"Querdenker\" in Wien festgenommen",
-      "titleTarget" : "Demonstracije Corone: Preko 200 oglasa u subotu u Beču",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demos-raedelsfuehrerin-der-querdenker-in-wien-festgenommen/401173375"
-    }, {
       "id" : "NOr9xUuK",
       "imgUrl" : "https://image.kurier.at/images/original/752064/Skilehrer.jpg",
       "titleSource" : "Salzburger Skilehrerkurs-Cluster steigt auf 90 Fälle",
       "titleTarget" : "Klaster tečajeva učitelja skijanja u Salzburgu povećava se na 90 slučajeva",
       "url" : "https://kurier.at/chronik/oesterreich/salzburger-skilehrerkurs-cluster-steigt-auf-90-faelle/401173585"
     }, {
-      "id" : "b2y4V500",
-      "imgUrl" : "https://image.kurier.at/images/original/4906546/46-173555427.jpg",
-      "titleSource" : "7-Tages-Inzidenz in Österreich: Vier von 94 Bezirken unter 50",
-      "titleTarget" : "Sedmodnevna incidencija u Austriji: četiri od 94 okruga mlađa od 50 godina",
-      "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-in-oesterreich-die-bezirke-mit-den-meisten-corona-faellen/401173396"
+      "id" : "1dFbEKuu",
+      "imgUrl" : "https://image.kurier.at/images/original/4907608/46-173555754.jpg",
+      "titleSource" : "Wirt und Gäste einer Almhütte in St. Gilgen am Wolfgangsee angezeigt",
+      "titleTarget" : "Prikazani stanodavac i gosti alpske kolibe u St. Gilgenu na Wolfgangseeu",
+      "url" : "https://kurier.at/chronik/oesterreich/lockdown-verstoss-wirt-und-gaeste-einer-almhuette-in-st-gilgen-am-wolfgangsee-angezeigt/401173723"
+    }, {
+      "id" : "1OYkSmzn",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.190 Neuinfektionen in Österreich",
+      "titleTarget" : "1.190 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1190-neuinfektionen-in-oesterreich/401173744"
     }, {
       "id" : "qJaAXlWk",
       "imgUrl" : "https://image.kurier.at/images/original/4907296/46-175102171.jpg",
@@ -74,32 +80,38 @@
       "titleTarget" : "Neredi na demonstracijama za azil u Innsbrucku",
       "url" : "https://kurier.at/chronik/oesterreich/ausschreitungen-bei-pro-asyl-demo-in-innsbruck/401173597"
     }, {
-      "id" : "UsrAB5DZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4906576/zib.png",
-      "titleSource" : "Schulsprecher zu Abschiebung: \"Dann stimmt etwas mit den Gesetzen nicht\"",
-      "titleTarget" : "Glavni dječak na deportaciji: \"Onda nešto nije u redu sa zakonima\"",
-      "url" : "https://kurier.at/chronik/oesterreich/schulsprecher-zu-abschiebung-dann-stimmt-etwas-mit-den-gesetzen-nicht/401173420"
-    }, {
       "id" : "jnlFEzoD",
-      "imgUrl" : "https://image.kurier.at/images/original/4907620/46-175250241.jpg",
-      "titleSource" : "1.190 Neuinfektionen in Österreich; WHO-Team am Markt von Wuhan",
+      "imgUrl" : "https://image.kurier.at/images/original/4908790/46-175235518.jpg",
+      "titleSource" : "Impfgremium entscheidet über Zulassung von Astra-Zeneca-Impfstoff für Ältere",
       "titleTarget" : "1.190 novih infekcija u Austriji; SZO tim na tržištu Wuhan",
       "url" : "https://kurier.at/chronik/oesterreich/impfstoffstreit-grossbritannien-will-kooperieren-30-millionen-corona-impfungen-in-usa/401173660"
     }, {
-      "id" : "L0UM780f",
-      "imgUrl" : "https://image.kurier.at/images/original/4907509/46-175237978.jpg",
-      "titleSource" : "Impfstoffstreit: Grobritannien will kooperieren; 30 Millionen Impfungen in USA",
-      "titleTarget" : "Spor oko cjepiva: Velika Britanija želi surađivati; 30 milijuna cijepljenja u SAD-u",
-      "url" : "https://kurier.at/chronik/oesterreich/impfstoffstreit-grobritannien-will-kooperieren-30-millionen-corona-impfungen-in-usa/401173660"
+      "id" : "0zEii6O6",
+      "imgUrl" : "https://image.kurier.at/images/original/4907587/46-174137714.jpg",
+      "titleSource" : "Covid in China: Risikozone und Strandurlaub",
+      "titleTarget" : "Covid u Kini: zona rizika i odmor na plaži",
+      "url" : "https://kurier.at/chronik/oesterreich/covid-in-china-risikozone-und-strandurlaub/401173720"
+    }, {
+      "id" : "45BeKlUs",
+      "imgUrl" : "https://image.kurier.at/images/original/4908631/46-164068049.jpg",
+      "titleSource" : "Nur rund 50 Prozent des Gesundheitspersonals will sich fix impfen lassen",
+      "titleTarget" : "Tek oko 50 posto zdravstvenih radnika želi se cijepiti",
+      "url" : "https://kurier.at/chronik/oesterreich/nur-rund-50-prozent-des-gesundheitspersonals-will-sich-impfen-lassen/401173963"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "xXu5I6k8",
-      "imgUrl" : "https://image.kurier.at/images/original/3899708/78452305851525130_BLD_Online.jpg",
-      "titleSource" : "Börsenware Songs –  so wertvoll wie Gold und Öl",
-      "titleTarget" : "Burzovne pjesme - vrijedne poput zlata i nafte",
-      "url" : "https://kurier.at/kultur/boersenware-songs-so-wertvoll-wie-gold-und-oel/401172958"
+      "id" : "450H5H0B",
+      "imgUrl" : "https://image.kurier.at/images/original/4908634/46-174214934.jpg",
+      "titleSource" : "RTL arbeitet an Kinder-Version von \"Let's Dance\"",
+      "titleTarget" : "RTL radi na dječjoj verziji \"Zaplešimo\"",
+      "url" : "https://kurier.at/kultur/medien/rtl-arbeitet-an-kinder-version-von-lets-dance/401173969"
+    }, {
+      "id" : "UAmrM2gI",
+      "imgUrl" : "https://image.kurier.at/images/original/4907575/46-174235580.jpg",
+      "titleSource" : "Erich Fried und der Neonazi: Es ist aussichtslos ...",
+      "titleTarget" : "Erich Fried i neonacist: Beznadno je ...",
+      "url" : "https://kurier.at/kultur/buch/erich-fried-und-der-neonazi-es-ist-aussichtslos/401173714"
     }, {
       "id" : "wMFlOmBz",
       "imgUrl" : "https://image.kurier.at/images/original/4906513/46-175223600.jpg",
@@ -107,33 +119,32 @@
       "titleTarget" : "Alfred Preis, od Beča do Havaja",
       "url" : "https://kurier.at/kultur/alfred-preis-von-wien-nach-hawaii/401173387"
     }, {
+      "id" : "EDvuOzgz",
+      "titleSource" : "Animals-Gitarrist Hilton Valentine ist tot",
+      "titleTarget" : "Gitarist sa životinjama Hilton Valentine mrtav je",
+      "url" : "https://kurier.at/kultur/animals-gitarrist-hilton-valentine-ist-tot/401173966"
+    }, {
+      "id" : "xXu5I6k8",
+      "imgUrl" : "https://image.kurier.at/images/original/3899708/78452305851525130_BLD_Online.jpg",
+      "titleSource" : "Börsenware Songs –  so wertvoll wie Gold und Öl",
+      "titleTarget" : "Burzovne pjesme - vrijedne poput zlata i nafte",
+      "url" : "https://kurier.at/kultur/boersenware-songs-so-wertvoll-wie-gold-und-oel/401172958"
+    }, {
       "id" : "1CIWs5jc",
       "imgUrl" : "https://image.kurier.at/images/original/4907539/46-175239788.jpg",
       "titleSource" : "Elektropop-Produzentin Sophie mit 34 Jahren gestorben",
       "titleTarget" : "Umrla je škotska producentica elektro-popa Sophie",
       "url" : "https://kurier.at/kultur/schottische-elektropop-produzentin-sophie-gestorben/401173582"
     }, {
-      "id" : "6XvoRvOZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4906318/46-175198899.jpg",
-      "titleSource" : "ServusTV rüstet sich für die Königsklasse",
-      "titleTarget" : "ServusTV se priprema za prvu klasu",
-      "url" : "https://kurier.at/kultur/medien/servustv-ruestet-sich-fuer-die-koenigsklasse/401173339"
+      "id" : "IYsxhN3D",
+      "imgUrl" : "https://image.kurier.at/images/original/4907821/46-175199447.jpg",
+      "titleSource" : "Neues Album von Goat Girl: \"On All Fours\"",
+      "titleTarget" : "Novi album Goat Girl: \"Na sve četiri\"",
+      "url" : "https://kurier.at/kultur/neues-album-von-goat-girl-on-all-fours/401173183"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "YFYvuJly",
-      "imgUrl" : "https://image.kurier.at/images/original/4907035/46-175235518.jpg",
-      "titleSource" : "Astra-Zeneca-Impfstoff: Auch die über 65-Jährigen impfen?",
-      "titleTarget" : "Cjepivo Astra-Zeneca: cijepiti i starije od 65 godina?",
-      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-impfstoff-auch-die-ueber-65-jaehrigen-impfen/401173492"
-    }, {
-      "id" : "RSEGG5UB",
-      "imgUrl" : "https://image.kurier.at/images/original/4906267/46-175200017.jpg",
-      "titleSource" : "WHO-Team in Wuhan: Welche Fakten über die Mission bekannt sind",
-      "titleTarget" : "Tim WHO-a u Wuhanu: Koje su činjenice poznate o misiji",
-      "url" : "https://kurier.at/wissen/gesundheit/who-team-in-wuhan-welche-fakten-ueber-die-mission-bekannt-sind/401173324"
-    }, {
       "id" : "isVaeLCX",
       "imgUrl" : "https://image.kurier.at/images/original/4906327/46-174086847.jpg",
       "titleSource" : "Erdbeben + Corona: „Im Gehirn schrillen ständig die Sirenen“",
@@ -146,20 +157,26 @@
       "titleTarget" : "Tim WHO-a posjetio je tržnicu u nedjelju, koja se smatra podrijetlom pandemije",
       "url" : "https://kurier.at/wissen/gesundheit/who-team-besuchte-sonntag-den-markt-der-als-pandemie-ursprung-gilt/401173732"
     }, {
-      "id" : "DvPGodoc",
-      "imgUrl" : "https://image.kurier.at/images/original/4907605/46-175250223.jpg",
-      "titleSource" : "WHO-Team besucht den Markt, der als Ursprungsort der Pandemie gilt",
-      "titleTarget" : "Tim WHO-a posjećuje tržište za koje se vjeruje da je podrijetlo pandemije",
-      "url" : "https://kurier.at/wissen/gesundheit/who-team-besucht-den-markt-der-als-ursprungsort-der-pandemie-gilt/401173732"
+      "id" : "uQv1faIv",
+      "imgUrl" : "https://image.kurier.at/images/original/4908583/46-175235486.jpg",
+      "titleSource" : "Astra Zeneca: Impfgremium empfiehlt ...",
+      "titleTarget" : "Astra Zeneca: Odbor za cijepljenje preporučuje ...",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-impfgremium-empfiehlt/401173951"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "EjCV52r5",
-      "imgUrl" : "https://image.kurier.at/images/original/4906516/46-175236998.jpg",
-      "titleSource" : "ÖSV-Skispringerin Marita Kramer ist die Königin der Lüfte",
-      "titleTarget" : "ÖSV skakačica Marita Kramer kraljica je neba",
-      "url" : "https://kurier.at/sport/wintersport/oesv-skispringerin-marita-kramer-ist-die-koenigin-der-luefte/401173393"
+      "id" : "C2eKgF4o",
+      "imgUrl" : "https://image.kurier.at/images/original/4908247/46-175238196.jpg",
+      "titleSource" : "ÖSV-Skispringerin Marita Kramer wird zur Seriensiegerin",
+      "titleTarget" : "ÖSV skakačica Marita Kramer postaje serijska pobjednica",
+      "url" : "https://kurier.at/sport/wintersport/oesv-skispringerin-marita-kramer-wird-zur-seriensiegerin/401173915"
+    }, {
+      "id" : "ZXfD9jWC",
+      "imgUrl" : "https://image.kurier.at/images/original/4907572/46-173975992.jpg",
+      "titleSource" : "\"Idiot\": Star-Friseur ärgert sich über Ex-Rapidler Joelinton",
+      "titleTarget" : "\"Idiot\": Zvijezdastog frizera živcira bivši Rapidler Joelinton",
+      "url" : "https://kurier.at/sport/fussball/idiot-star-friseur-tom-baxter-aergert-sich-ueber-instagram-foto-von-ex-rapidler-joelinton/401173711"
     }, {
       "id" : "qwigJN76",
       "imgUrl" : "https://image.kurier.at/images/original/4907560/46-175060186.jpg",
@@ -167,11 +184,11 @@
       "titleTarget" : "\"Hirscherove dimenzije\": Mnogo pohvala ÖSV aslomu Schwarzu",
       "url" : "https://kurier.at/sport/wintersport/hirscher-dimensionen-viel-lob-fuer-oesv-slalom-ass-marco-schwarz/401173693"
     }, {
-      "id" : "6pNsBQSN",
-      "imgUrl" : "https://image.kurier.at/images/original/4907110/46-175239492.jpg",
-      "titleSource" : "Dramatische Szenen in Marseille: Wütende Fans stürmen Klub-Gelände",
-      "titleTarget" : "Dramatične scene u Marseilleu: bijesni navijači jurišaju na teren kluba",
-      "url" : "https://kurier.at/sport/fussball/ausschreitungen-in-marseille-wuetende-fans-stuermen-klub-gelaende/401173537"
+      "id" : "kOrkhsrA",
+      "imgUrl" : "https://image.kurier.at/images/original/4906540/46-175224674.jpg",
+      "titleSource" : "Amateursport in der Corona-Krise: Weshalb ein dickes Ende droht",
+      "titleTarget" : "Amaterski sport u krizi s koronom: zašto se nazire veliki kraj",
+      "url" : "https://kurier.at/sport/amateursport-in-der-corona-krise-weshalb-ein-dickes-ende-droht/401173363"
     }, {
       "id" : "11jNn2L8",
       "imgUrl" : "https://image.kurier.at/images/original/4906579/46-167996771.jpg",
@@ -179,23 +196,17 @@
       "titleTarget" : "Novi ÖFB centar za obuku: Zemljište na vidiku u Seestadtu",
       "url" : "https://kurier.at/sport/fussball/neues-oefb-trainingszentrum-land-in-sicht-in-der-seestadt/401173390"
     }, {
-      "id" : "IErbQLwO",
-      "imgUrl" : "https://image.kurier.at/images/original/4906330/46-165802032.jpg",
-      "titleSource" : "Sportunion für Indoor-Sport als Anreiz für Corona-Tests",
-      "titleTarget" : "Sportska unija za dvoranski sport kao poticaj za testove na koronu",
-      "url" : "https://kurier.at/sport/sportunion-fuer-indoor-sport-als-anreiz-fuer-corona-tests/401173348"
-    }, {
-      "id" : "Xb7h9CUG",
-      "imgUrl" : "https://image.kurier.at/images/original/4907278/46-174974547.jpg",
-      "titleSource" : "Austria strebt gegen WSG Tirol den Sieg-Hattrick an",
-      "titleTarget" : "Austrija cilja na hat-trick protiv WSG Tirola",
-      "url" : "https://kurier.at/sport/fussball/austria-strebt-gegen-wsg-tirol-den-sieg-hattrick-an/401173573"
-    }, {
       "id" : "Fn9OIxR1",
       "imgUrl" : "https://image.kurier.at/images/original/4907455/46-175246644.jpg",
       "titleSource" : "Copa Libertadores: Palmeiras holt den Titel",
       "titleTarget" : "Copa Libertadores: Palmeiras preuzima naslov",
       "url" : "https://kurier.at/sport/fussball/copa-libertadores-palmeiras-holt-den-titel/401173621"
+    }, {
+      "id" : "kae1FWVQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4908580/46-175102856.jpg",
+      "titleSource" : "Wie Kinder und Jugendliche unter der Corona-Pandemie leiden",
+      "titleTarget" : "Kako djeca i mladi ljudi pate od koronske pandemije",
+      "url" : "https://kurier.at/sport/wie-kinder-und-jugendliche-unter-der-corona-pandemie-leiden/401173948"
     } ]
   } ],
   "country" : "austria",
