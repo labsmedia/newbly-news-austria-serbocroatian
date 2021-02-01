@@ -26,77 +26,65 @@
       "titleTarget" : "Ludwig: \"Ako tirkizno-zelena zakaže, bit će novih izbora\"",
       "url" : "https://kurier.at/politik/inland/ludwig-am-ehesten-schulen-oeffnen/401173810"
     }, {
+      "id" : "Cwa8RdN3",
+      "imgUrl" : "https://image.kurier.at/images/original/4909123/46-168035931.jpg",
+      "titleSource" : "Erstmals in Zweiter Republik: Gesetz auf Slowenisch veröffentlicht",
+      "titleTarget" : "Prvi put u Drugoj republici: Zakon objavljen na slovenskom jeziku",
+      "url" : "https://kurier.at/politik/inland/erstmals-in-zweiter-republik-gesetz-auf-slowenisch-veroeffentlicht/401174062"
+    }, {
       "id" : "khGnH3pE",
       "imgUrl" : "https://image.kurier.at/images/original/4909294/46-167686907.jpg",
       "titleSource" : "Astra Zeneca: \"Zählt Gewinnmaximierung mehr als Menschenleben?\"",
       "titleTarget" : "Astra Zeneca: \"Je li maksimiziranje dobiti važnije od ljudskog života?\"",
       "url" : "https://kurier.at/politik/inland/astra-zeneca-zaehlt-gewinnmaximierung-mehr-als-menschenleben/401174140"
+    }, {
+      "id" : "R1F8fdhW",
+      "imgUrl" : "https://image.kurier.at/images/original/4741617/20201105-ABD0058-1-1.jpg",
+      "titleSource" : "Anti-Terror-Paket: Muslime wehren sich gegen strengere Regeln",
+      "titleTarget" : "Antiteroristički paket: Muslimani se bore protiv strožih pravila",
+      "url" : "https://kurier.at/politik/inland/anti-terror-paket-muslime-wehren-sich-gegen-strengere-regeln/401174425"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "YBtnr4Vn",
-      "imgUrl" : "https://image.kurier.at/images/original/4902316/46-174271609.jpg",
-      "titleSource" : "Warum ein Mediziner Corona-Tests für Unternehmen anbietet",
-      "titleTarget" : "Zašto liječnik nudi testove na koronu za tvrtke",
-      "url" : "https://kurier.at/wirtschaft/karriere/wie-unternehmen-strategisch-ihre-mitarbeiter-testen-koennen/401171167"
-    }, {
       "id" : "E3waZ1PO",
       "imgUrl" : "https://image.kurier.at/images/original/4874136/78370011358421642_BLD_Online.jpg",
       "titleSource" : "Auf Schwarzer Liste der USA gelandet: Chinesischer Konzern Xiaomi wehrt sich",
       "titleTarget" : "Spustio se na američku crnu listu: Kineska tvrtka Xiaomi uzvraća udarac",
       "url" : "https://kurier.at/wirtschaft/auf-schwarzer-liste-der-usa-gelandet-chinesischer-konzern-xiaomi-wehrt-sich/401173864"
     }, {
+      "id" : "PxlhCNJX",
+      "imgUrl" : "https://image.kurier.at/images/original/3728276/46-148153670.jpg",
+      "titleSource" : "Corona-Hilfen: Wohin die 50 Milliarden Euro fließen",
+      "titleTarget" : "Koronska pomoć: kamo ide 50 milijardi eura",
+      "url" : "https://kurier.at/wirtschaft/corona-hilfen-wohin-die-50-milliarden-euro-fliessen/401174233"
+    }, {
       "id" : "FSkiggln",
       "imgUrl" : "https://image.kurier.at/images/original/4762962/20201116-ABD0126-1-1.jpg",
-      "titleSource" : "Weltweite Studie: Vertrauen in die Wirtschaft am Höchsten",
+      "titleSource" : "Weltweite Studie: Vertrauen in die Wirtschaft am höchsten",
       "titleTarget" : "Svjetska studija: Najveće povjerenje u ekonomiju",
       "url" : "https://kurier.at/wirtschaft/weltweite-studie-vertrauen-in-die-wirtschaft-am-hoechsten/401173975"
     }, {
-      "id" : "RCSA4iib",
-      "imgUrl" : "https://image.kurier.at/images/original/146064/carlos_slim-004_APA_GEORGI%252BLICOVSKI.jpg",
-      "titleSource" : "Milliardär Slim nach Corona-Infektion aus Spital entlassen",
-      "titleTarget" : "Milijarder Slim pušten iz bolnice nakon infekcije koronom",
-      "url" : "https://kurier.at/wirtschaft/milliardaer-slim-nach-corona-infektion-aus-spital-entlassen/401173735"
+      "id" : "UsNqnLrG",
+      "imgUrl" : "https://image.kurier.at/images/original/4909648/46-174232707.jpg",
+      "titleSource" : "Trendscout: Ordentlich aufgeräumt",
+      "titleTarget" : "Trend izviđač: uredno uredan",
+      "url" : "https://kurier.at/wirtschaft/immobiz/trendscout-ordentlich-aufgeraeumt/401174434"
     }, {
-      "id" : "IMotfVKJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4904221/46-174873840.jpg",
-      "titleSource" : "Allergie-Strategie für zu Hause",
-      "titleTarget" : "Strategija alergije za dom",
-      "url" : "https://kurier.at/wirtschaft/immobiz/allergie-strategie-fuer-zu-hause/401172361"
+      "id" : "Y7VsenQw",
+      "imgUrl" : "https://image.kurier.at/images/original/4151187/46-161862368.jpg",
+      "titleSource" : "Wintertourismus fiel aus, 535.000 Arbeitslose im Jänner",
+      "titleTarget" : "Otkazan je zimski turizam, u siječnju 535.000 nezaposlenih",
+      "url" : "https://kurier.at/wirtschaft/wintertourismus-fiel-aus-535000-arbeitslose-im-jaenner/401174323"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "1dFbEKuu",
-      "imgUrl" : "https://image.kurier.at/images/original/4907608/46-173555754.jpg",
-      "titleSource" : "Wirt und Gäste einer Almhütte in St. Gilgen am Wolfgangsee angezeigt",
-      "titleTarget" : "Prikazani stanodavac i gosti alpske kolibe u St. Gilgenu na Wolfgangseeu",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-verstoss-wirt-und-gaeste-einer-almhuette-in-st-gilgen-am-wolfgangsee-angezeigt/401173723"
-    }, {
       "id" : "45BeKlUs",
       "imgUrl" : "https://image.kurier.at/images/original/4908631/46-164068049.jpg",
       "titleSource" : "Nur rund 50 Prozent des Gesundheitspersonals will sich fix impfen lassen",
       "titleTarget" : "Tek oko 50 posto zdravstvenih radnika želi se cijepiti",
       "url" : "https://kurier.at/chronik/oesterreich/nur-rund-50-prozent-des-gesundheitspersonals-will-sich-impfen-lassen/401173963"
-    }, {
-      "id" : "1OYkSmzn",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.190 Neuinfektionen in Österreich",
-      "titleTarget" : "1.190 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1190-neuinfektionen-in-oesterreich/401173744"
-    }, {
-      "id" : "48HYcshK",
-      "imgUrl" : "https://image.kurier.at/images/original/4907926/46-175250095.jpg",
-      "titleSource" : "Asyl-Demonstration in Innsbruck lief aus dem Ruder",
-      "titleTarget" : "Demonstracija azila u Innsbrucku izmakla je kontroli",
-      "url" : "https://kurier.at/chronik/oesterreich/asyl-demonstration-in-innsbruck-lief-aus-dem-ruder/401173849"
-    }, {
-      "id" : "jnlFEzoD",
-      "imgUrl" : "https://image.kurier.at/images/original/4908790/46-175235518.jpg",
-      "titleSource" : "Astrazeneca-Impfstoff an Über-65-Jährige? Österreich sagt \"besser nicht\"",
-      "titleTarget" : "1.190 novih infekcija u Austriji; SZO tim na tržištu Wuhan",
-      "url" : "https://kurier.at/chronik/oesterreich/impfstoffstreit-grossbritannien-will-kooperieren-30-millionen-corona-impfungen-in-usa/401173660"
     }, {
       "id" : "znurqTzk",
       "imgUrl" : "https://image.kurier.at/images/original/4795788/46-173253529.jpg",
@@ -104,11 +92,35 @@
       "titleTarget" : "Corona: obdukcije nakon smrti u štajerskom staračkom domu",
       "url" : "https://kurier.at/chronik/oesterreich/corona-obudktionen-nach-todesfaellen-in-steirischem-pflegeheim/401173834"
     }, {
-      "id" : "0zEii6O6",
-      "imgUrl" : "https://image.kurier.at/images/original/4907587/46-174137714.jpg",
-      "titleSource" : "Covid in China: Risikozone und Strandurlaub",
-      "titleTarget" : "Covid u Kini: zona rizika i odmor na plaži",
-      "url" : "https://kurier.at/chronik/oesterreich/covid-in-china-risikozone-und-strandurlaub/401173720"
+      "id" : "48HYcshK",
+      "imgUrl" : "https://image.kurier.at/images/original/4907926/46-175250095.jpg",
+      "titleSource" : "Asyl-Demonstration in Innsbruck lief aus dem Ruder",
+      "titleTarget" : "Demonstracija azila u Innsbrucku izmakla je kontroli",
+      "url" : "https://kurier.at/chronik/oesterreich/asyl-demonstration-in-innsbruck-lief-aus-dem-ruder/401173849"
+    }, {
+      "id" : "Pziy13UB",
+      "imgUrl" : "https://image.kurier.at/images/original/4909573/46-173772353.jpg",
+      "titleSource" : "1.124 Neuinfektionen in Österreich + Wird gelockert? Entscheidung am Nachmittag",
+      "titleTarget" : "1.124 novih infekcija u Austriji + Hoće li biti opušteno? Odluka u popodnevnim satima",
+      "url" : "https://kurier.at/chronik/oesterreich/nationales-impfgremium-empfiehlt-astrazeneca-fuer-18-bis-64-jaehrige-heute-entscheidung-ueber/401174176"
+    }, {
+      "id" : "4BkN1snE",
+      "imgUrl" : "https://image.kurier.at/images/original/4909360/46-174253834.jpg",
+      "titleSource" : "Kommen Lockerungen? Was heute passieren wird",
+      "titleTarget" : "Ima li popuštanja? Što će se dogoditi danas",
+      "url" : "https://kurier.at/chronik/oesterreich/kommen-lockerungen-was-heute-passieren-wird/401174191"
+    }, {
+      "id" : "T8FK9DcH",
+      "imgUrl" : "https://image.kurier.at/images/original/2771765/78350011444041580_BLD_Online.jpg",
+      "titleSource" : "Lawinenabgang in Tirol forderte zwei Todesopfer",
+      "titleTarget" : "Lavina u Tirolu odnijela je dva života",
+      "url" : "https://kurier.at/chronik/oesterreich/lawinenabgang-in-tirol-forderte-zwei-todesopfer/401174182"
+    }, {
+      "id" : "5Dgc8D2M",
+      "imgUrl" : "https://image.kurier.at/images/original/4905427/46-175223839.jpg",
+      "titleSource" : "NS-Lager: „Es liegen noch welche unter der Erde“",
+      "titleTarget" : "Nacistički kamp: \"Još uvijek ima podzemlja\"",
+      "url" : "https://kurier.at/chronik/oesterreich/ns-lager-es-liegen-noch-welche-unter-der-erde/401172847"
     } ]
   }, {
     "category" : "CULTURE",
@@ -125,17 +137,11 @@
       "titleTarget" : "Erich Fried i neonacist: Beznadno je ...",
       "url" : "https://kurier.at/kultur/buch/erich-fried-und-der-neonazi-es-ist-aussichtslos/401173714"
     }, {
-      "id" : "xXu5I6k8",
-      "imgUrl" : "https://image.kurier.at/images/original/3899708/78452305851525130_BLD_Online.jpg",
-      "titleSource" : "Börsenware Songs –  so wertvoll wie Gold und Öl",
-      "titleTarget" : "Burzovne pjesme - vrijedne poput zlata i nafte",
-      "url" : "https://kurier.at/kultur/boersenware-songs-so-wertvoll-wie-gold-und-oel/401172958"
-    }, {
-      "id" : "wMFlOmBz",
-      "imgUrl" : "https://image.kurier.at/images/original/4906513/46-175223600.jpg",
-      "titleSource" : "Alfred Preis, von Wien nach Hawaii",
-      "titleTarget" : "Alfred Preis, od Beča do Havaja",
-      "url" : "https://kurier.at/kultur/alfred-preis-von-wien-nach-hawaii/401173387"
+      "id" : "iJreisKu",
+      "imgUrl" : "https://image.kurier.at/images/original/4904467/apv_wir_kinder_vom_bahnhof_zoo_lifestyle_shooting_5_constantin_television_mike_kraus.jpg",
+      "titleSource" : "5 Serien, auf die wir uns im Februar bei Netflix & Co freuen",
+      "titleTarget" : "5 serija kojima se radujemo na Netflixu & Co u veljači",
+      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-februar-bei-netflix-co-freuen/401171443"
     }, {
       "id" : "IYsxhN3D",
       "imgUrl" : "https://image.kurier.at/images/original/4907821/46-175199447.jpg",
@@ -147,27 +153,27 @@
       "titleSource" : "Animals-Gitarrist Hilton Valentine ist tot",
       "titleTarget" : "Gitarist sa životinjama Hilton Valentine mrtav je",
       "url" : "https://kurier.at/kultur/animals-gitarrist-hilton-valentine-ist-tot/401173966"
+    }, {
+      "id" : "6SQMlgRH",
+      "imgUrl" : "https://image.kurier.at/images/original/4909450/46-150102396.jpg",
+      "titleSource" : "Zigeunersauce und Co: Entschuldigungen nach Rassismus-Vorwurf im WDR",
+      "titleTarget" : "Ciganski umak i Co: isprike nakon optužbi za rasizam u WDR-u",
+      "url" : "https://kurier.at/kultur/medien/zigeunersauce-und-co-entschuldigungen-nach-rassismus-vorwurf-im-wdr/401174263"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "isVaeLCX",
-      "imgUrl" : "https://image.kurier.at/images/original/4906327/46-174086847.jpg",
-      "titleSource" : "Erdbeben + Corona: „Im Gehirn schrillen ständig die Sirenen“",
-      "titleTarget" : "Potres + Corona: \"Sirene neprestano zvone u mozgu\"",
-      "url" : "https://kurier.at/wissen/gesundheit/erdbeben-corona-im-gehirn-schrillen-staendig-die-sirenen/401173354"
-    }, {
       "id" : "tAWPLYwG",
       "imgUrl" : "https://image.kurier.at/images/original/4908583/46-175235486.jpg",
       "titleSource" : "Nationales Impfgremium: Bei über 65 Jährigen RNA-Impfstoffe bevorzugen",
       "titleTarget" : "Nacionalni odbor za cijepljenje: Dajte prednost RNA cjepivima starijima od 65 godina",
       "url" : "https://kurier.at/wissen/gesundheit/nationales-impfgremium-bei-ueber-65-jaehrigen-rna-impfstoffe-bevorzugen/401173951"
     }, {
-      "id" : "8Oq5Bvcs",
-      "imgUrl" : "https://image.kurier.at/images/original/4907605/46-175250223.jpg",
-      "titleSource" : "WHO-Team besuchte Sonntag den Markt, der als Pandemie-Ursprung gilt",
-      "titleTarget" : "Tim WHO-a posjetio je tržnicu u nedjelju, koja se smatra podrijetlom pandemije",
-      "url" : "https://kurier.at/wissen/gesundheit/who-team-besuchte-sonntag-den-markt-der-als-pandemie-ursprung-gilt/401173732"
+      "id" : "wJSlDFLA",
+      "imgUrl" : "https://image.kurier.at/images/original/4909627/46-174002002.jpg",
+      "titleSource" : "Neue Kooperation: Bayer will Impfstoff von Curevac produzieren",
+      "titleTarget" : "Nova suradnja: Bayer želi proizvesti cjepivo Curevac",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-neue-kooperation-bayer-will-impfstoff-von-curevac-produzieren/401174419"
     } ]
   }, {
     "category" : "SPORT",
@@ -177,6 +183,18 @@
       "titleSource" : "2:1-Erfolg im Liga-Schlager: Rapid bleibt der LASK-Schreck",
       "titleTarget" : "Uspjeh u prvenstvu 2: 1: Rapid ostaje LASK strah",
       "url" : "https://kurier.at/sport/fussball/21-erfolg-im-bundesliga-schlager-rapid-wien-gewinnt-gegen-den-lask/401174083"
+    }, {
+      "id" : "oaes1Xlk",
+      "imgUrl" : "https://image.kurier.at/images/original/4909291/46-175259729.jpg",
+      "titleSource" : "Rapid-Serie: \"Wir wissen genau, was gegen den LASK wichtig ist\"",
+      "titleTarget" : "Brza serija: \"Znamo točno što je važno protiv LASKA\"",
+      "url" : "https://kurier.at/sport/fussball/rapid-serie-mit-fuenf-siegen-wir-wissen-genau-was-gegen-den-lask-wichtig-ist/401174137"
+    }, {
+      "id" : "kae1FWVQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4908580/46-175102856.jpg",
+      "titleSource" : "Wie Kinder und Jugendliche unter der Corona-Pandemie leiden",
+      "titleTarget" : "Kako djeca i mladi ljudi pate od koronske pandemije",
+      "url" : "https://kurier.at/sport/wie-kinder-und-jugendliche-unter-der-corona-pandemie-leiden/401173948"
     }, {
       "id" : "C2eKgF4o",
       "imgUrl" : "https://image.kurier.at/images/original/4908247/46-175238196.jpg",
@@ -190,29 +208,17 @@
       "titleTarget" : "Danska je okrunjena svjetskim prvakom u rukometu",
       "url" : "https://kurier.at/sport/daenemark-kroent-sich-zum-handball-weltmeister/401174095"
     }, {
-      "id" : "kOrkhsrA",
-      "imgUrl" : "https://image.kurier.at/images/original/4906540/46-175224674.jpg",
-      "titleSource" : "Amateursport in der Corona-Krise: Weshalb ein dickes Ende droht",
-      "titleTarget" : "Amaterski sport u krizi s koronom: zašto se nazire veliki kraj",
-      "url" : "https://kurier.at/sport/amateursport-in-der-corona-krise-weshalb-ein-dickes-ende-droht/401173363"
+      "id" : "qHuZ926T",
+      "imgUrl" : "https://image.kurier.at/images/original/4908439/46-175254657.jpg",
+      "titleSource" : "2:0 gegen Burnley: Tuchel holt ersten Sieg als Chelsea-Trainer",
+      "titleTarget" : "2-0 protiv Burnleyja: Tuchel uzima prvu pobjedu kao trener Chelseaja",
+      "url" : "https://kurier.at/sport/fussball/20-gegen-burnley-thomas-tuchel-holt-ersten-sieg-als-chelsea-trainer/401173921"
     }, {
-      "id" : "ubjSzmEh",
-      "imgUrl" : "https://image.kurier.at/images/original/4909240/46-174104957.jpg",
-      "titleSource" : "Trainer Glasner mit Wolfsburg auf Kurs Richtung Champions League",
-      "titleTarget" : "Trener Glasnera s Wolfsburgom na stazi za Ligu prvaka",
-      "url" : "https://kurier.at/sport/fussball/trainer-glasner-mit-wolfsburg-auf-kurs-richtung-champions-league/401174122"
-    }, {
-      "id" : "xsqq13NM",
-      "imgUrl" : "https://image.kurier.at/images/original/4909234/46-175259465.jpg",
-      "titleSource" : "Eishockey: Auch Salzburg schafft es ins Viertelfinale",
-      "titleTarget" : "Hokej na ledu: Salzburg se također plasirao u četvrtfinale",
-      "url" : "https://kurier.at/sport/wintersport/eishockey-auch-salzburg-schafft-es-ins-viertelfinale/401174116"
-    }, {
-      "id" : "EN2eCHsD",
-      "imgUrl" : "https://image.kurier.at/images/original/4909141/46-175257214.jpg",
-      "titleSource" : "Atletico Madrid baut Vorsprung aus, auch Barcelona siegt",
-      "titleTarget" : "Atletico Madrid produžuje vodstvo, pobjeđuje i Barcelona",
-      "url" : "https://kurier.at/sport/fussball/nach-real-pleite-atletico-madrid-baute-mit-sieg-bei-cadiz-vorsprung-weiter-aus/401174074"
+      "id" : "VIpNeRDm",
+      "imgUrl" : "https://image.kurier.at/images/original/4909444/46-174129564.jpg",
+      "titleSource" : "Barca verteidigt Messis Mega-Vertrag: \"Hat jeden Euro verdient\"",
+      "titleTarget" : "Barca brani Messijev mega ugovor: \"Napravio svaki euro\"",
+      "url" : "https://kurier.at/sport/fussball/trainer-ronald-koeman-es-gibt-leute-die-barcelona-und-messi-verletzen-wollen/401174278"
     } ]
   } ],
   "country" : "austria",
