@@ -2,29 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "JWfFcv9U",
-      "imgUrl" : "https://image.kurier.at/images/original/4911793/46-175323261.jpg",
-      "titleSource" : "Verstöße gegen Maskenpflicht: Bußgeld deutlich erhöht",
-      "titleTarget" : "Prekršaji maske: novčana kazna znatno se povećala",
-      "url" : "https://kurier.at/politik/inland/corona-regeln-verstoesse-gegen-maskenpflicht-bussgeld-deutlich-erhoeht/401175580"
-    }, {
       "id" : "N3cRkxLi",
       "imgUrl" : "https://image.kurier.at/images/original/4911988/20210202-ABD0042-1-1.jpg",
       "titleSource" : "Rendi-Wagner hält Lockerungen für \"großes Risiko\"",
       "titleTarget" : "Rendi-Wagner smatra ublažavanje \"velikim rizikom\"",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-haelt-lockerungen-fuer-grosses-risiko/401176024"
     }, {
+      "id" : "JWfFcv9U",
+      "imgUrl" : "https://image.kurier.at/images/original/4911793/46-175323261.jpg",
+      "titleSource" : "Verstöße gegen Maskenpflicht: Bußgeld deutlich erhöht",
+      "titleTarget" : "Prekršaji maske: novčana kazna znatno se povećala",
+      "url" : "https://kurier.at/politik/inland/corona-regeln-verstoesse-gegen-maskenpflicht-bussgeld-deutlich-erhoeht/401175580"
+    }, {
+      "id" : "CkP4kQ8U",
+      "imgUrl" : "https://image.kurier.at/images/original/4913443/Maurer.PNG",
+      "titleSource" : "Sigrid Maurer: \"Wir haben einen veritablen Konflikt mit der ÖVP\"",
+      "titleTarget" : "Sigrid Maurer: \"Imamo stvarni sukob s ÖVP-om\"",
+      "url" : "https://kurier.at/politik/inland/sigrid-maurer-wir-haben-einen-veritablen-konflikt-mit-der-oevp/401176402"
+    }, {
       "id" : "Lzjdv7J0",
       "imgUrl" : "https://image.kurier.at/images/original/4911820/46-175323658.jpg",
       "titleSource" : "Schule nach den Semesterferien: Freitag ist Distance-Learning-Tag",
       "titleTarget" : "Škola nakon semestralne pauze: petak je dan učenja na daljinu",
       "url" : "https://kurier.at/politik/inland/schule-nach-den-semesterferien-freitag-ist-distance-learning-tag/401175364"
-    }, {
-      "id" : "IJjpRe2Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4740807/78350011457342918_BLD_Online.jpg",
-      "titleSource" : "Lockdown: Opposition geteilter Ansicht über Lockerungen",
-      "titleTarget" : "Zaključavanje: Oporba podijeljena na ublažavanju",
-      "url" : "https://kurier.at/politik/inland/lockdown-opposition-geteilter-ansicht-ueber-lockerungen/401175244"
     }, {
       "id" : "50lPtxJW",
       "imgUrl" : "https://image.kurier.at/images/original/4627346/20200910-ABD0016-1-1.jpg",
@@ -38,32 +38,20 @@
       "titleTarget" : "Ažuriran je plan cijepljenja: Kako dalje",
       "url" : "https://kurier.at/politik/inland/impfplan-wurde-aktualisiert-wie-es-jetzt-weitergeht/401176033"
     }, {
-      "id" : "OSTJxHT8",
-      "imgUrl" : "https://image.kurier.at/images/original/4911211/_v4a3650.jpg",
-      "titleSource" : " Edtstadler stellte Frankreichs Oberrabiner Antisemitismus-Strategie vor",
-      "titleTarget" : " Edtstadler je predstavio francusku šefovsku strategiju antisemitizma Rabin",
-      "url" : "https://kurier.at/politik/inland/edtstadler-stellte-frankreichs-oberrabiner-antisemitismus-strategie-vor/401175220"
+      "id" : "YiJQ3jWs",
+      "imgUrl" : "https://image.kurier.at/images/original/4551860/46-166497551.jpg",
+      "titleSource" : "Anti-Terror-Paket: Scharfe muslimische Kritik an IGGÖ",
+      "titleTarget" : "Antiteroristički paket: Oštra muslimanska kritika IGGÖ-a",
+      "url" : "https://kurier.at/politik/inland/anti-terror-paket-scharfe-muslimische-kritik-an-iggoe/401176063"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "5eCnVMqD",
-      "imgUrl" : "https://image.kurier.at/images/original/4866108/46-105691868.jpg",
-      "titleSource" : "13 Filialen, 76 Jobs: Modekette Pimkie ist pleite",
-      "titleTarget" : "13 poslovnica, 76 radnih mjesta: modni lanac Pimkie propao je",
-      "url" : "https://kurier.at/wirtschaft/13-filialen-76-jobs-modekette-pimkie-ist-pleite/401175655"
-    }, {
       "id" : "cf6S10b2",
       "imgUrl" : "https://image.kurier.at/images/original/4896609/46-173889726.jpg",
       "titleSource" : "Millionen-Strafe für Google wegen Diskriminierung",
       "titleTarget" : "Milijuni kažnjavaju Google za diskriminaciju",
       "url" : "https://kurier.at/wirtschaft/millionen-strafe-fuer-google-wegen-diskriminierung/401175382"
-    }, {
-      "id" : "SzpIdQLf",
-      "imgUrl" : "https://image.kurier.at/images/original/4785309/46-171844374.jpg",
-      "titleSource" : "Millionenpleite der Modehandelskette Pimkie",
-      "titleTarget" : "Modni trgovački lanac Pimkie bankrotirao je",
-      "url" : "https://kurier.at/wirtschaft/millionenpleite-einer-bekannten-modehandelskette/401175571"
     }, {
       "id" : "xjZSPjiP",
       "imgUrl" : "https://image.kurier.at/images/original/3592822/78370011349288914_BLD_Online.jpg",
@@ -71,23 +59,35 @@
       "titleTarget" : "Nakon naglog porasta u 2020. godini, boca i dalje cvjeta na visokoj razini",
       "url" : "https://kurier.at/wirtschaft/nach-starkem-anstieg-2020-blueht-der-pfusch-weiter-auf-hohem-niveau/401175505"
     }, {
+      "id" : "SzpIdQLf",
+      "imgUrl" : "https://image.kurier.at/images/original/4785309/46-171844374.jpg",
+      "titleSource" : "Millionenpleite der Modehandelskette Pimkie",
+      "titleTarget" : "Modni trgovački lanac Pimkie bankrotirao je",
+      "url" : "https://kurier.at/wirtschaft/millionenpleite-einer-bekannten-modehandelskette/401175571"
+    }, {
+      "id" : "Fxugzu22",
+      "imgUrl" : "https://image.kurier.at/images/original/1280355/amazon_bezos_quartalszahlen_rts.jpg",
+      "titleSource" : "Jeff Bezos gibt Leitung von Amazon ab",
+      "titleTarget" : "Jeff Bezos odustaje od vodstva Amazona",
+      "url" : "https://kurier.at/wirtschaft/jeff-bezos-gibt-leitung-von-amazon-ab/401176432"
+    }, {
       "id" : "rKMf8dlH",
       "imgUrl" : "https://image.kurier.at/images/original/4912657/46-174211179.jpg",
       "titleSource" : "Verschollener Tengelmann-Chef soll nun doch für tot erklärt werden",
       "titleTarget" : "Nestali šef Tengelmanna sada bi trebao biti proglašen mrtvim",
       "url" : "https://kurier.at/wirtschaft/verschollener-tengelmann-chef-soll-nun-doch-fuer-tot-erklaert-werden/401176129"
     }, {
+      "id" : "ymu20zzz",
+      "imgUrl" : "https://image.kurier.at/images/original/4835022/20201221-ABD0028-1-1.jpg",
+      "titleSource" : "Amazon zahlt 62 Mio. Dollar wegen Trinkgeldunterschlagung",
+      "titleTarget" : "Amazon za pronevjeru napojnica plaća 62 milijuna dolara",
+      "url" : "https://kurier.at/wirtschaft/amazon-zahlt-62-mio-dollar-wegen-trinkgeldunterschlagung/401176381"
+    }, {
       "id" : "DwVwimn4",
       "imgUrl" : "https://image.kurier.at/images/original/4912519/46-175313409.jpg",
       "titleSource" : "Ölriese Exxon 2020 mit größtem Verlust seit Jahrzehnten",
       "titleTarget" : "Naftni div Exxon 2020 s najvećim gubitkom u posljednjih nekoliko desetljeća",
       "url" : "https://kurier.at/wirtschaft/oelriese-exxon-2020-mit-groesstem-verlust-seit-jahrzehnten/401176027"
-    }, {
-      "id" : "KvFmKrHz",
-      "imgUrl" : "https://image.kurier.at/images/original/4912534/46-175314472.jpg",
-      "titleSource" : "Coronakrise treibt Ölkonzern BP tief in die roten Zahlen",
-      "titleTarget" : "Kriza Corone naftnu tvrtku BP tjera duboko u crveno",
-      "url" : "https://kurier.at/wirtschaft/coronakrise-treibt-oelkonzern-bp-tief-in-die-roten-zahlen/401176042"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,17 +98,17 @@
       "titleTarget" : "1.241 nova infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1241-neue-corona-infektionen-in-oesterreich/401175523"
     }, {
-      "id" : "GVK5JrcH",
-      "imgUrl" : "https://image.kurier.at/images/original/4906006/impfung_eu_c_apa_afp.jpg",
-      "titleSource" : "Nach Bürgermeister: Auch Seilbahnmanager im Pongau geimpft",
-      "titleTarget" : "Prema riječima gradonačelnika: Također cijepljen upravitelj žičare u Pongauu",
-      "url" : "https://kurier.at/chronik/oesterreich/nach-buergermeister-auch-seilbahnmanager-im-pongau-geimpft/401175907"
-    }, {
       "id" : "ZiytOCEv",
       "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
       "titleSource" : "Nazi-Rapper \"Mr. Bond\" in Kärnten festgenommen",
       "titleTarget" : "Nacistički reper \"Gospodin Bond\" uhićen u Koruškoj",
       "url" : "https://kurier.at/chronik/oesterreich/rapper-in-kaernten-wegen-nazi-inhalten-verhaftet/401175856"
+    }, {
+      "id" : "GVK5JrcH",
+      "imgUrl" : "https://image.kurier.at/images/original/4906006/impfung_eu_c_apa_afp.jpg",
+      "titleSource" : "Nach Bürgermeister: Auch Seilbahnmanager im Pongau geimpft",
+      "titleTarget" : "Prema riječima gradonačelnika: Također cijepljen upravitelj žičare u Pongauu",
+      "url" : "https://kurier.at/chronik/oesterreich/nach-buergermeister-auch-seilbahnmanager-im-pongau-geimpft/401175907"
     }, {
       "id" : "yuylbXIe",
       "imgUrl" : "https://image.kurier.at/images/original/4911874/46-175093877.jpg",
@@ -116,32 +116,32 @@
       "titleTarget" : "1.241 novih infekcija širom Austrije; Broj mutacija virusa se povećava",
       "url" : "https://kurier.at/chronik/oesterreich/lockdown-ende-die-lockerungen-ab-8-februar-im-detail-die-testregeln/401174176"
     }, {
+      "id" : "rOI1kDqK",
+      "imgUrl" : "https://image.kurier.at/images/original/3707261/78350011450064590_BLD_Online.jpg",
+      "titleSource" : "Sachertorte ist Österreichs beliebteste Mehlspeise auf Instagram",
+      "titleTarget" : "Sachertorte je najpopularnije austrijsko pecivo na Instagramu",
+      "url" : "https://kurier.at/chronik/oesterreich/sachertorte-ist-oesterreichs-beliebteste-mehlspeise-auf-instagram/401175670"
+    }, {
       "id" : "x6GmE6vz",
       "imgUrl" : "https://image.kurier.at/images/original/4559384/46-166248686.jpg",
       "titleSource" : "Commerzialbank: Pucher will „unbedingt in Ausschuss“",
       "titleTarget" : "Commerzialbank: Pucher želi \"apsolutno u odboru\"",
       "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-pucher-will-unbedingt-in-ausschuss/401175472"
     }, {
-      "id" : "zegkndL4",
-      "imgUrl" : "https://image.kurier.at/images/original/4912453/46-168659939.jpg",
-      "titleSource" : "Lockdown-Bilanz: Welcher war der effektivste?",
-      "titleTarget" : "Lockdown saldo: koji je bio najučinkovitiji?",
-      "url" : "https://kurier.at/chronik/oesterreich/lockdown-bilanz-welcher-war-der-effektivste/401175976"
-    }, {
-      "id" : "rOI1kDqK",
-      "imgUrl" : "https://image.kurier.at/images/original/3707261/78350011450064590_BLD_Online.jpg",
-      "titleSource" : "Sachertorte ist Österreichs beliebteste Mehlspeise auf Instagram",
-      "titleTarget" : "Sachertorte je najpopularnije austrijsko pecivo na Instagramu",
-      "url" : "https://kurier.at/chronik/oesterreich/sachertorte-ist-oesterreichs-beliebteste-mehlspeise-auf-instagram/401175670"
+      "id" : "izUFj6bN",
+      "imgUrl" : "https://image.kurier.at/images/original/4913230/46-175267517.jpg",
+      "titleSource" : "Festgenommene nach Asyl-Demo in Innsbruck identifiziert",
+      "titleTarget" : "Pritvorenici identificirani nakon demonstracija azila u Innsbrucku",
+      "url" : "https://kurier.at/chronik/oesterreich/festgenommene-nach-asyl-demo-in-innsbruck-identifiziert/401176333"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "XWrEUTKV",
-      "imgUrl" : "https://image.kurier.at/images/original/4651283/46-109508699.jpg",
-      "titleSource" : "Die \"Starmania 21\"-Jury steht: Tim Bendzko, Ina Regen und Fiva",
-      "titleTarget" : "Pojavio se žiri \"Starmanije 21\": Tim Bendzko, Ina Regen i Fiva",
-      "url" : "https://kurier.at/kultur/medien/starmania-21-tim-bendzko-ina-regen-und-fiva-in-der-jury/401176096"
+      "id" : "dkk72gMY",
+      "imgUrl" : "https://image.kurier.at/images/original/4910578/46-112347797.jpg",
+      "titleSource" : "Christina Stürmer will Entscheidungen aus dem Bauch treffen dürfen",
+      "titleTarget" : "Christina Stürmer želi biti sposobna donositi odluke na temelju osjećaja crijeva",
+      "url" : "https://kurier.at/kultur/christina-stuermer-will-entscheidungen-aus-dem-bauch-treffen-duerfen/401175001"
     }, {
       "id" : "sNJd83qM",
       "imgUrl" : "https://image.kurier.at/images/original/4910863/46-175271028.jpg",
@@ -149,23 +149,11 @@
       "titleTarget" : "\"Najpoznatiji narkoman na svijetu\": Priča o Christiane F. kao serija",
       "url" : "https://kurier.at/kultur/medien/der-beruehmteste-junkie-der-welt-die-story-von-christiane-f-als-serie/401175115"
     }, {
-      "id" : "dkk72gMY",
-      "imgUrl" : "https://image.kurier.at/images/original/4910578/46-112347797.jpg",
-      "titleSource" : "Christina Stürmer will Entscheidungen aus dem Bauch treffen dürfen",
-      "titleTarget" : "Christina Stürmer želi biti sposobna donositi odluke na temelju osjećaja crijeva",
-      "url" : "https://kurier.at/kultur/christina-stuermer-will-entscheidungen-aus-dem-bauch-treffen-duerfen/401175001"
-    }, {
-      "id" : "UvIKOjEh",
-      "imgUrl" : "https://image.kurier.at/images/original/4723779/46-150430985.jpg",
-      "titleSource" : "Amazons Serien-Pläne: Reeperbahn, FC Bayern und Bushido zum Streamen",
-      "titleTarget" : "Amazonova serija planira: Reeperbahn, FC Bayern i Bushido za streaming",
-      "url" : "https://kurier.at/kultur/medien/amazons-serien-plaene-reeperbahn-fc-bayern-und-bushido-zum-streamen/401176075"
-    }, {
-      "id" : "UE59XDlA",
-      "imgUrl" : "https://image.kurier.at/images/original/4912246/46-129054472.jpg",
-      "titleSource" : "Roman Mählich kehrt als Fußball-Experte zum ORF zurück",
-      "titleTarget" : "Roman Mählich vraća se u ORF kao nogometni stručnjak",
-      "url" : "https://kurier.at/kultur/medien/roman-maehlich-kehrt-als-fussball-experte-zum-orf-zurueck/401175853"
+      "id" : "XWrEUTKV",
+      "imgUrl" : "https://image.kurier.at/images/original/4651283/46-109508699.jpg",
+      "titleSource" : "Die \"Starmania 21\"-Jury steht: Tim Bendzko, Ina Regen und Fiva",
+      "titleTarget" : "Pojavio se žiri \"Starmanije 21\": Tim Bendzko, Ina Regen i Fiva",
+      "url" : "https://kurier.at/kultur/medien/starmania-21-tim-bendzko-ina-regen-und-fiva-in-der-jury/401176096"
     }, {
       "id" : "kRiH9v1w",
       "imgUrl" : "https://image.kurier.at/images/original/4911841/46-175321516.jpg",
@@ -178,6 +166,18 @@
       "titleSource" : "Osterfestspiele Salzburg: Keine \"Turandot\" mit Anna Netrebko",
       "titleTarget" : "Uskršnji festival u Salzburgu: Nema \"Turandota\" s Annom Netrebko",
       "url" : "https://kurier.at/kultur/osterfestspiele-salzburg-keine-turandot-mit-anna-netrebko/401175607"
+    }, {
+      "id" : "yWxsgV1Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4606079/boseman.jpg",
+      "titleSource" : "\"Black Panther\"-Regisseur plant Wakanda-Serie für Disney",
+      "titleTarget" : "Redatelj \"Crne pantere\" za Disney planira seriju Wakanda",
+      "url" : "https://kurier.at/kultur/medien/black-panther-regisseur-plant-wakanda-serie-fuer-disney/401175517"
+    }, {
+      "id" : "UvIKOjEh",
+      "imgUrl" : "https://image.kurier.at/images/original/4723779/46-150430985.jpg",
+      "titleSource" : "Amazons Serien-Pläne: Reeperbahn, FC Bayern und Bushido zum Streamen",
+      "titleTarget" : "Amazonova serija planira: Reeperbahn, FC Bayern i Bushido za streaming",
+      "url" : "https://kurier.at/kultur/medien/amazons-serien-plaene-reeperbahn-fc-bayern-und-bushido-zum-streamen/401176075"
     } ]
   }, {
     "category" : "HEALTH",
@@ -194,6 +194,18 @@
       "titleTarget" : "Britanski istraživači uznemireni su što je B.1.1.7 ponovo mutirao",
       "url" : "https://kurier.at/wissen/gesundheit/corona-virus-mutationen-britische-forscher-sind-alarmiert-dass-b117-erneut-mutiert-ist/401175754"
     }, {
+      "id" : "uYZiQbSV",
+      "imgUrl" : "https://image.kurier.at/images/original/4913107/46-174183554.jpg",
+      "titleSource" : "EU-Agentur heizt Diskussion um FFP2-Maskenpflicht an",
+      "titleTarget" : "EU agencija zahuktava raspravu o zahtjevu za maskom FFP2",
+      "url" : "https://kurier.at/wissen/gesundheit/eu-agentur-heizt-diskussion-um-ffp2-maskenpflicht-an/401176279"
+    }, {
+      "id" : "8f7qMYZk",
+      "imgUrl" : "https://image.kurier.at/images/original/4904449/46-175200848.jpg",
+      "titleSource" : "Corona-Impfplan: Abstand von elf bis zwölf Wochen bei AstraZeneca",
+      "titleTarget" : "Raspored cijepljenja protiv korone: interval od jedanaest do dvanaest tjedana u AstraZeneci",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-impfplan-abstand-von-elf-bis-zwoelf-wochen-bei-astrazeneca/401176135"
+    }, {
       "id" : "SJ3qJHOI",
       "imgUrl" : "https://image.kurier.at/images/original/4857186/46-173922519.jpg",
       "titleSource" : "Covid-19-Impfstoff: Laut Moderna mehr Dosen pro Fläschchen möglich",
@@ -206,67 +218,56 @@
       "titleTarget" : "Infekcije: Udio inačica virusa kontinuirano se povećava",
       "url" : "https://kurier.at/wissen/gesundheit/corona-virus-varianten-steigen-kontinuierlich/401175514"
     }, {
-      "id" : "8f7qMYZk",
-      "imgUrl" : "https://image.kurier.at/images/original/4904449/46-175200848.jpg",
-      "titleSource" : "Corona-Impfplan: Abstand von elf bis zwölf Wochen bei AstraZeneca",
-      "titleTarget" : "Raspored cijepljenja protiv korone: interval od jedanaest do dvanaest tjedana u AstraZeneci",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-impfplan-abstand-von-elf-bis-zwoelf-wochen-bei-astrazeneca/401176135"
-    }, {
       "id" : "2LHzyadb",
       "imgUrl" : "https://image.kurier.at/images/original/4912051/81771351258725450_BLD_Online.jpg",
       "titleSource" : "Homöopathen zeichnen \"unwissenschaftlichen Unsinn\" aus",
       "titleTarget" : "Homeopati razlikuju \"neznanstvene gluposti\"",
       "url" : "https://kurier.at/wissen/gesundheit/homoeopathen-zeichnen-unwissenschaftlichen-unsinn-aus/401175991"
-    }, {
-      "id" : "uYZiQbSV",
-      "imgUrl" : "https://image.kurier.at/images/original/4913107/46-174183554.jpg",
-      "titleSource" : "EU-Agentur heizt Diskussion um FFP2-Maskenpflicht an",
-      "titleTarget" : "EU agencija zahuktava raspravu o zahtjevu za maskom FFP2",
-      "url" : "https://kurier.at/wissen/gesundheit/eu-agentur-heizt-diskussion-um-ffp2-maskenpflicht-an/401176279"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "lhcjbMkl",
+      "imgUrl" : "https://image.kurier.at/images/original/4912591/46-3778089.jpg",
+      "titleSource" : "Hallenbetreiber kritisieren Regierung: \"Es bewegt sich nichts\"",
+      "titleTarget" : "Operatori dvorana kritiziraju vladu: \"Ništa se ne miče\"",
+      "url" : "https://kurier.at/sport/tennis/hallenbetreiber-kritisieren-regierung-wegen-corona-lockerungen-es-bewegt-sich-nichts/401176111"
+    }, {
       "id" : "s9cokTc5",
       "imgUrl" : "https://image.kurier.at/images/original/4911454/46-175319565.jpg",
       "titleSource" : "ATP Cup: Thiem verpatzt den Auftakt, Niederlage gegen Italien",
       "titleTarget" : "ATP kup: Thiem je srušio start, poraz od Italije",
       "url" : "https://kurier.at/sport/tennis/atp-cup-tennis-star-dominic-thiem-verpatzt-den-auftakt-niederlage-gegen-italien/401175400"
     }, {
-      "id" : "vRD4JlJY",
-      "titleSource" : "Salzburg holt ab Sommer Kamil Piatkowski aus Polen",
-      "titleTarget" : "Salzburg će od ljeta iz Poljske dovesti Kamila Piatkowskog",
-      "url" : "https://kurier.at/sport/fussball/salzburg-holt-ab-sommer-kamil-piatkowski-aus-polen/401175217"
+      "id" : "kuJ3jmeE",
+      "imgUrl" : "https://image.kurier.at/images/original/4913491/46-175384371.jpg",
+      "titleSource" : "0:9! Debakel für den FC Southampton und Trainer Hasenhüttl ",
+      "titleTarget" : "0: 9! Debakl za FC Southampton i trenera Hasenhüttla",
+      "url" : "https://kurier.at/sport/fussball/09-debakel-fuer-den-fc-southampton-und-trainer-hasenhuettl/401176456"
+    }, {
+      "id" : "NJWMuLqn",
+      "imgUrl" : "https://image.kurier.at/images/original/4913488/46-175382231.jpg",
+      "titleSource" : "Juventus dank Ronaldo-Doppelpack vor Einzug ins Cupfinale",
+      "titleTarget" : "Juventus zahvaljujući Ronaldu double prije nego što je prešao u finale kupa",
+      "url" : "https://kurier.at/sport/fussball/juventus-dank-ronaldo-doppelpack-vor-einzug-ins-cupfinale/401176453"
+    }, {
+      "id" : "AQ4eH1r0",
+      "imgUrl" : "https://image.kurier.at/images/original/4913479/46-174024379.jpg",
+      "titleSource" : "Eishockey: Bozen verteidigte ersten Platz mit Sieg gegen KAC",
+      "titleTarget" : "Hokej na ledu: Bolzano je obranio prvo mjesto pobijedivši KAC",
+      "url" : "https://kurier.at/sport/wintersport/eishockey-bozen-verteidigte-ersten-platz-mit-sieg-gegen-kac/401176435"
+    }, {
+      "id" : "dbw6clA1",
+      "imgUrl" : "https://image.kurier.at/images/original/4913449/46-175382000.jpg",
+      "titleSource" : "DFB-Pokal: Bayer Leverkusen blamiert sich bei Viertligisten",
+      "titleTarget" : "DFB kup: Bayer Leverkusen osramotio se u četvrtoj ligi",
+      "url" : "https://kurier.at/sport/fussball/dfb-pokal-bayer-leverkusen-blamiert-sich-bei-viertligisten/401176405"
     }, {
       "id" : "TPjjw4iD",
       "imgUrl" : "https://image.kurier.at/images/original/4912570/46-175326814.jpg",
       "titleSource" : "Thiems Formsuche: Schlechte Ergebnisse, aber gute Vorzeichen",
       "titleTarget" : "Thiems Formsuche: Loši rezultati, ali dobri predznaci",
       "url" : "https://kurier.at/sport/tennis/dominic-thiems-suche-nach-der-form-schlechte-ergebnisse-aber-gute-vorzeichen/401176072"
-    }, {
-      "id" : "pqWKDStQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4912594/djuricin_1.jpg",
-      "titleSource" : "Bundesliga-Rückkehr: Stürmer Djuricin verstärkt die Austria",
-      "titleTarget" : "Povratak u Bundesligu: napadač Đuričin pojačava Austriju",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-rueckkehr-stuermer-marco-djuricin-verstaerkt-die-wiener-austria/401176090"
-    }, {
-      "id" : "lj3ysqwc",
-      "imgUrl" : "https://image.kurier.at/images/original/4912555/46-168367142.jpg",
-      "titleSource" : "Mit Ex-Formel-1-Pilot Albon: Red Bull kehrt in die DTM zurück",
-      "titleTarget" : "S bivšim vozačem Formule 1 Albonom: Red Bull se vraća na DTM",
-      "url" : "https://kurier.at/sport/motorsport/mit-ex-formel-1-pilot-alexander-albon-red-bull-kehrt-in-die-dtm-zurueck/401176057"
-    }, {
-      "id" : "kR7tvWWI",
-      "imgUrl" : "https://image.kurier.at/images/original/4912498/46-175355418.jpg",
-      "titleSource" : "\"Will einfach nur gehen\": Villas-Boas bot Marseille Rücktritt an",
-      "titleTarget" : "\"Samo želim ići\": Villas-Boas ponudio je Marseilleu da odstupi",
-      "url" : "https://kurier.at/sport/fussball/will-einfach-nur-gehen-villas-boas-bot-marseille-ruecktritt-an/401176012"
-    }, {
-      "id" : "bOJxq7WP",
-      "imgUrl" : "https://image.kurier.at/images/original/4912384/46-157260913.jpg",
-      "titleSource" : "Alaba-Abschied: Rummenigge wird \"ein paar Tränen\" vergießen",
-      "titleTarget" : "Oproštaj od Alabe: Rummenigge će proliti \"nekoliko suza\"",
-      "url" : "https://kurier.at/sport/fussball/alaba-abschied-byaern-boss-karl-heinz-rummenigge-wird-ein-paar-traenen-vergiessen/401175928"
     } ]
   } ],
   "country" : "austria",
