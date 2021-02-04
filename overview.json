@@ -2,35 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "rsPotJnF",
-      "imgUrl" : "https://image.kurier.at/images/original/4914394/46-175408005.jpg",
-      "titleSource" : "Vor Sondersitzung: Kickl spricht jetzt von \"Friseur Apartheid\"",
-      "titleTarget" : "Prije posebne sesije: Kickl sada govori o \"frizerskom apartheidu\"",
-      "url" : "https://kurier.at/politik/inland/vor-sondersitzung-kickl-spricht-jetzt-von-friseur-apartheid/401176984"
-    }, {
-      "id" : "gBdFRrnK",
-      "imgUrl" : "https://image.kurier.at/images/original/4903276/46-175086442.jpg",
-      "titleSource" : "\"Rote Linie überschritten\": Grüner Aufstand gegen ÖVP",
-      "titleTarget" : "\"Prešao crvenu liniju\": Zeleni ustanak protiv ÖVP-a",
-      "url" : "https://kurier.at/politik/inland/rote-linie-ueberschritten-gruener-aufstand-gegen-oevp/401177293"
-    }, {
-      "id" : "U0atIeQ8",
-      "imgUrl" : "https://image.kurier.at/images/original/4913638/46-173951087.jpg",
-      "titleSource" : "Impfplan: Phase 2 verzögert sich um \"ein, zwei Wochen\"",
-      "titleTarget" : "Raspored cijepljenja: faza 2 odgađa se za \"jedan ili dva tjedna\"",
-      "url" : "https://kurier.at/politik/inland/impfplan-phase-2-verzoegert-sich-um-ein-zwei-wochen/401176558"
-    }, {
-      "id" : "QuzJMUPc",
-      "imgUrl" : "https://image.kurier.at/images/original/4914478/46-166202822.jpg",
-      "titleSource" : "Corona: ÖVP wirft SPÖ \"Doppelstrategie\" vor",
-      "titleTarget" : "Corona: ÖVP optužuje SPÖ za \"dvostruku strategiju\"",
-      "url" : "https://kurier.at/politik/inland/corona-oevp-wirft-spoe-doppelstrategie-vor/401177059"
-    }, {
-      "id" : "ZvIUDYJb",
-      "imgUrl" : "https://image.kurier.at/images/original/4592408/20200823-ABD0056-1-1.jpg",
-      "titleSource" : "Corona: \"Freitesten\" nach Einreise bleibt, Pendler brauchen Tests",
-      "titleTarget" : "Corona: \"Besplatno testiranje\" nakon ulaska ostaje, putnici trebaju testove",
-      "url" : "https://kurier.at/politik/inland/corona-freitesten-nach-einreise-bleibt-pendler-brauchen-tests/401177350"
+      "id" : "z1jJKXcp",
+      "imgUrl" : "https://image.kurier.at/images/original/4871721/20210114-ABD0049-1-1.jpg",
+      "titleSource" : "Gesamte Opposition spricht Nehammer das Misstrauen aus",
+      "titleTarget" : "Nehammer izražava nepovjerenje cijele oporbe",
+      "url" : "https://kurier.at/politik/inland/fpoe-und-spoe-sprechen-nehammer-das-misstrauen-aus/401177944"
     }, {
       "id" : "zFVkdEim",
       "imgUrl" : "https://image.kurier.at/images/original/3906419/46-122990697.jpg",
@@ -38,230 +14,218 @@
       "titleTarget" : "Reimon: \"Kurz neće učiniti uslugu rušenju koalicije\"",
       "url" : "https://kurier.at/politik/inland/reimon-werden-kurz-nicht-den-gefallen-tun-koalition-zu-sprengen/401177584"
     }, {
-      "id" : "lXYbZK7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4890357/46-174180783.jpg",
-      "titleSource" : "Trotz Mutationen: \"Impfung absolut nicht sinnlos\"",
-      "titleTarget" : "Unatoč mutacijama: \"Cijepljenje apsolutno nije besmisleno\"",
-      "url" : "https://kurier.at/politik/inland/trotz-mutationen-impfung-absolut-nicht-sinnlos/401177581"
+      "id" : "owa2vOag",
+      "imgUrl" : "https://image.kurier.at/images/original/4916566/46-175435588.jpg",
+      "titleSource" : "Quarantäne für ganz Tirol nicht ausgeschlossen",
+      "titleTarget" : "Nije isključena karantena za cijeli Tirol",
+      "url" : "https://kurier.at/politik/inland/quarantaene-fuer-ganz-tirol-nicht-ausgeschlossen/401177980"
+    }, {
+      "id" : "OkUFXREq",
+      "imgUrl" : "https://image.kurier.at/images/original/4897168/20210126-ABD0020-1-1.jpg",
+      "titleSource" : "Corona-Demos: Sobotka warnt vor \"Emokratie\"",
+      "titleTarget" : "Corona demo: Sobotka upozorava na \"demokraciju\"",
+      "url" : "https://kurier.at/politik/inland/corona-demos-sobotka-warnt-vor-emokratie/401177548"
+    }, {
+      "id" : "0nuiFnp9",
+      "imgUrl" : "https://image.kurier.at/images/original/4912030/20210202-ABD0054-1-1.jpg",
+      "titleSource" : "Rendi-Wagner kritisiert Lockerungen: \"Diesen Weg wäre ich nicht gegangen\"",
+      "titleTarget" : "Rendi-Wagner kritizira popuštanje: \"Ne bih išao ovim putem\"",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-kritisiert-regierung-diesen-weg-waere-ich-nicht-gegangen/401177845"
+    }, {
+      "id" : "JrHk1jzK",
+      "imgUrl" : "https://image.kurier.at/images/original/4915924/46-175438590.jpg",
+      "titleSource" : "Kurz über Sputnik-Impfstoff: Keine Tabus",
+      "titleTarget" : "Ukratko o cjepivu Sputnik: Nema tabua",
+      "url" : "https://kurier.at/politik/inland/kurz-ueber-sputnik-impfstoff-keine-tabus/401177617"
+    }, {
+      "id" : "Q3spGScv",
+      "imgUrl" : "https://image.kurier.at/images/original/4886385/20210121-ABD0039-1-1.jpg",
+      "titleSource" : "Abschiebungen: Kogler setzt Kindeswohlkommission ein",
+      "titleTarget" : "Deportacije: Kogler osniva Povjerenstvo za skrb o djeci",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-kogler-setzt-kindeswohlkommission-ein/401178445"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "NY25srPD",
-      "imgUrl" : "https://image.kurier.at/images/original/1536624/santander.jpg",
-      "titleSource" : "Milliardenverlust bei Großbank Santander",
-      "titleTarget" : "Milijarde izgubljene u glavnoj banci Santander",
-      "url" : "https://kurier.at/wirtschaft/milliardenverlust-bei-grossbank-santander/401176555"
+      "id" : "pEkXkyab",
+      "imgUrl" : "https://image.kurier.at/images/original/4862295/parler.jpg",
+      "titleSource" : "Bericht: Chef des Onlinenetzwerks Parler entlassen",
+      "titleTarget" : "Izvještaj: Smijenjen voditelj mrežne mreže Parler",
+      "url" : "https://kurier.at/wirtschaft/bericht-chef-des-onlinenetzwerks-parler-entlassen/401177728"
     }, {
-      "id" : "GnCEDwPy",
-      "imgUrl" : "https://image.kurier.at/images/original/92697/Amazon%252BJeff%252BBezos.jpg",
-      "titleSource" : "Nach Bezos-Abgang: Wer den reichsten Mann der Welt beerbt",
-      "titleTarget" : "Nakon Bezosova odlaska: tko naslijedi najbogatijeg čovjeka na svijetu",
-      "url" : "https://kurier.at/wirtschaft/amazon-der-weltkonzern-aus-der-garage/401176846"
+      "id" : "9GOe9p1f",
+      "imgUrl" : "https://image.kurier.at/images/original/4916947/46-166394402.jpg",
+      "titleSource" : "Ritter-Sport darf neue Schokolade nicht Schokolade nennen",
+      "titleTarget" : "Ritter-Sport ne može nazvati novu čokoladnu čokoladu",
+      "url" : "https://kurier.at/wirtschaft/ritter-sport-darf-neue-schokolade-nicht-schokolade-nennen/401178217"
     }, {
-      "id" : "XQii3oAC",
-      "imgUrl" : "https://image.kurier.at/images/original/4915654/46-168792344.jpg",
-      "titleSource" : "Kryptowährung Ether stieg auf Rekordhoch",
-      "titleTarget" : "Kriptovaluta Ether porasla je na rekordno visoku razinu",
-      "url" : "https://kurier.at/wirtschaft/kryptowaehrung-ether-stieg-auf-rekordhoch/401177473"
+      "id" : "stluJDNM",
+      "imgUrl" : "https://image.kurier.at/images/original/4283252/46-163738801.jpg",
+      "titleSource" : "Borealis-Chef Stern zieht in OMV-Vorstand ein",
+      "titleTarget" : "Šef Borealisa Stern pridružuje se odboru OMV-a",
+      "url" : "https://kurier.at/wirtschaft/borealis-chef-stern-zieht-in-omv-vorstand-ein/401177638"
     }, {
-      "id" : "UtpqOLe3",
-      "imgUrl" : "https://image.kurier.at/images/original/4089498/20200128-ABD0105-1-1.jpg",
-      "titleSource" : "Inflation kehrt in die Eurozone zurück",
-      "titleTarget" : "Inflacija se vraća u zonu eura",
-      "url" : "https://kurier.at/wirtschaft/preise-in-eurozone-zogen-ueberraschend-an/401176960"
+      "id" : "KITU9lmv",
+      "imgUrl" : "https://image.kurier.at/images/original/4916062/81690356758757932_BLD_Online.jpg",
+      "titleSource" : "Paypal profitiert weiter von Online-Shopping-Boom in Corona-Krise",
+      "titleTarget" : "PayPal i dalje koristi blagodatima internetske kupovine u krizi od korone",
+      "url" : "https://kurier.at/wirtschaft/paypal-profitiert-weiter-von-online-shopping-boom-in-corona-krise/401177707"
     }, {
-      "id" : "8gFdc1eF",
-      "imgUrl" : "https://image.kurier.at/images/original/4915657/46-166511832.jpg",
-      "titleSource" : "Gesundheitskonzern Fresenius Kabi investiert kräftig in der Steiermark",
-      "titleTarget" : "Zdravstvena skupina Fresenius Kabi ulaže velika sredstva u Štajersku",
-      "url" : "https://kurier.at/wirtschaft/gesundheitskonzern-fresenius-kabi-investiert-kraeftig-in-der-steiermark/401177476"
+      "id" : "oE2iJ0qG",
+      "imgUrl" : "https://image.kurier.at/images/original/3913604/81650355551629456_BLD_Online.jpg",
+      "titleSource" : "Coronapandemie sorgt für Milliardeneinbußen bei Big Oil",
+      "titleTarget" : "Pandemija Corone uzrokuje milijarde gubitaka za Big Oil",
+      "url" : "https://kurier.at/wirtschaft/coronapandemie-sorgt-fuer-milliardeneinbussen-bei-big-oil/401178559"
     }, {
-      "id" : "e1oeHhwa",
-      "imgUrl" : "https://image.kurier.at/images/original/4915648/46-164317579.jpg",
-      "titleSource" : "RHI Magnesita stieß norwegische und irische Gesellschaft ab",
-      "titleTarget" : "RHI Magnesita prodala je norveške i irske tvrtke",
-      "url" : "https://kurier.at/wirtschaft/rhi-magnesita-stiess-norwegische-und-irische-gesellschaft-ab/401177425"
+      "id" : "zeKRE2g6",
+      "imgUrl" : "https://image.kurier.at/images/original/3212750/46-143215463.jpg",
+      "titleSource" : "Millionenpleite einer Gashändlers - Sanierung geplant",
+      "titleTarget" : "Milijunski bankrot trgovca plinom - planirano restrukturiranje",
+      "url" : "https://kurier.at/wirtschaft/millionenpleite-einer-gashaendlers-sanierung-geplant/401178550"
     }, {
-      "id" : "0WR7K2p0",
-      "imgUrl" : "https://image.kurier.at/images/original/4915447/46-167380735.jpg",
-      "titleSource" : "„Das wird sich noch ziehen“: Bei MAN sind Nerven gefragt",
-      "titleTarget" : "\"Trebat će neko vrijeme\": Kod MAN-a su potrebni živci",
-      "url" : "https://kurier.at/wirtschaft/das-wird-sich-noch-ziehen-bei-man-sind-nerven-gefragt/401177386"
+      "id" : "wiFp8T3k",
+      "imgUrl" : "https://image.kurier.at/images/original/4887549/46-174212427.jpg",
+      "titleSource" : "Deutsche Bank geht wegen Wirecard-Email auf größere Distanz zu Schütz",
+      "titleTarget" : "Deutsche Bank se ograđuje od Schütza zbog Wirecard e-pošte",
+      "url" : "https://kurier.at/wirtschaft/deutsche-bank-geht-wegen-wirecard-email-auf-groessere-distanz-zu-schuetz/401178505"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "RhhZReTd",
-      "imgUrl" : "https://image.kurier.at/images/original/4915756/46-173944047.jpg",
-      "titleSource" : "Gefahr durch Südafrika-Mutation: \"Tirol einen Monat isolieren\"",
-      "titleTarget" : "Opasnost od mutacije u Južnoj Africi: \"Izolirajte Tirol na mjesec dana\"",
-      "url" : "https://kurier.at/chronik/oesterreich/gefahr-durch-suedafrika-mutation-tirol-einen-monat-isolieren/401177254"
+      "id" : "4n9aJtal",
+      "imgUrl" : "https://image.kurier.at/images/original/4915927/46-173998124.jpg",
+      "titleSource" : "A....loch: Maurer durfte Bierwirt zurecht beschimpfen",
+      "titleTarget" : "A .... rupa: Maurer bi s pravom mogao zlostavljati Bierwirt",
+      "url" : "https://kurier.at/chronik/oesterreich/aloch-maurer-durfte-bierwirt-zurecht-beschimpfen/401177626"
     }, {
-      "id" : "WfHztqMc",
+      "id" : "D1lDPHwH",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.520 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.520 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1520-neue-corona-infektionen-in-oesterreich/401176768"
+      "titleSource" : "1.518 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1.518 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1518-neue-corona-infektionen-in-oesterreich/401177842"
     }, {
-      "id" : "GEBuEqLZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4575794/46-163940216.jpg",
-      "titleSource" : "\"Stopp Corona\"-App warnt jetzt auch in der halben EU",
-      "titleTarget" : "Aplikacija \"Stop Corona\" sada također upozorava na pola EU",
-      "url" : "https://kurier.at/chronik/oesterreich/stopp-corona-app-warnt-in-der-eu-jetzt-grenzueberschreitend/401176843"
+      "id" : "30hyXHz7",
+      "imgUrl" : "https://image.kurier.at/images/original/4891746/46-174082321.jpg",
+      "titleSource" : "Keine Hinweise, wie Südafrika-Mutante nach Tirol kam",
+      "titleTarget" : "Nema tragova o tome kako je južnoafrički mutant došao do Tirola",
+      "url" : "https://kurier.at/chronik/oesterreich/keine-hinweise-wie-suedafrika-mutante-nach-tirol-kam/401177800"
     }, {
-      "id" : "UZTm7k5k",
-      "imgUrl" : "https://image.kurier.at/images/original/4884756/coorna-impfung.jpg",
-      "titleSource" : "257.000 Corona-Schutzimpfungen in Österreich durchgeführt",
-      "titleTarget" : "Početak faze cijepljenja 2 je odgođen; Von der Leyen otvoren za odobrenje Sputnika",
-      "url" : "https://kurier.at/chronik/oesterreich/von-der-leyen-offen-fuer-sputnik-zulassung-975-neue-corona-todesfaelle-in-deutschland/401176507"
+      "id" : "KJB6xWWR",
+      "imgUrl" : "https://image.kurier.at/images/original/4812405/46-168228611.jpg",
+      "titleSource" : "Wien auf Ampelfarbe orange, Jeder 5. Brite bereits geimpft",
+      "titleTarget" : "Nije isključena karantena za cijeli Tirol + 1.518 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/kurz-ueber-sputnik-impfstoff-keine-tabus-trotz-mutationen-impfung-absolut-nicht-sinnlos/401177620"
     }, {
-      "id" : "uIWFxUdi",
-      "imgUrl" : "https://image.kurier.at/images/original/3414988/81670356448010478_BLD_Online.jpg",
-      "titleSource" : "Österreich impft Nachbarländern hinterher",
-      "titleTarget" : "Austrija nakon toga cijepi susjedne zemlje",
-      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-oesterreich-impft-nachbarlaendern-hinterher/401177008"
+      "id" : "UIJ0ROQB",
+      "imgUrl" : "https://image.kurier.at/images/original/4917715/46-88404316.jpg",
+      "titleSource" : "Corona-Cluster in Justizanstalt Salzburg: 26 Häftlinge infiziert",
+      "titleTarget" : "Skupina Corona u zatvoru u Salzburgu: zaraženih 26 zatvorenika",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-cluster-in-justizanstalt-salzburg-26-haeftlinge-infiziert/401178541"
     }, {
-      "id" : "2OfPDVil",
-      "imgUrl" : "https://image.kurier.at/images/original/4690998/78350011456913186_BLD_Online.jpg",
-      "titleSource" : "17-Jährige in Graz starb vermutlich an Überdosis Lachgas",
-      "titleTarget" : "17-godišnjak u Grazu vjerojatno je umro od predoziranja dušikovim oksidom",
-      "url" : "https://kurier.at/chronik/oesterreich/17-jaehrige-in-graz-starb-vermutlich-an-ueberdosis-lachgas/401177035"
+      "id" : "52zbXOry",
+      "imgUrl" : "https://image.kurier.at/images/original/4702812/78350011457002888_BLD_Online.jpg",
+      "titleSource" : "Corona-Mutationen in Kindergärten in Salzburg noch nicht bestätigt",
+      "titleTarget" : "Mutacije korone u dječjim vrtićima u Salzburgu još nisu potvrđene",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-mutationen-in-kindergaerten-in-salzburg-noch-nicht-bestaetigt/401178106"
     }, {
-      "id" : "rZIBfAgI",
-      "imgUrl" : "https://image.kurier.at/images/original/4909243/46-174283796.jpg",
-      "titleSource" : "Sechsfachjackpot: Zwei Spieler bekommen je fünf Millionen Euro",
-      "titleTarget" : "Jackpot u šest smjerova: Dvojica igrača dobivaju po pet milijuna eura",
-      "url" : "https://kurier.at/chronik/oesterreich/sechsfachjackpot-zwei-spieler-bekommen-je-fuenf-millionen-euro/401177545"
+      "id" : "nlCBO5qJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4880229/virus.jpg",
+      "titleSource" : "58 Mutations-Verdachtsfälle in Kärnten",
+      "titleTarget" : "58 sumnji na mutacije u Koruškoj",
+      "url" : "https://kurier.at/chronik/oesterreich/58-mutations-verdachtsfaelle-in-kaernten/401178520"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "uuvCxqCh",
-      "imgUrl" : "https://image.kurier.at/images/original/4914562/46-146913220.jpg",
-      "titleSource" : "Ticketverkäufer Eventim: \"Unsere Systeme können Impfausweise lesen\"",
-      "titleTarget" : "Prodavač ulaznica Eventim: \"Naši sustavi mogu čitati kartice za cijepljenje\"",
-      "url" : "https://kurier.at/kultur/ticketverkaeufer-cts-eventim-unsere-systeme-koennen-impfausweise-lesen/401177083"
+      "id" : "sYZ0Zyhy",
+      "imgUrl" : "https://image.kurier.at/images/original/4917721/46-161308913.jpg",
+      "titleSource" : "Lars Eidinger und Moritz Bleibtreu spielen in Serie über Hitler-Tagebücher",
+      "titleTarget" : "Lars Eidinger i Moritz Bleibtreu igraju u seriji o Hitlerovim dnevnicima",
+      "url" : "https://kurier.at/kultur/medien/lars-eidinger-und-moritz-bleibtreu-spielen-in-serie-ueber-hitler-tagebuecher/401178574"
     }, {
-      "id" : "Wl5BWZud",
-      "imgUrl" : "https://image.kurier.at/images/original/4914205/46-149008875.jpg",
-      "titleSource" : "Oscar-Auszeichnung für Österreicher: Realistische Fell-Animationen",
-      "titleTarget" : "Nagrada Oscar za Austrijance: Realne krznene animacije",
-      "url" : "https://kurier.at/kultur/oscar-auszeichnung-fuer-oesterreicher-realistische-fell-animationen/401176885"
+      "id" : "nYrdoynj",
+      "imgUrl" : "https://image.kurier.at/images/original/4916731/46-175432832.jpg",
+      "titleSource" : "Radiotest: Corona-Pandemie führt zu weniger Hörern",
+      "titleTarget" : "Radio test: Pandemija Corone dovodi do manje slušatelja",
+      "url" : "https://kurier.at/kultur/medien/radiotest-corona-pandemie-fuehrt-zu-weniger-hoerern/401177968"
     }, {
-      "id" : "G5DUC9rv",
-      "imgUrl" : "https://image.kurier.at/images/original/4749195/46-163099763.jpg",
-      "titleSource" : "Song Contest wird als Liveevent mit Social Distancing geplant",
-      "titleTarget" : "Natjecanje pjesama planirano je kao događaj uživo s društvenim udaljavanjem",
-      "url" : "https://kurier.at/kultur/song-contest-wird-als-liveevent-mit-social-distancing-geplant/401177080"
+      "id" : "OKujO3nW",
+      "imgUrl" : "https://image.kurier.at/images/original/4918267/46-175449573.jpg",
+      "titleSource" : "\"Pretend It's A City\" auf Netflix: Durchlüften gegen das Virus der Kleingeistigkeit",
+      "titleTarget" : "\"Pretvaraj se da je to grad\" na Netflixu: Emitiranje protiv virusa maloumnosti",
+      "url" : "https://kurier.at/kultur/pretend-its-a-city-auf-netflix-durchlueften-gegen-das-virus-der-kleingeistigkeit/401178781"
     }, {
-      "id" : "wrz5BjNx",
-      "imgUrl" : "https://image.kurier.at/images/original/4914433/46-143383756.jpg",
-      "titleSource" : "\"Peppa Pig\" ist meistverbreitete europäische Fernsehserie",
-      "titleTarget" : "\"Peppa Pig\" najpopularnija je europska televizijska serija",
-      "url" : "https://kurier.at/kultur/medien/peppa-pig-ist-meistverbreitete-europaeische-fernsehserie-peppa-wutz/401177011"
-    }, {
-      "id" : "5Z82Xp6S",
-      "imgUrl" : "https://image.kurier.at/images/original/4913689/46-175270837.jpg",
-      "titleSource" : "Elyas M'Barek ließ sich die Show nicht stehlen",
-      "titleTarget" : "Elyas M'Barek nije dopustio da joj se ukrade show",
-      "url" : "https://kurier.at/kultur/medien/elyas-mbarek-liess-sich-die-show-nicht-stehlen/401176621"
-    }, {
-      "id" : "dZ2HLG9G",
-      "imgUrl" : "https://image.kurier.at/images/original/4915366/46-175320299.jpg",
-      "titleSource" : "Golden Globes: Regisseurinnen auf dem Vormarsch",
-      "titleTarget" : "Zlatni globus: žene redateljice u porastu",
-      "url" : "https://kurier.at/kultur/golden-globes-regisseurinnen-im-vormarsch/401177383"
-    }, {
-      "id" : "WdEoCBPP",
-      "imgUrl" : "https://image.kurier.at/images/original/4906021/46-175199292.jpg",
-      "titleSource" : "Gemischte Platte: Grant und James Yorkston & The Second Hand Orchestra",
-      "titleTarget" : "Mješovita ploča: Grant i James Yorkston & The Second Hand Orchestra",
-      "url" : "https://kurier.at/kultur/gemischte-platte-grant-und-james-yorkston-the-second-hand-orchestra/401177170"
+      "id" : "GDHXMBW7",
+      "imgUrl" : "https://image.kurier.at/images/original/4918243/46-143500900.jpg",
+      "titleSource" : "Jungstar Helena Zengel für weiteren Schauspiel-Preis nominiert",
+      "titleTarget" : "Mlada zvijezda Helena Zengel nominirana je za još jednu glumačku nagradu",
+      "url" : "https://kurier.at/kultur/jungstar-helena-zengel-fuer-weiteren-schauspiel-preis-nominiert/401178787"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "ObtJVMok",
-      "imgUrl" : "https://image.kurier.at/images/original/4880397/46-174077681.jpg",
-      "titleSource" : "Impfung: 302 Personen in Österreich meldeten bisher Nebenwirkungen",
-      "titleTarget" : "Cijepljenje: 302 osobe u Austriji do sada su prijavile nuspojave",
-      "url" : "https://kurier.at/wissen/gesundheit/impfung-302-personen-in-oesterreich-meldeten-bisher-nebenwirkungen/401176909"
+      "id" : "Pgqes5fG",
+      "imgUrl" : "https://image.kurier.at/images/original/4890357/46-174180783.jpg",
+      "titleSource" : "Corona-Studie: Zuerst mit Astra Zeneca impfen, dann mit Biontech?",
+      "titleTarget" : "Studija Corone: prvo cijepljenje Astrom Zenecom, a zatim Biontechom?",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-studie-zuerst-mit-astra-zeneca-impfen-dann-mit-biontech/401177776"
     }, {
-      "id" : "numHlDve",
-      "imgUrl" : "https://image.kurier.at/images/original/4914640/46-175379772.jpg",
-      "titleSource" : "Astra-Zeneca-Impfstoff könnte Weitergabe des Virus verhindern",
-      "titleTarget" : "Cjepivo Astra-Zeneca moglo bi spriječiti širenje virusa",
-      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-impfstoff-kann-weitergabe-des-virus-verhindern/401177125"
-    }, {
-      "id" : "u0pUTbwZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4474715/46-165801335.jpg",
-      "titleSource" : "Spät, aber doch: Die Grippe ist in Österreich angekommen",
-      "titleTarget" : "Kasno, ali ipak: gripa je stigla u Austriju",
-      "url" : "https://kurier.at/wissen/gesundheit/spaet-aber-doch-die-grippe-ist-in-oesterreich-angekommen/401177149"
-    }, {
-      "id" : "GpD5E1nq",
+      "id" : "0xXESoqV",
       "imgUrl" : "https://image.kurier.at/images/original/4838154/46-173721719.jpg",
-      "titleSource" : "Mögliche \"Escape-Mutation\" auch in britischer Virus-Variante",
-      "titleTarget" : "Moguća \"mutacija bijega\" također u britanskoj varijanti virusa",
-      "url" : "https://kurier.at/wissen/gesundheit/moegliche-escape-mutation-auch-in-britischer-virus-variante/401176672"
+      "titleSource" : "Neue Virusvarianten: Impfungen bleiben weitgehend wirksam",
+      "titleTarget" : "Nove inačice virusa: Cijepljenje ostaje uglavnom učinkovito",
+      "url" : "https://kurier.at/wissen/gesundheit/neue-virusvarianten-impfungen-bleiben-weitgehend-wirksam/401177950"
     }, {
-      "id" : "vqlTquUm",
-      "imgUrl" : "https://image.kurier.at/images/original/3324514/46-144345646.jpg",
-      "titleSource" : "Künstliche Aorta soll das Herz entlasten",
-      "titleTarget" : "Umjetna aorta trebala bi olakšati srce",
-      "url" : "https://kurier.at/wissen/gesundheit/kuenstliche-aorta-soll-das-herz-entlasten/401176996"
-    }, {
-      "id" : "T2ygY9Sb",
-      "imgUrl" : "https://image.kurier.at/images/original/4913692/46-168474679.jpg",
-      "titleSource" : "Epidemiologe für gutes Monitoring bei \"Spiel mit dem Feuer\"",
-      "titleTarget" : "Epidemiolog za dobro praćenje u \"igranju vatrom\"",
-      "url" : "https://kurier.at/wissen/gesundheit/epidemiologe-fuer-gutes-monitoring-bei-spiel-mit-dem-feuer/401176588"
+      "id" : "onKDPNUO",
+      "imgUrl" : "https://image.kurier.at/images/original/4916248/46-148305308.jpg",
+      "titleSource" : "Corona: Parodontitis erhöht Risiko für schweren Verlauf",
+      "titleTarget" : "Korona: Parodontitis povećava rizik od teškog tečaja",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-parodontitis-erhoeht-risiko-fuer-schweren-verlauf/401177878"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "em9yNf5Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4913854/46-175323308.jpg",
-      "titleSource" : "Impfung: Olympia-Sportler wollen sich \"nicht vordrängen\"",
-      "titleTarget" : "Cijepljenje: Olimpijski sportaši \"ne žele napredovati\"",
-      "url" : "https://kurier.at/sport/corona-impfung-olympia-sportler-wollen-sich-nicht-vordraengen/401176759"
+      "id" : "IVAaiAEW",
+      "imgUrl" : "https://image.kurier.at/images/original/4917145/46-175451171.jpg",
+      "titleSource" : "Nach schwerer Krankheit: Sturm trauert um Torhüter-Legende Saria",
+      "titleTarget" : "Nakon teške bolesti: Sturm oplakuje vratarsku legendu Saria",
+      "url" : "https://kurier.at/sport/fussball/nach-schwerer-krankheit-sturm-graz-trauert-um-torhueter-legende-walter-saria/401177905"
     }, {
-      "id" : "q69ozr5T",
-      "imgUrl" : "https://image.kurier.at/images/original/4912666/46-174253508.jpg",
-      "titleSource" : "Albert Vastić: Ivos älterer Bruder über den Erdbeben-Schock",
-      "titleTarget" : "Albert Vastić: Ivin stariji brat o potresnom šoku",
-      "url" : "https://kurier.at/sport/albert-vastic-ivos-aelterer-bruder-ueber-den-erdbeben-schock/401176144"
+      "id" : "sSrXbKBD",
+      "imgUrl" : "https://image.kurier.at/images/original/4916119/46-175445933.jpg",
+      "titleSource" : "Sexistische Kommentare: Japans Olympia-Komiteechef unter Beschuss",
+      "titleTarget" : "Seksistički komentari: Napadan šef japanskog olimpijskog odbora",
+      "url" : "https://kurier.at/sport/sexistische-kommentare-kritik-an-japans-olympia-komiteechef-yoshiro-mori/401177785"
     }, {
-      "id" : "cchlkHbF",
-      "imgUrl" : "https://image.kurier.at/images/original/4914157/46-174118759.jpg",
-      "titleSource" : "Ski-WM in Cortina ohne ÖSV-Präsident Schröcksnadel",
-      "titleTarget" : "Svjetski kup u skijanju u Cortini bez predsjednika ÖSV-a Schröcksnadela",
-      "url" : "https://kurier.at/sport/wintersport/ski-wm-in-cortina-ohne-oesv-praesident-schroecksnadel/401176852"
+      "id" : "8aY27Sgq",
+      "imgUrl" : "https://image.kurier.at/images/original/4916155/46-175264129.jpg",
+      "titleSource" : "Corona-Ausbruch: Zwangspause für NHL-Team Minnesota Wild",
+      "titleTarget" : "Izbijanje korone: Obavezna pauza za NHL momčad Minnesota Wild",
+      "url" : "https://kurier.at/sport/wintersport/corona-ausbruch-zwangspause-fuer-nhl-team-minnesota-wild/401177821"
     }, {
-      "id" : "3Q0XogHJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4915444/46-174236897.jpg",
-      "titleSource" : "Die Schmerzen waren zu groß: Keine Ski-WM für Ricarda Haaser",
-      "titleTarget" : "Bol je bio prevelik: Nije bilo svjetskog skijaškog prvenstva za Ricardu Haaser",
-      "url" : "https://kurier.at/sport/wintersport/die-schmerzen-waren-zu-gross-keine-ski-wm-fuer-ricarda-haaser/401177380"
+      "id" : "LIrB4vHI",
+      "imgUrl" : "https://image.kurier.at/images/original/4916203/46-175318975.jpg",
+      "titleSource" : "Friseur hat Corona: Zwei NFL-Stars bangen um den Super Bowl",
+      "titleTarget" : "Frizer ima Coronu: Dvije NFL zvijezde zabrinute su zbog Super Bowla",
+      "url" : "https://kurier.at/sport/friseur-hat-corona-zwei-nfl-stars-der-kansas-city-chiefs-bangen-um-den-super-bowl/401177863"
     }, {
-      "id" : "XqshI5u3",
-      "imgUrl" : "https://image.kurier.at/images/original/4915123/46-175386305.jpg",
-      "titleSource" : "Australian Open: Einige Spieler müssen in Isolation",
-      "titleTarget" : "Australian Open: Neki igrači moraju biti u izolaciji",
-      "url" : "https://kurier.at/sport/tennis/australian-open-einige-spieler-muessen-in-isolation/401177305"
+      "id" : "2rsDBmi2",
+      "imgUrl" : "https://image.kurier.at/images/original/4917478/46-146102161.jpg",
+      "titleSource" : "Nach nur fünf Monaten: Damir Canadi verlässt Atromitos Athen",
+      "titleTarget" : "Nakon samo pet mjeseci: Damir Canadi napušta Atromitos iz Atene",
+      "url" : "https://kurier.at/sport/fussball/nach-nur-fuenf-monaten-ex-rapid-trainer-damir-canadi-verlaesst-atromitos-athen/401178463"
     }, {
-      "id" : "h5OetFwI",
-      "imgUrl" : "https://image.kurier.at/images/original/4913662/46-175383082.jpg",
-      "titleSource" : "Hasenhüttl nach dem 0:9: \"Wir werden wieder aufstehen!\"",
-      "titleTarget" : "Hasenhüttl nakon 0: 9: \"Ponovo ćemo ustati!\"",
-      "url" : "https://kurier.at/sport/fussball/hasenhuettl-nach-dem-09-wir-werden-wieder-aufstehen/401176597"
+      "id" : "6ghaCtf5",
+      "imgUrl" : "https://image.kurier.at/images/original/4917166/46-175453025.jpg",
+      "titleSource" : "Abfahrts-Training in Garmisch: Max Franz fährt zur Bestzeit",
+      "titleTarget" : "Trening spusta u Garmischu: Max Franz vozi najbolje vrijeme",
+      "url" : "https://kurier.at/sport/wintersport/abfahrts-training-in-garmisch-oesv-ass-max-franz-faehrt-zur-bestzeit/401178334"
     }, {
-      "id" : "8f73TdAG",
-      "imgUrl" : "https://image.kurier.at/images/original/4915837/46-175443566.jpg",
-      "titleSource" : "Barcelona quält sich zum Sieg im Cup gegen Granada",
-      "titleTarget" : "Barcelona se borila za osvajanje Kupa protiv Granade",
-      "url" : "https://kurier.at/sport/fussball/barcelona-quaelt-sich-zum-sieg-im-cup-gegen-granada/401177590"
+      "id" : "Q8n5POhM",
+      "imgUrl" : "https://image.kurier.at/images/original/4916872/46-175320630.jpg",
+      "titleSource" : "Nach Corona-Fall: ATP Cup mit Thiem und Co. nun am Freitag",
+      "titleTarget" : "Nakon slučaja Corona: ATP kup s Thiemom i Co. sada u petak",
+      "url" : "https://kurier.at/sport/tennis/nach-corona-fall-atp-cup-mit-thiem-und-co-nun-am-freitag/401178178"
     } ]
   } ],
   "country" : "austria",
