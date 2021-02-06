@@ -2,23 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "8CkRtr1Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4918456/46-175459764.jpg",
-      "titleSource" : "Nach Abschiebung: Lokalaugenschein zeigt renovierte Schule in Georgien",
-      "titleTarget" : "Nakon deportacije: Lokalna inspekcija pokazuje obnovljenu školu u Georgiji",
-      "url" : "https://kurier.at/politik/inland/nach-abschiebung-lokalaugenschein-zeigt-renovierte-schule-in-georgien/401178865"
+      "id" : "mYfPVUcH",
+      "imgUrl" : "https://image.kurier.at/images/original/4916593/20210204-ABD0030-1-1.jpg",
+      "titleSource" : "FPÖ will Anschober vor Höchstgericht bringen",
+      "titleTarget" : "FPÖ želi dovesti Anschobera na najviši sud",
+      "url" : "https://kurier.at/politik/inland/fpoe-will-anschober-vor-hoechstgericht-bringen/401179975"
     }, {
       "id" : "vEoFyrcs",
       "imgUrl" : "https://image.kurier.at/images/original/4918570/46-175460758.jpg",
       "titleSource" : "Abschiebungen: Politologen sehen Grüne auf verlorenem Posten",
       "titleTarget" : "Deportacije: Politički znanstvenici vide Zelene u gubitničkoj poziciji",
       "url" : "https://kurier.at/politik/inland/abschiebungen-politologen-sehen-gruene-auf-verlorenem-posten/401178964"
-    }, {
-      "id" : "RoksqAR0",
-      "imgUrl" : "https://image.kurier.at/images/original/4911667/20210202-ABD0022-1-1.jpg",
-      "titleSource" : "Umfrage: Mehrheit mit Abschiebung einverstanden",
-      "titleTarget" : "Anketa: većina se slaže s deportacijom",
-      "url" : "https://kurier.at/politik/inland/umfrage-mehrheit-mit-abschiebung-einverstanden/401178706"
     }, {
       "id" : "wIhoKkfj",
       "imgUrl" : "https://image.kurier.at/images/original/4918879/46-175472918.jpg",
@@ -38,11 +32,11 @@
       "titleTarget" : "Novo povjerenstvo za skrb o djeci: Ministarstvo unutarnjih poslova ostavlja otvorenu suradnju",
       "url" : "https://kurier.at/politik/inland/koglers-kindeswohlkommission-woeginger-findet-sie-in-ordnung/401179120"
     }, {
-      "id" : "o6WGJ3ks",
-      "imgUrl" : "https://image.kurier.at/images/original/4919413/46-175405342.jpg",
-      "titleSource" : "Corona: Österreich will Portugal zehn Patienten abnehmen",
-      "titleTarget" : "Corona: Austrija želi ukloniti deset pacijenata iz Portugala",
-      "url" : "https://kurier.at/politik/inland/corona-oesterreich-will-portugal-zehn-patienten-abnehmen/401179390"
+      "id" : "A0NwOvra",
+      "imgUrl" : "https://image.kurier.at/images/original/4402031/6326148.jpg",
+      "titleSource" : "Abschiebungen: Was kann die neue \"Griss-Kommission\"?",
+      "titleTarget" : "Deportacije: Što može učiniti nova \"Griss komisija\"?",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-was-kann-die-neue-griss-kommission/401179939"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,17 +47,11 @@
       "titleTarget" : "Drozda se izvlači iz politike i odlazi u stanovanje",
       "url" : "https://kurier.at/wirtschaft/drozda-steigt-aus-politik-aus-und-geht-in-den-wohnbau/401179450"
     }, {
-      "id" : "LlaP2qtU",
-      "imgUrl" : "https://image.kurier.at/images/original/4919557/46-175376309.jpg",
-      "titleSource" : "Drozda steigt aus Politik aus und geht in den Wohnbau",
-      "titleTarget" : "Drozda se izvlači iz politike i odlazi u stanovanje",
-      "url" : "https://kurier.at/wirtschaft/drozda-steigt-aus-politik-aus-und-geht-in-den-wohnbauj/401179450"
-    }, {
-      "id" : "yVb6myHm",
-      "imgUrl" : "https://image.kurier.at/images/original/4153506/3in1_drucker.jpg",
-      "titleSource" : "Dramatischer Engpass bei Druckern und Notebooks",
-      "titleTarget" : "Dramatično usko grlo za pisače i prijenosnike",
-      "url" : "https://kurier.at/wirtschaft/dramatischer-engpass-bei-druckern-und-notebooks/401178805"
+      "id" : "Mepywyay",
+      "imgUrl" : "https://image.kurier.at/images/original/4918852/46-173566881.jpg",
+      "titleSource" : "Kostenersatz für innerbetriebliche Tests ab 15. Februar",
+      "titleTarget" : "Naknada troškova za interne testove od 15. veljače",
+      "url" : "https://kurier.at/wirtschaft/kostenersatz-fuer-innerbetriebliche-tests-ab-15-februar/401179183"
     }, {
       "id" : "eH1AxIlc",
       "imgUrl" : "https://image.kurier.at/images/original/4918903/46-175068679.jpg",
@@ -71,11 +59,11 @@
       "titleTarget" : "Commerzialbank: Osiguranje depozita tužilo je Republiku za 490 milijuna",
       "url" : "https://kurier.at/wirtschaft/commerzialbank-einlagensicherung-klagte-republik-auf-490-millionen/401179195"
     }, {
-      "id" : "gl0bJv95",
-      "imgUrl" : "https://image.kurier.at/images/original/2504444/46-103906364-istock-546428038_620x340.jpg",
-      "titleSource" : "Österreicher im Coronajahr sparsam",
-      "titleTarget" : "Austrijanci štedljivi u koronskoj godini",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-im-coronajahr-sparsam/401178991"
+      "id" : "GwATvJEF",
+      "imgUrl" : "https://image.kurier.at/images/original/4919905/46-173717463.jpg",
+      "titleSource" : "Fahrradzusteller: Gewerkschaft vida über Mjam-Chef empört",
+      "titleTarget" : "Dostava bicikla: Sindikat Vida ogorčen šefom Mjam",
+      "url" : "https://kurier.at/wirtschaft/fahrradzusteller-gewerkschaft-vida-ueber-mjam-chef-empoert/401179642"
     }, {
       "id" : "4y2QrhHU",
       "imgUrl" : "https://image.kurier.at/images/original/4918684/46-175100574.jpg",
@@ -88,6 +76,12 @@
       "titleSource" : "Robinhood hebt Handelsbeschränkungen für Aktien auf",
       "titleTarget" : "Robinhood ukida ograničenja trgovanja dionicama",
       "url" : "https://kurier.at/wirtschaft/robinhood-hebt-handelsbeschraenkungen-fuer-aktien-auf/401179027"
+    }, {
+      "id" : "XH0jscdq",
+      "imgUrl" : "https://image.kurier.at/images/original/4571876/81650355555923556_BLD_Online.jpg",
+      "titleSource" : "E.ON verkauft sein Strom- und Gasgeschäft in Belgien",
+      "titleTarget" : "E.ON prodaje svoje poslovanje s električnom energijom i plinom u Belgiji",
+      "url" : "https://kurier.at/wirtschaft/eon-verkauft-sein-strom-und-gasgeschaeft-in-belgien/401180023"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,11 +92,11 @@
       "titleTarget" : "Salzburški liječnici ne žele se cijepiti Astrom Zenecom",
       "url" : "https://kurier.at/chronik/oesterreich/salzburger-aerzte-wollen-sich-nicht-mit-astra-zeneca-impfen-lassen/401179240"
     }, {
-      "id" : "ABtHwPm3",
-      "imgUrl" : "https://image.kurier.at/images/original/3372493/78350011447742480_BLD_Online.jpg",
-      "titleSource" : "AK-Chef fordert: Impfstoff nur noch für Tirol, falls es isoliert wird",
-      "titleTarget" : "Šef AK-a zahtijeva: Cjepivo samo za Tirol ako je izolirano",
-      "url" : "https://kurier.at/chronik/oesterreich/zangerl-fordert-impfstoff-nur-noch-fuer-tirol-falls-es-isoliert-wird/401179423"
+      "id" : "aXZzpoVl",
+      "imgUrl" : "https://image.kurier.at/images/original/4920145/46-82417242.jpg",
+      "titleSource" : "Virologe: \"Mehr als drei Wochen werden's nicht sein\" bis zum nächsten Lockdown",
+      "titleTarget" : "Virolog: \"Neće proći više od tri tjedna\" do sljedećeg zaključavanja",
+      "url" : "https://kurier.at/chronik/oesterreich/virologe-mehr-als-drei-wochen-wirds-nicht-sein-bis-zum-naechsten-lockdown/401179786"
     }, {
       "id" : "YIHVUS4g",
       "imgUrl" : "https://image.kurier.at/images/original/4194269/20200313-ABD0076-1-1.jpg",
@@ -110,56 +104,56 @@
       "titleTarget" : "Pravilo od 20 četvornih metara odnosi se i na supermarkete",
       "url" : "https://kurier.at/chronik/oesterreich/20-quadratmeter-regel-gilt-auch-fuer-supermaerkte/401179843"
     }, {
-      "id" : "zzUpcC5W",
-      "imgUrl" : "https://image.kurier.at/images/original/4919854/46-175099427.jpg",
-      "titleSource" : "Virusmutationen: Bisher 600 Verdachtsfälle in Tirol",
-      "titleTarget" : "Mutacije virusa: Do sada je 600 sumnjivih slučajeva u Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/virusmutationen-bisher-600-verdachtsfaelle-in-tirol/401179621"
-    }, {
       "id" : "A4Fgs6q0",
       "imgUrl" : "https://image.kurier.at/images/original/4920004/46-175254824.jpg",
       "titleSource" : "Asyl- und Corona-Demos am Wochenende in Österreich",
       "titleTarget" : "Demonstracije azila i krune za vikend u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/asyl-und-corona-demos-am-wochenende-in-oesterreich/401179672"
     }, {
+      "id" : "ABtHwPm3",
+      "imgUrl" : "https://image.kurier.at/images/original/3372493/78350011447742480_BLD_Online.jpg",
+      "titleSource" : "AK-Chef fordert: Impfstoff nur noch für Tirol, falls es isoliert wird",
+      "titleTarget" : "Šef AK-a zahtijeva: Cjepivo samo za Tirol ako je izolirano",
+      "url" : "https://kurier.at/chronik/oesterreich/zangerl-fordert-impfstoff-nur-noch-fuer-tirol-falls-es-isoliert-wird/401179423"
+    }, {
+      "id" : "zzUpcC5W",
+      "imgUrl" : "https://image.kurier.at/images/original/4919854/46-175099427.jpg",
+      "titleSource" : "Virusmutationen: Bisher 600 Verdachtsfälle in Tirol",
+      "titleTarget" : "Mutacije virusa: Do sada je 600 sumnjivih slučajeva u Tirolu",
+      "url" : "https://kurier.at/chronik/oesterreich/virusmutationen-bisher-600-verdachtsfaelle-in-tirol/401179621"
+    }, {
       "id" : "jXTkAVdL",
       "imgUrl" : "https://image.kurier.at/images/original/4917379/20210204-ABD0074-1-1.jpg",
       "titleSource" : "Anschober kündigt \"Aktionsplan für Tirol\" an",
       "titleTarget" : "Anschober najavio \"Akcijski plan za Tirol\"",
       "url" : "https://kurier.at/chronik/oesterreich/anschober-kuendigt-aktionsplan-fuer-tirol-an/401179405"
-    }, {
-      "id" : "9CsRLMdg",
-      "imgUrl" : "https://image.kurier.at/images/original/4812405/46-168228611.jpg",
-      "titleSource" : "Corona-Ampel: Wien auf orange geschaltet",
-      "titleTarget" : "Koronski semafor: Beč je prebačen na narančasto",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-ampel-wien-auf-orange-geschaltet/401178850"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "wsjirxvJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4920691/46-148913986.jpg",
+      "titleSource" : "Oscar-Preisträger Christopher Plummer mit 91 Jahren verstorben",
+      "titleTarget" : "Oskarovac Christopher Plummer umro je u 91. godini",
+      "url" : "https://kurier.at/kultur/oscar-preistraeger-christopher-plummer-mit-91-jahren-verstorben/401180038"
+    }, {
       "id" : "JsoGODwq",
       "imgUrl" : "https://image.kurier.at/images/original/4917604/46-174290375.jpg",
       "titleSource" : "Erdbeben trifft Kunst: „Wir sind kollektiv sehr nervös“",
       "titleTarget" : "Potres u susretu s umjetnošću: \"Mi smo kolektivno vrlo nervozni\"",
       "url" : "https://kurier.at/kultur/erdbeben-trifft-kunst-wir-sind-kollektiv-sehr-nervoes/401178502"
     }, {
-      "id" : "gNq3CpQV",
-      "imgUrl" : "https://image.kurier.at/images/original/4918498/46-143525576.jpg",
-      "titleSource" : "Coming-out im \"SZ Magazin\": Manifest von 185 Schauspielstars",
-      "titleTarget" : "Izlazak u \"SZ Magazin\": Manifest 185 glumaca",
-      "url" : "https://kurier.at/kultur/coming-out-im-sz-magazin-manifest-von-185-schauspielstars/401178910"
+      "id" : "8fO9RTJw",
+      "imgUrl" : "https://image.kurier.at/images/original/4918450/46-87801515.jpg",
+      "titleSource" : "Neues von Murakami: Ein Kreis mit vielen Mittelpunkten",
+      "titleTarget" : "Vijesti iz Murakamija: Krug s mnogim središtima",
+      "url" : "https://kurier.at/kultur/buch/neues-von-murakami-ein-kreis-mit-vielen-mittelpunkten/401178868"
     }, {
       "id" : "hTDMqbPx",
       "imgUrl" : "https://image.kurier.at/images/original/4918117/46-175436657.jpg",
       "titleSource" : "Foo Fighters: Party-Album zum verschobenen Jubiläum",
       "titleTarget" : "Foo Fighters: Zabavni album za odgođenu obljetnicu",
       "url" : "https://kurier.at/kultur/foo-fighters-party-album-zum-verschoben-jubilaeum/401178733"
-    }, {
-      "id" : "8fO9RTJw",
-      "imgUrl" : "https://image.kurier.at/images/original/4918450/46-87801515.jpg",
-      "titleSource" : "Neues von Murakami: Ein Kreis mit vielen Mittelpunkten",
-      "titleTarget" : "Vijesti iz Murakamija: Krug s mnogim središtima",
-      "url" : "https://kurier.at/kultur/buch/neues-von-murakami-ein-kreis-mit-vielen-mittelpunkten/401178868"
     }, {
       "id" : "jvc8sRgx",
       "imgUrl" : "https://image.kurier.at/images/original/4918732/46-150434468.jpg",
@@ -218,11 +212,11 @@
       "titleTarget" : "Beč: Novi terapijski pristup testiran na visokoj razini kolesterola",
       "url" : "https://kurier.at/wissen/gesundheit/wien-neuer-therapieansatz-gegen-hohe-cholesterinwerte-getestet/401179174"
     }, {
-      "id" : "RjcvtAcE",
-      "imgUrl" : "https://image.kurier.at/images/original/4920040/46-175479170.jpg",
-      "titleSource" : "Wien startet psychiatrische Betreuung von Kindern auch daheim",
-      "titleTarget" : "Beč također započinje psihijatrijsku skrb za djecu kod kuće",
-      "url" : "https://kurier.at/wissen/gesundheit/wien-startet-psychiatrische-betreuung-von-kindern-auch-daheim/401179690"
+      "id" : "reCFOpux",
+      "imgUrl" : "https://image.kurier.at/images/original/4919662/46-175453734.jpg",
+      "titleSource" : "Impfung: Pfizer zog Bewerbung für Notzulassung in Indien zurück",
+      "titleTarget" : "Cijepljenje: Pfizer je povukao zahtjev za odobrenje u hitnim slučajevima u Indiji",
+      "url" : "https://kurier.at/wissen/gesundheit/impfung-pfizer-zog-bewerbung-fuer-notzulassung-in-indien-zurueck/401179501"
     } ]
   }, {
     "category" : "SPORT",
@@ -239,35 +233,35 @@
       "titleTarget" : "Tenis: oplakivanje preminule američke legende",
       "url" : "https://kurier.at/sport/tennis/tennis-trauer-um-verstorbene-us-legende/401178961"
     }, {
-      "id" : "B9b4BZ0g",
-      "imgUrl" : "https://image.kurier.at/images/original/4920412/46-175469042.jpg",
-      "titleSource" : "Tennis-Rüpel Kyrgios rastet aus: Schläger aus Stadion geschleudert",
-      "titleTarget" : "Teniski nasilnik Kyrgios poludi: reket izbačen sa stadiona",
-      "url" : "https://kurier.at/sport/tennis/schlaeger-aus-stadion-geschleudert-tennis-ruepel-nick-kyrgios-rastet-aus/401179864"
+      "id" : "0gZnBOH7",
+      "imgUrl" : "https://image.kurier.at/images/original/4921042/46-175488175.jpg",
+      "titleSource" : "2:0-Sieg gegen Florenz: Inter vorübergehend an Tabellenspitze",
+      "titleTarget" : "Pobjeda protiv Firenze 2: 0: Inter privremeno na vrhu tablice",
+      "url" : "https://kurier.at/sport/fussball/20-sieg-gegen-florenz-inter-mailand-voruebergehend-an-tabellenspitze-der-serie-a/401180134"
     }, {
-      "id" : "dZ4rsNry",
-      "imgUrl" : "https://image.kurier.at/images/original/4920208/46-175474178.jpg",
-      "titleSource" : "Marita Kramer springt auch in Hinzenbach ins Spitzenfeld",
-      "titleTarget" : "Marita Kramer također uskače u gornji teren u Hinzenbachu",
-      "url" : "https://kurier.at/sport/wintersport/marita-kramer-springt-auch-in-hinzenbach-ins-spitzenfeld/401179789"
+      "id" : "xxvkjz6X",
+      "imgUrl" : "https://image.kurier.at/images/original/4921039/46-175488099.jpg",
+      "titleSource" : "Mit Mühe ins Cup-Semifinale: Sturm bezwingt Viertligist Vienna",
+      "titleTarget" : "S poteškoćama u polufinalu kupa: Sturm je pobijedio četvrtoligaša iz Beča",
+      "url" : "https://kurier.at/sport/fussball/mit-muehe-ins-cup-semifinale-bundesligist-sturm-graz-bezwingt-viertligist-vienna/401180128"
     }, {
-      "id" : "AEqiVlK5",
-      "imgUrl" : "https://image.kurier.at/images/original/4849065/46-173834443.jpg",
-      "titleSource" : "Formel 1: Hamilton und Mercedes sollen sich geeinigt haben",
-      "titleTarget" : "Formula 1: Hamilton i Mercedes navodno su se složili",
-      "url" : "https://kurier.at/sport/motorsport/formel-1-lewis-hamilton-und-mercedes-sollen-sich-geeinigt-haben/401179732"
+      "id" : "KCLExxnt",
+      "imgUrl" : "https://image.kurier.at/images/original/4921021/46-174272454.jpg",
+      "titleSource" : "Bayern-Boss stellt klar: Kein Abschiedsspiel für David Alaba",
+      "titleTarget" : "Šef Bayerna jasno kaže: Nema oproštajne utakmice za Davida Alabu",
+      "url" : "https://kurier.at/sport/fussball/beim-abgang-von-bayern-muenchen-kein-abschiedsspiel-fuer-oefb-star-david-alaba/401180116"
     }, {
-      "id" : "JwFxqJrp",
-      "imgUrl" : "https://image.kurier.at/images/original/4920031/46-166956407.jpg",
-      "titleSource" : "Vertrag verlängert: Zinsberger bleibt in London bei Arsenal",
-      "titleTarget" : "Produženi ugovor: Zinsberger ostaje s Arsenalom u Londonu",
-      "url" : "https://kurier.at/sport/fussball/vertrag-verlaengert-zinsberger-bleibt-in-london-bei-arsenal/401179699"
+      "id" : "Yb4VL1Ym",
+      "imgUrl" : "https://image.kurier.at/images/original/4920982/46-175485746.jpg",
+      "titleSource" : "Nach 0:2-Rückstand: KAC feiert Auswärtssieg bei den Capitals",
+      "titleTarget" : "Nakon zaostatka 0-2: KAC slavi pobjedu u gostima kod Capitalsa",
+      "url" : "https://kurier.at/sport/wintersport/nach-02-rueckstand-kac-feiert-in-der-ice-hockey-league-auswaertssieg-bei-den-vienna-capitals/401180104"
     }, {
-      "id" : "lol9EvBC",
-      "imgUrl" : "https://image.kurier.at/images/original/4919665/46-175456509.jpg",
-      "titleSource" : "Matthias Mayer rast in Garmisch auf das Podest",
-      "titleTarget" : "Matthias Mayer utrkuje se na postolju u Garmischu",
-      "url" : "https://kurier.at/sport/wintersport/matthias-mayer-rast-in-garmisch-auf-das-podest/401179516"
+      "id" : "IEJPRhZ8",
+      "imgUrl" : "https://image.kurier.at/images/original/4921015/46-175485359.jpg",
+      "titleSource" : "Vor Klub-WM: Bayern holt gegen Hertha fünften Liga-Sieg in Folge",
+      "titleTarget" : "Prije klupskog svjetskog kupa: Bayern je odnio petu pobjedu zaredom protiv Herthe",
+      "url" : "https://kurier.at/sport/fussball/vor-klub-wm-bayern-muenchen-holt-gegen-hertha-bsc-berlin-fuenften-bundesliga-sieg-in-folge/401180107"
     } ]
   } ],
   "country" : "austria",
