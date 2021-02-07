@@ -14,6 +14,12 @@
       "titleTarget" : "Kada će opet biti zaključano: Anschober se izražava",
       "url" : "https://kurier.at/politik/inland/wann-wieder-zugesperrt-wird-anschober-aeussert-sich/401180458"
     }, {
+      "id" : "uZN79SJM",
+      "imgUrl" : "https://image.kurier.at/images/original/4921396/46-175473754.jpg",
+      "titleSource" : "Anschober kündigt schärfere Zweitwohnsitz-Kontrollen an",
+      "titleTarget" : "Anschober najavljuje strože kontrole drugog doma",
+      "url" : "https://kurier.at/politik/inland/anschober-kuendigt-schaerfere-zweitwohnsitz-kontrollen-an/401180335"
+    }, {
       "id" : "6s8Mnri7",
       "imgUrl" : "https://image.kurier.at/images/original/4921837/46-175493625.jpg",
       "titleSource" : "Großbritannien hängt EU beim Impfen ab: Ende Mai fast alle geimpft ",
@@ -25,12 +31,6 @@
       "titleSource" : "Edtstadler: EU-Impfpass könnte im Sommer kommen",
       "titleTarget" : "Edtstadler: Potvrda o cijepljenju EU mogla bi stići na ljeto",
       "url" : "https://kurier.at/politik/inland/edtstadler-eu-impfpass-koennte-im-sommer-kommen/401180236"
-    }, {
-      "id" : "uZN79SJM",
-      "imgUrl" : "https://image.kurier.at/images/original/4921396/46-175473754.jpg",
-      "titleSource" : "Anschober kündigt schärfere Zweitwohnsitz-Kontrollen an",
-      "titleTarget" : "Anschober najavljuje strože kontrole drugog doma",
-      "url" : "https://kurier.at/politik/inland/anschober-kuendigt-schaerfere-zweitwohnsitz-kontrollen-an/401180335"
     }, {
       "id" : "DQ3UNM80",
       "imgUrl" : "https://image.kurier.at/images/original/4921414/46-175091561.jpg",
@@ -47,17 +47,17 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "5nkTfJVC",
-      "imgUrl" : "https://image.kurier.at/images/original/4918789/46-175434283.jpg",
-      "titleSource" : "Wie sich Wien ohne Pendler entwickeln würde",
-      "titleTarget" : "Kako bi se Beč razvijao bez putnika",
-      "url" : "https://kurier.at/wirtschaft/karriere/wie-sich-wien-ohne-pendler-entwickeln-wuerde/401179144"
-    }, {
       "id" : "As5ZmHrQ",
       "imgUrl" : "https://image.kurier.at/images/original/4921360/46-150739091.jpg",
       "titleSource" : "Ausfall des Karnevals in Deutschland kostet 1,5 Milliarden Euro",
       "titleTarget" : "Otkazivanje karnevala u Njemačkoj košta 1,5 milijardi eura",
       "url" : "https://kurier.at/wirtschaft/ausfall-des-karnevals-in-deutschland-kostet-15-milliarden-euro/401180314"
+    }, {
+      "id" : "5nkTfJVC",
+      "imgUrl" : "https://image.kurier.at/images/original/4918789/46-175434283.jpg",
+      "titleSource" : "Wie sich Wien ohne Pendler entwickeln würde",
+      "titleTarget" : "Kako bi se Beč razvijao bez putnika",
+      "url" : "https://kurier.at/wirtschaft/karriere/wie-sich-wien-ohne-pendler-entwickeln-wuerde/401179144"
     }, {
       "id" : "bs8mN4pf",
       "imgUrl" : "https://image.kurier.at/images/original/4921750/46-173714520.jpg",
@@ -98,23 +98,23 @@
       "titleTarget" : "1.333 nove zaraze u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1333-neuinfektionen-in-oesterreich/401180296"
     }, {
+      "id" : "tByve5hC",
+      "imgUrl" : "https://image.kurier.at/images/original/4834188/46-173649090.jpg",
+      "titleSource" : "Maskenverweigerer \"zuckte\" in Grazer Bus völlig aus",
+      "titleTarget" : "Odbijači maski potpuno su se \"trznuli\" u autobusu u Grazu",
+      "url" : "https://kurier.at/chronik/oesterreich/maskenverweigerer-zuckte-in-grazer-bus-voellig-aus/401180704"
+    }, {
       "id" : "y26YNfcv",
       "imgUrl" : "https://image.kurier.at/images/original/4919911/20210205-ABD0116-1-1.jpg",
       "titleSource" : "7-Tages-Inzidenz in Österreich: Das sind die Bezirke die am stärksten betroffen sind",
       "titleTarget" : "Sedmodnevna incidencija u Austriji: Ovo su okruzi koji su najviše pogođeni",
       "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-in-oesterreich-das-sind-die-bezirke-die-am-staerksten-betroffen-sind/401180035"
     }, {
-      "id" : "OuqDStzt",
-      "imgUrl" : "https://image.kurier.at/images/original/4921564/46-175494622.jpg",
-      "titleSource" : "1.333 Neuinfektionen; erste Lieferung von Astra Zeneca in Österreich angekommen",
-      "titleTarget" : "1.333 nove infekcije; prva dostava iz Astre Zenece stigla je u Austriju",
-      "url" : "https://kurier.at/chronik/oesterreich/serbien-impft-am-schnellsten-in-kontinentaleuropa-griechenland-verschaerft-massnahmen/401180185"
-    }, {
-      "id" : "KBwjo02W",
-      "imgUrl" : "https://image.kurier.at/images/original/4920550/46-168220856.jpg",
-      "titleSource" : "Commerzialbank: Klagen gegen Republik rollen an",
-      "titleTarget" : "Commerzialbank: U tijeku su tužbe protiv Republike",
-      "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-klagen-gegen-republik-rollen-an/401179954"
+      "id" : "Nx4YDKBE",
+      "imgUrl" : "https://image.kurier.at/images/original/4921702/46-175494568.jpg",
+      "titleSource" : "Machtmissbrauch? Schwere Vorwürfe beim Bundesheer",
+      "titleTarget" : "Zlouporaba moći? Ozbiljni navodi s oružanim snagama",
+      "url" : "https://kurier.at/chronik/oesterreich/machtmissbrauch-schwere-vorwuerfe-beim-bundesheer/401180644"
     }, {
       "id" : "c2kZCcqB",
       "imgUrl" : "https://image.kurier.at/images/original/4921489/46-175493266.jpg",
@@ -122,26 +122,21 @@
       "titleTarget" : "Austrijanci su poginuli u nesreći s malim zrakoplovom u vjetroelektrani",
       "url" : "https://kurier.at/chronik/oesterreich/oesterreicher-starb-bei-absturz-mit-kleinflugzeug-in-windpark/401180422"
     }, {
-      "id" : "GOdVDuDM",
-      "imgUrl" : "https://image.kurier.at/images/original/4752735/78350011457449424_BLD_Online.jpg",
-      "titleSource" : "Kinder spielten in Poolrohbau - Bub von Ziegel getroffen",
-      "titleTarget" : "Djeca su se igrala u ljusci bazena - dječak pogođen ciglom",
-      "url" : "https://kurier.at/chronik/oesterreich/kinder-spielten-in-poolrohbau-bub-von-ziegel-getroffen/401180224"
+      "id" : "u2CxVPQs",
+      "imgUrl" : "https://image.kurier.at/images/original/4921393/46-175432144.jpg",
+      "titleSource" : "165 betätigte Südafrika-Fälle in Tirol, nur noch acht positiv",
+      "titleTarget" : "165 je potvrdilo slučajeve Južne Afrike u Tirolu, samo osam pozitivnih",
+      "url" : "https://kurier.at/chronik/oesterreich/165-betaetigte-suedafrika-faelle-in-tirol-nur-noch-acht-positiv/401180689"
     }, {
-      "id" : "7Nm2Bzqr",
-      "titleSource" : "Warum der Konflikt um Salzburgs Frauenhäuser wieder auflebt",
-      "titleTarget" : "Zašto sukob oko ženskih skloništa u Salzburgu oživljava",
-      "url" : "https://kurier.at/chronik/oesterreich/warum-der-konflikt-um-salzburgs-frauenhaeuser-wieder-auflebt/401179969"
+      "id" : "OuqDStzt",
+      "imgUrl" : "https://image.kurier.at/images/original/4921564/46-175494622.jpg",
+      "titleSource" : "1.333 Neuinfektionen; 165 bestätigte Fälle von Südafrika-Mutation in Tirol",
+      "titleTarget" : "1.333 nove infekcije; prva dostava iz Astre Zenece stigla je u Austriju",
+      "url" : "https://kurier.at/chronik/oesterreich/serbien-impft-am-schnellsten-in-kontinentaleuropa-griechenland-verschaerft-massnahmen/401180185"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "wsjirxvJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4920691/46-148913986.jpg",
-      "titleSource" : "Oscar-Preisträger Christopher Plummer mit 91 Jahren verstorben",
-      "titleTarget" : "Oskarovac Christopher Plummer umro je u 91. godini",
-      "url" : "https://kurier.at/kultur/oscar-preistraeger-christopher-plummer-mit-91-jahren-verstorben/401180038"
-    }, {
       "id" : "hwcXzcIY",
       "imgUrl" : "https://image.kurier.at/images/original/4110141/46-154050959.jpg",
       "titleSource" : "\"Animal Farm\" neu: Zwischen wonnetrunken und begeistert",
@@ -202,23 +197,23 @@
       "titleTarget" : "Bayern s kaosom putuje na Svjetsko klupsko prvenstvo: \"Osjećamo se totalno otrgnuto\"",
       "url" : "https://kurier.at/sport/fussball/bayern-muenchen-mit-chaos-anreise-zur-klub-wm-in-katar-fuehlen-uns-total-verarscht/401180242"
     }, {
-      "id" : "WYsoxvkP",
-      "imgUrl" : "https://image.kurier.at/images/original/4922395/46-175500179.jpg",
-      "titleSource" : "Cup-Schlager live: So steht es bei Salzburg gegen Austria",
-      "titleTarget" : "Pogoci u kupu uživo: Ovako je u Salzburgu protiv Austrije",
-      "url" : "https://kurier.at/sport/fussball/oefb-cup-viertelfinale-live-so-steht-es-bei-red-bull-salzburg-gegen-austria-wien/401180308"
+      "id" : "xRoRnvrR",
+      "imgUrl" : "https://image.kurier.at/images/original/4922572/46-175503287.jpg",
+      "titleSource" : "Fußball: Everton verpatzte Manchester United den Gedenktag",
+      "titleTarget" : "Nogomet: Everton je zbrkao memorijalni dan Manchester Uniteda",
+      "url" : "https://kurier.at/sport/fussball/fussball-everton-verpatzte-manchester-united-den-gedenktag/401180713"
     }, {
-      "id" : "kcUTjKpo",
-      "imgUrl" : "https://image.kurier.at/images/original/4921990/46-175482725.jpg",
-      "titleSource" : "Klingenthal: Granerud holt neunten Saisonsieg, Debakel für ÖSV",
-      "titleTarget" : "Klingenthal: Granerud je osvojio devetu pobjedu u sezoni, debakl za ÖSV",
-      "url" : "https://kurier.at/sport/wintersport/klingenthal-granerud-holt-neunten-saisonsieg-debakel-fuer-die-oesv-adler/401180581"
+      "id" : "9UN6iSIK",
+      "imgUrl" : "https://image.kurier.at/images/original/4922434/46-175500348.jpg",
+      "titleSource" : "Heimsieg gegen die Austria: Salzburg setzt die Cup-Serie fort",
+      "titleTarget" : "Domaća pobjeda protiv Austrije: Salzburg nastavlja seriju kupa",
+      "url" : "https://kurier.at/sport/fussball/heimsieg-gegen-die-wiener-austria-red-bull-salzburg-zum-zehnten-mal-im-oefb-cup-halbfinale/401180308"
     }, {
-      "id" : "NsNwvW05",
-      "imgUrl" : "https://image.kurier.at/images/original/4921984/46-175238145.jpg",
-      "titleSource" : "Rodeln: Gleirscher gewann Finale, Kristall für Steu/Koller",
-      "titleTarget" : "Sanjkanje: Gleirscher je pobijedio u finalu, Kristall za Steu / Koller",
-      "url" : "https://kurier.at/sport/wintersport/rodeln-gleirscher-gewann-finale-kristall-fuer-steukoller/401180572"
+      "id" : "h9T6eVOA",
+      "imgUrl" : "https://image.kurier.at/images/original/4922458/46-175500874.jpg",
+      "titleSource" : "Nach Zidanes Wutrede: Real Madrid gewann bei Huesca 2:1",
+      "titleTarget" : "Nakon Zidaneova ljutitog govora: Real Madrid je pobijedio 2-1 na Huesci",
+      "url" : "https://kurier.at/sport/fussball/nach-zinedine-zidanes-wutrede-real-madrid-gewann-bei-huesca-21/401180668"
     } ]
   } ],
   "country" : "austria",
