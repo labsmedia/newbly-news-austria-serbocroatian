@@ -2,35 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "gCO8bq5i",
+      "imgUrl" : "https://image.kurier.at/images/original/4513379/46-164469343.jpg",
+      "titleSource" : "\"Maulkorb-Erlass\" für österreichische Soldaten",
+      "titleTarget" : "\"Uredba o brnjici\" za austrijske vojnike",
+      "url" : "https://kurier.at/politik/inland/maulkorb-erlass-fuer-oesterreichische-soldaten/401180809"
+    }, {
       "id" : "MvyAupCS",
       "imgUrl" : "https://image.kurier.at/images/original/4920457/46-175315865.jpg",
       "titleSource" : "Kurz will Sputnik V in Österreich produzieren lassen",
       "titleTarget" : "Ukratko, Sputnik V želi imati proizvodnju u Austriji",
       "url" : "https://kurier.at/politik/inland/kurz-will-sputnik-v-in-oesterreich-produzieren-lassen/401180758"
-    }, {
-      "id" : "VlTnkJKj",
-      "imgUrl" : "https://image.kurier.at/images/original/4921522/46-175455269.jpg",
-      "titleSource" : "Wann wieder zugesperrt wird: Anschober äußert sich",
-      "titleTarget" : "Kada će opet biti zaključano: Anschober se izražava",
-      "url" : "https://kurier.at/politik/inland/wann-wieder-zugesperrt-wird-anschober-aeussert-sich/401180458"
-    }, {
-      "id" : "6s8Mnri7",
-      "imgUrl" : "https://image.kurier.at/images/original/4921837/46-175493625.jpg",
-      "titleSource" : "Großbritannien hängt EU beim Impfen ab: Ende Mai fast alle geimpft ",
-      "titleTarget" : "Velika Britanija ovisi o EU o cijepljenju: krajem svibnja gotovo sva cijepljena",
-      "url" : "https://kurier.at/politik/inland/grossbritannien-haengt-eu-beim-impfen-ab-ende-mai-fast-alle-geimpft/401180533"
-    }, {
-      "id" : "5PvQl9BP",
-      "imgUrl" : "https://image.kurier.at/images/original/4921252/46-174213581.jpg",
-      "titleSource" : "Edtstadler: EU-Impfpass könnte im Sommer kommen",
-      "titleTarget" : "Edtstadler: Potvrda o cijepljenju EU mogla bi stići na ljeto",
-      "url" : "https://kurier.at/politik/inland/edtstadler-eu-impfpass-koennte-im-sommer-kommen/401180236"
-    }, {
-      "id" : "DQ3UNM80",
-      "imgUrl" : "https://image.kurier.at/images/original/4921414/46-175091561.jpg",
-      "titleSource" : "Corona: FPÖ fordert Volksabstimmung über Lockdown",
-      "titleTarget" : "Corona: FPÖ poziva na referendum o zaključavanju",
-      "url" : "https://kurier.at/politik/inland/corona-fpoe-fordert-volksabstimmung-ueber-lockdown/401180359"
     }, {
       "id" : "mjzbyJjG",
       "imgUrl" : "https://image.kurier.at/images/original/4851207/46-164380237.jpg",
@@ -38,11 +20,29 @@
       "titleTarget" : "Corona brzo vlada: Što vrijedi od ponedjeljka",
       "url" : "https://kurier.at/politik/inland/corona-regeln-im-ueberblick-was-ab-montag-gilt/401180635"
     }, {
-      "id" : "G2UG8XCI",
-      "imgUrl" : "https://image.kurier.at/images/original/4921570/46-175463948.jpg",
-      "titleSource" : "Corona: Forderung nach besserem Testangebot für Kindergärten",
-      "titleTarget" : "Corona: Potražnja za boljim ponudama za vrtiće",
-      "url" : "https://kurier.at/politik/inland/corona-forderung-nach-besserem-testangebot-fuer-kindergaerten/401180452"
+      "id" : "hAIDUqlM",
+      "imgUrl" : "https://image.kurier.at/images/original/4831116/20201218-ABD0329-1-1.jpg",
+      "titleSource" : "Österreich verschärft Grenzkontrollen zu allen Nachbarn",
+      "titleTarget" : "Austrija je pooštrila graničnu kontrolu sa svim susjedima",
+      "url" : "https://kurier.at/politik/inland/oesterreich-verschaerft-grenzkontrollen-zu-allen-nachbarn/401181070"
+    }, {
+      "id" : "TgM2OQeK",
+      "imgUrl" : "https://image.kurier.at/images/original/4923088/46-175323307.jpg",
+      "titleSource" : "Faßmann zu Schulöffnung: \"Chaos zu Beginn jeder Neuordnung\"",
+      "titleTarget" : "Faßmann o otvaranju škole: \"Kaos na početku svake nove narudžbe\"",
+      "url" : "https://kurier.at/politik/inland/fassmann-zu-schuloeffnung-chaos-zu-beginn-jeder-neuordnung/401180842"
+    }, {
+      "id" : "YecLLkaF",
+      "imgUrl" : "https://image.kurier.at/images/original/4923373/46-174036224.jpg",
+      "titleSource" : "Sobotka findet Maskenverweigerer im Parlament \"frivol\"",
+      "titleTarget" : "Sobotka smatra da su odbacivači maski u parlamentu \"neozbiljni\"",
+      "url" : "https://kurier.at/politik/inland/sobotka-findet-maskenverweigerer-im-parlament-frivol/401180962"
+    }, {
+      "id" : "wY3agEbH",
+      "imgUrl" : "https://image.kurier.at/images/original/4923109/46-159856241.jpg",
+      "titleSource" : "Umfrage: Staatsbürgerschaft bei Geburt in Österreich?",
+      "titleTarget" : "Anketa: državljanstvo pri rođenju u Austriji?",
+      "url" : "https://kurier.at/politik/inland/umfrage-staatsbuergerschaft-bei-geburt-in-oesterreich/401180851"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,17 +53,23 @@
       "titleTarget" : "Uradi sam u velikom gradu: otvaranje trgovine u Beču",
       "url" : "https://kurier.at/wirtschaft/immobiz/diy-in-der-grossstadt-shoperoeffnung-in-wien/401179312"
     }, {
-      "id" : "bs8mN4pf",
-      "imgUrl" : "https://image.kurier.at/images/original/4921750/46-173714520.jpg",
-      "titleSource" : "Notvergabe endet: ÖBB und Westbahn reduzieren Strecke Wien-Salzburg",
-      "titleTarget" : "Hitna dodjela završava: ÖBB i Westbahn smanjuju rutu Beč-Salzburg",
-      "url" : "https://kurier.at/wirtschaft/notvergabe-endet-oebb-und-westbahn-reduzieren-strecke-wien-salzburg/401180521"
+      "id" : "I0lQSPba",
+      "imgUrl" : "https://image.kurier.at/images/original/4923211/46-175470960.jpg",
+      "titleSource" : "Wirecard: Neue Details zum Wiener Beraterauftrag",
+      "titleTarget" : "Wirecard: Novi detalji o bečkom savjetničkom zadatku",
+      "url" : "https://kurier.at/wirtschaft/neue-details-zum-wiener-beraterauftrag-bei-wirecard/401180917"
     }, {
-      "id" : "GlWzO2U4",
-      "imgUrl" : "https://image.kurier.at/images/original/4921465/46-174140687.jpg",
-      "titleSource" : "Corona: Keine FFP2-Maskenpflicht am Bau",
-      "titleTarget" : "Corona: Za izgradnju nije potreban FFP2 maska",
-      "url" : "https://kurier.at/wirtschaft/corona-keine-ffp2-maskenpflicht-am-bau/401180401"
+      "id" : "1lYVwBpY",
+      "imgUrl" : "https://image.kurier.at/images/original/4923406/46-163355078.jpg",
+      "titleSource" : "Geschlossene Gastronomie: Was mit dem gelagerten Bier passiert",
+      "titleTarget" : "Zatvorena gastronomija: Što se događa sa spremljenim pivom",
+      "url" : "https://kurier.at/wirtschaft/geschlossene-gastronomie-was-mit-dem-gelagerten-bier-passiert/401180977"
+    }, {
+      "id" : "PBL9KcYW",
+      "imgUrl" : "https://image.kurier.at/images/original/4923211/46-175470960.jpg",
+      "titleSource" : "Neue Details zum Wiener Beraterauftrag bei Wirecard",
+      "titleTarget" : "Novi detalji o bečkom ugovoru o konzultantskim uslugama s Wirecardom",
+      "url" : "https://kurier.at/wirtschaft/neue-details-zum-wiener-beraterauftrag-bei-wirecard/401180929"
     }, {
       "id" : "SKst5PQj",
       "imgUrl" : "https://image.kurier.at/images/original/4918972/46-90138893.jpg",
@@ -74,29 +80,23 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "tByve5hC",
-      "imgUrl" : "https://image.kurier.at/images/original/4834188/46-173649090.jpg",
-      "titleSource" : "Maskenverweigerer \"zuckte\" in Grazer Bus völlig aus",
-      "titleTarget" : "Odbijači maski potpuno su se \"trznuli\" u autobusu u Grazu",
-      "url" : "https://kurier.at/chronik/oesterreich/maskenverweigerer-zuckte-in-grazer-bus-voellig-aus/401180704"
-    }, {
       "id" : "f4W0DFU7",
       "imgUrl" : "https://image.kurier.at/images/original/4921846/46-174159923.jpg",
       "titleSource" : "Schnee von gestern: Wie Wiener Winter früher waren",
       "titleTarget" : "Jučerašnje vijesti: Kakve su nekad bile zime u Beču",
       "url" : "https://kurier.at/chronik/oesterreich/wiener-winter-wie-sie-frueher-einmal-waren-schnee-skifahren-skispringen-wien-schanze-eisstoss/401180647"
     }, {
-      "id" : "Nx4YDKBE",
-      "imgUrl" : "https://image.kurier.at/images/original/4921702/46-175494568.jpg",
-      "titleSource" : "Machtmissbrauch? Schwere Vorwürfe beim Bundesheer",
-      "titleTarget" : "Zlouporaba moći? Ozbiljni navodi s oružanim snagama",
-      "url" : "https://kurier.at/chronik/oesterreich/machtmissbrauch-schwere-vorwuerfe-beim-bundesheer/401180644"
+      "id" : "tByve5hC",
+      "imgUrl" : "https://image.kurier.at/images/original/4834188/46-173649090.jpg",
+      "titleSource" : "Maskenverweigerer \"zuckte\" in Grazer Bus völlig aus",
+      "titleTarget" : "Odbijači maski potpuno su se \"trznuli\" u autobusu u Grazu",
+      "url" : "https://kurier.at/chronik/oesterreich/maskenverweigerer-zuckte-in-grazer-bus-voellig-aus/401180704"
     }, {
-      "id" : "c2kZCcqB",
-      "imgUrl" : "https://image.kurier.at/images/original/4921489/46-175493266.jpg",
-      "titleSource" : "Österreicher starb bei Absturz mit Kleinflugzeug in Windpark",
-      "titleTarget" : "Austrijanci su poginuli u nesreći s malim zrakoplovom u vjetroelektrani",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreicher-starb-bei-absturz-mit-kleinflugzeug-in-windpark/401180422"
+      "id" : "k3uivU8i",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.317 Neuinfektionen in Österreich",
+      "titleTarget" : "1.317 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1317-neuinfektionen-in-oesterreich/401180818"
     }, {
       "id" : "u2CxVPQs",
       "imgUrl" : "https://image.kurier.at/images/original/4921393/46-175432144.jpg",
@@ -105,16 +105,22 @@
       "url" : "https://kurier.at/chronik/oesterreich/165-betaetigte-suedafrika-faelle-in-tirol-nur-noch-acht-positiv/401180689"
     }, {
       "id" : "nUDCtJZB",
-      "imgUrl" : "https://image.kurier.at/images/original/4923046/46-175102863.jpg",
-      "titleSource" : "Dauert noch: Studien für Impfstoff für Kinder laufen; Kurz will Sputnik V in Österreich produzieren lassen",
+      "imgUrl" : "https://image.kurier.at/images/original/4923217/46-175452691.jpg",
+      "titleSource" : "1.317 Neuinfektionen in Ö; Britischer Minister: Corona-Impfung künftig einmal pro Jahr",
       "titleTarget" : "I dalje traje: U tijeku su ispitivanja cjepiva za djecu; Ukratko, Sputnik V želi imati proizvodnju u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-astrazeneca-weniger-wirksam-kurz-will-sputnik-v-in-oesterreich-produzieren/401180749"
     }, {
-      "id" : "dgoz7ATS",
-      "imgUrl" : "https://image.kurier.at/images/original/4923010/46-175508986.jpg",
-      "titleSource" : "Junge Kärntner verirrten sich mit Rodeln im Bergwald",
-      "titleTarget" : "Mladi Korušani izgubili su se sanjkanjem u planinskoj šumi",
-      "url" : "https://kurier.at/chronik/oesterreich/junge-kaerntner-verirrten-sich-mit-rodeln-im-bergwald/401180776"
+      "id" : "zENXrb6L",
+      "imgUrl" : "https://image.kurier.at/images/original/4923469/46-174036194.jpg",
+      "titleSource" : "Großer Andrang bei Coronatests: Bundesheer stockt Personal auf",
+      "titleTarget" : "Velika navala na testovima na koronu: Savezna vojska povećava osoblje",
+      "url" : "https://kurier.at/chronik/oesterreich/grosser-andrang-bei-coronatests-bundesheer-stockt-personal-auf/401180998"
+    }, {
+      "id" : "atJXE06I",
+      "imgUrl" : "https://image.kurier.at/images/original/4923031/46-163740606.jpg",
+      "titleSource" : "Häftling in Graz scheiterte erneut mit Ausbruchsversuch",
+      "titleTarget" : "Zatvorenik u Grazu ponovno nije uspio pokušavajući pobjeći",
+      "url" : "https://kurier.at/chronik/oesterreich/ausbruchversuch-aus-grazer-karlau-haeftlinge-in-innenhof-gestellt/401180926"
     } ]
   }, {
     "category" : "CULTURE",
@@ -124,6 +130,12 @@
       "titleSource" : "Super Bowl:  Schmähführen wie auf der Couch",
       "titleTarget" : "Super Bowl: ponižavajuće kao na kauču",
       "url" : "https://kurier.at/kultur/super-bowl-schmaehfuehren-wie-auf-der-couch/401179651"
+    }, {
+      "id" : "GbW7GAgG",
+      "imgUrl" : "https://image.kurier.at/images/original/4923160/46-175449989.jpg",
+      "titleSource" : "Beethoven und mehr: Was in den Museen ab Montag zu sehen ist",
+      "titleTarget" : "Beethoven i više: Ono što se od ponedjeljka može vidjeti u muzejima",
+      "url" : "https://kurier.at/kultur/beethoven-und-mehr-was-in-den-museen-ab-montag-zu-sehen-ist/401180884"
     } ]
   }, {
     "category" : "HEALTH",
@@ -134,11 +146,17 @@
       "titleTarget" : "Cjepivo AstraZeneca manje je učinkovito u varijanti Južne Afrike",
       "url" : "https://kurier.at/wissen/gesundheit/astrazeneca-vakzin-weniger-wirksam-bei-suedafrika-variante/401180755"
     }, {
-      "id" : "tLBbmnay",
-      "imgUrl" : "https://image.kurier.at/images/original/4921483/46-175493668.jpg",
-      "titleSource" : "Impfstoff: Erste Lieferung von Astra Zeneca in Österreich angekommen",
-      "titleTarget" : "Cjepivo: Prva isporuka iz Astra Zenece stigla je u Austriju",
-      "url" : "https://kurier.at/wissen/gesundheit/impfstoff-erste-lieferung-von-astra-zeneca-in-oesterreich-angekommen/401180416"
+      "id" : "7duAlnbR",
+      "imgUrl" : "https://image.kurier.at/images/original/4507796/46-78271802.jpg",
+      "titleSource" : "Coronavirus: Impfstoff für Kinder muss warten",
+      "titleTarget" : "Koronavirus: cjepivo za djecu mora pričekati",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-impfstoff-fuer-kinder-muss-warten/401180782"
+    }, {
+      "id" : "YiYtG5RC",
+      "imgUrl" : "https://image.kurier.at/images/original/4923076/46-165831941.jpg",
+      "titleSource" : "Corona-Impfstoffe: Mangelware in armen Ländern",
+      "titleTarget" : "Koronska cjepiva: deficitarna u siromašnim zemljama",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-impfstoffe-mangelware-in-armen-laendern/401180824"
     }, {
       "id" : "04mYUPFG",
       "imgUrl" : "https://image.kurier.at/images/original/4921597/46-175476011.jpg",
@@ -151,63 +169,51 @@
       "titleSource" : "Wo kann ich mich testen lassen? Eine Auswahl an Anlaufstellen",
       "titleTarget" : "Gdje se mogu testirati? Izbor kontaktnih točaka",
       "url" : "https://kurier.at/wissen/gesundheit/wo-kann-ich-mich-testen-lassen-eine-auswahl-an-anlaufstellen/401180101"
-    }, {
-      "id" : "YiYtG5RC",
-      "imgUrl" : "https://image.kurier.at/images/original/4923076/46-165831941.jpg",
-      "titleSource" : "Corona-Impfstoffe: Mangelware in armen Ländern",
-      "titleTarget" : "Koronska cjepiva: deficitarna u siromašnim zemljama",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-impfstoffe-mangelware-in-armen-laendern/401180824"
-    }, {
-      "id" : "7duAlnbR",
-      "imgUrl" : "https://image.kurier.at/images/original/4507796/46-78271802.jpg",
-      "titleSource" : "Coronavirus: Impfstoff für Kinder muss warten",
-      "titleTarget" : "Koronavirus: cjepivo za djecu mora pričekati",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-impfstoff-fuer-kinder-muss-warten/401180782"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Ixiy4t9d",
-      "imgUrl" : "https://image.kurier.at/images/original/4921660/46-175495191.jpg",
-      "titleSource" : "ÖSV-Doppelsieg vor der Ski-WM: Kriechmayr jubelt vor Mayer",
-      "titleTarget" : "Dvostruka pobjeda ÖSV-a prije Svjetskog skijaškog prvenstva: Kriechmayr navija prije Mayera",
-      "url" : "https://kurier.at/sport/wintersport/oesv-doppelsieg-im-garmisch-super-g-kriechmayr-rast-vor-mayer-zum-naechsten-erfolg/401180431"
+      "id" : "DSVNqNcv",
+      "imgUrl" : "https://image.kurier.at/images/original/4923019/46-175507462.jpg",
+      "titleSource" : "Die Box-Welt trauert: Ex-Weltmeister und Ali-Bezwinger gestorben",
+      "titleTarget" : "Svijet boksa oplakuje: Umro je bivši svjetski prvak i osvajač Alija",
+      "url" : "https://kurier.at/sport/die-box-welt-trauert-ex-weltmeister-und-ali-bezwinger-leon-spinks-mit-67-gestorben/401180788"
     }, {
-      "id" : "Etuv0PrC",
-      "imgUrl" : "https://image.kurier.at/images/original/4921456/46-164812879.jpg",
-      "titleSource" : "Ex-Skistar Veith: \"Da wäre eine Medaille eine große Überraschung\"",
-      "titleTarget" : "Bivša skijaška zvijezda Veith: \"Medalja bi bila veliko iznenađenje\"",
-      "url" : "https://kurier.at/sport/wintersport/ex-oesv-star-anna-veith-vor-der-ski-wm-da-waere-eine-medaille-eine-grosse-ueberraschung/401180395"
+      "id" : "jDXFR3EH",
+      "imgUrl" : "https://image.kurier.at/images/original/4923787/46-175499848.jpg",
+      "titleSource" : "Déjà-vu in Klingenthal: Granerud siegt erneut, ÖSV weit zurück",
+      "titleTarget" : "Déjà-vu u Klingenthalu: Granerud ponovno pobjeđuje, ÖSV daleko iza",
+      "url" : "https://kurier.at/sport/wintersport/deja-vu-in-klingenthal-granerud-siegt-erneut-oesv-adler-weit-zurueck/401181106"
     }, {
-      "id" : "eKW0ta5a",
-      "imgUrl" : "https://image.kurier.at/images/original/4920673/46-175324880.jpg",
-      "titleSource" : "Generationen-Duell im Superbowl: Baby Yoda gegen Meister Yoda",
-      "titleTarget" : "Generacijski dvoboj u superkuglici: Baby Yoda protiv Master Yode",
-      "url" : "https://kurier.at/sport/tom-brady-gegen-patrick-mahomes-im-superbowl-baby-yoda-gegen-meister-yoda/401179951"
+      "id" : "TGZWlXoo",
+      "imgUrl" : "https://image.kurier.at/images/original/4923052/46-175501243.jpg",
+      "titleSource" : "\"Skandal ohne Ende\": Auch Hoeneß tobte nach Bayerns Flug-Chaos",
+      "titleTarget" : "\"Skandal bez kraja\": Hoeneß je također bjesnio nakon bavarskog kaosa u letu",
+      "url" : "https://kurier.at/sport/fussball/skandal-ohne-ende-auch-uli-hoeness-tobte-nach-bayerns-flug-chaos-vor-der-klub-wm/401180815"
     }, {
-      "id" : "FHLwao70",
-      "imgUrl" : "https://image.kurier.at/images/original/4921840/46-175480699.jpg",
-      "titleSource" : "Vor der Ski-WM: Eine Vergangenheit mit Licht und Schatten",
-      "titleTarget" : "Prije Svjetskog skijaškog prvenstva: prošlost sa svjetlom i sjenom",
-      "url" : "https://kurier.at/sport/wintersport/vor-der-ski-wm-eine-vergangenheit-mit-licht-und-schatten/401180536"
+      "id" : "n3WqOGkb",
+      "imgUrl" : "https://image.kurier.at/images/original/4923847/46-165983583.jpg",
+      "titleSource" : "Kracher im ÖFB-Cup-Halbfinale: Sturm Graz fordert Salzburg",
+      "titleTarget" : "Kracher u polufinalu kupa ÖFB: Sturm Graz izaziva Salzburg",
+      "url" : "https://kurier.at/sport/fussball/kracher-im-oefb-cup-halbfinale-sturm-graz-fordert-titelverteidiger-red-bull-salzburg/401181121"
     }, {
-      "id" : "xRoRnvrR",
-      "imgUrl" : "https://image.kurier.at/images/original/4922572/46-175503287.jpg",
-      "titleSource" : "Everton verpatzte Manchester United den Gedenktag",
-      "titleTarget" : "Nogomet: Everton je zbrkao memorijalni dan Manchester Uniteda",
-      "url" : "https://kurier.at/sport/fussball/fussball-everton-verpatzte-manchester-united-den-gedenktag/401180713"
+      "id" : "SzZjrqGF",
+      "imgUrl" : "https://image.kurier.at/images/original/4923646/46-175256687.jpg",
+      "titleSource" : "Glück im Unglück für Austria-Kapitän Markus Suttner",
+      "titleTarget" : "Sreća u nesreći austrijskog kapetana Markusa Suttnera",
+      "url" : "https://kurier.at/sport/fussball/glueck-im-unglueck-fuer-austria-kapitaen-markus-suttner/401181085"
     }, {
-      "id" : "9UN6iSIK",
-      "imgUrl" : "https://image.kurier.at/images/original/4922434/46-175500348.jpg",
-      "titleSource" : "Heimsieg gegen die Austria: Salzburg setzt die Cup-Serie fort",
-      "titleTarget" : "Domaća pobjeda protiv Austrije: Salzburg nastavlja seriju kupa",
-      "url" : "https://kurier.at/sport/fussball/heimsieg-gegen-die-wiener-austria-red-bull-salzburg-zum-zehnten-mal-im-oefb-cup-halbfinale/401180308"
+      "id" : "3BnLd1B0",
+      "imgUrl" : "https://image.kurier.at/images/original/4923733/46-174268358.jpg",
+      "titleSource" : "Zehn Siege, vier Medaillen: Erfolgssaison für Österreichs Rodler",
+      "titleTarget" : "Deset pobjeda, četiri medalje: Uspješna sezona austrijskih sankaša",
+      "url" : "https://kurier.at/sport/wintersport/zehn-siege-vier-medaillen-erfolgssaison-fuer-oesterreichs-rodler/401181082"
     }, {
-      "id" : "h9T6eVOA",
-      "imgUrl" : "https://image.kurier.at/images/original/4922458/46-175500874.jpg",
-      "titleSource" : "Nach Zidanes Wutrede: Real Madrid gewann bei Huesca 2:1",
-      "titleTarget" : "Nakon Zidaneova ljutitog govora: Real Madrid je pobijedio 2-1 na Huesci",
-      "url" : "https://kurier.at/sport/fussball/nach-zinedine-zidanes-wutrede-real-madrid-gewann-bei-huesca-21/401180668"
+      "id" : "de7RZ7gC",
+      "imgUrl" : "https://image.kurier.at/images/original/4923586/46-175494766.jpg",
+      "titleSource" : "Skispringen: Japanerin gewann erneut in Hinzenbach",
+      "titleTarget" : "Skijaški skokovi: Japanci su ponovno pobijedili u Hinzenbachu",
+      "url" : "https://kurier.at/sport/wintersport/skispringen-japanerin-gewann-erneut-in-hinzenbach/401181052"
     } ]
   } ],
   "country" : "austria",
