@@ -2,128 +2,116 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "YecLLkaF",
-      "imgUrl" : "https://image.kurier.at/images/original/4923373/46-174036224.jpg",
-      "titleSource" : "Sobotka findet Maskenverweigerer im Parlament \"frivol\"",
-      "titleTarget" : "Sobotka smatra da su odbacivači maski u parlamentu \"neozbiljni\"",
-      "url" : "https://kurier.at/politik/inland/sobotka-findet-maskenverweigerer-im-parlament-frivol/401180962"
-    }, {
-      "id" : "hAIDUqlM",
-      "imgUrl" : "https://image.kurier.at/images/original/4831116/20201218-ABD0329-1-1.jpg",
-      "titleSource" : "Österreich verschärft Grenzkontrollen zu allen Nachbarn",
-      "titleTarget" : "Austrija je pooštrila graničnu kontrolu sa svim susjedima",
-      "url" : "https://kurier.at/politik/inland/oesterreich-verschaerft-grenzkontrollen-zu-allen-nachbarn/401181070"
-    }, {
-      "id" : "TgM2OQeK",
-      "imgUrl" : "https://image.kurier.at/images/original/4923088/46-175323307.jpg",
-      "titleSource" : "Faßmann zu Schulöffnung: \"Chaos zu Beginn jeder Neuordnung\"",
-      "titleTarget" : "Faßmann o otvaranju škole: \"Kaos na početku svake nove narudžbe\"",
-      "url" : "https://kurier.at/politik/inland/fassmann-zu-schuloeffnung-chaos-zu-beginn-jeder-neuordnung/401180842"
-    }, {
       "id" : "XMxC6Hwn",
       "imgUrl" : "https://image.kurier.at/images/original/4924231/46-175456968.jpg",
       "titleSource" : "Verwirrspiel um vertagte Tirol-Entscheidung",
       "titleTarget" : "Zbrka zbog odgođene tirolske odluke",
       "url" : "https://kurier.at/politik/inland/walser-gehen-davon-aus-dass-tirol-aufsperrt/401181247"
+    }, {
+      "id" : "H28qzolo",
+      "imgUrl" : "https://image.kurier.at/images/original/4924981/46-151561057.jpg",
+      "titleSource" : "NS-Liederbuch: Justizministerium entscheidet über Anklage gegen FP-Mandatar",
+      "titleTarget" : "Nacistička pjesmarica: Ministarstvo pravosuđa odlučuje o optužbama protiv mandata FP-a",
+      "url" : "https://kurier.at/politik/inland/ns-liederbuch-justizministerium-entscheidet-ueber-anklage-gegen-fp-mandatar/401181694"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "1lYVwBpY",
-      "imgUrl" : "https://image.kurier.at/images/original/4923406/46-163355078.jpg",
-      "titleSource" : "Geschlossene Gastronomie: Was mit dem gelagerten Bier passiert",
-      "titleTarget" : "Zatvorena gastronomija: Što se događa sa spremljenim pivom",
-      "url" : "https://kurier.at/wirtschaft/geschlossene-gastronomie-was-mit-dem-gelagerten-bier-passiert/401180977"
+      "id" : "nRlyzeSW",
+      "imgUrl" : "https://image.kurier.at/images/original/65373/46-34589443.jpg",
+      "titleSource" : "Pleite des Wiener Traditionskaffeehauses Cafe Ritter Ottakring",
+      "titleTarget" : "Bankrot tradicionalne bečke kavane Cafe Ritter Ottakring",
+      "url" : "https://kurier.at/wirtschaft/pleite-des-wiener-traditionskaffeehaus-cafe-ritter-ottakring/401181904"
     }, {
-      "id" : "I0lQSPba",
-      "imgUrl" : "https://image.kurier.at/images/original/4923211/46-175470960.jpg",
-      "titleSource" : "Wirecard: Neue Details zum Wiener Beraterauftrag",
-      "titleTarget" : "Wirecard: Novi detalji o bečkom savjetničkom zadatku",
-      "url" : "https://kurier.at/wirtschaft/neue-details-zum-wiener-beraterauftrag-bei-wirecard/401180917"
+      "id" : "CNPXFgIT",
+      "imgUrl" : "https://image.kurier.at/images/original/4805484/20201207-ABD0062-1-1.jpg",
+      "titleSource" : "Corona: Geschäfte und Friseure sperren nach sechs Wochen wieder auf",
+      "titleTarget" : "Corona: Trgovine i frizeri ponovno se otvaraju nakon šest tjedana",
+      "url" : "https://kurier.at/wirtschaft/corona-geschaefte-und-friseure-sperren-nach-sechs-wochen-wieder-auf/401181427"
     }, {
-      "id" : "7cthFn8R",
-      "imgUrl" : "https://image.kurier.at/images/original/4830891/46-173639809.jpg",
-      "titleSource" : "Haushaltsenergiepreise 2020 wegen Ölpreisverfalls um 5,6% niedriger",
-      "titleTarget" : "Cijene energije kućanstava u 2020. niže su za 5,6% zbog pada cijena nafte",
-      "url" : "https://kurier.at/wirtschaft/haushaltsenergiepreise-2020-wegen-oelpreisverfalls-um-56-niedriger/401181382"
-    }, {
-      "id" : "NRqSkaPz",
-      "imgUrl" : "https://image.kurier.at/images/original/3346021/81650355547527624_BLD_Online.jpg",
-      "titleSource" : "Ölpreise setzen Höhenflug fort - Brent kurz über 60 Dollar",
-      "titleTarget" : "Cijene nafte i dalje rastu - Brent je malo iznad 60 USD",
-      "url" : "https://kurier.at/wirtschaft/oelpreise-setzen-hoehenflug-fort-brent-kurz-ueber-60-dollar/401181346"
-    }, {
-      "id" : "ogjybeBj",
-      "imgUrl" : "https://image.kurier.at/images/original/4770669/46-144340067.jpg",
-      "titleSource" : "Europol sieht größere Gefahr durch Organisierte Kriminelle als durch Terror",
-      "titleTarget" : "Europol vidi više opasnosti od organiziranih kriminalaca nego od terora",
-      "url" : "https://kurier.at/wirtschaft/europol-sieht-groessere-gefahr-durch-organisierte-kriminelle-als-durch-terror/401181616"
-    }, {
-      "id" : "UFKtlB30",
-      "imgUrl" : "https://image.kurier.at/images/original/4924537/46-167221688.jpg",
-      "titleSource" : "Im Rennen um EU-Architekturpreis",
-      "titleTarget" : "U utrci za nagradu za arhitekturu EU",
-      "url" : "https://kurier.at/wirtschaft/immobiz/im-rennen-um-eu-architekturpreis/401181505"
+      "id" : "hjrGfN6F",
+      "imgUrl" : "https://image.kurier.at/images/original/4650881/46-147822436.jpg",
+      "titleSource" : "Westbahn-Strecke: Pendler und Schüler sind laut SPÖ Opfer des Regierungsstreits",
+      "titleTarget" : "Put Westbahna: Prema SPÖ-u, putnici i studenti žrtve su vladinog spora",
+      "url" : "https://kurier.at/wirtschaft/westbahn-strecke-pendler-und-schueler-sind-laut-spoe-opfer-des-regierungsstreits/401181658"
     }, {
       "id" : "1u1XrnEQ",
       "imgUrl" : "https://image.kurier.at/images/original/4825764/flugzeug_klimafreitag_epa_neu.jpg",
       "titleSource" : "Stay Grounded: Aktivistennetzwerk ruft zur drastischen Flugreduktion auf",
       "titleTarget" : "Ostanite prizemljeni: Aktivistička mreža poziva na drastično smanjenje leta",
       "url" : "https://kurier.at/wirtschaft/stay-grounded-weltweites-aktivistennetzwerk-ruft-zur-drastischen-flugreduktion-auf/401181610"
+    }, {
+      "id" : "n73xcDIV",
+      "imgUrl" : "https://image.kurier.at/images/original/4755726/ferrari_20201111_05_sf90_spider_3-4_front.jpg",
+      "titleSource" : "Rekordbonus für Ferrari-Mitarbeiter: 7.500 Euro Prämie pro Kopf",
+      "titleTarget" : "Rekordni bonus za zaposlenike Ferrarija: 7.500 eura po glavi stanovnika",
+      "url" : "https://kurier.at/wirtschaft/rekordbonus-fuer-ferrari-mitarbeiter-7500-euro-praemie/401182027"
+    }, {
+      "id" : "Mpmnz6eE",
+      "imgUrl" : "https://image.kurier.at/images/original/4898200/46-174088729.jpg",
+      "titleSource" : "Kurs steigt: Tesla investiert 1,5 Milliarden Dollar in Bitcoin",
+      "titleTarget" : "Cijena raste: Tesla ulaže 1,5 milijardi dolara u Bitcoin",
+      "url" : "https://kurier.at/wirtschaft/kurs-steigt-tesla-investiert-15-milliarden-dollar-in-bitcoin/401181973"
+    }, {
+      "id" : "stfr7bWJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4882623/46-156383863.jpg",
+      "titleSource" : "Wienwert: Offenbar 800.000 Euro Gewinn bei Grundstücksdeal in Kagran",
+      "titleTarget" : "Wienwert: Očigledno 800.000 eura dobiti od nekretnina u Kagranu",
+      "url" : "https://kurier.at/wirtschaft/wienwert-offenbar-800000-euro-gewinn-bei-grundstuecksdeal-in-kagran/401181808"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "k3uivU8i",
+      "id" : "uoA6UKmd",
+      "imgUrl" : "https://image.kurier.at/images/original/4924624/xxx.jpg",
+      "titleSource" : "Friseurbesuch und Co.: Lange Schlangen für Corona-Test",
+      "titleTarget" : "Posjet frizeru i suradniku.: Dugi redovi za Corona test",
+      "url" : "https://kurier.at/chronik/oesterreich/friseurbesuch-und-co-lange-schlangen-fuer-einen-corona-test/401181568"
+    }, {
+      "id" : "vj93T0vG",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.317 Neuinfektionen in Österreich",
-      "titleTarget" : "1.317 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1317-neuinfektionen-in-oesterreich/401180818"
+      "titleSource" : "1.057 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1.057 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1057-neue-corona-infektionen-in-oesterreich/401181421"
     }, {
-      "id" : "4zE6bKJW",
-      "imgUrl" : "https://image.kurier.at/images/original/4924399/46-164055096.jpg",
-      "titleSource" : "1.057 Neuinfektionen in Österreich; Lockerung: Diese Regeln gelten ab heute",
-      "titleTarget" : "1.057 novih infekcija u Austriji; Lakše: Ova se pravila primjenjuju od danas",
-      "url" : "https://kurier.at/chronik/oesterreich/verwirrspiel-um-vertagte-tirol-entscheidung-suedafrika-stoppt-astra-zeneca-impfungen/401181304"
+      "id" : "BOgHWjkJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4925527/46-175532179.jpg",
+      "titleSource" : "Bundesregierung erlässt Reisewarnung für Tirol - aber keine Isolation",
+      "titleTarget" : "Savezna vlada izdala je upozorenje za putovanje za Tirol - ali bez izolacije",
+      "url" : "https://kurier.at/chronik/oesterreich/tirol-wird-zur-sperrzone-bundesregierung-erlaesst-reisewarnung/401181550"
     }, {
-      "id" : "Xgjgurci",
-      "imgUrl" : "https://image.kurier.at/images/original/4884783/46-174175547.jpg",
-      "titleSource" : "Ex-Skistar macht auf Not von Wildtieren aufmerksam",
-      "titleTarget" : "Ex-ski zvijezda skreće pozornost na potrebu za divljim životinjama",
-      "url" : "https://kurier.at/chronik/oesterreich/ex-skistar-macht-auf-not-von-wildtieren-aufmerksam/401181352"
+      "id" : "3LupwKcp",
+      "imgUrl" : "https://image.kurier.at/images/original/4924501/46-175529054.jpg",
+      "titleSource" : "Quarantäne-Streit mit Bundesregierung: Wird Tirol zur \"Sperrzone\"?",
+      "titleTarget" : "Karantenski spor sa saveznom vladom: hoće li Tirol postati \"zabranjena zona\"?",
+      "url" : "https://kurier.at/chronik/oesterreich/quarantaene-streit-um-tirol-verwirrung-um-angebliche-loesung/401181550"
     }, {
-      "id" : "B6tFNCqG",
-      "imgUrl" : "https://image.kurier.at/images/original/4740345/46-168100891.jpg",
-      "titleSource" : "Sturz auf Stuhleck-\"Speedstrecke\": 17-Jähriger schwer verletzt",
-      "titleTarget" : "Pad na brzu stazu Stuhleck: 17-godišnjak teško ozlijeđen",
-      "url" : "https://kurier.at/chronik/oesterreich/stuhleck-speedstrecke-17-jaehriger-schwer-verletzt/401181328"
+      "id" : "rsP52L0r",
+      "imgUrl" : "https://image.kurier.at/images/original/3674945/78350011449841758_BLD_Online.jpg",
+      "titleSource" : "Unerlaubt Gäste bewirtet: Kärntner Wirt zum dritten Mal erwischt",
+      "titleTarget" : "Neovlašteni gosti su se pobrinuli za: Kärntner Wirt uhvaćen po treći put",
+      "url" : "https://kurier.at/chronik/oesterreich/unerlaubt-gaeste-bewirtet-kaerntner-wirt-zum-dritten-mal-erwischt/401181511"
     }, {
-      "id" : "zENXrb6L",
-      "imgUrl" : "https://image.kurier.at/images/original/4923469/46-174036194.jpg",
-      "titleSource" : "Großer Andrang bei Coronatests: Bundesheer stockt Personal auf",
-      "titleTarget" : "Velika navala na testovima na koronu: Savezna vojska povećava osoblje",
-      "url" : "https://kurier.at/chronik/oesterreich/grosser-andrang-bei-coronatests-bundesheer-stockt-personal-auf/401180998"
+      "id" : "UuuOU7hv",
+      "imgUrl" : "https://image.kurier.at/images/original/4925623/46-175531327.jpg",
+      "titleSource" : "Keine Isolation: Diese Maßnahmen gelten für Tirol",
+      "titleTarget" : "Bez izolacije: Ove mjere primjenjuju se na Tirol",
+      "url" : "https://kurier.at/chronik/oesterreich/keine-isolation-diese-massnahmen-gelten-fuer-tirol/401181949"
     }, {
-      "id" : "fleguRwv",
-      "imgUrl" : "https://image.kurier.at/images/original/4923889/46-175511879.jpg",
-      "titleSource" : "Tierische Freude trotz strenger Regeln: Die Zoos sind wieder da",
-      "titleTarget" : "Životinjska radost unatoč strogim pravilima: zoološki vrtovi su se vratili",
-      "url" : "https://kurier.at/chronik/oesterreich/tierische-freude-trotz-strenger-regeln-die-zoos-sind-wieder-da/401181151"
-    }, {
-      "id" : "glN20Tka",
-      "imgUrl" : "https://image.kurier.at/images/original/4037082/46-154167605.jpg",
-      "titleSource" : "Weststrecke: Streit um weniger Züge",
-      "titleTarget" : "Zapadna ruta: spor zbog manje vlakova",
-      "url" : "https://kurier.at/chronik/oesterreich/weststrecke-streit-um-weniger-zuege/401181145"
+      "id" : "w7rCfsCk",
+      "imgUrl" : "https://image.kurier.at/images/original/4924780/46-175529799.jpg",
+      "titleSource" : "Österreich erwacht aus dem Lockdown: \"Wollte unbedingt wieder raus\"",
+      "titleTarget" : "Austrija se budi nakon zaključavanja: \"Stvarno sam željela ponovno izaći\"",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-erwacht-aus-dem-lockdown-wollte-unbedingt-wieder-raus/401181367"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "GbW7GAgG",
-      "imgUrl" : "https://image.kurier.at/images/original/4923160/46-175449989.jpg",
-      "titleSource" : "Beethoven und mehr: Was in den Museen ab Montag zu sehen ist",
-      "titleTarget" : "Beethoven i više: Ono što se od ponedjeljka može vidjeti u muzejima",
-      "url" : "https://kurier.at/kultur/beethoven-und-mehr-was-in-den-museen-ab-montag-zu-sehen-ist/401180884"
+      "id" : "EkxFpQVR",
+      "imgUrl" : "https://image.kurier.at/images/original/4925545/walser2zib2.jpg",
+      "titleSource" : "\"Na, überhaupsch ned\": Tiroler Widerstandsgeist in der \"ZiB 2\"",
+      "titleTarget" : "\"Pa, preuređenje\": tirolski duh otpora u \"ZiB 2\"",
+      "url" : "https://kurier.at/kultur/medien/na-ueberhaupsch-ned-tiroler-widerstandsgeist-zur-corona-situation-in-der-zib-2/401181778"
     }, {
       "id" : "KZPfgMnI",
       "imgUrl" : "https://image.kurier.at/images/original/4923439/46-175456381.jpg",
@@ -131,17 +119,23 @@
       "titleTarget" : "Zvijezda kuhar, autor, zabavljač: Roland Trettl pita za datum",
       "url" : "https://kurier.at/kultur/medien/sterne-koch-autor-tv-entertainer-roland-trettl-bittet-ins-first-dates-hotel/401181025"
     }, {
+      "id" : "XzIld9fW",
+      "imgUrl" : "https://image.kurier.at/images/original/4886190/78350011458534898_BLD_Online.jpg",
+      "titleSource" : "Super Bowl: Dichterin Amanda Gorman würdigte die Anti-Corona-Kämpfer",
+      "titleTarget" : "Super Bowl: Pjesnikinja Amanda Gorman odala je počast borcima protiv korone",
+      "url" : "https://kurier.at/kultur/super-bowl-dichterin-amanda-gorman-wuerdigte-die-anti-corona-kaempfer/401181538"
+    }, {
       "id" : "hnGJajRT",
       "imgUrl" : "https://image.kurier.at/images/original/4924492/46-175524139.jpg",
       "titleSource" : "Super Bowl: The Weeknd sorgte mit Spiegelshow für Aufsehen (und Häme)",
       "titleTarget" : "Super Bowl: The Weeknd izazvao je senzaciju svojim zrcalnim showom (i zlobom)",
       "url" : "https://kurier.at/kultur/the-weeknd-begeisterte-bei-super-bowl-mit-spiegelshow/401181469"
     }, {
-      "id" : "XzIld9fW",
-      "imgUrl" : "https://image.kurier.at/images/original/4886190/78350011458534898_BLD_Online.jpg",
-      "titleSource" : "Super Bowl: Dichterin Amanda Gorman würdigte die Anti-Corona-Kämpfer",
-      "titleTarget" : "Super Bowl: Pjesnikinja Amanda Gorman odala je počast borcima protiv korone",
-      "url" : "https://kurier.at/kultur/super-bowl-dichterin-amanda-gorman-wuerdigte-die-anti-corona-kaempfer/401181538"
+      "id" : "TmtEv2EW",
+      "imgUrl" : "https://image.kurier.at/images/original/4926295/allesliebe.jpg",
+      "titleSource" : "ATV-Liebeswerber erläutert Verschwörungstheorie über \"Fake-Pandemie\"",
+      "titleTarget" : "Ljubitelj ATV-a objašnjava teoriju zavjere o \"lažnoj pandemiji\"",
+      "url" : "https://kurier.at/kultur/medien/atv-liebeswerber-erlaeutert-corona-verschwoerungstheorie-ueber-fake-pandemie/401182252"
     } ]
   }, {
     "category" : "HEALTH",
@@ -185,23 +179,23 @@
       "titleTarget" : "Australian Open: Thiem bez izgubljenog seta u drugom kolu",
       "url" : "https://kurier.at/sport/tennis/australian-open-dominic-thiem-ohne-satzverlust-in-runde-zwei/401181316"
     }, {
-      "id" : "jDXFR3EH",
-      "imgUrl" : "https://image.kurier.at/images/original/4923787/46-175499848.jpg",
-      "titleSource" : "Déjà-vu in Klingenthal: Granerud siegt erneut, ÖSV weit zurück",
-      "titleTarget" : "Déjà-vu u Klingenthalu: Granerud ponovno pobjeđuje, ÖSV daleko iza",
-      "url" : "https://kurier.at/sport/wintersport/deja-vu-in-klingenthal-granerud-siegt-erneut-oesv-adler-weit-zurueck/401181106"
+      "id" : "3x1gHnoa",
+      "imgUrl" : "https://image.kurier.at/images/original/4924201/46-175525481.jpg",
+      "titleSource" : "7. Ring für Tom Brady: Tampa Bay gewinnt den 55. Super Bowl",
+      "titleTarget" : "7. prsten za Toma Bradyja: Tampa Bay osvaja 55. Super Bowl",
+      "url" : "https://kurier.at/sport/nfl-buccaneers-gewinnen-die-55-super-bowl/401181274"
     }, {
-      "id" : "QteT4B42",
-      "imgUrl" : "https://image.kurier.at/images/original/4924303/46-175512406.jpg",
-      "titleSource" : "Die Ski-WM in Cortina startet mit einer Absage",
-      "titleTarget" : "Svjetski kup u skijanju u Cortini započinje otkazivanjem",
-      "url" : "https://kurier.at/sport/wintersport/die-ski-wm-in-cortina-startet-mit-einer-absage/401181325"
+      "id" : "ze87dARV",
+      "imgUrl" : "https://image.kurier.at/images/original/4925869/46-167742555.jpg",
+      "titleSource" : "Corona sorgte in der Eishockey-Liga nicht für weniger Legionäre",
+      "titleTarget" : "Corona nije uzrokovala manje legionara u ligi hokeja na ledu",
+      "url" : "https://kurier.at/sport/wintersport/corona-sorgte-in-der-eishockey-liga-nicht-fuer-weniger-legionaere/401182090"
     }, {
-      "id" : "YWvbEOyN",
-      "imgUrl" : "https://image.kurier.at/images/original/4924150/46-174023179.jpg",
-      "titleSource" : "Alpine Kombination: Der Bewerb, den nicht einmal die Läufer kapieren",
-      "titleTarget" : "Alpska kombinacija: Natjecanje koje ni trkači ne razumiju",
-      "url" : "https://kurier.at/sport/wintersport/alpine-kombination-der-bewerb-den-nicht-einmal-die-laeufer-kapieren/401181232"
+      "id" : "xa8XG7TH",
+      "imgUrl" : "https://image.kurier.at/images/original/4925641/46-175497692.jpg",
+      "titleSource" : "Dortmund machte im ersten Halbjahr 26,3 Mio. Euro Verlust",
+      "titleTarget" : "Dortmund je u prvoj polovici godine ostvario gubitak od 26,3 milijuna eura",
+      "url" : "https://kurier.at/sport/fussball/fussball-dortmund-machte-im-ersten-halbjahr-263-mio-euro-verlust/401181982"
     } ]
   } ],
   "country" : "austria",
