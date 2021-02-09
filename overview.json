@@ -3,7 +3,7 @@
     "category" : "POLITICS",
     "newsArticles" : [ {
       "id" : "Sfe24SW9",
-      "imgUrl" : "https://image.kurier.at/images/original/4926352/46-175513078.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/4926499/46-175473517.jpg",
       "titleSource" : "\"Was Platter macht, reicht nicht\": Anschober für härtere Maßnahmen",
       "titleTarget" : "\"Ono što Platter čini nije dovoljno\": Sidra za strože mjere",
       "url" : "https://kurier.at/politik/inland/harsche-kritik-anschobers-an-platter-bund-will-haertere-massnahmen-auch-ohne-zustimmung-tirols/401182321"
@@ -25,6 +25,12 @@
       "titleSource" : "Türkis-Grün uneins über Parteienförderung, Problem vertagt",
       "titleTarget" : "Tirkizno-zelena se nije složila oko stranačke podrške, problem odgođen",
       "url" : "https://kurier.at/politik/inland/tuerkis-gruen-uneins-ueber-parteienfoerderung-problem-vertagt/401182282"
+    }, {
+      "id" : "tztzBIby",
+      "imgUrl" : "https://image.kurier.at/images/original/4926847/46-175537081.jpg",
+      "titleSource" : "CSU: Grenzschließung zu Österreich als \"Ultima Ratio\"",
+      "titleTarget" : "CSU: Zatvaranje granice s Austrijom kao \"ultima ratio\"",
+      "url" : "https://kurier.at/politik/inland/csu-kritisiert-corona-lockerungen-grenzschliessung-zu-oesterreich-als-ultima-ratio/401182648"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -35,23 +41,17 @@
       "titleTarget" : "Bankrot tradicionalne bečke kavane Cafe Ritter Ottakring",
       "url" : "https://kurier.at/wirtschaft/pleite-des-wiener-traditionskaffeehaus-cafe-ritter-ottakring/401181904"
     }, {
-      "id" : "CNPXFgIT",
-      "imgUrl" : "https://image.kurier.at/images/original/4805484/20201207-ABD0062-1-1.jpg",
-      "titleSource" : "Corona: Geschäfte und Friseure sperren nach sechs Wochen wieder auf",
-      "titleTarget" : "Corona: Trgovine i frizeri ponovno se otvaraju nakon šest tjedana",
-      "url" : "https://kurier.at/wirtschaft/corona-geschaefte-und-friseure-sperren-nach-sechs-wochen-wieder-auf/401181427"
-    }, {
-      "id" : "rYkmiIaW",
-      "imgUrl" : "https://image.kurier.at/images/original/4924663/46-167695756.jpg",
-      "titleSource" : "Schwedenbomben: Niemetz-Eigentümer Heidi nun mit Shop auf der Mariahilfer Straße",
-      "titleTarget" : "Švedska bombe: Vlasnica Niemetza Heidi sada ima trgovinu na Mariahilfer Straße",
-      "url" : "https://kurier.at/wirtschaft/schwedenbomben-niemetz-eigentuemer-heidi-nun-mit-shop-auf-der-mariahilfer-strasse/401181583"
-    }, {
       "id" : "Td6RY4R5",
       "imgUrl" : "https://image.kurier.at/images/original/4855086/46-173252678.jpg",
       "titleSource" : "Kaufhaus Österreich vor Totalumbau",
       "titleTarget" : "Robna kuća Austrija prije potpune obnove",
       "url" : "https://kurier.at/wirtschaft/kaufhaus-oesterreich-vor-totalumbau/401182312"
+    }, {
+      "id" : "r8CNiQ67",
+      "imgUrl" : "https://image.kurier.at/images/original/4721799/78370011357185100_BLD_Online.jpg",
+      "titleSource" : "Bawag 2020 mit starkem Gewinneinbruch",
+      "titleTarget" : "Bawag 2020 s naglim padom dobiti",
+      "url" : "https://kurier.at/wirtschaft/bawag-2020-mit-starkem-gewinneinbruch/401182447"
     }, {
       "id" : "hjrGfN6F",
       "imgUrl" : "https://image.kurier.at/images/original/4650881/46-147822436.jpg",
@@ -65,38 +65,26 @@
       "titleTarget" : "Zapadna ruta: Gotovo svaka druga veza vlaka mogla bi se eliminirati",
       "url" : "https://kurier.at/wirtschaft/weststrecke-fast-jede-zweite-zug-verbindung-koennte-wegfallen/401182204"
     }, {
-      "id" : "CzkZ0gf0",
-      "imgUrl" : "https://image.kurier.at/images/original/4926205/46-175532877.jpg",
-      "titleSource" : "Weststrecke: Fast jede zweite Zug-Verbindung könnte noch im Februar wegfallen",
-      "titleTarget" : "Zapadna ruta: Gotovo svaka druga veza vlakom mogla bi biti otkazana u veljači",
-      "url" : "https://kurier.at/wirtschaft/weststrecke-fast-jede-zweite-zug-verbindung-koennte-noch-im-februar-wegfallen/401182204"
+      "id" : "o8SH9gXk",
+      "imgUrl" : "https://image.kurier.at/images/original/4877394/46-169124196.jpg",
+      "titleSource" : "Heimischen Betrieben geht es so schlecht wie zuletzt 2009",
+      "titleTarget" : "Domaće tvrtke posluju jednako loše kao i zadnji put 2009. godine",
+      "url" : "https://kurier.at/wirtschaft/heimischen-betrieben-geht-es-so-schlecht-wie-zuletzt-2009/401182276"
+    }, {
+      "id" : "YkJElkQG",
+      "imgUrl" : "https://image.kurier.at/images/original/4548575/81650355555721938_BLD_Online.jpg",
+      "titleSource" : "Total verdiente im Schlussquartal des Corona-Jahres gut",
+      "titleTarget" : "Ukupno je dobro zaradio u posljednjem tromjesečju Corone godine",
+      "url" : "https://kurier.at/wirtschaft/total-verdiente-im-schlussquartal-des-corona-jahres-gut/401182507"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "uoA6UKmd",
-      "imgUrl" : "https://image.kurier.at/images/original/4924624/xxx.jpg",
-      "titleSource" : "Friseurbesuch und Co.: Lange Schlangen für Corona-Test",
-      "titleTarget" : "Posjet frizeru i suradniku.: Dugi redovi za Corona test",
-      "url" : "https://kurier.at/chronik/oesterreich/friseurbesuch-und-co-lange-schlangen-fuer-einen-corona-test/401181568"
-    }, {
       "id" : "BOgHWjkJ",
       "imgUrl" : "https://image.kurier.at/images/original/4925527/46-175532179.jpg",
       "titleSource" : "Bundesregierung erlässt Reisewarnung für Tirol - aber keine Isolation",
       "titleTarget" : "Savezna vlada izdala je upozorenje za putovanje za Tirol - ali bez izolacije",
       "url" : "https://kurier.at/chronik/oesterreich/tirol-wird-zur-sperrzone-bundesregierung-erlaesst-reisewarnung/401181550"
-    }, {
-      "id" : "rsP52L0r",
-      "imgUrl" : "https://image.kurier.at/images/original/3674945/78350011449841758_BLD_Online.jpg",
-      "titleSource" : "Unerlaubt Gäste bewirtet: Kärntner Wirt zum dritten Mal erwischt",
-      "titleTarget" : "Neovlašteni gosti su se pobrinuli za: Kärntner Wirt uhvaćen po treći put",
-      "url" : "https://kurier.at/chronik/oesterreich/unerlaubt-gaeste-bewirtet-kaerntner-wirt-zum-dritten-mal-erwischt/401181511"
-    }, {
-      "id" : "vj93T0vG",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.057 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.057 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1057-neue-corona-infektionen-in-oesterreich/401181421"
     }, {
       "id" : "UuuOU7hv",
       "imgUrl" : "https://image.kurier.at/images/original/4925623/46-175531327.jpg",
@@ -104,17 +92,35 @@
       "titleTarget" : "Bez izolacije: Ove mjere primjenjuju se na Tirol",
       "url" : "https://kurier.at/chronik/oesterreich/keine-isolation-diese-massnahmen-gelten-fuer-tirol/401181949"
     }, {
-      "id" : "w7rCfsCk",
-      "imgUrl" : "https://image.kurier.at/images/original/4924780/46-175529799.jpg",
-      "titleSource" : "Österreich erwacht aus dem Lockdown: \"Wollte unbedingt wieder raus\"",
-      "titleTarget" : "Austrija se budi nakon zaključavanja: \"Stvarno sam željela ponovno izaći\"",
-      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-erwacht-aus-dem-lockdown-wollte-unbedingt-wieder-raus/401181367"
+      "id" : "1ouADkOJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4926847/46-175537081.jpg",
+      "titleSource" : "1.197 Neuinfektionen in Österreich + Bayern: Grenzschließungen als Option",
+      "titleTarget" : "1.197 novih infekcija u Austriji i Bavarskoj: zatvaranje granica kao opcija",
+      "url" : "https://kurier.at/chronik/oesterreich/mutationen-nehmen-zu-zahlen-zu-hoch-who-astra-zeneca-nicht-zu-frueh-als-unwirksam-abtun/401182393"
     }, {
-      "id" : "Xgjgurci",
-      "imgUrl" : "https://image.kurier.at/images/original/4884783/46-174175547.jpg",
-      "titleSource" : "Ex-Skistar macht auf Not von Wildtieren aufmerksam",
-      "titleTarget" : "Ex-ski zvijezda skreće pozornost na potrebu za divljim životinjama",
-      "url" : "https://kurier.at/chronik/oesterreich/ex-skistar-macht-auf-not-von-wildtieren-aufmerksam/401181352"
+      "id" : "O15SGvPh",
+      "imgUrl" : "https://image.kurier.at/images/original/4913938/46-175399122.jpg",
+      "titleSource" : "Commerzialbank: Gläubiger wollen von Pucher 713 Millionen Euro",
+      "titleTarget" : "Commerzialbank: Vjerovnici žele Puchera 713 milijuna eura",
+      "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-glaeubiger-wollen-von-pucher-713-millionen-euro-von-co-vorstaendin-600-millionen/401182255"
+    }, {
+      "id" : "Lqm2vWyJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4926259/46-175531321.jpg",
+      "titleSource" : "Tag 1 nach dem Lockdown: Freude und Test-Frust beim Friseur",
+      "titleTarget" : "1. dan nakon zaključavanja: Radost i iskušavanje frustracije kod frizera",
+      "url" : "https://kurier.at/chronik/oesterreich/tag-1-nach-dem-lockdown-freude-und-test-frust-beim-friseur/401182186"
+    }, {
+      "id" : "HEhZ0c7N",
+      "imgUrl" : "https://image.kurier.at/images/original/4926364/46-175529779.jpg",
+      "titleSource" : "Bauer lüftete beim Pflügen römisches Geheimnis",
+      "titleTarget" : "Bauer je tijekom oranja otkrio rimsku tajnu",
+      "url" : "https://kurier.at/chronik/oesterreich/bauer-lueftete-beim-pfluegen-roemisches-geheimnis/401182333"
+    }, {
+      "id" : "1jjM9Knd",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.197 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1.197 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1197-neue-corona-infektionen-in-oesterreich/401182582"
     } ]
   }, {
     "category" : "CULTURE",
@@ -125,23 +131,28 @@
       "titleTarget" : "\"Pa, preuređenje\": tirolski duh otpora u \"ZiB 2\"",
       "url" : "https://kurier.at/kultur/medien/na-ueberhaupsch-ned-tiroler-widerstandsgeist-zur-corona-situation-in-der-zib-2/401181778"
     }, {
-      "id" : "KZPfgMnI",
-      "imgUrl" : "https://image.kurier.at/images/original/4923439/46-175456381.jpg",
-      "titleSource" : "Sterne-Koch, Autor, Entertainer: Roland Trettl bittet zum Date",
-      "titleTarget" : "Zvijezda kuhar, autor, zabavljač: Roland Trettl pita za datum",
-      "url" : "https://kurier.at/kultur/medien/sterne-koch-autor-tv-entertainer-roland-trettl-bittet-ins-first-dates-hotel/401181025"
+      "id" : "Eu4eCaYd",
+      "imgUrl" : "https://image.kurier.at/images/original/4926628/46-175550223.jpg",
+      "titleSource" : "Mitbegründerin der \"Supremes\": Motown-Legende Mary Wilson gestorben",
+      "titleTarget" : "Suosnivačica \"Supremesa\": Umrla je legenda Motowna Mary Wilson",
+      "url" : "https://kurier.at/kultur/mitbegruenderin-der-supremes-motown-legende-mary-wilson-gestorben/401182525"
     }, {
-      "id" : "hnGJajRT",
-      "imgUrl" : "https://image.kurier.at/images/original/4924492/46-175524139.jpg",
-      "titleSource" : "Super Bowl: The Weeknd sorgte mit Spiegelshow für Aufsehen (und Häme)",
-      "titleTarget" : "Super Bowl: The Weeknd izazvao je senzaciju svojim zrcalnim showom (i zlobom)",
-      "url" : "https://kurier.at/kultur/the-weeknd-begeisterte-bei-super-bowl-mit-spiegelshow/401181469"
+      "id" : "aqZF2waO",
+      "titleSource" : "Gedenken an Thomas Bernhard zu seinem 90. Geburtstag",
+      "titleTarget" : "U spomen Thomasu Bernhardu na njegov 90. rođendan",
+      "url" : "https://kurier.at/kultur/gedenken-an-thomas-bernhard-zu-seinem-90-geburtstag/401182462"
     }, {
-      "id" : "XzIld9fW",
-      "imgUrl" : "https://image.kurier.at/images/original/4886190/78350011458534898_BLD_Online.jpg",
-      "titleSource" : "Super Bowl: Dichterin Amanda Gorman würdigte die Anti-Corona-Kämpfer",
-      "titleTarget" : "Super Bowl: Pjesnikinja Amanda Gorman odala je počast borcima protiv korone",
-      "url" : "https://kurier.at/kultur/super-bowl-dichterin-amanda-gorman-wuerdigte-die-anti-corona-kaempfer/401181538"
+      "id" : "MsYV2IZZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4926625/46-156870534.jpg",
+      "titleSource" : "Sängerin Ariana Grande hat ihren 20. Weltrekord aufgestellt",
+      "titleTarget" : "Pjevačica Ariana Grande postavila je 20. svjetski rekord",
+      "url" : "https://kurier.at/kultur/saengerin-ariana-grande-hat-ihren-20-weltrekord-aufgestellt/401182519"
+    }, {
+      "id" : "ZVBOm6qY",
+      "imgUrl" : "https://image.kurier.at/images/original/4926598/46-175546972.jpg",
+      "titleSource" : "Französischer Drehbuchautor Jean-Claude Carriere 89-jährig gestorben",
+      "titleTarget" : "Francuski scenarist Jean-Claude Carriere umro je u 89. godini",
+      "url" : "https://kurier.at/kultur/franzoesischer-drehbuchautor-jean-claude-carriere-89-jaehrig-gestorben/401182501"
     }, {
       "id" : "TmtEv2EW",
       "imgUrl" : "https://image.kurier.at/images/original/4926295/allesliebe.jpg",
@@ -152,32 +163,32 @@
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "4djgdpEJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4924309/46-174157743.jpg",
-      "titleSource" : "400 Apotheken in ganz Österreich testen ab heute gratis",
-      "titleTarget" : "400 ljekarni širom Austrije od danas besplatno testira",
-      "url" : "https://kurier.at/wissen/gesundheit/400-apotheken-in-ganz-oesterreich-testen-ab-heute-gratis/401181322"
+      "id" : "yKOopcBw",
+      "imgUrl" : "https://image.kurier.at/images/original/4926433/46-173888332.jpg",
+      "titleSource" : "Virus-Mutationen nehmen zu, Zahlen \"zu hoch\"",
+      "titleTarget" : "Mutacije virusa se povećavaju, broj je \"previsok\"",
+      "url" : "https://kurier.at/wissen/gesundheit/virus-mutationen-nehmen-zu-zahlen-zu-hoch/401182384"
     }, {
-      "id" : "A2HgCCXl",
-      "imgUrl" : "https://image.kurier.at/images/original/4257581/46-60723088.jpg",
-      "titleSource" : "Virologin: Seuchengefahr steigt mit Wachstum der Weltbevölkerung",
-      "titleTarget" : "Virolog: Rizik od epidemija raste kako raste svjetska populacija",
-      "url" : "https://kurier.at/wissen/gesundheit/virologin-seuchengefahr-steigt-mit-wachstum-der-weltbevoelkerung/401181433"
+      "id" : "sqK661m1",
+      "imgUrl" : "https://image.kurier.at/images/original/4904449/46-175200848.jpg",
+      "titleSource" : "WHO: Astra Zeneca nicht zu früh als unwirksam abtun",
+      "titleTarget" : "TKO: Ne odbacujte Astru Zenecu prerano kao neučinkovitu",
+      "url" : "https://kurier.at/wissen/gesundheit/who-astra-zeneca-nicht-zu-frueh-als-unwirksam-abtun/401182387"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "2zO9TLOD",
-      "imgUrl" : "https://image.kurier.at/images/original/4923802/46-175198353.jpg",
-      "titleSource" : "Transferschluss: Ende im Poker um Rapid-Wunschspieler Marco Grüll",
-      "titleTarget" : "Rok prijenosa: Kraj pokera za igrača Rapid dreama Marca Grülla",
-      "url" : "https://kurier.at/sport/fussball/transferschluss-ende-im-poker-um-rapid-wunschspieler-marco-gruell/401181109"
-    }, {
       "id" : "YzOeNB22",
       "imgUrl" : "https://image.kurier.at/images/original/4926076/46-168433456.jpg",
       "titleSource" : "Wenig Risiko am Transfer-Karussell: Rapid hält den Sparkurs",
       "titleTarget" : "Mali rizik na vrtuljku za prijenos: Rapid drži smjer štednje",
       "url" : "https://kurier.at/sport/fussball/wenig-risiko-am-transfer-karussell-rapid-haelt-den-sparkurs/401182159"
+    }, {
+      "id" : "49dNBwzZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4925515/46-173260499.jpg",
+      "titleSource" : "Hans Knauß: Ein echter Fuffziger",
+      "titleTarget" : "Hans Knauß: Prava lipa",
+      "url" : "https://kurier.at/sport/wintersport/wolfgang-winheims-tagebuch-ueber-hans-knauss-ein-echter-fuffziger/401181940"
     }, {
       "id" : "4kUw79nA",
       "imgUrl" : "https://image.kurier.at/images/original/4926187/46-175530890.jpg",
@@ -185,29 +196,29 @@
       "titleTarget" : "Svjetski skijaški kup u Cortini tone u snježni kaos i sastanke",
       "url" : "https://kurier.at/sport/wintersport/die-ski-wm-in-cortina-versinkt-im-schnee-und-terminchaos/401182201"
     }, {
-      "id" : "VqCJcSgd",
-      "imgUrl" : "https://image.kurier.at/images/original/4923670/46-175511532.jpg",
-      "titleSource" : "Turbulenzen vor dem Start: Die Kombi-Damen eröffnen die Ski-WM",
-      "titleTarget" : "Turbulencije prije početka: kombinirane žene otvaraju Svjetsko skijaško prvenstvo",
-      "url" : "https://kurier.at/sport/wintersport/turbulenzen-vor-dem-start-die-kombi-damen-eroeffnen-die-ski-wm/401181064"
+      "id" : "xhKN8TI2",
+      "imgUrl" : "https://image.kurier.at/images/original/4926604/46-175549949.jpg",
+      "titleSource" : "Schrecksekunden nach dem Kollaps eines Kindes in Melbourne",
+      "titleTarget" : "Zastrašujuće sekunde nakon što se dijete srušilo u Melbourneu",
+      "url" : "https://kurier.at/sport/tennis/tennis-schrecksekunden-nach-dem-kollaps-eines-kindes-bei-den-australien-open-in-melbourne/401182513"
     }, {
-      "id" : "3x1gHnoa",
-      "imgUrl" : "https://image.kurier.at/images/original/4924201/46-175525481.jpg",
-      "titleSource" : "7. Ring für Tom Brady: Tampa Bay gewinnt den 55. Super Bowl",
-      "titleTarget" : "7. prsten za Toma Bradyja: Tampa Bay osvaja 55. Super Bowl",
-      "url" : "https://kurier.at/sport/nfl-buccaneers-gewinnen-die-55-super-bowl/401181274"
+      "id" : "iIV8dPXJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4926514/46-175549358.jpg",
+      "titleSource" : "Nadal und Medwedew ziehen in die zweite Runde von Melbourne ein",
+      "titleTarget" : "Nadal i Medvedev prelaze u drugo kolo Melbournea",
+      "url" : "https://kurier.at/sport/tennis/tennis-nadal-und-medwedew-ziehen-in-die-zweite-runde-von-melbourne-ein/401182438"
     }, {
-      "id" : "MqWmIQBE",
-      "imgUrl" : "https://image.kurier.at/images/original/4924297/46-175526946.jpg",
-      "titleSource" : "Australian Open: Thiem ohne Satzverlust in Runde zwei",
-      "titleTarget" : "Australian Open: Thiem bez izgubljenog seta u drugom kolu",
-      "url" : "https://kurier.at/sport/tennis/australian-open-dominic-thiem-ohne-satzverlust-in-runde-zwei/401181316"
+      "id" : "sCg0Abfl",
+      "imgUrl" : "https://image.kurier.at/images/original/4925908/46-175512859.jpg",
+      "titleSource" : "Handball: Die Fivers wollen Plock die ersten Punkte abnehmen",
+      "titleTarget" : "Rukomet: Fivers žele uzeti prve bodove iz Plocka",
+      "url" : "https://kurier.at/sport/handball-die-fivers-wollen-plock-in-der-european-league-die-ersten-punkte-abnehmen/401182108"
     }, {
-      "id" : "tLkhoMrr",
-      "imgUrl" : "https://image.kurier.at/images/original/4926373/46-175546110.jpg",
-      "titleSource" : "Atlético Madrid: Erster Punkteverlust seit Dezember",
-      "titleTarget" : "Atlético Madrid: prvi gubitak bodova od prosinca",
-      "url" : "https://kurier.at/sport/fussball/atletico-madrid-erster-punkteverlust-seit-dezember/401182342"
+      "id" : "7VP1Q5x0",
+      "imgUrl" : "https://image.kurier.at/images/original/4926064/46-175269383.jpg",
+      "titleSource" : "Damen-Super-G: Die WM-Hoffnungsträgerin aus dem Krankenstand",
+      "titleTarget" : "Dame Super G: Nadaju se Svjetskom kupu na bolovanju",
+      "url" : "https://kurier.at/sport/wintersport/damen-super-g-die-wm-hoffnungstraegerin-aus-dem-krankenstand/401182156"
     } ]
   } ],
   "country" : "austria",
