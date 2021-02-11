@@ -8,12 +8,6 @@
       "titleTarget" : "\"FPÖ udio ponovno raste\": FPÖ želi ponovno vladati, ali ne s Kurzom",
       "url" : "https://kurier.at/politik/inland/aktie-fpoe-ist-wieder-im-steigen-fpoe-schnedlitz-will-regieren-aber-nicht-mit-kurz/401183662"
     }, {
-      "id" : "84raI3bB",
-      "imgUrl" : "https://image.kurier.at/images/original/4928572/46-168474710.jpg",
-      "titleSource" : "Epidemiologe: Neuer Lockdown spätestens in zweiter Märzwoche",
-      "titleTarget" : "Epidemiolog: Novo zaključavanje najkasnije u drugom tjednu ožujka",
-      "url" : "https://kurier.at/politik/inland/epidemiologe-neuer-lockdown-spaetestens-in-zweiter-maerzwoche/401183584"
-    }, {
       "id" : "gTZf7rW2",
       "imgUrl" : "https://image.kurier.at/images/original/4929565/46-173957378.jpg",
       "titleSource" : "Rendi-Wagner warnt vor Tiroler Cluster: \"Spiel mit dem Feuer\"",
@@ -38,6 +32,12 @@
       "titleTarget" : "Isporuka u lipnju: Vlada kupuje još šest milijuna doza cjepiva",
       "url" : "https://kurier.at/politik/inland/lieferung-im-juni-regierung-kauft-weitere-sechs-millionen-impfdosen/401184163"
     }, {
+      "id" : "HOYgqim7",
+      "imgUrl" : "https://image.kurier.at/images/original/4929100/20210210-ABD0019-1-1.jpg",
+      "titleSource" : "Staatsanwältin beklagt \"Störfeuer“ bei Ibiza-Ermittlungen",
+      "titleTarget" : "Tužitelj se žali na \"miješanje\" u istrage na Ibizi",
+      "url" : "https://kurier.at/politik/inland/ibiza-u-ausschuss-staatsanwaeltin-beklagt-stoerfeuer-bei-ermittlungen/401184430"
+    }, {
       "id" : "wIqEV2YW",
       "imgUrl" : "https://image.kurier.at/images/original/4929295/46-173809121.jpg",
       "titleSource" : "SPÖ will nach Impfung in Pflegeheimen mehr Besuche erlauben, Anschober lehnt ab",
@@ -47,11 +47,23 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "Q2KEPHWI",
-      "imgUrl" : "https://image.kurier.at/images/original/2797829/46-112188791.jpg",
-      "titleSource" : "A1 Telekom Austria will  Sendemasten vermieten",
-      "titleTarget" : "A1 Telekom Austrija želi unajmiti jarbol odašiljača",
-      "url" : "https://kurier.at/wirtschaft/a1-telekom-austria-will-sendemasten-vermieten/401183533"
+      "id" : "p9W7lSKA",
+      "imgUrl" : "https://image.kurier.at/images/original/3324298/78370011347371424_BLD_Online.jpg",
+      "titleSource" : "AK und Mietervereinigung warnen vor Delogierungswelle",
+      "titleTarget" : "AK i udruga stanara upozoravaju na val deložacija",
+      "url" : "https://kurier.at/wirtschaft/ak-und-mietervereinigung-warnen-vor-delogierungswelle/401184661"
+    }, {
+      "id" : "LURdQnie",
+      "imgUrl" : "https://image.kurier.at/images/original/4930939/46-175635012.jpg",
+      "titleSource" : "Uber 2020 mit 6,8 Milliarden Dollar Verlust",
+      "titleTarget" : "Uber 2020 s 6,8 milijardi dolara gubitka",
+      "url" : "https://kurier.at/wirtschaft/uber-2020-mit-68-milliarden-dollar-verlust/401184775"
+    }, {
+      "id" : "rG8m7JqK",
+      "imgUrl" : "https://image.kurier.at/images/original/4860519/78370011358309498_BLD_Online.jpg",
+      "titleSource" : "Unicredit 2020 mit 2,8 Milliarden Euro Verlust",
+      "titleTarget" : "Unicredit 2020 s gubitkom od 2,8 milijardi eura",
+      "url" : "https://kurier.at/wirtschaft/unicredit-2020-mit-28-milliarden-euro-verlust/401184739"
     }, {
       "id" : "h5bkYzOF",
       "imgUrl" : "https://image.kurier.at/images/original/4930081/46-175621647.jpg",
@@ -76,45 +88,15 @@
       "titleSource" : "Corona-Krise belastet US-Getränkeriesen Coca-Cola weiter stark",
       "titleTarget" : "Koronska kriza i dalje ima veliku težinu na američkom divu pića Coca-Coli",
       "url" : "https://kurier.at/wirtschaft/corona-krise-belastet-us-getraenkeriesen-coca-cola-weiter-stark/401184250"
-    }, {
-      "id" : "8SSKDa3e",
-      "imgUrl" : "https://image.kurier.at/images/original/4929697/46-175555591.jpg",
-      "titleSource" : "Tourismus-Obmann fordert raschere und höhere Corona-Hilfen",
-      "titleTarget" : "Predsjednik turizma poziva na bržu i veću pomoć za koronu",
-      "url" : "https://kurier.at/wirtschaft/tourismus-obmann-fordert-raschere-und-hoehere-corona-hilfen/401184247"
-    }, {
-      "id" : "qs3LZkiu",
-      "imgUrl" : "https://image.kurier.at/images/original/4929409/46-175575430.jpg",
-      "titleSource" : "Westbahn-Sondermarke mitten im Tauziehen um Corona-Hilfen",
-      "titleTarget" : "Westbahnov specijalni pečat usred natezanja za pomoć u vezi s koronom",
-      "url" : "https://kurier.at/wirtschaft/westbahn-sondermarke-mitten-im-tauziehen-um-corona-hilfen/401184106"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
       "id" : "HvwW9zOh",
       "imgUrl" : "https://image.kurier.at/images/original/4930072/46-175060710.jpg",
-      "titleSource" : "Sechs Millionen Impfdosen mehr für Österreich + Schützt Asthmaspray vor schwerem Verlauf?",
+      "titleSource" : "Deutschland bis 7. März im Lockdown + Sechs Millionen Impfdosen mehr für Österreich",
       "titleTarget" : "Njemačka vlada želi produžiti blokadu do 14. ožujka + gotovo 1.500 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/epidemiologe-neuer-lockdown-spaetestens-in-zweiter-maerzwoche-sorge-wegen-veraenderter-mutation/401183644"
-    }, {
-      "id" : "HCOsJ2RG",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.469 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.469 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1469-neue-corona-infektionen-in-oesterreich/401183866"
-    }, {
-      "id" : "TDRS1U5H",
-      "imgUrl" : "https://image.kurier.at/images/original/4925554/46-175455661.jpg",
-      "titleSource" : "Causa Tirol: 48 neue Verdachtsfälle, mobile Tests an den Grenzen",
-      "titleTarget" : "Causa Tirol: 48 novih sumnjivih slučajeva, mobilni testovi na granicama",
-      "url" : "https://kurier.at/chronik/oesterreich/48-neue-verdachtsfaelle-der-suedafrika-mutation-in-tirol/401184136"
-    }, {
-      "id" : "ZfuNZCnK",
-      "imgUrl" : "https://image.kurier.at/images/original/3219854/46-143293242.jpg",
-      "titleSource" : "Es wird kalt, kälter, klirrend kalt",
-      "titleTarget" : "Sve je hladnije, hladnije, ledeno hladno",
-      "url" : "https://kurier.at/chronik/oesterreich/es-wird-kalt-kaelter-klirrend-kalt/401183905"
     }, {
       "id" : "Rb9k6wxa",
       "imgUrl" : "https://image.kurier.at/images/original/4930252/46-175572472.jpg",
@@ -122,38 +104,50 @@
       "titleTarget" : "Sada je moguće proći kroz Tirol bez testa",
       "url" : "https://kurier.at/chronik/oesterreich/durchreise-durch-tirol-nun-doch-ohne-test-moeglich/401184523"
     }, {
+      "id" : "TDRS1U5H",
+      "imgUrl" : "https://image.kurier.at/images/original/4925554/46-175455661.jpg",
+      "titleSource" : "Causa Tirol: 48 neue Verdachtsfälle, mobile Tests an den Grenzen",
+      "titleTarget" : "Causa Tirol: 48 novih sumnjivih slučajeva, mobilni testovi na granicama",
+      "url" : "https://kurier.at/chronik/oesterreich/48-neue-verdachtsfaelle-der-suedafrika-mutation-in-tirol/401184136"
+    }, {
+      "id" : "HCOsJ2RG",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.469 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "1.469 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1469-neue-corona-infektionen-in-oesterreich/401183866"
+    }, {
+      "id" : "ZfuNZCnK",
+      "imgUrl" : "https://image.kurier.at/images/original/3219854/46-143293242.jpg",
+      "titleSource" : "Es wird kalt, kälter, klirrend kalt",
+      "titleTarget" : "Sve je hladnije, hladnije, ledeno hladno",
+      "url" : "https://kurier.at/chronik/oesterreich/es-wird-kalt-kaelter-klirrend-kalt/401183905"
+    }, {
       "id" : "7hBU41oi",
       "imgUrl" : "https://image.kurier.at/images/original/4929871/46-175607859.jpg",
       "titleSource" : "Nach Terroranschlag: Verfassungsschutz wird personell verdoppelt",
       "titleTarget" : "Nakon terorističkog napada: zaštita Ustava udvostručena je",
       "url" : "https://kurier.at/chronik/oesterreich/nach-kritik-an-verfassungsschuetzern/401184319"
     }, {
-      "id" : "RHd1TLas",
-      "imgUrl" : "https://image.kurier.at/images/original/4929871/46-175607859.jpg",
-      "titleSource" : "Nach Kritik an Verfassungsschützern: Innenminister nimmt Stellung",
-      "titleTarget" : "Nakon kritike zaštite ustava: Ministar unutarnjih poslova zauzima stav",
-      "url" : "https://kurier.at/chronik/oesterreich/nach-kritik-an-verfassungsschuetzern-innenminister-nimmt-stellung/401184319"
+      "id" : "5IxmThcL",
+      "imgUrl" : "https://image.kurier.at/images/original/4928224/46-175262400.jpg",
+      "titleSource" : "Vorbild aus dem Norden – oder: \"Was kann Hamburg, was Wien nicht kann?\"",
+      "titleTarget" : "Model uloga sa sjevera - ili: \"Što Hamburg može učiniti, a Beč ne može?\"",
+      "url" : "https://kurier.at/chronik/oesterreich/vorbild-aus-dem-norden-oder-was-kann-hamburg-was-wien-nicht-kann/401183470"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "fA4Z6x1O",
-      "imgUrl" : "https://image.kurier.at/images/original/4929268/rundertisch2.jpg",
-      "titleSource" : "Wolf spricht Tirolerisch, vor dem \"edlen Rausch\" am Runden Tisch",
-      "titleTarget" : "Vuk govori tirolski, prije \"plemenitog opijanja\" za okruglim stolom",
-      "url" : "https://kurier.at/kultur/medien/wolf-spricht-tirolerisch-vor-dem-edlen-rausch-am-runden-tisch-um-corona-debatte/401183785"
-    }, {
       "id" : "RxoStsc9",
       "imgUrl" : "https://image.kurier.at/images/original/4929184/46-166311039.jpg",
       "titleSource" : "Staatsoper: \"Carmen\"-Premiere nun am 21. Februar",
       "titleTarget" : "Državna opera: Premijera \"Carmen\" sada je 21. veljače",
       "url" : "https://kurier.at/kultur/staatsoper-carmen-premiere-nun-am-21-februar/401183989"
     }, {
-      "id" : "wJlszl0w",
-      "imgUrl" : "https://image.kurier.at/images/original/4927975/46-167453556.jpg",
-      "titleSource" : "Musikmarkt Österreich: Corona gefährdet heimische Musiker besonders",
-      "titleTarget" : "Glazbeno tržište Austrija: Corona posebno ugrožava domaće glazbenike",
-      "url" : "https://kurier.at/kultur/musikmarkt-oesterreich-corona-als-game-changer/401183284"
+      "id" : "fA4Z6x1O",
+      "imgUrl" : "https://image.kurier.at/images/original/4929268/rundertisch2.jpg",
+      "titleSource" : "Wolf spricht Tirolerisch, vor dem \"edlen Rausch\" am Runden Tisch",
+      "titleTarget" : "Vuk govori tirolski, prije \"plemenitog opijanja\" za okruglim stolom",
+      "url" : "https://kurier.at/kultur/medien/wolf-spricht-tirolerisch-vor-dem-edlen-rausch-am-runden-tisch-um-corona-debatte/401183785"
     }, {
       "id" : "h5WkAqlD",
       "imgUrl" : "https://image.kurier.at/images/original/4928077/46-175551111.jpg",
@@ -161,11 +155,11 @@
       "titleTarget" : "Izložba \"Ljudski sumrak\": Nova stvarnost između ratova",
       "url" : "https://kurier.at/kultur/ausstellung-menschheitsdaemmerung-neue-wirklichkeit-zwischen-den-kriegen/401183416"
     }, {
-      "id" : "SRUKIyNS",
-      "imgUrl" : "https://image.kurier.at/images/original/4929196/46-167201539.jpg",
-      "titleSource" : "Auslands-Oscar: Chancen für österreichische Koproduktion",
-      "titleTarget" : "Strani Oscar: mogućnosti za austrijsku koprodukciju",
-      "url" : "https://kurier.at/kultur/oscar-chance-fuer-oesterreichische-koproduktion-quo-vadis-aida/401183998"
+      "id" : "wJlszl0w",
+      "imgUrl" : "https://image.kurier.at/images/original/4927975/46-167453556.jpg",
+      "titleSource" : "Musikmarkt Österreich: Corona gefährdet heimische Musiker besonders",
+      "titleTarget" : "Glazbeno tržište Austrija: Corona posebno ugrožava domaće glazbenike",
+      "url" : "https://kurier.at/kultur/musikmarkt-oesterreich-corona-als-game-changer/401183284"
     }, {
       "id" : "FuGHnOrL",
       "imgUrl" : "https://image.kurier.at/images/original/4929205/46-151510768.jpg",
@@ -178,6 +172,12 @@
       "titleSource" : "Ski-WM in Cortina: Absage als Quotenhit im ORF",
       "titleTarget" : "Svjetski skijaški kup u Cortini: otkazivanje kao hit ocjena na ORF-u",
       "url" : "https://kurier.at/kultur/medien/ski-wm-in-cortina-absage-als-quotenhit-im-orf/401184517"
+    }, {
+      "id" : "SRUKIyNS",
+      "imgUrl" : "https://image.kurier.at/images/original/4929196/46-167201539.jpg",
+      "titleSource" : "Auslands-Oscar: Chancen für österreichische Koproduktion",
+      "titleTarget" : "Strani Oscar: mogućnosti za austrijsku koprodukciju",
+      "url" : "https://kurier.at/kultur/oscar-chance-fuer-oesterreichische-koproduktion-quo-vadis-aida/401183998"
     } ]
   }, {
     "category" : "HEALTH",
@@ -194,6 +194,12 @@
       "titleTarget" : "Južna Afrika želi cijepiti Johnson & Johnson umjesto AstraZenecom",
       "url" : "https://kurier.at/wissen/gesundheit/suedafrika-will-mit-johnson-johnson-statt-astrazeneca-impfen/401183899"
     }, {
+      "id" : "TVT3AVx9",
+      "imgUrl" : "https://image.kurier.at/images/original/4237283/81771351254026246_BLD_Online.jpg",
+      "titleSource" : "AGES- \"Mutationsbericht\": 167 Fälle von 171 in Tirol",
+      "titleTarget" : "AGES \"izvještaj o mutaciji\": 167 slučajeva od 171 u Tirolu",
+      "url" : "https://kurier.at/wissen/gesundheit/ages-mutationsbericht-167-faelle-von-171-in-tirol/401184691"
+    }, {
       "id" : "uecj7HTH",
       "imgUrl" : "https://image.kurier.at/images/original/4686705/46-164129687.jpg",
       "titleSource" : "Seoul bietet kostenlose Corona-Tests bei Hunden und Katzen an",
@@ -203,6 +209,12 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "9eObB1EN",
+      "imgUrl" : "https://image.kurier.at/images/original/4929619/46-173892785.jpg",
+      "titleSource" : "Jürgen Klopp darf nicht zur Beerdigung seiner Mutter",
+      "titleTarget" : "Jürgen Klopp ne smije prisustvovati sprovodu svoje majke",
+      "url" : "https://kurier.at/sport/fussball/liverpool-coach-juergen-klopp-darf-wegen-corna-einreisebeschraenkungen-nicht-zur-beerdigung-seiner/401184238"
+    }, {
       "id" : "GXejFkjA",
       "imgUrl" : "https://image.kurier.at/images/original/4884669/46-173317925.jpg",
       "titleSource" : "LASK-Stadion: Präsident versichert \"ungefährdeten Bau\"",
@@ -221,29 +233,23 @@
       "titleTarget" : "Senzacionalni uspjeh Svjetskog kupa za austrijske biatlonce",
       "url" : "https://kurier.at/sport/wintersport/sensationeller-wm-erfolg-fuer-oesterreichs-biathleten/401184466"
     }, {
-      "id" : "PBB1EZIR",
-      "imgUrl" : "https://image.kurier.at/images/original/4928584/46-175565843.jpg",
-      "titleSource" : "Rapid erklimmt nach dem 5. Sieg in Folge die Tabellenspitze",
-      "titleTarget" : "Rapid se popeo na vrh tablice nakon njihove 5. pobjede u nizu",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-10-gegen-den-wac-rapid-erklimmt-nach-dem-5-sieg-in-folge-die-tabellenspitze/401183518"
-    }, {
       "id" : "0pjiqF6U",
       "imgUrl" : "https://image.kurier.at/images/original/4928671/46-175571540.jpg",
       "titleSource" : "Australian Open: Thiem nun gegen Lokalmatador Kyrgios",
       "titleTarget" : "Thiem je urlao u trećem kolu Australian Opena",
       "url" : "https://kurier.at/sport/tennis/thiem-brauste-in-dritte-runde-der-australian-open/401183656"
     }, {
-      "id" : "9eObB1EN",
-      "imgUrl" : "https://image.kurier.at/images/original/4929619/46-173892785.jpg",
-      "titleSource" : "Jürgen Klopp darf nicht zur Beerdigung seiner Mutter",
-      "titleTarget" : "Jürgen Klopp ne smije prisustvovati sprovodu svoje majke",
-      "url" : "https://kurier.at/sport/fussball/liverpool-coach-juergen-klopp-darf-wegen-corna-einreisebeschraenkungen-nicht-zur-beerdigung-seiner/401184238"
+      "id" : "YFGMGcEY",
+      "imgUrl" : "https://image.kurier.at/images/original/4930228/46-168392065.jpg",
+      "titleSource" : "Investor-Deal: Rettet ein Georgier die Austria?",
+      "titleTarget" : "Dogovor za investitora: hoće li Gruzija spasiti Austriju?",
+      "url" : "https://kurier.at/sport/fussball/die-austria-steht-vor-deal-mit-investor/401184499"
     }, {
-      "id" : "249RvK5S",
-      "imgUrl" : "https://image.kurier.at/images/original/4929067/46-90142714.jpg",
-      "titleSource" : "Biathlon: Österreichs Chefcoach vor WM-Start positiv getestet",
-      "titleTarget" : "Biatlon: Austrijski glavni trener bio je pozitivan na testiranju prije početka Svjetskog kupa",
-      "url" : "https://kurier.at/sport/wintersport/biathlon-oesterreichs-chefcoach-vor-wm-start-positiv-getestet/401183929"
+      "id" : "0bfxSp43",
+      "imgUrl" : "https://image.kurier.at/images/original/4930921/46-175633430.jpg",
+      "titleSource" : "Atalanta folgt Juve ins Cup-Finale, Barcelona unterliegt Sevilla",
+      "titleTarget" : "Atalanta prati Juvea u finalu kupa, Barcelona podliježe Sevilli",
+      "url" : "https://kurier.at/sport/fussball/fussball-atalanta-folgt-juve-ins-cup-finale-barcelona-unterliegt-sevilla/401184766"
     } ]
   } ],
   "country" : "austria",
