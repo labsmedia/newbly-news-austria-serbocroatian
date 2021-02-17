@@ -2,18 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "G15YfF8V",
-      "imgUrl" : "https://image.kurier.at/images/original/4942906/20210216-ABD0106-1-1.jpg",
-      "titleSource" : "Blümel bleibt Finanzminister: \"Der türkise Hut brennt lichterloh\"",
-      "titleTarget" : "Blümel ostaje ministar financija: \"Tirkizni šešir gori jako\"",
-      "url" : "https://kurier.at/politik/inland/sondersitzung-zur-causa-bluemel-im-live-stream/401190280"
-    }, {
-      "id" : "d2XRw9sk",
-      "imgUrl" : "https://image.kurier.at/images/original/4922092/46-175482498.jpg",
-      "titleSource" : "Alle Webseiten des Innenministeriums nicht erreichbar",
-      "titleTarget" : "Nije moguće pristupiti svim web stranicama Ministarstva unutarnjih poslova",
-      "url" : "https://kurier.at/politik/inland/alle-webseiten-des-innenministeriums-nicht-erreichbar/401191081"
-    }, {
       "id" : "Iol23QIW",
       "imgUrl" : "https://image.kurier.at/images/original/4877769/46-174059202.jpg",
       "titleSource" : "Corona: Kaiser erntete mit Idee für Geimpften-Armband Shitstorm",
@@ -26,50 +14,56 @@
       "titleTarget" : "Mnogo \"odlučnih tjedana\" Rudolfa Anschobera",
       "url" : "https://kurier.at/politik/inland/die-vielen-entscheidenden-wochen-des-rudi-anschober/401190829"
     }, {
-      "id" : "fMS4o3fu",
-      "imgUrl" : "https://image.kurier.at/images/original/4792722/20201201-ABD0041-1-1.jpg",
-      "titleSource" : "Jetzt doch Milde bei Uni-Reform – aber für Plagiate gibt’s saftige Strafen",
-      "titleTarget" : "Sada je reforma sveučilišta blaga - ali postoje plaćene kazne za plagijat",
-      "url" : "https://kurier.at/politik/inland/jetzt-doch-milde-bei-uni-reform-aber-fuer-plagiate-gibts-saftige-strafen/401190712"
+      "id" : "NcZb4hOk",
+      "imgUrl" : "https://image.kurier.at/images/original/4924768/20210208-ABD0039-1-1.jpg",
+      "titleSource" : "536 positiv getestete Personen bei Schul-Testungen",
+      "titleTarget" : "Na školskim testovima pozitivno je testirano 536 ljudi",
+      "url" : "https://kurier.at/politik/inland/tests-an-schulen-in-ganz-oesterreich-536-personen-positiv/401191810"
+    }, {
+      "id" : "d2XRw9sk",
+      "imgUrl" : "https://image.kurier.at/images/original/4922092/46-175482498.jpg",
+      "titleSource" : "Alle Webseiten des Innenministeriums nicht erreichbar",
+      "titleTarget" : "Nije moguće pristupiti svim web stranicama Ministarstva unutarnjih poslova",
+      "url" : "https://kurier.at/politik/inland/alle-webseiten-des-innenministeriums-nicht-erreichbar/401191081"
+    }, {
+      "id" : "LC9T7m8w",
+      "imgUrl" : "https://image.kurier.at/images/original/4944745/46-175763319.jpg",
+      "titleSource" : "ÖVP brachte Anfrage zur WKStA ein – allerdings deutlich entschärft",
+      "titleTarget" : "ÖVP je podnio zahtjev WKStA-i - ali očito defuziran",
+      "url" : "https://kurier.at/politik/inland/oevp-brachte-anfrage-zur-wksta-ein-allerdings-deutlich-entschaerft/401191402"
+    }, {
+      "id" : "yfTBdqXg",
+      "imgUrl" : "https://image.kurier.at/images/original/4896441/46-174291205.jpg",
+      "titleSource" : "Corona-Kurzarbeit wird um drei Monate bis Ende Juni verlängert",
+      "titleTarget" : "Kratkotrajni rad Corone produžit će se za tri mjeseca do kraja lipnja",
+      "url" : "https://kurier.at/politik/inland/corona-kurzarbeit-wird-um-drei-monate-bis-ende-juni-verlaengert/401191351"
     }, {
       "id" : "0ijIvyQy",
       "imgUrl" : "https://image.kurier.at/images/original/48786/Mariahilfer-000_KURIER%252B_gnedt%252Bmartin.jpg",
       "titleSource" : "Zuwanderung: Wieder 6.020 Quotenplätze",
       "titleTarget" : "Imigracija: Ponovno 6.020 mjesta s kvotama",
       "url" : "https://kurier.at/politik/inland/zuwanderung-wieder-6020-quotenplaetze/401190928"
-    }, {
-      "id" : "NNNesvl2",
-      "imgUrl" : "https://image.kurier.at/images/original/4070829/20200122-ABD0007-1-1.jpg",
-      "titleSource" : "Edtstadler sieht keine Attacke auf Justiz",
-      "titleTarget" : "Edtstadler ne vidi napad na pravdu",
-      "url" : "https://kurier.at/politik/inland/edtstadler-sieht-keine-attacke-auf-justiz/401190856"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "5dCvRj2H",
-      "imgUrl" : "https://image.kurier.at/images/original/4943524/46-173695314.jpg",
-      "titleSource" : "Gastronomie und Hotellerie: Lockdown mit fatalen Folgen",
-      "titleTarget" : "Gastronomija i hotelijerstvo: zaključavanje s fatalnim posljedicama",
-      "url" : "https://kurier.at/wirtschaft/gastronomie-und-hotellerie-lockdown-mit-fatalen-folgen/401190676"
-    }, {
       "id" : "zAeI3Vg4",
       "imgUrl" : "https://image.kurier.at/images/original/4938997/46-175621680.jpg",
       "titleSource" : "Wohnungsbau in Wien: \"Laufen Gefahr, Überangebot zu produzieren\"",
       "titleTarget" : "Izgradnja stanova u Beču: \"Rizikujte od pretjerane ponude\"",
       "url" : "https://kurier.at/wirtschaft/immobiz/wohnungsbau-in-wien-laufen-gefahr-ueberangebot-zu-produzieren/401188633"
     }, {
-      "id" : "WPVO96jL",
-      "imgUrl" : "https://image.kurier.at/images/original/3944354/81690356751829400_BLD_Online.jpg",
-      "titleSource" : "Kryptowährungen, das Geld des Internet-Zeitalters",
-      "titleTarget" : "Kriptovalute, novac internetskog doba",
-      "url" : "https://kurier.at/wirtschaft/kryptowaehrungen-das-geld-des-internet-zeitalters/401190406"
+      "id" : "5dCvRj2H",
+      "imgUrl" : "https://image.kurier.at/images/original/4943524/46-173695314.jpg",
+      "titleSource" : "Gastronomie und Hotellerie: Lockdown mit fatalen Folgen",
+      "titleTarget" : "Gastronomija i hotelijerstvo: zaključavanje s fatalnim posljedicama",
+      "url" : "https://kurier.at/wirtschaft/gastronomie-und-hotellerie-lockdown-mit-fatalen-folgen/401190676"
     }, {
-      "id" : "dMAX3bsJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4824777/78370011358005610_BLD_Online.jpg",
-      "titleSource" : "Die Chronologie des Bitcoin-Kurses",
-      "titleTarget" : "Kronologija tečaja Bitcoin",
-      "url" : "https://kurier.at/wirtschaft/die-chronologie-des-bitcoin-kurses/401190427"
+      "id" : "TeihUskh",
+      "imgUrl" : "https://image.kurier.at/images/original/1861326/IKEAKatalog2011App_400x280.jpg",
+      "titleSource" : "Nach erfolgreichem Testlauf: Ikea-Möbel vom Billa-Parkplatz",
+      "titleTarget" : "Nakon uspješne probne vožnje: Ikein namještaj s parkirališta Billa",
+      "url" : "https://kurier.at/wirtschaft/nach-erfolgreichem-testlauf-ikea-moebel-vom-billa-parkplatz/401191504"
     }, {
       "id" : "2HzOePjZ",
       "imgUrl" : "https://image.kurier.at/images/original/4938994/46-83300091.jpg",
@@ -77,17 +71,23 @@
       "titleTarget" : "Spor oko povećanja standardnih najamnina",
       "url" : "https://kurier.at/wirtschaft/immobiz/zwist-um-die-erhoehung-der-richtwertmieten/401188627"
     }, {
-      "id" : "z20DQdzh",
-      "imgUrl" : "https://image.kurier.at/images/original/4904017/46-174222579.jpg",
-      "titleSource" : "AK und ÖGB sehen steuerrechtlichen \"Patzer\" im Homeoffice-Gesetz",
-      "titleTarget" : "AK i ÖGB vide porezni zakon \"nedostatke\" u zakonu o matičnim uredima",
-      "url" : "https://kurier.at/wirtschaft/ak-und-oegb-sehen-steuerrechtlichen-patzer-im-homeoffice-gesetz/401191234"
+      "id" : "xtM7bJnS",
+      "imgUrl" : "https://image.kurier.at/images/original/4944724/46-175778709.jpg",
+      "titleSource" : "Neue Impfstoffe: Staatliche Förderung nur noch gegen Auflagen?",
+      "titleTarget" : "Nova cjepiva: Državno financiranje samo pod uvjetom?",
+      "url" : "https://kurier.at/wirtschaft/impfstoff-staatliche-foerderung-nur-noch-gegen-auflagen/401191405"
     }, {
-      "id" : "yVtkO8u5",
-      "imgUrl" : "https://image.kurier.at/images/original/3872660/78350011451309568_BLD_Online.jpg",
-      "titleSource" : "Nestle verkauft Wassersparte in Nordamerika",
-      "titleTarget" : "Nestle prodaje posao s vodom u Sjevernoj Americi",
-      "url" : "https://kurier.at/wirtschaft/nestle-verkauft-wassersparte-in-nordamerika/401190976"
+      "id" : "z4LeGuzr",
+      "imgUrl" : "https://image.kurier.at/images/original/2069602/46-68326690.jpg",
+      "titleSource" : "Nivea-Mutter Beiersdorf mit Umsatzrückgang im Corona-Jahr",
+      "titleTarget" : "Nivea roditelj Beiersdorf sa padom prodaje u godini Corona",
+      "url" : "https://kurier.at/wirtschaft/nivea-mutter-beiersdorf-mit-umsatzrueckgang-im-corona-jahr/401191867"
+    }, {
+      "id" : "39aYlgrY",
+      "imgUrl" : "https://image.kurier.at/images/original/4803495/78370011357833074_BLD_Online.jpg",
+      "titleSource" : "Lufthansa baut ihre Pilotenausbildung um",
+      "titleTarget" : "Lufthansa restrukturira svoju obuku za pilote",
+      "url" : "https://kurier.at/wirtschaft/lufthansa-baut-ihre-pilotenausbildung-um/401191816"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,17 +98,17 @@
       "titleTarget" : "1.735 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1735-neue-corona-infektionen-in-oesterreich/401190997"
     }, {
+      "id" : "1oId1oh0",
+      "imgUrl" : "https://image.kurier.at/images/original/4945594/46-165443439.jpg",
+      "titleSource" : "Corona-Notstand in der Slowakei: Bundesheer-Soldaten sollen helfen",
+      "titleTarget" : "Izvanredna situacija s Coronom u Slovačkoj: Vojnici oružanih snaga trebali bi pomoći",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-notstand-in-der-slowakei-bundesheer-soldaten-sollen-helfen/401191792"
+    }, {
       "id" : "piXMokK7",
-      "imgUrl" : "https://image.kurier.at/images/original/4944697/46-170519551.jpg",
-      "titleSource" : "Kurzarbeit wird um drei Monate bis Ende Juni verlängert + 1.735 Neuinfektionen in Österreich",
+      "imgUrl" : "https://image.kurier.at/images/original/4936261/20210213-ABD0052-1-1.jpg",
+      "titleSource" : "Über 45.000 Covid-Anzeigen; 536 Tests in Schulen positiv",
       "titleTarget" : "Kratkotrajni rad produžit će se za tri mjeseca do kraja lipnja + 1.735 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/neuinfektionen-vorige-woche-weltweit-um-16-prozent-zurueckgegangen/401190910"
-    }, {
-      "id" : "5zdCqPqk",
-      "imgUrl" : "https://image.kurier.at/images/original/4943581/46-175743175.jpg",
-      "titleSource" : "Deutschland verlängert Einreiseverbot für Tirol",
-      "titleTarget" : "Njemačka produljuje zabranu ulaska za Tirol",
-      "url" : "https://kurier.at/chronik/oesterreich/deutschland-verlaengert-einreiseverbot-fuer-tirol/401190718"
     }, {
       "id" : "QBNo81XQ",
       "imgUrl" : "https://image.kurier.at/images/original/4942447/46-175734871.jpg",
@@ -122,32 +122,26 @@
       "titleTarget" : "Nagađanja oko Schönbrunna: došlo je do novog imena",
       "url" : "https://kurier.at/chronik/oesterreich/raetselraten-um-schoenbrunn-ein-neuer-name-ist-gefallen/401190694"
     }, {
-      "id" : "Lcmy2ln6",
-      "imgUrl" : "https://image.kurier.at/images/original/3294644/78350011447168768_BLD_Online.jpg",
-      "titleSource" : "Schwerer Auffahrunfall auf A9 bei Graz: Ein Toter, eine Schwerverletzte",
-      "titleTarget" : "Ozbiljan sudar straga na A9 kod Graza: jedan smrtno stradao, jedan teško ozlijeđen",
-      "url" : "https://kurier.at/chronik/oesterreich/schwerer-auffahrunfall-auf-a9-bei-graz-ein-toter-eine-schwerverletzte/401190973"
-    }, {
       "id" : "e3zdehrh",
       "imgUrl" : "https://image.kurier.at/images/original/4943614/46-166775670.jpg",
       "titleSource" : "Die Mühen nach Doskozils Wahlsieg",
       "titleTarget" : "Nevolje nakon Doskozilove izborne pobjede",
       "url" : "https://kurier.at/chronik/oesterreich/die-muehen-nach-doskozils-wahlsieg/401190736"
+    }, {
+      "id" : "PjQtiKI6",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Versuchte Kindesentführung in der Oststeiermark angezeigt",
+      "titleTarget" : "Zabilježen pokušaj otmice djece u istočnoj Štajerskoj",
+      "url" : "https://kurier.at/chronik/oesterreich/versuchte-kindesentfuehrung-in-der-oststeiermark-angezeigt/401191696"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "L8UNtqj5",
-      "imgUrl" : "https://image.kurier.at/images/original/4943602/46-175761706.jpg",
-      "titleSource" : "\"Nobel war seine ganze Person\": Arik Brauer in Wien verabschiedet",
-      "titleTarget" : "\"Nobel je bio cijela njegova osoba\": Arik Brauer oprostio se u Beču",
-      "url" : "https://kurier.at/kultur/nobel-war-seine-ganze-person-arik-brauer-in-wien-verabschiedet/401190727"
-    }, {
-      "id" : "06cHqf9U",
-      "imgUrl" : "https://image.kurier.at/images/original/4943608/46-175764750.jpg",
-      "titleSource" : "Spanischer Dichter Margarit mit 82 gestorben",
-      "titleTarget" : "Španjolska pjesnikinja Margarit umrla je u 82. godini",
-      "url" : "https://kurier.at/kultur/spanischer-dichter-margarit-mit-82-gestorben/401190739"
+      "id" : "CFHfDh25",
+      "imgUrl" : "https://image.kurier.at/images/original/4944970/01-dpv-maria_eichhorn.jpg",
+      "titleSource" : "Maria Eichhorn vertritt Deutschland auf der Biennale Venedig",
+      "titleTarget" : "Maria Eichhorn predstavlja Njemačku na Venecijanskom bijenalu",
+      "url" : "https://kurier.at/kultur/maria-eichhorn-vertritt-deutschland-auf-der-biennale-venedig/401191531"
     }, {
       "id" : "naL06P8R",
       "imgUrl" : "https://image.kurier.at/images/original/4943635/46-175742439.jpg",
@@ -155,17 +149,10 @@
       "titleTarget" : "Pljesnite rukama: Da, političke pjesme protiv pohlepe za vlašću",
       "url" : "https://kurier.at/kultur/clap-your-hands-say-yeah-politik-songs-gegen-die-gier-nach-macht/401190745"
     }, {
-      "id" : "VwPnwePw",
-      "imgUrl" : "https://image.kurier.at/images/original/4943533/46-175761658.jpg",
-      "titleSource" : "Marvin Kren: „Die Komödie ist eine  Flucht nach vorne“",
-      "titleTarget" : "Marvin Kren: \"Komedija je bijeg prema naprijed\"",
-      "url" : "https://kurier.at/kultur/marvin-kren-die-komoedie-ist-eine-flucht-nach-vorne/401190751"
-    }, {
-      "id" : "CFHfDh25",
-      "imgUrl" : "https://image.kurier.at/images/original/4944970/01-dpv-maria_eichhorn.jpg",
-      "titleSource" : "Maria Eichhorn vertritt Deutschland auf der Biennale Venedig",
-      "titleTarget" : "Maria Eichhorn predstavlja Njemačku na Venecijanskom bijenalu",
-      "url" : "https://kurier.at/kultur/maria-eichhorn-vertritt-deutschland-auf-der-biennale-venedig/401191531"
+      "id" : "qWZXnxRD",
+      "titleSource" : "Stereo-Total-Sängerin und Künstlerin Francoise Cactus gestorben",
+      "titleTarget" : "Umrla je stereo-total pjevačica i umjetnica Francoise Cactus",
+      "url" : "https://kurier.at/kultur/stereo-total-saengerin-und-kuenstlerin-francoise-cactus-gestorben/401192002"
     }, {
       "id" : "V1lYPIPF",
       "imgUrl" : "https://image.kurier.at/images/original/4943533/46-175761658.jpg",
@@ -176,11 +163,11 @@
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "cenlhcAE",
-      "imgUrl" : "https://image.kurier.at/images/original/4942762/46-175718163.jpg",
-      "titleSource" : "Nebenwirkungen werden am öftesten bei Astra Zeneca gemeldet",
-      "titleTarget" : "Nuspojave se najčešće prijavljuju Astri Zeneci",
-      "url" : "https://kurier.at/wissen/gesundheit/nebenwirkungen-werden-am-oeftesten-bei-astra-zeneca-gemeldet/401190397"
+      "id" : "cQXBLDdx",
+      "imgUrl" : "https://image.kurier.at/images/original/4547879/78350011455714584_BLD_Online.jpg",
+      "titleSource" : "Pathologe zieht Schlüsse aus Obduktionen von 100 Corona-Toten",
+      "titleTarget" : "Patolog donosi zaključke iz obdukcije 100 smrtnih slučajeva od korone",
+      "url" : "https://kurier.at/wissen/gesundheit/pathologe-zieht-schluesse-aus-obduktionen-von-100-corona-toten/401191006"
     }, {
       "id" : "vEIYgHwg",
       "imgUrl" : "https://image.kurier.at/images/original/4943734/46-174233979.jpg",
@@ -188,62 +175,56 @@
       "titleTarget" : "Christian Drosten: Nastavite se oslanjati na Astru Zenecu",
       "url" : "https://kurier.at/wissen/gesundheit/christian-drosten-weiterhin-auf-astrazeneca-setzen/401190805"
     }, {
-      "id" : "cQXBLDdx",
-      "imgUrl" : "https://image.kurier.at/images/original/4547879/78350011455714584_BLD_Online.jpg",
-      "titleSource" : "Pathologe zieht Schlüsse aus Obduktionen von 100 Corona-Toten",
-      "titleTarget" : "Patolog donosi zaključke iz obdukcije 100 smrtnih slučajeva od korone",
-      "url" : "https://kurier.at/wissen/gesundheit/pathologe-zieht-schluesse-aus-obduktionen-von-100-corona-toten/401191006"
-    }, {
       "id" : "TgnDhDo8",
       "imgUrl" : "https://image.kurier.at/images/original/4941280/corona.jpg",
       "titleSource" : "Seltene Corona-Mutation erstmals in Italien nachgewiesen",
       "titleTarget" : "Rijetka mutacija korone otkrivena je prvi put u Italiji",
       "url" : "https://kurier.at/wissen/gesundheit/seltene-corona-mutation-erstmals-in-italien-nachgewiesen/401190979"
     }, {
-      "id" : "8CnLMEwi",
-      "imgUrl" : "https://image.kurier.at/images/original/4943431/46-175738199.jpg",
-      "titleSource" : "Johnson & Johnson beantragt Impfstoff-Zulassung in der EU",
-      "titleTarget" : "Johnson & Johnson podnosi zahtjev za odobrenje cjepiva u EU",
-      "url" : "https://kurier.at/wissen/gesundheit/johnson-johnson-beantragt-impfstoff-zulassung-in-der-eu/401190649"
+      "id" : "HsoHXyX7",
+      "imgUrl" : "https://image.kurier.at/images/original/4560695/46-166483316.jpg",
+      "titleSource" : "Österreich bei Test-Zahlen unter den Weltmeistern",
+      "titleTarget" : "Austrija među svjetskim prvacima u testnim brojevima",
+      "url" : "https://kurier.at/wissen/gesundheit/oesterreich-bei-test-zahlen-unter-den-weltmeistern/401191303"
     }, {
-      "id" : "nAyney1c",
-      "imgUrl" : "https://image.kurier.at/images/original/4942837/46-169036706.jpg",
-      "titleSource" : "Südafrikanische Coronavirus-Variante in Südtirol nachgewiesen",
-      "titleTarget" : "Južnoafrička varijanta koronavirusa otkrivena u Južnom Tirolu",
-      "url" : "https://kurier.at/wissen/gesundheit/suedafrikanische-coronavirus-variante-in-suedtirol-nachgewiesen/401190430"
+      "id" : "DsSHimtZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4912075/46-175101814.jpg",
+      "titleSource" : "200 Millionen mehr Pfizer-Impfstoff für die EU vereinbart",
+      "titleTarget" : "Još 200 milijuna cjepiva Pfizer dogovoreno za EU",
+      "url" : "https://kurier.at/wissen/gesundheit/200-millionen-mehr-pfizer-impfstoff-fuer-die-eu-vereinbart/401191231"
     }, {
       "id" : "lGTVWK0g",
       "imgUrl" : "https://image.kurier.at/images/original/2704937/46-111013340.jpg",
       "titleSource" : "Freiwillige für absichtliche Corona-Ansteckung gesucht",
       "titleTarget" : "Dobrovoljci traženi zbog namjerne infekcije koronom",
       "url" : "https://kurier.at/wissen/gesundheit/freiwillige-fuer-absichtliche-corona-ansteckung-gesucht/401191330"
+    }, {
+      "id" : "9RnrqHff",
+      "imgUrl" : "https://image.kurier.at/images/original/4856577/46-173898252.jpg",
+      "titleSource" : "EU hat 300 Millionen Impfdosen von Moderna bestellt",
+      "titleTarget" : "EU je naručila 300 milijuna doza cjepiva od Moderne",
+      "url" : "https://kurier.at/wissen/gesundheit/eu-will-noch-bis-zu-300-millionen-impfdosen-von-moderna/401191447"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "28sf4UJE",
-      "imgUrl" : "https://image.kurier.at/images/original/4943236/46-175764307.jpg",
-      "titleSource" : "Liensberger holt 100. Gold für ÖSV bei Ski-Weltmeisterschaften",
-      "titleTarget" : "Liensberger je osvojio 100. zlato za ÖSV na svjetskom skijaškom prvenstvu",
-      "url" : "https://kurier.at/sport/wintersport/parallelrennen-katharina-liensberger-holt-100-oesv-gold-bei-ski-weltmeisterschaften/401189944"
+      "id" : "T4t5pWWh",
+      "imgUrl" : "https://image.kurier.at/images/original/4944766/46-167616105.jpg",
+      "titleSource" : "Der LASK wirbt um Austria-Stürmer Christoph Monschein",
+      "titleTarget" : "LASK oglašava austrijskog napadača Christoph Monscheina",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-der-lask-wirbt-um-austria-stuermer-christoph-monschein/401191417"
     }, {
-      "id" : "XA5Q0y38",
-      "imgUrl" : "https://image.kurier.at/images/original/4943563/46-175766273.jpg",
-      "titleSource" : "Totales Chaos: Liensberger holt doch das 100. ÖSV-Gold",
-      "titleTarget" : "Totalni kaos: Liensberger osvaja 100. ÖSV zlato",
-      "url" : "https://kurier.at/sport/wintersport/totales-chaos-liensberger-holt-doch-das-100-oesv-gold-bei-der-ski-wm-in-cortina-dampezzo/401190703"
+      "id" : "YKA8UOcd",
+      "imgUrl" : "https://image.kurier.at/images/original/4944076/46-175712753.jpg",
+      "titleSource" : "Nach dem Aus in Australien fällt Thiem aus den Top 3 der Welt",
+      "titleTarget" : "Nakon što je napustio Australiju, Thiem ispada iz top 3 na svijetu",
+      "url" : "https://kurier.at/sport/tennis/aus-bei-den-australian-open-tennis-star-dominic-thiem-aus-den-top-3-der-welt/401191021"
     }, {
-      "id" : "qj8jXPZf",
-      "imgUrl" : "https://image.kurier.at/images/original/4943173/46-175734016.jpg",
-      "titleSource" : "Hubertus Hohenlohe und sein adeliger Ski-WM-Rekord",
-      "titleTarget" : "Hubertus Hohenlohe i njegov rekord u aristokratskom svjetskom skijaškom prvenstvu",
-      "url" : "https://kurier.at/sport/wintersport/hubertus-hohenlohe-und-sein-adeliger-ski-wm-rekord-in-cortina/401190538"
-    }, {
-      "id" : "sb2yu9Q8",
-      "imgUrl" : "https://image.kurier.at/images/original/4944727/46-175741829.jpg",
-      "titleSource" : "Marco Rose und die Wut der Fans: \"Habe niemanden umgebracht\"",
-      "titleTarget" : "Marco Rose i bijes obožavatelja: \"Nisam nikoga ubio\"",
-      "url" : "https://kurier.at/sport/fussball/gladbach-trainer-marco-rose-und-die-wut-der-fans-habe-niemanden-umgebracht/401191381"
+      "id" : "gbyhIbo2",
+      "imgUrl" : "https://image.kurier.at/images/original/4945180/46-175783537.jpg",
+      "titleSource" : "Nach 0:2-Rückstand: Tsitsipas ringt Tennis-Star Nadal nieder",
+      "titleTarget" : "Nakon zaostatka 0-2: Tsitsipas se hrvao s teniskom zvijezdom Nadal",
+      "url" : "https://kurier.at/sport/tennis/nach-02-rueckstand-stefano-tsitsipas-ringt-tennis-star-rafael-nadal-nieder/401191555"
     }, {
       "id" : "okup4lr1",
       "imgUrl" : "https://image.kurier.at/images/original/4944598/46-175559383.jpg",
@@ -251,17 +232,23 @@
       "titleTarget" : "ASKÖ također kritizira vladu: \"divljanje zdravstvene politike\"",
       "url" : "https://kurier.at/sport/auch-askoe-kritisiert-corona-management-der-regierung-gesundheitspolitischer-amoklauf/401191282"
     }, {
-      "id" : "Yd9uUqHO",
-      "imgUrl" : "https://image.kurier.at/images/original/4944262/46-175773655.jpg",
-      "titleSource" : "Erfolgreiche 24-Punkte-Aufholjagd der Brooklyn Nets in der NBA",
-      "titleTarget" : "Uspješno nadoknađivanje Brooklyn Netsa s 24 poena u NBA ligi",
-      "url" : "https://kurier.at/sport/erfolgreiche-24-punkte-aufholjagd-der-brooklyn-nets-in-der-nba/401191147"
+      "id" : "qj8jXPZf",
+      "imgUrl" : "https://image.kurier.at/images/original/4943173/46-175734016.jpg",
+      "titleSource" : "Hubertus Hohenlohe und sein adeliger Ski-WM-Rekord",
+      "titleTarget" : "Hubertus Hohenlohe i njegov rekord u aristokratskom svjetskom skijaškom prvenstvu",
+      "url" : "https://kurier.at/sport/wintersport/hubertus-hohenlohe-und-sein-adeliger-ski-wm-rekord-in-cortina/401190538"
     }, {
-      "id" : "YKA8UOcd",
-      "imgUrl" : "https://image.kurier.at/images/original/4944076/46-175712753.jpg",
-      "titleSource" : "Nach dem Aus in Australien fällt Thiem aus den Top 3 der Welt",
-      "titleTarget" : "Nakon što je napustio Australiju, Thiem ispada iz top 3 na svijetu",
-      "url" : "https://kurier.at/sport/tennis/aus-bei-den-australian-open-tennis-star-dominic-thiem-aus-den-top-3-der-welt/401191021"
+      "id" : "ooneFVlD",
+      "imgUrl" : "https://image.kurier.at/images/original/4945552/46-175814400.jpg",
+      "titleSource" : "ÖSV-Biathlet Eder im WM-Einzel Siebenter, Laegreid holte Gold",
+      "titleTarget" : "ÖSV biatlonac Eder sedmi u singlu Svjetskog kupa, Laegreid je osvojio zlato",
+      "url" : "https://kurier.at/sport/wintersport/oesv-biathlet-eder-im-wm-einzel-siebenter-laegreid-holte-gold/401191777"
+    }, {
+      "id" : "JgfixI0j",
+      "imgUrl" : "https://image.kurier.at/images/original/4945540/46-173460349.jpg",
+      "titleSource" : "\"Dürfen träumen\": Schumacher träumt von Podium im Premierenjahr",
+      "titleTarget" : "\"Svibanj sanjati\": Schumacher sanja premijersko postolje u premijernoj godini",
+      "url" : "https://kurier.at/sport/motorsport/duerfen-traeumen-mick-schumacher-traeumt-von-podium-im-premierenjahr-mit-haas/401191759"
     } ]
   } ],
   "country" : "austria",
