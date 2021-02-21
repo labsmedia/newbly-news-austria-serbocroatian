@@ -2,18 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "7Il1lIge",
-      "imgUrl" : "https://image.kurier.at/images/original/4934902/20210212-ABD0082-1-1.jpg",
-      "titleSource" : "U-Ausschuss: SPÖ, NEOS, FPÖ zeigen Blümel wegen Falschaussage an",
-      "titleTarget" : "Odbor U: SPÖ, NEOS, FPÖ prijavljuju Blümela zbog lažnih izjava",
-      "url" : "https://kurier.at/politik/inland/spoe-neos-und-fpoe-zeigen-bluemel-wegen-falschaussage-an/401194790"
-    }, {
-      "id" : "gKApAahp",
-      "imgUrl" : "https://image.kurier.at/images/original/4944826/20210217-ABD0052-1-1.jpg",
-      "titleSource" : "Justiz: Blümel-Hausdurchsuchung nicht wegen \"Kurz\"-Kalendereintrag",
-      "titleTarget" : "Pravda: Blümelova pretraga kuće ne zbog \"kratkog\" unosa u kalendar",
-      "url" : "https://kurier.at/politik/inland/justiz-bluemel-hausdurchsuchung-erfolgte-nicht-wegen-kalendereintrags/401194760"
-    }, {
       "id" : "RVATG2UD",
       "imgUrl" : "https://image.kurier.at/images/original/4874448/20210115-ABD0074-1-1.jpg",
       "titleSource" : "Anschober: Kapazität von 2,7 Millionen Tests pro Woche",
@@ -37,6 +25,12 @@
       "titleSource" : "Aus für Amtsgeheimnis auch am VfGH: „Eine sehr gute Idee“",
       "titleTarget" : "Isključuje službenu tajnu i na VfGH: \"Vrlo dobra ideja\"",
       "url" : "https://kurier.at/politik/inland/aus-fuer-amtsgeheimnis-auch-am-verfassungsgerichtshof-gute-idee/401195213"
+    }, {
+      "id" : "WsIJkvcg",
+      "imgUrl" : "https://image.kurier.at/images/original/4929040/46-175555525.jpg",
+      "titleSource" : "Causa Novomatic: Blümel würde \"alles noch einmal so machen\"",
+      "titleTarget" : "Causa Novomatic: Blümel bi \"sve ponovio\"",
+      "url" : "https://kurier.at/politik/inland/causa-novomatic-bluemel-wuerde-alles-noch-einmal-so-machen/401195306"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -53,62 +47,32 @@
       "titleTarget" : "Do 20 sati: supermarketi se žele vratiti u svoja stara radna vremena",
       "url" : "https://kurier.at/wirtschaft/bis-2000-uhr-supermaerkte-wollen-zurueck-zu-alten-oeffnungszeiten/401195048"
     }, {
-      "id" : "SRlbNvH2",
-      "imgUrl" : "https://image.kurier.at/images/original/4942981/46-175760936.jpg",
-      "titleSource" : "Bitcoin braucht mehr Strom als ganz Argentinien",
-      "titleTarget" : "Bitcoin treba više električne energije nego cijela Argentina",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-braucht-mehr-strom-als-ganz-argentinien/401194691"
-    }, {
-      "id" : "hTXogDfk",
-      "imgUrl" : "https://image.kurier.at/images/original/4949554/46-87299174.jpg",
-      "titleSource" : "Pensionslücke: Finden mehr Menschen Arbeit, wenn Boomer gehen?",
-      "titleTarget" : "Mirovinska praznina: Hoće li više ljudi naći posao kad boomeri odu?",
-      "url" : "https://kurier.at/wirtschaft/karriere/pensionsluecke-finden-mehr-menschen-arbeit-wenn-boomer-gehen/401193583"
-    }, {
-      "id" : "d0KRIGQr",
-      "imgUrl" : "https://image.kurier.at/images/original/4949407/46-175777272.jpg",
-      "titleSource" : "Modehandel: Händler sitzen auf Bergen unverkaufter Ware",
-      "titleTarget" : "Modna trgovina: trgovci sjede na planinama neprodane robe",
-      "url" : "https://kurier.at/wirtschaft/karriere/modehandel-haendler-sitzen-auf-bergen-unverkaufter-ware/401193580"
-    }, {
       "id" : "DiRj0Og2",
       "imgUrl" : "https://image.kurier.at/images/original/1977790/46-68462143.jpg",
       "titleSource" : "Bessere Kinderbetreuung gegen Einkommensnachteil von Frauen",
       "titleTarget" : "Bolja briga o djeci protiv dohotka za žene",
       "url" : "https://kurier.at/wirtschaft/bessere-kinderbetreuung-gegen-einkommensnachteil-von-frauen/401194922"
     }, {
-      "id" : "upRpwdm0",
-      "imgUrl" : "https://image.kurier.at/images/original/4949374/46-175782686.jpg",
-      "titleSource" : "Social Business opencoach.at: „Wir wollen die Krise abfedern“",
-      "titleTarget" : "Social Business opencoach.at: \"Želimo ublažiti krizu\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/social-business-opencoachat-wir-wollen-die-krise-abfedern/401193571"
+      "id" : "6u5s68rp",
+      "imgUrl" : "https://image.kurier.at/images/original/4903972/handy.jpg",
+      "titleSource" : "\"Schiefe Optik\": Mobilfunker heben gleichzeitig Preise an",
+      "titleTarget" : "\"Naslonjena optika\": mobilni operateri istodobno podižu cijene",
+      "url" : "https://kurier.at/wirtschaft/schiefe-optik-mobilfunker-heben-gleichzeitig-preise-an/401195396"
+    }, {
+      "id" : "BozchdCf",
+      "imgUrl" : "https://image.kurier.at/images/original/3991035/46-150396790.jpg",
+      "titleSource" : "Sparquote in Eurozone verdoppelte sich im Corona-Jahr",
+      "titleTarget" : "Stopa štednje u eurozoni udvostručila se u godini Corone",
+      "url" : "https://kurier.at/wirtschaft/sparquote-in-eurozone-verdoppelte-sich-im-corona-jahr/401195360"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "Iq9wO1pj",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.877 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.877 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1877-neue-corona-infektionen-in-oesterreich/401193742"
-    }, {
-      "id" : "2H3pRDrD",
-      "imgUrl" : "https://image.kurier.at/images/original/4910725/46-175302539.jpg",
-      "titleSource" : "„Angstschnitte“ drohen: Richter stellen einen Baum auf",
-      "titleTarget" : "\"Prijere straha\" prijete: Suci postavili drvo",
-      "url" : "https://kurier.at/chronik/oesterreich/angstschnitte-drohen-richter-stellen-einen-baum-auf/401194520"
-    }, {
       "id" : "KPyUV1Cz",
       "imgUrl" : "https://image.kurier.at/images/original/4936375/20210213-ABD0078-1-1.jpg",
       "titleSource" : "Untersagte Corona-Demo zog weitgehend friedlich durch Innsbruck",
       "titleTarget" : "Zabranjeni demo s koronom kretao se uglavnom mirno kroz Innsbruck",
       "url" : "https://kurier.at/chronik/oesterreich/untersagte-corona-demo-zog-weitgehend-friedlich-durch-innsbruck/401195156"
-    }, {
-      "id" : "013SS8uy",
-      "imgUrl" : "https://image.kurier.at/images/original/4952915/46-175563612.jpg",
-      "titleSource" : "Das sind die Bezirke mit der höchsten 7-Tages-Inzidenz in Österreich",
-      "titleTarget" : "To su okruzi s najvećom sedmodnevnom učestalošću u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/das-sind-die-bezirke-mit-der-hoechsten-7-tages-inzidenz-in-oesterreich/401194979"
     }, {
       "id" : "DRy9TNUq",
       "imgUrl" : "https://image.kurier.at/images/original/4953677/46-175904956.jpg",
@@ -116,39 +80,39 @@
       "titleTarget" : "U Ischglu ove zime vjerojatno više neće biti lifta",
       "url" : "https://kurier.at/chronik/oesterreich/in-ischgl-faehrt-in-diesem-winter-wohl-kein-lift-mehr/401195150"
     }, {
-      "id" : "ORtdjcC0",
-      "imgUrl" : "https://image.kurier.at/images/original/4952525/46-81674286.jpg",
-      "titleSource" : "Drogenlenker schrottete auf Flucht vor der Polizei sein Auto",
-      "titleTarget" : "Vozač droge razbio je svoj automobil bježeći od policije",
-      "url" : "https://kurier.at/chronik/oesterreich/drogenlenker-schrottete-auf-flucht-vor-der-polizei-sein-auto/401194820"
+      "id" : "Q1liHX35",
+      "imgUrl" : "https://image.kurier.at/images/original/4954196/46-175532289.jpg",
+      "titleSource" : "Corona: Gratistests fast flächendeckend - Lücken in Landgemeinden",
+      "titleTarget" : "Corona: Besplatni testovi gotovo svugdje - praznine u ruralnim zajednicama",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-gratistests-fast-flaechendeckend-luecken-in-landgemeinden/401195261"
     }, {
-      "id" : "cmu21IaL",
-      "imgUrl" : "https://image.kurier.at/images/original/4952603/20210219_122030.jpg",
-      "titleSource" : "Radfahrer wollte in Salzburg auf die Tauernautobahn auffahren",
-      "titleTarget" : "Biciklisti su se željeli voziti autocestom Tauern u Salzburgu",
-      "url" : "https://kurier.at/chronik/oesterreich/radfahrer-wollte-in-salzburg-auf-die-tauernautobahn-auffahren/401194874"
+      "id" : "013SS8uy",
+      "imgUrl" : "https://image.kurier.at/images/original/4952915/46-175563612.jpg",
+      "titleSource" : "Das sind die Bezirke mit der höchsten 7-Tages-Inzidenz in Österreich",
+      "titleTarget" : "To su okruzi s najvećom sedmodnevnom učestalošću u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/das-sind-die-bezirke-mit-der-hoechsten-7-tages-inzidenz-in-oesterreich/401194979"
+    }, {
+      "id" : "JhKDTVgZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4939498/46-175730885.jpg",
+      "titleSource" : "Deutschland wies an Grenzen 16.000 von Tirol und Tschechien ab",
+      "titleTarget" : "Njemačka je okrenula 16.000 od Tirola i Češke na granicama",
+      "url" : "https://kurier.at/chronik/oesterreich/deutschland-wies-an-grenzen-16000-von-tirol-und-tschechien-ab/401195279"
+    }, {
+      "id" : "ISZbJTGC",
+      "imgUrl" : "https://image.kurier.at/images/original/4715535/46-166414093.jpg",
+      "titleSource" : "Kärnten-Wahlen: Urnengang unter erschwerten Bedingungen",
+      "titleTarget" : "Koruški izbori: glasanje pod teškim uvjetima",
+      "url" : "https://kurier.at/chronik/oesterreich/kaernten-wahlen-urnengang-unter-erschwerten-bedingungen/401195273"
+    }, {
+      "id" : "UdYRJ5fB",
+      "imgUrl" : "https://image.kurier.at/images/original/4953710/46-175873194.jpg",
+      "titleSource" : "Neue Lust am Radeln: Der Drahtesel dreht auf",
+      "titleTarget" : "Novo zadovoljstvo u biciklizmu: bicikl se okreće",
+      "url" : "https://kurier.at/chronik/oesterreich/neue-lust-am-radeln-der-drahtesel-dreht-auf/401195162"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "O8vgkXBz",
-      "imgUrl" : "https://image.kurier.at/images/original/4949545/46-174005008.jpg",
-      "titleSource" : "Buchkritik: \"Nur vom Weltraum aus ist die Erde blau\"",
-      "titleTarget" : "Recenzija knjige: \"Zemlja je plava samo iz svemira\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-nur-vom-weltraum-aus-ist-die-erde-blau/401193658"
-    }, {
-      "id" : "YZjbHXyq",
-      "imgUrl" : "https://image.kurier.at/images/original/4949536/46-157030084.jpg",
-      "titleSource" : "Neuer Roman von Yishai Sarid: Wie Soldaten tödlicher werden",
-      "titleTarget" : "Novi roman Yishai Sarida: Kako vojnici postaju smrtonosni",
-      "url" : "https://kurier.at/kultur/buch/neuer-roman-von-yishai-sarid-wie-soldaten-toedlicher-werden/401193652"
-    }, {
-      "id" : "XCBvZHOK",
-      "imgUrl" : "https://image.kurier.at/images/original/4949539/46-150551127.jpg",
-      "titleSource" : "Buchkritik: Isabel Allende und \"Was wir Frauen wollen\"",
-      "titleTarget" : "Recenzija knjige: Isabel Allende i \"Što mi žene želimo\"",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-isabel-allende-und-was-wir-frauen-wollen/401193655"
-    }, {
       "id" : "SNflafZG",
       "imgUrl" : "https://image.kurier.at/images/original/4952831/46-166385398.jpg",
       "titleSource" : "Salzburger Festspiele schreiben Geschäftsführung vorzeitig aus",
@@ -176,17 +140,17 @@
       "titleTarget" : "Po prvi put ljudi zaraženi virusom ptičje gripe tipa AH5N8",
       "url" : "https://kurier.at/wissen/gesundheit/erstmals-menschen-mit-dem-vogelgrippe-virus-typ-ah5n8-infiziert/401195009"
     }, {
-      "id" : "wy4ZrK4E",
-      "imgUrl" : "https://image.kurier.at/images/original/4952462/46-175896439.jpg",
-      "titleSource" : "Russland gibt im Kampf gegen das Coronavirus dritten Impfstoff frei",
-      "titleTarget" : "Rusija je objavila treće cjepivo u borbi protiv koronavirusa",
-      "url" : "https://kurier.at/wissen/gesundheit/russland-gibt-im-kampf-gegen-das-coronavirus-dritten-impfstoff-frei/401194784"
-    }, {
       "id" : "WsyC1VxT",
       "imgUrl" : "https://image.kurier.at/images/original/4952579/46-164905788.jpg",
       "titleSource" : "Datenbank für Desinfektionsmittel hilft, Allergien vorzubeugen",
       "titleTarget" : "Baza podataka o dezinficijensima pomaže u prevenciji alergija",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-datenbank-fuer-desinfektionsmittel-hilft-allergien-vorzubeugen/401194865"
+    }, {
+      "id" : "NHqLRvrT",
+      "imgUrl" : "https://image.kurier.at/images/original/4918276/46-175453216.jpg",
+      "titleSource" : "Biontech-Impfstoff dürfte die Übertragung des Coronavirus verhindern",
+      "titleTarget" : "Biontech cjepivo trebalo bi spriječiti prijenos koronavirusa",
+      "url" : "https://kurier.at/wissen/gesundheit/biontech-impfstoff-duerfte-die-uebertragung-des-coronavirus-verhindern/401195387"
     } ]
   }, {
     "category" : "SPORT",
@@ -196,6 +160,12 @@
       "titleSource" : "Gold im Slalom: Liensberger avanciert zum WM-Superstar",
       "titleTarget" : "Zlato u slalomu: Liensberger postaje super zvijezda Svjetskog kupa",
       "url" : "https://kurier.at/sport/wintersport/gold-im-slalom-oesv-star-liensberger-kroent-eine-starke-ski-wm/401194724"
+    }, {
+      "id" : "iLM4GXAM",
+      "imgUrl" : "https://image.kurier.at/images/original/4953416/46-175916236.jpg",
+      "titleSource" : "Katharina die Große: Die WM-Krönung von ÖSV-Star Liensberger",
+      "titleTarget" : "Katharina velika: Krunidba svjetskog kupa zvijezde ÖSV Liensberger",
+      "url" : "https://kurier.at/sport/wintersport/katharina-die-grosse-die-kroenung-von-oesv-ass-und-wm-superstar-liensberger/401195066"
     }, {
       "id" : "FsOxJV8l",
       "imgUrl" : "https://image.kurier.at/images/original/4952657/46-148824557.jpg",
@@ -209,29 +179,23 @@
       "titleTarget" : "Austrija slavi festival treseta, St. Pölten pobjedničku premijeru",
       "url" : "https://kurier.at/sport/fussball/bundesliga-die-wiener-austria-feiert-ein-torfestival-st-poelten-eine-siegpremiere/401195171"
     }, {
-      "id" : "iLM4GXAM",
-      "imgUrl" : "https://image.kurier.at/images/original/4953416/46-175916236.jpg",
-      "titleSource" : "Katharina die Große: Die WM-Krönung von ÖSV-Star Liensberger",
-      "titleTarget" : "Katharina velika: Krunidba svjetskog kupa zvijezde ÖSV Liensberger",
-      "url" : "https://kurier.at/sport/wintersport/katharina-die-grosse-die-kroenung-von-oesv-ass-und-wm-superstar-liensberger/401195066"
+      "id" : "6tKm1YuS",
+      "imgUrl" : "https://image.kurier.at/images/original/4953248/46-175897588.jpg",
+      "titleSource" : "Schwarz im WM-Slalom als Gejagter: \"Kopf ausschalten und genießen\"",
+      "titleTarget" : "Crno u slalomu Svjetskog kupa dok se lovi: \"Isključi glavu i uživaj\"",
+      "url" : "https://kurier.at/sport/wintersport/marco-schwarz-im-wm-slalom-als-grosser-gejagter-kopf-ausschalten-und-geniessen/401195060"
     }, {
-      "id" : "bCRg5ff8",
-      "imgUrl" : "https://image.kurier.at/images/original/4954136/46-175917786.jpg",
-      "titleSource" : "Warmes Wetter befürchtet: Neue Start-Regel für Herren-Slalom",
-      "titleTarget" : "Strah od toplog vremena: Novo pravilo starta za muški slalom",
-      "url" : "https://kurier.at/sport/wintersport/warmes-wetter-befuerchtet-neue-start-regel-fuer-herren-slalom/401195210"
+      "id" : "NDO5mm7P",
+      "imgUrl" : "https://image.kurier.at/images/original/4954319/46-175919070.jpg",
+      "titleSource" : "Austria-Jubel nach Kantersieg: \"Das ist kein Kinderfußball\"",
+      "titleTarget" : "Likovanje Austrije nakon odbjegle pobjede: \"Ovo nije dječji nogomet\"",
+      "url" : "https://kurier.at/sport/fussball/austrias-schoesswendter-das-ist-bundesliga-kein-kinderfussball/401195174"
     }, {
-      "id" : "tkmFi7px",
-      "imgUrl" : "https://image.kurier.at/images/original/4953704/46-175918650.jpg",
-      "titleSource" : "Atletico Madrid kassierte 0:2-Heimniederlage gegen Levante",
-      "titleTarget" : "Atletico Madrid pretrpio je domaći poraz od 2: 0 protiv Levantea",
-      "url" : "https://kurier.at/sport/fussball/atletico-madrid-kassierte-02-heimniederlage-gegen-levante/401195159"
-    }, {
-      "id" : "8fz1A2Gi",
-      "imgUrl" : "https://image.kurier.at/images/original/4953665/46-175513871.jpg",
-      "titleSource" : "12 Frauen, 16 Herren: Das ist der ÖSV-Kader für die Nordische WM",
-      "titleTarget" : "12 žena, 16 muškaraca: Ovo je ÖSV sastav za Nordijsko svjetsko prvenstvo",
-      "url" : "https://kurier.at/sport/wintersport/12-frauen-16-herren-das-ist-der-oesv-kader-fuer-die-nordische-ski-wm-in-oberstdorf/401195141"
+      "id" : "kc2FMpI8",
+      "imgUrl" : "https://image.kurier.at/images/original/4953419/46-175914915.jpg",
+      "titleSource" : "Liensberger, Schwarz und Co.: Eine einmalige Ski-WM für den ÖSV",
+      "titleTarget" : "Liensberger, Schwarz i suradnici: Jedinstveno svjetsko skijaško prvenstvo za ÖSV",
+      "url" : "https://kurier.at/sport/wintersport/liensberger-schwarz-und-co-eine-einmalige-ski-wm-fuer-den-oesv/401195102"
     } ]
   } ],
   "country" : "austria",
