@@ -2,17 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "id" : "v6HT3q7W",
+      "imgUrl" : "https://image.kurier.at/images/original/4955456/46-173349124.jpg",
+      "titleSource" : "Brisante innenpolitische Woche beginnt mit Kurz-Chats mit Strache",
+      "titleTarget" : "Eksplozivni unutarnjopolitički tjedan započinje kratkim razgovorima sa Stracheom",
+      "url" : "https://kurier.at/politik/inland/brisante-innenpolitische-woche-beginnt-mit-kurz-chats-mit-strache/401195633"
+    }, {
       "id" : "oavvOzHe",
       "imgUrl" : "https://image.kurier.at/images/original/4944343/20210217-ABD0025-1-1.jpg",
       "titleSource" : "FPÖ sieht Van der Bellen bei Ibiza-Video involviert",
       "titleTarget" : "FPÖ vidi Van der Bellena umiješanog u video zapis na Ibizi",
       "url" : "https://kurier.at/politik/inland/live-fpoe-will-bombe-platzen-lassen/401195981"
     }, {
-      "id" : "v6HT3q7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4955456/46-173349124.jpg",
-      "titleSource" : "Brisante innenpolitische Woche beginnt mit Kurz-Chats mit Strache",
-      "titleTarget" : "Eksplozivni unutarnjopolitički tjedan započinje kratkim razgovorima sa Stracheom",
-      "url" : "https://kurier.at/politik/inland/brisante-innenpolitische-woche-beginnt-mit-kurz-chats-mit-strache/401195633"
+      "id" : "r9rmoX8X",
+      "imgUrl" : "https://image.kurier.at/images/original/4135149/bussi_fussi_c_puls_24_fellner_16_hires.jpg",
+      "titleSource" : "Fußi schlägt zurück und legt Beschwerde gegen Nehammer ein",
+      "titleTarget" : "Fußi uzvraća udarac i podnosi žalbu protiv Nehammera",
+      "url" : "https://kurier.at/politik/inland/fussi-schlaegt-zurueck-und-legt-beschwerde-gegen-nehammer-ein/401196854"
     }, {
       "id" : "gV8Tsu2e",
       "imgUrl" : "https://image.kurier.at/images/original/4956533/46-175627186.jpg",
@@ -31,12 +37,6 @@
       "titleSource" : "Homeoffice-Gesetz: Tagesgrenze wird von 42 auf 26 reduziert",
       "titleTarget" : "Zakon o kućnim uredima: dnevno ograničenje smanjeno je s 42 na 26",
       "url" : "https://kurier.at/politik/inland/homeoffice-gesetz-tagesgrenze-wird-von-42-auf-26-reduziert/401196647"
-    }, {
-      "id" : "r9rmoX8X",
-      "imgUrl" : "https://image.kurier.at/images/original/4135149/bussi_fussi_c_puls_24_fellner_16_hires.jpg",
-      "titleSource" : "Fußi schlägt zurück und legt Beschwerde gegen Nehammer ein",
-      "titleTarget" : "Fußi uzvraća udarac i podnosi žalbu protiv Nehammera",
-      "url" : "https://kurier.at/politik/inland/fussi-schlaegt-zurueck-und-legt-beschwerde-gegen-nehammer-ein/401196854"
     }, {
       "id" : "DuIbI933",
       "imgUrl" : "https://image.kurier.at/images/original/4299017/81670356454484356_BLD_Online.jpg",
@@ -98,35 +98,35 @@
       "titleTarget" : "1.270 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/1270-neuinfektionen-in-oesterreich/401195984"
     }, {
-      "id" : "K0FOT6t8",
-      "imgUrl" : "https://image.kurier.at/images/original/4956104/46-164109097.jpg",
-      "titleSource" : "Corona in Ö: \"Epidemien fanden woanders statt\"",
-      "titleTarget" : "Corona u Austriji: \"Epidemije su se odvijale i drugdje\"",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-in-oe-epidemien-fanden-woanders-statt/401195795"
-    }, {
       "id" : "9fsIUBFu",
       "imgUrl" : "https://image.kurier.at/images/original/4874415/20210115-ABD0064-1-1.jpg",
       "titleSource" : "Corona-Ausbreitung im Bezirk Hermagor schreitet voran",
       "titleTarget" : "Širenje korone u okrugu Hermagor napreduje",
       "url" : "https://kurier.at/chronik/oesterreich/corona-ausbreitung-im-bezirk-hermagor-schreitet-voran/401196773"
     }, {
+      "id" : "K0FOT6t8",
+      "imgUrl" : "https://image.kurier.at/images/original/4956104/46-164109097.jpg",
+      "titleSource" : "Corona in Ö: \"Epidemien fanden woanders statt\"",
+      "titleTarget" : "Corona u Austriji: \"Epidemije su se odvijale i drugdje\"",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-in-oe-epidemien-fanden-woanders-statt/401195795"
+    }, {
       "id" : "jZS7uXkr",
-      "imgUrl" : "https://image.kurier.at/images/original/4957991/46-175953670.jpg",
-      "titleSource" : "Briten wollen bis Ende Juni vollständig öffnen + Biontech-Vakzin für Kinder ab fünf?",
+      "imgUrl" : "https://image.kurier.at/images/original/4772151/46-166109419.jpg",
+      "titleSource" : "Mehr als 2.000 Neuinfektionen erwartet + Johnson will bis Ende Juni vollständig öffnen",
       "titleTarget" : "Britanci se žele potpuno otvoriti do kraja lipnja + Biontech cjepivo za djecu od pet godina?",
       "url" : "https://kurier.at/chronik/oesterreich/mortalitaet-laut-studie-abhaengig-von-belastung-der-intensivstationen/401195804"
-    }, {
-      "id" : "BAzdcaNk",
-      "imgUrl" : "https://image.kurier.at/images/original/2614723/46-101796778.jpg",
-      "titleSource" : "Staus im Wiener Morgenverkehr",
-      "titleTarget" : "Gužve u jutarnjem prometu u Beču",
-      "url" : "https://kurier.at/chronik/oesterreich/staus-im-wiener-morgenverkehr/401195807"
     }, {
       "id" : "hdlgC09V",
       "imgUrl" : "https://image.kurier.at/images/original/4957622/46-90650310.jpg",
       "titleSource" : "Frühlingshaftes Wetter grüßt mit Wärmerekorden",
       "titleTarget" : "Proljetno vrijeme dočekuje vas zapisima topline",
       "url" : "https://kurier.at/chronik/oesterreich/fruehlingshaftes-wetter-gruesst-mit-waermerekorden/401196641"
+    }, {
+      "id" : "BAzdcaNk",
+      "imgUrl" : "https://image.kurier.at/images/original/2614723/46-101796778.jpg",
+      "titleSource" : "Staus im Wiener Morgenverkehr",
+      "titleTarget" : "Gužve u jutarnjem prometu u Beču",
+      "url" : "https://kurier.at/chronik/oesterreich/staus-im-wiener-morgenverkehr/401195807"
     }, {
       "id" : "qO2FVyf8",
       "imgUrl" : "https://image.kurier.at/images/original/4284785/20200429-ABD0093-1-1.jpg",
@@ -200,29 +200,29 @@
       "titleTarget" : "Prema indijskoj studiji, ljudi koji nose naočale rjeđe su zaraženi Covid-19",
       "url" : "https://kurier.at/wissen/gesundheit/brillentraeger-stecken-sich-laut-indischer-studie-seltener-mit-covid-19-an/401196524"
     }, {
-      "id" : "JOxc2kvO",
-      "imgUrl" : "https://image.kurier.at/images/original/4957490/46-175949954.jpg",
-      "titleSource" : "Weniger Klinikaufenthalte in Schottland nach erster Impfdosis",
-      "titleTarget" : "Manje boravka u bolnici u Škotskoj nakon prve doze cjepiva",
-      "url" : "https://kurier.at/wissen/gesundheit/weniger-klinikaufenthalte-in-schottland-nach-erster-impfdosis/401196563"
-    }, {
       "id" : "eRt2vcZc",
       "imgUrl" : "https://image.kurier.at/images/original/4956098/46-175894301.jpg",
       "titleSource" : "Corona-Mortalität abhängig von Belastung der Intensivabteilungen",
       "titleTarget" : "Smrtnost od korone ovisi o opterećenju jedinica za intenzivnu njegu",
       "url" : "https://kurier.at/wissen/gesundheit/corona-mortalitaet-abhaengig-von-belastung-der-intensivabteilungen/401195783"
     }, {
-      "id" : "PpNr2seW",
-      "imgUrl" : "https://image.kurier.at/images/original/4957313/46-174942441.jpg",
-      "titleSource" : "Sanofi und Glaxo starten nach Rückschlag neue Impfstoff-Studie",
-      "titleTarget" : "Sanofi i Glaxo započinju novo istraživanje cjepiva nakon neuspjeha",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-sanofi-und-glaxo-starten-nach-rueckschlag-neue-impfstoff-studie/401196449"
+      "id" : "JOxc2kvO",
+      "imgUrl" : "https://image.kurier.at/images/original/4957490/46-175949954.jpg",
+      "titleSource" : "Weniger Klinikaufenthalte in Schottland nach erster Impfdosis",
+      "titleTarget" : "Manje boravka u bolnici u Škotskoj nakon prve doze cjepiva",
+      "url" : "https://kurier.at/wissen/gesundheit/weniger-klinikaufenthalte-in-schottland-nach-erster-impfdosis/401196563"
     }, {
       "id" : "Eb3PfuFl",
       "imgUrl" : "https://image.kurier.at/images/original/4957280/46-173969522.jpg",
       "titleSource" : "Schwere Covid-19-Verläufe hängen mit unseren Genen zusammen",
       "titleTarget" : "Teški tečajevi Covid-19 povezani su s našim genima",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-schwere-covid-19-verlaeufe-haengen-mit-unseren-genen-zusammen/401196362"
+    }, {
+      "id" : "PpNr2seW",
+      "imgUrl" : "https://image.kurier.at/images/original/4957313/46-174942441.jpg",
+      "titleSource" : "Sanofi und Glaxo starten nach Rückschlag neue Impfstoff-Studie",
+      "titleTarget" : "Sanofi i Glaxo započinju novo istraživanje cjepiva nakon neuspjeha",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-sanofi-und-glaxo-starten-nach-rueckschlag-neue-impfstoff-studie/401196449"
     } ]
   }, {
     "category" : "SPORT",
@@ -232,6 +232,12 @@
       "titleSource" : "Kuriose Szene: Schiedsrichter verhindert Tor im Spitzenspiel",
       "titleTarget" : "Znatiželjna scena: sudac sprečava gol u vrhunskoj utakmici",
       "url" : "https://kurier.at/sport/fussball/kuriose-szene-schiedsrichter-verhindert-tor-im-spitzenspiel-in-mexiko/401196044"
+    }, {
+      "id" : "N8ubAnBG",
+      "imgUrl" : "https://image.kurier.at/images/original/4958378/46-175958411.jpg",
+      "titleSource" : "Juventus dank Ronaldo-Doppelpack zurück auf Siegerstraße",
+      "titleTarget" : "Juventus se vratio na pobjednički put zahvaljujući dvostrukom paketu Ronalda",
+      "url" : "https://kurier.at/sport/fussball/juventus-dank-ronaldo-doppelpack-zurueck-auf-siegerstrasse/401197007"
     }, {
       "id" : "xe0LUbBA",
       "imgUrl" : "https://image.kurier.at/images/original/4957874/46-175931996.jpg",
@@ -262,12 +268,6 @@
       "titleSource" : "Herzinfarkt: Trauer um kroatische Handball-Legende Saracevic",
       "titleTarget" : "Srčani udar: tugovanje za hrvatskom rukometnom legendom Saračevićem",
       "url" : "https://kurier.at/sport/herzinfarkt-trauer-um-kroatische-handball-legende-zlatko-saracevic/401196542"
-    }, {
-      "id" : "VuehXaN5",
-      "imgUrl" : "https://image.kurier.at/images/original/4957403/46-146972888.jpg",
-      "titleSource" : "Offener Brief an Regierung: ÖTV fordert Öffnung der Tennis-Hallen",
-      "titleTarget" : "Otvoreno pismo vladi: ÖTV poziva na otvaranje teniskih dvorana",
-      "url" : "https://kurier.at/sport/tennis/offener-brief-an-regierung-oetv-fordert-oeffnung-der-tennis-hallen/401196485"
     } ]
   } ],
   "country" : "austria",
