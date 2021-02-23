@@ -2,29 +2,17 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "v6HT3q7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4955456/46-173349124.jpg",
-      "titleSource" : "Brisante innenpolitische Woche beginnt mit Kurz-Chats mit Strache",
-      "titleTarget" : "Eksplozivni unutarnjopolitički tjedan započinje kratkim razgovorima sa Stracheom",
-      "url" : "https://kurier.at/politik/inland/brisante-innenpolitische-woche-beginnt-mit-kurz-chats-mit-strache/401195633"
-    }, {
-      "id" : "oavvOzHe",
-      "imgUrl" : "https://image.kurier.at/images/original/4944343/20210217-ABD0025-1-1.jpg",
-      "titleSource" : "FPÖ sieht Van der Bellen bei Ibiza-Video involviert",
-      "titleTarget" : "FPÖ vidi Van der Bellena umiješanog u video zapis na Ibizi",
-      "url" : "https://kurier.at/politik/inland/live-fpoe-will-bombe-platzen-lassen/401195981"
-    }, {
       "id" : "r9rmoX8X",
       "imgUrl" : "https://image.kurier.at/images/original/4135149/bussi_fussi_c_puls_24_fellner_16_hires.jpg",
       "titleSource" : "Fußi schlägt zurück und legt Beschwerde gegen Nehammer ein",
       "titleTarget" : "Fußi uzvraća udarac i podnosi žalbu protiv Nehammera",
       "url" : "https://kurier.at/politik/inland/fussi-schlaegt-zurueck-und-legt-beschwerde-gegen-nehammer-ein/401196854"
     }, {
-      "id" : "gV8Tsu2e",
-      "imgUrl" : "https://image.kurier.at/images/original/4956533/46-175627186.jpg",
-      "titleSource" : "SPÖ will mit \"Aktion 40.000\" Langzeitarbeitslosikeit bekämpfen",
-      "titleTarget" : "SPÖ se želi boriti protiv dugotrajne nezaposlenosti s \"Aktion 40,000\"",
-      "url" : "https://kurier.at/politik/inland/live-so-will-die-spoe-die-langzeitarbeitslosigkeit-bekaempfen/401196038"
+      "id" : "JWWbKH1M",
+      "imgUrl" : "https://image.kurier.at/images/original/4958429/46-173738844.jpg",
+      "titleSource" : "Home Schooling nun auch Fall für den Verfassungsgerichtshof",
+      "titleTarget" : "Kućno školovanje sada je također predmet Ustavnog suda",
+      "url" : "https://kurier.at/politik/inland/kippt-verfassungsgerichtshof-das-betretungsverbot-fuer-sportstaetten/401197043"
     }, {
       "id" : "i4PG0b2S",
       "imgUrl" : "https://image.kurier.at/images/original/4868013/20210112-ABD0146-1-1.jpg",
@@ -32,89 +20,101 @@
       "titleTarget" : "Odbor U: Glock mora platiti novčanu kaznu zbog nedolaska",
       "url" : "https://kurier.at/politik/inland/u-ausschuss-glock-muss-wegen-fernbleibens-doch-strafe-zahlen/401196707"
     }, {
+      "id" : "xQTpyoxt",
+      "imgUrl" : "https://image.kurier.at/images/original/4958663/46-175563611.jpg",
+      "titleSource" : "Babyelefanten-Kampagne kostete 3,17 Millionen Euro",
+      "titleTarget" : "Kampanja za bebe slonove koštala je 3,17 milijuna eura",
+      "url" : "https://kurier.at/politik/inland/babyelefanten-kampagne-kostete-317-millionen-euro/401197175"
+    }, {
+      "id" : "1DRWnnyj",
+      "imgUrl" : "https://image.kurier.at/images/original/4941745/20210216-ABD0024-1-1.jpg",
+      "titleSource" : "Live: So viele Menschen sind in Österreich derzeit ohne Job",
+      "titleTarget" : "Uživo: Toliko ljudi u Austriji trenutno je bez posla",
+      "url" : "https://kurier.at/politik/inland/live-so-viele-menschen-sind-in-oesterreich-derzeit-ohne-job/401197097"
+    }, {
       "id" : "9Tlc1P29",
       "imgUrl" : "https://image.kurier.at/images/original/4939120/46-175323675.jpg",
       "titleSource" : "Homeoffice-Gesetz: Tagesgrenze wird von 42 auf 26 reduziert",
       "titleTarget" : "Zakon o kućnim uredima: dnevno ograničenje smanjeno je s 42 na 26",
       "url" : "https://kurier.at/politik/inland/homeoffice-gesetz-tagesgrenze-wird-von-42-auf-26-reduziert/401196647"
     }, {
-      "id" : "DuIbI933",
-      "imgUrl" : "https://image.kurier.at/images/original/4299017/81670356454484356_BLD_Online.jpg",
-      "titleSource" : "Erste Schritte zur Gleichstellung Homosexueller beim Blutspenden",
-      "titleTarget" : "Prvi koraci ka jednakosti homoseksualaca u darivanju krvi",
-      "url" : "https://kurier.at/politik/inland/blutspenden-erste-schritte-richtung-gleichstellung/401196494"
+      "id" : "0o6W6gnL",
+      "imgUrl" : "https://image.kurier.at/images/original/4917628/20210204-ABD0102-1-1.jpg",
+      "titleSource" : "Womit sich der Nationalrat am Mittwoch beschäftigt",
+      "titleTarget" : "Čime će se Nacionalno vijeće pozabaviti u srijedu",
+      "url" : "https://kurier.at/politik/inland/was-den-nationalrat-am-mittwoch-beschaeftigt/401197079"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "QQjD2GFe",
-      "imgUrl" : "https://image.kurier.at/images/original/4949380/46-175529053.jpg",
-      "titleSource" : "Der Stoff für die Zukunft: Textilien mit Viren-Blocker",
-      "titleTarget" : "Materijal za budućnost: tekstil s virusnim blokatorima",
-      "url" : "https://kurier.at/wirtschaft/karriere/der-stoff-fuer-die-zukunft-textilien-mit-viren-blocker/401193574"
-    }, {
-      "id" : "rxWjrNIm",
-      "imgUrl" : "https://image.kurier.at/images/original/495288/finanzministerium-000_Deutsch%252BGerhard.jpg",
-      "titleSource" : "Corona-Staatsschulden betragen 4.000 Euro pro Kopf",
-      "titleTarget" : "Državni dug Corone iznosi 4.000 eura po stanovniku",
-      "url" : "https://kurier.at/wirtschaft/corona-staatsschulden-betragen-4000-euro-pro-kopf/401196215"
-    }, {
-      "id" : "WUrM1u4f",
-      "imgUrl" : "https://image.kurier.at/images/original/4955261/46-175459483.jpg",
-      "titleSource" : "Sportartikelhandel: Totalausfall an der Tal- und Bergstation",
-      "titleTarget" : "Trgovina sportskom robom: totalni neuspjeh na dolinskim i planinskim postajama",
-      "url" : "https://kurier.at/wirtschaft/sportartikelhandel-totalausfall-an-der-tal-und-bergstation/401195573"
-    }, {
-      "id" : "B2ZDP6Gd",
-      "imgUrl" : "https://image.kurier.at/images/original/4956215/muelldeponie_in_johor_malaysia_2_c_nandakumar_s_haridas_greenpeace.jpg",
-      "titleSource" : "Illegal verschiffter Plastikmüll zurück in Österreich",
-      "titleTarget" : "Ilegalno otpremljen plastični otpad natrag u Austriju",
-      "url" : "https://kurier.at/wirtschaft/illegal-verschiffter-plastikmuell-zurueck-in-oesterreich/401195846"
-    }, {
       "id" : "AFK4LMwo",
       "imgUrl" : "https://image.kurier.at/images/original/4957064/46-175942584.jpg",
       "titleSource" : "Weltgrößter Impfstoffhersteller erbittet Geduld",
       "titleTarget" : "Najveći svjetski proizvođač cjepiva traži strpljenje",
       "url" : "https://kurier.at/wirtschaft/weltgroesster-impfstoffhersteller-erbittet-geduld/401196269"
     }, {
-      "id" : "zt60ocET",
-      "imgUrl" : "https://image.kurier.at/images/original/4880676/online_energielabel_2.png",
-      "titleSource" : "Neue EU-Energielabels kommen ab März",
-      "titleTarget" : "Nove energetske oznake EU-a stižu od ožujka",
-      "url" : "https://kurier.at/wirtschaft/neue-eu-energielabels-kommen-ab-maerz/401195855"
+      "id" : "NBtMj09f",
+      "imgUrl" : "https://image.kurier.at/images/original/4958366/46-175480122.jpg",
+      "titleSource" : "18 europäische Firmen ziehen sich laut USA aus Nord Stream 2 zurück",
+      "titleTarget" : "Prema SAD-u, 18 europskih tvrtki povlači se iz Sjevernog toka 2",
+      "url" : "https://kurier.at/wirtschaft/18-europaeische-firmen-ziehen-sich-laut-usa-aus-nord-stream-2-zurueck/401196995"
     }, {
       "id" : "oO9CH0Y8",
       "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
       "titleSource" : "Amazon eröffnet neues Verteilzentrum in Wien",
       "titleTarget" : "Amazon otvara novi distribucijski centar u Beču",
       "url" : "https://kurier.at/wirtschaft/amazon-eroeffnet-neues-verteilzentrum-in-wien/401196299"
+    }, {
+      "id" : "grftlPSC",
+      "imgUrl" : "https://image.kurier.at/images/original/4958114/46-144980120.jpg",
+      "titleSource" : "70 Prozent der Bankkunden suchen noch ihren Berater auf",
+      "titleTarget" : "70 posto klijenata u bankama još uvijek traži svog savjetnika",
+      "url" : "https://kurier.at/wirtschaft/70-prozent-der-bankkunden-suchen-noch-ihren-berater-auf/401196872"
+    }, {
+      "id" : "p3fsL4lU",
+      "imgUrl" : "https://image.kurier.at/images/original/4896114/46-163484552.jpg",
+      "titleSource" : "Inflation sinkt: Günstige Lebensmittel drücken die Preise",
+      "titleTarget" : "Inflacija pada: jeftina hrana smanjuje cijene",
+      "url" : "https://kurier.at/wirtschaft/inflation-sinkt-guenstige-lebensmittel-druecken-die-preise/401197154"
+    }, {
+      "id" : "M9JkOk8f",
+      "imgUrl" : "https://image.kurier.at/images/original/1482147/Rewe.jpg",
+      "titleSource" : "Billa-Mutterkonzern Rewe knackt die 75-Milliarden-Marke",
+      "titleTarget" : "Matična tvrtka Billa Rewe prešla je granicu od 75 milijardi",
+      "url" : "https://kurier.at/wirtschaft/billa-mutterkonzern-rewe-knackt-die-75-milliarden-marke/401197145"
+    }, {
+      "id" : "KAnspHdV",
+      "imgUrl" : "https://image.kurier.at/images/original/4517774/78370011355494584_BLD_Online.jpg",
+      "titleSource" : "Deutsche Exporteure optimistisch wie seit 2018 nicht mehr",
+      "titleTarget" : "Njemački izvoznici optimističniji su nego što su bili od 2018. godine",
+      "url" : "https://kurier.at/wirtschaft/deutsche-exporteure-optimistisch-wie-seit-2018-nicht-mehr/401197112"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "IOKJvw6t",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.270 Neuinfektionen in Österreich",
-      "titleTarget" : "1.270 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1270-neuinfektionen-in-oesterreich/401195984"
-    }, {
       "id" : "9fsIUBFu",
       "imgUrl" : "https://image.kurier.at/images/original/4874415/20210115-ABD0064-1-1.jpg",
       "titleSource" : "Corona-Ausbreitung im Bezirk Hermagor schreitet voran",
       "titleTarget" : "Širenje korone u okrugu Hermagor napreduje",
       "url" : "https://kurier.at/chronik/oesterreich/corona-ausbreitung-im-bezirk-hermagor-schreitet-voran/401196773"
     }, {
-      "id" : "K0FOT6t8",
-      "imgUrl" : "https://image.kurier.at/images/original/4956104/46-164109097.jpg",
-      "titleSource" : "Corona in Ö: \"Epidemien fanden woanders statt\"",
-      "titleTarget" : "Corona u Austriji: \"Epidemije su se odvijale i drugdje\"",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-in-oe-epidemien-fanden-woanders-statt/401195795"
+      "id" : "IZWj9hvP",
+      "imgUrl" : "https://image.kurier.at/images/original/4958540/46-175907437.jpg",
+      "titleSource" : "Erster Verdachtsfall auf Brasilien-Mutation in Österreich + 1.727 Neuinfektionen",
+      "titleTarget" : "Prvi sumnjivi slučaj mutacije Brazila u Austriji + 1.727 novih infekcija",
+      "url" : "https://kurier.at/chronik/oesterreich/eu-kommission-fordert-erklaerung-zu-deutschen-einreiseregeln-usa-gedenken-corona-opfern/401197040"
     }, {
-      "id" : "jZS7uXkr",
-      "imgUrl" : "https://image.kurier.at/images/original/4772151/46-166109419.jpg",
-      "titleSource" : "Mehr als 2.000 Neuinfektionen erwartet + Johnson will bis Ende Juni vollständig öffnen",
-      "titleTarget" : "Britanci se žele potpuno otvoriti do kraja lipnja + Biontech cjepivo za djecu od pet godina?",
-      "url" : "https://kurier.at/chronik/oesterreich/mortalitaet-laut-studie-abhaengig-von-belastung-der-intensivstationen/401195804"
+      "id" : "UoYoZnEI",
+      "imgUrl" : "https://image.kurier.at/images/original/4507232/20200708-ABD0015-1-1.jpg",
+      "titleSource" : "Virologe rechnet mit mehr als 2.000 Neuinfektionen diese Woche",
+      "titleTarget" : "Virolog ovog tjedna očekuje više od 2000 novih infekcija",
+      "url" : "https://kurier.at/chronik/oesterreich/virologe-rechnet-mit-mehr-als-2000-neuinfektionen-diese-woche/401196866"
+    }, {
+      "id" : "nQ3f6Qfb",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.727 Neuinfektionen in Österreich",
+      "titleTarget" : "1.727 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/1727-neuinfektionen-in-oesterreich/401197061"
     }, {
       "id" : "hdlgC09V",
       "imgUrl" : "https://image.kurier.at/images/original/4957622/46-90650310.jpg",
@@ -122,11 +122,11 @@
       "titleTarget" : "Proljetno vrijeme dočekuje vas zapisima topline",
       "url" : "https://kurier.at/chronik/oesterreich/fruehlingshaftes-wetter-gruesst-mit-waermerekorden/401196641"
     }, {
-      "id" : "BAzdcaNk",
-      "imgUrl" : "https://image.kurier.at/images/original/2614723/46-101796778.jpg",
-      "titleSource" : "Staus im Wiener Morgenverkehr",
-      "titleTarget" : "Gužve u jutarnjem prometu u Beču",
-      "url" : "https://kurier.at/chronik/oesterreich/staus-im-wiener-morgenverkehr/401195807"
+      "id" : "FxGOuuHN",
+      "imgUrl" : "https://image.kurier.at/images/original/4958585/46-175960625.jpg",
+      "titleSource" : "Grüne fordern Testpflicht für Einreise von Kärnten nach Osttirol",
+      "titleTarget" : "Zeleni pozivaju na obvezno testiranje za ulazak iz Koruške u Istočni Tirol",
+      "url" : "https://kurier.at/chronik/oesterreich/gruene-fordern-testpflicht-fuer-einreise-von-kaernten-nach-osttirol/401197106"
     }, {
       "id" : "qO2FVyf8",
       "imgUrl" : "https://image.kurier.at/images/original/4284785/20200429-ABD0093-1-1.jpg",
@@ -137,17 +137,23 @@
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "id" : "PUvI9eeI",
+      "imgUrl" : "https://image.kurier.at/images/original/4958573/46-175375568.jpg",
+      "titleSource" : "Netrebko: Proben mit Maske ein \"Verbrechen\" gegen die Gesundheit",
+      "titleTarget" : "Netrebko: Vježbanje \"zločina\" protiv zdravlja maskom",
+      "url" : "https://kurier.at/kultur/anna-netrebko-findet-proben-mit-maske-ein-verbrechen-gegen-die-gesundheit/401197103"
+    }, {
       "id" : "Gx67ZvBV",
       "imgUrl" : "https://image.kurier.at/images/original/4957817/46-147018784.jpg",
       "titleSource" : "Um die Welt in der Disco: Daft Punk haben sich getrennt",
       "titleTarget" : "Širom svijeta u diskoteci: Daft Punk podijelili su se",
       "url" : "https://kurier.at/kultur/erfolgreiches-elektropopduo-daft-punk-hat-sich-getrennt/401196734"
     }, {
-      "id" : "3wGje4J0",
-      "imgUrl" : "https://image.kurier.at/images/original/4956629/bildschirmfoto_2021-02-22_um_10.15.34.png",
-      "titleSource" : "Botschafter in \"ZiB 2\": Deutsches Eck liegt an der Mosel",
-      "titleTarget" : "Veleposlanik u \"ZiB 2\": Deutsches Eck je u Moselleu",
-      "url" : "https://kurier.at/kultur/medien/deutscher-botschafter-in-zib-2-beziehungspflege-mit-ecken/401196077"
+      "id" : "WgaYxKS8",
+      "imgUrl" : "https://image.kurier.at/images/original/4958414/46-175864887.jpg",
+      "titleSource" : "Facebook beendet Nachrichtenblockade in Australien",
+      "titleTarget" : "Facebook završava blokadu vijesti u Australiji",
+      "url" : "https://kurier.at/kultur/medien/facebook-beendet-nachrichtenblockade-in-australien/401197028"
     }, {
       "id" : "UQ7guFNN",
       "imgUrl" : "https://image.kurier.at/images/original/3805472/46-105451767.jpg",
@@ -172,12 +178,6 @@
       "titleSource" : "Deutschland: Neues Konzept für Veranstaltungen mit Publikum",
       "titleTarget" : "Njemačka: novi koncept za događaje s publikom",
       "url" : "https://kurier.at/kultur/deutschland-neue-vorschlaege-fuer-veranstaltungen-mit-publikum/401196443"
-    }, {
-      "id" : "6oOteRGP",
-      "imgUrl" : "https://image.kurier.at/images/original/4954541/46-175765838.jpg",
-      "titleSource" : "Neue Kinder- und Jugendbücher",
-      "titleTarget" : "Nove knjige za djecu i mlade",
-      "url" : "https://kurier.at/kultur/neue-kinder-und-jugendbuecher/401195837"
     } ]
   }, {
     "category" : "HEALTH",
@@ -188,35 +188,29 @@
       "titleTarget" : "Cjepivo protiv korone iz Biontecha trebalo bi doći za djecu od 5 godina",
       "url" : "https://kurier.at/wissen/gesundheit/corona-impfstoff-von-biontechpfizer-soll-fuer-kinder-ab-5-jahren-kommen/401196158"
     }, {
-      "id" : "7HHBMWXg",
-      "imgUrl" : "https://image.kurier.at/images/original/4266179/46-164153634.jpg",
-      "titleSource" : "Transplantierte Patientin starb an Corona-infizierter Spender-Lunge",
-      "titleTarget" : "Transplantirani pacijent umro je od pluća davatelja zaraženih koronom",
-      "url" : "https://kurier.at/wissen/gesundheit/transplantierte-patientin-starb-an-corona-infizierter-spender-lunge/401195927"
-    }, {
       "id" : "JOri85MW",
       "imgUrl" : "https://image.kurier.at/images/original/4957451/46-175394943.jpg",
       "titleSource" : "Brillenträger stecken sich laut indischer Studie seltener mit Covid-19 an",
       "titleTarget" : "Prema indijskoj studiji, ljudi koji nose naočale rjeđe su zaraženi Covid-19",
       "url" : "https://kurier.at/wissen/gesundheit/brillentraeger-stecken-sich-laut-indischer-studie-seltener-mit-covid-19-an/401196524"
     }, {
-      "id" : "eRt2vcZc",
-      "imgUrl" : "https://image.kurier.at/images/original/4956098/46-175894301.jpg",
-      "titleSource" : "Corona-Mortalität abhängig von Belastung der Intensivabteilungen",
-      "titleTarget" : "Smrtnost od korone ovisi o opterećenju jedinica za intenzivnu njegu",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-mortalitaet-abhaengig-von-belastung-der-intensivabteilungen/401195783"
+      "id" : "Eb3PfuFl",
+      "imgUrl" : "https://image.kurier.at/images/original/4957280/46-173969522.jpg",
+      "titleSource" : "Schwere Covid-19-Verläufe hängen mit unseren Genen zusammen",
+      "titleTarget" : "Teški tečajevi Covid-19 povezani su s našim genima",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-schwere-covid-19-verlaeufe-haengen-mit-unseren-genen-zusammen/401196362"
+    }, {
+      "id" : "EZeQbzUx",
+      "imgUrl" : "https://image.kurier.at/images/original/4957472/46-164194699.jpg",
+      "titleSource" : "In Israel kann man sich jetzt im Möbelhaus impfen lassen",
+      "titleTarget" : "U Izraelu se sada možete cijepiti u trgovinama namještajem",
+      "url" : "https://kurier.at/wissen/gesundheit/in-israel-kann-man-sich-jetzt-im-moebelhaus-impfen-lassen/401196539"
     }, {
       "id" : "JOxc2kvO",
       "imgUrl" : "https://image.kurier.at/images/original/4957490/46-175949954.jpg",
       "titleSource" : "Weniger Klinikaufenthalte in Schottland nach erster Impfdosis",
       "titleTarget" : "Manje boravka u bolnici u Škotskoj nakon prve doze cjepiva",
       "url" : "https://kurier.at/wissen/gesundheit/weniger-klinikaufenthalte-in-schottland-nach-erster-impfdosis/401196563"
-    }, {
-      "id" : "Eb3PfuFl",
-      "imgUrl" : "https://image.kurier.at/images/original/4957280/46-173969522.jpg",
-      "titleSource" : "Schwere Covid-19-Verläufe hängen mit unseren Genen zusammen",
-      "titleTarget" : "Teški tečajevi Covid-19 povezani su s našim genima",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-schwere-covid-19-verlaeufe-haengen-mit-unseren-genen-zusammen/401196362"
     }, {
       "id" : "PpNr2seW",
       "imgUrl" : "https://image.kurier.at/images/original/4957313/46-174942441.jpg",
@@ -227,11 +221,17 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "axTa8aeM",
-      "imgUrl" : "https://image.kurier.at/images/original/4956485/46-175926083.jpg",
-      "titleSource" : "Kuriose Szene: Schiedsrichter verhindert Tor im Spitzenspiel",
-      "titleTarget" : "Znatiželjna scena: sudac sprečava gol u vrhunskoj utakmici",
-      "url" : "https://kurier.at/sport/fussball/kuriose-szene-schiedsrichter-verhindert-tor-im-spitzenspiel-in-mexiko/401196044"
+      "id" : "vT8s2tnR",
+      "imgUrl" : "https://image.kurier.at/images/original/4957670/46-175951828.jpg",
+      "titleSource" : "Schönfelder: \"Schröcksnadel wird im ÖSV ein Loch hinterlassen\"",
+      "titleTarget" : "Schönfelder: \"Schröcksnadel će ostaviti rupu u ÖSV-u\"",
+      "url" : "https://kurier.at/sport/wintersport/ex-skistar-rainer-schoenfelder-schroecksnadel-wird-im-oesv-ein-loch-hinterlassen/401196521"
+    }, {
+      "id" : "EYx397iP",
+      "imgUrl" : "https://image.kurier.at/images/original/4958651/46-173934891.jpg",
+      "titleSource" : "\"Zipft mich an\": Saisonaus für Schlierenzauer nach Verletzung",
+      "titleTarget" : "\"Zipft me\": Sezona za Schlierenzauera nakon ozljede",
+      "url" : "https://kurier.at/sport/wintersport/zipft-mich-an-saisonaus-fuer-oesv-star-gregor-schlierenzauer-nach-verletzung/401197184"
     }, {
       "id" : "N8ubAnBG",
       "imgUrl" : "https://image.kurier.at/images/original/4958378/46-175958411.jpg",
@@ -262,12 +262,6 @@
       "titleSource" : "Das Formel-1-Team Alfa Romeo präsentierte sein neues Auto",
       "titleTarget" : "Ekipa Formule 1 Alfa Romeo predstavila je svoj novi automobil",
       "url" : "https://kurier.at/sport/motorsport/das-formel-1-team-alfa-romeo-praesentierte-sein-neues-auto/401196554"
-    }, {
-      "id" : "8RhguQee",
-      "imgUrl" : "https://image.kurier.at/images/original/4957430/46-104927392.jpg",
-      "titleSource" : "Herzinfarkt: Trauer um kroatische Handball-Legende Saracevic",
-      "titleTarget" : "Srčani udar: tugovanje za hrvatskom rukometnom legendom Saračevićem",
-      "url" : "https://kurier.at/sport/herzinfarkt-trauer-um-kroatische-handball-legende-zlatko-saracevic/401196542"
     } ]
   } ],
   "country" : "austria",
