@@ -65,12 +65,6 @@
       "titleTarget" : "Održivi namještaj u fokusu je ove stolarije",
       "url" : "https://kurier.at/wirtschaft/immobiz/nachhaltige-moebel-stehen-bei-dieser-tischlerei-im-vordergrund/401197178"
     }, {
-      "id" : "NBtMj09f",
-      "imgUrl" : "https://image.kurier.at/images/original/4958366/46-175480122.jpg",
-      "titleSource" : "18 europäische Firmen ziehen sich laut USA aus Nord Stream 2 zurück",
-      "titleTarget" : "Prema SAD-u, 18 europskih tvrtki povlači se iz Sjevernog toka 2",
-      "url" : "https://kurier.at/wirtschaft/18-europaeische-firmen-ziehen-sich-laut-usa-aus-nord-stream-2-zurueck/401196995"
-    }, {
       "id" : "p3fsL4lU",
       "imgUrl" : "https://image.kurier.at/images/original/4896114/46-163484552.jpg",
       "titleSource" : "Inflation sinkt: Günstige Lebensmittel drücken die Preise",
@@ -88,13 +82,19 @@
       "titleSource" : "70 Prozent der Bankkunden suchen noch ihren Berater auf",
       "titleTarget" : "70 posto klijenata u bankama još uvijek traži svog savjetnika",
       "url" : "https://kurier.at/wirtschaft/70-prozent-der-bankkunden-suchen-noch-ihren-berater-auf/401196872"
+    }, {
+      "id" : "Cn6KQzJo",
+      "imgUrl" : "https://image.kurier.at/images/original/4960580/46-165860770.jpg",
+      "titleSource" : "Knorr-Bremse- und Lufthansa-Großaktionär Thiele gestorben",
+      "titleTarget" : "Umrli su glavni dioničar Knorr-Bremse i Lufthansa Thiele",
+      "url" : "https://kurier.at/wirtschaft/knorr-bremse-und-lufthansa-grossaktionaer-thiele-gestorben/401198144"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
       "id" : "IZWj9hvP",
       "imgUrl" : "https://image.kurier.at/images/original/4960439/46-175870989.jpg",
-      "titleSource" : "Astra Zeneca liefert nur die Hälfte der zugesagten Dosen + 1.727 Neuinfektionen",
+      "titleSource" : "Astra Zeneca vor Zulassung für über 65-Jährige + 1.727 Neuinfektionen",
       "titleTarget" : "Prvi sumnjivi slučaj mutacije Brazila u Austriji + 1.727 novih infekcija",
       "url" : "https://kurier.at/chronik/oesterreich/eu-kommission-fordert-erklaerung-zu-deutschen-einreiseregeln-usa-gedenken-corona-opfern/401197040"
     }, {
@@ -167,17 +167,17 @@
       "titleTarget" : "Tindersticks: Izvrsni album odražava razočaranje",
       "url" : "https://kurier.at/kultur/tindersticks-hervorragendes-album-spiegelt-desillusion/401196803"
     }, {
-      "id" : "gUpJxBQx",
-      "imgUrl" : "https://image.kurier.at/images/original/4958954/349251c37755234c570bc071a3ddefec.jpg",
-      "titleSource" : "Spotify baut aus: Obama und Springsteen starten Podcast",
-      "titleTarget" : "Spotify se širi: Obama i Springsteen pokreću podcast",
-      "url" : "https://kurier.at/kultur/medien/spotify-baut-aus-obama-und-springsteen-starten-podcast/401197364"
-    }, {
       "id" : "Vdp1vwfq",
       "imgUrl" : "https://image.kurier.at/images/original/4531391/46-164762703.jpg",
       "titleSource" : "Julia Roberts und Sean Penn übernehmen Hauptrollen in Watergate-Serie",
       "titleTarget" : "Julia Roberts i Sean Penn glume u seriji Watergate",
       "url" : "https://kurier.at/kultur/medien/julia-roberts-und-sean-penn-uebernehmen-hauptrollen-in-watergate-serie/401197403"
+    }, {
+      "id" : "gUpJxBQx",
+      "imgUrl" : "https://image.kurier.at/images/original/4958954/349251c37755234c570bc071a3ddefec.jpg",
+      "titleSource" : "Spotify baut aus: Obama und Springsteen starten Podcast",
+      "titleTarget" : "Spotify se širi: Obama i Springsteen pokreću podcast",
+      "url" : "https://kurier.at/kultur/medien/spotify-baut-aus-obama-und-springsteen-starten-podcast/401197364"
     } ]
   }, {
     "category" : "HEALTH",
@@ -200,32 +200,32 @@
       "titleTarget" : "Zašto muškarci ne bi mobitel stavljali u hlače",
       "url" : "https://kurier.at/wissen/gesundheit/warum-maenner-das-handy-besser-nicht-in-die-hose-stecken-sollten/401197340"
     }, {
+      "id" : "3ziTxXZb",
+      "imgUrl" : "https://image.kurier.at/images/original/4960598/46-175674841.jpg",
+      "titleSource" : "Hoffnung und Ernüchterung im Kampf um die Impfungen",
+      "titleTarget" : "Nada i razočaranje u borbi za cijepljenje",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-in-oesterreich-bald-auch-fuer-ueber-65-jaehrige/401198165"
+    }, {
       "id" : "ivgOUKet",
       "imgUrl" : "https://image.kurier.at/images/original/4958807/46-175935551.jpg",
       "titleSource" : "Wie die Coronavirus-Grafik von Florian Krammer zum US-Präsidenten kam",
       "titleTarget" : "Kako je grafika Floriana Krammera s koronavirusom došla do američkog predsjednika",
       "url" : "https://kurier.at/wissen/gesundheit/wie-die-coronavirus-grafik-von-florian-krammer-zum-us-praesidenten-kam/401197232"
-    }, {
-      "id" : "vHTZKEsH",
-      "imgUrl" : "https://image.kurier.at/images/original/4958807/46-175935551.jpg",
-      "titleSource" : "Fauci erklärt US-Präsident Biden das Coronavirus mit Grafik von Florian Krammer",
-      "titleTarget" : "Fauci objašnjava virus korone američkom predsjedniku Bidenu grafikama Floriana Krammera",
-      "url" : "https://kurier.at/wissen/gesundheit/fauci-erklaert-us-praesident-biden-das-coronavirus-mit-grafik-von-florian-krammer/401197232"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "id" : "1CfiSg3h",
+      "imgUrl" : "https://image.kurier.at/images/original/4960253/46-175969146.jpg",
+      "titleSource" : "Das Märchen geht weiter: ÖFB-Frauen fix für EM 2022 qualifiziert",
+      "titleTarget" : "Bajka se nastavlja: ÖFB žene kvalificirale su se za EM 2022",
+      "url" : "https://kurier.at/sport/fussball/das-maerchen-geht-weiter-oefb-frauen-fix-fuer-em-2022-qualifiziert/401198042"
+    }, {
       "id" : "vT8s2tnR",
       "imgUrl" : "https://image.kurier.at/images/original/4957670/46-175951828.jpg",
       "titleSource" : "Schönfelder: \"Schröcksnadel wird im ÖSV ein Loch hinterlassen\"",
       "titleTarget" : "Schönfelder: \"Schröcksnadel će ostaviti rupu u ÖSV-u\"",
       "url" : "https://kurier.at/sport/wintersport/ex-skistar-rainer-schoenfelder-schroecksnadel-wird-im-oesv-ein-loch-hinterlassen/401196521"
-    }, {
-      "id" : "EYx397iP",
-      "imgUrl" : "https://image.kurier.at/images/original/4958651/46-173934891.jpg",
-      "titleSource" : "\"Zipft mich an\": Saisonaus für Schlierenzauer nach Verletzung",
-      "titleTarget" : "\"Zipft me\": Sezona za Schlierenzauera nakon ozljede",
-      "url" : "https://kurier.at/sport/wintersport/zipft-mich-an-saisonaus-fuer-oesv-star-gregor-schlierenzauer-nach-verletzung/401197184"
     }, {
       "id" : "PQuldyoM",
       "imgUrl" : "https://image.kurier.at/images/original/4959929/46-173239869.jpg",
@@ -233,29 +233,29 @@
       "titleTarget" : "Koronska pomoć: Rapid i Austrija do sada su dobili najviše",
       "url" : "https://kurier.at/sport/fussball/corona-hilfen-rapid-wien-und-austria-wien-erhielten-mit-abstand-am-meisten/401197886"
     }, {
+      "id" : "jXJ6Yl6J",
+      "imgUrl" : "https://image.kurier.at/images/original/4960619/46-175979645.jpg",
+      "titleSource" : "Ungewissheit nach dem schweren Autounfall von Tiger Woods",
+      "titleTarget" : "Nesigurnost nakon ozbiljne prometne nesreće u Tigeru Woodsu",
+      "url" : "https://kurier.at/sport/golf-superstar-tiger-woods-in-schweren-autounfall-verwickelt/401198156"
+    }, {
+      "id" : "EYx397iP",
+      "imgUrl" : "https://image.kurier.at/images/original/4958651/46-173934891.jpg",
+      "titleSource" : "\"Zipft mich an\": Saisonaus für Schlierenzauer nach Verletzung",
+      "titleTarget" : "\"Zipft me\": Sezona za Schlierenzauera nakon ozljede",
+      "url" : "https://kurier.at/sport/wintersport/zipft-mich-an-saisonaus-fuer-oesv-star-gregor-schlierenzauer-nach-verletzung/401197184"
+    }, {
+      "id" : "YKIRdJyY",
+      "imgUrl" : "https://image.kurier.at/images/original/4959068/46-148801024.jpg",
+      "titleSource" : "Neureuther über Hirscher: \"Dann blattelt der wieder alle her\"",
+      "titleTarget" : "Neureuther o Hirscheru: \"Onda će se vratiti iznova\"",
+      "url" : "https://kurier.at/sport/wintersport/felix-neureuther-ueber-ex-oesv-star-marcel-hirscher-dann-blattelt-der-wieder-alle-her/401197391"
+    }, {
       "id" : "WLtCGisX",
       "imgUrl" : "https://image.kurier.at/images/original/4960175/46-175472463.jpg",
       "titleSource" : "Dennis Novak steht in Montpellier im Achtelfinale",
       "titleTarget" : "Dennis Novak nalazi se u osmini finala u Montpellieru",
       "url" : "https://kurier.at/sport/tennis/tennis-dennis-novak-steht-in-montpellier-im-achtelfinale/401198027"
-    }, {
-      "id" : "L1VdWZeW",
-      "imgUrl" : "https://image.kurier.at/images/original/4959839/46-154089273.jpg",
-      "titleSource" : "Warum ÖSV-Star Schlierenzauer nun endgültig das Karriereende droht",
-      "titleTarget" : "Zašto je ÖSV-ovoj zvijezdi Schlierenzaueru napokon prijetio kraj karijere",
-      "url" : "https://kurier.at/sport/wintersport/am-scheideweg-oesv-star-gregor-schlierenzauer-steht-vor-dem-karriereende/401197802"
-    }, {
-      "id" : "0s1Nnmla",
-      "imgUrl" : "https://image.kurier.at/images/original/4960133/46-175915575.jpg",
-      "titleSource" : "Weltmeisterin Liensberger von Land und Gemeinde gewürdigt",
-      "titleTarget" : "Svjetski prvak Liensberger počašćen od strane države i zajednice",
-      "url" : "https://kurier.at/sport/wintersport/weltmeisterin-katharina-liensberger-von-land-und-gemeinde-gewuerdigt/401198006"
-    }, {
-      "id" : "gQpXXfgK",
-      "imgUrl" : "https://image.kurier.at/images/original/4959404/si202004170053_hires_jpeg_24bit_rgb.jpg",
-      "titleSource" : "Wie Red Bull Weltmeister Mercedes in der Formel 1 stoppen will",
-      "titleTarget" : "Kako Red Bull želi zaustaviti svjetskog prvaka Mercedesa u Formuli 1",
-      "url" : "https://kurier.at/sport/motorsport/wie-red-bull-weltmeister-mercedes-in-der-formel-1-stoppen-will/401197589"
     } ]
   } ],
   "country" : "austria",
