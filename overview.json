@@ -8,12 +8,6 @@
       "titleTarget" : "Procuri: \"Njemački odvjetnici odmahuju glavom o Austriji\"",
       "url" : "https://kurier.at/politik/inland/leaks-deutsche-anwaelte-schuetteln-ueber-oesterreich-den-kopf/401199265"
     }, {
-      "id" : "I1GI9fsW",
-      "imgUrl" : "https://image.kurier.at/images/original/4962970/46-175744580.jpg",
-      "titleSource" : "Kurz: \"Ein Lockdown, bei dem keiner mitmacht, hat wenig Sinn\"",
-      "titleTarget" : "Ukratko: \"Zaključavanje u kojem nitko ne sudjeluje nema smisla\"",
-      "url" : "https://kurier.at/politik/inland/kurz-ein-lockdown-bei-dem-keiner-mitmacht-hat-wenig-sinn/401199373"
-    }, {
       "id" : "9yLSUvVA",
       "imgUrl" : "https://image.kurier.at/images/original/4910902/20210201-ABD0059-1-1.jpg",
       "titleSource" : "Kurz: Raus aus den dauerhaften Lockdowns",
@@ -43,6 +37,12 @@
       "titleSource" : "Akten-Leaks: \"Inakzeptabler Angriff auf  Pressefreiheit und Demokratie“",
       "titleTarget" : "Procurivanje datoteke: \"Neprihvatljivi napad na slobodu tiska i demokraciju\"",
       "url" : "https://kurier.at/politik/inland/akten-leaks-inakzeptabler-angriff-auf-pressefreiheit-und-demokratie/401199175"
+    }, {
+      "id" : "Y122gEn6",
+      "imgUrl" : "https://image.kurier.at/images/original/4947112/46-175861353.jpg",
+      "titleSource" : "Kurzarbeit, Homeoffice, Gratis-Tests: Was gestern beschlossen wurde",
+      "titleTarget" : "Kratki posao, kućni ured, besplatni testovi: Ono što je odlučeno jučer",
+      "url" : "https://kurier.at/politik/inland/kurzarbeit-homeoffice-gratis-tests-was-gestern-beschlossen-wurde/401199406"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,35 +59,35 @@
       "titleTarget" : "Turistička se industrija nada zelenoj propusnici Corona za besplatno putovanje",
       "url" : "https://kurier.at/wirtschaft/tourismusbranche-hofft-auf-gruenen-corona-pass-fuer-freies-reisen/401199982"
     }, {
-      "id" : "gwaYTd1t",
-      "imgUrl" : "https://image.kurier.at/images/original/4956518/46-175645060.jpg",
-      "titleSource" : "Architekt Dietmar Feichtinger: Mit Brücken zum Erfolg",
-      "titleTarget" : "Arhitekt Dietmar Feichtinger: Mostovima do uspjeha",
-      "url" : "https://kurier.at/wirtschaft/immobiz/architekt-dietmar-feichtinger-mit-bruecken-zum-erfolg/401196011"
-    }, {
       "id" : "1IEnQxlD",
       "imgUrl" : "https://image.kurier.at/images/original/4229123/20200330-ABD0151-1-1.jpg",
       "titleSource" : "AUA und Lufthansa erwarten im Sommer Nachholeffekte bei Urlauben",
       "titleTarget" : "AUA i Lufthansa ljeti očekuju efekte sustizanja na odmorima",
       "url" : "https://kurier.at/wirtschaft/aua-und-lufthansa-erwarten-im-sommer-nachholeffekte-bei-urlauben/401200189"
     }, {
-      "id" : "rbPM308s",
-      "imgUrl" : "https://image.kurier.at/images/original/1956112/SWISS_CS100_620x340px.jpg",
-      "titleSource" : "Swiss baut Flugprogramm im zweiten Quartal nicht wie geplant aus",
-      "titleTarget" : "Swiss ne proširuje svoj letački program u drugom tromjesečju kako je planirano",
-      "url" : "https://kurier.at/wirtschaft/swiss-baut-flugprogramm-im-zweiten-quartal-nicht-wie-geplant-aus/401200225"
+      "id" : "dn4Fo8sF",
+      "imgUrl" : "https://image.kurier.at/images/original/4963900/46-175989570.jpg",
+      "titleSource" : "Umfrage: Großes Interesse an Urlaub in Österreich",
+      "titleTarget" : "Anketa: Veliki interes za ljetovanje u Austriji",
+      "url" : "https://kurier.at/wirtschaft/oesterreicher-und-deutsche-sind-hungrig-auf-urlaub/401199865"
     }, {
-      "id" : "cWNq0Wzx",
-      "imgUrl" : "https://image.kurier.at/images/original/4567898/46-164417366.jpg",
-      "titleSource" : "Infineon will Kfz-Chipnachfrage mit neuem Werk in Villach decken",
-      "titleTarget" : "Infineon želi zadovoljiti potražnju za automobilskim čipovima novom tvornicom u Villachu",
-      "url" : "https://kurier.at/wirtschaft/infineon-will-kfz-chipnachfrage-mit-neuem-werk-in-villach-decken/401200057"
+      "id" : "4N8V1nNZ",
+      "imgUrl" : "https://image.kurier.at/images/original/3467851/78370011348389632_BLD_Online.jpg",
+      "titleSource" : "Airbnb kommt trotz Mega-Verlust besser als erwartet durch die Krise",
+      "titleTarget" : "Unatoč velikom gubitku, Airbnb prolazi kroz krizu bolje nego što se očekivalo",
+      "url" : "https://kurier.at/wirtschaft/airbnb-kommt-trotz-mega-verlust-besser-als-erwartet-durch-die-krise/401200603"
     }, {
-      "id" : "QfXh0kQA",
-      "imgUrl" : "https://image.kurier.at/images/original/4882851/46-174170880.jpg",
-      "titleSource" : "Ford weitet wegen Chip-Mangel Kurzarbeit in Europa aus",
-      "titleTarget" : "Ford produžuje kratkoročni rad u Europi zbog nedostatka čipova",
-      "url" : "https://kurier.at/wirtschaft/ford-weitet-wegen-chip-mangel-kurzarbeit-in-europa-aus/401200018"
+      "id" : "sgejScNA",
+      "imgUrl" : "https://image.kurier.at/images/original/97695/frauenquote-000_AP_Nigel%252BTreblin.jpg",
+      "titleSource" : "Deutscher Bundestag debattierte über Frauenquote",
+      "titleTarget" : "Njemački Bundestag raspravljao je o kvoti za žene",
+      "url" : "https://kurier.at/wirtschaft/deutscher-bundestag-debattierte-ueber-frauenquote/401200519"
+    }, {
+      "id" : "vdVykpWX",
+      "imgUrl" : "https://image.kurier.at/images/original/4791768/78350011457745500_BLD_Online.jpg",
+      "titleSource" : "USA offen für IWF-Kapitalspritze",
+      "titleTarget" : "SAD otvorene za ulaganje kapitala MMF-a",
+      "url" : "https://kurier.at/wirtschaft/usa-offen-fuer-iwf-kapitalspritze/401200456"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,6 +98,12 @@
       "titleTarget" : "Gotovo 2.400 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/erneut-ueber-2000-neuinfektionen-in-oesterreich/401199565"
     }, {
+      "id" : "Jo3FSdFo",
+      "imgUrl" : "https://image.kurier.at/images/original/4866213/46-168093611.jpg",
+      "titleSource" : "Corona verändert Mobilität: Der Kampf um die Ressource Platz",
+      "titleTarget" : "Corona mijenja mobilnost: Borba za prostor kao resurs",
+      "url" : "https://kurier.at/chronik/oesterreich/mobilitaetswandel-durch-corona-der-kampf-um-die-ressource-platz/401199997"
+    }, {
       "id" : "b3JI4TxR",
       "imgUrl" : "https://image.kurier.at/images/original/4964152/46-167545664.jpg",
       "titleSource" : "Südafrika-Mutation hat nun auch Vorarlberg erreicht",
@@ -105,16 +111,10 @@
       "url" : "https://kurier.at/chronik/oesterreich/suedafrika-mutation-hat-nun-auch-vorarlberg-erreicht/401200009"
     }, {
       "id" : "xraTshX8",
-      "imgUrl" : "https://image.kurier.at/images/original/4964863/46-176021314.jpg",
-      "titleSource" : "Lockdown-Regeln bis 9. März verlängert + Warum 100.000 Dosen in Ö noch nicht verimpft sind",
+      "imgUrl" : "https://image.kurier.at/images/original/4965520/46-175744990.jpg",
+      "titleSource" : "Südafrika-Mutante auch in OÖ bestätigt + Lockdown-Regeln bis 9. März verlängert",
       "titleTarget" : "2.391 nova infekcija u Austriji + Sve više klastera u školama i vrtićima",
       "url" : "https://kurier.at/chronik/oesterreich/johnson-johnson-impfstoff-hochwirksam-kurz-will-gruenen-pass/401199397"
-    }, {
-      "id" : "QtAOihGE",
-      "imgUrl" : "https://image.kurier.at/images/original/4962976/46-101175716.jpg",
-      "titleSource" : "Corona-Test im Kolin: Sich testen lassen und dabei Essen bestellen",
-      "titleTarget" : "Corona test u Kolinu: testirajte se i naručite hranu",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-test-im-kolin-sich-testen-lassen-und-dabei-essen-bestellen/401199364"
     }, {
       "id" : "jISDN8RD",
       "imgUrl" : "https://image.kurier.at/images/original/4548623/78370011355722358_BLD_Online.jpg",
@@ -128,11 +128,11 @@
       "titleTarget" : "Broj azila prvi se put nakon 2015. lagano povećava",
       "url" : "https://kurier.at/chronik/oesterreich/asylzahlen-nehmen-erstmals-seit-2015-wieder-leicht-zu/401199916"
     }, {
-      "id" : "Jo3FSdFo",
-      "imgUrl" : "https://image.kurier.at/images/original/4866213/46-168093611.jpg",
-      "titleSource" : "Corona verändert Mobilität: Der Kampf um die Ressource Platz",
-      "titleTarget" : "Corona mijenja mobilnost: Borba za prostor kao resurs",
-      "url" : "https://kurier.at/chronik/oesterreich/mobilitaetswandel-durch-corona-der-kampf-um-die-ressource-platz/401199997"
+      "id" : "YNRYxhNB",
+      "imgUrl" : "https://image.kurier.at/images/original/4948651/46-175867047.jpg",
+      "titleSource" : "Heute vor einem Jahr gab es die ersten Corona-Fälle in Österreich",
+      "titleTarget" : "Prije godinu dana danas su bili prvi slučajevi korone u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/heute-vor-einem-jahr-gab-es-die-ersten-corona-faelle-in-oesterreich/401199574"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,29 +143,17 @@
       "titleTarget" : "Legenda o Dr. Richard, napokon razjasnio na TV-u",
       "url" : "https://kurier.at/kultur/medien/die-legende-vom-dr-richard-endlich-im-fernsehen-geklaert/401199694"
     }, {
+      "id" : "qTkB7wob",
+      "imgUrl" : "https://image.kurier.at/images/original/4838037/46-173719707.jpg",
+      "titleSource" : "Herbert Föttinger: \"Die Menschen schreien nach Theater!\"",
+      "titleTarget" : "Herbert Föttinger: \"Ljudi vrište za kazalištem!\"",
+      "url" : "https://kurier.at/kultur/herbert-foettinger-die-menschen-schreien-nach-theater/401200576"
+    }, {
       "id" : "hJmHWSkQ",
       "imgUrl" : "https://image.kurier.at/images/original/4964842/46-148984601.jpg",
       "titleSource" : "Erneute Debatte um Aus für die „Wiener Zeitung“",
       "titleTarget" : "Obnovljena rasprava o kraju \"Wiener Zeitung\"",
       "url" : "https://kurier.at/kultur/medien/erneute-debatte-um-aus-fuer-die-wiener-zeitung/401200267"
-    }, {
-      "id" : "2Y3p0fMS",
-      "imgUrl" : "https://image.kurier.at/images/original/4964854/46-176023322.jpg",
-      "titleSource" : "Doku-Thriller über Wirecard-Skandal startet Ende März bei TVnow",
-      "titleTarget" : "Dokumentarni triler o skandalu Wirecard počinje u TVnow-u krajem ožujka",
-      "url" : "https://kurier.at/kultur/medien/doku-thriller-ueber-wirecard-skandal-startet-ende-maerz-bei-tvnow/401200315"
-    }, {
-      "id" : "TbFCVKQY",
-      "imgUrl" : "https://image.kurier.at/images/original/4964575/46-176020989.jpg",
-      "titleSource" : "Drehstart zu \"Corsage\" mit Vicky Krieps als Kaiserin Elisabeth",
-      "titleTarget" : "Početak snimanja filma \"Corsage\" s Vicky Krieps u ulozi carice Elisabeth",
-      "url" : "https://kurier.at/kultur/drehstart-zu-corsage-mit-vicky-krieps-als-kaiserin-elisabeth/401200228"
-    }, {
-      "id" : "X6a1UZ57",
-      "imgUrl" : "https://image.kurier.at/images/original/4964353/46-168493103.jpg",
-      "titleSource" : "Rabl-Stadler: „Wir sind nicht Gefährder, sondern Ermöglicher“",
-      "titleTarget" : "Rabl-Stadler: \"Mi nismo prijetnja, već omogućitelj\"",
-      "url" : "https://kurier.at/kultur/rabl-stadler-wir-sind-nicht-gefaehrder-sondern-ermoeglicher/401200105"
     }, {
       "id" : "wMRGxOk5",
       "imgUrl" : "https://image.kurier.at/images/original/4963621/sky_ich-und-die-anderen.jpg",
@@ -178,6 +166,18 @@
       "titleSource" : "Pelé auf Netflix: Als Fußball noch ein anderes Spiel war",
       "titleTarget" : "Pelé na Netflixu: Kad je nogomet bio još jedna igra",
       "url" : "https://kurier.at/kultur/pele-auf-netflix-als-fussball-noch-ein-anderes-spiel-war/401200279"
+    }, {
+      "id" : "r85eICbk",
+      "imgUrl" : "https://image.kurier.at/images/original/4965070/46-35745137.jpg",
+      "titleSource" : "Erzbischof aus \"The Crown\": Schauspieler Ronald Pickup ist tot",
+      "titleTarget" : "Nadbiskup iz \"Krune\": Glumac Ronald Pickup je mrtav",
+      "url" : "https://kurier.at/kultur/erzbischof-aus-the-crown-schauspieler-ronald-pickup-ist-tot/401200411"
+    }, {
+      "id" : "2Y3p0fMS",
+      "imgUrl" : "https://image.kurier.at/images/original/4964854/46-176023322.jpg",
+      "titleSource" : "Doku-Thriller über Wirecard-Skandal startet Ende März bei TVnow",
+      "titleTarget" : "Dokumentarni triler o skandalu Wirecard počinje u TVnow-u krajem ožujka",
+      "url" : "https://kurier.at/kultur/medien/doku-thriller-ueber-wirecard-skandal-startet-ende-maerz-bei-tvnow/401200315"
     } ]
   }, {
     "category" : "HEALTH",
@@ -209,11 +209,35 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "ycCtjl1m",
-      "imgUrl" : "https://image.kurier.at/images/original/4962817/46-175999296.jpg",
-      "titleSource" : "Abfuhr bei Tottenham: Der WAC fliegt aus der Europa League",
-      "titleTarget" : "Odbijanje u Tottenhamu: WAC leti iz Europske lige",
-      "url" : "https://kurier.at/sport/fussball/europa-league-der-wac-bleibt-bei-tottenham-chancenlos-und-verliert-mit-04/401199004"
+      "id" : "uO82mXs0",
+      "imgUrl" : "https://image.kurier.at/images/original/4964845/20180713_150904.jpg",
+      "titleSource" : "Austria-Investor erholt sich von Corona, Präsentation verschoben",
+      "titleTarget" : "Austrijski investitor oporavio se od Corone, prezentacija odgođena",
+      "url" : "https://kurier.at/sport/fussball/neuer-investor-der-wiener-austria-erholt-sich-von-corona-praesentation-verschoben/401200270"
+    }, {
+      "id" : "pgycxujX",
+      "imgUrl" : "https://image.kurier.at/images/original/4928509/46-175565033.jpg",
+      "titleSource" : "Auf der Suche nach Gras: Sturm darf nicht mehr in Graz spielen",
+      "titleTarget" : "Traženje trave: Sturm više ne smije igrati u Grazu",
+      "url" : "https://kurier.at/sport/fussball/auf-der-suche-nach-gras-sturm-darf-nicht-mehr-in-graz-spielen/401200345"
+    }, {
+      "id" : "X8MY6yJw",
+      "imgUrl" : "https://image.kurier.at/images/original/4965460/46-176028697.jpg",
+      "titleSource" : "1:2 in Villarreal: Salzburg scheitert in der Europa League",
+      "titleTarget" : "1: 2 u Villarrealu: Salzburg podbacuje u Europskoj ligi",
+      "url" : "https://kurier.at/sport/fussball/12-niederlage-in-villarreal-salzburg-scheitert-im-sechzehntelfinale-der-europa-league/401200222"
+    }, {
+      "id" : "ixY62Oyf",
+      "imgUrl" : "https://image.kurier.at/images/original/4965418/46-176027719.jpg",
+      "titleSource" : "Europa League live: So steht es bei Villarreal gegen Salzburg",
+      "titleTarget" : "Europa liga uživo: Tako je i u Villarrealu protiv Salzburga",
+      "url" : "https://kurier.at/sport/fussball/europa-league-sechzehntelfinale-live-so-steht-es-bei-villarreal-gegen-red-bull-salzburg/401200222"
+    }, {
+      "id" : "luCu5AHs",
+      "imgUrl" : "https://image.kurier.at/images/original/4965166/46-176026321.jpg",
+      "titleSource" : "Aufregung um Jury-Beschluss: ÖSV-Jungstar Kramer verpasst WM-Medaille",
+      "titleTarget" : "Uzbuđenje zbog odluke žirija: ÖSV-ova mlada zvijezda Kramer propustila je medalju Svjetskog kupa",
+      "url" : "https://kurier.at/sport/wintersport/nordische-wm-in-oberstdorf-oesv-ass-marita-kramer-verpasst-eine-medaille/401200357"
     }, {
       "id" : "WJFy0iFi",
       "imgUrl" : "https://image.kurier.at/images/original/4963735/46-174177875.jpg",
@@ -226,30 +250,6 @@
       "titleSource" : "\"Kaputtes System\": US-Tennis-Star Isner schießt gegen die ATP",
       "titleTarget" : "\"Pokvareni sustav\": američka teniska zvijezda Isner puca protiv ATP-a",
       "url" : "https://kurier.at/sport/tennis/us-tennis-star-isner-schiesst-scharf-gegen-die-atp-bosse/401200207"
-    }, {
-      "id" : "pgycxujX",
-      "imgUrl" : "https://image.kurier.at/images/original/4928509/46-175565033.jpg",
-      "titleSource" : "Auf der Suche nach Gras: Sturm darf nicht mehr in Graz spielen",
-      "titleTarget" : "Traženje trave: Sturm više ne smije igrati u Grazu",
-      "url" : "https://kurier.at/sport/fussball/auf-der-suche-nach-gras-sturm-darf-nicht-mehr-in-graz-spielen/401200345"
-    }, {
-      "id" : "C892f24x",
-      "imgUrl" : "https://image.kurier.at/images/original/4965022/46-176023201.jpg",
-      "titleSource" : "Halbzeit-Führung: ÖSV-Jungstar Kramer greift nach WM-Gold",
-      "titleTarget" : "Vodstvo na poluvremenu: ÖSV mlada zvijezda Kramer poseže za zlatom Svjetskog kupa",
-      "url" : "https://kurier.at/sport/wintersport/halbzeit-fuehrung-in-oberstdorf-oesv-star-marita-kramer-greift-nach-wm-gold/401200357"
-    }, {
-      "id" : "6laF7CjJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4964911/46-176023896.jpg",
-      "titleSource" : "Tennis-Ass Novak zieht ins Montpellier-Viertelfinale ein",
-      "titleTarget" : "Teniski as Novak kreće u četvrtfinale Montpelliera",
-      "url" : "https://kurier.at/sport/tennis/tennis-ass-novak-zieht-mit-sieg-ueber-lajovic-ins-montpellier-viertelfinale-ein/401200324"
-    }, {
-      "id" : "bu8tgkXV",
-      "imgUrl" : "https://image.kurier.at/images/original/4964926/46-173334285.jpg",
-      "titleSource" : "Fußball-Splitter: Lange Zwangspause für Rapid-Stürmer Kitagawa",
-      "titleTarget" : "Nogometne iverice: Duga prisilna stanka napadača Rapida Kitagawa",
-      "url" : "https://kurier.at/sport/fussball/fussball-splitter-lange-zwangspause-fuer-rapid-stuermer-koya-kitagawa/401040881"
     } ]
   } ],
   "country" : "austria",
