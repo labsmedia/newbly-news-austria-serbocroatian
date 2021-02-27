@@ -2,17 +2,23 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "AAlR17TK",
-      "imgUrl" : "https://image.kurier.at/images/original/4965715/46-176021927.jpg",
-      "titleSource" : "Sektionschef Christian Pilnacek vorläufig suspendiert",
-      "titleTarget" : "Šef odjela Christian Pilnacek privremeno suspendiran",
-      "url" : "https://kurier.at/politik/inland/sektionschef-christian-pilnacek-vorlaeufig-suspendiert/401200747"
+      "id" : "u2sJmII9",
+      "imgUrl" : "https://image.kurier.at/images/original/4967773/46-147523351.jpg",
+      "titleSource" : "Impfstoffproduktion: Kurz reist am 4. März nach Israel",
+      "titleTarget" : "Proizvodnja cjepiva: Kurz putuje u Izrael 4. ožujka",
+      "url" : "https://kurier.at/politik/inland/impfstoffproduktion-kurz-reist-am-4-maerz-nach-israel/401201887"
     }, {
-      "id" : "YyuYKbnM",
-      "imgUrl" : "https://image.kurier.at/images/original/4965646/46-175891409.jpg",
-      "titleSource" : "\"Wir sind in der Phase der Desillusionierung\", sagen Experten",
-      "titleTarget" : "\"U fazi smo razočaranja\", kažu stručnjaci",
-      "url" : "https://kurier.at/politik/inland/live-hilfsmassnahmen-gegen-die-psychische-belastungen-in-der-pandemie/401200714"
+      "id" : "qePRshkr",
+      "imgUrl" : "https://image.kurier.at/images/original/4967866/fiedler.png",
+      "titleSource" : "Fiedler: \"Van der Bellen hätte Regierung entlassen können\"",
+      "titleTarget" : "Fiedler: \"Van der Bellen mogao je otpustiti vladu\"",
+      "url" : "https://kurier.at/politik/inland/fiedler-van-der-bellen-haette-regierung-entlassen-koennen/401201962"
+    }, {
+      "id" : "VUh1HCwv",
+      "imgUrl" : "https://image.kurier.at/images/original/4968004/46-175559383.jpg",
+      "titleSource" : "Epidemiologin: Regierung soll vorerst keine Lockerungen ankündigen",
+      "titleTarget" : "Epidemiolog: Vlada zasad ne bi trebala najaviti ublažavanje",
+      "url" : "https://kurier.at/politik/inland/epidemiologin-regierung-soll-vorerst-keine-lockerungen-ankuendigen/401202010"
     }, {
       "id" : "F650QK42",
       "imgUrl" : "https://image.kurier.at/images/original/4966621/46-176040958.jpg",
@@ -26,23 +32,17 @@
       "titleTarget" : "Kancelar Kurz razgovarao je s Putinom o Sputnjiku V.",
       "url" : "https://kurier.at/politik/inland/kanzler-kurz-sprach-mit-putin-ueber-sputnik-v/401201608"
     }, {
-      "id" : "stWFa3ux",
-      "imgUrl" : "https://image.kurier.at/images/original/4966321/46-166245216.jpg",
-      "titleSource" : "Christian Pilnacek: Der Weg vom mächtigen Beamten zur Suspendierung",
-      "titleTarget" : "Christian Pilnacek: Put od moćnog dužnosnika do suspenzije",
-      "url" : "https://kurier.at/politik/inland/christian-pilnacek-der-weg-vom-maechtigen-beamten-zur-suspendierung/401201155"
+      "id" : "EMdocx83",
+      "imgUrl" : "https://image.kurier.at/images/original/4961800/20210224-ABD0124-1-1.jpg",
+      "titleSource" : "Keine große Lockerung wegen Infektionszahlen in Sicht",
+      "titleTarget" : "Nema većeg popuštanja zbog broja infekcija na vidiku",
+      "url" : "https://kurier.at/politik/inland/keine-grosse-lockerung-wegen-infektionszahlen-in-sicht/401201461"
     }, {
       "id" : "SnF9xSoH",
       "imgUrl" : "https://image.kurier.at/images/original/4967287/46-176042015.jpg",
       "titleSource" : "Ermittlungen: Pilnacek suspendiert, Brandstetter bleibt im Amt",
       "titleTarget" : "Istrage: Pilnacek suspendiran, Brandstetter ostaje na funkciji",
       "url" : "https://kurier.at/politik/inland/vfgh-gibt-am-nachmittag-statement-zu-brandstetter-ab/401201302"
-    }, {
-      "id" : "EMdocx83",
-      "imgUrl" : "https://image.kurier.at/images/original/4961800/20210224-ABD0124-1-1.jpg",
-      "titleSource" : "Keine große Lockerung wegen Infektionszahlen in Sicht",
-      "titleTarget" : "Nema većeg popuštanja zbog broja infekcija na vidiku",
-      "url" : "https://kurier.at/politik/inland/keine-grosse-lockerung-wegen-infektionszahlen-in-sicht/401201461"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,35 +59,35 @@
       "titleTarget" : "Šef magenta: \"Uopće nije povećao tarife za mobitele\"",
       "url" : "https://kurier.at/wirtschaft/magenta-chef-andreas-bierwirth-haben-handytarife-gar-nicht-erhoeht/401201173"
     }, {
-      "id" : "qWeL3oyA",
-      "imgUrl" : "https://image.kurier.at/images/original/4965781/46-175303225.jpg",
-      "titleSource" : "Ex-Wirecard-Chef Braun bleibt in Untersuchungshaft",
-      "titleTarget" : "Bivši šef žičane kartice Braun i dalje je u pritvoru",
-      "url" : "https://kurier.at/wirtschaft/ex-wirecard-chef-braun-bleibt-in-untersuchungshaft/401200813"
-    }, {
-      "id" : "VNVxshvb",
-      "imgUrl" : "https://image.kurier.at/images/original/4649018/78350011456577522_BLD_Online.jpg",
-      "titleSource" : "Datenschutz-Skandal: Tiktok muss in USA 92 Millionen Dollar zahlen",
-      "titleTarget" : "Skandal sa zaštitom podataka: Tiktok u SAD-u mora platiti 92 milijuna dolara",
-      "url" : "https://kurier.at/wirtschaft/datenschutz-skandal-tiktok-muss-in-usa-92-millionen-dollar-zahlen/401201971"
-    }, {
-      "id" : "9Qr5ad8F",
-      "imgUrl" : "https://image.kurier.at/images/original/4406885/11137650.jpg",
-      "titleSource" : "United Airlines zahlt fast 50 Millionen Dollar wegen Betrugsvorwürfen",
-      "titleTarget" : "United Airlines plaća gotovo 50 milijuna dolara za optužbe za prijevaru",
-      "url" : "https://kurier.at/wirtschaft/united-airlines-zahlt-fast-50-millionen-dollar-wegen-betrugsvorwuerfen/401201935"
-    }, {
-      "id" : "tPGDzQUF",
-      "imgUrl" : "https://image.kurier.at/images/original/2864249/78470026144878014_BLD_Online.jpg",
-      "titleSource" : "Starwood erhöht Angebot für CA Immo von 34,44 auf 36 Euro/Aktie",
-      "titleTarget" : "Starwood povećava ponudu za CA Immo sa 34,44 na 36 eura po dionici",
-      "url" : "https://kurier.at/wirtschaft/starwood-erhoeht-angebot-fuer-ca-immo-von-3444-auf-36-euroaktie/401201827"
+      "id" : "ti30vKO8",
+      "imgUrl" : "https://image.kurier.at/images/original/4966174/46-167205823.jpg",
+      "titleSource" : "Bad Gastein: Ein 35 Meter hoher Hotelturm für den Kurort",
+      "titleTarget" : "Bad Gastein: 35 metara visok hotelski toranj za lječilište",
+      "url" : "https://kurier.at/wirtschaft/immobiz/bad-gastein-ein-35-meter-hoher-hotelturm-fuer-den-kurort/401201086"
     }, {
       "id" : "RR8V6YNN",
       "imgUrl" : "https://image.kurier.at/images/original/4933648/78350011458870406_BLD_Online.jpg",
       "titleSource" : "Beitrags-Stundungen: „Pleitewelle wird nur hinausgezögert“",
       "titleTarget" : "Odgode doprinosa: \"Val stečaja se samo odgađa\"",
       "url" : "https://kurier.at/wirtschaft/beitrags-stundungen-pleitewelle-wird-nur-hinausgezoegert/401201626"
+    }, {
+      "id" : "sxqBQ8uK",
+      "imgUrl" : "https://image.kurier.at/images/original/4880091/46-174139763.jpg",
+      "titleSource" : "Ab Montag gilt neues Energielabel für Haushaltsgeräte",
+      "titleTarget" : "Nova energetska naljepnica za kućanske aparate primjenjivat će se od ponedjeljka",
+      "url" : "https://kurier.at/wirtschaft/ab-montag-gilt-neues-energielabel-fuer-haushaltsgeraete/401202064"
+    }, {
+      "id" : "uD44GVQA",
+      "imgUrl" : "https://image.kurier.at/images/original/4965922/46-175956047.jpg",
+      "titleSource" : "Kampagnenstar Philipp Maderthaner: So extravagant ist sein neues Tower-Büro",
+      "titleTarget" : "Zvijezda kampanje Philipp Maderthaner: Ovako je ekstravagantan njegov novi ured u tornju",
+      "url" : "https://kurier.at/wirtschaft/immobiz/philipp-maderthaner-so-extravagant-ist-sein-neues-buero/401200921"
+    }, {
+      "id" : "VE4csD5e",
+      "imgUrl" : "https://image.kurier.at/images/original/4964083/46-175970789.jpg",
+      "titleSource" : "Digital-T-Breakfast: Innovation ist kein Zufall, man muss sie fördern",
+      "titleTarget" : "Digital-T-Doručak: Inovacija nije slučajnost, treba je promovirati",
+      "url" : "https://kurier.at/wirtschaft/karriere/digital-t-breakfast-expertenrunde-ueber-den-mut-zur-innovation/401199955"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -98,41 +98,41 @@
       "titleTarget" : "Južnoafrička varijanta: zahtjev za maskom na otvorenom u tri tirolske općine",
       "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-maskenpflicht-im-freien-in-drei-tiroler-gemeinden/401201437"
     }, {
-      "id" : "KVj5ZFxN",
-      "imgUrl" : "https://image.kurier.at/images/original/4965562/46-175943548.jpg",
-      "titleSource" : "Corona-Sommer: Warnung vor zu viel Hoffnung",
-      "titleTarget" : "Corona ljeto: Upozorenje protiv previše nade",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-sommer-warnung-vor-zu-viel-hoffnung/401200624"
+      "id" : "gzIlLtMk",
+      "imgUrl" : "https://image.kurier.at/images/original/4967431/46-48087666.jpg",
+      "titleSource" : "Commerzialbank: Sozialbau und SPÖ unter Beschuss",
+      "titleTarget" : "Commerzialbank: Na udaru Sozialbau i SPÖ",
+      "url" : "https://kurier.at/chronik/oesterreich/commerzialbank-sozialbau-und-spoe-unter-beschuss/401201755"
     }, {
-      "id" : "qXCJUJ6q",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Zahlen weiter hoch: 2.093 Neuinfektionen in Österreich",
-      "titleTarget" : "Brojke su i dalje visoke: 2.093 nove infekcije u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/wieder-mehr-als-2000-neuinfektionen-in-oesterreich/401200822"
+      "id" : "mfKgVgFg",
+      "imgUrl" : "https://image.kurier.at/images/original/4968220/46-175873787.jpg",
+      "titleSource" : "2.457 Neuinfektionen in Österreich + Impfungen: Nur 22 Prozent gingen an Über-75-Jährige",
+      "titleTarget" : "2.457 novih infekcija u Austriji + cijepljenje: samo 22 posto otišlo je osobama starijim od 75 godina",
+      "url" : "https://kurier.at/chronik/oesterreich/umfrage-nur-wenige-glauben-an-normalen-sommer-drei-stufen-plan-fuer-oeffnung-des-sports/401201998"
     }, {
-      "id" : "ctgOoLlU",
-      "imgUrl" : "https://image.kurier.at/images/original/4965568/46-173961913.jpg",
-      "titleSource" : "Polizei in den Startlöchern für Corona-Impfung",
-      "titleTarget" : "Policija u početnim blokovima za cijepljenje korone",
-      "url" : "https://kurier.at/chronik/oesterreich/polizei-in-den-startloechern-fuer-corona-impfung/401200642"
+      "id" : "s6MXeKQF",
+      "imgUrl" : "https://image.kurier.at/images/original/4968100/46-156184359.jpg",
+      "titleSource" : "Schwere Kopfverletzung: Tiroler Skifahrer prallte gegen Holzpflock",
+      "titleTarget" : "Ozbiljna ozljeda glave: tirolski skijaš udario je u drveni klin",
+      "url" : "https://kurier.at/chronik/oesterreich/schwere-kopfverletzung-tiroler-skifahrer-prallte-gegen-holzpflock/401202085"
     }, {
-      "id" : "Q0WwA8Ni",
-      "imgUrl" : "https://image.kurier.at/images/original/4965565/46-175971942.jpg",
-      "titleSource" : "Südafrika-Variante in Vorarlberg und OÖ bestätigt",
-      "titleTarget" : "Južnoafrička varijanta potvrđena u Vorarlbergu i Gornjoj Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/suedafrika-variante-in-vorarlberg-und-ooe-bestaetigt/401200636"
+      "id" : "G0k7asgY",
+      "imgUrl" : "https://image.kurier.at/images/original/4968094/46-162000008.jpg",
+      "titleSource" : "Arbeiter stürzte in Tirol aus acht Metern Höhe auf Betonboden",
+      "titleTarget" : "Radnik je u Tirolu pao s osam metara na betonski pod",
+      "url" : "https://kurier.at/chronik/oesterreich/arbeiter-stuerzte-in-tirol-aus-acht-metern-hoehe-auf-betonboden/401202073"
     }, {
-      "id" : "MuDpCOzD",
-      "imgUrl" : "https://image.kurier.at/images/original/4967797/46-176049072.jpg",
-      "titleSource" : "Drei-Stufen-Plan für den Sport + Keine großen Lockerungen in Sicht",
-      "titleTarget" : "Beč započinje cijepljenje učitelja i odgajatelja u vrtiću + 2.093 nove infekcije u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-sommer-warnung-vor-zu-viel-hoffnung-suedafrika-variante-in-ooe-und-vbg/401200630"
+      "id" : "3Tn4tXgw",
+      "imgUrl" : "https://image.kurier.at/images/original/4967989/tegnell_1_c_apa_afp.jpg",
+      "titleSource" : "Anders Tegnell: „Jedes Land hatte Phasen, in denen alles daneben ging. Auch Österreich.“",
+      "titleTarget" : "Anders Tegnell: „Svaka je zemlja imala faze u kojima je sve išlo po zlu. Austrija također. \"",
+      "url" : "https://kurier.at/chronik/oesterreich/anders-tegnell-jedes-land-hatte-phasen-in-denen-alles-daneben-ging-auch-oesterreich/401202019"
     }, {
-      "id" : "EmpoA64C",
-      "imgUrl" : "https://image.kurier.at/images/original/4812405/46-168228611.jpg",
-      "titleSource" : "CoV-Ampel: Ein Bundesland orange, Problemzone Osten",
-      "titleTarget" : "CoV semafor: Jedna država narančasta, problematično područje istočno",
-      "url" : "https://kurier.at/chronik/oesterreich/cov-ampel-ein-bundesland-orange-problemzone-osten/401200651"
+      "id" : "wJwbLaoA",
+      "imgUrl" : "https://image.kurier.at/images/original/4967947/46-176043564.jpg",
+      "titleSource" : "Umfrage: Nur wenige glauben an einen normalen Sommer",
+      "titleTarget" : "Anketa: Malo tko vjeruje u normalno ljeto",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-umfrage-nur-wenige-glauben-an-einen-normalen-sommer/401201995"
     } ]
   }, {
     "category" : "CULTURE",
@@ -143,17 +143,29 @@
       "titleTarget" : "Krenite za \"Starmaniju 21\" brzinom i prvim emocijama",
       "url" : "https://kurier.at/kultur/medien/auftakt-fuer-starmania-21-mit-tempo-und-ersten-emotionen/401201956"
     }, {
+      "id" : "FbDmPdOl",
+      "imgUrl" : "https://image.kurier.at/images/original/4771734/46-168984939.jpg",
+      "titleSource" : "Gerhard Roth in Venedig: Im dritten Labyrinth wird Gott böse",
+      "titleTarget" : "Gerhard Roth u Veneciji: U trećem labirintu Bog se naljuti",
+      "url" : "https://kurier.at/kultur/buch/gerhard-roth-in-venedig-im-dritten-labyrinth-wird-gott-boese/401199493"
+    }, {
       "id" : "eszvB2lS",
       "imgUrl" : "https://image.kurier.at/images/original/4963150/46-174008149.jpg",
       "titleSource" : "Benedict Wells' neuer Roman: Ein fröhlicher Tanz mit Tränen",
       "titleTarget" : "Novi roman Benedikta Wellsa: Sretni ples sa suzama",
       "url" : "https://kurier.at/kultur/buch/benedict-wells-neuer-roman-ein-froehlicher-tanz-mit-traenen/401199499"
     }, {
-      "id" : "XDkUi2O5",
-      "imgUrl" : "https://image.kurier.at/images/original/4965760/46-173345921.jpg",
-      "titleSource" : "Helene-Fischer-Konzert in Bad Hofgastein auf 2022 verschoben",
-      "titleTarget" : "Koncert Helene Fischer u Bad Hofgasteinu odgođen za 2022. godinu",
-      "url" : "https://kurier.at/kultur/helene-fischer-konzert-in-bad-hofgastein-auf-2022-verschoben/401200795"
+      "id" : "E8XxcmYo",
+      "imgUrl" : "https://image.kurier.at/images/original/4968070/bildschirmfoto_2021-02-27_um_08.57.11.png",
+      "titleSource" : "\"Starmania\"-Auftakt: \"Ich hätt' mir bisschen mehr Dreck gewünscht\"",
+      "titleTarget" : "Početak \"Starmanije\": \"Volio bih malo više prljavštine\"",
+      "url" : "https://kurier.at/kultur/medien/starmania-auftakt-ich-haett-mir-ein-bisschen-mehr-dreck-gewuenscht/401202052"
+    }, {
+      "id" : "m9fCLQe1",
+      "imgUrl" : "https://image.kurier.at/images/original/4965712/46-174005580.jpg",
+      "titleSource" : "Buchkritik: Claude Anet und \"Ariane\" (ohne Audrey Hepburn)",
+      "titleTarget" : "Recenzija knjige: Claude Anet i \"Ariane\" (bez Audrey Hepburn)",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-claude-anet-und-ariane-ohne-audrey-hepburn/401199496"
     }, {
       "id" : "ELID6qb7",
       "imgUrl" : "https://image.kurier.at/images/original/4152372/46-156939173.jpg",
@@ -166,18 +178,6 @@
       "titleSource" : "„Der Supermarkt ist gefährlicher als das Theater“",
       "titleTarget" : "\"Supermarket je opasniji od kazališta\"",
       "url" : "https://kurier.at/kultur/der-supermarkt-ist-gefaehrlicher-als-das-theater/401201851"
-    }, {
-      "id" : "NOzk5hz8",
-      "imgUrl" : "https://image.kurier.at/images/original/4967251/46-168841933.jpg",
-      "titleSource" : "Corona-Kunstaktion: Stuttgarter Ballett tanzt in transparenten Bällen",
-      "titleTarget" : "Umjetnička kampanja Corona: balet u Stuttgartu pleše u prozirnim kuglicama",
-      "url" : "https://kurier.at/kultur/corona-kunstaktion-stuttgarter-ballett-tanzt-in-transparenten-baellen/401201698"
-    }, {
-      "id" : "C9aL2xEw",
-      "imgUrl" : "https://image.kurier.at/images/original/4609991/81452305856235644_BLD_Online.jpg",
-      "titleSource" : "Rassismusvorwürfe: Moderator erntet nach Aussage über Boyband BTS Shitstorm",
-      "titleTarget" : "Navodi o rasizmu: Moderator žanje usranu buru nakon svjedočenja o dječačkom bendu BTS",
-      "url" : "https://kurier.at/kultur/medien/rassismusvorwuerfe-bayern-3-moderator-erntet-shitstorm-von-bts-fans/401201644"
     } ]
   }, {
     "category" : "HEALTH",
@@ -194,12 +194,6 @@
       "titleTarget" : "60 posto svih infekcija britanskim inačicama virusa",
       "url" : "https://kurier.at/wissen/gesundheit/60-prozent-aller-infektionen-durch-britische-virusvariante/401201320"
     }, {
-      "id" : "LqWRnEEF",
-      "imgUrl" : "https://image.kurier.at/images/original/4965883/46-173785092.jpg",
-      "titleSource" : "So hat sich die Pandemie auf die Todes-Statistik ausgewirkt",
-      "titleTarget" : "Tako je pandemija utjecala na statistiku smrti",
-      "url" : "https://kurier.at/wissen/gesundheit/so-hat-sich-die-pandemie-auf-die-todes-statistik-ausgewirkt/401200864"
-    }, {
       "id" : "sLGsVBO2",
       "imgUrl" : "https://image.kurier.at/images/original/4966756/46-169180149.jpg",
       "titleSource" : "EU-Arzneimittelbehörde genehmigt Antikörpertherapie",
@@ -212,11 +206,23 @@
       "titleTarget" : "Treća doza: Biontech / Pfizer započinje ispitivanje",
       "url" : "https://kurier.at/wissen/gesundheit/dritte-dosis-biontechpfizer-startet-studie/401201212"
     }, {
-      "id" : "S9GyVf55",
-      "imgUrl" : "https://image.kurier.at/images/original/4966126/46-176040192.jpg",
-      "titleSource" : "2020 ist die Zahl der Suizide nicht gestiegen",
-      "titleTarget" : "U 2020. godini broj samoubojstava nije se povećao",
-      "url" : "https://kurier.at/wissen/gesundheit/2020-ist-die-zahl-der-suizide-nicht-gestiegen/401200972"
+      "id" : "W629gfjA",
+      "imgUrl" : "https://image.kurier.at/images/original/4967296/46-104398521.jpg",
+      "titleSource" : "Wie Corona die  Forschung an Seltenen Krankheiten beeinflusst",
+      "titleTarget" : "Kako Corona utječe na istraživanje rijetkih bolesti",
+      "url" : "https://kurier.at/wissen/gesundheit/wie-corona-die-forschung-an-seltenen-krankheiten-beeinflusst/401201719"
+    }, {
+      "id" : "w5uJmHf2",
+      "imgUrl" : "https://image.kurier.at/images/original/4926433/46-173888332.jpg",
+      "titleSource" : "Österreichs Corona-Statistiken sind wie aus der \"Steinzeit\"",
+      "titleTarget" : "Austrijska statistika korona je poput \"kamenog doba\"",
+      "url" : "https://kurier.at/wissen/gesundheit/oesterreichs-corona-statistiken-sind-wie-aus-der-steinzeit/401202124"
+    }, {
+      "id" : "42gwke4Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4968133/46-173772648.jpg",
+      "titleSource" : "Ärzte kritisieren ungerechte Verteilung der Corona-Selbsttests",
+      "titleTarget" : "Liječnici kritiziraju nepravednu raspodjelu samotestiranja korone",
+      "url" : "https://kurier.at/wissen/gesundheit/aerzte-kritisieren-ungerechte-verteilung-der-corona-selbsttests/401202097"
     } ]
   }, {
     "category" : "SPORT",
@@ -233,11 +239,11 @@
       "titleTarget" : "Plan u tri koraka za otvaranje sporta",
       "url" : "https://kurier.at/sport/dreistufen-plan-fuer-die-oeffnung-des-sports/401201905"
     }, {
-      "id" : "qDEuiqaR",
-      "imgUrl" : "https://image.kurier.at/images/original/4963879/46-173869131.jpg",
-      "titleSource" : "Philipp Aschenwald: \"Viel denken tut man da zum Glück nicht\"",
-      "titleTarget" : "Philipp Aschenwald: \"Srećom, ne razmišljate previše\"",
-      "url" : "https://kurier.at/sport/wintersport/oesv-skispringer-philipp-aschenwald-vor-dem-wm-auftritt-viel-denken-tut-man-da-zum-glueck-nicht/401199889"
+      "id" : "08rjnq1m",
+      "imgUrl" : "https://image.kurier.at/images/original/4967038/46-173476284.jpg",
+      "titleSource" : "Der liebste Gast von Rapid ist der Angstgegner von Coach Kühbauer",
+      "titleTarget" : "Rapidov omiljeni gost je protivnik trenera Kühbauera",
+      "url" : "https://kurier.at/sport/fussball/der-liebste-gast-von-rapid-ist-der-angstgegner-von-coach-didi-kuehbauer/401201587"
     }, {
       "id" : "P1ckW6ar",
       "imgUrl" : "https://image.kurier.at/images/original/4966363/46-176027371.jpg",
@@ -251,11 +257,11 @@
       "titleTarget" : "Asistent šefa tima Szabics napušta ÖFB i postaje trener u Mađarskoj",
       "url" : "https://kurier.at/sport/fussball/teamchef-assistent-szabics-verlaesst-oefb-und-wird-trainer-in-ungarn/401201104"
     }, {
-      "id" : "BONgIurp",
-      "imgUrl" : "https://image.kurier.at/images/original/4965769/46-175981001.jpg",
-      "titleSource" : "Nach Horror-Unfall: Golf-Star Woods in anderes Krankenhaus verlegt",
-      "titleTarget" : "Nakon stravične nesreće: Golf zvijezda Woods preselila se u drugu bolnicu",
-      "url" : "https://kurier.at/sport/nach-horror-unfall-golf-star-tiger-woods-in-anderes-krankenhaus-verlegt/401200789"
+      "id" : "JZI6vtCE",
+      "imgUrl" : "https://image.kurier.at/images/original/4967131/46-176020861.jpg",
+      "titleSource" : "Das Motto von Langläuferin Stadlober: Je schwieriger, desto besser",
+      "titleTarget" : "Moto skijaša Stadlobera: Što je teže, to bolje",
+      "url" : "https://kurier.at/sport/wintersport/das-motto-von-langlaeuferin-stadlober-je-schwieriger-desto-besser/401201632"
     }, {
       "id" : "dHbSOd3Q",
       "imgUrl" : "https://image.kurier.at/images/original/4967863/46-176055964.jpg",
