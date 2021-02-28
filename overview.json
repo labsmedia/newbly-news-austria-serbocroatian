@@ -2,29 +2,29 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "u2sJmII9",
-      "imgUrl" : "https://image.kurier.at/images/original/4967773/46-147523351.jpg",
-      "titleSource" : "Impfstoffproduktion: Kurz reist am 4. März nach Israel",
-      "titleTarget" : "Proizvodnja cjepiva: Kurz putuje u Izrael 4. ožujka",
-      "url" : "https://kurier.at/politik/inland/impfstoffproduktion-kurz-reist-am-4-maerz-nach-israel/401201887"
-    }, {
-      "id" : "VUh1HCwv",
-      "imgUrl" : "https://image.kurier.at/images/original/4968004/46-175559383.jpg",
-      "titleSource" : "Epidemiologin: Regierung soll vorerst keine Lockerungen ankündigen",
-      "titleTarget" : "Epidemiolog: Vlada zasad ne bi trebala najaviti ublažavanje",
-      "url" : "https://kurier.at/politik/inland/epidemiologin-regierung-soll-vorerst-keine-lockerungen-ankuendigen/401202010"
-    }, {
       "id" : "Ob6slrP5",
       "imgUrl" : "https://image.kurier.at/images/original/4965079/46-168566640.jpg",
       "titleSource" : "Rendi-Wagner: \"Die aktuelle Lage ist hochriskant\"",
       "titleTarget" : "Rendi-Wagner: \"Trenutna je situacija vrlo rizična\"",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-die-aktuelle-lage-ist-hochriskant/401202247"
     }, {
-      "id" : "sGpgbS8Z",
-      "imgUrl" : "https://image.kurier.at/images/original/4967983/46-176021027.jpg",
-      "titleSource" : "Wenig geimpfte Über-75-Jährige: Anschober reagiert auf Vorwürfe",
-      "titleTarget" : "Malo cijepljenih starijih od 75 godina: Anschober reagira na navode",
-      "url" : "https://kurier.at/politik/inland/nur-22-prozent-der-impfungen-gehen-an-die-ueber-75-jaehrigen/401202004"
+      "id" : "gQYVYBwz",
+      "imgUrl" : "https://image.kurier.at/images/original/4969534/46-168709966.jpg",
+      "titleSource" : "Regierung legt sich bei Lockerungen nicht fest, Experten warnen vor weiterer Öffnung",
+      "titleTarget" : "Vlada se ne zalaže za ublažavanje, upozoravaju stručnjaci protiv daljnjeg otvaranja",
+      "url" : "https://kurier.at/politik/inland/corona-regierung-legt-sich-bei-lockerungen-nicht-fest-experten-warnen-vor-weiterer-oeffnung/401202619"
+    }, {
+      "id" : "BwwVPq6g",
+      "imgUrl" : "https://image.kurier.at/images/original/4969531/46-175946210.jpg",
+      "titleSource" : "Rendi-Wagner will Corona-Impfstoff-Produktion in Österreich",
+      "titleTarget" : "Rendi-Wagner želi proizvodnju cjepiva protiv korone u Austriji",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-will-impfstoff-produktion-in-oesterreich/401202628"
+    }, {
+      "id" : "I4knVhPv",
+      "imgUrl" : "https://image.kurier.at/images/original/4969531/46-175946210.jpg",
+      "titleSource" : "Rendi-Wagner will Impfstoff-Produktion in Öserreich",
+      "titleTarget" : "Rendi-Wagner želi proizvodnju cjepiva u Austriji",
+      "url" : "https://kurier.at/politik/inland/rendi-wagner-will-impfstoff-produktion-in-oeserreich/401202628"
     }, {
       "id" : "EkFpWE0t",
       "imgUrl" : "https://image.kurier.at/images/original/3048297/46-89018250.jpg",
@@ -41,29 +41,11 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "ti30vKO8",
-      "imgUrl" : "https://image.kurier.at/images/original/4966174/46-167205823.jpg",
-      "titleSource" : "Bad Gastein: Ein 35 Meter hoher Hotelturm für den Kurort",
-      "titleTarget" : "Bad Gastein: 35 metara visok hotelski toranj za lječilište",
-      "url" : "https://kurier.at/wirtschaft/immobiz/bad-gastein-ein-35-meter-hoher-hotelturm-fuer-den-kurort/401201086"
-    }, {
-      "id" : "uD44GVQA",
-      "imgUrl" : "https://image.kurier.at/images/original/4965922/46-175956047.jpg",
-      "titleSource" : "Kampagnenstar Philipp Maderthaner: So extravagant ist sein neues Tower-Büro",
-      "titleTarget" : "Zvijezda kampanje Philipp Maderthaner: Ovako je ekstravagantan njegov novi ured u tornju",
-      "url" : "https://kurier.at/wirtschaft/immobiz/philipp-maderthaner-so-extravagant-ist-sein-neues-buero/401200921"
-    }, {
-      "id" : "sxqBQ8uK",
-      "imgUrl" : "https://image.kurier.at/images/original/4880091/46-174139763.jpg",
-      "titleSource" : "Ab Montag gilt neues Energielabel für Haushaltsgeräte",
-      "titleTarget" : "Nova energetska naljepnica za kućanske aparate primjenjivat će se od ponedjeljka",
-      "url" : "https://kurier.at/wirtschaft/ab-montag-gilt-neues-energielabel-fuer-haushaltsgeraete/401202064"
-    }, {
-      "id" : "AYF2drXR",
-      "imgUrl" : "https://image.kurier.at/images/original/4968823/46-176061370.jpg",
-      "titleSource" : "Warren Buffett: \"Wettet niemals gegen Amerika\"",
-      "titleTarget" : "Warren Buffett: \"Nikad se ne kladite protiv Amerike\"",
-      "url" : "https://kurier.at/wirtschaft/warren-buffett-wettet-niemals-gegen-amerika/401202400"
+      "id" : "nn4YPJ4j",
+      "imgUrl" : "https://image.kurier.at/images/original/4968613/46-175914660.jpg",
+      "titleSource" : "Millionen Impfdaten aus Israel: Ein Schnäppchen für Pfizer",
+      "titleTarget" : "Milijuni zapisa o cijepljenju iz Izraela: povoljna ponuda za Pfizer",
+      "url" : "https://kurier.at/wirtschaft/millionen-impfdaten-aus-israel-ein-schnaeppchen-fuer-pfizer/401202361"
     }, {
       "id" : "3fdjZiZS",
       "imgUrl" : "https://image.kurier.at/images/original/4948048/46-175554068.jpg",
@@ -71,50 +53,44 @@
       "titleTarget" : "Do sada je odobreno 231.000 zahtjeva za skraćeni rad",
       "url" : "https://kurier.at/wirtschaft/bisher-231000-antraege-zur-kurzarbeit-genehmigt/401202337"
     }, {
-      "id" : "VE4csD5e",
-      "imgUrl" : "https://image.kurier.at/images/original/4964083/46-175970789.jpg",
-      "titleSource" : "Digital-T-Breakfast: Innovation ist kein Zufall, man muss sie fördern",
-      "titleTarget" : "Digital-T-Doručak: Inovacija nije slučajnost, treba je promovirati",
-      "url" : "https://kurier.at/wirtschaft/karriere/digital-t-breakfast-expertenrunde-ueber-den-mut-zur-innovation/401199955"
+      "id" : "OTMc0EhZ",
+      "imgUrl" : "https://image.kurier.at/images/original/4965751/46-34107670.jpg",
+      "titleSource" : "Richterwertmieten: Anpassung der Mieten verschoben",
+      "titleTarget" : "Najam suca: prilagodba najamnina odgođena",
+      "url" : "https://kurier.at/wirtschaft/immobiz/richterwertmieten-anpassung-der-mieten-verschoben/401200780"
     }, {
-      "id" : "qUtqrqMr",
-      "imgUrl" : "https://image.kurier.at/images/original/4964095/46-175970794.jpg",
-      "titleSource" : "Florian Gschwandtner: \"New Leadership ist erlernbar\"",
-      "titleTarget" : "Florian Gschwandtner: \"Novo se vodstvo može naučiti\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/florian-gschwandtner-new-leadership-ist-erlernbar/401200690"
+      "id" : "1AlFZwPn",
+      "imgUrl" : "https://image.kurier.at/images/original/4969561/46-175832370.jpg",
+      "titleSource" : "In Wintersport-Regionen explodierte die Arbeitslosigkeit",
+      "titleTarget" : "Nezaposlenost je eksplodirala u regijama zimskih sportova",
+      "url" : "https://kurier.at/wirtschaft/in-wintersport-regionen-explodierte-die-arbeitslosigkeit/401202637"
+    }, {
+      "id" : "3WculoAs",
+      "imgUrl" : "https://image.kurier.at/images/original/4965742/46-175889426.jpg",
+      "titleSource" : "Diese Duftkerzen wollen jetzt alle haben",
+      "titleTarget" : "Svi sada žele ove mirisne svijeće",
+      "url" : "https://kurier.at/wirtschaft/immobiz/diese-duftkerzen-wollen-jetzt-alle-haben/401200774"
+    }, {
+      "id" : "5g6Bt67m",
+      "imgUrl" : "https://image.kurier.at/images/original/4964098/46-175948789.jpg",
+      "titleSource" : "Warum Silhouette im Brillenverkauf auf  digitale Tools setzt",
+      "titleTarget" : "Zašto se Silhouette oslanja na digitalne alate u prodaji naočala",
+      "url" : "https://kurier.at/wirtschaft/karriere/warum-silhouette-im-brillenverkauf-auf-digitale-tools-setzt/401199958"
+    }, {
+      "id" : "AYF2drXR",
+      "imgUrl" : "https://image.kurier.at/images/original/4968823/46-176061370.jpg",
+      "titleSource" : "Warren Buffett: \"Wettet niemals gegen Amerika\"",
+      "titleTarget" : "Warren Buffett: \"Nikad se ne kladite protiv Amerike\"",
+      "url" : "https://kurier.at/wirtschaft/warren-buffett-wettet-niemals-gegen-amerika/401202400"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "hRvvbNaU",
+      "id" : "4mDnkbfr",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "Zahlen weiter hoch: 2.457 Corona-Neuinfektionen in Österreich",
-      "titleTarget" : "Brojke su i dalje visoke: 2.457 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/zahlen-weiter-hoch-2457-corona-neuinfektionen-in-oesterreich/401202046"
-    }, {
-      "id" : "wJwbLaoA",
-      "imgUrl" : "https://image.kurier.at/images/original/4967947/46-176043564.jpg",
-      "titleSource" : "Umfrage: Nur wenige glauben an einen normalen Sommer",
-      "titleTarget" : "Anketa: Malo tko vjeruje u normalno ljeto",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-umfrage-nur-wenige-glauben-an-einen-normalen-sommer/401201995"
-    }, {
-      "id" : "XsZoBRBm",
-      "imgUrl" : "https://image.kurier.at/images/original/4838160/46-77402797.jpg",
-      "titleSource" : "Graz: 19-Jähriger mit Bauchstich getötet",
-      "titleTarget" : "Graz: 19-godišnjak ubijen šavom u trbuhu",
-      "url" : "https://kurier.at/chronik/oesterreich/graz-19-jaehriger-mit-bauchstich-getoetet/401202121"
-    }, {
-      "id" : "mfKgVgFg",
-      "imgUrl" : "https://image.kurier.at/images/original/4968502/46-176046679.jpg",
-      "titleSource" : "Sputnik soll gegen Virus-Varianten wirken + 2.457 Neuinfektionen in Österreich",
-      "titleTarget" : "2.457 novih infekcija u Austriji + cijepljenje: samo 22 posto otišlo je osobama starijim od 75 godina",
-      "url" : "https://kurier.at/chronik/oesterreich/umfrage-nur-wenige-glauben-an-normalen-sommer-drei-stufen-plan-fuer-oeffnung-des-sports/401201998"
-    }, {
-      "id" : "BmrTwEvI",
-      "imgUrl" : "https://image.kurier.at/images/original/4969054/46-150934706.jpg",
-      "titleSource" : "79-Jähriger in Kärnten von Dachlawine erschlagen",
-      "titleTarget" : "79-godišnjaka usmrtila krovna lavina u Koruškoj",
-      "url" : "https://kurier.at/chronik/oesterreich/79-jaehriger-in-kaernten-von-dachlawine-erschlagen/401202463"
+      "titleSource" : "Corona: 2.123 Neuinfektionen in Österreich",
+      "titleTarget" : "Corona: 2.123 nove infekcije u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-2123-neuinfektionen-in-oesterreich/401202652"
     }, {
       "id" : "pODfcZm1",
       "imgUrl" : "https://image.kurier.at/images/original/4968496/46-176060628.jpg",
@@ -122,32 +98,44 @@
       "titleTarget" : "Corona: Mayrhofners pokazuju prihvaćanje i samopouzdanje",
       "url" : "https://kurier.at/chronik/oesterreich/corona-mayrhofner-zeigen-akzeptanz-und-zuversicht/401202292"
     }, {
-      "id" : "h0ixjieo",
-      "imgUrl" : "https://image.kurier.at/images/original/4968436/46-145963561.jpg",
-      "titleSource" : "Zwei Verletzte: Grazer Polizei fahndet nach geflüchtetem Alkolenker",
-      "titleTarget" : "Dvoje ozlijeđenih: Policija u Grazu traga za izbjeglim alkoholičarom",
-      "url" : "https://kurier.at/chronik/oesterreich/zwei-verletzte-grazer-polizei-fahndet-nach-gefluechtetem-alkolenker/401202268"
+      "id" : "gGK3MZBY",
+      "imgUrl" : "https://image.kurier.at/images/original/4969651/46-175952627.jpg",
+      "titleSource" : "2.123 Neuinfektionen in Ö: Neuer Sonntagsrekord seit Jahresbeginn + USA lassen Impfstoff von Johnson & Johnson zu",
+      "titleTarget" : "2.123 nove infekcije u Austriji: Novi nedjeljni rekord od početka godine + SAD dopuštaju cjepivo Johnson & Johnson",
+      "url" : "https://kurier.at/chronik/oesterreich/usa-lassen-corona-impfstoff-von-johnson-johnson-zu-astra-zeneca-als-ladenhueter-in-eu/401202616"
+    }, {
+      "id" : "BmrTwEvI",
+      "imgUrl" : "https://image.kurier.at/images/original/4969054/46-150934706.jpg",
+      "titleSource" : "79-Jähriger in Kärnten von Dachlawine erschlagen",
+      "titleTarget" : "79-godišnjaka usmrtila krovna lavina u Koruškoj",
+      "url" : "https://kurier.at/chronik/oesterreich/79-jaehriger-in-kaernten-von-dachlawine-erschlagen/401202463"
+    }, {
+      "id" : "RkANDrwq",
+      "imgUrl" : "https://image.kurier.at/images/original/4969615/46-61349194.jpg",
+      "titleSource" : "Kärntner war 55 km/h zu schnell unterwegs und überholte Polizei",
+      "titleTarget" : "Kärntner je prebrzo putovao 55 km / h i pretekao policiju",
+      "url" : "https://kurier.at/chronik/oesterreich/kaerntner-war-55-kmh-zu-schnell-unterwegs-und-ueberholte-polizei/401202676"
+    }, {
+      "id" : "Wo3MR8ou",
+      "imgUrl" : "https://image.kurier.at/images/original/4969591/46-111232537.jpg",
+      "titleSource" : "27-Jähriger schoss in Tirol mit Airsoft-Pistole aus Auto",
+      "titleTarget" : "27-godišnjak pucao je airsoft pištoljem iz automobila u Tirolu",
+      "url" : "https://kurier.at/chronik/oesterreich/27-jaehriger-schoss-in-tirol-mit-airsoft-pistole-aus-auto/401202646"
+    }, {
+      "id" : "nxllz13m",
+      "imgUrl" : "https://image.kurier.at/images/original/4968832/46-83058628.jpg",
+      "titleSource" : "Vom Tierheim ins neue Zuhause: „Und dann war der Hund König“",
+      "titleTarget" : "Od skloništa do novog doma: \"A tada je pas bio kralj\"",
+      "url" : "https://kurier.at/chronik/oesterreich/vom-tierheim-ins-neue-zuhause-und-dann-war-der-hund-koenig/401202406"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "FbDmPdOl",
-      "imgUrl" : "https://image.kurier.at/images/original/4771734/46-168984939.jpg",
-      "titleSource" : "Gerhard Roth in Venedig: Im dritten Labyrinth wird Gott böse",
-      "titleTarget" : "Gerhard Roth u Veneciji: U trećem labirintu Bog se naljuti",
-      "url" : "https://kurier.at/kultur/buch/gerhard-roth-in-venedig-im-dritten-labyrinth-wird-gott-boese/401199493"
-    }, {
-      "id" : "E8XxcmYo",
-      "imgUrl" : "https://image.kurier.at/images/original/4968070/bildschirmfoto_2021-02-27_um_08.57.11.png",
-      "titleSource" : "\"Starmania\"-Auftakt: \"Ich hätt' mir bisschen mehr Dreck gewünscht\"",
-      "titleTarget" : "Početak \"Starmanije\": \"Volio bih malo više prljavštine\"",
-      "url" : "https://kurier.at/kultur/medien/starmania-auftakt-ich-haett-mir-ein-bisschen-mehr-dreck-gewuenscht/401202052"
-    }, {
-      "id" : "m9fCLQe1",
-      "imgUrl" : "https://image.kurier.at/images/original/4965712/46-174005580.jpg",
-      "titleSource" : "Buchkritik: Claude Anet und \"Ariane\" (ohne Audrey Hepburn)",
-      "titleTarget" : "Recenzija knjige: Claude Anet i \"Ariane\" (bez Audrey Hepburn)",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-claude-anet-und-ariane-ohne-audrey-hepburn/401199496"
+      "id" : "szPmpqvk",
+      "imgUrl" : "https://image.kurier.at/images/original/4969327/46-176041308.jpg",
+      "titleSource" : "Berlnale: Filme online schauen im Hausarrest",
+      "titleTarget" : "Berlnale: Gledajte filmove na mreži dok ste u kućnom pritvoru",
+      "url" : "https://kurier.at/kultur/berlnale-filme-online-schauen-im-hausarrest/401202502"
     }, {
       "id" : "EVQObU2E",
       "imgUrl" : "https://image.kurier.at/images/original/4968811/orf1_202102262015_28.jpg",
@@ -158,17 +146,11 @@
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "w5uJmHf2",
-      "imgUrl" : "https://image.kurier.at/images/original/4926433/46-173888332.jpg",
-      "titleSource" : "Österreichs Corona-Statistiken sind wie aus der \"Steinzeit\"",
-      "titleTarget" : "Austrijska statistika korona je poput \"kamenog doba\"",
-      "url" : "https://kurier.at/wissen/gesundheit/oesterreichs-corona-statistiken-sind-wie-aus-der-steinzeit/401202124"
-    }, {
-      "id" : "42gwke4Q",
-      "imgUrl" : "https://image.kurier.at/images/original/4968133/46-173772648.jpg",
-      "titleSource" : "Ärzte kritisieren ungerechte Verteilung der Corona-Selbsttests",
-      "titleTarget" : "Liječnici kritiziraju nepravednu raspodjelu samotestiranja korone",
-      "url" : "https://kurier.at/wissen/gesundheit/aerzte-kritisieren-ungerechte-verteilung-der-corona-selbsttests/401202097"
+      "id" : "ElFVvGbi",
+      "imgUrl" : "https://image.kurier.at/images/original/4865553/46-173935918.jpg",
+      "titleSource" : "Hohes Ansteckungsrisiko mit Coronaviren in Fitness-Kursen",
+      "titleTarget" : "Veliki rizik od zaraze virusima korone na tečajevima kondicije",
+      "url" : "https://kurier.at/wissen/gesundheit/hohes-ansteckungsrisiko-mit-coronaviren-in-fitness-kursen/401202250"
     }, {
       "id" : "R3jWgQXE",
       "imgUrl" : "https://image.kurier.at/images/original/4968502/46-176046679.jpg",
@@ -176,38 +158,32 @@
       "titleTarget" : "Prema ruskim istraživačima, Sputnik bi trebao raditi protiv verzija virusa",
       "url" : "https://kurier.at/wissen/gesundheit/sputnik-soll-laut-russischen-forschern-gegen-virus-varianten-wirken/401202295"
     }, {
-      "id" : "ElFVvGbi",
-      "imgUrl" : "https://image.kurier.at/images/original/4865553/46-173935918.jpg",
-      "titleSource" : "Hohes Ansteckungsrisiko mit Coronaviren in Fitness-Kursen",
-      "titleTarget" : "Veliki rizik od zaraze virusima korone na tečajevima kondicije",
-      "url" : "https://kurier.at/wissen/gesundheit/hohes-ansteckungsrisiko-mit-coronaviren-in-fitness-kursen/401202250"
-    }, {
       "id" : "m1rHLyjs",
       "imgUrl" : "https://image.kurier.at/images/original/4948582/46-175624987.jpg",
       "titleSource" : "Testsieger: Mit dieser FFP2-Maske kann man am besten atmen",
       "titleTarget" : "Pobjednik testa: Ova FFP2 maska najbolji je način disanja",
       "url" : "https://kurier.at/wissen/gesundheit/mit-dieser-ffp2-testsieger-maske-kann-man-am-besten-atmen/401202166"
     }, {
-      "id" : "W629gfjA",
-      "imgUrl" : "https://image.kurier.at/images/original/4967296/46-104398521.jpg",
-      "titleSource" : "Wie Corona die  Forschung an Seltenen Krankheiten beeinflusst",
-      "titleTarget" : "Kako Corona utječe na istraživanje rijetkih bolesti",
-      "url" : "https://kurier.at/wissen/gesundheit/wie-corona-die-forschung-an-seltenen-krankheiten-beeinflusst/401201719"
-    }, {
       "id" : "lCbvz8oT",
       "imgUrl" : "https://image.kurier.at/images/original/4968280/46-176057171.jpg",
       "titleSource" : "US-Experten empfehlen Zulassung von Johnson & Johnson-Impfstoff",
       "titleTarget" : "Američki stručnjaci preporučuju odobrenje cjepiva Johnson & Johnson",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-us-experten-empfehlen-zulassung-von-johnson-johnson-impfstoff/401202196"
+    }, {
+      "id" : "j4vchqGf",
+      "imgUrl" : "https://image.kurier.at/images/original/4969693/46-176044604.jpg",
+      "titleSource" : "Heikle Irak-Mission von Papst: Botschafter wurde positiv getestet",
+      "titleTarget" : "Papina misija u Iraku, lukava: Veleposlanik je ocijenio pozitivnim",
+      "url" : "https://kurier.at/wissen/gesundheit/heikle-irak-mission-von-papst-franziskus-vatikan-botschafter-wurde-positiv-getestet/401202709"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "08rjnq1m",
-      "imgUrl" : "https://image.kurier.at/images/original/4967038/46-173476284.jpg",
-      "titleSource" : "Der liebste Gast von Rapid ist der Angstgegner von Coach Kühbauer",
-      "titleTarget" : "Rapidov omiljeni gost je protivnik trenera Kühbauera",
-      "url" : "https://kurier.at/sport/fussball/der-liebste-gast-von-rapid-ist-der-angstgegner-von-coach-didi-kuehbauer/401201587"
+      "id" : "BMcVwudV",
+      "imgUrl" : "https://image.kurier.at/images/original/4969339/46-176068089.jpg",
+      "titleSource" : "Ried-Trainer gratuliert: \"Das war das Tor des Monats von Demir\"",
+      "titleTarget" : "Trener Ried čestita: \"To je bio Demir-ov cilj mjeseca\"",
+      "url" : "https://kurier.at/sport/fussball/ried-trainer-miron-muslic-gratuliert-rapid-das-war-das-tor-des-monats-von-yusuf-demir/401202508"
     }, {
       "id" : "yBnUp055",
       "imgUrl" : "https://image.kurier.at/images/original/4968277/46-176059758.jpg",
@@ -233,17 +209,17 @@
       "titleTarget" : "Njemačka Bundesliga: Kalajdžić zabija u petoj utakmici zaredom",
       "url" : "https://kurier.at/sport/fussball/deutsche-bundesliga-oefb-teamstuermer-kalajdzic-trifft-im-fuenften-spiel-in-serie/401202442"
     }, {
+      "id" : "57cHtxnN",
+      "imgUrl" : "https://image.kurier.at/images/original/4969600/46-176074178.jpg",
+      "titleSource" : "Starke Pöltl-Leistung bei Sieg seiner San Antonio Spurs",
+      "titleTarget" : "Snažna izvedba Pöltla kada pobjede njegovi San Antonio Spursi",
+      "url" : "https://kurier.at/sport/nba-starke-poeltl-leistung-bei-sieg-san-antonios-sieg/401202661"
+    }, {
       "id" : "FT2DLlHU",
       "imgUrl" : "https://image.kurier.at/images/original/4969441/46-176072583.jpg",
       "titleSource" : "Juventus erreicht bei Hellas Verona nur ein 1:1",
       "titleTarget" : "Juventus je zabio samo 1-1 u Hellas Veroni",
       "url" : "https://kurier.at/sport/fussball/juventus-erreicht-bei-hellas-verona-nur-ein-11/401202553"
-    }, {
-      "id" : "Yd2hQkZQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4969420/46-106006493.jpg",
-      "titleSource" : "Alexander Hermann erlitt schwere Gesichtsverletzungen",
-      "titleTarget" : "Alexander Hermann zadobio je teške ozljede lica",
-      "url" : "https://kurier.at/sport/handball-gummersbach-legionaer-alexander-hermann-erlitt-schwere-gesichtsverletzungen/401202544"
     } ]
   } ],
   "country" : "austria",
