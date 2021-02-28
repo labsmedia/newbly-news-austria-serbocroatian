@@ -8,12 +8,6 @@
       "titleTarget" : "Proizvodnja cjepiva: Kurz putuje u Izrael 4. ožujka",
       "url" : "https://kurier.at/politik/inland/impfstoffproduktion-kurz-reist-am-4-maerz-nach-israel/401201887"
     }, {
-      "id" : "qePRshkr",
-      "imgUrl" : "https://image.kurier.at/images/original/4967866/fiedler.png",
-      "titleSource" : "Fiedler: \"Van der Bellen hätte Regierung entlassen können\"",
-      "titleTarget" : "Fiedler: \"Van der Bellen mogao je otpustiti vladu\"",
-      "url" : "https://kurier.at/politik/inland/fiedler-van-der-bellen-haette-regierung-entlassen-koennen/401201962"
-    }, {
       "id" : "VUh1HCwv",
       "imgUrl" : "https://image.kurier.at/images/original/4968004/46-175559383.jpg",
       "titleSource" : "Epidemiologin: Regierung soll vorerst keine Lockerungen ankündigen",
@@ -38,11 +32,11 @@
       "titleTarget" : "Causa Blümel: Gusenbauer negira aktivnosti u Italiji",
       "url" : "https://kurier.at/politik/inland/causa-bluemel-gusenbauer-dementiert-aktivitaeten-in-italien/401202202"
     }, {
-      "id" : "R95uLoq9",
-      "imgUrl" : "https://image.kurier.at/images/original/3048297/46-89018250.jpg",
-      "titleSource" : "Causa Blümel: Gusenbauer dementiert Aktivitätien in Italien",
-      "titleTarget" : "Causa Blümel: Gusenbauer negira aktivnosti u Italiji",
-      "url" : "https://kurier.at/politik/inland/causa-bluemel-gusenbauer-dementiert-aktivitaetien-in-italien/401202202"
+      "id" : "rpvDaf08",
+      "imgUrl" : "https://image.kurier.at/images/original/4969381/46-175912938.jpg",
+      "titleSource" : "Causa Brandstetter: VfGH leistete Staatsanwälten Amtshilfe",
+      "titleTarget" : "Causa Brandstetter: VfGH pružio je državnim tužiteljima administrativnu pomoć",
+      "url" : "https://kurier.at/politik/inland/causa-brandstetter-vfgh-leistete-staatsanwaelten-amtshilfe/401202523"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -116,6 +110,12 @@
       "titleTarget" : "2.457 novih infekcija u Austriji + cijepljenje: samo 22 posto otišlo je osobama starijim od 75 godina",
       "url" : "https://kurier.at/chronik/oesterreich/umfrage-nur-wenige-glauben-an-normalen-sommer-drei-stufen-plan-fuer-oeffnung-des-sports/401201998"
     }, {
+      "id" : "BmrTwEvI",
+      "imgUrl" : "https://image.kurier.at/images/original/4969054/46-150934706.jpg",
+      "titleSource" : "79-Jähriger in Kärnten von Dachlawine erschlagen",
+      "titleTarget" : "79-godišnjaka usmrtila krovna lavina u Koruškoj",
+      "url" : "https://kurier.at/chronik/oesterreich/79-jaehriger-in-kaernten-von-dachlawine-erschlagen/401202463"
+    }, {
       "id" : "pODfcZm1",
       "imgUrl" : "https://image.kurier.at/images/original/4968496/46-176060628.jpg",
       "titleSource" : "Corona: Mayrhofner zeigen Akzeptanz und Zuversicht",
@@ -127,22 +127,10 @@
       "titleSource" : "Zwei Verletzte: Grazer Polizei fahndet nach geflüchtetem Alkolenker",
       "titleTarget" : "Dvoje ozlijeđenih: Policija u Grazu traga za izbjeglim alkoholičarom",
       "url" : "https://kurier.at/chronik/oesterreich/zwei-verletzte-grazer-polizei-fahndet-nach-gefluechtetem-alkolenker/401202268"
-    }, {
-      "id" : "XVDgtc04",
-      "imgUrl" : "https://image.kurier.at/images/original/4968142/46-154981777.jpg",
-      "titleSource" : "16-Jähriger bei Mopedunfall in der Steiermark schwer verletzt",
-      "titleTarget" : "Šesnaestogodišnjak teško ozlijeđen u nesreći mopeda u Štajerskoj",
-      "url" : "https://kurier.at/chronik/oesterreich/16-jaehriger-bei-mopedunfall-in-der-steiermark-schwer-verletzt/401202109"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "SMUzmVof",
-      "imgUrl" : "https://image.kurier.at/images/original/4968778/orf1_202102262015_17.jpg",
-      "titleSource" : "Auftakt für \"Starmania 21\" mit Tempo und ersten Emotionen",
-      "titleTarget" : "Krenite za \"Starmaniju 21\" brzinom i prvim emocijama",
-      "url" : "https://kurier.at/kultur/medien/auftakt-fuer-starmania-21-mit-tempo-und-ersten-emotionen/401201956"
-    }, {
       "id" : "FbDmPdOl",
       "imgUrl" : "https://image.kurier.at/images/original/4771734/46-168984939.jpg",
       "titleSource" : "Gerhard Roth in Venedig: Im dritten Labyrinth wird Gott böse",
@@ -161,12 +149,6 @@
       "titleTarget" : "Recenzija knjige: Claude Anet i \"Ariane\" (bez Audrey Hepburn)",
       "url" : "https://kurier.at/kultur/buch/buchkritik-claude-anet-und-ariane-ohne-audrey-hepburn/401199496"
     }, {
-      "id" : "ELID6qb7",
-      "imgUrl" : "https://image.kurier.at/images/original/4152372/46-156939173.jpg",
-      "titleSource" : "Justin Bieber gibt Details zu neuem Album bekannt",
-      "titleTarget" : "Justin Bieber objavio je detalje o novom albumu",
-      "url" : "https://kurier.at/kultur/justin-bieber-gibt-details-zu-neuem-album-bekannt/401201896"
-    }, {
       "id" : "EVQObU2E",
       "imgUrl" : "https://image.kurier.at/images/original/4968811/orf1_202102262015_28.jpg",
       "titleSource" : "\"Starmania 21\": Starke Quoten für Auftaktshow",
@@ -182,11 +164,23 @@
       "titleTarget" : "Austrijska statistika korona je poput \"kamenog doba\"",
       "url" : "https://kurier.at/wissen/gesundheit/oesterreichs-corona-statistiken-sind-wie-aus-der-steinzeit/401202124"
     }, {
+      "id" : "42gwke4Q",
+      "imgUrl" : "https://image.kurier.at/images/original/4968133/46-173772648.jpg",
+      "titleSource" : "Ärzte kritisieren ungerechte Verteilung der Corona-Selbsttests",
+      "titleTarget" : "Liječnici kritiziraju nepravednu raspodjelu samotestiranja korone",
+      "url" : "https://kurier.at/wissen/gesundheit/aerzte-kritisieren-ungerechte-verteilung-der-corona-selbsttests/401202097"
+    }, {
       "id" : "R3jWgQXE",
       "imgUrl" : "https://image.kurier.at/images/original/4968502/46-176046679.jpg",
       "titleSource" : "Sputnik soll laut russischen Forschern gegen Virus-Varianten wirken",
       "titleTarget" : "Prema ruskim istraživačima, Sputnik bi trebao raditi protiv verzija virusa",
       "url" : "https://kurier.at/wissen/gesundheit/sputnik-soll-laut-russischen-forschern-gegen-virus-varianten-wirken/401202295"
+    }, {
+      "id" : "ElFVvGbi",
+      "imgUrl" : "https://image.kurier.at/images/original/4865553/46-173935918.jpg",
+      "titleSource" : "Hohes Ansteckungsrisiko mit Coronaviren in Fitness-Kursen",
+      "titleTarget" : "Veliki rizik od zaraze virusima korone na tečajevima kondicije",
+      "url" : "https://kurier.at/wissen/gesundheit/hohes-ansteckungsrisiko-mit-coronaviren-in-fitness-kursen/401202250"
     }, {
       "id" : "m1rHLyjs",
       "imgUrl" : "https://image.kurier.at/images/original/4948582/46-175624987.jpg",
@@ -200,18 +194,6 @@
       "titleTarget" : "Kako Corona utječe na istraživanje rijetkih bolesti",
       "url" : "https://kurier.at/wissen/gesundheit/wie-corona-die-forschung-an-seltenen-krankheiten-beeinflusst/401201719"
     }, {
-      "id" : "42gwke4Q",
-      "imgUrl" : "https://image.kurier.at/images/original/4968133/46-173772648.jpg",
-      "titleSource" : "Ärzte kritisieren ungerechte Verteilung der Corona-Selbsttests",
-      "titleTarget" : "Liječnici kritiziraju nepravednu raspodjelu samotestiranja korone",
-      "url" : "https://kurier.at/wissen/gesundheit/aerzte-kritisieren-ungerechte-verteilung-der-corona-selbsttests/401202097"
-    }, {
-      "id" : "ElFVvGbi",
-      "imgUrl" : "https://image.kurier.at/images/original/4865553/46-173935918.jpg",
-      "titleSource" : "Hohes Ansteckungsrisiko mit Coronaviren in Fitness-Kursen",
-      "titleTarget" : "Veliki rizik od zaraze virusima korone na tečajevima kondicije",
-      "url" : "https://kurier.at/wissen/gesundheit/hohes-ansteckungsrisiko-mit-coronaviren-in-fitness-kursen/401202250"
-    }, {
       "id" : "lCbvz8oT",
       "imgUrl" : "https://image.kurier.at/images/original/4968280/46-176057171.jpg",
       "titleSource" : "US-Experten empfehlen Zulassung von Johnson & Johnson-Impfstoff",
@@ -221,12 +203,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "eLY2UI7M",
-      "imgUrl" : "https://image.kurier.at/images/original/4967797/46-176049072.jpg",
-      "titleSource" : "Drei-Stufen-Plan für die Öffnung des Sports",
-      "titleTarget" : "Plan u tri koraka za otvaranje sporta",
-      "url" : "https://kurier.at/sport/dreistufen-plan-fuer-die-oeffnung-des-sports/401201905"
-    }, {
       "id" : "08rjnq1m",
       "imgUrl" : "https://image.kurier.at/images/original/4967038/46-173476284.jpg",
       "titleSource" : "Der liebste Gast von Rapid ist der Angstgegner von Coach Kühbauer",
@@ -239,29 +215,35 @@
       "titleTarget" : "Motorsport oplakuje legendu relija",
       "url" : "https://kurier.at/sport/motorsport/rallye-legende-hannu-mikkola-gestorben/401202193"
     }, {
+      "id" : "JW4GBNZJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4969222/46-176068087.jpg",
+      "titleSource" : "Youngster Demir rettet Rapid gegen Ried",
+      "titleTarget" : "Omladinac Demir spašava Rapid protiv Rieda",
+      "url" : "https://kurier.at/sport/fussball/fussball-bundesliga-youngster-demir-schiesst-rapid-mit-last-minute-tor-zum-sieg/401202466"
+    }, {
+      "id" : "yteZy2mb",
+      "imgUrl" : "https://image.kurier.at/images/original/4969060/46-176065658.jpg",
+      "titleSource" : "ÖSV-Adler gehen auf der WM-Normalschanze leer aus",
+      "titleTarget" : "ÖSV orlovi odlaze praznih ruku na normalno brdo WM",
+      "url" : "https://kurier.at/sport/wintersport/nordische-wm-oesv-adler-gehen-auf-der-wm-normalschanze-leer-aus/401202430"
+    }, {
       "id" : "1gL5y3nS",
       "imgUrl" : "https://image.kurier.at/images/original/4968895/46-176065098.jpg",
       "titleSource" : "Deutsche Bundesliga: Kalajdzic trifft im fünften Spiel in Serie",
       "titleTarget" : "Njemačka Bundesliga: Kalajdžić zabija u petoj utakmici zaredom",
       "url" : "https://kurier.at/sport/fussball/deutsche-bundesliga-oefb-teamstuermer-kalajdzic-trifft-im-fuenften-spiel-in-serie/401202442"
     }, {
-      "id" : "mNPOYt5D",
-      "imgUrl" : "https://image.kurier.at/images/original/4968883/46-176055787.jpg",
-      "titleSource" : "ÖSV-Adler auf Normalschanze nicht auf WM-Medaillenkurs",
-      "titleTarget" : "ÖSV orao na normalnom brdu, a ne na stazi za medalje prvaka",
-      "url" : "https://kurier.at/sport/wintersport/nordische-wm-oesterreicher-auf-normalschanze-nicht-auf-medaillenkurs/401202430"
+      "id" : "FT2DLlHU",
+      "imgUrl" : "https://image.kurier.at/images/original/4969441/46-176072583.jpg",
+      "titleSource" : "Juventus erreicht bei Hellas Verona nur ein 1:1",
+      "titleTarget" : "Juventus je zabio samo 1-1 u Hellas Veroni",
+      "url" : "https://kurier.at/sport/fussball/juventus-erreicht-bei-hellas-verona-nur-ein-11/401202553"
     }, {
-      "id" : "457YqGWd",
-      "imgUrl" : "https://image.kurier.at/images/original/4968616/46-176062879.jpg",
-      "titleSource" : "Manchester City baut Erfolgsserie auf 20 Siege aus",
-      "titleTarget" : "Manchester City produžava niz pobjeda na 20 pobjeda",
-      "url" : "https://kurier.at/sport/fussball/premier-league-manchester-city-baut-erfolgsserie-auf-20-siege-aus/401202364"
-    }, {
-      "id" : "8qU7IA7B",
-      "imgUrl" : "https://image.kurier.at/images/original/4968619/46-176060294.jpg",
-      "titleSource" : "Nordische WM: Premieren-Podium in Frauen-Kombi in norwegischer Hand",
-      "titleTarget" : "Nordijski svjetski kup: Prvo postolje u ženskim karavanima u norveškim rukama",
-      "url" : "https://kurier.at/sport/wintersport/nordische-wm-premieren-podium-in-frauen-kombi-in-norwegischer-hand/401202178"
+      "id" : "Yd2hQkZQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4969420/46-106006493.jpg",
+      "titleSource" : "Alexander Hermann erlitt schwere Gesichtsverletzungen",
+      "titleTarget" : "Alexander Hermann zadobio je teške ozljede lica",
+      "url" : "https://kurier.at/sport/handball-gummersbach-legionaer-alexander-hermann-erlitt-schwere-gesichtsverletzungen/401202544"
     } ]
   } ],
   "country" : "austria",
