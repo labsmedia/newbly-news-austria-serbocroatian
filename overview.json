@@ -8,23 +8,17 @@
       "titleTarget" : "Rendi-Wagner želi proizvodnju cjepiva protiv korone u Austriji",
       "url" : "https://kurier.at/politik/inland/rendi-wagner-will-impfstoff-produktion-in-oesterreich/401202628"
     }, {
-      "id" : "gQYVYBwz",
-      "imgUrl" : "https://image.kurier.at/images/original/4969534/46-168709966.jpg",
-      "titleSource" : "Regierung legt sich bei Lockerungen nicht fest, Experten warnen vor weiterer Öffnung",
-      "titleTarget" : "Vlada se ne zalaže za ublažavanje, upozoravaju stručnjaci protiv daljnjeg otvaranja",
-      "url" : "https://kurier.at/politik/inland/corona-regierung-legt-sich-bei-lockerungen-nicht-fest-experten-warnen-vor-weiterer-oeffnung/401202619"
-    }, {
       "id" : "hs2T6LUG",
       "imgUrl" : "https://image.kurier.at/images/original/4969714/46-173885122.jpg",
       "titleSource" : "ÖGB-Präsident Katzian: \"Die soziale Balance ist gekippt\"",
       "titleTarget" : "Predsjednik ÖGB-a Katzian: \"Socijalna je ravnoteža nagnuta\"",
       "url" : "https://kurier.at/politik/inland/oegb-praesident-katzian-die-soziale-balance-ist-gekippt/401202799"
     }, {
-      "id" : "rpvDaf08",
-      "imgUrl" : "https://image.kurier.at/images/original/4969381/46-175912938.jpg",
-      "titleSource" : "Causa Brandstetter: VfGH leistete Staatsanwälten Amtshilfe",
-      "titleTarget" : "Causa Brandstetter: VfGH pružio je državnim tužiteljima administrativnu pomoć",
-      "url" : "https://kurier.at/politik/inland/causa-brandstetter-vfgh-leistete-staatsanwaelten-amtshilfe/401202523"
+      "id" : "gQYVYBwz",
+      "imgUrl" : "https://image.kurier.at/images/original/4969534/46-168709966.jpg",
+      "titleSource" : "Regierung legt sich bei Lockerungen nicht fest, Experten warnen vor weiterer Öffnung",
+      "titleTarget" : "Vlada se ne zalaže za ublažavanje, upozoravaju stručnjaci protiv daljnjeg otvaranja",
+      "url" : "https://kurier.at/politik/inland/corona-regierung-legt-sich-bei-lockerungen-nicht-fest-experten-warnen-vor-weiterer-oeffnung/401202619"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -35,17 +29,23 @@
       "titleTarget" : "Troškovi Corone: Sada se od Britanaca traži da odu do blagajne",
       "url" : "https://kurier.at/wirtschaft/corona-kosten-jetzt-werden-die-briten-kraeftig-zur-kassa-gebeten/401202712"
     }, {
+      "id" : "1AlFZwPn",
+      "imgUrl" : "https://image.kurier.at/images/original/4969561/46-175832370.jpg",
+      "titleSource" : "In Wintersport-Regionen explodierte die Arbeitslosigkeit",
+      "titleTarget" : "Nezaposlenost je eksplodirala u regijama zimskih sportova",
+      "url" : "https://kurier.at/wirtschaft/in-wintersport-regionen-explodierte-die-arbeitslosigkeit/401202637"
+    }, {
       "id" : "ug7BxtX7",
       "imgUrl" : "https://image.kurier.at/images/original/4948129/46-175844439.jpg",
       "titleSource" : "WKO-General Kopf: \"Rechne mit Gastro-Öffnung am 15. März\"",
       "titleTarget" : "WKO-General Kopf: \"Očekujte da se gastronomija otvori 15. ožujka\"",
       "url" : "https://kurier.at/wirtschaft/wko-general-kopf-rechne-mit-gastro-oeffnung-am-15-maerz/401202832"
     }, {
-      "id" : "1AlFZwPn",
-      "imgUrl" : "https://image.kurier.at/images/original/4969561/46-175832370.jpg",
-      "titleSource" : "In Wintersport-Regionen explodierte die Arbeitslosigkeit",
-      "titleTarget" : "Nezaposlenost je eksplodirala u regijama zimskih sportova",
-      "url" : "https://kurier.at/wirtschaft/in-wintersport-regionen-explodierte-die-arbeitslosigkeit/401202637"
+      "id" : "LFayU4lx",
+      "imgUrl" : "https://image.kurier.at/images/original/4970422/46-175981845.jpg",
+      "titleSource" : "In China tickt eine soziale Bombe",
+      "titleTarget" : "U Kini otkucava socijalna bomba",
+      "url" : "https://kurier.at/wirtschaft/in-china-tickt-eine-soziale-bombe/401202979"
     }, {
       "id" : "3WculoAs",
       "imgUrl" : "https://image.kurier.at/images/original/4965742/46-175889426.jpg",
@@ -58,12 +58,6 @@
       "titleSource" : "Richterwertmieten: Anpassung der Mieten verschoben",
       "titleTarget" : "Najam suca: prilagodba najamnina odgođena",
       "url" : "https://kurier.at/wirtschaft/immobiz/richterwertmieten-anpassung-der-mieten-verschoben/401200780"
-    }, {
-      "id" : "LFayU4lx",
-      "imgUrl" : "https://image.kurier.at/images/original/4970422/46-175981845.jpg",
-      "titleSource" : "In China tickt eine soziale Bombe",
-      "titleTarget" : "U Kini otkucava socijalna bomba",
-      "url" : "https://kurier.at/wirtschaft/in-china-tickt-eine-soziale-bombe/401202979"
     }, {
       "id" : "5g6Bt67m",
       "imgUrl" : "https://image.kurier.at/images/original/4964098/46-175948789.jpg",
@@ -80,17 +74,22 @@
       "titleTarget" : "Corona: 2.123 nove infekcije u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/corona-2123-neuinfektionen-in-oesterreich/401202652"
     }, {
+      "id" : "byZNHApF",
+      "imgUrl" : "https://image.kurier.at/images/original/4970449/46-175907309.jpg",
+      "titleSource" : "18 neue Südafrika-Verdachtsfälle in Tirol, sechs aktive in Mayrhofen",
+      "titleTarget" : "18 novih sumnjivih slučajeva u Južnoj Africi u Tirolu",
+      "url" : "https://kurier.at/chronik/oesterreich/18-neue-suedafrika-verdachtsfaelle-in-tirol/401202988"
+    }, {
+      "id" : "ZEbPIdoh",
+      "titleSource" : "Polizei löste \"Coronaparty\" im Salzburger Pinzgau auf",
+      "titleTarget" : "Policija je razbila \"Corona Party\" u salzburškoj regiji Pinzgau",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-loeste-coronaparty-im-salzburger-pinzgau-auf/401202856"
+    }, {
       "id" : "nxllz13m",
       "imgUrl" : "https://image.kurier.at/images/original/4968832/46-83058628.jpg",
       "titleSource" : "Vom Tierheim ins neue Zuhause: „Und dann war der Hund König“",
       "titleTarget" : "Od skloništa do novog doma: \"A tada je pas bio kralj\"",
       "url" : "https://kurier.at/chronik/oesterreich/vom-tierheim-ins-neue-zuhause-und-dann-war-der-hund-koenig/401202406"
-    }, {
-      "id" : "byZNHApF",
-      "imgUrl" : "https://image.kurier.at/images/original/4970449/46-175907309.jpg",
-      "titleSource" : "18 neue Südafrika-Verdachtsfälle in Tirol",
-      "titleTarget" : "18 novih sumnjivih slučajeva u Južnoj Africi u Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/18-neue-suedafrika-verdachtsfaelle-in-tirol/401202988"
     }, {
       "id" : "gGK3MZBY",
       "imgUrl" : "https://image.kurier.at/images/original/4970485/46-175954694.jpg",
@@ -98,33 +97,21 @@
       "titleTarget" : "2.123 nove infekcije u Austriji: Novi nedjeljni rekord od početka godine + SAD dopuštaju cjepivo Johnson & Johnson",
       "url" : "https://kurier.at/chronik/oesterreich/usa-lassen-corona-impfstoff-von-johnson-johnson-zu-astra-zeneca-als-ladenhueter-in-eu/401202616"
     }, {
-      "id" : "jmuv5th6",
-      "imgUrl" : "https://image.kurier.at/images/original/4970041/46-168628282.jpg",
-      "titleSource" : "Sechsjährige beim Skifahren in Osttirol schwer am Bein verletzt",
-      "titleTarget" : "Šestogodišnjak teško ozlijeđen u nozi tijekom skijanja u Istočnom Tirolu",
-      "url" : "https://kurier.at/chronik/oesterreich/sechsjaehrige-beim-skifahren-in-osttirol-schwer-am-bein-verletzt/401202868"
+      "id" : "RkANDrwq",
+      "imgUrl" : "https://image.kurier.at/images/original/4969615/46-61349194.jpg",
+      "titleSource" : "Kärntner war 55 km/h zu schnell unterwegs und überholte Polizei",
+      "titleTarget" : "Kärntner je prebrzo putovao 55 km / h i pretekao policiju",
+      "url" : "https://kurier.at/chronik/oesterreich/kaerntner-war-55-kmh-zu-schnell-unterwegs-und-ueberholte-polizei/401202676"
     }, {
-      "id" : "2ue9VwMD",
-      "imgUrl" : "https://image.kurier.at/images/original/4970008/46-174234927.jpg",
-      "titleSource" : "Salzburg: Lungauerin fiel auf Internet-Betrug herein",
-      "titleTarget" : "Salzburg: Lungauerin nasjeo na internetske prijevare",
-      "url" : "https://kurier.at/chronik/oesterreich/salzburg-lungauerin-fiel-auf-internet-betrug-herein/401202853"
-    }, {
-      "id" : "pQkPcBRU",
-      "imgUrl" : "https://image.kurier.at/images/original/4970008/46-174234927.jpg",
-      "titleSource" : "Salzburgerin: Lungauerin fiel auf Internet-Betrug herein",
-      "titleTarget" : "Salzburgerin: Lungauerin je pao na internetske prijevare",
-      "url" : "https://kurier.at/chronik/oesterreich/salzburgerin-lungauerin-fiel-auf-internet-betrug-herein/401202853"
+      "id" : "hEq8LBOV",
+      "imgUrl" : "https://image.kurier.at/images/original/4970686/46-176032343.jpg",
+      "titleSource" : "Februar-Bilanz: Sonniger Westen und grauer Osten",
+      "titleTarget" : "Bilans u veljači: sunčani zapad i sivi istok",
+      "url" : "https://kurier.at/chronik/oesterreich/februar-bilanz-sonniger-westen-und-grauer-osten/401203063"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "szPmpqvk",
-      "imgUrl" : "https://image.kurier.at/images/original/4969327/46-176041308.jpg",
-      "titleSource" : "Berlnale: Filme online schauen im Hausarrest",
-      "titleTarget" : "Berlnale: Gledajte filmove na mreži dok ste u kućnom pritvoru",
-      "url" : "https://kurier.at/kultur/berlnale-filme-online-schauen-im-hausarrest/401202502"
-    }, {
       "id" : "msF1LBf1",
       "imgUrl" : "https://image.kurier.at/images/original/4969327/46-176041308.jpg",
       "titleSource" : "Filmfestival Berlinale: Online Filme schauen im Hausarrest",
@@ -140,18 +127,6 @@
       "titleTarget" : "Nakon odbijenog cjepiva protiv korone, medicinska sestra završava na intenzivnoj njezi",
       "url" : "https://kurier.at/wissen/gesundheit/nach-abgelehnter-corona-impfung-landet-pflegerin-auf-intensivstation/401202733"
     }, {
-      "id" : "FvhJmXpi",
-      "imgUrl" : "https://image.kurier.at/images/original/3375028/46-122224720.jpg",
-      "titleSource" : "Duschen verboten: Gefängnis wegen Corona-Ausbruchs unter Quarantäne",
-      "titleTarget" : "Zabranjeni tuševi: zatvor u karanteni zbog izbijanja korone",
-      "url" : "https://kurier.at/wissen/gesundheit/duschen-verboten-gefaengnis-wegen-corona-ausbruchs-unter-quarantaene/401202817"
-    }, {
-      "id" : "NngNrTEx",
-      "imgUrl" : "https://image.kurier.at/images/original/4969840/46-104515722.jpg",
-      "titleSource" : "Zwei von drei Österreichern stecken sich zu Hause mit Covid-19 an",
-      "titleTarget" : "Dvoje od trojice Austrijanaca zaraženo je Covid-19 kod kuće",
-      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-zwei-von-drei-oesterreichern-stecken-sich-zu-hause-mit-covid-19-an/401202772"
-    }, {
       "id" : "Xcjc84jQ",
       "imgUrl" : "https://image.kurier.at/images/original/4970326/46-175541010.jpg",
       "titleSource" : "Mehr als 20 Millionen Briten sind geimpft",
@@ -163,6 +138,18 @@
       "titleSource" : "Was die brasilianische Virus-Variante so gefährlich machen könnte",
       "titleTarget" : "Što bi varijantu brazilskog virusa moglo učiniti tako opasnom",
       "url" : "https://kurier.at/wissen/gesundheit/coronavirus-was-die-brasilianische-virus-variante-p1-so-gefaehrlich-machen-koennte/401202928"
+    }, {
+      "id" : "NngNrTEx",
+      "imgUrl" : "https://image.kurier.at/images/original/4969840/46-104515722.jpg",
+      "titleSource" : "Zwei von drei Österreichern stecken sich zu Hause mit Covid-19 an",
+      "titleTarget" : "Dvoje od trojice Austrijanaca zaraženo je Covid-19 kod kuće",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-zwei-von-drei-oesterreichern-stecken-sich-zu-hause-mit-covid-19-an/401202772"
+    }, {
+      "id" : "FvhJmXpi",
+      "imgUrl" : "https://image.kurier.at/images/original/3375028/46-122224720.jpg",
+      "titleSource" : "Duschen verboten: Gefängnis wegen Corona-Ausbruchs unter Quarantäne",
+      "titleTarget" : "Zabranjeni tuševi: zatvor u karanteni zbog izbijanja korone",
+      "url" : "https://kurier.at/wissen/gesundheit/duschen-verboten-gefaengnis-wegen-corona-ausbruchs-unter-quarantaene/401202817"
     }, {
       "id" : "j4vchqGf",
       "imgUrl" : "https://image.kurier.at/images/original/4969693/46-176044604.jpg",
@@ -179,17 +166,29 @@
       "titleTarget" : "Trener Ried čestita: \"To je bio Demir-ov cilj mjeseca\"",
       "url" : "https://kurier.at/sport/fussball/ried-trainer-miron-muslic-gratuliert-rapid-das-war-das-tor-des-monats-von-yusuf-demir/401202508"
     }, {
+      "id" : "11B7LOsv",
+      "imgUrl" : "https://image.kurier.at/images/original/4970608/46-176085035.jpg",
+      "titleSource" : "Österreichs Mixed-Team sorgt für nächste WM-Medaille",
+      "titleTarget" : "Austrijska mješovita momčad osigurava sljedeću medalju Svjetskog kupa",
+      "url" : "https://kurier.at/sport/wintersport/oesterreichs-mixed-team-sorgt-in-oberstdorf-fuer-naechste-wm-medaille/401203000"
+    }, {
+      "id" : "tSALfXr6",
+      "imgUrl" : "https://image.kurier.at/images/original/4969660/46-175925991.jpg",
+      "titleSource" : "Lockdown wegen einer Infektion: America's-Cup-Auftakt vertagt",
+      "titleTarget" : "Zaključavanje infekcije: Otvoreno otvaranje američkog kupa",
+      "url" : "https://kurier.at/sport/lockdown-wegen-einer-infektion-americas-cup-auftakt-vertagt/401202694"
+    }, {
       "id" : "tBCzXZwe",
       "imgUrl" : "https://image.kurier.at/images/original/4970206/46-176081415.jpg",
       "titleSource" : "Bronze für ÖSV-Kombinierer bei der Nordischen WM",
       "titleTarget" : "Bronca za ÖSV kombajnere na nordijskom svjetskom prvenstvu",
       "url" : "https://kurier.at/sport/wintersport/bronze-fuer-oesv-kombinierer-bei-der-nordischen-wm/401202739"
     }, {
-      "id" : "z4oxaXrT",
-      "imgUrl" : "https://image.kurier.at/images/original/4970104/46-176080273.jpg",
-      "titleSource" : "Nordische WM: ÖSV-Kombinierer auf Medaillenkurs",
-      "titleTarget" : "Nordijski svjetski kup: Kombinatori ÖSV na putu za medalje",
-      "url" : "https://kurier.at/sport/wintersport/nordische-wm-oesv-kombinierer-nach-team-springen-auf-gold-kurs/401202739"
+      "id" : "m641KBsN",
+      "imgUrl" : "https://image.kurier.at/images/original/4969975/46-176078189.jpg",
+      "titleSource" : "Schwere Stürze bei Federica Brignones Super-G-Sieg",
+      "titleTarget" : "Teški padovi u pobjedi Super G Federice Brignone",
+      "url" : "https://kurier.at/sport/wintersport/schwere-stuerze-bei-federica-brignones-super-g-sieg/401202835"
     }, {
       "id" : "aln2IVk1",
       "imgUrl" : "https://image.kurier.at/images/original/4970002/46-106461883.jpg",
@@ -202,18 +201,6 @@
       "titleSource" : "Faivre gewinnt Riesenslalom von Bansko, Brennsteiner Fünfter",
       "titleTarget" : "Faivre je pobijedio u veleslalomu iz Banskog, Brennsteiner peti",
       "url" : "https://kurier.at/sport/wintersport/faivre-gewinnt-riesenslalom-von-bansko-brennsteiner-fuenfter/401202721"
-    }, {
-      "id" : "SA4q1Rwx",
-      "imgUrl" : "https://image.kurier.at/images/original/4969678/46-176076358.jpg",
-      "titleSource" : "Faivre führt im Riesenslalom von Bansko, Leitinger Neunter",
-      "titleTarget" : "Faivre vodi u veleslalomu iz Banskog, Leitinger deveti",
-      "url" : "https://kurier.at/sport/wintersport/faivre-fuehrt-im-riesenslalom-von-bansko-leitinger-neunter/401202721"
-    }, {
-      "id" : "ekEVbpHx",
-      "imgUrl" : "https://image.kurier.at/images/original/4970497/46-176083537.jpg",
-      "titleSource" : "Österreichs Mixed-Team im WM-Skispringen auf Podestkurs",
-      "titleTarget" : "Austrijska mješovita momčad na postolju u skijaškim skokovima Svjetskog kupa",
-      "url" : "https://kurier.at/sport/wintersport/oesterreichs-mixed-team-im-wm-skispringen-auf-podestkurs/401203000"
     } ]
   } ],
   "country" : "austria",
