@@ -2,368 +2,335 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3713,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 544,
-      "id" : "Gb824nO4",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/2/c/5945900/C2D06D14-173F-4A54-9A10-EB51D62BD9B4_v0_h.jpg",
+      "articleLength" : 3184,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 408,
+      "id" : "98WyttT8",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "U-Ausschuss: Spenden, Laptops und Kurz' engste Berater",
-      "titleTarget" : "Odbor U: Donacije, prijenosna računala i najbliži Kurzovi savjetnici",
-      "url" : "https://www.diepresse.com/5945900/Ibiza_UAusschuss_Spenden-Laptops-und-Kurz-engste-Berater?from=rss"
+      "titleSource" : "Neos \"schockiert\" über Pläne für leichter zu verhängende Ausgangsbeschränkungen",
+      "titleTarget" : "Neos je \"šokirao\" planove za lakša ograničenja izlaska",
+      "url" : "https://www.diepresse.com/5946116/Covid-19Massnahmengesetz_Neos-schockiert-ueber-Plaene-fuer?from=rss"
     }, {
-      "articleLength" : 1912,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 242,
-      "id" : "vpvRbJbl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/8/4/5945988/GERMANY-HEALTH-VIRUS-EDUCATION_1614838896309492_v0_l.jpg",
+      "articleLength" : 3655,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 492,
+      "id" : "fF2mw9NK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/d/5946109/IBIZA-U-AUSSCHUSS-SPIEGELFELD_1614850427520866_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Kein Freimaskieren mehr: Lehrer müssen sich testen lassen",
-      "titleTarget" : "Nema više maskiranja: učitelji moraju biti testirani",
-      "url" : "https://www.diepresse.com/5945988/Gesetzesnovelle_Kein-Freimaskieren-mehr_Lehrer-muessen-sich?from=rss"
-    }, {
-      "articleLength" : 2058,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 319,
-      "id" : "sTJxukYG",
-      "imgUrl" : "https://image.kurier.at/images/original/4914379/20210203-ABD0047-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "FPÖ-Klubchef Kickl ruft zu Demo-Teilnahme am Samstag auf",
-      "titleTarget" : "Šef kluba FPÖ Kickl poziva na demo sudjelovanje u subotu",
-      "url" : "https://kurier.at/politik/inland/fpoe-klubchef-kickl-ruft-zu-demo-teilnahme-am-samstag-auf/401206474"
-    }, {
-      "articleLength" : 2948,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 411,
-      "id" : "zL8ZDEav",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/0/1/5945345/A04932C5-BFED-40FE-84C1-7CB13943045A_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Schramböck kündigt \"Impfstoff-Produktions-Taskforce\" an",
-      "titleTarget" : "Schramböck najavljuje \"Radnu skupinu za proizvodnju cjepiva\"",
-      "url" : "https://www.diepresse.com/5945345/Coronavirus_Schramboeck-kuendigt-ImpfstoffProduktionsTaskforce-an?from=rss"
-    }, {
-      "articleLength" : 2217,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 340,
-      "id" : "tb2KXom2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/3/f/5945663/E9867305-23B2-4196-AF97-F831DC793610_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Kickl ruft zur Teilnahme an Protest gegen Coronapolitik auf",
-      "titleTarget" : "Kickl poziva na sudjelovanje u prosvjedima protiv politike korone",
-      "url" : "https://www.diepresse.com/5945663/FPOe_Kickl-ruft-zur-Teilnahme-an-Protest-gegen-Coronapolitik-auf?from=rss"
-    }, {
-      "articleLength" : 1727,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 224,
-      "id" : "IGW2U8SX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/a/2/5945250/39683B60-4878-4D29-88F1-2280D33E8097_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "WKStA erstattet Vorhabensbericht in Causa Waldhäusl",
-      "titleTarget" : "WKStA podnosi izvještaj o projektu u Causa Waldhäusl",
-      "url" : "https://www.diepresse.com/5945250/Asyl_WKStA-erstattet-Vorhabensbericht-in-Causa-Waldhaeusl?from=rss"
+      "titleSource" : "Unternehmerin Spiegelfeld:  \"Das Spenden war völlig nebensächlich\"",
+      "titleTarget" : "Poduzetnik Spiegelfeld: \"Donacija je bila potpuno nebitna\"",
+      "url" : "https://www.diepresse.com/5946109/UAusschuss_Unternehmerin-Spiegelfeld_Das-Spenden-war-voellig?from=rss"
     }, {
       "articleLength" : 1849,
       "articlePartsSize" : 8,
       "articleWordCount" : 259,
-      "id" : "TSFV4EVc",
+      "id" : "Hr1IKULn",
       "publisher" : "www.diepresse.com",
       "titleSource" : "FPÖ Burgenland schließt früheren Klubchef Molnar aus",
       "titleTarget" : "FPÖ Burgenland isključuje bivšeg šefa kluba Molnara",
       "url" : "https://www.diepresse.com/5946144/Landespartei_FPOe-Burgenland-schliesst-frueheren-Klubchef-Molnar-aus?from=rss"
+    }, {
+      "articleLength" : 3606,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 495,
+      "id" : "3Lro6F1X",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/7/f/5945983/EU-leaders-summit-in-Brussels_1614849475906413_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Kurz und Frederiksen in Israel: Neue Impfstoff-Wege ohne EU",
+      "titleTarget" : "Kurz i Frederiksen u Izraelu: Nove rute cjepiva bez EU",
+      "url" : "https://www.diepresse.com/5945983/Covid19_Kurz-und-Frederiksen-in-Israel_Neue-ImpfstoffWege-ohne-EU?from=rss"
+    }, {
+      "articleLength" : 1443,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 192,
+      "id" : "MheuN3Hc",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/7/5946023/BD73E8C3-7F25-46DA-B3FC-918CF11F2040_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Klagenfurts ÖVP-Chef nach Niederlage zurückgetreten",
+      "titleTarget" : "Šef Klagenfurta ÖVP dao je ostavku nakon poraza",
+      "url" : "https://www.diepresse.com/5946023/KaerntenWahl_Klagenfurts-OeVPChef-nach-Niederlage-zurueckgetreten?from=rss"
+    }, {
+      "articleLength" : 3178,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 442,
+      "id" : "uoXGUWNd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/2/5946002/E972F382-0EEC-45B1-B89C-35C9B2C18444_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Bürgermeisterinnen sind in Österreich immer noch die Ausnahme",
+      "titleTarget" : "Gradonačelnici su još uvijek iznimka u Austriji",
+      "url" : "https://www.diepresse.com/5946002/In-Maennerhand_Buergermeisterinnen-sind-in-Oesterreich-immer-noch?from=rss"
+    }, {
+      "articleLength" : 1652,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 210,
+      "id" : "OLKOKbE6",
+      "imgUrl" : "https://image.kurier.at/images/original/4714365/81731350857099944_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Lehrer: FFP2-Maske kein Ersatz mehr fürs Freitesten",
+      "titleTarget" : "Učitelj: FFP2 maska više nije zamjena za besplatno testiranje",
+      "url" : "https://kurier.at/politik/inland/lehrer-ffp2-maske-kein-ersatz-mehr-fuers-freitesten/401207095"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 4415,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 616,
-      "id" : "IdRQ9NXQ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/5/d/5945437/10D9291D-66F7-4EFB-B4C3-5F45DDE17B58_v0_l.jpg",
+      "articleLength" : 3615,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 567,
+      "id" : "oITWopvO",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/b/c/4/5946308/74CB7680-289A-49EA-818D-6AD9FFC47424_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Andritz verdoppelt Dividende nach Gewinnplus",
-      "titleTarget" : "Andritz udvostručuje dividendu nakon povećanja dobiti",
-      "url" : "https://www.diepresse.com/5945437/Jahresbilanz_Andritz-verdoppelt-Dividende-nach-Gewinnplus?from=rss"
+      "titleSource" : "AUA: \"Ohne Rettungpaket würden wir nicht mehr existieren\"",
+      "titleTarget" : "AUA: \"Bez paketa za spašavanje više ne bismo postojali\"",
+      "url" : "https://www.diepresse.com/5946308/Luftfahrt_AUA_Ohne-Rettungpaket-wuerden-wir-nicht-mehr-existieren?from=rss"
     }, {
-      "articleLength" : 1520,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 226,
-      "id" : "lF8jayhm",
-      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Amazon eröffnet erstes Geschäft ohne Kassen in Europa",
-      "titleTarget" : "Amazon otvara prvu trgovinu bez obrade u Europi",
-      "url" : "https://kurier.at/wirtschaft/amazon-eroeffnet-erstes-geschaeft-ohne-kassen-in-europa/401207206"
+      "articleLength" : 1195,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 161,
+      "id" : "Jqr8Dryo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/c/5/8/5946456/11365612jpg_161487327664756_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Wie viel Österreich in Made in Austria steckt",
+      "titleTarget" : "Koliko je Austrija u Made in Austria",
+      "url" : "https://www.diepresse.com/5946456/Etikettenschwindel_Wie-viel-Oesterreich-in-Made-in-Austria-steckt?from=rss"
     }, {
-      "articleLength" : 2349,
+      "articleLength" : 3615,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 567,
+      "id" : "YnhWYLsq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/b/c/4/5946308/74CB7680-289A-49EA-818D-6AD9FFC47424_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "AUA: \"Ohne Rettungspaket würden wir nicht mehr existieren\"",
+      "titleTarget" : "AUA: \"Bez pomoći ne bismo više postojali\"",
+      "url" : "https://www.diepresse.com/5946308/Luftfahrt_AUA_Ohne-Rettungspaket-wuerden-wir-nicht-mehr-existieren?from=rss"
+    }, {
+      "articleLength" : 2195,
       "articlePartsSize" : 11,
-      "articleWordCount" : 338,
-      "id" : "m7V7SNJz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/d/8/5945816/7C0BF083-C520-474F-8375-9F4B884FD05E_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Energieabgabe durch die Hintertüre?",
-      "titleTarget" : "Oslobađanje energije kroz stražnja vrata?",
-      "url" : "https://www.diepresse.com/5945816/Gesetz_Energieabgabe-durch-die-Hintertuere?from=rss"
+      "articleWordCount" : 292,
+      "id" : "6YxzQFHj",
+      "imgUrl" : "https://image.kurier.at/images/original/4977271/20210303-ABD0162-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Spar, Rewe, Hofer und dm stoppen Verkauf von Hygiene-Austria-Masken",
+      "titleTarget" : "Spar, Rewe, Hofer i dm prestaju prodavati Hygiene Austria maske",
+      "url" : "https://kurier.at/wirtschaft/spar-nimmt-hygiene-austria-masken-aus-dem-sortiment/401207542"
     }, {
-      "articleLength" : 1281,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 172,
-      "id" : "2WTs6D8U",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/4/0/5945408/6CEB4B6B-FA01-4458-BCC0-206B99B17909_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Ex-Topmanager eines Konkurrenten wird Chef der s Immo",
-      "titleTarget" : "Bivši top menadžer natjecatelja postaje šef s Immo",
-      "url" : "https://www.diepresse.com/5945408/Personalie_ExTopmanager-eines-Konkurrenten-wird-Chef-der-s-Immo?from=rss"
-    }, {
-      "articleLength" : 2122,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 301,
-      "id" : "ssP5DZxh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/4/8/5945416/Lachs_Imago_1614751343766703.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Österreicher kauften 2020 so viele Tiefkühlprodukte wie noch nie",
-      "titleTarget" : "Austrijanci su 2020. kupili više smrznutih proizvoda nego ikad prije",
-      "url" : "https://www.diepresse.com/5945416/Corona_Oesterreicher-kauften-2020-so-viele-Tiefkuehlprodukte-wie?from=rss"
-    }, {
-      "articleLength" : 6854,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 925,
-      "id" : "ZZlht6nI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/9/7/0/5945712/66225A68-D099-4118-A940-6DE59FE11A4E_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Hygiene Austria: Handelsketten brachten Millionen Masken in Umlauf",
-      "titleTarget" : "Higijena Austrija: Trgovački lanci stavljaju u promet milijune maski",
-      "url" : "https://www.diepresse.com/5945712/Ermittlungen_Hygiene-Austria_Handelsketten-brachten-Millionen?from=rss"
-    }, {
-      "articleLength" : 1938,
+      "articleLength" : 2206,
       "articlePartsSize" : 9,
-      "articleWordCount" : 244,
-      "id" : "UdXyDBpX",
+      "articleWordCount" : 296,
+      "id" : "jZM2HpJG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/b/d/9/5946329/02635D71-1D89-4C3C-911A-2E28135F4387_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "EVN verdrängt Telekom Austria aus dem ATX",
-      "titleTarget" : "EVN izbacuje Telekom Austria iz ATX-a",
-      "url" : "https://www.diepresse.com/5945433/Boerse_EVN-verdraengt-Telekom-Austria-aus-dem-ATX?from=rss"
+      "titleSource" : "Novartis produziert Bestandteile für CureVac-Impfstoff in Tirol",
+      "titleTarget" : "Novartis proizvodi komponente za cjepivo CureVac u Tirolu",
+      "url" : "https://www.diepresse.com/5946329/Coronavirus_Novartis-produziert-Bestandteile-fuer-CureVacImpfstoff?from=rss"
+    }, {
+      "articleLength" : 3692,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 549,
+      "id" : "2eLtTK5N",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/b/2/5/5946149/E3930E8C-6502-4AB8-B158-8F33B13C8E43_v0_h_v0.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Flughafen fordert Kurzarbeit bis Ende 2022",
+      "titleTarget" : "Zračna luka poziva na skraćeni rad do kraja 2022. godine",
+      "url" : "https://www.diepresse.com/5946149/Luftfahrt_Flughafen-fordert-Kurzarbeit-bis-Ende-2022?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4112,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 557,
-      "id" : "ruCYA8pR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/9/c/5945500/D663A099-7284-476D-8B29-BD969B55356A_v0_h.jpg",
+      "articleLength" : 1910,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 276,
+      "id" : "uM2Ne02j",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/9/5946425/FB6A5870-AF88-46BF-96B6-F2BA68A0333E_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Ärztekammer klagt größten Auswerter von PCR-Tests in Wien",
-      "titleTarget" : "Medicinsko udruženje tuži najvećeg procjenitelja PCR testova u Beču",
-      "url" : "https://www.diepresse.com/5945500/Rechtsstreit_Aerztekammer-klagt-groessten-Auswerter-von-PCRTests?from=rss"
+      "titleSource" : "Virus \"erwischt\" immer mehr Kinder und Jugendliche",
+      "titleTarget" : "Virus \"hvata\" sve više djece i adolescenata",
+      "url" : "https://www.diepresse.com/5946425/Statistik_Virus-erwischt-immer-mehr-Kinder-und-Jugendliche?from=rss"
     }, {
-      "articleLength" : 1358,
+      "articleLength" : 1858,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 238,
+      "id" : "3uHCZGnS",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Zwei Vorarlberger Lehrer wegen Masken-Verweigerung entlassen",
+      "titleTarget" : "Dvoje učitelja iz Vorarlberga otpušteno je zbog odbijanja upotrebe maske",
+      "url" : "https://www.diepresse.com/5946235/Coronavirus_Zwei-Vorarlberger-Lehrer-wegen-MaskenVerweigerung?from=rss"
+    }, {
+      "articleLength" : 1535,
       "articlePartsSize" : 7,
-      "articleWordCount" : 193,
-      "id" : "sT0fRbOM",
-      "imgUrl" : "https://image.kurier.at/images/original/4919854/46-175099427.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "U-Haft für infizierten Arzt der im Hotspot-Bezirk Pongau behandelte",
-      "titleTarget" : "Pritvor za zaraženog liječnika koji je liječio u žarišnoj četvrti Pongau",
-      "url" : "https://kurier.at/chronik/oesterreich/verhaftet-infizierter-arzt-behandelte-im-hotspot-bezirk-pongau/401207053"
-    }, {
-      "articleLength" : 2527,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 350,
-      "id" : "PokJnej6",
-      "imgUrl" : "https://image.kurier.at/images/original/4978711/46-150946630.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die Corona-Hotspots in Österreich im Überblick",
-      "titleTarget" : "Žarišta korone u Austriji na prvi pogled",
-      "url" : "https://kurier.at/chronik/oesterreich/in-welchen-bezirken-die-corona-zahlen-derzeit-am-staerksten-steigen/401200678"
-    }, {
-      "articleLength" : 2748,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 384,
-      "id" : "T5RvViWQ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/c/4/5945796/Hauptplatz-main-square-Mariensule-Marian-column-Wiener-Neustadt-Austria-Wiener-Alpen-Alps_1614782772688615_v0_l.jpg",
+      "articleWordCount" : 204,
+      "id" : "GbDVAmyv",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Wiener Neustadt abriegeln? Stadt wäre überfordert",
-      "titleTarget" : "Zaključati Wiener Neustadt? Grad bi bio preplavljen",
-      "url" : "https://www.diepresse.com/5945796/Corona_Wiener-Neustadt-abriegeln-Stadt-waere-ueberfordert?from=rss"
+      "titleSource" : "Ausreisekontrollen im Bezirk Hermagor ab Dienstag",
+      "titleTarget" : "Izlazne kontrole u četvrti Hermagor od utorka",
+      "url" : "https://www.diepresse.com/5946385/Kaernten_Ausreisekontrollen-im-Bezirk-Hermagor-ab-Dienstag?from=rss"
     }, {
-      "articleLength" : 2370,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 316,
-      "id" : "XZChQm38",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/7/2/5944946/79B2FBA6-8D77-4E56-83B8-41C72E221F37_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Polizei straft täglich 750 Mal",
-      "titleTarget" : "Policija kažnjava 750 puta dnevno",
-      "url" : "https://www.diepresse.com/5944946/CovidRegeln_Polizei-straft-taeglich-750-Mal?from=rss"
-    }, {
-      "articleLength" : 1457,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 201,
-      "id" : "7vA4CXgH",
-      "imgUrl" : "https://image.kurier.at/images/original/4977184/46-176107653.jpg",
+      "articleLength" : 2891,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 414,
+      "id" : "getrTsxR",
+      "imgUrl" : "https://image.kurier.at/images/original/4725852/20201028-ABD0091-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Unklarheit über Vorarlbergs Corona-Lockerungen",
-      "titleTarget" : "Nejasnoće oko Vorarlbergovog ublažavanja korone",
-      "url" : "https://kurier.at/chronik/oesterreich/unklarheit-ueber-vorarlbergs-corona-lockerungen/401206600"
+      "titleSource" : "20 Prozent mehr Corona-Patienten auf Intensivstationen",
+      "titleTarget" : "20 posto više bolesnika s koronom na odjelima intenzivne njege",
+      "url" : "https://kurier.at/chronik/oesterreich/20-prozent-mehr-corona-patienten-auf-intensivstationen/401207512"
     }, {
-      "articleLength" : 3444,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 498,
-      "id" : "bjuh4HXv",
+      "articleLength" : 1526,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "UhKcvKzm",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Knapp 2000 Neuinfektionen und mehr Spitalspatienten",
-      "titleTarget" : "Gotovo 2000 novih infekcija i više bolničkih bolesnika",
-      "url" : "https://www.diepresse.com/5944977/Coronavirus_Knapp-2000-Neuinfektionen-und-mehr-Spitalspatienten?from=rss"
+      "titleSource" : "70 Prozent der Mayrhofner ließen sich testen",
+      "titleTarget" : "70 posto stanovnika Mayrhofena bilo je na testiranju",
+      "url" : "https://www.diepresse.com/5946223/Zillertal_70-Prozent-der-Mayrhofner-liessen-sich-testen?from=rss"
+    }, {
+      "articleLength" : 2039,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 270,
+      "id" : "fgjYobKm",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/b/f/5946303/469863EB-E7C4-46D4-AB40-20793EA7B8B3_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Corona-Demo: Westbahn droht Unmaskierten mit Rausschmiss",
+      "titleTarget" : "Corona demo: Westbahn prijeti izbacivanjem nemaskiranih ljudi",
+      "url" : "https://www.diepresse.com/5946303/CoronaMassnahmen_CoronaDemo_Westbahn-droht-Unmaskierten-mit?from=rss"
+    }, {
+      "articleLength" : 3098,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 439,
+      "id" : "dwtQkHcU",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Zahl der Neuinfektionen mit 2324 weiter auf hohem Niveau",
+      "titleTarget" : "Broj novih infekcija ostaje na visokoj razini od 2324",
+      "url" : "https://www.diepresse.com/5946251/Coronavirus_Zahl-der-Neuinfektionen-mit-2324-weiter-auf-hohem-Niveau?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 2085,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 306,
-      "id" : "oiwZNRJY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/0/3/5772547/Bild-zeigt-Andreas-Gabalier-enttuscht-schauend-Enttuschung-Frustration-disappointed-pessimistisch-Mnchen-Deut_1582271695611958_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Bissige Gabalier-Kritik im \"Kurier\" laut Presserat zulässig",
-      "titleTarget" : "Izricanje kritika Gabaliera u \"Kurieru\" dopušteno je prema vijeću za tisak",
-      "url" : "https://www.diepresse.com/5945048/Medien_Bissige-GabalierKritik-im-Kurier-laut-Presserat-zulaessig?from=rss"
-    }, {
-      "articleLength" : 4344,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 580,
-      "id" : "lUiLiI7c",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/0/9/5911305/schmitt_1607950827910607.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Neuer Boulevard: Richard Schmitt startet Exxpress.at",
-      "titleTarget" : "Novi bulevar: Richard Schmitt pokreće Exxpress.at",
-      "url" : "https://www.diepresse.com/5945665/Journalismus_Neuer-Boulevard_Richard-Schmitt-startet-Exxpressat?from=rss"
-    }, {
-      "articleLength" : 2874,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 426,
-      "id" : "3LIXpF7b",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/0/f/5888271/09012020-MarchfelderhofDeutsch-Wagram-Knstler-Neujahrsempfang-2020-Peter-Hofbauer-ldt-zum-Society-Jahresauftakt_1603795593333904.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Song Contest: Noch unklar, ob Zuschauer zugelassen sind",
-      "titleTarget" : "Natječaj za pjesmu: Još uvijek nije jasno smiju li gledatelji",
-      "url" : "https://www.diepresse.com/5945134/Wettsingen_Song-Contest_Noch-unklar-ob-Zuschauer-zugelassen-sind?from=rss"
-    }, {
-      "articleLength" : 835,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 121,
-      "id" : "FZDE9lce",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/1/5/5945877/6FD2D750-0FE1-4D7E-AD1D-D41D6503A371_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "\"Denver-Clan\"-Schauspieler Geoffrey Scott ist tot",
-      "titleTarget" : "Glumac \"Denver Clan\" Geoffrey Scott je mrtav",
-      "url" : "https://www.diepresse.com/5945877/USA_DenverClanSchauspieler-Geoffrey-Scott-ist-tot?from=rss"
-    }, {
-      "articleLength" : 1445,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 195,
-      "id" : "ohN0gudw",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/c/1/5945281/BA2F37F6-8A01-42E0-8581-F32910851E7F_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Kultur-Neustart: Nun \"Mitte April\" als neue Perspektive",
-      "titleTarget" : "Ponovno pokretanje kulture: Sada \"sredina travnja\" kao nova perspektiva",
-      "url" : "https://www.diepresse.com/5945281/Coronapandemie_KulturNeustart_Nun-Mitte-April-als-neue-Perspektive?from=rss"
-    }, {
-      "articleLength" : 1110,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 176,
-      "id" : "M24EFyoH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/d/a/5945818/C6EE2AE6-1F94-41F5-ACBA-259D9A8455DA_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Jazzposaunist Chris Barber 90-jährig gestorben",
-      "titleTarget" : "Jazz trombonist Chris Barber umro je u 90. godini",
-      "url" : "https://www.diepresse.com/5945818/Nachruf_Jazzposaunist-Chris-Barber-90jaehrig-gestorben?from=rss"
-    }, {
-      "articleLength" : 995,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 143,
-      "id" : "oD6kLt5f",
-      "imgUrl" : "https://image.kurier.at/images/original/4977568/46-29017413.jpg",
+      "articleLength" : 2155,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 300,
+      "id" : "i6LIWhAM",
+      "imgUrl" : "https://image.kurier.at/images/original/4300118/46-144846113.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Jazzmusiker Chris Barber ist tot",
-      "titleTarget" : "Jazz glazbenik Chris Barber mrtav je",
-      "url" : "https://kurier.at/kultur/jazzmusiker-chris-barber-ist-tot/401206798"
+      "titleSource" : "Katharina Stemberger und Daniel Gawlowski ermitteln als \"Soko Linz\"",
+      "titleTarget" : "Katharina Stemberger i Daniel Gawlowski identificiraju se kao \"Soko Linz\"",
+      "url" : "https://kurier.at/kultur/medien/katharina-stemberger-und-daniel-gawlowski-ermitteln-als-soko-linz/401207344"
+    }, {
+      "articleLength" : 2050,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 302,
+      "id" : "RD0FXROw",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/a/5946010/Mart3B-0846-4A0A-8658-44D4860496D3_1614849074898656_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Martha Jungwirth von Ropac vertreten",
+      "titleTarget" : "Martha Jungwirth koju zastupa Ropac",
+      "url" : "https://www.diepresse.com/5946010/Kunstmarkt_Martha-Jungwirth-von-Ropac-vertreten?from=rss"
+    }, {
+      "articleLength" : 1510,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 237,
+      "id" : "wxLofKjX",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/6/f/5946479/61E0BED7-F0CB-4618-9E35-36CB0C10A109_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Er erklärte die Welt aus der Ferne: Klaus Emmerich gestorben",
+      "titleTarget" : "Objasnio je svijet izdaleka: Klaus Emmerich je umro",
+      "url" : "https://www.diepresse.com/5946479/Er-erklaerte-die-Welt-aus-der-Ferne_Klaus-Emmerich-gestorben?from=rss"
+    }, {
+      "articleLength" : 2718,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 363,
+      "id" : "gWYDOjqM",
+      "imgUrl" : "https://image.kurier.at/images/original/4965304/orf_kurier_20210225191503.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Starmania 21\": Nach Corona-Ausfall darf Kandidatin doch singen",
+      "titleTarget" : "\"Starmania 21\": Nakon neuspjeha u Coroni, kandidatu je dopušteno pjevati",
+      "url" : "https://kurier.at/kultur/medien/starmania-21-nach-corona-ausfall-bekommt-kandidatin-zweite-chance/401207746"
+    }, {
+      "articleLength" : 1384,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 201,
+      "id" : "O9j6tNp5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/4/f/5818191/orf_1590398964071991_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "ORF-Publikum mag Comedy am liebsten",
+      "titleTarget" : "Publika ORF-a najviše voli komediju",
+      "url" : "https://www.diepresse.com/5946189/Publikumsrat_ORFPublikum-mag-Comedy-am-liebsten?from=rss"
+    }, {
+      "articleLength" : 3487,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 501,
+      "id" : "ObbjdiTL",
+      "imgUrl" : "https://image.kurier.at/images/original/4980616/orf_orf_klausemmerich.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "ORF-Journalist Klaus Emmerich starb an Corona",
+      "titleTarget" : "Novinar ORF-a Klaus Emmerich umro je od Corone",
+      "url" : "https://kurier.at/kultur/medien/orf-journalist-klaus-emmerich-starb-an-corona/401208058"
+    }, {
+      "articleLength" : 2640,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 364,
+      "id" : "s83XnW5v",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/7/5946439/CB9C3235-B990-4760-90E1-7CB9BAD6E945_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "\"Moxie\": Wie Retrofeminismus eine Highschool aufrüttelt",
+      "titleTarget" : "\"Moxie\": Kako Retrofeminizam potresa srednju školu",
+      "url" : "https://www.diepresse.com/5946439/Film-auf-Netflix_Moxie_Wie-Retrofeminismus-eine-Highschool?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 2671,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 357,
-      "id" : "U77rpHb7",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/2/2/5549346/imago86314101h_1545295471812995.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Eiweißriegel enthalten zu viel Zucker",
-      "titleTarget" : "Proteinske pločice sadrže previše šećera",
-      "url" : "https://www.diepresse.com/5549346/Eiweissriegel-enthalten-zu-viel-Zucker?from=rss"
-    }, {
-      "articleLength" : 1258,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 166,
-      "id" : "HeZ1rPcH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/b/5530987/imago86062494h_1542365733707856.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "#InheritYourFuture: Wohin entwickeln wir uns?",
-      "titleTarget" : "#InheritYourFuture: Kamo idemo?",
-      "url" : "https://www.diepresse.com/5530987/InheritYourFuture_Wohin-entwickeln-wir-uns?from=rss"
-    }, {
-      "articleLength" : 3901,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 510,
-      "id" : "BcTUMt6b",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/2/1/5532449/50D5E3B1-E697-4B9A-8C36-37FE47330F7D_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Orthopäden warnen vor \"Smartphone-Nacken\" und \"SMS-Daumen\"",
-      "titleTarget" : "Ortopedi upozoravaju na \"vrat pametnog telefona\" i \"SMS palac\"",
-      "url" : "https://www.diepresse.com/5532449/Orthopaeden-warnen-vor-SmartphoneNacken-und-SMSDaumen?from=rss"
-    }, {
-      "articleLength" : 3366,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 436,
-      "id" : "h4CwB4N0",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/6/5536406/46E96D4B-3C10-49EB-B273-48D8A425EBEC_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Fehlerhafte Medizinprodukte: US-Marktführer könnte für 9300 Todesfälle verantwortlich sein",
-      "titleTarget" : "Neispravni medicinski uređaji: Američki lider na tržištu mogao bi biti odgovoran za 9.300 smrtnih slučajeva",
-      "url" : "https://www.diepresse.com/5536406/Fehlerhafte-Medizinprodukte_USMarktfuehrer-koennte-fuer-9300?from=rss"
-    }, {
-      "articleLength" : 3623,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 453,
-      "id" : "xPTm9j36",
-      "imgUrl" : "https://image.kurier.at/images/original/4975510/20210303-ABD0004-1-1.jpg",
+      "articleLength" : 2208,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 316,
+      "id" : "wLhhVV6h",
+      "imgUrl" : "https://image.kurier.at/images/original/4914640/46-175379772.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Hemmstoffe verhindern die Vermehung von Corona-Viren",
-      "titleTarget" : "Inhibitori sprječavaju razmnožavanje virusa korone",
-      "url" : "https://kurier.at/wissen/gesundheit/hemmstoffe-verhindern-die-vermehung-von-corona-viren/401206609"
+      "titleSource" : "Wieso auch Ältere mit Astra Zeneca geimpft werden können",
+      "titleTarget" : "Zašto se stariji ljudi mogu cijepiti i Astrom Zenecom",
+      "url" : "https://kurier.at/wissen/gesundheit/wieso-auch-aeltere-mit-astra-zeneca-geimpft-werden-koennen/401207341"
     }, {
-      "articleLength" : 1521,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 212,
-      "id" : "sW8DgMmu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/4/5538980/Woman-and-Dalmatian-mongrel-lying-on-white-bed-sheet-model-released-Symbolfoto-property-released-PUB_1543574217348842.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Studie: Frauen schlafen mit Hund im Bett besser",
-      "titleTarget" : "Studija: Žene bolje spavaju s psom u krevetu",
-      "url" : "https://www.diepresse.com/5538980/Studie_Frauen-schlafen-mit-Hund-im-Bett-besser?from=rss"
+      "articleLength" : 2624,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 353,
+      "id" : "2r110MLH",
+      "imgUrl" : "https://image.kurier.at/images/original/4979365/46-167654931.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Experte: Corona führt auch zum \"Gebrochenes-Herz-Syndrom\"",
+      "titleTarget" : "Stručnjak: Corona također dovodi do \"Sindroma slomljenog srca\"",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-fuehrt-laut-expertem-auch-zum-gebrochenes-herz-syndrom/401207605"
     }, {
-      "articleLength" : 2107,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 303,
-      "id" : "WlHmntqR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/5/4/5539924/2946CA56-A160-47D4-A348-8E5FB85B1791_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Studie: ADHS häufiger bei früh Eingeschulten diagnostiziert",
-      "titleTarget" : "Studija: ADHD se češće dijagnosticira u ranih napuštanja škole",
-      "url" : "https://www.diepresse.com/5539924/Studie_ADHS-haeufiger-bei-frueh-Eingeschulten-diagnostiziert?from=rss"
+      "articleLength" : 1324,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 179,
+      "id" : "2vZxcmGy",
+      "imgUrl" : "https://image.kurier.at/images/original/4979077/46-176091550.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "EMA prüft Sputnik V - was hinter diesem Impfstoff steckt",
+      "titleTarget" : "EMA ispituje Sputnik V - što stoji iza ovog cjepiva",
+      "url" : "https://kurier.at/wissen/gesundheit/ema-prueft-sputnik-v-was-hinter-diesem-impfstoff-steckt/401207473"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 3507,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 471,
+      "id" : "wxWoisdw",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/c/5946444/498961A0-2A72-4AC3-BF70-A163D66856C1_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Austria Wien: Der Aufbruch in eine neue Ära",
+      "titleTarget" : "Austria Wien: Zora novog doba",
+      "url" : "https://www.diepresse.com/5946444/Bundesliga_Austria-Wien_Der-Aufbruch-in-eine-neue-Aera?from=rss"
+    }, {
+      "articleLength" : 542,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 71,
+      "id" : "fj8lfRIP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/0/5946256/748725FD-06DE-4A8D-8DC6-ED93C36D8AEB_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Austria präsentiert Insignia als neuen Investor",
+      "titleTarget" : "Austrija predstavlja Insigniju kao novog investitora",
+      "url" : "https://www.diepresse.com/5946256/Bundesliga_Austria-praesentiert-Insignia-als-neuen-Investor?from=rss"
+    }, {
       "articleLength" : 4550,
       "articlePartsSize" : 22,
       "articleWordCount" : 668,
@@ -374,65 +341,45 @@
       "titleTarget" : "Laskova radna pobjeda, konačna pretplata na Salzburg i WAC skandal",
       "url" : "https://www.diepresse.com/5945961/OeFBCup_Arbeitssieg-des-Lask-Salzburger-FinalAbo-und-WACEklat?from=rss"
     }, {
-      "articleLength" : 2795,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 421,
-      "id" : "8aCMbMw6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/7/d/5945213/B28ADC1D-06C0-4C83-9DEC-3BD05B1BC2CB_v0_l.jpg",
+      "articleLength" : 3258,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 480,
+      "id" : "Cu0YSDjt",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/f/5946431/22CD6189-C765-4713-8F7A-2D658F8B793B_v0_l.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Die ewig strahlende Autorität der Loipen",
-      "titleTarget" : "Uvijek blistavi autoritet staza",
-      "url" : "https://www.diepresse.com/5945213/Nordische-WM_Die-ewig-strahlende-Autoritaet-der-Loipen?from=rss"
+      "titleSource" : "Teenager als neuer König der Kombinierer",
+      "titleTarget" : "Tinejdžeri kao novi kralj kombinatora",
+      "url" : "https://www.diepresse.com/5946431/Nordische-WM_Teenager-als-neuer-Koenig-der-Kombinierer?from=rss"
     }, {
-      "articleLength" : 1538,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 220,
-      "id" : "nX0k1yS1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/2/b/5945387/9182C41A-5A19-4B7B-BCE3-8BCBDDD96469_v0_h.jpg",
+      "articleLength" : 1090,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 149,
+      "id" : "qne3gi8k",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/2/5946258/52639831-C090-4BE4-A8B4-3A28469EEF29_v0_l.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Handball: Fivers realisieren mit Niederlage den Traum vom Aufstieg",
-      "titleTarget" : "Rukomet: Petorice porazom ostvaruju san o promociji",
-      "url" : "https://www.diepresse.com/5945387/European-League_Handball_Fivers-realisieren-mit-Niederlage-den?from=rss"
+      "titleSource" : "Johannes Lamparter ist Kombinierer-Weltmeister",
+      "titleTarget" : "Johannes Lamparter kombinirani je svjetski prvak",
+      "url" : "https://www.diepresse.com/5946258/Nordische-WM_Johannes-Lamparter-ist-KombiniererWeltmeister?from=rss"
     }, {
-      "articleLength" : 5123,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 776,
-      "id" : "pb1Tcw7R",
-      "imgUrl" : "https://image.kurier.at/images/original/4978318/46-176151074.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nach 22 Jahren: Der LASK müht sich gegen den WAC ins Cup-Finale",
-      "titleTarget" : "Nakon 22 godine: LASK se bori protiv WAC-a u finalu kupa",
-      "url" : "https://kurier.at/sport/fussball/nach-22-jahren-der-lask-schlaegt-den-wac-und-steht-im-cup-finale/401206744"
-    }, {
-      "articleLength" : 1712,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 234,
-      "id" : "6CVF6dZW",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/d/d/5945565/702E5E22-5634-46AB-BBC4-CBCC3B4AA9BD_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Schröcksnadel über Lockerungen: \"Verhöhnung des Sports\"",
-      "titleTarget" : "Schröcksnadel o ublažavanju: \"Ruganje sportu\"",
-      "url" : "https://www.diepresse.com/5945565/Sportpolitik_Schroecksnadel-ueber-Lockerungen_Verhoehnung-des-Sports?from=rss"
-    }, {
-      "articleLength" : 989,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 140,
-      "id" : "KjLSKOHG",
+      "articleLength" : 2567,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 376,
+      "id" : "TZK9cY4O",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/c/f/5946063/D5EE0D04-C68A-4E62-8ABA-2380AB3707BB_v0_l.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Nach Disput: WAC entlässt Trainer Feldhofer",
-      "titleTarget" : "Nakon spora: WAC otpustio trenera Feldhofera",
-      "url" : "https://www.diepresse.com/5946063/Bundesliga_Nach-Disput_WAC-entlaesst-Trainer-Feldhofer?from=rss"
+      "titleSource" : "Nach Disput: Feldhofer verlässt WAC",
+      "titleTarget" : "Nakon spora: Feldhofer napušta WAC",
+      "url" : "https://www.diepresse.com/5946063/Bundesliga_Nach-Disput_Feldhofer-verlaesst-WAC?from=rss"
     }, {
-      "articleLength" : 596,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 84,
-      "id" : "0m7b2i21",
-      "imgUrl" : "https://image.kurier.at/images/original/3046860/78410016745321442_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Austria präsentiert Geldgeber und neue externe Gesellschaft",
-      "titleTarget" : "Austrija predstavlja donatore i novu vanjsku tvrtku",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-wiener-austria-praesentiert-geldgeber-und-neue-externe-gesellschaft/401207074"
+      "articleLength" : 2365,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 342,
+      "id" : "wERDX10o",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/4/5946276/C6FF2B89-3635-4FF4-B974-6FFF949C47FF_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Schlammschlacht um das Erbe von Diego Maradona",
+      "titleTarget" : "Blatna bitka za nasljeđe Diega Maradone",
+      "url" : "https://www.diepresse.com/5946276/Schlammschlacht-um-das-Erbe-von-Diego-Maradona?from=rss"
     } ]
   } ],
   "country" : "austria",
