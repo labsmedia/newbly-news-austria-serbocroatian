@@ -2,47 +2,66 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2499,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 345,
-      "id" : "sOI9YMcz",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/d/6/5947350/AA381520-10DA-46F5-9B12-5BF0E905DEFD_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Nur mit Coronatest raus aus dem Hochrisikogebiet",
-      "titleTarget" : "Iz prostora s visokim rizikom izađite samo testom na koronu",
-      "url" : "https://www.diepresse.com/5947350/Wiener-Neustadt_Nur-mit-Coronatest-raus-aus-dem-Hochrisikogebiet?from=rss"
-    }, {
-      "articleLength" : 2961,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 401,
-      "id" : "03DkURHB",
-      "imgUrl" : "https://image.kurier.at/images/original/4984474/46-176106904.jpg",
+      "articleLength" : 5423,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 712,
+      "id" : "4OFjXhv3",
+      "imgUrl" : "https://image.kurier.at/images/original/4986064/46-176216950.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Anschober warnt vor \"Pandemie in der Pandemie\"",
-      "titleTarget" : "Anschober upozorava na \"pandemiju unutar pandemije\"",
-      "url" : "https://kurier.at/politik/inland/anschober-warnt-vor-pandemie-in-der-pandemie/401210002"
+      "titleSource" : "Schlagabtausch zwischen Nehammer und FPÖ nach Corona-Demos",
+      "titleTarget" : "Razmjena udaraca između Nehammera i FPÖ-a nakon demonstracija korone",
+      "url" : "https://kurier.at/politik/inland/schlagabtausch-zwischen-nehammer-und-fpoe-nach-corona-demos/401210509"
     }, {
-      "articleLength" : 2189,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 317,
-      "id" : "IBGNHJtk",
-      "imgUrl" : "https://image.kurier.at/images/original/4639787/78370011356486946_BLD_Online.jpg",
+      "articleLength" : 882,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 124,
+      "id" : "jUHPOkkn",
+      "imgUrl" : "https://image.kurier.at/images/original/4822299/46-173396727.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "AK-Präsidentin Anderl: \"Ohne Kurzarbeit wird es auch im Herbst nicht gehen\"",
-      "titleTarget" : "Predsjednik AK-a Anderl: \"Bez kratkotrajnog rada neće uspjeti ni na jesen\"",
-      "url" : "https://kurier.at/politik/inland/ak-praesidentin-anderl-ohne-kurzarbeit-wird-es-auch-im-herbst-nicht-gehen/401209957"
+      "titleSource" : "SPÖ will \"Normalbetrieb\" an Schulen nach Ostern: Wie das gehen soll",
+      "titleTarget" : "SPÖ želi \"normalan rad\" u školama nakon Uskrsa: Kako to učiniti",
+      "url" : "https://kurier.at/politik/inland/spoe-will-normalbetrieb-an-schulen-nach-ostern-wie-das-gehen-soll/401210305"
+    }, {
+      "articleLength" : 3443,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 524,
+      "id" : "3GbYeMX7",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Student: \"Ich sehe in den Seminararbeiten keinen Sinn\"",
+      "titleTarget" : "Student: \"Ne vidim nikakvu svrhu u seminarskim radovima\"",
+      "url" : "https://www.derstandard.at/story/2000124651592/student-ich-sehe-in-den-seminararbeiten-keinen-sinn?ref=rss"
+    }, {
+      "articleLength" : 4903,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 636,
+      "id" : "0wf7oeX2",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wieso Studierende ghostwriten lassen",
+      "titleTarget" : "Zašto studenti pišu u duhu",
+      "url" : "https://www.derstandard.at/story/2000124650859/wieso-studierende-ghostwriten-lassen?ref=rss"
+    }, {
+      "articleLength" : 721,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 102,
+      "id" : "il8yRWwX",
+      "imgUrl" : "https://image.kurier.at/images/original/4985161/46-163456272.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Pass und Führerschein: Gebührenerhöhung ausgesetzt",
+      "titleTarget" : "Naknade za putovnice i vozačke dozvole ostaju iste",
+      "url" : "https://kurier.at/politik/inland/gebuehren-fuer-pass-und-fuehrerschein-bleiben-gleich/401210143"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 4709,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 682,
-      "id" : "rERA8VM4",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Tino Wieser: Meister des Maskenspiels bei Hygiene Austria",
-      "titleTarget" : "Tino Wieser: Majstor igre maski u Hygiene Austria",
-      "url" : "https://www.derstandard.at/story/2000124714065/tino-wieser-meister-des-maskenspiels-bei-hygiene-austria?ref=rss"
+      "articleLength" : 669,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 91,
+      "id" : "ryhS6TA5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/7/9/5947513/9D3062A9-28E8-40C8-A22E-316EB496A96C_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Reisepass, Führerschein oder Baubewilligung: Gebühren auch heuer nicht erhöht",
+      "titleTarget" : "Putovnica, vozačka dozvola ili građevinska dozvola: naknade ni ove godine nisu povećane",
+      "url" : "https://www.diepresse.com/5947513/Bund_Reisepass-Fuehrerschein-oder-Baubewilligung_Gebuehren-auch?from=rss"
     }, {
       "articleLength" : 2121,
       "articlePartsSize" : 10,
@@ -54,6 +73,15 @@
       "titleTarget" : "Kvota žena u nadzornim odborima utječe",
       "url" : "https://kurier.at/wirtschaft/frauenquote-in-aufsichtsraeten-zeigt-wirkung/401209963"
     }, {
+      "articleLength" : 5940,
+      "articlePartsSize" : 26,
+      "articleWordCount" : 847,
+      "id" : "vBWnEfqr",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
+      "titleTarget" : "Tko bi trebao platiti brdo duga?",
+      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
+    }, {
       "articleLength" : 2771,
       "articlePartsSize" : 12,
       "articleWordCount" : 424,
@@ -63,71 +91,100 @@
       "titleSource" : "Wiener Architektin bietet digitale Raumplanung an",
       "titleTarget" : "Bečki arhitekt nudi digitalno planiranje prostora",
       "url" : "https://kurier.at/wirtschaft/immobiz/wiener-architektin-bietet-digitale-raumplanung-an/401209162"
+    }, {
+      "articleLength" : 10337,
+      "articlePartsSize" : 45,
+      "articleWordCount" : 1586,
+      "id" : "lTTUT5Pd",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Seilbahnchefin Schultz: \"Danke, dass ihr offen habt, haben uns die Leute geschrieben\"",
+      "titleTarget" : "Šef žičare Schultz: \"Hvala vam što ste bili otvoreni, ljudi su nam pisali\"",
+      "url" : "https://www.derstandard.at/story/2000124704748/seilbahnchefin-schultz-danke-dass-ihr-offen-habt-haben-uns-die?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4220,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 552,
-      "id" : "ZSJ8ftwx",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/7/5947415/6DFE0DDE-3171-48CE-A040-1003FCA60073_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Tod von Krankenschwester nach AstraZeneca-Impfung wird untersucht",
-      "titleTarget" : "Smrt medicinske sestre nakon cijepljenja protiv AstraZenece je pod istragom",
-      "url" : "https://www.diepresse.com/5947415/Niederoesterreich_Tod-von-Krankenschwester-nach-AstraZenecaImpfung?from=rss"
-    }, {
-      "articleLength" : 1613,
+      "articleLength" : 1697,
       "articlePartsSize" : 8,
-      "articleWordCount" : 218,
-      "id" : "sVeXNq2J",
-      "imgUrl" : "https://image.kurier.at/images/original/4861908/46-173771633.jpg",
+      "articleWordCount" : 216,
+      "id" : "hTMtXxL3",
+      "imgUrl" : "https://image.kurier.at/images/original/4948207/20210218-ABD0168-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Todesfall nach Corona-Impfung: Obduktion angeordnet",
-      "titleTarget" : "Smrt nakon cijepljenja s koronom: naređena obdukcija",
-      "url" : "https://kurier.at/chronik/oesterreich/todesfall-nach-corona-impfung-obduktion-angeordnet/401210014"
+      "titleSource" : "Tod von Krankenschwester: 37.000 Dosen der betroffenen Charge verimpft",
+      "titleTarget" : "Smrt medicinske sestre: inokulirano je 37 000 doza zahvaćene serije",
+      "url" : "https://kurier.at/chronik/oesterreich/nach-todesfall-kaernten-stoppt-impfung-mit-astra-zeneca-charge/401210506"
     }, {
-      "articleLength" : 5917,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 800,
-      "id" : "oGowhDv5",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5947325/D9A4A766-06C9-4D30-8B10-367C86A14881_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Anti-Corona-Demo: Aggressive Stimmung, rechtsextreme Mitmarschierer",
-      "titleTarget" : "Demonstracija protiv Corone: Agresivno raspoloženje, marširači desničarskih ekstremista",
-      "url" : "https://www.diepresse.com/5947325/AntiCoronaDemo_Aggressive-Stimmung-rechtsextreme-Mitmarschierer?from=rss"
+      "articleLength" : 3621,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 465,
+      "id" : "3ppQI2CH",
+      "imgUrl" : "https://image.kurier.at/images/original/4985731/46-176197223.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Todesfall nach Corona-Impfung: Impfstoffcharge wurde gestoppt",
+      "titleTarget" : "Smrt nakon cijepljenja koronom: serija cjepiva je zaustavljena",
+      "url" : "https://kurier.at/chronik/oesterreich/todesfall-nach-corona-impfung-impfstoffcharge-wurde-gestoppt/401210341"
     }, {
-      "articleLength" : 1360,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 184,
-      "id" : "K1aDVtOo",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "\"Corona-Party\" in Wiener Lokal aufgeflogen",
-      "titleTarget" : "\"Corona party\" otpuhan u bečkoj pivnici",
-      "url" : "https://www.diepresse.com/5947286/23-Gaeste_CoronaParty-in-Wiener-Lokal-aufgeflogen?from=rss"
+      "articleLength" : 6582,
+      "articlePartsSize" : 30,
+      "articleWordCount" : 861,
+      "id" : "P3PxW62K",
+      "publisher" : "derstandard.at",
+      "titleSource" : "42 Festnahmen, 3.000 verwaltungsrechtliche und 60 Strafanzeigen bei Corona-Demos",
+      "titleTarget" : "42 uhićenja, 3.000 administrativnih i 60 kaznenih prijava u demo demonstracijama",
+      "url" : "https://www.derstandard.at/story/2000124733120/42-festnahmen-3-000-verwaltungsrechtliche-und-60-strafanzeigen-bei-corona?ref=rss"
     }, {
-      "articleLength" : 5014,
+      "articleLength" : 1792,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 252,
+      "id" : "2SkYCGtr",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Angewandte stiftet Preis in Gedenken an ermordete Studentin",
+      "titleTarget" : "Applied daruje nagradu u spomen na ubijenog studenta",
+      "url" : "https://www.derstandard.at/story/2000124731664/angewandte-stiftet-preis-in-gedenken-an-ermordete-studentin?ref=rss"
+    }, {
+      "articleLength" : 5492,
       "articlePartsSize" : 24,
-      "articleWordCount" : 694,
-      "id" : "d4PFprDT",
-      "imgUrl" : "https://image.kurier.at/images/original/4984330/46-176212375.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Zahlreiche Anzeigen und einige Festnahmen bei Corona-Demos",
-      "titleTarget" : "Brojne reklame i neka uhićenja tijekom demo demonstracija",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demos-in-wien-gestartet/401209981"
+      "articleWordCount" : 716,
+      "id" : "AZN9F5NP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Festnahmen, Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ nach Demos in Wien",
+      "titleTarget" : "Uhićenja, izvještaji i razmjena udaraca između Nehammera i FPÖ-a nakon demonstracija u Beču",
+      "url" : "https://www.diepresse.com/5947557/AntiCorona_Festnahmen-Anzeigen-und-Schlagabtausch-zwischen?from=rss"
     }, {
-      "articleLength" : 9987,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1419,
-      "id" : "xx7gzLTa",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Nach Feuerattacke: \"Frauen sollen bei ersten Anzeichen von Gewalt Hilfe suchen\"",
-      "titleTarget" : "Nakon vatrenog napada: \"Žene bi trebale potražiti pomoć kod prvih znakova nasilja\"",
-      "url" : "https://www.derstandard.at/story/2000124724239/raab-frauen-ermutigen-bei-ersten-anzeichen-fuer-gewalt-hilfe-zu?ref=rss"
+      "articleLength" : 852,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 120,
+      "id" : "VaY84h1z",
+      "imgUrl" : "https://image.kurier.at/images/original/4923142/46-174213631.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "100 Kinder feierten mit Pizza, Polizisten verteilten Masken",
+      "titleTarget" : "100 djece proslavilo je s pizzom, policajci su podijelili maske",
+      "url" : "https://kurier.at/chronik/oesterreich/100-kinder-feierten-mit-pizza-polizisten-verteilten-masken/401210404"
+    }, {
+      "articleLength" : 5492,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 716,
+      "id" : "mSAWdRU6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Demos in Wien: 42 Festnahmen, 3000 Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ",
+      "titleTarget" : "Demo u Beču: 42 uhićenja, 3000 pritužbi i razmjena udaraca između Nehammera i FPÖ-a",
+      "url" : "https://www.diepresse.com/5947557/AntiCorona_Demos-in-Wien_42-Festnahmen-3000-Anzeigen-und?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "articleLength" : 1176,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 183,
+      "id" : "FQoEs2xY",
+      "imgUrl" : "https://image.kurier.at/images/original/4985749/orf_noberbuch_20210307100243.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Er folgt auf Ribarski: Martin Gruber wird neuer \"Soko Donau\"-Cop",
+      "titleTarget" : "Naslijedio je Ribarskog: Martin Gruber postaje novi policajac \"Soko Donau\"",
+      "url" : "https://kurier.at/kultur/medien/er-folgt-auf-ribarski-martin-gruber-wird-neuer-soko-donau-cop/401210383"
+    }, {
       "articleLength" : 9880,
       "articlePartsSize" : 34,
       "articleWordCount" : 1408,
@@ -138,37 +195,37 @@
       "titleTarget" : "To su nominirani za ROMY 2021",
       "url" : "https://kurier.at/kultur/das-sind-die-nominierten-fuer-die-romy-2021/401210098"
     }, {
-      "articleLength" : 2475,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 360,
-      "id" : "GC1pmIeF",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Festivals 2021: Hoffen und warten",
-      "titleTarget" : "Festivali 2021: nada i čekanje",
-      "url" : "https://www.derstandard.at/story/2000124700832/festivals-2021-hoffen-und-warten?ref=rss"
+      "articleLength" : 1463,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 197,
+      "id" : "afOJ7tWs",
+      "imgUrl" : "https://image.kurier.at/images/original/4986964/gettyimages-454259166.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Klingonisch hat jetzt neue Wörter für die Corona-Pandemie",
+      "titleTarget" : "Klingon sada ima nove riječi za pandemiju koronavirusa",
+      "url" : "https://kurier.at/kultur/klingonisch-hat-jetzt-neue-woerter-fuer-die-corona-pandemie/401210359"
     }, {
-      "articleLength" : 4000,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 552,
-      "id" : "PaXXYSLA",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Jägerin, Jodlerin, Älplerin: Frauen vom Berg und Frauen vom Tal",
-      "titleTarget" : "Lovci, jodleri, alpski poljoprivrednici: žene iz planina i žene iz doline",
-      "url" : "https://www.derstandard.at/story/2000124688215/jaegerin-jodlerin-aelplerin-frauen-vom-berg-und-frauen-vom-tal?ref=rss"
+      "articleLength" : 4016,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 623,
+      "id" : "Ely5Vx9C",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die Musik ist es nicht: Was das Gefühl Festival ausmacht",
+      "titleTarget" : "Nije glazba: ono zbog čega se festival osjeća",
+      "url" : "https://www.derstandard.at/story/2000124696955/die-musik-ist-es-nicht-was-das-gefuehl-festival-ausmacht?ref=rss"
+    }, {
+      "articleLength" : 5188,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 728,
+      "id" : "cqDzXGje",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Entschleunigung & mehr Teilen: Theaterfestivals nach der Pandemie",
+      "titleTarget" : "Usporavanje i dijeljenje više: kazališni festivali nakon pandemije",
+      "url" : "https://www.derstandard.at/story/2000124718511/entschleunigung-mehr-teilen-theaterfestivals-nach-der-pandemie?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 1177,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 154,
-      "id" : "I9cGYcE2",
-      "imgUrl" : "https://image.kurier.at/images/original/4984315/46-164108615.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Medikament: Pharmakonzern Merck veröffentlicht positive Ergebnisse",
-      "titleTarget" : "Lijek: Farmaceutska tvrtka Merck objavljuje pozitivne rezultate",
-      "url" : "https://kurier.at/wissen/gesundheit/medikament-pharmakonzern-merck-veroeffentlicht-positive-ergebnisse/401209960"
-    }, {
       "articleLength" : 1224,
       "articlePartsSize" : 6,
       "articleWordCount" : 161,
@@ -188,59 +245,86 @@
       "titleSource" : "Diabetespatienten erkranken schwerer an Corona",
       "titleTarget" : "Pacijenti s dijabetesom postaju sve bolesniji od korone",
       "url" : "https://kurier.at/wissen/gesundheit/diabetespatienten-erkranken-schwerer-an-corona/401210287"
+    }, {
+      "articleLength" : 5915,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 863,
+      "id" : "NMsrEMNW",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wie sich die Corona-Pandemie auf unsere Albträume auswirkt",
+      "titleTarget" : "Kako pandemija korone utječe na naše noćne more",
+      "url" : "https://www.derstandard.at/story/2000123593631/wie-sich-die-corona-pandemie-auf-unsere-albtraeume-auswirkt?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 4744,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 693,
-      "id" : "6zzNh2q3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/c/4/5947332/76A53A3B-8F8E-46D0-8AF2-7F88A2CAD363_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Nordische WM: Nächste Goldmedaille für Kombinierer",
-      "titleTarget" : "Nordijski svjetski kup: sljedeća zlatna medalja za kombinirače",
-      "url" : "https://www.diepresse.com/5947332/TeamSprint_Nordische-WM_Naechste-Goldmedaille-fuer-Kombinierer?from=rss"
+      "articleLength" : 1921,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 281,
+      "id" : "zhFLKVwi",
+      "imgUrl" : "https://image.kurier.at/images/original/4986202/46-175255637.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Rapid verpflichtet Robert Ljubicic vom SKN St. Pölten",
+      "titleTarget" : "Brzi znak Robert Ljubičić iz SKN St. Pölten",
+      "url" : "https://kurier.at/sport/fussball/rapid-steht-vor-der-verpflichtung-von-robert-ljubicic-vom-skn/401210512"
+    }, {
+      "articleLength" : 2940,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 458,
+      "id" : "F37X7qIe",
+      "imgUrl" : "https://image.kurier.at/images/original/4986025/46-176171030.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "ÖSV-Jungstar Lamparter nach WM-Gala: \"Hätte ihm eine runtergehaut\"",
+      "titleTarget" : "Mlada zvijezda ÖSV-a Lamparter nakon gala svjetskog kupa: \"Srušio bi ga s njega\"",
+      "url" : "https://kurier.at/sport/wintersport/oesv-jungstar-johannes-lamparter-nach-wm-gala-haette-ihm-eine-runtergehaut/401210494"
+    }, {
+      "articleLength" : 1683,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 236,
+      "id" : "aFXvlTQ8",
+      "publisher" : "derstandard.at",
+      "titleSource" : "LASK startet im Frauenfußball durch",
+      "titleTarget" : "LASK poleće u ženskom nogometu",
+      "url" : "https://www.derstandard.at/story/2000124735505/lask-startet-im-frauenfussball-durch?ref=rss"
     }, {
       "articleLength" : 2716,
       "articlePartsSize" : 12,
-      "articleWordCount" : 389,
-      "id" : "7JiT4jXc",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/8/a/5947274/28FA63A9-4BE5-4C94-9B75-3639B6C5EF6F_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Kriechmayr gewinnt Saalbach-Abfahrt",
-      "titleTarget" : "Kriechmayr pobjeđuje u spustu u Saalbachu",
-      "url" : "https://www.diepresse.com/5947274/Ski_Kriechmayr-gewinnt-SaalbachAbfahrt?from=rss"
+      "articleWordCount" : 414,
+      "id" : "aEJWVlkC",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Dortmunder Frust über den Schiedsrichter: \"Keine Eier\"",
+      "titleTarget" : "Dortmundska frustracija sa sucem: \"Nema jaja\"",
+      "url" : "https://www.derstandard.at/story/2000124731866/dortmunder-frust-ueber-den-schiedsrichter-keine-eier?ref=rss"
     }, {
-      "articleLength" : 940,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 137,
-      "id" : "oIDzdRl6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/9/5947305/8493C0E0-761F-4C3B-803A-9EF6A19CFE67_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Stadlober nach starkem 30-Km-Rennen Fünfte",
-      "titleTarget" : "Stadlober peti nakon jake utrke od 30 km",
-      "url" : "https://www.diepresse.com/5947305/Nordische-WM_Stadlober-nach-starkem-30KmRennen-Fuenfte?from=rss"
-    }, {
-      "articleLength" : 1166,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 169,
-      "id" : "tqDjiCre",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/4/5947300/F2427A9C-0052-4047-ACB8-3F7B73973EA1_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Biathlon: Hauser in Nove Mesto abgeschlagen",
-      "titleTarget" : "Biatlon: Hauser ispao u Novem Mestu",
-      "url" : "https://www.diepresse.com/5947300/Weltcup_Biathlon_Hauser-in-Nove-Mesto-abgeschlagen?from=rss"
-    }, {
-      "articleLength" : 2600,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 376,
-      "id" : "ydfWT48r",
-      "imgUrl" : "https://image.kurier.at/images/original/4984267/46-176211409.jpg",
+      "articleLength" : 3715,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 560,
+      "id" : "I2Vp2SEw",
+      "imgUrl" : "https://image.kurier.at/images/original/4986913/46-176237690.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Ass Vincent Kriechmayr gewinnt Abfahrt in Saalbach",
-      "titleTarget" : "As ÖSV-a Vincent Kriechmayr pobjeđuje nizbrdo u Saalbachu",
-      "url" : "https://kurier.at/sport/wintersport/kein-zufallsweltmeister-oesv-ass-kriechmayr-gewinnt-heim-abfahrt-in-saalbach/401209927"
+      "titleSource" : "Wiener Derby live: So steht es bei der Austria gegen Rapid",
+      "titleTarget" : "Bečki derbi uživo: Ovako je u Austriji protiv Rapida",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-live-spielstand-so-steht-es-im-wiener-derby-austria-gegen-rapid/401210365"
+    }, {
+      "articleLength" : 2068,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 325,
+      "id" : "efB7fqO4",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/e/0/5947616/ED330F00-E3BA-414D-A5F2-F25E62CEDB6D_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Trainereffekt im Lavanttal",
+      "titleTarget" : "Učinak trenera u Lavanttalu",
+      "url" : "https://www.diepresse.com/5947616/Bundesliga_Trainereffekt-im-Lavanttal?from=rss"
+    }, {
+      "articleLength" : 2706,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 388,
+      "id" : "PVGo1eql",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/8/5947608/93265119-42A8-44F4-818D-2C254658DD3B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "ÖLV zog zufriedenes EM-Fazit, aber: \"Müssen bei Hallen aufholen!\"",
+      "titleTarget" : "ÖLV je izvukao zadovoljan zaključak EM-a, ali: \"Moram sustići dvorane!\"",
+      "url" : "https://www.diepresse.com/5947608/OeLV-zog-zufriedenes-EMFazit-aber_Muessen-bei-Hallen-aufholen?from=rss"
     } ]
   } ],
   "country" : "austria",
