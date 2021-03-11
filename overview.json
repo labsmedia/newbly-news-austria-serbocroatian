@@ -2,25 +2,15 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3635,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 515,
-      "id" : "ZRycfeGw",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/4/5949108/606EFC81-3419-4149-AD8C-403711A41FB4_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Vorarlberg: Landtag begrüßt Lockerungen und kritisiert Kickl",
-      "titleTarget" : "Vorarlberg: Landtag pozdravlja ublažavanje i kritizira Kickla",
-      "url" : "https://www.diepresse.com/5949108/CoronaMassnahmen_Vorarlberg_Landtag-begruesst-Lockerungen-und?from=rss"
-    }, {
-      "articleLength" : 1052,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 135,
-      "id" : "QjRmhRhB",
-      "imgUrl" : "https://image.kurier.at/images/original/4929613/20210210-ABD0055-1-1.jpg",
+      "articleLength" : 1082,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 146,
+      "id" : "eGU4dzic",
+      "imgUrl" : "https://image.kurier.at/images/original/4992345/20210310-ABD0039-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Anschober nach Kreislaufschwäche im Krankenstand",
-      "titleTarget" : "Pokretanje nakon slabosti cirkulacije na bolovanju",
-      "url" : "https://kurier.at/politik/inland/anschober-nach-kreislaufschwaeche-im-krankenstand/401213355"
+      "titleSource" : "Vizekanzler Kogler besteht auf Ausreisekontrollen",
+      "titleTarget" : "Vicekancelar Kogler inzistira na kontroli izlaza",
+      "url" : "https://kurier.at/politik/inland/vizekanzler-kogler-besteht-auf-ausreisekontrollen/401214000"
     }, {
       "articleLength" : 3989,
       "articlePartsSize" : 18,
@@ -41,6 +31,26 @@
       "titleTarget" : "Visoka cijena zatvorenih škola: Dvoje od troje djece osjeća se usamljeno",
       "url" : "https://www.derstandard.at/story/2000124851377/der-hohe-preis-geschlossener-schulen-zwei-von-drei-kindern-fuehlen?ref=rss"
     }, {
+      "articleLength" : 3635,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 515,
+      "id" : "ZRycfeGw",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/b/4/5949108/606EFC81-3419-4149-AD8C-403711A41FB4_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Vorarlberg: Landtag begrüßt Lockerungen und kritisiert Kickl",
+      "titleTarget" : "Vorarlberg: Landtag pozdravlja ublažavanje i kritizira Kickla",
+      "url" : "https://www.diepresse.com/5949108/CoronaMassnahmen_Vorarlberg_Landtag-begruesst-Lockerungen-und?from=rss"
+    }, {
+      "articleLength" : 3447,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 436,
+      "id" : "tIkqvfYL",
+      "imgUrl" : "https://image.kurier.at/images/original/4966441/20210226-ABD0031-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Anschober wegen neuer Corona-Gesetze unter Beschuss",
+      "titleTarget" : "Anschober zbog napada novih zakona o koroni",
+      "url" : "https://kurier.at/politik/inland/anschober-wegen-neuer-corona-gesetze-unter-beschuss/401214168"
+    }, {
       "articleLength" : 1610,
       "articlePartsSize" : 9,
       "articleWordCount" : 221,
@@ -51,68 +61,18 @@
       "titleTarget" : "Kogler: izlazni testovi iz okruga Corona \"imaju smisla\"",
       "url" : "https://www.diepresse.com/5949198/CoronaMassnahmen_Kogler_Ausreisetests-aus-CoronaBezirken-sinnvoll?from=rss"
     }, {
-      "articleLength" : 7219,
-      "articlePartsSize" : 31,
-      "articleWordCount" : 1036,
-      "id" : "ktkcQpEz",
+      "articleLength" : 4824,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 735,
+      "id" : "WMALg9q7",
       "publisher" : "derstandard.at",
-      "titleSource" : "Josef Haslinger: \"Das Aufgeblatteltwerden muss man aushalten\"",
-      "titleTarget" : "Josef Haslinger: \"Moraš izdržati da te dignu u zrak\"",
-      "url" : "https://www.derstandard.at/story/2000124636425/josef-haslinger-das-aufgeblatteltwerden-muss-man-aushalten?ref=rss"
-    }, {
-      "articleLength" : 1995,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 291,
-      "id" : "s5qCc9TV",
-      "imgUrl" : "https://image.kurier.at/images/original/4412303/20200528-ABD0033-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Müssen Welle vor April brechen\": Experte warnt vor neuem Lockdown",
-      "titleTarget" : "\"Mora probiti val prije travnja\": Stručnjak upozorava na novo zaključavanje",
-      "url" : "https://kurier.at/politik/inland/muessen-welle-vor-april-brechen-experte-warnt-vor-neuem-lockdown/401213400"
+      "titleSource" : "Fünf Punkte gegen die extremsten Raser",
+      "titleTarget" : "Pet bodova protiv najekstremnijih brzih",
+      "url" : "https://www.derstandard.at/story/2000124851937/fuenf-punkte-gegen-die-extremsten-raser?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1172,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 153,
-      "id" : "zAqQLAVA",
-      "imgUrl" : "https://image.kurier.at/images/original/2753876/20180815-ABD0058-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Österreich gibt für baldiges Aus von Verbrennermotoren Gas",
-      "titleTarget" : "Austrija ubrzava ranu fazu motora s unutarnjim izgaranjem",
-      "url" : "https://kurier.at/wirtschaft/oesterreich-gibt-fuer-baldiges-aus-von-verbrennermotoren-gas/401214126"
-    }, {
-      "articleLength" : 1331,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 180,
-      "id" : "EzplVfUZ",
-      "imgUrl" : "https://image.kurier.at/images/original/3609116/81650355549403514_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Deutschland: Mit falschen Identitäten Coronahilfen erschlichen",
-      "titleTarget" : "Njemačka: Korištenje lažnih identiteta za krađu pomoći za koronu",
-      "url" : "https://kurier.at/wirtschaft/deutschland-mit-falschen-identitaeten-coronahilfen-erschlichen/401213442"
-    }, {
-      "articleLength" : 2430,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 340,
-      "id" : "meJVMr73",
-      "imgUrl" : "https://image.kurier.at/images/original/4993299/46-176296684.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Verhandlungen über Zukunft des MAN-Steyr-Werks vertagt",
-      "titleTarget" : "Odgođeni pregovori o budućnosti tvornice MAN Steyr",
-      "url" : "https://kurier.at/wirtschaft/verhandlungen-ueber-zukunft-des-man-steyr-werks-vertagt/401214468"
-    }, {
-      "articleLength" : 2887,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 386,
-      "id" : "bWQ0RakK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/6/2/5/5948965/7341E060-8647-4706-89F9-A714CBFF0CB0_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Hygiene Austria drohen Klagen zu \"Made in Austria\"-Masken",
-      "titleTarget" : "Higijeni Austriji prijete tužbe zbog maski \"Made in Austria\"",
-      "url" : "https://www.diepresse.com/5948965/Affaere_Hygiene-Austria-drohen-Klagen-zu-Made-in-AustriaMasken?from=rss"
-    }, {
       "articleLength" : 5979,
       "articlePartsSize" : 26,
       "articleWordCount" : 856,
@@ -133,18 +93,67 @@
       "titleTarget" : "Vlada najavila ekonomski paket vrijedan 430 milijuna eura",
       "url" : "https://www.diepresse.com/5949104/CoronaHilfen_Regierung-kuendigt-Wirtschaftspaket-mit-430-Millionen?from=rss"
     }, {
-      "articleLength" : 2789,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 356,
-      "id" : "TMl9ZpY1",
+      "articleLength" : 3702,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 490,
+      "id" : "J4eQiXAg",
       "publisher" : "derstandard.at",
-      "titleSource" : "Fridays for Future kündigt Klimaproteste für 19. März an",
-      "titleTarget" : "Fridays for Future najavljuje klimatske prosvjede za 19. ožujka",
-      "url" : "https://www.derstandard.at/story/2000124834371/fridays-for-future-kuendigen-klima-protestaktionen-fuer-19-maerz-an?ref=rss"
+      "titleSource" : "Regierung nimmt weitere 430 Millionen Euro für Wirtschaftshilfen in die Hand",
+      "titleTarget" : "Vlada zarađuje još 430 milijuna eura za ekonomsku pomoć",
+      "url" : "https://www.derstandard.at/story/2000124837161/regierung-kuendigt-wirtschaftspaket-mit-430-millionen-euro-an?ref=rss"
+    }, {
+      "articleLength" : 1172,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 153,
+      "id" : "zAqQLAVA",
+      "imgUrl" : "https://image.kurier.at/images/original/2753876/20180815-ABD0058-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Österreich gibt für baldiges Aus von Verbrennermotoren Gas",
+      "titleTarget" : "Austrija ubrzava ranu fazu motora s unutarnjim izgaranjem",
+      "url" : "https://kurier.at/wirtschaft/oesterreich-gibt-fuer-baldiges-aus-von-verbrennermotoren-gas/401214126"
+    }, {
+      "articleLength" : 3064,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 441,
+      "id" : "OFfHHfFY",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Was darauf hindeuten könnte, dass eine Hygiene-Austria-Maske aus China kommt",
+      "titleTarget" : "Što bi moglo ukazivati na to da maska Hygiene Austria dolazi iz Kine",
+      "url" : "https://www.derstandard.at/story/2000124834195/was-darauf-hindeuten-koennte-dass-eine-hygiene-austria-maske-aus?ref=rss"
+    }, {
+      "articleLength" : 2869,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 394,
+      "id" : "k0X3AXc3",
+      "imgUrl" : "https://image.kurier.at/images/original/4992978/46-176293019.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Gemeinnützige deutlich billiger als private Hausherrn",
+      "titleTarget" : "Dobrotvorne organizacije znatno su jeftinije od privatnih iznajmljivača",
+      "url" : "https://kurier.at/wirtschaft/wohnungspreise-gemeinnuetzige-deutlich-billiger-als-private-hausherrn/401214252"
+    }, {
+      "articleLength" : 1909,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 278,
+      "id" : "KTbExiqC",
+      "imgUrl" : "https://image.kurier.at/images/original/4993194/46-174117630.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Brutale Abzocke\" bei Krypto-Investments",
+      "titleTarget" : "\"Brutalno otimanje\" u kripto investicijama",
+      "url" : "https://kurier.at/wirtschaft/fma-warnt-vor-brutaler-abzocke-bei-krypto-investments/401214369"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 957,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 144,
+      "id" : "7OJtJXp6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/c/8/5949128/7CC0A4C5-2B6B-474D-9195-43DAFD734377_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Van der Bellen macht Durchsage in Wiener U-Bahn",
+      "titleTarget" : "Van der Bellen objavljuje oglas u bečkoj podzemnoj željeznici",
+      "url" : "https://www.diepresse.com/5949128/Wien_Van-der-Bellen-macht-Durchsage-in-Wiener-UBahn?from=rss"
+    }, {
       "articleLength" : 1398,
       "articlePartsSize" : 7,
       "articleWordCount" : 197,
@@ -155,25 +164,24 @@
       "titleTarget" : "Organizator demo programa Corona Rutter osuđen zbog govora mržnje",
       "url" : "https://kurier.at/chronik/oesterreich/corona-demo-organisator-rutter-wegen-verhetzung-verurteilt/401214195"
     }, {
-      "articleLength" : 3610,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 509,
-      "id" : "MP754gnD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/3/3/5948979/2BF5ADA6-2D79-4AE8-81E1-036C53EB481C_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "1000 Wiener erschienen nicht zur Impfung",
-      "titleTarget" : "1000 Bečana nije se pojavilo na cijepljenju",
-      "url" : "https://www.diepresse.com/5948979/CoronaImpfung_1000-Wiener-erschienen-nicht-zur-Impfung?from=rss"
+      "articleLength" : 4223,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 591,
+      "id" : "QIimlu1A",
+      "imgUrl" : "https://image.kurier.at/images/original/4987783/46-164638734.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wirte zu Gastro-Öffnung in Vorarlberg: \"Vom Regen in die Traufe\"",
+      "titleTarget" : "Stanodavci na gastro otvaranju u Vorarlbergu: \"Od kiše do strehe\"",
+      "url" : "https://kurier.at/chronik/oesterreich/wirte-zu-gastro-oeffnung-in-vorarlberg-vom-regen-in-die-traufe/401213886"
     }, {
-      "articleLength" : 957,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 144,
-      "id" : "7OJtJXp6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/c/8/5949128/7CC0A4C5-2B6B-474D-9195-43DAFD734377_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Van der Bellen macht Durchsage in Wiener U-Bahn",
-      "titleTarget" : "Van der Bellen objavljuje oglas u bečkoj podzemnoj željeznici",
-      "url" : "https://www.diepresse.com/5949128/Wien_Van-der-Bellen-macht-Durchsage-in-Wiener-UBahn?from=rss"
+      "articleLength" : 1492,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 198,
+      "id" : "tQEXJ2Qt",
+      "publisher" : "derstandard.at",
+      "titleSource" : "EU-Arzneimittelagentur: Keine Hinweise, dass Krankenpflegerin an Covid-Impfung starb",
+      "titleTarget" : "EU agencija za lijekove: Nema dokaza da je medicinska sestra umrla od cijepljenja Covid",
+      "url" : "https://www.derstandard.at/story/2000124912679/eu-arzneimittel-agentur-keine-hinweise-dass-krankenpflegerin-an-covid-impfung?ref=rss"
     }, {
       "articleLength" : 1759,
       "articlePartsSize" : 9,
@@ -185,24 +193,6 @@
       "titleTarget" : "Querfeld zatvara \"Parkcafé\" u Schönbrunnu",
       "url" : "https://www.diepresse.com/5949191/Lokal_Querfeld-schliesst-das-Parkcafe-in-Schoenbrunn?from=rss"
     }, {
-      "articleLength" : 4248,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 587,
-      "id" : "RQ3Fvokz",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Pläne nun fix: Rasern kann bald auch das Auto abgenommen werden",
-      "titleTarget" : "Planovi su sada fiksni: automobil će se uskoro moći ukloniti i s britvica",
-      "url" : "https://www.derstandard.at/story/2000124829170/plaene-nun-fix-rasern-kann-bald-auch-das-auto-abgenommen?ref=rss"
-    }, {
-      "articleLength" : 7623,
-      "articlePartsSize" : 33,
-      "articleWordCount" : 1183,
-      "id" : "q26tWcvy",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wo die wilden Katzen wohnen",
-      "titleTarget" : "Tamo gdje žive divlje mačke",
-      "url" : "https://www.derstandard.at/story/2000124801937/wo-die-wilden-katzen-wohnen?ref=rss"
-    }, {
       "articleLength" : 1922,
       "articlePartsSize" : 9,
       "articleWordCount" : 264,
@@ -212,6 +202,16 @@
       "titleSource" : "Polizei geht weiter gegen Wiener Jugendliche vor",
       "titleTarget" : "Policija nastavlja s akcijama protiv mladih u Beču",
       "url" : "https://www.diepresse.com/5949243/CoronaKontrollen_Polizei-geht-weiter-gegen-Wiener-Jugendliche-vor?from=rss"
+    }, {
+      "articleLength" : 1141,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 149,
+      "id" : "NZY7o0Ua",
+      "imgUrl" : "https://image.kurier.at/images/original/4972789/test4.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Apotheken nur teilweise mit Gratis-Corona-Tests beliefert",
+      "titleTarget" : "Ljekarne su samo djelomično opskrbljene besplatnim testovima na koronu",
+      "url" : "https://kurier.at/chronik/oesterreich/apotheken-nur-teilweise-mit-gratis-corona-tests-beliefert/401213688"
     } ]
   }, {
     "category" : "CULTURE",
@@ -236,34 +236,6 @@
       "titleTarget" : "Otkazani njemački festivali: Nova Rock \"još nije\" pogođen",
       "url" : "https://kurier.at/kultur/deutsche-festivals-abgesagt-das-nova-rock-ist-noch-nicht-betroffen/401213937"
     }, {
-      "articleLength" : 5023,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 709,
-      "id" : "PdespXKt",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Filmförderung: Vorstoß in Richtung Quote",
-      "titleTarget" : "Financiranje filma: guranje prema kvoti",
-      "url" : "https://www.derstandard.at/story/2000124796455/filmfoerderung-vorstoss-in-richtung-quote?ref=rss"
-    }, {
-      "articleLength" : 4919,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 714,
-      "id" : "gkDFDx4h",
-      "imgUrl" : "https://image.kurier.at/images/original/4991757/46-165850705.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wrabetz will nicht „mitten drinnen“ alles stehen lassen",
-      "titleTarget" : "Wrabetz ne želi sve ostaviti \"u sredini\"",
-      "url" : "https://kurier.at/kultur/medien/wrabetz-will-nicht-mitten-drinnen-alles-stehen-lassen/401213592"
-    }, {
-      "articleLength" : 1958,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 271,
-      "id" : "vEbIqaQJ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Deutschland, Schweiz: Sieben große Open-Air-Festivals von Eventim abgesagt",
-      "titleTarget" : "Njemačka, Švicarska: Eventim otkazao sedam glavnih festivala na otvorenom",
-      "url" : "https://www.derstandard.at/story/2000124837976/deutschland-und-schweiz-sieben-grosse-open-air-festivals-von-eventim?ref=rss"
-    }, {
       "articleLength" : 2703,
       "articlePartsSize" : 12,
       "articleWordCount" : 375,
@@ -274,6 +246,15 @@
       "titleTarget" : "Koronska pomoć: \"Restart paket\" za kulturu uključuje 20 milijuna eura",
       "url" : "https://kurier.at/kultur/corona-hilfen-neustart-paket-fuer-kultur-umfasst-20-millionen-euro/401213982"
     }, {
+      "articleLength" : 4286,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 640,
+      "id" : "rXbYWnds",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Der Idiot hat immer Saison",
+      "titleTarget" : "Idiot je uvijek u sezoni",
+      "url" : "https://www.derstandard.at/story/2000124791161/der-idiot-hat-immer-saison?ref=rss"
+    }, {
       "articleLength" : 1449,
       "articlePartsSize" : 7,
       "articleWordCount" : 202,
@@ -283,20 +264,29 @@
       "titleSource" : "\"Rock am Ring\" und weitere deutsche Rockfestivals abgesagt",
       "titleTarget" : "Otkazani \"Rock am Ring\" i drugi njemački rock festivali",
       "url" : "https://kurier.at/kultur/rock-am-ring-und-weitere-deutsche-rokfestivals-abgesagt/401213679"
+    }, {
+      "articleLength" : 1958,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 271,
+      "id" : "vEbIqaQJ",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Deutschland, Schweiz: Sieben große Open-Air-Festivals von Eventim abgesagt",
+      "titleTarget" : "Njemačka, Švicarska: Eventim otkazao sedam glavnih festivala na otvorenom",
+      "url" : "https://www.derstandard.at/story/2000124837976/deutschland-und-schweiz-sieben-grosse-open-air-festivals-von-eventim?ref=rss"
+    }, {
+      "articleLength" : 2484,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 381,
+      "id" : "FVuuyfml",
+      "imgUrl" : "https://image.kurier.at/images/original/4992687/46-87963907.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kings Of Leon sind älter geworden - und klingen auch so",
+      "titleTarget" : "Kings Of Leon su ostarili - i zvuče tako",
+      "url" : "https://kurier.at/kultur/kings-of-leon-sind-aelter-geworden-und-klingen-auch-so/401214102"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 3197,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 402,
-      "id" : "9fCeJurZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4828692/81670356458033466_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anaphylaktische Reaktion auf mRNA-Impfstoffe extrem selten",
-      "titleTarget" : "Anafilaktička reakcija na mRNA cjepiva izuzetno je rijetka",
-      "url" : "https://kurier.at/wissen/gesundheit/anaphylaktische-reaktion-auf-mrna-impfstoffe-extrem-selten/401213322"
-    }, {
       "articleLength" : 2763,
       "articlePartsSize" : 14,
       "articleWordCount" : 394,
@@ -316,20 +306,20 @@
       "titleSource" : "AK alarmiert über psychische Belastung von Schülern",
       "titleTarget" : "AK upozorava na psihološki stres kod učenika",
       "url" : "https://kurier.at/wissen/gesundheit/ak-alarmiert-ueber-psychische-belastung-von-schuelern-studie-oesterreich/401213928"
+    }, {
+      "articleLength" : 6636,
+      "articlePartsSize" : 29,
+      "articleWordCount" : 917,
+      "id" : "x30Klq9X",
+      "imgUrl" : "https://image.kurier.at/images/original/4993662/46-176297460.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wie sich der J&J-Impfstoff von den anderen unterscheidet",
+      "titleTarget" : "Po čemu se cjepivo J&J razlikuje od ostalih",
+      "url" : "https://kurier.at/wissen/gesundheit/covid-impfstoffe-was-jj-von-den-anderen-vakzinen-unterscheidet/401214636"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2692,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 360,
-      "id" : "BYUDzCbR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/2/f/5949231/0071679F-077A-491E-A056-84188F0DCE6B_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kogler: \"Sport-Scheck\" soll Vereinsmitglieder zurückholen",
-      "titleTarget" : "Kogler: \"Sport-Scheck\" trebao bi vratiti članove kluba",
-      "url" : "https://www.diepresse.com/5949231/Sportvereine_Kogler_SportScheck-soll-Vereinsmitglieder-zurueckholen?from=rss"
-    }, {
       "articleLength" : 2858,
       "articlePartsSize" : 13,
       "articleWordCount" : 376,
@@ -340,34 +330,25 @@
       "titleTarget" : "9 milijuna eura Pomoć za Coronu: Kako Kogler sada želi promovirati sport",
       "url" : "https://kurier.at/sport/corona-hilfen-der-sport-erhaelt-laut-kogler-9-millionen-euro-fuer-mitgliederfoerderung/401214006"
     }, {
-      "articleLength" : 3668,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 500,
-      "id" : "5TkV5BSU",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Spitzenpositionen im Sport: Lauter Manns-Bilder",
-      "titleTarget" : "Najbolje pozicije u sportu: puno slika muškaraca",
-      "url" : "https://www.derstandard.at/story/2000124799380/spitzenpositionen-im-sport-lauter-manns-bilder?ref=rss"
+      "articleLength" : 2692,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 360,
+      "id" : "BYUDzCbR",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/2/f/5949231/0071679F-077A-491E-A056-84188F0DCE6B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Kogler: \"Sport-Scheck\" soll Vereinsmitglieder zurückholen",
+      "titleTarget" : "Kogler: \"Sport-Scheck\" trebao bi vratiti članove kluba",
+      "url" : "https://www.diepresse.com/5949231/Sportvereine_Kogler_SportScheck-soll-Vereinsmitglieder-zurueckholen?from=rss"
     }, {
-      "articleLength" : 1602,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 250,
-      "id" : "zsfTObtB",
-      "imgUrl" : "https://image.kurier.at/images/original/4991862/46-176284548.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Unverzeihlicher Fehler\": Ronaldo nach Juves CL-Aus in der Kritik",
-      "titleTarget" : "\"Neoprostiva pogreška\": Ronaldo kritiziran nakon Juveova CL-Ausa",
-      "url" : "https://kurier.at/sport/fussball/unverzeihlicher-fehler-cristiano-ronaldo-nach-juves-cl-aus-in-der-kritik/401213649"
-    }, {
-      "articleLength" : 2725,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 411,
-      "id" : "mVbu4Aqc",
-      "imgUrl" : "https://image.kurier.at/images/original/4992972/46-176298857.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Doha: Thiem besiegt Sensations-Mann, Federer-Comeback geglückt",
-      "titleTarget" : "Doha: Thiem pobjeđuje senzacionalistu, Federerov povratak je uspio",
-      "url" : "https://kurier.at/sport/tennis/dominic-thiem-besiegt-sensations-mann-karazew-und-steht-im-doha-viertelfinale/401214162"
+      "articleLength" : 2098,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 293,
+      "id" : "zPme9NmV",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/1/5/5949461/D304E26E-F63B-470F-B515-42FF8E1B823F_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "St. Pölten verabschiedet sich aus der Champions League",
+      "titleTarget" : "St. Pölten se oprašta od Lige prvaka",
+      "url" : "https://www.diepresse.com/5949461/AchtelfinalAus_St-Poelten-verabschiedet-sich-aus-der-Champions-League?from=rss"
     }, {
       "articleLength" : 2889,
       "articlePartsSize" : 13,
@@ -378,15 +359,34 @@
       "titleTarget" : "Kogler: \"Sportscheck\" bi trebao vratiti članove kluba",
       "url" : "https://www.derstandard.at/story/2000124846225/kogler-kuendigt-sport-scheck-fuer-mitglieder-rueckholung-an?ref=rss"
     }, {
-      "articleLength" : 763,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 115,
-      "id" : "RxCBSFBN",
-      "imgUrl" : "https://image.kurier.at/images/original/4992594/sf21-1465-cl-cs1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wie der neue Ferrari an den ersten Rennwagen erinnert",
-      "titleTarget" : "Kako novi Ferrari podsjeća na prvi trkaći automobil",
-      "url" : "https://kurier.at/sport/motorsport/wie-der-neue-ferrari-an-den-ersten-rennwagen-erinnert/401214033"
+      "articleLength" : 2727,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 412,
+      "id" : "ehE5s8G2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/1/b/5949467/50D0100A-3A61-4B87-908C-02E9326D4408_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Champions League: Paris und Liverpool im Viertelfinale",
+      "titleTarget" : "Liga prvaka: Pariz i Liverpool u četvrtfinalu",
+      "url" : "https://www.diepresse.com/5949467/Fussball_Champions-League_Paris-und-Liverpool-im-Viertelfinale?from=rss"
+    }, {
+      "articleLength" : 2699,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 413,
+      "id" : "olw06c4v",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/e/5/5949413/7CF58F58-CC3B-4E60-92B6-EAF5817E7BB3_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Federer gewinnt Comeback-Match",
+      "titleTarget" : "Federer pobjeđuje u povratničkoj utakmici",
+      "url" : "https://www.diepresse.com/5949413/Tennis_Federer-gewinnt-ComebackMatch?from=rss"
+    }, {
+      "articleLength" : 901,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 125,
+      "id" : "MiLeaM9W",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kosovo droht Spanien in WM-Quali mit Rückzug",
+      "titleTarget" : "Kosovo prijeti Španjolskoj povlačenjem u kvalifikacijama za Svjetsko prvenstvo",
+      "url" : "https://www.derstandard.at/story/2000124840866/kosovo-droht-spanien-in-wm-quali-mit-rueckzug?ref=rss"
     } ]
   } ],
   "country" : "austria",
