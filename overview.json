@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 4299,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 553,
-      "id" : "AFPGSf7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4859487/46-173789602.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Impfstoff-Streit: ÖVP fordert Suspendierung von Beamten im grünen Ministerium",
-      "titleTarget" : "Spor oko cjepiva: ÖVP poziva na suspenziju dužnosnika u zelenom ministarstvu",
-      "url" : "https://kurier.at/politik/inland/impfstoff-streit-oevp-fordert-suspendierung-von-beamten-im-gruenen-ministerium/401217378"
-    }, {
       "articleLength" : 7652,
       "articlePartsSize" : 33,
       "articleWordCount" : 1005,
@@ -22,48 +12,57 @@
       "titleTarget" : "ÖVP poziva na suspenziju najviših dužnosnika u Ministarstvu zdravstva",
       "url" : "https://www.diepresse.com/5950742/Impfstoffverteilung_OeVP-fordert-Suspendierung-von-Spitzenbeamten?from=rss"
     }, {
-      "articleLength" : 3918,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 534,
-      "id" : "EOlrPMaD",
-      "publisher" : "derstandard.at",
-      "titleSource" : "SPÖ hält vorgelegte BVT-Reform für \"schweren Fehler\"",
-      "titleTarget" : "SPÖ smatra predloženu reformu BVT \"ozbiljnom pogreškom\"",
-      "url" : "https://www.derstandard.at/story/2000125017365/spoe-haelt-vorgelegte-bvt-reform-fuer-schweren-fehler?ref=rss"
-    }, {
-      "articleLength" : 3324,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 457,
-      "id" : "xj5kcI9T",
-      "imgUrl" : "https://image.kurier.at/images/original/4930024/20210210-ABD0062-1-1.jpg",
+      "articleLength" : 4299,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 553,
+      "id" : "AFPGSf7W",
+      "imgUrl" : "https://image.kurier.at/images/original/4859487/46-173789602.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Corona-Demos werden laut Nehammer nicht willkürlich untersagt",
-      "titleTarget" : "Demonstracije Corone nisu proizvoljno zabranjene, prema Nehammeru",
-      "url" : "https://kurier.at/politik/inland/corona-demos-werden-laut-nehammer-nicht-willkuerlich-untersagt/401217195"
+      "titleSource" : "Impfstoff-Streit: ÖVP fordert Suspendierung von Beamten im grünen Ministerium",
+      "titleTarget" : "Spor oko cjepiva: ÖVP poziva na suspenziju dužnosnika u zelenom ministarstvu",
+      "url" : "https://kurier.at/politik/inland/impfstoff-streit-oevp-fordert-suspendierung-von-beamten-im-gruenen-ministerium/401217378"
     }, {
-      "articleLength" : 1728,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 236,
-      "id" : "7QjrJbJZ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/f/5950751/SP-PRESSEKONFERENZ-AKTUELLE-CORONA-ENTWICKLUNG-RENDI-WAGNER_1615624403188352_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Rendi-Wagner: \"Weitere Lockerungen sind viel zu großes Risiko\"",
-      "titleTarget" : "Rendi-Wagner: \"Daljnje ublažavanje previše je velik rizik\"",
-      "url" : "https://www.diepresse.com/5950751/SPOe_RendiWagner_Weitere-Lockerungen-sind-viel-zu-grosses-Risiko?from=rss"
+      "articleLength" : 3052,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 440,
+      "id" : "PtkIls57",
+      "imgUrl" : "https://image.kurier.at/images/original/4999416/46-175973379.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Regierungsarbeit: 42 Prozent sind zufrieden, 55 Prozent sind es nicht",
+      "titleTarget" : "Vladin rad: 42 posto je zadovoljno, 55 posto nije",
+      "url" : "https://kurier.at/politik/inland/regierungsarbeit-42-prozent-sind-zufrieden-55-prozent-sind-es-nicht/401217705"
+    }, {
+      "articleLength" : 8992,
+      "articlePartsSize" : 41,
+      "articleWordCount" : 1324,
+      "id" : "XITdca8o",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Hält die Koalition auch noch den Impfstreit aus?",
+      "titleTarget" : "Hoće li koalicija i dalje izdržati spor oko cijepljenja?",
+      "url" : "https://www.derstandard.at/story/2000125006894/haelt-die-koalition-auch-noch-den-impfstreit-aus?ref=rss"
+    }, {
+      "articleLength" : 948,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 124,
+      "id" : "Sdk37Lyu",
+      "imgUrl" : "https://image.kurier.at/images/original/4999419/46-175868678.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Rekordbedarf beim Zivildienst: \"Ohne unsere Zivis wird es eng\"",
+      "titleTarget" : "Rekordna potražnja za društveno korisnim radom: \"Bez naše državne službe bit će tijesno\"",
+      "url" : "https://kurier.at/politik/inland/rekordbedarf-beim-zivildienst-ohne-unsere-zivis-wird-es-eng/401217714"
+    }, {
+      "articleLength" : 8793,
+      "articlePartsSize" : 42,
+      "articleWordCount" : 1239,
+      "id" : "3OY2mtCr",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Umstrittene Ages: Neigen die Viren-Überwacher zur Verharmlosung?",
+      "titleTarget" : "Kontroverzna dob: nastoje li nadglednici virusa umanjiti rezultat?",
+      "url" : "https://www.derstandard.at/story/2000124994571/umstrittene-ages-neigen-die-viren-ueberwacher-zur-verharmlosung?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 4137,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 587,
-      "id" : "E1gSJKgs",
-      "imgUrl" : "https://image.kurier.at/images/original/4994514/46-175674231.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Astra Zeneca kürzt Impfstoff-Lieferung an die EU erneut",
-      "titleTarget" : "Astra Zeneca ponovno smanjuje isporuke cjepiva u EU",
-      "url" : "https://kurier.at/wirtschaft/astra-zeneca-liefert-noch-weniger-impfstoff-an-die-eu/401217171"
-    }, {
       "articleLength" : 1782,
       "articlePartsSize" : 9,
       "articleWordCount" : 244,
@@ -74,35 +73,15 @@
       "titleTarget" : "Kocher planira reformirati naknade za nezaposlene",
       "url" : "https://kurier.at/wirtschaft/kocher-plant-reform-des-arbeitslosengeldes/401217387"
     }, {
-      "articleLength" : 10638,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1651,
-      "id" : "ErZx4yNO",
-      "imgUrl" : "https://image.kurier.at/images/original/4996428/46-176284735.jpg",
+      "articleLength" : 474,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 65,
+      "id" : "7sUgrvw9",
+      "imgUrl" : "https://image.kurier.at/images/original/4418330/10595789.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Ein Jahr Einschränkungen. Die neue Realität zum Jahrestag",
-      "titleTarget" : "Ograničenja od jedne godine. Nova stvarnost za obljetnicu",
-      "url" : "https://kurier.at/wirtschaft/karriere/ein-jahr-einschraenkungen-die-neue-realitaet-zum-jahrestag/401216211"
-    }, {
-      "articleLength" : 1255,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 180,
-      "id" : "OZ1VG8bY",
-      "imgUrl" : "https://image.kurier.at/images/original/4996911/46-176342603.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Lockdown: Spar verkaufte zusätzliche 11,8 Millionen Rollen Klopapier",
-      "titleTarget" : "Zaključavanje: Spar je prodao dodatnih 11,8 milijuna kolutova toaletnog papira",
-      "url" : "https://kurier.at/wirtschaft/lockdown-spar-verkaufte-zusaetzliche-118-millionen-rollen-klopapier/401216466"
-    }, {
-      "articleLength" : 3462,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 484,
-      "id" : "qPWxq2Jt",
-      "imgUrl" : "https://image.kurier.at/images/original/4994304/46-176256008.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Verkostung: Wie 3D-gedruckter Lachs auf Pflanzenbasis schmeckt",
-      "titleTarget" : "Degustacija: kakav je okus biljnog 3D tiskanog lososa",
-      "url" : "https://kurier.at/wirtschaft/karriere/verkostung-wie-3d-gedruckter-lachs-auf-pflanzenbasis-schmeckt/401215044"
+      "titleSource" : "Bitcoin erstmals über 60.000 Dollar",
+      "titleTarget" : "Bitcoin prvi put preko 60 000 američkih dolara",
+      "url" : "https://kurier.at/wirtschaft/bitcoin-erstmals-ueber-60000-dollar/401217519"
     }, {
       "articleLength" : 6829,
       "articlePartsSize" : 30,
@@ -113,29 +92,38 @@
       "titleTarget" : "Higijena Austrija: Kako se slučajno otkriće pretvorilo u skandal s maskama",
       "url" : "https://www.derstandard.at/story/2000125011151/hygiene-austria-wie-aus-einem-zufallsfund-ein-maskenskandal-wurde?ref=rss"
     }, {
-      "articleLength" : 474,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 65,
-      "id" : "7sUgrvw9",
-      "imgUrl" : "https://image.kurier.at/images/original/4418330/10595789.jpg",
+      "articleLength" : 1594,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 220,
+      "id" : "LHBbRcOI",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Gewessler will bei EU-Wiederaufbaufonds mehr Geld für Klimaschutz einsetzen",
+      "titleTarget" : "Gewessler želi iskoristiti više novca za zaštitu klime u fondu EU za obnovu",
+      "url" : "https://www.derstandard.at/story/2000125022390/gewessler-will-bei-eu-wiederaufbaufonds-mehr-geld-fuer-klimaschutz-einsetzen?ref=rss"
+    }, {
+      "articleLength" : 1942,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 255,
+      "id" : "WYVb9BPC",
+      "imgUrl" : "https://image.kurier.at/images/original/4999428/46-166261826.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Bitcoin erstmals über 60.000 Dollar",
-      "titleTarget" : "Bitcoin prvi put preko 60 000 američkih dolara",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-erstmals-ueber-60000-dollar/401217519"
+      "titleSource" : "Max Schrems gegen Facebook: Höchstrichter müssen knifflige Frage entscheiden",
+      "titleTarget" : "Max Schrems naspram Facebooka: Vrhovni suci moraju odlučiti škakljivo pitanje",
+      "url" : "https://kurier.at/wirtschaft/max-schrems-gegen-facebook-hoechstrichter-muessen-knifflige-frage-entscheiden/401217720"
+    }, {
+      "articleLength" : 2242,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 304,
+      "id" : "KqAgaeGk",
+      "imgUrl" : "https://image.kurier.at/images/original/4909852/81690356758710016_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "US-Gericht setzt Maßnahmen gegen Xiaomi aus",
+      "titleTarget" : "Američki sud obustavio akciju protiv Xiaomija",
+      "url" : "https://kurier.at/wirtschaft/us-gericht-setzt-massnahmen-gegen-xiaomi-aus/401217468"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4115,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 556,
-      "id" : "m4NIDBaq",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "Erneut über 3.000 Neuinfektionen in Österreich",
-      "titleTarget" : "Opet preko 3000 novih infekcija u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/erneut-ueber-3000-neuinfektionen-in-oesterreich/401217213"
-    }, {
       "articleLength" : 3040,
       "articlePartsSize" : 13,
       "articleWordCount" : 407,
@@ -145,6 +133,46 @@
       "titleSource" : "Bisher eine Million Dosen in Österreich verimpft",
       "titleTarget" : "Do sada je u Austriji cijepljeno milijun doza",
       "url" : "https://www.diepresse.com/5950880/Oesterreich_Bisher-eine-Million-Dosen-in-Oesterreich-verimpft?from=rss"
+    }, {
+      "articleLength" : 2906,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 391,
+      "id" : "2itLKN8C",
+      "imgUrl" : "https://image.kurier.at/images/original/4998192/46-176340109.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Impfung: Bisher eine Million Dosen in Österreich verimpft",
+      "titleTarget" : "Cijepljenje koronom: Do sada je u Austriji cijepljeno milijun doza",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-impfung-bisher-eine-million-dosen-in-oesterreich-verimpft/401217579"
+    }, {
+      "articleLength" : 2361,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 343,
+      "id" : "v7Q8bhwq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/c/5950828/CAF51422-C845-49E8-87EA-14D1E48F7E4B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Neuinfektionen bleiben über 3000 - Inzidenz bei 200er-Marke",
+      "titleTarget" : "Nove infekcije ostaju iznad 3000 - incidencija na oznaci 200",
+      "url" : "https://www.diepresse.com/5950828/Oesterreich_Neuinfektionen-bleiben-ueber-3000-Inzidenz-bei-200erMarke?from=rss"
+    }, {
+      "articleLength" : 2790,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 379,
+      "id" : "2zUBM8yK",
+      "imgUrl" : "https://image.kurier.at/images/original/4961788/20210224-ABD0122-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Keine Entscheidung über Lockerungen am Montag",
+      "titleTarget" : "U ponedjeljak nema odluke o popuštanju",
+      "url" : "https://kurier.at/chronik/oesterreich/keine-entscheidung-ueber-lockerungen-am-montag/401217432"
+    }, {
+      "articleLength" : 2073,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 283,
+      "id" : "2G4Sjptv",
+      "imgUrl" : "https://image.kurier.at/images/original/4981840/20210305-ABD0057-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurz: Dauerlockdown bringt \"maximalen Schaden\"",
+      "titleTarget" : "Ukratko: trajno zaključavanje donosi \"maksimalnu štetu\"",
+      "url" : "https://kurier.at/chronik/oesterreich/kurz-dauerlockdown-bringt-maximalen-schaden/401217708"
     }, {
       "articleLength" : 6564,
       "articlePartsSize" : 30,
@@ -163,87 +191,19 @@
       "titleSource" : "Streit um Impfungen löst koalitionsinternen Konflikt in Österreich aus",
       "titleTarget" : "Spor oko cijepljenja pokreće sukob unutar koalicije u Austriji",
       "url" : "https://www.derstandard.at/story/2000125019763/streit-um-impfungenoevp-fordert-suspendierungen-im-gesundheitsressort?ref=rss"
-    }, {
-      "articleLength" : 2361,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 343,
-      "id" : "v7Q8bhwq",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/c/5950828/CAF51422-C845-49E8-87EA-14D1E48F7E4B_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neuinfektionen bleiben über 3000 - Inzidenz bei 200er-Marke",
-      "titleTarget" : "Nove infekcije ostaju iznad 3000 - incidencija na oznaci 200",
-      "url" : "https://www.diepresse.com/5950828/Oesterreich_Neuinfektionen-bleiben-ueber-3000-Inzidenz-bei-200erMarke?from=rss"
-    }, {
-      "articleLength" : 8417,
-      "articlePartsSize" : 37,
-      "articleWordCount" : 1250,
-      "id" : "8zkyaiES",
-      "imgUrl" : "https://image.kurier.at/images/original/4202108/46-163540568.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Ein Jahr Lockdown: Der Tag, an dem die Leere nach Österreich kam",
-      "titleTarget" : "Jedna godina zaključavanja: dan kada je praznina došla u Austriju",
-      "url" : "https://kurier.at/chronik/oesterreich/der-tag-an-dem-die-leere-nach-oesterreich-kam/401217030"
-    }, {
-      "articleLength" : 2906,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 391,
-      "id" : "2itLKN8C",
-      "imgUrl" : "https://image.kurier.at/images/original/4998192/46-176340109.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Impfung: Bisher eine Million Dosen in Österreich verimpft",
-      "titleTarget" : "Cijepljenje koronom: Do sada je u Austriji cijepljeno milijun doza",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-impfung-bisher-eine-million-dosen-in-oesterreich-verimpft/401217579"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 2685,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 383,
-      "id" : "ixnSTLpI",
-      "imgUrl" : "https://image.kurier.at/images/original/3491482/78350011448552922_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Jan Böhmermann mit bissiger Kritik in Causa Ischgl",
-      "titleTarget" : "Jan Böhmermann s oštrim kritikama u slučaju Ischgl",
-      "url" : "https://kurier.at/kultur/medien/ischgl-jan-boehmermann-holte-im-tv-zum-rundumschlag-aus/401217270"
-    }, {
-      "articleLength" : 2458,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 385,
-      "id" : "xCOaqlvc",
-      "imgUrl" : "https://image.kurier.at/images/original/4997793/46-109213106.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Molden und Nino aus Wien: Zwei kreative Fetzenschädeln und ein Clown",
-      "titleTarget" : "Molden i Nino iz Beča: Dvije kreativne otrcane lubanje i klaun",
-      "url" : "https://kurier.at/kultur/ernst-molden-und-nino-aus-wien-zwei-kreative-fetzenschaedeln-und-ein-clown/401216970"
-    }, {
-      "articleLength" : 4663,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 667,
-      "id" : "eqwB4qDJ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Hans Platzgumer: Ein Tiroler über Sturschädeln und Schuldfragen",
-      "titleTarget" : "Hans Platzgumer: Tirolac o tvrdoglavim lubanjama i pitanjima krivnje",
-      "url" : "https://www.derstandard.at/story/2000124997525/hans-platzgumer-ein-tiroler-ueber-sturschaedeln-und-schuldfragen?ref=rss"
-    }, {
-      "articleLength" : 3712,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 591,
-      "id" : "TGk8GOsK",
-      "imgUrl" : "https://image.kurier.at/images/original/4997721/46-107679021.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Vorstadtmann\" Juergen Maurer: \"Man muss auch loslassen können“",
-      "titleTarget" : "\"Vorstadtmann\" Juergen Maurer: \"Morate biti u stanju pustiti\"",
-      "url" : "https://kurier.at/kultur/vorstadtmann-juergen-maurer-man-muss-auch-loslassen-koennen/401216955"
-    }, {
-      "articleLength" : 1539,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 241,
-      "id" : "vJn3u2M9",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Hallo, wie geht’s?",
-      "titleTarget" : "Bok, kako si?",
-      "url" : "https://www.derstandard.at/story/2000124997733/hallo-wie-gehts?ref=rss"
+      "articleLength" : 3524,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 477,
+      "id" : "KBMqRTMM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/4/a/5951050/F025F7F6-F8BB-4D21-BE32-FBBDAB3ACA8A_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Bild\"-Chefredakteur Reichelt befristet freigestellt",
+      "titleTarget" : "Glavni urednik \"Bild\" Reichelt pušten je na određeno vrijeme",
+      "url" : "https://www.diepresse.com/5951050/Deutschland_BildChefredakteur-Reichelt-befristet-freigestellt?from=rss"
     }, {
       "articleLength" : 1374,
       "articlePartsSize" : 7,
@@ -255,6 +215,25 @@
       "titleTarget" : "Glavni urednik \"Bild\" Reichelt pušten je na određeno vrijeme",
       "url" : "https://kurier.at/kultur/medien/bild-chefredakteur-reichelt-befristet-freigestellt/401217627"
     }, {
+      "articleLength" : 5939,
+      "articlePartsSize" : 26,
+      "articleWordCount" : 939,
+      "id" : "uTfeMw8z",
+      "imgUrl" : "https://image.kurier.at/images/original/4998825/46-176275889.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Franz Schuh: „Ich gestehe, dass ich sehr grantig bin“",
+      "titleTarget" : "Franz Schuh: \"Priznajem da sam vrlo mrzovoljan\"",
+      "url" : "https://kurier.at/kultur/buch/franz-schuh-ich-gestehe-dass-ich-sehr-grantig-bin/401217456"
+    }, {
+      "articleLength" : 5056,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 710,
+      "id" : "I01SDnkv",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wir stehen am Abgrund",
+      "titleTarget" : "Stojimo na rubu",
+      "url" : "https://www.derstandard.at/story/2000124996254/wir-stehen-am-abgrund?ref=rss"
+    }, {
       "articleLength" : 468,
       "articlePartsSize" : 2,
       "articleWordCount" : 66,
@@ -264,6 +243,15 @@
       "titleSource" : "Lukrativster Kinofilm der Geschichte: \"Avatar“ überholte die \"Avengers“",
       "titleTarget" : "Najunosniji film u povijesti: \"Avatar\" pretekao \"Osvetnike\"",
       "url" : "https://kurier.at/kultur/lukrativster-kinofilm-der-geschichte-avatar-ueberholte-die-avengers/401217489"
+    }, {
+      "articleLength" : 8325,
+      "articlePartsSize" : 35,
+      "articleWordCount" : 1186,
+      "id" : "NzkM5a4L",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Autorin Sabine Scholl: Absagen und unsichtbare Gegner",
+      "titleTarget" : "Autorica Sabine Scholl: Odbijanja i nevidljivi protivnici",
+      "url" : "https://www.derstandard.at/story/2000124998475/autorin-sabine-scholl-absagen-und-unsichtbare-gegner?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -278,15 +266,6 @@
       "titleTarget" : "Međunarodno društvo za trombozu i dalje preporučuje Astru Zenecu",
       "url" : "https://kurier.at/wissen/gesundheit/internationale-thrombose-gesellschaft-empfiehlt-astra-zeneca-weiterhin/401217474"
     }, {
-      "articleLength" : 5953,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 787,
-      "id" : "UCKemv9H",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Sars-CoV-2 kann die Bauchspeicheldrüse schädigen",
-      "titleTarget" : "Sars-CoV-2 može oštetiti gušteraču",
-      "url" : "https://www.derstandard.at/story/2000124797178/sars-cov-2-kann-die-bauchspeicheldruese-schaedigen?ref=rss"
-    }, {
       "articleLength" : 8773,
       "articlePartsSize" : 40,
       "articleWordCount" : 1248,
@@ -295,30 +274,19 @@
       "titleSource" : "Wie lange dauert es noch?",
       "titleTarget" : "Koliko dugo će to trajati?",
       "url" : "https://www.derstandard.at/story/2000125005282/wie-lange-dauert-es-noch?ref=rss"
+    }, {
+      "articleLength" : 6495,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 990,
+      "id" : "9YkcpdwX",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Schluss mit Diäten: \"Wir sollten unser Körperfett mehr schätzen\"",
+      "titleTarget" : "Nema više dijeta: \"Trebali bismo više cijeniti tjelesnu masnoću\"",
+      "url" : "https://www.derstandard.at/story/2000124621212/schluss-mit-diaeten-wir-sollten-unser-koerperfett-mehr-schaetzen?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2411,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 368,
-      "id" : "4Xl9WM6A",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/5/5950821/055658CA-D2FE-492C-A7B8-0C3F45F31F2F_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Marco Odermatt siegt überlegen in Kranjska Gora",
-      "titleTarget" : "Marco Odermatt pobjeđuje u Kranjskoj Gori",
-      "url" : "https://www.diepresse.com/5950821/Marco-Odermatt-siegt-ueberlegen-in-Kranjska-Gora?from=rss"
-    }, {
-      "articleLength" : 2899,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 428,
-      "id" : "T4iErBvG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/0/a/5950986/5A974368-0BD2-41B0-81FB-BE48EBAED45C_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Salzburgs lockere Revanche gegen die Admira",
-      "titleTarget" : "Laka osveta Salzburga protiv Admire",
-      "url" : "https://www.diepresse.com/5950986/Salzburgs-lockere-Revanche-gegen-die-Admira?from=rss"
-    }, {
       "articleLength" : 2491,
       "articlePartsSize" : 13,
       "articleWordCount" : 383,
@@ -339,14 +307,44 @@
       "titleTarget" : "Brazilski sudac mokrio se po središnjem krugu",
       "url" : "https://kurier.at/sport/fussball/skandal-brasilianischer-schiedsrichter-urinierte-am-mittelkreis-vor-spielanpfiff/401217339"
     }, {
-      "articleLength" : 4689,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 723,
-      "id" : "6IFICpP0",
+      "articleLength" : 2411,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 368,
+      "id" : "4Xl9WM6A",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/5/5950821/055658CA-D2FE-492C-A7B8-0C3F45F31F2F_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Marco Odermatt siegt überlegen in Kranjska Gora",
+      "titleTarget" : "Marco Odermatt pobjeđuje u Kranjskoj Gori",
+      "url" : "https://www.diepresse.com/5950821/Marco-Odermatt-siegt-ueberlegen-in-Kranjska-Gora?from=rss"
+    }, {
+      "articleLength" : 1714,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 240,
+      "id" : "8W5Bpemp",
       "publisher" : "derstandard.at",
-      "titleSource" : "Burgstaller bei St. Pauli: Das hat der Kiez noch nicht gesehen",
-      "titleTarget" : "Burgstaller u blizini St. Pauli: Kiez to nikada prije nije vidio",
-      "url" : "https://www.derstandard.at/story/2000125015952/burgstaller-bei-st-pauli-das-hat-der-kiez-noch-nicht?ref=rss"
+      "titleSource" : "Niederländischer Rasenhersteller boykottiert Fußball-WM in Katar",
+      "titleTarget" : "Nizozemski proizvođač travnjaka bojkotira Svjetski kup u Kataru",
+      "url" : "https://www.derstandard.at/story/2000125019235/niederlaendischer-rasenhersteller-boykottiert-fussball-wm-in-katar?ref=rss"
+    }, {
+      "articleLength" : 2899,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 428,
+      "id" : "T4iErBvG",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/0/a/5950986/5A974368-0BD2-41B0-81FB-BE48EBAED45C_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Salzburgs lockere Revanche gegen die Admira",
+      "titleTarget" : "Laka osveta Salzburga protiv Admire",
+      "url" : "https://www.diepresse.com/5950986/Salzburgs-lockere-Revanche-gegen-die-Admira?from=rss"
+    }, {
+      "articleLength" : 1226,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 187,
+      "id" : "L7TouU2O",
+      "imgUrl" : "https://image.kurier.at/images/original/4999536/09d9678b-43fc-497b-a4de-fe4789dc9bdc.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Hirscher sorgt mit spektakulärem Freeride-Stunt für Staunen",
+      "titleTarget" : "Hirscher zadivljuje spektakularnim vratolomijskim potezom",
+      "url" : "https://kurier.at/sport/wintersport/ex-ski-superstar-hirscher-sorgt-mit-spektakulaerem-freeride-stunt-fuer-staunen/401217765"
     }, {
       "articleLength" : 6896,
       "articlePartsSize" : 31,
@@ -356,16 +354,6 @@
       "titleSource" : "Liensberger holt ersten Weltcupsieg im Åre-Slalom",
       "titleTarget" : "Liensberger osvaja prvu pobjedu u Svjetskom kupu u slalomu Åre",
       "url" : "https://www.derstandard.at/story/2000125019123/liensberger-jagt-shiffrin-im-aare-slalom?ref=rss"
-    }, {
-      "articleLength" : 940,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 139,
-      "id" : "9aU5QXWO",
-      "imgUrl" : "https://image.kurier.at/images/original/4998867/46-131672488.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Das Comeback von Rapids Schobesberger dauerte nur 15 Minuten",
-      "titleTarget" : "Povratak Rapidsa Schobesbergera trajao je samo 15 minuta",
-      "url" : "https://kurier.at/sport/fussball/das-comeback-von-rapids-schobesberger-dauerte-nur-15-minuten/401217486"
     } ]
   } ],
   "country" : "austria",
