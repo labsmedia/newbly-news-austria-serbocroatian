@@ -2,26 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 7652,
-      "articlePartsSize" : 33,
-      "articleWordCount" : 1005,
-      "id" : "IRm075iO",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/6/5950742/zzz_1615638247618176_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "ÖVP fordert Suspendierung von Spitzenbeamten im Gesundheitsministerium",
-      "titleTarget" : "ÖVP poziva na suspenziju najviših dužnosnika u Ministarstvu zdravstva",
-      "url" : "https://www.diepresse.com/5950742/Impfstoffverteilung_OeVP-fordert-Suspendierung-von-Spitzenbeamten?from=rss"
-    }, {
-      "articleLength" : 4299,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 553,
-      "id" : "AFPGSf7W",
-      "imgUrl" : "https://image.kurier.at/images/original/4859487/46-173789602.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Impfstoff-Streit: ÖVP fordert Suspendierung von Beamten im grünen Ministerium",
-      "titleTarget" : "Spor oko cjepiva: ÖVP poziva na suspenziju dužnosnika u zelenom ministarstvu",
-      "url" : "https://kurier.at/politik/inland/impfstoff-streit-oevp-fordert-suspendierung-von-beamten-im-gruenen-ministerium/401217378"
-    }, {
       "articleLength" : 3052,
       "articlePartsSize" : 15,
       "articleWordCount" : 440,
@@ -32,6 +12,55 @@
       "titleTarget" : "Vladin rad: 42 posto je zadovoljno, 55 posto nije",
       "url" : "https://kurier.at/politik/inland/regierungsarbeit-42-prozent-sind-zufrieden-55-prozent-sind-es-nicht/401217705"
     }, {
+      "articleLength" : 2352,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 368,
+      "id" : "3KoqAldI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/8/5951128/34049FC1-CC18-4A23-A1EB-AE4AA007B146_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Bundespräsident nach einem Jahr Corona: \"Niemand wurde verschont\"",
+      "titleTarget" : "Savezni predsjednik nakon godinu dana Corone: \"Nitko nije pošteđen\"",
+      "url" : "https://www.diepresse.com/5951128/TVAnsprache_Bundespraesident-nach-einem-Jahr-Corona_Niemand-wurde?from=rss"
+    }, {
+      "articleLength" : 654,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 100,
+      "id" : "AKwELM54",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/a/d/5951149/CORONA-IMPFUNG-IMPFAKTION-UND-AUSREISETESTPFLICHT-BEZIRK-SCHWAZ-PRESSEKONFERENZ-PLATTER_1615728844674941.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Platter bei Skitourenunfall an Wirbelsäule verletzt",
+      "titleTarget" : "Platterova kralježnica ozlijeđena u nesreći na turnom skijanju",
+      "url" : "https://www.diepresse.com/5951149/Platter-bei-Skitourenunfall-an-Wirbelsaeule-verletzt?from=rss"
+    }, {
+      "articleLength" : 3127,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 429,
+      "id" : "Ho07LoAC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/8/5951064/11DBBB04-462F-4791-9DA8-4EF7EBC3CC1C_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "U-Ausschuss: Ex-ÖVP-Chef Mitterlehner soll Einblicke ins \"alte System\" geben",
+      "titleTarget" : "U-odbor: Bivši šef ÖVP-a Mitterlehner trebao bi dati uvid u \"stari sustav\"",
+      "url" : "https://www.diepresse.com/5951064/Ausblick_UAusschuss_ExOeVPChef-Mitterlehner-soll-Einblicke-ins?from=rss"
+    }, {
+      "articleLength" : 2758,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 403,
+      "id" : "2j75MsmB",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Mehrheit der Österreicher mit Regierungsarbeit unzufrieden",
+      "titleTarget" : "Većina Austrijanaca nezadovoljna vladinim radom",
+      "url" : "https://www.derstandard.at/story/2000125025764/mehrheit-der-oesterreicher-mit-regierungsarbeit-unzufrieden?ref=rss"
+    }, {
+      "articleLength" : 2132,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 330,
+      "id" : "eWJKqQpO",
+      "imgUrl" : "https://image.kurier.at/images/original/4999779/46-176384523.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Bundespräsident bittet um Zusammenhalt und gedenkt der Toten",
+      "titleTarget" : "Savezni predsjednik traži koheziju i komemorira mrtve",
+      "url" : "https://kurier.at/politik/inland/bundespraesident-bittet-um-zusammenhalt-und-gedenkt-der-toten/401217936"
+    }, {
       "articleLength" : 8992,
       "articlePartsSize" : 41,
       "articleWordCount" : 1324,
@@ -40,66 +69,47 @@
       "titleSource" : "Hält die Koalition auch noch den Impfstreit aus?",
       "titleTarget" : "Hoće li koalicija i dalje izdržati spor oko cijepljenja?",
       "url" : "https://www.derstandard.at/story/2000125006894/haelt-die-koalition-auch-noch-den-impfstreit-aus?ref=rss"
-    }, {
-      "articleLength" : 948,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 124,
-      "id" : "Sdk37Lyu",
-      "imgUrl" : "https://image.kurier.at/images/original/4999419/46-175868678.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Rekordbedarf beim Zivildienst: \"Ohne unsere Zivis wird es eng\"",
-      "titleTarget" : "Rekordna potražnja za društveno korisnim radom: \"Bez naše državne službe bit će tijesno\"",
-      "url" : "https://kurier.at/politik/inland/rekordbedarf-beim-zivildienst-ohne-unsere-zivis-wird-es-eng/401217714"
-    }, {
-      "articleLength" : 8793,
-      "articlePartsSize" : 42,
-      "articleWordCount" : 1239,
-      "id" : "3OY2mtCr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Umstrittene Ages: Neigen die Viren-Überwacher zur Verharmlosung?",
-      "titleTarget" : "Kontroverzna dob: nastoje li nadglednici virusa umanjiti rezultat?",
-      "url" : "https://www.derstandard.at/story/2000124994571/umstrittene-ages-neigen-die-viren-ueberwacher-zur-verharmlosung?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1782,
+      "articleLength" : 2265,
       "articlePartsSize" : 9,
-      "articleWordCount" : 244,
-      "id" : "sHTEzO8x",
-      "imgUrl" : "https://image.kurier.at/images/original/4945051/20210217-ABD0073-1-1.jpg",
+      "articleWordCount" : 299,
+      "id" : "dLkC8d69",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/9/a/5951130/AF171A6D-A77A-4FA7-BDC1-B46ABF49E67B_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Umfrage: Nicht einmal ein Drittel der Vorarlberger Wirte wollen fix öffnen",
+      "titleTarget" : "Anketa: Ni trećina gostionica Vorarlberga ne želi trajno otvoriti",
+      "url" : "https://www.diepresse.com/5951130/TestRegion_Umfrage_Nicht-einmal-ein-Drittel-der-Vorarlberger?from=rss"
+    }, {
+      "articleLength" : 3926,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 594,
+      "id" : "s8bKqLXg",
+      "imgUrl" : "https://image.kurier.at/images/original/4996614/46-176255413.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Kocher plant Reform des Arbeitslosengeldes",
-      "titleTarget" : "Kocher planira reformirati naknade za nezaposlene",
-      "url" : "https://kurier.at/wirtschaft/kocher-plant-reform-des-arbeitslosengeldes/401217387"
+      "titleSource" : "Das Leben der Studis: „Am schlimmsten ist  die Einsamkeit“",
+      "titleTarget" : "Život učenika: \"Najgore od svega je usamljenost\"",
+      "url" : "https://kurier.at/wirtschaft/karriere/das-leben-der-studis-am-schlimmsten-ist-die-einsamkeit/401216319"
     }, {
-      "articleLength" : 474,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 65,
-      "id" : "7sUgrvw9",
-      "imgUrl" : "https://image.kurier.at/images/original/4418330/10595789.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Bitcoin erstmals über 60.000 Dollar",
-      "titleTarget" : "Bitcoin prvi put preko 60 000 američkih dolara",
-      "url" : "https://kurier.at/wirtschaft/bitcoin-erstmals-ueber-60000-dollar/401217519"
-    }, {
-      "articleLength" : 6829,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 983,
-      "id" : "GTLZLtBI",
+      "articleLength" : 12816,
+      "articlePartsSize" : 54,
+      "articleWordCount" : 2015,
+      "id" : "uRHWdtve",
       "publisher" : "derstandard.at",
-      "titleSource" : "Hygiene Austria: Wie aus einem Zufallsfund ein Maskenskandal wurde",
-      "titleTarget" : "Higijena Austrija: Kako se slučajno otkriće pretvorilo u skandal s maskama",
-      "url" : "https://www.derstandard.at/story/2000125011151/hygiene-austria-wie-aus-einem-zufallsfund-ein-maskenskandal-wurde?ref=rss"
+      "titleSource" : "Fabios-Chef Giacobello: \"Viele haben nicht begriffen, dass wir in einer Pandemie leben\"",
+      "titleTarget" : "Šef Fabiosa Giacobello: \"Mnogi nisu razumjeli da živimo u pandemiji\"",
+      "url" : "https://www.derstandard.at/story/2000125003064/fabios-chef-giacobello-viele-haben-nicht-begriffen-dass-wir-in?ref=rss"
     }, {
-      "articleLength" : 1594,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 220,
-      "id" : "LHBbRcOI",
+      "articleLength" : 5524,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 747,
+      "id" : "mN7YVIrk",
       "publisher" : "derstandard.at",
-      "titleSource" : "Gewessler will bei EU-Wiederaufbaufonds mehr Geld für Klimaschutz einsetzen",
-      "titleTarget" : "Gewessler želi iskoristiti više novca za zaštitu klime u fondu EU za obnovu",
-      "url" : "https://www.derstandard.at/story/2000125022390/gewessler-will-bei-eu-wiederaufbaufonds-mehr-geld-fuer-klimaschutz-einsetzen?ref=rss"
+      "titleSource" : "Ein Jahr Pandemie: Der tiefe Sturz der österreichischen Wirtschaft",
+      "titleTarget" : "Godina pandemije: duboki pad austrijskog gospodarstva",
+      "url" : "https://www.derstandard.at/story/2000125009851/ein-jahr-pandemie-der-tiefe-sturz-der-oesterreichischen-wirtschaft?ref=rss"
     }, {
       "articleLength" : 1942,
       "articlePartsSize" : 8,
@@ -110,59 +120,19 @@
       "titleSource" : "Max Schrems gegen Facebook: Höchstrichter müssen knifflige Frage entscheiden",
       "titleTarget" : "Max Schrems naspram Facebooka: Vrhovni suci moraju odlučiti škakljivo pitanje",
       "url" : "https://kurier.at/wirtschaft/max-schrems-gegen-facebook-hoechstrichter-muessen-knifflige-frage-entscheiden/401217720"
-    }, {
-      "articleLength" : 2242,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 304,
-      "id" : "KqAgaeGk",
-      "imgUrl" : "https://image.kurier.at/images/original/4909852/81690356758710016_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "US-Gericht setzt Maßnahmen gegen Xiaomi aus",
-      "titleTarget" : "Američki sud obustavio akciju protiv Xiaomija",
-      "url" : "https://kurier.at/wirtschaft/us-gericht-setzt-massnahmen-gegen-xiaomi-aus/401217468"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 3040,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 407,
-      "id" : "J5QwJ6tN",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/a/0/5950880/C98938F1-142C-41F2-935A-A9EBC5BE61B9_v0_l.jpg",
+      "articleLength" : 1780,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 255,
+      "id" : "AGJzSFhd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/8/a/5951114/62B1C5F7-A761-41A1-9B46-C2C98DC3089C_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Bisher eine Million Dosen in Österreich verimpft",
-      "titleTarget" : "Do sada je u Austriji cijepljeno milijun doza",
-      "url" : "https://www.diepresse.com/5950880/Oesterreich_Bisher-eine-Million-Dosen-in-Oesterreich-verimpft?from=rss"
-    }, {
-      "articleLength" : 2906,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 391,
-      "id" : "2itLKN8C",
-      "imgUrl" : "https://image.kurier.at/images/original/4998192/46-176340109.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Impfung: Bisher eine Million Dosen in Österreich verimpft",
-      "titleTarget" : "Cijepljenje koronom: Do sada je u Austriji cijepljeno milijun doza",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-impfung-bisher-eine-million-dosen-in-oesterreich-verimpft/401217579"
-    }, {
-      "articleLength" : 2361,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 343,
-      "id" : "v7Q8bhwq",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/c/5950828/CAF51422-C845-49E8-87EA-14D1E48F7E4B_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neuinfektionen bleiben über 3000 - Inzidenz bei 200er-Marke",
-      "titleTarget" : "Nove infekcije ostaju iznad 3000 - incidencija na oznaci 200",
-      "url" : "https://www.diepresse.com/5950828/Oesterreich_Neuinfektionen-bleiben-ueber-3000-Inzidenz-bei-200erMarke?from=rss"
-    }, {
-      "articleLength" : 2790,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 379,
-      "id" : "2zUBM8yK",
-      "imgUrl" : "https://image.kurier.at/images/original/4961788/20210224-ABD0122-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Keine Entscheidung über Lockerungen am Montag",
-      "titleTarget" : "U ponedjeljak nema odluke o popuštanju",
-      "url" : "https://kurier.at/chronik/oesterreich/keine-entscheidung-ueber-lockerungen-am-montag/401217432"
+      "titleSource" : "2500 Neuinfizierte mit Sars-CoV-2 in Österreich",
+      "titleTarget" : "2500 novoinficiranih ljudi s Sars-CoV-2 u Austriji",
+      "url" : "https://www.diepresse.com/5951114/Statistik_2500-Neuinfizierte-mit-SarsCoV2-in-Oesterreich?from=rss"
     }, {
       "articleLength" : 2073,
       "articlePartsSize" : 9,
@@ -174,27 +144,76 @@
       "titleTarget" : "Ukratko: trajno zaključavanje donosi \"maksimalnu štetu\"",
       "url" : "https://kurier.at/chronik/oesterreich/kurz-dauerlockdown-bringt-maximalen-schaden/401217708"
     }, {
-      "articleLength" : 6564,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 908,
-      "id" : "zaL2r7SN",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Finanzministerium hat Kaufverträge für Impfstoffmengen genehmigt",
-      "titleTarget" : "Ministarstvo financija odobrilo je ugovore o otkupu količina cjepiva",
-      "url" : "https://www.derstandard.at/story/2000125020218/finanzministerium-hat-kaufvertraege-fuer-reduzierte-impfstoffmengen-genehmigt?ref=rss"
+      "articleLength" : 2890,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 408,
+      "id" : "PE1GaIft",
+      "imgUrl" : "https://image.kurier.at/images/original/4999614/46-175871552.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "August Wöginger verordnet dem ÖAAB eine Reformdebatte",
+      "titleTarget" : "August Wöginger propisuje reformsku raspravu za ÖAAB",
+      "url" : "https://kurier.at/chronik/oesterreich/august-woeginger-verordnet-dem-oeaab-eine-reformdebatte/401217900"
     }, {
-      "articleLength" : 4122,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 540,
-      "id" : "n77aN8sR",
+      "articleLength" : 3482,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 524,
+      "id" : "FdLdJmBu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/7/1/5951089/30F785E6-C760-439F-BACB-51868B11E445_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Der Winter kommt zurück: Wochenauftakt mit Schneefall bis in tiefe Lagen",
+      "titleTarget" : "Zima se vraća: tjedan započinje snježnim padalinama do najdubljih kota",
+      "url" : "https://www.diepresse.com/5951089/Wetter_Der-Winter-kommt-zurueck_Wochenauftakt-mit-Schneefall-bis?from=rss"
+    }, {
+      "articleLength" : 28,
+      "articlePartsSize" : 1,
+      "articleWordCount" : 4,
+      "id" : "NZBreZun",
       "publisher" : "derstandard.at",
-      "titleSource" : "Streit um Impfungen löst koalitionsinternen Konflikt in Österreich aus",
-      "titleTarget" : "Spor oko cijepljenja pokreće sukob unutar koalicije u Austriji",
-      "url" : "https://www.derstandard.at/story/2000125019763/streit-um-impfungenoevp-fordert-suspendierungen-im-gesundheitsressort?ref=rss"
+      "titleSource" : "2.503 Neuinfektionen, EU weist Beschwerde Österreichs über Impfstoffverteilung zurück",
+      "titleTarget" : "2.503 nove infekcije, EU odbacuje žalbu Austrije na distribuciju cjepiva",
+      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125025353/eu-kommissionsvize-raeumt-fehler-bei-impfstoff-beschaffung-ein?ref=rss"
+    }, {
+      "articleLength" : 1576,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "CIBoqrk3",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Frau brach vor Impfstraße in Wien zusammen und starb",
+      "titleTarget" : "Žena se srušila ispred Impfstrasse u Beču i umrla",
+      "url" : "https://www.diepresse.com/5951160/Frau-brach-vor-Impfstrasse-in-Wien-zusammen-und-starb?from=rss"
+    }, {
+      "articleLength" : 1256,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 162,
+      "id" : "FPcT7ptO",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Polizei löst Feier am Yppenplatz in Wien-Ottakring auf",
+      "titleTarget" : "Policija raspušta proslavu na Yppenplatzu u Beču-Ottakring",
+      "url" : "https://www.diepresse.com/5951140/Polizei-loest-Feier-am-Yppenplatz-in-WienOttakring-auf?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "articleLength" : 2250,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 347,
+      "id" : "XtTTFasj",
+      "imgUrl" : "https://image.kurier.at/images/original/4998114/46-176342651.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Christina Scherrer: Sie verstärkt das Wiener „Tatort“-Team",
+      "titleTarget" : "Christina Scherrer: Jača bečki tim \"Tatort\"",
+      "url" : "https://kurier.at/kultur/medien/christina-scherrer-sie-verstaerkt-das-wiener-tatort-team/401217084"
+    }, {
+      "articleLength" : 3054,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 432,
+      "id" : "4Zp6o7Mr",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/d/5951069/Unbenannt-1_161571442440587.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Jan Böhmermanns Rundumschlag gegen Ischgl",
+      "titleTarget" : "Svestrani udarac Jana Böhmermanna protiv Ischgla",
+      "url" : "https://www.diepresse.com/5951069/Coronavirus_Jan-Boehmermanns-Rundumschlag-gegen-Ischgl?from=rss"
+    }, {
       "articleLength" : 3524,
       "articlePartsSize" : 18,
       "articleWordCount" : 477,
@@ -204,6 +223,26 @@
       "titleSource" : "\"Bild\"-Chefredakteur Reichelt befristet freigestellt",
       "titleTarget" : "Glavni urednik \"Bild\" Reichelt pušten je na određeno vrijeme",
       "url" : "https://www.diepresse.com/5951050/Deutschland_BildChefredakteur-Reichelt-befristet-freigestellt?from=rss"
+    }, {
+      "articleLength" : 1786,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 245,
+      "id" : "72Qh4cb2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/7/d/5951101/135BCB86-9CF2-47DF-9F54-4363D5F0C072_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Theatermacher Piero Bordin 73-jährig gestorben",
+      "titleTarget" : "Kazališni umjetnik Piero Bordin umro je u 73. godini",
+      "url" : "https://www.diepresse.com/5951101/Todesfall_Theatermacher-Piero-Bordin-73jaehrig-gestorben?from=rss"
+    }, {
+      "articleLength" : 2397,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 296,
+      "id" : "1boCy0Cu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/5/5951125/0586225A-F492-4EA1-BFD8-73921DABFDF3_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Burgtheater-Direktor Kušej: \"Zuschauerraum ist ein sicherer Ort",
+      "titleTarget" : "Ravnatelj Burgtheatra Kušej: \"Gledalište je sigurno mjesto",
+      "url" : "https://www.diepresse.com/5951125/Lockdown_BurgtheaterDirektor-Kusej_Zuschauerraum-ist-ein-sicherer-Ort?from=rss"
     }, {
       "articleLength" : 1374,
       "articlePartsSize" : 7,
@@ -215,66 +254,18 @@
       "titleTarget" : "Glavni urednik \"Bild\" Reichelt pušten je na određeno vrijeme",
       "url" : "https://kurier.at/kultur/medien/bild-chefredakteur-reichelt-befristet-freigestellt/401217627"
     }, {
-      "articleLength" : 5939,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 939,
-      "id" : "uTfeMw8z",
-      "imgUrl" : "https://image.kurier.at/images/original/4998825/46-176275889.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Franz Schuh: „Ich gestehe, dass ich sehr grantig bin“",
-      "titleTarget" : "Franz Schuh: \"Priznajem da sam vrlo mrzovoljan\"",
-      "url" : "https://kurier.at/kultur/buch/franz-schuh-ich-gestehe-dass-ich-sehr-grantig-bin/401217456"
-    }, {
-      "articleLength" : 5056,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 710,
-      "id" : "I01SDnkv",
+      "articleLength" : 5339,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 741,
+      "id" : "lHqhcNVw",
       "publisher" : "derstandard.at",
-      "titleSource" : "Wir stehen am Abgrund",
-      "titleTarget" : "Stojimo na rubu",
-      "url" : "https://www.derstandard.at/story/2000124996254/wir-stehen-am-abgrund?ref=rss"
-    }, {
-      "articleLength" : 468,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 66,
-      "id" : "Wng02BUr",
-      "imgUrl" : "https://image.kurier.at/images/original/4998870/46-164797166.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Lukrativster Kinofilm der Geschichte: \"Avatar“ überholte die \"Avengers“",
-      "titleTarget" : "Najunosniji film u povijesti: \"Avatar\" pretekao \"Osvetnike\"",
-      "url" : "https://kurier.at/kultur/lukrativster-kinofilm-der-geschichte-avatar-ueberholte-die-avengers/401217489"
-    }, {
-      "articleLength" : 8325,
-      "articlePartsSize" : 35,
-      "articleWordCount" : 1186,
-      "id" : "NzkM5a4L",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Autorin Sabine Scholl: Absagen und unsichtbare Gegner",
-      "titleTarget" : "Autorica Sabine Scholl: Odbijanja i nevidljivi protivnici",
-      "url" : "https://www.derstandard.at/story/2000124998475/autorin-sabine-scholl-absagen-und-unsichtbare-gegner?ref=rss"
+      "titleSource" : "Kassensturz: Wie soll die Kulturfinanzierung der Zukunft aussehen?",
+      "titleTarget" : "Kassensturz: Kako bi financiranje kulture trebalo izgledati u budućnosti?",
+      "url" : "https://www.derstandard.at/story/2000125006488/kassensturz-wie-soll-die-kulturfinanzierung-der-zukunft-aussehen?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 688,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 87,
-      "id" : "RWErTaKj",
-      "imgUrl" : "https://image.kurier.at/images/original/4998852/46-176368544.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Internationale Thrombose-Gesellschaft empfiehlt Astra Zeneca weiterhin",
-      "titleTarget" : "Međunarodno društvo za trombozu i dalje preporučuje Astru Zenecu",
-      "url" : "https://kurier.at/wissen/gesundheit/internationale-thrombose-gesellschaft-empfiehlt-astra-zeneca-weiterhin/401217474"
-    }, {
-      "articleLength" : 8773,
-      "articlePartsSize" : 40,
-      "articleWordCount" : 1248,
-      "id" : "bDWZbeMU",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie lange dauert es noch?",
-      "titleTarget" : "Koliko dugo će to trajati?",
-      "url" : "https://www.derstandard.at/story/2000125005282/wie-lange-dauert-es-noch?ref=rss"
-    }, {
       "articleLength" : 6495,
       "articlePartsSize" : 28,
       "articleWordCount" : 990,
@@ -287,44 +278,15 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2491,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 383,
-      "id" : "1nWA7u0W",
-      "imgUrl" : "https://image.kurier.at/images/original/4998855/46-176368546.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Liensberger beendet mit Sieg lange Durststrecke der ÖSV-Damen",
-      "titleTarget" : "Liensberger pobjedom završava dugu suhu čaroliju žena ÖSV",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-katharina-liensberger-sorgt-fuer-ersten-saison-sieg-der-oesv-damen/401217306"
-    }, {
-      "articleLength" : 964,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 141,
-      "id" : "XUQASYF0",
-      "imgUrl" : "https://image.kurier.at/images/original/4998639/schiri.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Brasilianischer Schiedsrichter urinierte am Mittelkreis",
-      "titleTarget" : "Brazilski sudac mokrio se po središnjem krugu",
-      "url" : "https://kurier.at/sport/fussball/skandal-brasilianischer-schiedsrichter-urinierte-am-mittelkreis-vor-spielanpfiff/401217339"
-    }, {
-      "articleLength" : 2411,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 368,
-      "id" : "4Xl9WM6A",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/5/5950821/055658CA-D2FE-492C-A7B8-0C3F45F31F2F_v0_l.jpg",
+      "articleLength" : 826,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 124,
+      "id" : "EZZWTbE6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/6/5951126/6C92ED92-8F6B-4B96-B3F1-900F61056F26_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Marco Odermatt siegt überlegen in Kranjska Gora",
-      "titleTarget" : "Marco Odermatt pobjeđuje u Kranjskoj Gori",
-      "url" : "https://www.diepresse.com/5950821/Marco-Odermatt-siegt-ueberlegen-in-Kranjska-Gora?from=rss"
-    }, {
-      "articleLength" : 1714,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 240,
-      "id" : "8W5Bpemp",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Niederländischer Rasenhersteller boykottiert Fußball-WM in Katar",
-      "titleTarget" : "Nizozemski proizvođač travnjaka bojkotira Svjetski kup u Kataru",
-      "url" : "https://www.derstandard.at/story/2000125019235/niederlaendischer-rasenhersteller-boykottiert-fussball-wm-in-katar?ref=rss"
+      "titleSource" : "Marco Schwarz holt sich die Slalom-Kugel",
+      "titleTarget" : "Marco Schwarz dobiva slalomsku loptu",
+      "url" : "https://www.diepresse.com/5951126/Marco-Schwarz-holt-sich-die-SlalomKugel?from=rss"
     }, {
       "articleLength" : 2899,
       "articlePartsSize" : 12,
@@ -336,24 +298,53 @@
       "titleTarget" : "Laka osveta Salzburga protiv Admire",
       "url" : "https://www.diepresse.com/5950986/Salzburgs-lockere-Revanche-gegen-die-Admira?from=rss"
     }, {
-      "articleLength" : 1226,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 187,
-      "id" : "L7TouU2O",
-      "imgUrl" : "https://image.kurier.at/images/original/4999536/09d9678b-43fc-497b-a4de-fe4789dc9bdc.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Hirscher sorgt mit spektakulärem Freeride-Stunt für Staunen",
-      "titleTarget" : "Hirscher zadivljuje spektakularnim vratolomijskim potezom",
-      "url" : "https://kurier.at/sport/wintersport/ex-ski-superstar-hirscher-sorgt-mit-spektakulaerem-freeride-stunt-fuer-staunen/401217765"
-    }, {
-      "articleLength" : 6896,
-      "articlePartsSize" : 31,
-      "articleWordCount" : 1101,
-      "id" : "Z7IM8uds",
+      "articleLength" : 923,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 143,
+      "id" : "rbtfc3hD",
       "publisher" : "derstandard.at",
-      "titleSource" : "Liensberger holt ersten Weltcupsieg im Åre-Slalom",
-      "titleTarget" : "Liensberger osvaja prvu pobjedu u Svjetskom kupu u slalomu Åre",
-      "url" : "https://www.derstandard.at/story/2000125019123/liensberger-jagt-shiffrin-im-aare-slalom?ref=rss"
+      "titleSource" : "Legendärer US-Boxer \"Marvelous\" Marvin Hagler gestorben",
+      "titleTarget" : "Legendarni američki boksač \"Čudesni\" Marvin Hagler umro je",
+      "url" : "https://www.derstandard.at/story/2000125025552/legendaerer-us-boxer-hagler-gestorben?ref=rss"
+    }, {
+      "articleLength" : 1874,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 275,
+      "id" : "ONLoq7jX",
+      "publisher" : "derstandard.at",
+      "titleSource" : "\"Ja, warum nicht Lothar?\": Beckenbauer traut Matthäus Löw-Nachfolge zu",
+      "titleTarget" : "„Da, zašto ne i Lothar?“: Beckenbauer vjeruje nasljedniku Matthäusa Löwa",
+      "url" : "https://www.derstandard.at/story/2000125026240/ja-warum-nicht-lothar-beckenbauer-traut-matthaeus-loew-nachfolge-zu?ref=rss"
+    }, {
+      "articleLength" : 4752,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 692,
+      "id" : "HrwH8ugf",
+      "imgUrl" : "https://image.kurier.at/images/original/4999827/46-175743922.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Marco Schwarz sichert dem ÖSV erste Kristallkugel",
+      "titleTarget" : "Marco Schwarz osigurava prvu kristalnu kuglu za ÖSV",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-marco-schwarz-gewinner-der-slalom-kristallkugel/401217771"
+    }, {
+      "articleLength" : 4752,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 692,
+      "id" : "hR7aI6E6",
+      "imgUrl" : "https://image.kurier.at/images/original/4999653/46-176383339.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Live: Marco Schwarz greift nach der Slalom-Kristallkugel",
+      "titleTarget" : "Uživo: Marco Schwarz poseže za kristalnom loptom u slalomu",
+      "url" : "https://kurier.at/sport/wintersport/marco-schwarz-greift-in-kranjska-gora-nach-der-kristallkugel/401217771"
+    }, {
+      "articleLength" : 3950,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 590,
+      "id" : "7E0oJqGe",
+      "imgUrl" : "https://image.kurier.at/images/original/4999368/46-176379149.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Boxen: Trauer um US-Legende Marvin Hagler",
+      "titleTarget" : "Boks: oplakana američka legenda Marvin Hagler",
+      "url" : "https://kurier.at/sport/boxen-trauer-um-us-legende-marvin-hagler/401217693"
     } ]
   } ],
   "country" : "austria",
