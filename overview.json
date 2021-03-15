@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2352,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 368,
-      "id" : "3KoqAldI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/8/5951128/34049FC1-CC18-4A23-A1EB-AE4AA007B146_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Bundespräsident nach einem Jahr Corona: \"Niemand wurde verschont\"",
-      "titleTarget" : "Savezni predsjednik nakon godinu dana Corone: \"Nitko nije pošteđen\"",
-      "url" : "https://www.diepresse.com/5951128/TVAnsprache_Bundespraesident-nach-einem-Jahr-Corona_Niemand-wurde?from=rss"
-    }, {
       "articleLength" : 2132,
       "articlePartsSize" : 9,
       "articleWordCount" : 330,
@@ -22,33 +12,15 @@
       "titleTarget" : "Savezni predsjednik traži koheziju i komemorira mrtve",
       "url" : "https://kurier.at/politik/inland/bundespraesident-bittet-um-zusammenhalt-und-gedenkt-der-toten/401217936"
     }, {
-      "articleLength" : 8793,
-      "articlePartsSize" : 42,
-      "articleWordCount" : 1239,
-      "id" : "3OY2mtCr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Umstrittene Ages: Neigen die Viren-Überwacher zur Verharmlosung?",
-      "titleTarget" : "Kontroverzna dob: nastoje li nadglednici virusa umanjiti rezultat?",
-      "url" : "https://www.derstandard.at/story/2000124994571/umstrittene-ages-neigen-die-viren-ueberwacher-zur-verharmlosung?ref=rss"
-    }, {
-      "articleLength" : 2758,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 403,
-      "id" : "2j75MsmB",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mehrheit der Österreicher mit Regierungsarbeit unzufrieden",
-      "titleTarget" : "Većina Austrijanaca nezadovoljna vladinim radom",
-      "url" : "https://www.derstandard.at/story/2000125025764/mehrheit-der-oesterreicher-mit-regierungsarbeit-unzufrieden?ref=rss"
-    }, {
-      "articleLength" : 948,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 124,
-      "id" : "Sdk37Lyu",
-      "imgUrl" : "https://image.kurier.at/images/original/4999419/46-175868678.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Rekordbedarf beim Zivildienst: \"Ohne unsere Zivis wird es eng\"",
-      "titleTarget" : "Rekordna potražnja za društveno korisnim radom: \"Bez naše državne službe bit će tijesno\"",
-      "url" : "https://kurier.at/politik/inland/rekordbedarf-beim-zivildienst-ohne-unsere-zivis-wird-es-eng/401217714"
+      "articleLength" : 4477,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 606,
+      "id" : "DJXRo3oq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/5/e/5951326/84CB7D5F-8F84-4281-A0A0-CAD47E27AF60_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Anschober zieht Spitzenbeamten Auer aus EU-Impfprogramm ab",
+      "titleTarget" : "Anschober povlači najviše dužnosnike Auer iz programa cijepljenja EU",
+      "url" : "https://www.diepresse.com/5951326/CoronaPandemie_Anschober-zieht-Spitzenbeamten-Auer-aus?from=rss"
     }, {
       "articleLength" : 3168,
       "articlePartsSize" : 13,
@@ -60,29 +32,47 @@
       "titleTarget" : "SPÖ i FPÖ krivnju za kaos cijepljenja vide u Kurzu",
       "url" : "https://kurier.at/politik/inland/spoe-und-fpoe-sehen-schuld-fuer-impf-chaos-bei-kurz/401217948"
     }, {
-      "articleLength" : 654,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 100,
-      "id" : "AKwELM54",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/a/d/5951149/CORONA-IMPFUNG-IMPFAKTION-UND-AUSREISETESTPFLICHT-BEZIRK-SCHWAZ-PRESSEKONFERENZ-PLATTER_1615728844674941.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Platter bei Skitourenunfall an Wirbelsäule verletzt",
-      "titleTarget" : "Platterova kralježnica ozlijeđena u nesreći na turnom skijanju",
-      "url" : "https://www.diepresse.com/5951149/Platter-bei-Skitourenunfall-an-Wirbelsaeule-verletzt?from=rss"
+      "articleLength" : 1885,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 269,
+      "id" : "BLus6Uyt",
+      "imgUrl" : "https://image.kurier.at/images/original/5000823/46-176347369.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Österreich Trend\": Kurz sinkt in Kanzlerfrage, aber ohne Konkurrenz",
+      "titleTarget" : "\"Austria Trend\": Kurz odbija u pitanju kancelarke, ali bez konkurencije",
+      "url" : "https://kurier.at/politik/inland/oesterreich-trend-kurz-sinkt-in-kanzlerfrage-aber-ohne-konkurrenz/401218263"
+    }, {
+      "articleLength" : 3409,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 470,
+      "id" : "f8mGXJKU",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Auer nicht mehr Teil des Impfprogramms im Gesundheitsministerium",
+      "titleTarget" : "Osim što više nije dio programa cijepljenja u Ministarstvu zdravstva",
+      "url" : "https://www.derstandard.at/story/2000125038124/auer-nicht-mehr-teil-des-impfprogramms-im-gesundheitsministerium?ref=rss"
+    }, {
+      "articleLength" : 2012,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 279,
+      "id" : "8v0nT5n0",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Clemens Martin Auer: Ein schwarzes Feindbild für den Kanzler",
+      "titleTarget" : "Clemens Martin Auer: Crna prilika neprijatelja za kancelara",
+      "url" : "https://www.derstandard.at/story/2000125035412/clemens-martin-auer-ein-schwarzes-feindbild-fuer-den-kanzler?ref=rss"
+    }, {
+      "articleLength" : 1454,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 191,
+      "id" : "WUSEZNJ0",
+      "imgUrl" : "https://image.kurier.at/images/original/4999659/46-175963674.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Gastro-Öffnung: Nur jeder dritte Wirt im Ländle will aufsperren",
+      "titleTarget" : "Gastro otvaranje: samo svaki treći stanodavac želi otvoriti",
+      "url" : "https://kurier.at/politik/inland/gastro-oeffnung-nur-jeder-dritte-wirt-im-laendle-sperrt-auf/401217894"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 3926,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 594,
-      "id" : "s8bKqLXg",
-      "imgUrl" : "https://image.kurier.at/images/original/4996614/46-176255413.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Das Leben der Studis: „Am schlimmsten ist  die Einsamkeit“",
-      "titleTarget" : "Život učenika: \"Najgore od svega je usamljenost\"",
-      "url" : "https://kurier.at/wirtschaft/karriere/das-leben-der-studis-am-schlimmsten-ist-die-einsamkeit/401216319"
-    }, {
       "articleLength" : 2265,
       "articlePartsSize" : 9,
       "articleWordCount" : 299,
@@ -103,14 +93,43 @@
       "titleTarget" : "Molim? Njemački ministar prometa za kraj benzina i dizela do 2035",
       "url" : "https://kurier.at/wirtschaft/wie-bitte-deutscher-verkehrsminister-fuer-ende-von-benzinern-und-diesel-bis-2035/401217879"
     }, {
-      "articleLength" : 12816,
-      "articlePartsSize" : 54,
-      "articleWordCount" : 2015,
-      "id" : "uRHWdtve",
+      "articleLength" : 4887,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 682,
+      "id" : "tZBvLaCe",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/b/b/2/5950386/EEB418DC-BF26-4ECC-8674-94D492DA495E_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Eine gute Nachricht für Österreich",
+      "titleTarget" : "Dobre vijesti za Austriju",
+      "url" : "https://www.diepresse.com/5950386/Der-oekonomische-Blick_Eine-gute-Nachricht-fuer-Oesterreich?from=rss"
+    }, {
+      "articleLength" : 3312,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 459,
+      "id" : "zPWdYOra",
+      "imgUrl" : "https://image.kurier.at/images/original/3076326/78370011345561848_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Eurowings stockt Flüge von Deutschland nach Mallorca auf",
+      "titleTarget" : "Eurowings povećava letove iz Njemačke za Mallorcu",
+      "url" : "https://kurier.at/wirtschaft/eurowings-stockt-fluege-von-deutschland-nach-mallorca-auf/401218041"
+    }, {
+      "articleLength" : 5524,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 747,
+      "id" : "mN7YVIrk",
       "publisher" : "derstandard.at",
-      "titleSource" : "Fabios-Chef Giacobello: \"Viele haben nicht begriffen, dass wir in einer Pandemie leben\"",
-      "titleTarget" : "Šef Fabiosa Giacobello: \"Mnogi nisu razumjeli da živimo u pandemiji\"",
-      "url" : "https://www.derstandard.at/story/2000125003064/fabios-chef-giacobello-viele-haben-nicht-begriffen-dass-wir-in?ref=rss"
+      "titleSource" : "Ein Jahr Pandemie: Der tiefe Sturz der österreichischen Wirtschaft",
+      "titleTarget" : "Godina pandemije: duboki pad austrijskog gospodarstva",
+      "url" : "https://www.derstandard.at/story/2000125009851/ein-jahr-pandemie-der-tiefe-sturz-der-oesterreichischen-wirtschaft?ref=rss"
+    }, {
+      "articleLength" : 2487,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 325,
+      "id" : "iqpwxHMg",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Sparprogramm: Volkswagen will Tausende Arbeitsplätze abbauen",
+      "titleTarget" : "Program štednje: Volkswagen želi ukinuti tisuće radnih mjesta",
+      "url" : "https://www.derstandard.at/story/2000125029169/bericht-volkswagen-will-bis-zu-5-000-arbeitsplaetze-abbauen?ref=rss"
     }, {
       "articleLength" : 1141,
       "articlePartsSize" : 5,
@@ -121,59 +140,10 @@
       "titleSource" : "Deutsche Unternehmen sparten bis zu 50 Milliarden bei Dienstreisen",
       "titleTarget" : "Njemačke tvrtke uštedjele su do 50 milijardi na poslovnim putovanjima",
       "url" : "https://kurier.at/wirtschaft/deutsche-unternehmen-sparten-bis-zu-50-milliarden-bei-dienstreisen/401218005"
-    }, {
-      "articleLength" : 2305,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 304,
-      "id" : "zBwJQuXB",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/f/2/7/5951271/The-logo-of-Austrian-real-estate-group-Immofinanz-is-pictured-on-top-of-the-companys-headquarters-building-in-Vienna_161574908570875.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Immofinanz will s Immo übernehmen",
-      "titleTarget" : "Immofinanz želi preuzeti s Immo",
-      "url" : "https://www.diepresse.com/5951271/Immofinanz-will-s-Immo-uebernehmen?from=rss"
-    }, {
-      "articleLength" : 5524,
-      "articlePartsSize" : 25,
-      "articleWordCount" : 747,
-      "id" : "mN7YVIrk",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Ein Jahr Pandemie: Der tiefe Sturz der österreichischen Wirtschaft",
-      "titleTarget" : "Godina pandemije: duboki pad austrijskog gospodarstva",
-      "url" : "https://www.derstandard.at/story/2000125009851/ein-jahr-pandemie-der-tiefe-sturz-der-oesterreichischen-wirtschaft?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2073,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 283,
-      "id" : "2G4Sjptv",
-      "imgUrl" : "https://image.kurier.at/images/original/4981840/20210305-ABD0057-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kurz: Dauerlockdown bringt \"maximalen Schaden\"",
-      "titleTarget" : "Ukratko: trajno zaključavanje donosi \"maksimalnu štetu\"",
-      "url" : "https://kurier.at/chronik/oesterreich/kurz-dauerlockdown-bringt-maximalen-schaden/401217708"
-    }, {
-      "articleLength" : 2890,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 408,
-      "id" : "PE1GaIft",
-      "imgUrl" : "https://image.kurier.at/images/original/4999614/46-175871552.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "August Wöginger verordnet dem ÖAAB eine Reformdebatte",
-      "titleTarget" : "August Wöginger propisuje reformsku raspravu za ÖAAB",
-      "url" : "https://kurier.at/chronik/oesterreich/august-woeginger-verordnet-dem-oeaab-eine-reformdebatte/401217900"
-    }, {
-      "articleLength" : 4510,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 623,
-      "id" : "6lB8DGG8",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "2.503 Neuinfektionen in Österreich",
-      "titleTarget" : "2.503 nove infekcije u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/2503-neuinfektionen-in-oesterreich/401217789"
-    }, {
       "articleLength" : 1780,
       "articlePartsSize" : 8,
       "articleWordCount" : 255,
@@ -183,16 +153,6 @@
       "titleSource" : "2500 Neuinfizierte mit Sars-CoV-2 in Österreich",
       "titleTarget" : "2500 novoinficiranih ljudi s Sars-CoV-2 u Austriji",
       "url" : "https://www.diepresse.com/5951114/Statistik_2500-Neuinfizierte-mit-SarsCoV2-in-Oesterreich?from=rss"
-    }, {
-      "articleLength" : 1349,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 196,
-      "id" : "GsZQSpRW",
-      "imgUrl" : "https://image.kurier.at/images/original/4943365/46-175674231.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Astra Zeneca betont Sicherheit des Impfstoffs + Ö: 2.503 Neuinfektionen",
-      "titleTarget" : "Astra Zeneca naglašava sigurnost cjepiva + Ö: 2.503 nove infekcije",
-      "url" : "https://kurier.at/chronik/oesterreich/die-deutschen-haben-ihr-malle-wieder-neue-faelle-von-blutgerinnsel-nach-impfung/401217687"
     }, {
       "articleLength" : 3482,
       "articlePartsSize" : 15,
@@ -204,65 +164,66 @@
       "titleTarget" : "Zima se vraća: tjedan započinje snježnim padalinama do najdubljih kota",
       "url" : "https://www.diepresse.com/5951089/Wetter_Der-Winter-kommt-zurueck_Wochenauftakt-mit-Schneefall-bis?from=rss"
     }, {
-      "articleLength" : 1576,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 216,
-      "id" : "CIBoqrk3",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Frau brach vor Impfstraße in Wien zusammen und starb",
-      "titleTarget" : "Žena se srušila ispred Impfstrasse u Beču i umrla",
-      "url" : "https://www.diepresse.com/5951160/Frau-brach-vor-Impfstrasse-in-Wien-zusammen-und-starb?from=rss"
+      "articleLength" : 2857,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 376,
+      "id" : "0QvQxAqF",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Irisches Impfkomitee empfiehlt, mit Astra-Zeneca-Impfungen zu pausieren",
+      "titleTarget" : "Irski odbor za cijepljenje preporučuje pauzu s cijepljenjem protiv Astra-Zenece",
+      "url" : "https://www.derstandard.at/story/2000125029448/irisches-impfkomitee-empfiehlt-mit-astra-zeneca-impfungen-zu-pausieren?ref=rss"
+    }, {
+      "articleLength" : 2890,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 408,
+      "id" : "PE1GaIft",
+      "imgUrl" : "https://image.kurier.at/images/original/4999614/46-175871552.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "August Wöginger verordnet dem ÖAAB eine Reformdebatte",
+      "titleTarget" : "August Wöginger propisuje reformsku raspravu za ÖAAB",
+      "url" : "https://kurier.at/chronik/oesterreich/august-woeginger-verordnet-dem-oeaab-eine-reformdebatte/401217900"
+    }, {
+      "articleLength" : 4530,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 637,
+      "id" : "mD9qAb6W",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kanzlerattacken gegen Gesundheitsressort: Am Impfstoff entzweit",
+      "titleTarget" : "Kancelarski napadi na zdravstveni odjel: podijeljeno cjepivo",
+      "url" : "https://www.derstandard.at/story/2000125032848/kanzlerattacken-gegen-gesundheitsressort-am-impfstoff-entzweit?ref=rss"
+    }, {
+      "articleLength" : 1606,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 226,
+      "id" : "j29oqzOb",
+      "imgUrl" : "https://image.kurier.at/images/original/5001222/46-176303390.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "1.896 Neuinfektionen in Österreich + Italien sperrt wieder zu",
+      "titleTarget" : "1.896 novih infekcija u Austriji + Italija ponovno zaključava",
+      "url" : "https://kurier.at/chronik/oesterreich/auch-niederlande-setzen-impfungen-von-astra-zeneca-aus/401218248"
+    }, {
+      "articleLength" : 2822,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 408,
+      "id" : "LlCWWh5k",
+      "imgUrl" : "https://image.kurier.at/images/original/4999707/46-175755643.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Die Woche wird wieder winterlich",
+      "titleTarget" : "Tjedan će opet biti zimski",
+      "url" : "https://kurier.at/chronik/oesterreich/die-woche-wird-wieder-winterlich/401217924"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 3054,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 432,
-      "id" : "4Zp6o7Mr",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/d/5951069/Unbenannt-1_161571442440587.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Jan Böhmermanns Rundumschlag gegen Ischgl",
-      "titleTarget" : "Svestrani udarac Jana Böhmermanna protiv Ischgla",
-      "url" : "https://www.diepresse.com/5951069/Coronavirus_Jan-Boehmermanns-Rundumschlag-gegen-Ischgl?from=rss"
-    }, {
-      "articleLength" : 3524,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 477,
-      "id" : "KBMqRTMM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/4/a/5951050/F025F7F6-F8BB-4D21-BE32-FBBDAB3ACA8A_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Bild\"-Chefredakteur Reichelt befristet freigestellt",
-      "titleTarget" : "Glavni urednik \"Bild\" Reichelt pušten je na određeno vrijeme",
-      "url" : "https://www.diepresse.com/5951050/Deutschland_BildChefredakteur-Reichelt-befristet-freigestellt?from=rss"
-    }, {
-      "articleLength" : 5339,
-      "articlePartsSize" : 25,
-      "articleWordCount" : 741,
-      "id" : "lHqhcNVw",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kassensturz: Wie soll die Kulturfinanzierung der Zukunft aussehen?",
-      "titleTarget" : "Kassensturz: Kako bi financiranje kulture trebalo izgledati u budućnosti?",
-      "url" : "https://www.derstandard.at/story/2000125006488/kassensturz-wie-soll-die-kulturfinanzierung-der-zukunft-aussehen?ref=rss"
-    }, {
-      "articleLength" : 2248,
+      "articleLength" : 1875,
       "articlePartsSize" : 9,
-      "articleWordCount" : 333,
-      "id" : "GYaCBjqh",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Die Krisenkolumne: Heiliger Inkompetenzius, bitte für uns!",
-      "titleTarget" : "Krizna kolumna: Sveta nesposobnost, moli za nas!",
-      "url" : "https://www.derstandard.at/story/2000124994751/die-krisenkolumnedas-irre-comeback-der-freiheitlichen?ref=rss"
-    }, {
-      "articleLength" : 2250,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 347,
-      "id" : "XtTTFasj",
-      "imgUrl" : "https://image.kurier.at/images/original/4998114/46-176342651.jpg",
+      "articleWordCount" : 265,
+      "id" : "XmVTv03S",
+      "imgUrl" : "https://image.kurier.at/images/original/5000955/46-146913220.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Christina Scherrer: Sie verstärkt das Wiener „Tatort“-Team",
-      "titleTarget" : "Christina Scherrer: Jača bečki tim \"Tatort\"",
-      "url" : "https://kurier.at/kultur/medien/christina-scherrer-sie-verstaerkt-das-wiener-tatort-team/401217084"
+      "titleSource" : "Nova Rock-Festival abgesagt",
+      "titleTarget" : "Otkazan Nova Rock Festival",
+      "url" : "https://kurier.at/kultur/das-nova-rock-festival-2021-ist-abgesagt/401218359"
     }, {
       "articleLength" : 726,
       "articlePartsSize" : 4,
@@ -283,22 +244,101 @@
       "titleSource" : "Theatermacher Piero Bordin 73-jährig gestorben",
       "titleTarget" : "Kazališni umjetnik Piero Bordin umro je u 73. godini",
       "url" : "https://www.diepresse.com/5951101/Todesfall_Theatermacher-Piero-Bordin-73jaehrig-gestorben?from=rss"
+    }, {
+      "articleLength" : 1626,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 225,
+      "id" : "OMvSk0bM",
+      "imgUrl" : "https://image.kurier.at/images/original/4999608/46-147684300.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Theatermacher Piero Bordin gestorben",
+      "titleTarget" : "Umro je kazališni umjetnik Piero Bordin",
+      "url" : "https://kurier.at/kultur/theatermacher-piero-bordin-gestorben/401217864"
+    }, {
+      "articleLength" : 2397,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 296,
+      "id" : "1boCy0Cu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/5/5951125/0586225A-F492-4EA1-BFD8-73921DABFDF3_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Burgtheater-Direktor Kušej: \"Zuschauerraum ist ein sicherer Ort",
+      "titleTarget" : "Ravnatelj Burgtheatra Kušej: \"Gledalište je sigurno mjesto",
+      "url" : "https://www.diepresse.com/5951125/Lockdown_BurgtheaterDirektor-Kusej_Zuschauerraum-ist-ein-sicherer-Ort?from=rss"
+    }, {
+      "articleLength" : 20968,
+      "articlePartsSize" : 89,
+      "articleWordCount" : 3245,
+      "id" : "zpbj700K",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Künstler im Lockdown: Was tun, Toni Schmale?",
+      "titleTarget" : "Umjetnici u blokadi: što učiniti, Toni Schmale?",
+      "url" : "https://www.derstandard.at/story/2000123374922/kuenstler-im-lockdown-was-tun-erwin-wurm?ref=rss"
+    }, {
+      "articleLength" : 4369,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 666,
+      "id" : "oSTdZUPz",
+      "imgUrl" : "https://image.kurier.at/images/original/5000772/46-176362544.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Grammys 2021: Triumph für Beyonce, Frauen dominieren",
+      "titleTarget" : "Grammys 2021: Trijumf za Beyonce, žene dominiraju",
+      "url" : "https://kurier.at/kultur/grammys-2021-die-preistraeger-von-kanye-west-bis-beyonces-tochter/401218191"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 6495,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 990,
-      "id" : "9YkcpdwX",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Schluss mit Diäten: \"Wir sollten unser Körperfett mehr schätzen\"",
-      "titleTarget" : "Nema više dijeta: \"Trebali bismo više cijeniti tjelesnu masnoću\"",
-      "url" : "https://www.derstandard.at/story/2000124621212/schluss-mit-diaeten-wir-sollten-unser-koerperfett-mehr-schaetzen?ref=rss"
+      "articleLength" : 3768,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 500,
+      "id" : "Jv9TiFxQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4764750/46-168707829.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wann nach einer COVID-Infektion kann ich mich operieren lassen?",
+      "titleTarget" : "Kada mogu operirati nakon infekcije COVID-om?",
+      "url" : "https://kurier.at/wissen/gesundheit/wann-nach-einer-covid-infektion-kann-ich-mich-operieren-lassen/401218308"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 826,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 124,
+      "id" : "EZZWTbE6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/6/5951126/6C92ED92-8F6B-4B96-B3F1-900F61056F26_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Marco Schwarz holt sich die Slalom-Kugel",
+      "titleTarget" : "Marco Schwarz dobiva slalomsku loptu",
+      "url" : "https://www.diepresse.com/5951126/Marco-Schwarz-holt-sich-die-SlalomKugel?from=rss"
+    }, {
+      "articleLength" : 2391,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 336,
+      "id" : "C3kG3Opp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/e/a/5951210/3FCB3EE3-6954-4AC0-95BA-6F3AA4BA06D7_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Skifahrerin Bernadette Schild beendet ihre Karriere",
+      "titleTarget" : "Skijašica Bernadette Schild završava karijeru",
+      "url" : "https://www.diepresse.com/5951210/Ruecktritt_Skifahrerin-Bernadette-Schild-beendet-ihre-Karriere?from=rss"
+    }, {
+      "articleLength" : 1601,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 231,
+      "id" : "DWQZYJ5m",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/9/1/5951377/0E99D73E-FD73-494B-B469-046A211B9592_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Neuseeland führt bei America's Cup 5:3",
+      "titleTarget" : "Novi Zeland vodi 5-3 na America's Cupu",
+      "url" : "https://www.diepresse.com/5951377/Segeln_Neuseeland-fuehrt-bei-Americas-Cup-5_3?from=rss"
+    }, {
+      "articleLength" : 4668,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 734,
+      "id" : "ZO6pGZ0k",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Rapid holt souveränen 4:0-Heimsieg über Hartberg",
+      "titleTarget" : "Rapid donosi samouvjerenu pobjedu domaćina 4: 0 nad Hartbergom",
+      "url" : "https://www.derstandard.at/story/2000125034308/rapid-holt-souveraenen-40-heimsieg-ueber-hartberg?ref=rss"
+    }, {
       "articleLength" : 4752,
       "articlePartsSize" : 16,
       "articleWordCount" : 692,
@@ -308,26 +348,6 @@
       "titleSource" : "Marco Schwarz sichert dem ÖSV erste Kristallkugel",
       "titleTarget" : "Marco Schwarz osigurava prvu kristalnu kuglu za ÖSV",
       "url" : "https://kurier.at/sport/wintersport/ski-alpin-marco-schwarz-gewinner-der-slalom-kristallkugel/401217771"
-    }, {
-      "articleLength" : 3950,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 590,
-      "id" : "7E0oJqGe",
-      "imgUrl" : "https://image.kurier.at/images/original/4999368/46-176379149.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Boxen: Trauer um US-Legende Marvin Hagler",
-      "titleTarget" : "Boks: oplakana američka legenda Marvin Hagler",
-      "url" : "https://kurier.at/sport/boxen-trauer-um-us-legende-marvin-hagler/401217693"
-    }, {
-      "articleLength" : 1226,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 187,
-      "id" : "L7TouU2O",
-      "imgUrl" : "https://image.kurier.at/images/original/4999536/09d9678b-43fc-497b-a4de-fe4789dc9bdc.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Hirscher sorgt mit spektakulärem Freeride-Stunt für Staunen",
-      "titleTarget" : "Hirscher zadivljuje spektakularnim vratolomijskim potezom",
-      "url" : "https://kurier.at/sport/wintersport/ex-ski-superstar-hirscher-sorgt-mit-spektakulaerem-freeride-stunt-fuer-staunen/401217765"
     }, {
       "articleLength" : 2299,
       "articlePartsSize" : 9,
@@ -339,34 +359,14 @@
       "titleTarget" : "Bernadette Schild najavila je kraj karijere",
       "url" : "https://kurier.at/sport/wintersport/bernadette-schild-gab-karriereende-bekannt/401218080"
     }, {
-      "articleLength" : 826,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 124,
-      "id" : "EZZWTbE6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/9/6/5951126/6C92ED92-8F6B-4B96-B3F1-900F61056F26_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Marco Schwarz holt sich die Slalom-Kugel",
-      "titleTarget" : "Marco Schwarz dobiva slalomsku loptu",
-      "url" : "https://www.diepresse.com/5951126/Marco-Schwarz-holt-sich-die-SlalomKugel?from=rss"
-    }, {
-      "articleLength" : 923,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 143,
-      "id" : "rbtfc3hD",
+      "articleLength" : 7691,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 1236,
+      "id" : "XotvuFlT",
       "publisher" : "derstandard.at",
-      "titleSource" : "Legendärer US-Boxer \"Marvelous\" Marvin Hagler gestorben",
-      "titleTarget" : "Legendarni američki boksač \"Čudesni\" Marvin Hagler umro je",
-      "url" : "https://www.derstandard.at/story/2000125025552/legendaerer-us-boxer-hagler-gestorben?ref=rss"
-    }, {
-      "articleLength" : 2391,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 336,
-      "id" : "C3kG3Opp",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/e/a/5951210/3FCB3EE3-6954-4AC0-95BA-6F3AA4BA06D7_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Skifahrerin Bernadette Schild beendet ihre Karriere",
-      "titleTarget" : "Skijašica Bernadette Schild završava karijeru",
-      "url" : "https://www.diepresse.com/5951210/Ruecktritt_Skifahrerin-Bernadette-Schild-beendet-ihre-Karriere?from=rss"
+      "titleSource" : "\"Ein Kindheitstraum\": Marco Schwarz gewinnt Slalom-Kristall",
+      "titleTarget" : "\"San iz djetinjstva\": Marco Schwarz osvaja kristal slaloma",
+      "url" : "https://www.derstandard.at/story/2000125026892/schwarz-im-kranjska-gora-slalom-halbzeit-sechster?ref=rss"
     } ]
   } ],
   "country" : "austria",
