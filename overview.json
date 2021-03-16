@@ -2,45 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 1885,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 269,
-      "id" : "BLus6Uyt",
-      "imgUrl" : "https://image.kurier.at/images/original/5000823/46-176347369.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Österreich Trend\": Kurz sinkt in Kanzlerfrage, aber ohne Konkurrenz",
-      "titleTarget" : "\"Austria Trend\": Kurz odbija u pitanju kancelarke, ali bez konkurencije",
-      "url" : "https://kurier.at/politik/inland/oesterreich-trend-kurz-sinkt-in-kanzlerfrage-aber-ohne-konkurrenz/401218263"
-    }, {
-      "articleLength" : 2506,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 324,
-      "id" : "kQRJwUSs",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/d/6/5951446/IBIZA-U-AUSSCHUSS-KRISPER_1615802414814423_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neos fordern Suspendierung von Oberstaatsanwalt Fuchs",
-      "titleTarget" : "Neos zahtijeva suspenziju državnog odvjetnika Fuchsa",
-      "url" : "https://www.diepresse.com/5951446/UAusschuss_Neos-fordern-Suspendierung-von-Oberstaatsanwalt-Fuchs?from=rss"
-    }, {
-      "articleLength" : 2351,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 339,
-      "id" : "KF04viMg",
-      "imgUrl" : "https://image.kurier.at/images/original/5001354/46-176106904.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anschober warnt vor dritter Corona-Welle",
-      "titleTarget" : "Anschober upozorava na treći val korone",
-      "url" : "https://kurier.at/politik/inland/anschober-warnt-vor-dritter-corona-welle/401218563"
-    }, {
-      "articleLength" : 1609,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 211,
-      "id" : "HXOuLSxK",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Causa Pilnacek: Ermittler stellen Geräte bei Oberstaatsanwaltschaft Wien sicher",
-      "titleTarget" : "Causa Pilnacek: Istražitelji osiguravaju uređaje u bečkom javnom tužiteljstvu",
-      "url" : "https://www.derstandard.at/story/2000125062942/causa-pilnacek-ermittler-stellen-geraete-bei-osta-wien-sicher?ref=rss"
-    }, {
       "articleLength" : 2082,
       "articlePartsSize" : 9,
       "articleWordCount" : 259,
@@ -51,58 +12,67 @@
       "titleTarget" : "AstraZeneca: Anschober poziva na zajedničku liniju za Europu",
       "url" : "https://www.diepresse.com/5951830/EMA_AstraZeneca_Anschober-fordert-gemeinsame-Linie-fuer-Europa?from=rss"
     }, {
-      "articleLength" : 2728,
+      "articleLength" : 2477,
       "articlePartsSize" : 11,
-      "articleWordCount" : 383,
-      "id" : "noyeAjCP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/2/a/5951530/954BF725-E851-44CC-961D-60EC9F0FEC81_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Österreich entgingen bei Zusatzbestellung rund 100.000 Dosen",
-      "titleTarget" : "Austrija je uz dodatne narudžbe izgubila oko 100.000 limenki",
-      "url" : "https://www.diepresse.com/5951530/Impfstoffe_Oesterreich-entgingen-bei-Zusatzbestellung-rund-100000?from=rss"
-    }, {
-      "articleLength" : 3798,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 524,
-      "id" : "cGpXrEbm",
-      "imgUrl" : "https://image.kurier.at/images/original/5001291/46-176400343.jpg",
+      "articleWordCount" : 342,
+      "id" : "exLgQvDR",
+      "imgUrl" : "https://image.kurier.at/images/original/5001753/46-176400338.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Impf-Bestellung: Nicht einmal Anschober wusste über Optionen Bescheid - Auer zieht sich zurück",
-      "titleTarget" : "Nalog za cijepljenje: Ni Anchober nije znao za mogućnosti - Auer se povlači",
-      "url" : "https://kurier.at/politik/inland/anschober-zieht-spitzenbeamten-auer-aus-impfprogramm-ab/401218266"
+      "titleSource" : "Durch Auers Patzer: Österreich hat ein bis zwei Tage bei Impfkampagne verloren",
+      "titleTarget" : "Auerovom greškom: Austrija je izgubila jedan do dva dana u kampanji cijepljenja",
+      "url" : "https://kurier.at/politik/inland/oesterreich-hat-ein-bis-zwei-tage-bei-der-impfkampagne-verloren/401218560"
+    }, {
+      "articleLength" : 1609,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 211,
+      "id" : "HXOuLSxK",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Causa Pilnacek: Ermittler stellten Geräte bei Oberstaatsanwaltschaft Wien sicher",
+      "titleTarget" : "Causa Pilnacek: Istražitelji osiguravaju uređaje u bečkom javnom tužiteljstvu",
+      "url" : "https://www.derstandard.at/story/2000125062942/causa-pilnacek-ermittler-stellen-geraete-bei-osta-wien-sicher?ref=rss"
+    }, {
+      "articleLength" : 4868,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 622,
+      "id" : "NOXawnli",
+      "imgUrl" : "https://image.kurier.at/images/original/5002551/81771351259463740_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Astra Zeneca - Impfgremium empfiehlt Fortsetzung der Impfung",
+      "titleTarget" : "Astra Zeneca - Odbor za cijepljenje preporučuje nastavak cijepljenja",
+      "url" : "https://kurier.at/politik/inland/astra-zeneca-impfgremium-empfiehlt-fortsetzung-der-impfung/401219421"
+    }, {
+      "articleLength" : 6817,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 875,
+      "id" : "qqgslLRQ",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Großbaustelle Verfassungsschutz",
+      "titleTarget" : "Glavno gradilište za zaštitu Ustava",
+      "url" : "https://www.derstandard.at/story/2000125046421/bvt-wird-in-direktion-fuer-staatsschutz-und-nachrichtendienst-umbenannt?ref=rss"
+    }, {
+      "articleLength" : 1528,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 210,
+      "id" : "VMWZL5Sc",
+      "imgUrl" : "https://image.kurier.at/images/original/2767448/78370011344004918_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "U-Ausschuss - Mitterlehner gibt Einblick in \"alte\" ÖVP",
+      "titleTarget" : "U-odbor - Mitterlehner daje uvid u \"stari\" ÖVP",
+      "url" : "https://kurier.at/politik/inland/u-ausschuss-mitterlehner-gibt-einblick-in-alte-oevp/401219430"
+    }, {
+      "articleLength" : 2992,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 400,
+      "id" : "N2a6HLio",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/d/6/5951446/IBIZA-U-AUSSCHUSS-FUCHS_1615840574456753_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Die nächste Handy-Sicherstellung: OStA-Chef Fuchs beschuldigt",
+      "titleTarget" : "Sljedeća zapljena mobitela: optužio je šef OSte Fuchs",
+      "url" : "https://www.diepresse.com/5951446/Ermittlung_Die-naechste-HandySicherstellung_OStAChef-Fuchs?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 3985,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 541,
-      "id" : "kdcM3fti",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/f/a/f/5951407/68520C64-C95D-4384-A726-4CC88EB73132_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "US-Zinssitzung in Zeiten nervöser Märkte - \"Die Fed zuckt nicht\"",
-      "titleTarget" : "Sastanak američke kamatne stope u doba nervoznih tržišta - \"Fed se ne trzne\"",
-      "url" : "https://www.diepresse.com/5951407/Geldpolitik_USZinssitzung-in-Zeiten-nervoeser-Maerkte-Die-Fed?from=rss"
-    }, {
-      "articleLength" : 2003,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 270,
-      "id" : "FbnJf5JW",
-      "imgUrl" : "https://image.kurier.at/images/original/4723713/46-168478106.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Dominic Thiem steigt bei Riegel-Hersteller Neoh ein",
-      "titleTarget" : "Dominic Thiem pridružuje se proizvođaču barova Neoh",
-      "url" : "https://kurier.at/wirtschaft/dominic-thiem-steigt-bei-riegel-hersteller-neoh-ein/401218413"
-    }, {
-      "articleLength" : 3722,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 501,
-      "id" : "Gqxo2mKq",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Letztes Aufbäumen gegen grüne Autosteuer",
-      "titleTarget" : "Posljednja pobuna protiv poreza na zelene automobile",
-      "url" : "https://www.derstandard.at/story/2000125032719/letztes-aufbaeumen-gegen-gruene-autosteuer?ref=rss"
-    }, {
       "articleLength" : 2049,
       "articlePartsSize" : 9,
       "articleWordCount" : 266,
@@ -113,15 +83,34 @@
       "titleTarget" : "Kocher se u borbi protiv krize želi osloniti na kvalifikacije",
       "url" : "https://kurier.at/wirtschaft/kocher-will-bei-krisenbekaempfung-auf-qualifikation-setzen/401219076"
     }, {
-      "articleLength" : 4887,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 682,
-      "id" : "tZBvLaCe",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/b/b/2/5950386/EEB418DC-BF26-4ECC-8674-94D492DA495E_v0_h.jpg",
+      "articleLength" : 2881,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 395,
+      "id" : "JH4uYBkB",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/9/2/5951890/86344A84-F295-4DF2-BE5B-584DD0DA3852_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Eine gute Nachricht für Österreich",
-      "titleTarget" : "Dobre vijesti za Austriju",
-      "url" : "https://www.diepresse.com/5950386/Der-oekonomische-Blick_Eine-gute-Nachricht-fuer-Oesterreich?from=rss"
+      "titleSource" : "VW-Konzern will schnell zurück zu alter Gewinnstärke",
+      "titleTarget" : "VW grupa želi se brzo vratiti svojoj staroj isplativosti",
+      "url" : "https://www.diepresse.com/5951890/Jahresbilanz_VWKonzern-will-schnell-zurueck-zu-alter-Gewinnstaerke?from=rss"
+    }, {
+      "articleLength" : 1502,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 209,
+      "id" : "P1CqBhNQ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/8/c/5951884/12F5C0D0-C0AB-4ED5-A676-BAF424CFC0F5_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Milliardenbewertung für Wiener Krypto-Firma Bitpanda",
+      "titleTarget" : "Procjena milijardi za bečku kripto tvrtku Bitpanda",
+      "url" : "https://www.diepresse.com/5951884/Investment_Milliardenbewertung-fuer-Wiener-KryptoFirma-Bitpanda?from=rss"
+    }, {
+      "articleLength" : 2714,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 388,
+      "id" : "E6eGF6eT",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Undurchsichtige Vorgänge bei Vergabe von Staatsposten",
+      "titleTarget" : "Neprozirni postupci pri dodjeli državnih mjesta",
+      "url" : "https://www.derstandard.at/story/2000125069241/undurchsichtige-vorgaenge-bei-vergabe-von-staatsposten?ref=rss"
     }, {
       "articleLength" : 1294,
       "articlePartsSize" : 6,
@@ -133,18 +122,86 @@
       "titleTarget" : "Elon Musk promijenio službeni naslov posla u \"Technoking\"",
       "url" : "https://kurier.at/wirtschaft/elon-musk-aendert-offizielle-jobbezeichnung-bei-tesla-in-technoking/401218920"
     }, {
-      "articleLength" : 1809,
+      "articleLength" : 1764,
       "articlePartsSize" : 8,
-      "articleWordCount" : 257,
-      "id" : "w0v34FPZ",
+      "articleWordCount" : 235,
+      "id" : "e9roa2ZU",
       "publisher" : "diepresse.com",
-      "titleSource" : "E-Control sieht lebhafteren Wettbewerb im Energiesektor",
-      "titleTarget" : "E-Control vidi jaču konkurenciju u energetskom sektoru",
-      "url" : "https://www.diepresse.com/5951544/Energiemarkt_EControl-sieht-lebhafteren-Wettbewerb-im-Energiesektor?from=rss"
+      "titleSource" : "Mayr-Melnhof: Weniger Gewinn, stabile Dividende",
+      "titleTarget" : "Mayr-Melnhof: Manje dobiti, stabilne dividende",
+      "url" : "https://www.diepresse.com/5951899/Jahresbilanz_MayrMelnhof_Weniger-Gewinn-stabile-Dividende?from=rss"
+    }, {
+      "articleLength" : 2352,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 327,
+      "id" : "EVaImNZt",
+      "imgUrl" : "https://image.kurier.at/images/original/4698498/78370011356973682_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "MAN-Werk Steyr - Betriebsrat sieht \"fast erpresserische Methoden\"",
+      "titleTarget" : "MAN, tvornica u Steyru - radničko vijeće vidi \"gotovo iznuđujuće metode\"",
+      "url" : "https://kurier.at/wirtschaft/man-werk-steyr-betriebsrat-sieht-fast-erpresserische-methoden/401218953"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 3076,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 477,
+      "id" : "WXfG8H8a",
+      "imgUrl" : "https://image.kurier.at/images/original/4984882/20210306-ABD0168-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Cluster nach Tiroler Busfahrt zu Demos in Wien?",
+      "titleTarget" : "Klaster Corona nakon tirolskog autobusnog putovanja na demonstracije u Beču?",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-cluster-nach-tiroler-busfahrt-zu-demos-in-wien/401219529"
+    }, {
+      "articleLength" : 1179,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 175,
+      "id" : "kZsEOo3K",
+      "imgUrl" : "https://image.kurier.at/images/original/5001771/46-176344946.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ausfahrtsbeschränkung für das ganze Gasteinertal in Kraft",
+      "titleTarget" : "Ograničenja izlaska za cijelu Gasteinsku dolinu na snazi",
+      "url" : "https://kurier.at/chronik/oesterreich/ausfahrtsbeschraenkung-fuer-das-ganze-gasteinertal-in-kraft/401218800"
+    }, {
+      "articleLength" : 6745,
+      "articlePartsSize" : 29,
+      "articleWordCount" : 894,
+      "id" : "J9A87aSs",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Nationales Impfgremium empfiehlt Fortsetzung der Impfung mit Astra Zeneca",
+      "titleTarget" : "Njemačka, Italija i Francuska obustavljaju cijepljenje Astrom Zenecom",
+      "url" : "https://www.derstandard.at/story/2000125056540/auch-deutschland-setzt-impfungen-mit-astra-zeneca-aus?ref=rss"
+    }, {
+      "articleLength" : 3814,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 534,
+      "id" : "NRSvLdyL",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Baustart für fünf neue Lokale am Wiener Donaukanal",
+      "titleTarget" : "Početak gradnje pet novih restorana na Bečkom Dunavskom kanalu",
+      "url" : "https://www.derstandard.at/story/2000125042696/baustart-fuer-fuenf-neue-lokale-am-wiener-donaukanal?ref=rss"
+    }, {
+      "articleLength" : 2275,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 316,
+      "id" : "5R2b2onk",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/7/b/5951867/CoV-Demo---ANTI-CORNA-DEMO-in-Wien-Wien-Heldenplatz---Maria-Theresia-Platz-16-01-2021-H-C-STRACHE---Heinz-Christian_1615872460713672_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Wien-Wahl: Staatsanwaltschaft prüft Spendenvorwürfe gegen Strache",
+      "titleTarget" : "Izbori u Beču: Državno tužiteljstvo ispituje navode o donaciji protiv Strachea",
+      "url" : "https://www.diepresse.com/5951867/Anonyme-Anzeige_WienWahl_Staatsanwaltschaft-prueft?from=rss"
+    }, {
+      "articleLength" : 1509,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 191,
+      "id" : "nSRcBzNA",
+      "imgUrl" : "https://image.kurier.at/images/original/5003250/46-167337828.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "2.425 Neuinfektionen in Ö + Impfstoffverteilung: Kurz trifft Regierungschefs",
+      "titleTarget" : "2.425 novih infekcija u Austriji + distribucija cjepiva: Kurz se sastao s šefovima vlada",
+      "url" : "https://kurier.at/chronik/oesterreich/impfgremium-fuer-weiterverwendung-oesterreich-impft-weiter-mit-astra-zeneca/401219469"
+    }, {
       "articleLength" : 4141,
       "articlePartsSize" : 18,
       "articleWordCount" : 561,
@@ -154,79 +211,10 @@
       "titleSource" : "Donaukanal: Rad-Zentrum, Event-Bühne, mehr Gastronomie",
       "titleTarget" : "Dunavski kanal: biciklistički centar, pozornica, više gastronomije",
       "url" : "https://www.diepresse.com/5951793/Stadtplanung_Donaukanal_RadZentrum-EventBuehne-mehr-Gastronomie?from=rss"
-    }, {
-      "articleLength" : 2201,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 303,
-      "id" : "oUeyQAE9",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/1/5951409/7AF9FCDA-65C3-480C-93F1-EF7E781C7E13_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kaum Verzögerungen am ersten Arbeitstag mit Kontrollen in Wr. Neustadt",
-      "titleTarget" : "Teško da dolazi do kašnjenja prvog radnog dana s kontrolama u Wr. Neustadt",
-      "url" : "https://www.diepresse.com/5951409/Ausreisetestpflicht_Kaum-Verzoegerungen-am-ersten-Arbeitstag-mit?from=rss"
-    }, {
-      "articleLength" : 1289,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 157,
-      "id" : "uaO1rOJ6",
-      "imgUrl" : "https://image.kurier.at/images/original/3941945/78350011451822986_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Aus BVT wird Direktion für Staatsschutz und Nachrichtendienst",
-      "titleTarget" : "BVT postaje Uprava za državnu sigurnost i obavještajne poslove",
-      "url" : "https://kurier.at/chronik/oesterreich/wie-der-verfassungsschutz-reformiert-wird/401218611"
-    }, {
-      "articleLength" : 3419,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 480,
-      "id" : "QRrbZAFq",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "1.896 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.896 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/1896-neue-corona-infektionen-in-oesterreich/401218320"
-    }, {
-      "articleLength" : 6745,
-      "articlePartsSize" : 29,
-      "articleWordCount" : 894,
-      "id" : "J9A87aSs",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Nationales Impfgremium empfiehlt Fortsetzung der Impfungen mit Astra Zeneca",
-      "titleTarget" : "Njemačka, Italija i Francuska obustavljaju cijepljenje Astrom Zenecom",
-      "url" : "https://www.derstandard.at/story/2000125056540/auch-deutschland-setzt-impfungen-mit-astra-zeneca-aus?ref=rss"
-    }, {
-      "articleLength" : 5983,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 822,
-      "id" : "qannUAy0",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/5/8/5951320/1C50ADC3-7720-4D7E-90D4-493AE537D774_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Vorarlberg: Wenige Gäste und wenige offene Lokale",
-      "titleTarget" : "Vorarlberg: Malo gostiju i malo otvorenih restorana",
-      "url" : "https://www.diepresse.com/5951320/GastroOeffnung_Vorarlberg_Wenige-Gaeste-und-wenige-offene-Lokale?from=rss"
-    }, {
-      "articleLength" : 5953,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 873,
-      "id" : "l1kxpefk",
-      "imgUrl" : "https://image.kurier.at/images/original/5000655/20210314_213621.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nur jeder dritte Wirt in Vorarlberg sperrt heute wieder auf",
-      "titleTarget" : "Danas se ponovno otvara tek svaki treći gostioničar u Vorarlbergu",
-      "url" : "https://kurier.at/chronik/oesterreich/wie-vorarlberg-wieder-oeffnet-ein-lokalaugenschein/401218164"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1875,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 265,
-      "id" : "XmVTv03S",
-      "imgUrl" : "https://image.kurier.at/images/original/5000955/46-146913220.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nova Rock-Festival abgesagt",
-      "titleTarget" : "Otkazan Nova Rock Festival",
-      "url" : "https://kurier.at/kultur/das-nova-rock-festival-2021-ist-abgesagt/401218359"
-    }, {
       "articleLength" : 8901,
       "articlePartsSize" : 40,
       "articleWordCount" : 1260,
@@ -236,15 +224,6 @@
       "titleSource" : "ORF-Talk zum Impf-Zwist: \"Na ja, das sind Beamte\"",
       "titleTarget" : "Razgovor ORF-a o sporu oko cijepljenja: \"Pa, to su dužnosnici\"",
       "url" : "https://kurier.at/kultur/medien/orf-talk-im-zentrum-zum-impf-zwist-na-ja-das-sind-beamte/401218734"
-    }, {
-      "articleLength" : 20968,
-      "articlePartsSize" : 89,
-      "articleWordCount" : 3245,
-      "id" : "zpbj700K",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Künstler im Lockdown: Was tun, Toni Schmale?",
-      "titleTarget" : "Umjetnici u blokadi: što učiniti, Toni Schmale?",
-      "url" : "https://www.derstandard.at/story/2000123374922/kuenstler-im-lockdown-was-tun-erwin-wurm?ref=rss"
     }, {
       "articleLength" : 3417,
       "articlePartsSize" : 7,
@@ -265,6 +244,24 @@
       "titleSource" : "Salzburger Osterfestspiele auf den Herbst verschoben",
       "titleTarget" : "Uskrsni festival u Salzburgu odgođen za jesen",
       "url" : "https://kurier.at/kultur/salzburger-osterfestspiele-auf-den-herbst-verschoben/401218797"
+    }, {
+      "articleLength" : 2291,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 333,
+      "id" : "ETSuV2Ph",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Oscar-Nominierungen: \"Mank\" deutlicher Favorit",
+      "titleTarget" : "Nominacije za Oscara: \"Mank\" je očiti favorit",
+      "url" : "https://www.derstandard.at/story/2000125050982/oscar-nominierungenmank-mit-10-nominierungen?ref=rss"
+    }, {
+      "articleLength" : 1102,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 175,
+      "id" : "poVNeoA2",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die besten Filme über die Apokalypse?",
+      "titleTarget" : "Najbolji filmovi o apokalipsi?",
+      "url" : "https://www.derstandard.at/story/2000115674419/die-besten-filme-ueber-die-apokalypse?ref=rss"
     }, {
       "articleLength" : 1470,
       "articlePartsSize" : 7,
@@ -289,16 +286,6 @@
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 3287,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 433,
-      "id" : "5SXsxEWt",
-      "imgUrl" : "https://image.kurier.at/images/original/5001867/46-176371481.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Astra Zeneca verteidigt Impfstoff: Kein erhöhtes Risiko",
-      "titleTarget" : "Astra Zeneca brani cjepivo: Nema povećanog rizika",
-      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-verteidigt-impfstoff-kein-erhoehtes-risiko/401218830"
-    }, {
       "articleLength" : 1559,
       "articlePartsSize" : 7,
       "articleWordCount" : 200,
@@ -309,29 +296,47 @@
       "titleTarget" : "Corona: zaštitne maske smanjuju razumljivost govora",
       "url" : "https://kurier.at/wissen/gesundheit/corona-schutzmasken-mindern-die-sprachverstaendlichkeit/401218899"
     }, {
-      "articleLength" : 3768,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 500,
-      "id" : "Jv9TiFxQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4764750/46-168707829.jpg",
+      "articleLength" : 3287,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 433,
+      "id" : "5SXsxEWt",
+      "imgUrl" : "https://image.kurier.at/images/original/5001867/46-176371481.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Wann nach einer COVID-Infektion kann ich mich operieren lassen?",
-      "titleTarget" : "Kada mogu operirati nakon infekcije COVID-om?",
-      "url" : "https://kurier.at/wissen/gesundheit/wann-nach-einer-covid-infektion-kann-ich-mich-operieren-lassen/401218308"
+      "titleSource" : "Astra Zeneca verteidigt Impfstoff: Kein erhöhtes Risiko",
+      "titleTarget" : "Astra Zeneca brani cjepivo: Nema povećanog rizika",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-verteidigt-impfstoff-kein-erhoehtes-risiko/401218830"
+    }, {
+      "articleLength" : 5079,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 625,
+      "id" : "DirbB9hh",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Covid-19: Thrombosegefahr durch Störer im Gerinnungssystem",
+      "titleTarget" : "Covid-19: Rizik od tromboze od ometača u sustavu zgrušavanja",
+      "url" : "https://www.derstandard.at/story/2000125059175/covid-19-thrombosegefahr-durch-stoerer-im-gerinnungssystem?ref=rss"
+    }, {
+      "articleLength" : 824,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 117,
+      "id" : "6y97oPum",
+      "imgUrl" : "https://image.kurier.at/images/original/5002470/78350011459463444_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WHO-Experten untersuchen jetzt Astra Zeneca-Impfstoff",
+      "titleTarget" : "Stručnjaci SZO sada proučavaju cjepivo Astra Zeneca",
+      "url" : "https://kurier.at/wissen/gesundheit/who-experten-untersuchen-jetzt-astra-zeneca-impfstoff/401219550"
+    }, {
+      "articleLength" : 2540,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 349,
+      "id" : "e7yVKOff",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Corona-Infektionsrisiko in Bahn und Bus laut Studie gering",
+      "titleTarget" : "Prema studiji, rizik od infekcije koronom u vlakovima i autobusima je nizak",
+      "url" : "https://www.derstandard.at/story/2000125069385/studie-attestiert-geringes-corona-infektionsrisiko-im-zug?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 3529,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 493,
-      "id" : "p53XDZrM",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/0/1/5951489/A800B753-84AF-4089-A2AF-22ADA7A08B27_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "ÖFB-Team in Schottland ohne Deutschland-Legionäre",
-      "titleTarget" : "ÖFB tim u Škotskoj bez njemačkih legionara",
-      "url" : "https://www.diepresse.com/5951489/Entscheidung-gefallen_OeFBTeam-in-Schottland-ohne?from=rss"
-    }, {
       "articleLength" : 2082,
       "articlePartsSize" : 10,
       "articleWordCount" : 331,
@@ -342,15 +347,43 @@
       "titleTarget" : "Nakon 16 godina: Teniska zvijezda Medvedev postigao je nešto povijesno",
       "url" : "https://kurier.at/sport/tennis/nach-djokovic-federer-und-co-tennis-star-daniil-medwedew-schaffte-historisches/401219058"
     }, {
-      "articleLength" : 2041,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 312,
-      "id" : "bW7cnOwO",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/c/4/5951428/2FEF42B8-6621-4A6F-961C-48F5CA66DAE3_v0_h.jpg",
+      "articleLength" : 3529,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 493,
+      "id" : "p53XDZrM",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/0/1/5951489/A800B753-84AF-4089-A2AF-22ADA7A08B27_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Stuttgart feiert Rekordmann Kalajdzic",
-      "titleTarget" : "Stuttgart slavi rekordera Kalajdžića",
-      "url" : "https://www.diepresse.com/5951428/Vereinsrekord_Stuttgart-feiert-Rekordmann-Kalajdzic?from=rss"
+      "titleSource" : "ÖFB-Team in Schottland ohne Deutschland-Legionäre",
+      "titleTarget" : "ÖFB tim u Škotskoj bez njemačkih legionara",
+      "url" : "https://www.diepresse.com/5951489/Entscheidung-gefallen_OeFBTeam-in-Schottland-ohne?from=rss"
+    }, {
+      "articleLength" : 4198,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 604,
+      "id" : "0brxOnDc",
+      "publisher" : "derstandard.at",
+      "titleSource" : "ÖFB-Team ohne Deutschland-Legionäre: Sparzwang gegen Schottland",
+      "titleTarget" : "ÖFB momčad bez njemačkih legionara: prisiljen spasiti protiv Škotske",
+      "url" : "https://www.derstandard.at/story/2000125044304/oefb-team-in-schottland-wohl-ohne-deutschland-legionaere?ref=rss"
+    }, {
+      "articleLength" : 868,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 124,
+      "id" : "WWpywcoX",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/b/d/5951933/7908C1C8-A33B-4297-B7D3-CB892A785041_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Bucs behalten Traum-Duo: Gronkowski verlängert bei Tampa",
+      "titleTarget" : "Bucs zadržava dvojac iz snova: Gronkowski produžuje Tampu",
+      "url" : "https://www.diepresse.com/5951933/American-Football_Bucs-behalten-TraumDuo_Gronkowski-verlaengert?from=rss"
+    }, {
+      "articleLength" : 1031,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 156,
+      "id" : "HF4z4V7X",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Barcelona siegt bei Messis Rekordspiel 4:1 gegen Huesca",
+      "titleTarget" : "Barcelona je u Messievoj rekordnoj utakmici pobijedila Huescu rezultatom 4: 1",
+      "url" : "https://www.derstandard.at/story/2000125067841/barcelona-siegt-bei-messis-rekordspiel-41-gegen-huesca?ref=rss"
     }, {
       "articleLength" : 1888,
       "articlePartsSize" : 9,
@@ -362,34 +395,15 @@
       "titleTarget" : "Nakon pobjede protiv Austrije: Storm Ingolitsch s ozbiljnom ozljedom",
       "url" : "https://kurier.at/sport/fussball/nach-21-sieg-gegen-wiener-austria-sturms-ingolitsch-mit-schwerer-verletzung/401219019"
     }, {
-      "articleLength" : 1601,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 231,
-      "id" : "DWQZYJ5m",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/9/1/5951377/0E99D73E-FD73-494B-B469-046A211B9592_v0_l.jpg",
+      "articleLength" : 3609,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 499,
+      "id" : "UWcfcngT",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/b/1/5951921/5E1F8900-782B-45C0-ADC8-31142F4B0226_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Neuseeland führt bei America's Cup 5:3",
-      "titleTarget" : "Novi Zeland vodi 5-3 na America's Cupu",
-      "url" : "https://www.diepresse.com/5951377/Segeln_Neuseeland-fuehrt-bei-Americas-Cup-5_3?from=rss"
-    }, {
-      "articleLength" : 3980,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 600,
-      "id" : "8KC0Pj5r",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/6/b/5951339/A1206406-039A-404D-901C-E28FED4A7056_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Austria: \"Verdient da, wo wir sind\"",
-      "titleTarget" : "Austrija: \"Zarađuje tamo gdje jesmo\"",
-      "url" : "https://www.diepresse.com/5951339/Bundesliga_Austria_Verdient-da-wo-wir-sind?from=rss"
-    }, {
-      "articleLength" : 5719,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 865,
-      "id" : "71M9uAKW",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Österreichs beste Skateboarderin in den USA: \"Ich lebe meinen Traum\"",
-      "titleTarget" : "Najbolja austrijska skateboarderica u SAD-u: \"Živim svoj san\"",
-      "url" : "https://www.derstandard.at/story/2000125031191/oesterreichs-beste-skateboarderin-in-den-usa-die-hoffnung-stirbt-zuletzt?ref=rss"
+      "titleSource" : "Champions League: Manchester City und Real Madrid vor Aufstieg",
+      "titleTarget" : "Liga prvaka: Manchester City i Real Madrid prije promocije",
+      "url" : "https://www.diepresse.com/5951921/Fussball_Champions-League_Manchester-City-und-Real-Madrid-vor?from=rss"
     } ]
   } ],
   "country" : "austria",
