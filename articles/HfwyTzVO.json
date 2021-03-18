@@ -1,0 +1,17 @@
+{
+  "id" : "HfwyTzVO",
+  "url" : "https://kurier.at/wirtschaft/datenleck-tausende-testergebnisse-schlecht-geschuetzt-im-netz/401221908",
+  "category" : "ECONOMICS",
+  "publisher" : "kurier.at",
+  "publishedOn" : "2021-03-18T07:35:52Z[UTC]",
+  "author" : "Vanessa Gaigg, Nina Weißensteiner",
+  "imageUrl" : "https://image.kurier.at/images/original/4995576/46-175733900.jpg",
+  "imageCopyright" : "EPA/SOEREN STACHE / POOL",
+  "sourceCountry" : "austria",
+  "sourceLanguage" : "german",
+  "targetLanguage" : "serbocroatian",
+  "articleTitle" : "Datenleck: Tausende Testergebnisse schlecht geschützt im Netz",
+  "articleTitleTranslated" : "Curenje podataka: Tisuće rezultata ispitivanja slabo su zaštićeni u mreži",
+  "articleContent" : [ "Schlecht geschützt standen laut einem Bericht des Standard die Testergebnisse von zahlreichen Testeinrichtungen in Deutschland und Österreicher im Netz. Eine österreichische FH und mehrere Corona-Testzentren in Berlin, München und Mannheim waren laut dem Bericht betroffen. ", "Das Datenleck entstand durch eine Software beim Wiener Start-up Medicus AI, das auch digitale Infrastruktur für Testungen anbietet. Durch die Lücke konnten Nutzer zumindest temporär sensible Datensätze, die für einen Corona-Test angegeben wurden, auslesen. ", "Der Standard beruft sich auf eine Analyse, die Sicherheitsforscher des deutschen IT-Kollektivs Zerforschung gemacht hat und auch der Süddeutschen Zeitung und dem Rundfunk Berlin-Brandenburg vorliegt.", "Laut dieser waren zum Zeitpunkt der Schließung des Datenlecks zumindest 136.000 Datensätze aus über 100 Testzentren auslesbar. Medicus AI wollte diese Zahl gegenüber der Zeitung nicht bestätigen und räumte lediglich 5.774 betroffene Ergebnisse ein.", "Offenbar war durch eine Änderung der eigenen Identifikationsnummer bei Abruf eines Tests möglich, Befunde anderer Nutzer aufzurufen - und damit Name, Adresse, Staatsbürgerschaft, Geburtsdatum, Handynummer, E-Mail und falls angegeben auch Nummer von Pass- oder Personalausweis einsehbar. " ],
+  "articleContentTranslated" : [ "Prema izvješću Standarda, rezultati ispitivanja brojnih ispitnih postrojenja u Njemačkoj i Austriji bili su slabo zaštićeni na Internetu. Austrijsko sveučilište primijenjenih znanosti i nekoliko centara za testiranje korone u Berlinu, Münchenu i Mannheimu bili su pogođeni, navodi se u izvješću.", "Curenje podataka uzrokovano je softverom bečkog start-upa Medicus AI, koji također nudi digitalnu infrastrukturu za testiranje. Ova praznina omogućila je korisnicima da barem privremeno pročitaju skupove osjetljivih podataka koji su određeni za test korone.", "Standard se temelji na analizi koju su proveli istraživači sigurnosti iz njemačkog informatičkog kolektiva Zerforschung, a koja je također dostupna Süddeutsche Zeitungu i berlinsko-brandenburškoj radioteleviziji.", "Prema tome, najmanje 136 000 zapisa podataka iz preko 100 ispitnih centara bilo je čitljivo u trenutku zatvaranja curenja podataka. Medicus AI nije želio potvrditi ovaj broj novinama i priznao je samo 5774 pogođenih rezultata.", "Očito je promjenom vlastitog identifikacijskog broja prilikom pozivanja na test bilo moguće pozvati nalaze drugih korisnika - a time i ime, adresu, državljanstvo, datum rođenja, broj mobitela, e-poštu i, ako je navedeno, broj putovnice ili osobne iskaznice." ]
+}
