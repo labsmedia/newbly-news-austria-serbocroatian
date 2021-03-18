@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 4466,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 601,
-      "id" : "4OtuiIYT",
-      "imgUrl" : "https://image.kurier.at/images/original/5005353/46-158360196.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wiederherstellung der vollen Reisefreiheit? Kurz zu politischen Gesprächen in Berlin",
-      "titleTarget" : "Obnova pune slobode putovanja? Ukratko o političkim razgovorima u Berlinu",
-      "url" : "https://kurier.at/politik/inland/wiederherstellung-der-vollen-reisefreiheit-kurz-zu-politischen-gespraechen-in-berlin/401220675"
-    }, {
       "articleLength" : 2510,
       "articlePartsSize" : 11,
       "articleWordCount" : 319,
@@ -22,57 +12,79 @@
       "titleTarget" : "Četiri ipak nije događaj",
       "url" : "https://kurier.at/politik/inland/vier-sind-nun-doch-keine-veranstaltung/401221464"
     }, {
-      "articleLength" : 1036,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 149,
-      "id" : "qSTo66er",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie zufrieden sind Sie mit der Regierung?",
-      "titleTarget" : "Koliko ste zadovoljni vladom?",
-      "url" : "https://www.derstandard.at/story/2000125049931/wie-zufrieden-sind-sie-mit-der-regierung?ref=rss"
-    }, {
-      "articleLength" : 3312,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 460,
-      "id" : "tpgugxPg",
-      "imgUrl" : "https://image.kurier.at/images/original/5005944/46-176445004.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Österreich erhält 400.000 Pfizer-Impfdosen zusätzlich",
-      "titleTarget" : "Austrija prima dodatnih 400 000 doza cjepiva Pfizer",
-      "url" : "https://kurier.at/politik/inland/kurz-oesterreich-erhaelt-400000-impfdosen-zusaetzlich/401220954"
-    }, {
-      "articleLength" : 921,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 113,
-      "id" : "otgWYHum",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zwei Jahre und neun Monate Haft für Ex-FPÖ-Politiker Schellenbacher",
-      "titleTarget" : "Dvije godine i devet mjeseci zatvora za bivšeg političara FPÖ-a Schellenbachera",
-      "url" : "https://www.derstandard.at/story/2000125117646/zwei-jahre-und-neun-monate-haft-fuer-ex-fpoe-politiker?ref=rss"
-    }, {
-      "articleLength" : 916,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 133,
-      "id" : "8wyriJzs",
-      "imgUrl" : "https://image.kurier.at/images/original/5000763/46-176343378.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Impfstoff-Experte Krammer zu Astra Zeneca: \"Österreichs Weg ist gut\"",
-      "titleTarget" : "Stručnjak za cjepiva Krammer o Astri Zeneci: \"Austrijski put je dobar\"",
-      "url" : "https://kurier.at/politik/inland/krammer-zu-astra-zeneca-oesterreichs-weg-ist-gut/401220630"
-    }, {
-      "articleLength" : 1130,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 148,
-      "id" : "pDLR8jy9",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/5/6/5952598/European-Council-President-Michel-holds-video-conference-in-Brussels_1615975600826520.jpg",
+      "articleLength" : 4249,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 573,
+      "id" : "uwXzH1ZU",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/6/5952678/CORONA-IMPFUNG-IMPFSTART-FR-LEHRER-UND-KINDERGARTENPERSONAL_1615979546991726_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "EU will \"hunderttausende\" Dosen des Pfizer-Vakzins an Österreich liefern",
-      "titleTarget" : "EU želi isporučiti Austriji \"stotine tisuća\" doza cjepiva Pfizer",
-      "url" : "https://www.diepresse.com/5952598/Coronavirus_EU-will-hunderttausende-Dosen-des-PfizerVakzins-an?from=rss"
+      "titleSource" : "Grüner Pass: Österreich will \"erste Schritte\" schon im April setzen",
+      "titleTarget" : "Green Pass: Austrija želi poduzeti \"prve korake\" već u travnju",
+      "url" : "https://www.diepresse.com/5952678/Corona_Gruener-Pass_Oesterreich-will-erste-Schritte-schon-im?from=rss"
+    }, {
+      "articleLength" : 3004,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 429,
+      "id" : "sGNcW757",
+      "imgUrl" : "https://image.kurier.at/images/original/5007165/46-176196912.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Mit Grünem Pass ab April zurück in die Normalität",
+      "titleTarget" : "Zelenim prolazom vratio se u normalu od travnja",
+      "url" : "https://kurier.at/politik/inland/mit-gruenem-pass-ab-april-zurueck-in-die-normalitaet/401221587"
+    }, {
+      "articleLength" : 1488,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 206,
+      "id" : "b6agqSWI",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/f/5952639/UNTERRICHTSSTART-FR-MATURANTEN_1615977248363533_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Tirols Bildungslandesrätin: \"Es braucht keinen Schichtbetrieb mehr\"",
+      "titleTarget" : "Tirolski savjetnik za obrazovanje: \"Više vam nije potreban rad u smjeni\"",
+      "url" : "https://www.diepresse.com/5952639/Schule_Tirols-Bildungslandesraetin_Es-braucht-keinen?from=rss"
+    }, {
+      "articleLength" : 4466,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 601,
+      "id" : "4OtuiIYT",
+      "imgUrl" : "https://image.kurier.at/images/original/5005353/46-158360196.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wiederherstellung der vollen Reisefreiheit? Kurz zu politischen Gesprächen in Berlin",
+      "titleTarget" : "Obnova pune slobode putovanja? Ukratko o političkim razgovorima u Berlinu",
+      "url" : "https://kurier.at/politik/inland/wiederherstellung-der-vollen-reisefreiheit-kurz-zu-politischen-gespraechen-in-berlin/401220675"
+    }, {
+      "articleLength" : 920,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 132,
+      "id" : "3uFM4aQe",
+      "imgUrl" : "https://image.kurier.at/images/original/4813725/20201211-ABD0060-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Zweite NR-Präsidentin Bures positiv auf Corona getestet",
+      "titleTarget" : "Drugi predsjednik NR-a Bures bio je pozitivan na Coronu",
+      "url" : "https://kurier.at/politik/inland/zweite-nr-praesidentin-bures-positiv-auf-corona-getestet/401221377"
+    }, {
+      "articleLength" : 4364,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 622,
+      "id" : "euy7bUPV",
+      "imgUrl" : "https://image.kurier.at/images/original/5006217/20210317-ABD0045-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kickl im U-Ausschuss: \"Macht der Ibiza-Bilder hat mich erschlagen\"",
+      "titleTarget" : "Kickl u U-odboru: \"Moć slika Ibize me ubila\"",
+      "url" : "https://kurier.at/politik/inland/kickl-im-u-ausschuss-macht-der-ibiza-bilder-hat-mich-erschlagen/401220942"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
+      "articleLength" : 4214,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 614,
+      "id" : "CpKwE42C",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/3/e/6/5952486/50F3DC93-02DB-4319-81CF-4D1541629561_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Verbund erhöht Dividende auf 75 Cent",
+      "titleTarget" : "Verbund povećava dividendu na 75 centi",
+      "url" : "https://www.diepresse.com/5952486/Jahresbilanz_Verbund-erhoeht-Dividende-auf-75-Cent?from=rss"
+    }, {
       "articleLength" : 1196,
       "articlePartsSize" : 6,
       "articleWordCount" : 164,
@@ -82,44 +94,6 @@
       "titleSource" : "Inflation legte im Februar auf 1,2 Prozent zu",
       "titleTarget" : "Inflacija je u veljači porasla na 1,2 posto",
       "url" : "https://kurier.at/wirtschaft/inflation-legte-im-februar-auf-12-prozent-zu/401220780"
-    }, {
-      "articleLength" : 2874,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 413,
-      "id" : "HO9LEfMY",
-      "imgUrl" : "https://image.kurier.at/images/original/5005389/46-176277121.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "RBI-Chef: \"Krise kostet uns ein bis eineinhalb Jahre\"",
-      "titleTarget" : "Šef IRB-a: \"Kriza nas košta godinu do godinu i pol\"",
-      "url" : "https://kurier.at/wirtschaft/rbi-erwartet-geringes-kreditwachstum-im-1-halbjahr-2021/401220708"
-    }, {
-      "articleLength" : 1211,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 164,
-      "id" : "CvYKobg4",
-      "imgUrl" : "https://image.kurier.at/images/original/3704942/78370011350047632_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kryptowährungen mit Rekord-Mittelzuflüssen",
-      "titleTarget" : "Kriptovalute s rekordnim priljevima sredstava",
-      "url" : "https://kurier.at/wirtschaft/kryptowaehrungen-mit-rekord-mittelzufluessen/401220600"
-    }, {
-      "articleLength" : 3325,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 448,
-      "id" : "Xjd26mhz",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wirtschaftskammer Wien fürchtet wegen Stundungen Haftungsfalle",
-      "titleTarget" : "Bečka gospodarska komora plaši se zamke odgovornosti zbog odgode",
-      "url" : "https://www.derstandard.at/story/2000125087721/wirtschaftskammer-wien-fuerchtet-wegen-stundungen-haftungsfalle?ref=rss"
-    }, {
-      "articleLength" : 3911,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 555,
-      "id" : "cX68jMe2",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Ausbau der Stromnetze hängt an staatlichem Anreiz",
-      "titleTarget" : "Širenje električne mreže ovisi o vladinim poticajima",
-      "url" : "https://www.derstandard.at/story/2000125094064/ausbau-der-stromnetze-haengt-an-staatlichem-anreiz?ref=rss"
     }, {
       "articleLength" : 1870,
       "articlePartsSize" : 8,
@@ -131,29 +105,48 @@
       "titleTarget" : "Lukoil gradi novo sjedište na Schwarzenbergplatzu u Beču",
       "url" : "https://www.diepresse.com/5952533/Immobilien_Lukoil-baut-neue-Zentrale-am-Wiener-Schwarzenbergplatz?from=rss"
     }, {
-      "articleLength" : 4214,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 614,
-      "id" : "CpKwE42C",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/3/e/6/5952486/50F3DC93-02DB-4319-81CF-4D1541629561_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Verbund erhöht Dividende auf 75 Cent",
-      "titleTarget" : "Verbund povećava dividendu na 75 centi",
-      "url" : "https://www.diepresse.com/5952486/Jahresbilanz_Verbund-erhoeht-Dividende-auf-75-Cent?from=rss"
+      "articleLength" : 1537,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 218,
+      "id" : "Ovj8XYNC",
+      "imgUrl" : "https://image.kurier.at/images/original/3467080/46-145363949.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "68 Milliarden Dollar wert: Coinbase vor Börsegang",
+      "titleTarget" : "Vrijednost 68 milijardi dolara: Coinbase prije IPO-a",
+      "url" : "https://kurier.at/wirtschaft/68-milliarden-dollar-wert-coinbase-vor-boersegang/401221767"
+    }, {
+      "articleLength" : 3325,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 448,
+      "id" : "Xjd26mhz",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wirtschaftskammer Wien fürchtet wegen Stundungen Haftungsfalle",
+      "titleTarget" : "Bečka gospodarska komora plaši se zamke odgovornosti zbog odgode",
+      "url" : "https://www.derstandard.at/story/2000125087721/wirtschaftskammer-wien-fuerchtet-wegen-stundungen-haftungsfalle?ref=rss"
+    }, {
+      "articleLength" : 2874,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 413,
+      "id" : "HO9LEfMY",
+      "imgUrl" : "https://image.kurier.at/images/original/5005389/46-176277121.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "RBI-Chef: \"Krise kostet uns ein bis eineinhalb Jahre\"",
+      "titleTarget" : "Šef IRB-a: \"Kriza nas košta godinu do godinu i pol\"",
+      "url" : "https://kurier.at/wirtschaft/rbi-erwartet-geringes-kreditwachstum-im-1-halbjahr-2021/401220708"
+    }, {
+      "articleLength" : 834,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 124,
+      "id" : "6yIvSsyo",
+      "imgUrl" : "https://image.kurier.at/images/original/5006508/46-176248692.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Die schönsten Vasen für den Frühling",
+      "titleTarget" : "Najljepše vaze za proljeće",
+      "url" : "https://kurier.at/wirtschaft/immobiz/die-schoensten-vasen-fuer-den-fruehling/401221281"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 3716,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 519,
-      "id" : "c25eLGTu",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "Höchste Zahl an Corona-Neuinfektionen des Jahres in Österreich",
-      "titleTarget" : "Najveći broj novih infekcija koronom u godini u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/hoechste-zahl-an-corona-neuinfektionen-des-jahres-in-oesterreich/401220756"
-    }, {
       "articleLength" : 809,
       "articlePartsSize" : 4,
       "articleWordCount" : 131,
@@ -163,36 +156,6 @@
       "titleSource" : "Neuer Nachtzug nach Split für Sommer geplant",
       "titleTarget" : "Za ljeto planiran novi noćni vlak za Split",
       "url" : "https://www.diepresse.com/5952890/OeBB_Neuer-Nachtzug-nach-Split-fuer-Sommer-geplant?from=rss"
-    }, {
-      "articleLength" : 1248,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 173,
-      "id" : "BuMzjQ2A",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/c/5/5952453/8EA226E3-0C25-418D-BAAD-07F922FC56AA_v0_l_v0.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Österreich bekommt rundum erneuerten Personalausweis",
-      "titleTarget" : "Austrija dobiva potpuno obnovljenu osobnu iskaznicu",
-      "url" : "https://www.diepresse.com/5952453/Sicherheit_Oesterreich-bekommt-rundum-erneuerten-Personalausweis?from=rss"
-    }, {
-      "articleLength" : 2897,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 399,
-      "id" : "ppStHv2j",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/6/c/5952620/9673C995-8FCC-498D-8C84-CE5020ED07DB_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "An diesen Wiener Plätzen könnten die öffentlichen Schanigärten entstehen",
-      "titleTarget" : "Na ovim bečkim trgovima mogli bi se graditi javni paviljoni",
-      "url" : "https://www.diepresse.com/5952620/Wien_An-diesen-Wiener-Plaetzen-koennten-die-oeffentlichen?from=rss"
-    }, {
-      "articleLength" : 4087,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 543,
-      "id" : "xtvlVNIk",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/4/8/5952584/DC041FC8-1CF7-4762-8F62-0DBCEF4F30EB_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Niederösterreich will mit Frühwarnsystem Abriegelungen verhindern",
-      "titleTarget" : "Donja Austrija želi spriječiti blokadu sustavom ranog upozoravanja",
-      "url" : "https://www.diepresse.com/5952584/Coroanvirus_Niederoesterreich-will-mit-Fruehwarnsystem?from=rss"
     }, {
       "articleLength" : 4087,
       "articlePartsSize" : 19,
@@ -204,38 +167,59 @@
       "titleTarget" : "Wiener Neustadt želi dobiti prioritet za cijepljenje",
       "url" : "https://www.diepresse.com/5952584/Coroanvirus_Wiener-Neustadt-will-bei-Impfungen-vorgezogen-werden?from=rss"
     }, {
-      "articleLength" : 5143,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 742,
-      "id" : "oUF7GRQF",
-      "publisher" : "derstandard.at",
-      "titleSource" : "24-Stunden-Betreuung in der Pandemie: Ein Jahr Unsicherheit",
-      "titleTarget" : "24-satna skrb u pandemiji: Jedna godina neizvjesnosti",
-      "url" : "https://www.derstandard.at/story/2000124964071/24-stunden-betreuung-in-der-pandemie-ein-jahr-unsicherheit?ref=rss"
+      "articleLength" : 1248,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 173,
+      "id" : "BuMzjQ2A",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/c/5/5952453/8EA226E3-0C25-418D-BAAD-07F922FC56AA_v0_l_v0.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Österreich bekommt rundum erneuerten Personalausweis",
+      "titleTarget" : "Austrija dobiva potpuno obnovljenu osobnu iskaznicu",
+      "url" : "https://www.diepresse.com/5952453/Sicherheit_Oesterreich-bekommt-rundum-erneuerten-Personalausweis?from=rss"
+    }, {
+      "articleLength" : 3716,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 519,
+      "id" : "c25eLGTu",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "Höchste Zahl an Corona-Neuinfektionen des Jahres in Österreich",
+      "titleTarget" : "Najveći broj novih infekcija koronom u godini u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/hoechste-zahl-an-corona-neuinfektionen-des-jahres-in-oesterreich/401220756"
+    }, {
+      "articleLength" : 3989,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 573,
+      "id" : "ocG3kBzy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/1/b/5952795/Fuballfans-sollten-sich-gegen-FSME-impfen-lassen_1615993945690689_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Rekordhoch\" an FSME-Fällen: Wie man sich schützen kann",
+      "titleTarget" : "\"Rekordno visoko\" slučajeva TBE: Kako se zaštititi",
+      "url" : "https://www.diepresse.com/5952795/Zecken_Rekordhoch-an-FSMEFaellen_Wie-man-sich-schuetzen-kann?from=rss"
+    }, {
+      "articleLength" : 1138,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 158,
+      "id" : "HJ0N950g",
+      "imgUrl" : "https://image.kurier.at/images/original/3267920/81670356447006490_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Österreich bekommt rundum erneuerten Personalausweis",
+      "titleTarget" : "Austrija dobiva potpuno obnovljenu osobnu iskaznicu",
+      "url" : "https://kurier.at/chronik/oesterreich/oesterreich-bekommt-rundum-erneuerten-personalausweis/401220714"
+    }, {
+      "articleLength" : 2897,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 399,
+      "id" : "ppStHv2j",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/6/c/5952620/9673C995-8FCC-498D-8C84-CE5020ED07DB_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "An diesen Wiener Plätzen könnten die öffentlichen Schanigärten entstehen",
+      "titleTarget" : "Na ovim bečkim trgovima mogli bi se graditi javni paviljoni",
+      "url" : "https://www.diepresse.com/5952620/Wien_An-diesen-Wiener-Plaetzen-koennten-die-oeffentlichen?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 3008,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 455,
-      "id" : "adMp6ksd",
-      "imgUrl" : "https://image.kurier.at/images/original/5006946/46-107711338.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Stardirigent James Levine gestorben",
-      "titleTarget" : "Umro je zvjezdani dirigent James Levine",
-      "url" : "https://kurier.at/kultur/dirigent-james-levine-gestorben/401221491"
-    }, {
-      "articleLength" : 1586,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 216,
-      "id" : "d1J5lfhR",
-      "imgUrl" : "https://image.kurier.at/images/original/5006562/46-176104449.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Golden-Globes-Verband sagt Jury-Anteil von 13 Prozent für Schwarze zu",
-      "titleTarget" : "Udruga Zlatni globus obećava 13 posto žirija za crnce",
-      "url" : "https://kurier.at/kultur/golden-globes-verband-sagt-jury-anteil-von-13-prozent-fuer-schwarze-zu/401221302"
-    }, {
       "articleLength" : 2468,
       "articlePartsSize" : 10,
       "articleWordCount" : 328,
@@ -246,25 +230,15 @@
       "titleTarget" : "Uplašiti taktiku s Coronom? Skepticizam prema medijima se povećava",
       "url" : "https://www.diepresse.com/5952608/Panikmache-bei-Corona-Skepsis-gegenueber-Medien-steigt?from=rss"
     }, {
-      "articleLength" : 1627,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 242,
-      "id" : "SWeARXcU",
-      "imgUrl" : "https://image.kurier.at/images/original/5006580/46-147336638.jpg",
+      "articleLength" : 3008,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 455,
+      "id" : "adMp6ksd",
+      "imgUrl" : "https://image.kurier.at/images/original/5006946/46-107711338.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Rammstein-Sänger kündigt Live-Album von Lindemann-Projekt an",
-      "titleTarget" : "Pjevač Rammsteina najavljuje album uživo iz Lindemann projekta",
-      "url" : "https://kurier.at/kultur/rammstein-saenger-kuendigt-live-album-von-lindemann-projekt-an/401221305"
-    }, {
-      "articleLength" : 1603,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 238,
-      "id" : "39gbv46i",
-      "imgUrl" : "https://image.kurier.at/images/original/5005254/46-176347016.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Flimmit würdigt Peter Patzak mit umfangreicher Kollektion",
-      "titleTarget" : "Flimmit odaje počast Peteru Patzaku opsežnom kolekcijom",
-      "url" : "https://kurier.at/kultur/flimmit-wuerdigt-peter-patzak-mit-umfangreicher-kollektion/401220639"
+      "titleSource" : "Stardirigent James Levine gestorben",
+      "titleTarget" : "Umro je zvjezdani dirigent James Levine",
+      "url" : "https://kurier.at/kultur/dirigent-james-levine-gestorben/401221491"
     }, {
       "articleLength" : 825,
       "articlePartsSize" : 4,
@@ -276,6 +250,25 @@
       "titleTarget" : "Umro je američki dirigent James Levine",
       "url" : "https://www.diepresse.com/5952899/USStardirigent-James-Levine-gestorben?from=rss"
     }, {
+      "articleLength" : 1586,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "d1J5lfhR",
+      "imgUrl" : "https://image.kurier.at/images/original/5006562/46-176104449.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Golden-Globes-Verband sagt Jury-Anteil von 13 Prozent für Schwarze zu",
+      "titleTarget" : "Udruga Zlatni globus obećava 13 posto žirija za crnce",
+      "url" : "https://kurier.at/kultur/golden-globes-verband-sagt-jury-anteil-von-13-prozent-fuer-schwarze-zu/401221302"
+    }, {
+      "articleLength" : 1614,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 245,
+      "id" : "dZNjdk89",
+      "publisher" : "derstandard.at",
+      "titleSource" : "US-Stardirigent James Levine gestorben",
+      "titleTarget" : "Umro je američki dirigent James Levine",
+      "url" : "https://www.derstandard.at/story/2000125126970/us-stardirigent-james-levine-77-jaehrig-gestorben?ref=rss"
+    }, {
       "articleLength" : 384,
       "articlePartsSize" : 2,
       "articleWordCount" : 62,
@@ -285,6 +278,16 @@
       "titleSource" : "Online-Buchpräsentation Hitlers Vater",
       "titleTarget" : "Internetska prezentacija knjige Hitlerovog oca",
       "url" : "https://www.diepresse.com/5952688/OnlineBuchpraesentation-Hitlers-Vater?from=rss"
+    }, {
+      "articleLength" : 455,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 60,
+      "id" : "hxGc9wZy",
+      "imgUrl" : "https://image.kurier.at/images/original/5006610/46-147253304.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Liam und Noel Gallagher arbeiten wieder miteinander - für einen Film",
+      "titleTarget" : "Liam i Noel Gallagher ponovno rade zajedno - na filmu",
+      "url" : "https://kurier.at/kultur/liam-und-noel-gallagher-arbeiten-wieder-miteinander-fuer-einen-film/401221338"
     } ]
   }, {
     "category" : "HEALTH",
@@ -310,16 +313,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 3919,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 571,
-      "id" : "AScnmdK4",
-      "imgUrl" : "https://image.kurier.at/images/original/5007030/46-176452726.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Altstar Hannes Reichelt beendet seine Karriere",
-      "titleTarget" : "ÖSV stara zvijezda Hannes Reichelt završava karijeru",
-      "url" : "https://kurier.at/sport/wintersport/oesv-routinier-und-ex-weltmeister-hannes-reichelt-beendet-seine-karriere/401221467"
-    }, {
       "articleLength" : 494,
       "articlePartsSize" : 2,
       "articleWordCount" : 69,
@@ -330,53 +323,62 @@
       "titleTarget" : "Hannes Reichelt završava skijašku karijeru",
       "url" : "https://www.diepresse.com/5952853/Ruecktritt_Hannes-Reichelt-beendet-SkiKarriere?from=rss"
     }, {
-      "articleLength" : 929,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 142,
-      "id" : "7KmIztHw",
-      "imgUrl" : "https://image.kurier.at/images/original/4182470/46-143100670.jpg",
+      "articleLength" : 3919,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 571,
+      "id" : "AScnmdK4",
+      "imgUrl" : "https://image.kurier.at/images/original/5007030/46-176452726.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "ORF-Experte Hans Knauß meldet sich nach Corona-Infektion zurück",
-      "titleTarget" : "Stručnjak za ORF Hans Knauß izvještava nakon infekcije koronom",
-      "url" : "https://kurier.at/sport/wintersport/orf-experte-hans-knauss-meldet-sich-nach-corona-infektion-zurueck/401220597"
+      "titleSource" : "ÖSV-Altstar Hannes Reichelt beendet seine Karriere",
+      "titleTarget" : "ÖSV stara zvijezda Hannes Reichelt završava karijeru",
+      "url" : "https://kurier.at/sport/wintersport/oesv-routinier-und-ex-weltmeister-hannes-reichelt-beendet-seine-karriere/401221467"
     }, {
-      "articleLength" : 3062,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 443,
-      "id" : "LdLQFd2q",
-      "publisher" : "derstandard.at",
-      "titleSource" : "\"Gottes Rückkehr\": Ibrahimovic spielt wieder für Schweden",
-      "titleTarget" : "\"Božji povratak\": Ibrahimović ponovno igra za Švedsku",
-      "url" : "https://www.derstandard.at/story/2000125098578/gottes-rueckkehr-zlatan-ibrahimovic-spielt-wieder-fuer-schweden?ref=rss"
-    }, {
-      "articleLength" : 819,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 112,
-      "id" : "hFeAgvJn",
-      "publisher" : "derstandard.at",
-      "titleSource" : "\"Beneleague\": Belgische Fußballliga strebt Fusion mit Eredivisie an",
-      "titleTarget" : "\"Beneleague\": Belgijska nogometna liga želi se spojiti s Eredivisieom",
-      "url" : "https://www.derstandard.at/story/2000125104824/beneleague-belgische-fussballiga-strebt-fusion-mit-eredivisie-an?ref=rss"
-    }, {
-      "articleLength" : 2497,
+      "articleLength" : 2526,
       "articlePartsSize" : 11,
-      "articleWordCount" : 371,
-      "id" : "f5HtxC81",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/8/f/5952911/5ECBC2B6-C0BD-4B65-A750-A8D8877C4EC4_v0_l.jpg",
+      "articleWordCount" : 373,
+      "id" : "koRgY6Qp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/2/d/5953069/18529396-1B49-43B3-AF9A-D510B2FA50C7_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Dominic Thiem sucht sein Tennis",
-      "titleTarget" : "Dominic Thiem traži svoj tenis",
-      "url" : "https://www.diepresse.com/5952911/Ursachenforschung_Dominic-Thiem-sucht-sein-Tennis?from=rss"
+      "titleSource" : "Bayerns Pflichtsieg, Chelseas Show",
+      "titleTarget" : "Obavezna pobjeda Bavarske, Chelseajev show",
+      "url" : "https://www.diepresse.com/5953069/Champions-League-Achtelfinale_Bayerns-Pflichtsieg-Chelseas-Show?from=rss"
     }, {
-      "articleLength" : 1827,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 262,
-      "id" : "WGkXcawv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/f/6/5952758/0E56320C-CBF7-4C3D-9574-000AED44BF5B_v0_h.jpg",
+      "articleLength" : 1545,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 212,
+      "id" : "uWrr6m3L",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Zahlreiche Corona-Infektionen nach Hallen-Europameisterschaft",
+      "titleTarget" : "Brojne infekcije koronom nakon Europskog dvoranskog prvenstva",
+      "url" : "https://www.derstandard.at/story/2000125138210/zahlreiche-corona-infektionen-nach-hallen-europameisterschaft?ref=rss"
+    }, {
+      "articleLength" : 1080,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 157,
+      "id" : "1TeBcGB4",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/2/7/5953063/F5459F6A-CBAD-4318-B234-2742B0DA03D1_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Uefa schwächt Forderung nach EM-Spielen vor Fans ab",
-      "titleTarget" : "Uefa slabi potražnju za utakmicama Europskog prvenstva pred navijačima",
-      "url" : "https://www.diepresse.com/5952758/EM-2021_Geisterspiele-vom-Tisch_Uefa-fordert-EMSpiele-mit-Fans?from=rss"
+      "titleSource" : "Marsch offenbar Trainerkandidat bei Celtic Glasgow",
+      "titleTarget" : "Očito je očito trener trener u Celtic Glasgowu",
+      "url" : "https://www.diepresse.com/5953063/Marsch-offenbar-Trainerkandidat-bei-Celtic-Glasgow?from=rss"
+    }, {
+      "articleLength" : 3954,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 588,
+      "id" : "HrpA1LP7",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Rule, New Zealand! New Zealand, rule the waves!",
+      "titleTarget" : "Rule, Novi Zeland! Novi Zeland, vladaj valovima!",
+      "url" : "https://www.derstandard.at/story/2000125128721/rule-new-zealand-new-zealand-rule-the-waves?ref=rss"
+    }, {
+      "articleLength" : 1077,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 155,
+      "id" : "s5CxQlsH",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ex-Rennfahrerin Sabine Schmitz verstorben",
+      "titleTarget" : "Preminula je bivša trkačka vozačica Sabine Schmitz",
+      "url" : "https://www.diepresse.com/5953031/Motorsport_ExRennfahrerin-Sabine-Schmitz-verstorben?from=rss"
     } ]
   } ],
   "country" : "austria",
