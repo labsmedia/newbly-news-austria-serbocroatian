@@ -2,63 +2,43 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 4249,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 573,
-      "id" : "uwXzH1ZU",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/6/5952678/CORONA-IMPFUNG-IMPFSTART-FR-LEHRER-UND-KINDERGARTENPERSONAL_1615979546991726_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Grüner Pass: Österreich will \"erste Schritte\" schon im April setzen",
-      "titleTarget" : "Green Pass: Austrija želi poduzeti \"prve korake\" već u travnju",
-      "url" : "https://www.diepresse.com/5952678/Corona_Gruener-Pass_Oesterreich-will-erste-Schritte-schon-im?from=rss"
-    }, {
-      "articleLength" : 2510,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 319,
-      "id" : "ZwEPjdEp",
-      "imgUrl" : "https://image.kurier.at/images/original/5006613/20210317-ABD0090-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Vier sind nun doch keine Veranstaltung",
-      "titleTarget" : "Četiri ipak nije događaj",
-      "url" : "https://kurier.at/politik/inland/vier-sind-nun-doch-keine-veranstaltung/401221464"
-    }, {
-      "articleLength" : 1488,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 206,
-      "id" : "b6agqSWI",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/7/f/5952639/UNTERRICHTSSTART-FR-MATURANTEN_1615977248363533_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Tirols Bildungslandesrätin: \"Es braucht keinen Schichtbetrieb mehr\"",
-      "titleTarget" : "Tirolski savjetnik za obrazovanje: \"Više vam nije potreban rad u smjeni\"",
-      "url" : "https://www.diepresse.com/5952639/Schule_Tirols-Bildungslandesraetin_Es-braucht-keinen?from=rss"
-    }, {
-      "articleLength" : 3004,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 429,
-      "id" : "sGNcW757",
-      "imgUrl" : "https://image.kurier.at/images/original/5007165/46-176196912.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Mit Grünem Pass ab April zurück in die Normalität",
-      "titleTarget" : "Zelenim prolazom vratio se u normalu od travnja",
-      "url" : "https://kurier.at/politik/inland/mit-gruenem-pass-ab-april-zurueck-in-die-normalitaet/401221587"
-    }, {
-      "articleLength" : 1126,
+      "articleLength" : 943,
       "articlePartsSize" : 5,
-      "articleWordCount" : 136,
-      "id" : "qxVzPpqm",
+      "articleWordCount" : 115,
+      "id" : "qW9Euwg1",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/7/6/5953142/haim_1616054879031800_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Zwei Jahre und neun Monate Haft für Ex-FPÖ-Politiker Schellenbacher",
-      "titleTarget" : "Dvije godine i devet mjeseci zatvora za bivšeg političara FPÖ-a Schellenbachera",
-      "url" : "https://www.diepresse.com/5952715/Justiz_Zwei-Jahre-und-neun-Monate-Haft-fuer-ExFPOePolitiker?from=rss"
+      "titleSource" : "Oberösterreichs FPÖ-Chef Haimbuchner im Krankenhaus",
+      "titleTarget" : "Šef FPÖ-a iz gornje Austrije Haimbuchner u bolnici",
+      "url" : "https://www.diepresse.com/5953142/Corona_Oberoesterreichs-FPOeChef-Haimbuchner-im-Krankenhaus?from=rss"
     }, {
-      "articleLength" : 4382,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 618,
-      "id" : "oDthfl3j",
+      "articleLength" : 2424,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 333,
+      "id" : "idNGKTuq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/4/e/5953102/4D0DF0C8-46B7-4010-807E-92D6F1344519_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Corona-Beschaffungen: Kurz-Ladung in \"kleinen U-Ausschuss\" abgelehnt",
+      "titleTarget" : "Nabave Corone: Odbijen kratki poziv u \"mali podzemni odbor\"",
+      "url" : "https://www.diepresse.com/5953102/Ladungsantrag_CoronaBeschaffungen_KurzLadung-in-kleinen?from=rss"
+    }, {
+      "articleLength" : 1364,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 175,
+      "id" : "RtwlSbNL",
       "publisher" : "derstandard.at",
-      "titleSource" : "Der EU-Impfstoffstreit ist vorbei, die Schuldfrage bleibt offen",
-      "titleTarget" : "Spor oko EU cjepiva je završen, pitanje krivnje ostaje otvoreno",
-      "url" : "https://www.derstandard.at/story/2000125131230/der-eu-impfstoffstreit-ist-vorbei-die-schuldfrage-bleibt-offen?ref=rss"
+      "titleSource" : "Oberösterreichs FPÖ-Chef Haimbuchner mit Corona im Krankenhaus",
+      "titleTarget" : "Šef gornjoaustrijskog FPÖ-a Haimbuchner s Coronom u bolnici",
+      "url" : "https://www.derstandard.at/story/2000125151314/oberoesterreichs-landeshauptmann-stv-haimbuchner-im-krankenhaus?ref=rss"
+    }, {
+      "articleLength" : 4188,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 585,
+      "id" : "KEAcp7kX",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Mehr Corona-Tests für Kindergartenkinder gefordert",
+      "titleTarget" : "Zahtijeva se više testova korone za vrtićku djecu",
+      "url" : "https://www.derstandard.at/story/2000125131420/mehr-corona-tests-fuer-kindergartenkinder-gefordert?ref=rss"
     }, {
       "articleLength" : 1993,
       "articlePartsSize" : 9,
@@ -69,6 +49,26 @@
       "titleSource" : "Impfstoffbestellungen: Opposition lädt Kurz in Kleinen U-Ausschuss",
       "titleTarget" : "Naredbe o cjepivima: Oporba poziva Kurza da se pridruži malom podzemnom odboru",
       "url" : "https://www.diepresse.com/5953102/Ladungsantrag_Impfstoffbestellungen_Opposition-laedt-Kurz-in?from=rss"
+    }, {
+      "articleLength" : 2198,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 308,
+      "id" : "oL4GiHYh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/7/d/5953405/5DE0B8CF-E6C0-4CDB-8572-64AE4875006D_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Das Ibiza-Video bleibt \"streng geheim\"",
+      "titleTarget" : "Video s Ibize ostaje \"strogo povjerljiv\"",
+      "url" : "https://www.diepresse.com/5953405/Parlament_Das-IbizaVideo-bleibt-streng-geheim?from=rss"
+    }, {
+      "articleLength" : 2223,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 320,
+      "id" : "CRVvpn0m",
+      "imgUrl" : "https://image.kurier.at/images/original/5004636/20210316-ABD0126-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurz: \"Die Gefahr ist das Virus, nicht der Impfstoff\"",
+      "titleTarget" : "Ukratko: \"Opasnost predstavlja virus, a ne cjepivo\"",
+      "url" : "https://kurier.at/politik/inland/kurz-die-gefahr-ist-das-virus-nicht-der-impfstoff/401221794"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -83,25 +83,43 @@
       "titleTarget" : "Svaka šesta osoba više ne može plaćati svoje fiksne troškove",
       "url" : "https://kurier.at/wirtschaft/jeder-sechste-kann-seine-fixkosten-nicht-mehr-bezahlen/401221884"
     }, {
-      "articleLength" : 1265,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 164,
-      "id" : "HfwyTzVO",
-      "imgUrl" : "https://image.kurier.at/images/original/4995576/46-175733900.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Datenleck: Tausende Testergebnisse schlecht geschützt im Netz",
-      "titleTarget" : "Curenje podataka: Tisuće rezultata ispitivanja slabo su zaštićeni u mreži",
-      "url" : "https://kurier.at/wirtschaft/datenleck-tausende-testergebnisse-schlecht-geschuetzt-im-netz/401221908"
+      "articleLength" : 3166,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 409,
+      "id" : "D9IB16e6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/7/7/3/5953395/137F4D2C-928B-4897-B754-DAF727727119_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Über 20 Razzien: BWB filzt Abfallwirtschaft",
+      "titleTarget" : "Preko 20 racija: BWB prijavljuje gospodarenje otpadom",
+      "url" : "https://www.diepresse.com/5953395/Hausdurchsuchung_Ueber-20-Razzien_BWB-filzt-Abfallwirtschaft?from=rss"
     }, {
-      "articleLength" : 1537,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 218,
-      "id" : "Ovj8XYNC",
-      "imgUrl" : "https://image.kurier.at/images/original/3467080/46-145363949.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "68 Milliarden Dollar wert: Coinbase vor Börsegang",
-      "titleTarget" : "Vrijednost 68 milijardi dolara: Coinbase prije IPO-a",
-      "url" : "https://kurier.at/wirtschaft/68-milliarden-dollar-wert-coinbase-vor-boersegang/401221767"
+      "articleLength" : 6681,
+      "articlePartsSize" : 31,
+      "articleWordCount" : 928,
+      "id" : "JWNlBHCt",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Was hinter den Lieferproblemen bei Astra Zeneca steckt",
+      "titleTarget" : "Što stoji iza problema s isporukom u Astri Zeneci",
+      "url" : "https://www.derstandard.at/story/2000125106072/was-hinter-den-lieferproblemen-bei-astra-zeneca-steckt?ref=rss"
+    }, {
+      "articleLength" : 1187,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 164,
+      "id" : "UeztmroS",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Ex-Sektionschefin wechselt in den Lokfahrdienst",
+      "titleTarget" : "Bivši šef odsjeka mijenja se na uslugu lokomotive",
+      "url" : "https://www.derstandard.at/story/2000125138035/ex-sektionschefin-wechselt-in-den-lokfahrdienst?ref=rss"
+    }, {
+      "articleLength" : 3623,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 531,
+      "id" : "tfMiKRJU",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/7/b/e/5953470/F1343A48-10E5-43D8-9B73-351CB5307F2E_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Verrückte Rallye bei Volkswagen-Aktie",
+      "titleTarget" : "Ludi skup u dionicama Volkswagena",
+      "url" : "https://www.diepresse.com/5953470/Boerse_Verrueckte-Rallye-bei-VolkswagenAktie?from=rss"
     }, {
       "articleLength" : 3471,
       "articlePartsSize" : 15,
@@ -112,86 +130,48 @@
       "titleTarget" : "Nema pomoći Covid za tvrtke s izgubljenim financijskim postupcima",
       "url" : "https://www.diepresse.com/5953114/Gutachten_Keine-CovidHilfen-fuer-Firmen-mit-verlorenem-Finanzverfahren?from=rss"
     }, {
-      "articleLength" : 834,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 124,
-      "id" : "6yIvSsyo",
-      "imgUrl" : "https://image.kurier.at/images/original/5006508/46-176248692.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die schönsten Vasen für den Frühling",
-      "titleTarget" : "Najljepše vaze za proljeće",
-      "url" : "https://kurier.at/wirtschaft/immobiz/die-schoensten-vasen-fuer-den-fruehling/401221281"
-    }, {
-      "articleLength" : 4154,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 578,
-      "id" : "RTMiiKP8",
-      "publisher" : "derstandard.at",
-      "titleSource" : "McKinsey zahlt wegen Opioid-Strategie 600 Millionen Dollar",
-      "titleTarget" : "McKinsey plaća 600 milijuna dolara za opioidnu strategiju",
-      "url" : "https://www.derstandard.at/story/2000123887865/mckinsey-zahlt-wegen-opioid-strategie-600-millionen-dollar?ref=rss"
+      "articleLength" : 2694,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 374,
+      "id" : "qBxcQz1w",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/7/4/2/5953346/0F1BECC3-CA71-41E8-BAAA-AEE840177865_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Semperit verzeichnet Gewinn- und Umsatzrekord",
+      "titleTarget" : "Semperit je zabilježio rekordnu dobit i prodaju",
+      "url" : "https://www.diepresse.com/5953346/Jahresbilanz_Semperit-verzeichnet-Gewinn-und-Umsatzrekord?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2287,
+      "articleLength" : 2081,
       "articlePartsSize" : 10,
-      "articleWordCount" : 339,
-      "id" : "zObif2Gb",
-      "imgUrl" : "https://image.kurier.at/images/original/5007084/46-176259146.jpg",
+      "articleWordCount" : 307,
+      "id" : "gKvluq16",
+      "imgUrl" : "https://image.kurier.at/images/original/4890495/46-169055022.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Infektionszahlen innerhalb von zwei Monaten vervierfacht",
-      "titleTarget" : "Broj infekcija učetverostručio se u roku od dva mjeseca",
-      "url" : "https://kurier.at/chronik/oesterreich/infektionszahlen-innerhalb-von-zwei-monaten-vervierfacht/401221002"
+      "titleSource" : "Klimek: \"Lockdown wäre notwendig\"",
+      "titleTarget" : "Klimek: \"Zaključavanje bi bilo potrebno\"",
+      "url" : "https://kurier.at/chronik/oesterreich/klimek-lockdown-waere-notwendig/401221887"
     }, {
-      "articleLength" : 4305,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 583,
-      "id" : "DKIQuRn4",
-      "imgUrl" : "https://image.kurier.at/images/original/1877149/grenzkontrolle-000_APA_HERBERT%252BNEUBAUER.jpg",
+      "articleLength" : 5498,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 748,
+      "id" : "8BUxIccW",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
       "publisher" : "kurier.at",
-      "titleSource" : "Deutschland verlängert Grenzkontrollen um zwei Wochen",
-      "titleTarget" : "Njemačka produžuje graničnu kontrolu za dva tjedna",
-      "url" : "https://kurier.at/chronik/oesterreich/deutschland-verlaengert-grenzkontrollen-zu-oesterreich-um-zwei-wochen/401221095"
+      "titleSource" : "Erneut Höchstwert bei Neuinfektionen in Österreich",
+      "titleTarget" : "Opet velika vrijednost za nove infekcije u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/erneut-hoechstwert-bei-neuinfektionen-in-oesterreich/401221911"
     }, {
-      "articleLength" : 5444,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 756,
-      "id" : "cYHwN153",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Ende März mehr als 500 Corona-Intensivpatienten erwartet",
-      "titleTarget" : "Više od 500 pacijenata s intenzivnom njegom korone očekuje se krajem ožujka",
-      "url" : "https://www.derstandard.at/story/2000125116917/ende-maerz-mehr-als-500-corona-intensivpatienten-erwartet?ref=rss"
-    }, {
-      "articleLength" : 809,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 131,
-      "id" : "st9idp4j",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/7/a/5952890/28A52DA1-0B81-4909-8234-BB580270B767_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Neuer Nachtzug nach Split für Sommer geplant",
-      "titleTarget" : "Za ljeto planiran novi noćni vlak za Split",
-      "url" : "https://www.diepresse.com/5952890/OeBB_Neuer-Nachtzug-nach-Split-fuer-Sommer-geplant?from=rss"
-    }, {
-      "articleLength" : 907,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 110,
-      "id" : "0l65B5w7",
-      "imgUrl" : "https://image.kurier.at/images/original/5006376/46-176448497.jpg",
+      "articleLength" : 1809,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 255,
+      "id" : "rcUWpzh5",
+      "imgUrl" : "https://image.kurier.at/images/original/5007558/46-173914410.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Zwei Jahre und neun Monate Haft für Ex-FPÖ-Politiker Schellenbacher",
-      "titleTarget" : "Dvije godine i devet mjeseci zatvora za bivšeg političara FPÖ-a Schellenbachera",
-      "url" : "https://kurier.at/chronik/oesterreich/zwei-jahre-und-neun-monate-haft-fuer-ex-fpoe-politiker-schellenbacher/401221209"
-    }, {
-      "articleLength" : 3989,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 573,
-      "id" : "ocG3kBzy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/1/b/5952795/Fuballfans-sollten-sich-gegen-FSME-impfen-lassen_1615993945690689_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Rekordhoch\" an FSME-Fällen: Wie man sich schützen kann",
-      "titleTarget" : "\"Rekordno visoko\" slučajeva TBE: Kako se zaštititi",
-      "url" : "https://www.diepresse.com/5952795/Zecken_Rekordhoch-an-FSMEFaellen_Wie-man-sich-schuetzen-kann?from=rss"
+      "titleSource" : "Mordermittlungen gegen Polizisten in Wien",
+      "titleTarget" : "Istrage ubojstva protiv policajaca u Beču",
+      "url" : "https://kurier.at/chronik/oesterreich/mordermittlungen-gegen-polizisten-in-wien/401221785"
     }, {
       "articleLength" : 1784,
       "articlePartsSize" : 9,
@@ -201,29 +181,76 @@
       "titleSource" : "Kurz vor EMA-Entscheidung zu Astra Zeneca: \"Die Gefahr ist das Virus und nicht die Impfung\"",
       "titleTarget" : "Kratko prije odluke EMA-e o Astri Zeneci: \"Opasnost je virus, a ne cijepljenje\"",
       "url" : "https://www.derstandard.at/story/2000125146556/kurz-vor-ema-entscheidung-zu-astra-zeneca-die-gefahr-ist?ref=rss"
+    }, {
+      "articleLength" : 3127,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 435,
+      "id" : "1gPVTxWe",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Lücken bei Erfassung der Nebenwirkungen von Impfungen",
+      "titleTarget" : "Praznine u bilježenju nuspojava cijepljenja",
+      "url" : "https://www.derstandard.at/story/2000125133007/luecken-bei-erfassung-von-nebenwirkungen-nach-impfungen?ref=rss"
+    }, {
+      "articleLength" : 2392,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 352,
+      "id" : "e0qJD3EP",
+      "imgUrl" : "https://image.kurier.at/images/original/5007009/46-168664023.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona ließ Kriminalität in Österreich sinken",
+      "titleTarget" : "Corona smanjila kriminal u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-liess-kriminalitaet-in-oesterreich-einbrechen/401221515"
+    }, {
+      "articleLength" : 2085,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 305,
+      "id" : "4X0t2m0G",
+      "imgUrl" : "https://image.kurier.at/images/original/4943731/46-173366389.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Burgenland: Mutationen machen bald 100 Prozent der Infektionen aus",
+      "titleTarget" : "Gradišće: Mutacije će uskoro činiti 100 posto infekcija",
+      "url" : "https://kurier.at/chronik/oesterreich/burgenland-mutationen-machen-bald-100-prozent-der-corona-infektionen-aus/401222388"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 3008,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 455,
-      "id" : "adMp6ksd",
-      "imgUrl" : "https://image.kurier.at/images/original/5006946/46-107711338.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Stardirigent James Levine gestorben",
-      "titleTarget" : "Umro je zvjezdani dirigent James Levine",
-      "url" : "https://kurier.at/kultur/dirigent-james-levine-gestorben/401221491"
-    }, {
-      "articleLength" : 2468,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 328,
-      "id" : "6d1atZfZ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/6/0/5952608/PK-NACH-CORONA-GIPFEL-IM-BUNDESKANZLERAMT-WALLNER--LUDWIG--KURZ--SCHTZENHFER--ANSCHOBER--WAGNER_1615980603932866_v0_h.jpg",
+      "articleLength" : 1062,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 149,
+      "id" : "WxweXODv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Panikmache bei Corona? Skepsis gegenüber Medien steigt",
-      "titleTarget" : "Uplašiti taktiku s Coronom? Skepticizam prema medijima se povećava",
-      "url" : "https://www.diepresse.com/5952608/Panikmache-bei-Corona-Skepsis-gegenueber-Medien-steigt?from=rss"
+      "titleSource" : "Musiksalon Nr. 54: In memoriam James Levine",
+      "titleTarget" : "Glazbeni salon # 54: In memoriam James Levine",
+      "url" : "https://www.diepresse.com/5953526/Podcast_Musiksalon-Nr-54_In-memoriam-James-Levine?from=rss"
+    }, {
+      "articleLength" : 3407,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 500,
+      "id" : "wlxcLwSh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/c/3/5952963/88314B19-2AB8-4CC2-9132-CC68D7BA7132_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Die grelle Welt der Zwangsprostitution",
+      "titleTarget" : "Lurid svijet prisilne prostitucije",
+      "url" : "https://www.diepresse.com/5952963/Serie_Die-grelle-Welt-der-Zwangsprostitution?from=rss"
+    }, {
+      "articleLength" : 5208,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 722,
+      "id" : "KukjyEXo",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wie eine Initiative vor Gericht den Kultur-Lockdown kippen könnte",
+      "titleTarget" : "Kako bi inicijativa na sudu mogla srušiti blokadu kulture",
+      "url" : "https://www.derstandard.at/story/2000125131374/wie-eine-initiative-vor-gericht-den-kultur-lockdown-kippen-koennte?ref=rss"
+    }, {
+      "articleLength" : 3145,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 471,
+      "id" : "xSvb6YTW",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Downers and Milk: Ein Lichtpunkt im Jammertal",
+      "titleTarget" : "Downers i mlijeko: svjetlosna točka u dolini suza",
+      "url" : "https://www.derstandard.at/story/2000125128354/downers-and-milk-ein-lichtpunkt-im-jammertal?ref=rss"
     }, {
       "articleLength" : 3728,
       "articlePartsSize" : 17,
@@ -235,47 +262,39 @@
       "titleTarget" : "„Austrijske prekrasne godine“: Poznate osobe razgovaraju o svom životu",
       "url" : "https://kurier.at/kultur/medien/oesterreichs-wunderbare-jahre-prominente-erzaehlen-aus-ihrem-leben/401221716"
     }, {
-      "articleLength" : 825,
+      "articleLength" : 659,
       "articlePartsSize" : 4,
-      "articleWordCount" : 130,
-      "id" : "jwFa4EbX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/8/3/5952899/Handout-photo-of-MET-musical-director-James-Levine-in-Japan_1615993159395790.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "US-Stardirigent James Levine gestorben",
-      "titleTarget" : "Umro je američki dirigent James Levine",
-      "url" : "https://www.diepresse.com/5952899/USStardirigent-James-Levine-gestorben?from=rss"
-    }, {
-      "articleLength" : 1586,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 216,
-      "id" : "d1J5lfhR",
-      "imgUrl" : "https://image.kurier.at/images/original/5006562/46-176104449.jpg",
+      "articleWordCount" : 94,
+      "id" : "z4W7ubtn",
+      "imgUrl" : "https://image.kurier.at/images/original/5007816/46-175658512.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Golden-Globes-Verband sagt Jury-Anteil von 13 Prozent für Schwarze zu",
-      "titleTarget" : "Udruga Zlatni globus obećava 13 posto žirija za crnce",
-      "url" : "https://kurier.at/kultur/golden-globes-verband-sagt-jury-anteil-von-13-prozent-fuer-schwarze-zu/401221302"
+      "titleSource" : "Corona im Ensemble: Staatsoper verschiebt \"Parsifal\"-Aufzeichnung",
+      "titleTarget" : "Corona u ansamblu: Državna opera odgađa snimanje \"Parsifala\"",
+      "url" : "https://kurier.at/kultur/corona-im-ensemble-staatsoper-verschiebt-parsifal-aufzeichnung/401221995"
     }, {
-      "articleLength" : 1614,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 245,
-      "id" : "dZNjdk89",
-      "publisher" : "derstandard.at",
-      "titleSource" : "US-Stardirigent James Levine gestorben",
-      "titleTarget" : "Umro je američki dirigent James Levine",
-      "url" : "https://www.derstandard.at/story/2000125126970/us-stardirigent-james-levine-77-jaehrig-gestorben?ref=rss"
-    }, {
-      "articleLength" : 5208,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 722,
-      "id" : "KukjyEXo",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie eine Initiative vor Gericht den Kultur-Lockdown kippen könnte",
-      "titleTarget" : "Kako bi inicijativa na sudu mogla srušiti blokadu kulture",
-      "url" : "https://www.derstandard.at/story/2000125131374/wie-eine-initiative-vor-gericht-den-kultur-lockdown-kippen-koennte?ref=rss"
+      "articleLength" : 2415,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 324,
+      "id" : "hX966ApR",
+      "imgUrl" : "https://image.kurier.at/images/original/5009013/03_mak-ausstellungsansicht_2021.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Erhelltes Dunkel in durchlässigen Spiegeln: Andreas Duscha im MAK",
+      "titleTarget" : "Osvijetljena tama u prozirnim zrcalima: Andreas Duscha u MAK-u",
+      "url" : "https://kurier.at/kultur/erhelltes-dunkel-in-durchlaessigen-spiegeln-andreas-duscha-im-mak/401216913"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
+      "articleLength" : 3903,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 574,
+      "id" : "w50hkMZX",
+      "imgUrl" : "https://image.kurier.at/images/original/4657690/46-164730808.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Hutter: \"Auch Jüngere sollten mehr geimpft werden\"",
+      "titleTarget" : "Hutter: \"Čak bi i mlađi ljudi trebali više cijepiti\"",
+      "url" : "https://kurier.at/wissen/gesundheit/hutter-auch-juengere-sollten-mehr-geimpft-werden/401222094"
+    }, {
       "articleLength" : 2913,
       "articlePartsSize" : 15,
       "articleWordCount" : 397,
@@ -286,6 +305,36 @@
       "titleTarget" : "Cjepivo Astra-Zeneca malo štiti od južnoafričke varijante",
       "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-impfstoff-schuetzt-wenig-vor-suedafrika-variante/401221890"
     }, {
+      "articleLength" : 838,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 104,
+      "id" : "32YPupCw",
+      "imgUrl" : "https://image.kurier.at/images/original/5008737/46-176471561.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WHO Europa für weiteren Gebrauch von Astra Zeneca",
+      "titleTarget" : "WHO Europe za daljnju upotrebu Astre Zeneca",
+      "url" : "https://kurier.at/wissen/gesundheit/who-europa-fuer-weiteren-gebrauch-von-astra-zeneca/401222445"
+    }, {
+      "articleLength" : 4654,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 626,
+      "id" : "yLFrcdRa",
+      "imgUrl" : "https://image.kurier.at/images/original/5006949/78350011459494318_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "EMA empfiehlt auch weiterhin Einsatz von Astra Zeneca",
+      "titleTarget" : "EMA i dalje preporučuje upotrebu Astre Zenece",
+      "url" : "https://kurier.at/wissen/gesundheit/ema-empfehlung-astra-zeneca-ist-sicher-und-effektiv/401222511"
+    }, {
+      "articleLength" : 2572,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 350,
+      "id" : "kWbPBidB",
+      "imgUrl" : "https://image.kurier.at/images/original/5008887/46-168197530.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "13 Prozent weniger Mammographien und Koloskopien im Vorjahr",
+      "titleTarget" : "13 posto manje mamografija i kolonoskopija u prethodnoj godini",
+      "url" : "https://kurier.at/wissen/gesundheit/13-prozent-weniger-mammographien-und-koloskopien-im-vorjahr/401222529"
+    }, {
       "articleLength" : 5270,
       "articlePartsSize" : 25,
       "articleWordCount" : 700,
@@ -295,57 +344,37 @@
       "titleTarget" : "Smrtnost od dijabetesa u Austriji porasla je za 70 posto od 2000. godine",
       "url" : "https://www.derstandard.at/story/2000125147290/sterblichkeit-bei-diabetes-stieg-in-oesterreich-um-70-prozent?ref=rss"
     }, {
-      "articleLength" : 7767,
-      "articlePartsSize" : 34,
-      "articleWordCount" : 1063,
-      "id" : "crP0sLdc",
+      "articleLength" : 5962,
+      "articlePartsSize" : 27,
+      "articleWordCount" : 880,
+      "id" : "n9DcX6tp",
       "publisher" : "derstandard.at",
-      "titleSource" : "Rekordhoch bei FSME-Erkrankungen",
-      "titleTarget" : "Rekordno visoka za TBE bolesti",
-      "url" : "https://www.derstandard.at/story/2000125115451/rekordhoch-bei-fsme-erkrankungen?ref=rss"
+      "titleSource" : "Burnout im Homeoffice: Ausgebrannt am Küchentisch",
+      "titleTarget" : "Izgaranje u kućnom uredu: Izgorjelo za kuhinjskim stolom",
+      "url" : "https://www.derstandard.at/story/2000125048856/burnout-im-homeoffice-ausgebrannt-am-kuechentisch?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 3919,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 571,
-      "id" : "AScnmdK4",
-      "imgUrl" : "https://image.kurier.at/images/original/5007030/46-176452726.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Altstar Hannes Reichelt beendet seine Karriere",
-      "titleTarget" : "ÖSV stara zvijezda Hannes Reichelt završava karijeru",
-      "url" : "https://kurier.at/sport/wintersport/oesv-routinier-und-ex-weltmeister-hannes-reichelt-beendet-seine-karriere/401221467"
-    }, {
-      "articleLength" : 494,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 69,
-      "id" : "viCOIWqm",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/5/5/5952853/609E279B-C672-40E9-8852-B5C3B6314179_v0_l.jpg",
+      "articleLength" : 1077,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 155,
+      "id" : "s5CxQlsH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/0/7/5953031/Portrait-Sabine-Schmitz-Themenfoto-Persnlichkeitn-Sabine-Schmitz-Nrburg-Rennfahrerin---Sabine-Schmitz-hat-als-ein_1616046645149169_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Hannes Reichelt beendet Ski-Karriere",
-      "titleTarget" : "Hannes Reichelt završava skijašku karijeru",
-      "url" : "https://www.diepresse.com/5952853/Ruecktritt_Hannes-Reichelt-beendet-SkiKarriere?from=rss"
+      "titleSource" : "Ex-Rennfahrerin Sabine Schmitz verstorben",
+      "titleTarget" : "Preminula je bivša trkačka vozačica Sabine Schmitz",
+      "url" : "https://www.diepresse.com/5953031/Motorsport_ExRennfahrerin-Sabine-Schmitz-verstorben?from=rss"
     }, {
-      "articleLength" : 1839,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 266,
-      "id" : "jHERduS0",
-      "imgUrl" : "https://image.kurier.at/images/original/5006625/46-167293311.jpg",
+      "articleLength" : 4699,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 701,
+      "id" : "LXe9bfgJ",
+      "imgUrl" : "https://image.kurier.at/images/original/5008200/46-176229957.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Auch Adrian Grbic dürfte dem ÖFB in Schottland fehlen",
-      "titleTarget" : "Adrian Grbić također će vjerojatno nestati iz ÖFB-a u Škotskoj",
-      "url" : "https://kurier.at/sport/fussball/fehlt-auch-adrian-grbic-in-schottland-der-oefb-kaempft-um-den-vorletzten-stuermer-im-kader/401221332"
-    }, {
-      "articleLength" : 4114,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 614,
-      "id" : "n4Iu7rMk",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/6/9/5953129/644E21C3-60AD-495A-828D-07E576EEC016_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Achter WM-Titel als Lewis Hamiltons letztes Hurra?",
-      "titleTarget" : "Osmi svjetski naslov kao posljednje ura Lewisa Hamiltona?",
-      "url" : "https://www.diepresse.com/5953129/Formel-1_Achter-WMTitel-als-Lewis-Hamiltons-letztes-Hurra?from=rss"
+      "titleSource" : "Nach Absage in Lenzerheide: Kriechmayr holt kleine Kristallkugel",
+      "titleTarget" : "Nakon otkazivanja u Lenzerheideu: Kriechmayr dobiva malu kristalnu kuglu",
+      "url" : "https://kurier.at/sport/wintersport/absage-in-lenzerheide-kriechmayr-gewinnt-kleine-kristallkugel/401221947"
     }, {
       "articleLength" : 3303,
       "articlePartsSize" : 14,
@@ -356,24 +385,44 @@
       "titleTarget" : "Godina bez satova plivanja: kad se djeca izostave na suhom",
       "url" : "https://www.derstandard.at/story/2000125130382/ein-jahr-ohne-schwimmunterricht-wenn-kinder-auf-dem-trockenen-sitzen?ref=rss"
     }, {
-      "articleLength" : 783,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 103,
-      "id" : "5i5leeeG",
+      "articleLength" : 815,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 113,
+      "id" : "ORIYlbJx",
+      "imgUrl" : "https://image.kurier.at/images/original/5009340/46-102871336.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Deutsche Ex-Rennfahrerin verlor den Kampf gegen Krebs",
-      "titleTarget" : "Njemački bivši vozač vozača izgubio je bitku protiv raka",
-      "url" : "https://kurier.at/sport/motorsport/deutsche-ex-rennfahrerin-sabine-schmitz-verlor-den-kampf-gegen-krebs/401221041"
+      "titleSource" : "Positiver Corona-Test von Wolfsburg-Geschäftsführer Schmadtke",
+      "titleTarget" : "Pozitivan test za koronu voditelja Wolfsburga Schmadtkea",
+      "url" : "https://kurier.at/sport/fussball/positiver-corona-test-von-wolfsburg-geschaeftsfuehrer-joerg-schmadtke/401222805"
     }, {
-      "articleLength" : 577,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 74,
-      "id" : "g7XINWJ9",
-      "imgUrl" : "https://image.kurier.at/images/original/5006532/46-162788199.jpg",
+      "articleLength" : 2313,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 334,
+      "id" : "aoyI8zrS",
+      "imgUrl" : "https://image.kurier.at/images/original/5007507/46-112244008.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "FIS-Renndirektor hat Corona, Ex-ÖSV-Star Trinkl übernimmt",
-      "titleTarget" : "FIS-ov direktor utrke ima Coronu, a bivšu ÖSV-ovu zvijezdu Trinkl preuzima",
-      "url" : "https://kurier.at/sport/wintersport/fis-renndirektor-couder-hat-corona-ex-oesv-star-hannes-trinkl-uebernimmt/401221278"
+      "titleSource" : "Stankovic ist sehr \"verärgert\" über Nationalteam-Ausbootung",
+      "titleTarget" : "Stankovića jako \"živcira\" uklanjanje reprezentacije",
+      "url" : "https://kurier.at/sport/fussball/torhueter-cican-stankovic-ist-sehr-veraergert-ueber-nationalteam-ausbootung-beim-oefb/401221728"
+    }, {
+      "articleLength" : 3507,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 492,
+      "id" : "q3MSQfw6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/d/c/5953500/AA3CF142-66C3-4806-AB34-F111C33D8E10_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Schottisches Roulette: Wer darf mit nach Glasgow?",
+      "titleTarget" : "Škotski rulet: tko može doći u Glasgow?",
+      "url" : "https://www.diepresse.com/5953500/OeFBTeam_Schottisches-Roulette_Wer-darf-mit-nach-Glasgow?from=rss"
+    }, {
+      "articleLength" : 1545,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 212,
+      "id" : "uWrr6m3L",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Zahlreiche Corona-Infektionen nach Hallen-Europameisterschaft",
+      "titleTarget" : "Brojne infekcije koronom nakon Europskog dvoranskog prvenstva",
+      "url" : "https://www.derstandard.at/story/2000125138210/zahlreiche-corona-infektionen-nach-hallen-europameisterschaft?ref=rss"
     } ]
   } ],
   "country" : "austria",
