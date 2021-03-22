@@ -2,15 +2,25 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 1236,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 178,
-      "id" : "ZNYvkpJO",
-      "imgUrl" : "https://image.kurier.at/images/original/5396739/46-167837361.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "100 Österreicher, per Los ausgewählt, entscheiden über den Benzin-Preis",
-      "titleTarget" : "100 Austrijanaca, izabranih žrijebom, odlučuje o cijeni benzina",
-      "url" : "https://kurier.at/politik/inland/100-oesterreicher-per-los-ausgewaehlt-entscheiden-ueber-den-benzin-preis/401256771"
+      "articleLength" : 3648,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 500,
+      "id" : "6VVjj5C4",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/b/e/5955006/PK-NACH-CORONA-GIPFEL-IM-BUNDESKANZLERAMT-WALLNER_1616395480511353_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Wallner: Regionale Lockerungen herausfordernd, aber sinnvoll",
+      "titleTarget" : "Wallner: Regionalno ublažavanje je izazovno, ali ima smisla",
+      "url" : "https://www.diepresse.com/5955006/Weiteres-Vorgehen_Wallner_Regionale-Lockerungen-herausfordernd?from=rss"
+    }, {
+      "articleLength" : 4317,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 576,
+      "id" : "plP5IOna",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/7/c/5954684/230C2686-27B2-492B-A91E-61E04F6B1EA0_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "VfGH-Präsident für Zurückhaltung der Politik bei Kritik",
+      "titleTarget" : "Predsjednik VfGH zbog suzdržavanja političara u slučaju kritika",
+      "url" : "https://www.diepresse.com/5954684/ORFPressestunde_VfGHPraesident-fuer-Zurueckhaltung-der-Politik-bei?from=rss"
     }, {
       "articleLength" : 2153,
       "articlePartsSize" : 11,
@@ -31,15 +41,24 @@
       "titleTarget" : "Predsjednik VfGH suočava se s lovcima na korupciju",
       "url" : "https://www.derstandard.at/story/2000125236681/vfgh-praesident-stellt-sich-vor-korruptionsjaeger?ref=rss"
     }, {
-      "articleLength" : 4765,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 650,
-      "id" : "xjDwhAza",
-      "imgUrl" : "https://image.kurier.at/images/original/5643876/46-176251183.jpg",
+      "articleLength" : 5022,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 701,
+      "id" : "P6kFdNvK",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Zu hohe Zahlen für Lockerungen: Anschober will \"Notbremse ziehen\"",
+      "titleTarget" : "Preveliki brojevi za ublažavanje: Anschober želi \"povući kočnicu u nuždi\"",
+      "url" : "https://www.derstandard.at/story/2000125230976/zu-hohe-zahlen-fuer-lockerungen-regierung-beraet-am-montag-weitere?ref=rss"
+    }, {
+      "articleLength" : 1803,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 246,
+      "id" : "sdSJkq3k",
+      "imgUrl" : "https://image.kurier.at/images/original/5010792/20210319-ABD0031-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Vor Beratungen: Lockerungen für Rendi-Wagner \"ausgeschlossen\"",
-      "titleTarget" : "Prije konzultacija: ublažavanje za Rendi-Wagnera \"isključeno\"",
-      "url" : "https://kurier.at/politik/inland/vor-corona-beratungen-lockerungen-fuer-rendi-wagner-ausgeschlossen/401266491"
+      "titleSource" : "Anschober will die Notbremse ziehen",
+      "titleTarget" : "Anschober želi povući kočnicu u nuždi",
+      "url" : "https://kurier.at/politik/inland/anschober-will-die-notbremse-ziehen/401279559"
     }, {
       "articleLength" : 5509,
       "articlePartsSize" : 25,
@@ -50,48 +69,68 @@
       "titleSource" : "Anschober will in stark betroffenen Regionen \"Notbremse ziehen\"",
       "titleTarget" : "Anschober želi \"povući kočnicu u nuždi\" u teško pogođenim regijama",
       "url" : "https://kurier.at/politik/inland/anschober-will-in-stark-betroffenen-regionen-notbremse-ziehen/401273289"
-    }, {
-      "articleLength" : 4317,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 576,
-      "id" : "plP5IOna",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/7/c/5954684/230C2686-27B2-492B-A91E-61E04F6B1EA0_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "VfGH-Präsident für Zurückhaltung der Politik bei Kritik",
-      "titleTarget" : "Predsjednik VfGH zbog suzdržavanja političara u slučaju kritika",
-      "url" : "https://www.diepresse.com/5954684/ORFPressestunde_VfGHPraesident-fuer-Zurueckhaltung-der-Politik-bei?from=rss"
-    }, {
-      "articleLength" : 5022,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 701,
-      "id" : "P6kFdNvK",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zu hohe Zahlen für Lockerungen: Anschober will \"Notbremse ziehen\"",
-      "titleTarget" : "Preveliki brojevi za ublažavanje: Anschober želi \"povući kočnicu u nuždi\"",
-      "url" : "https://www.derstandard.at/story/2000125230976/zu-hohe-zahlen-fuer-lockerungen-regierung-beraet-am-montag-weitere?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 3097,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 436,
-      "id" : "JEgZBaQs",
-      "imgUrl" : "https://image.kurier.at/images/original/5640687/46-176271807.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kocher: Corona-Kurzarbeit in Teilen bis maximal März 2022 denkbar",
-      "titleTarget" : "Kocher: Kratkotrajni rad na Coroni moguće je dijelovima zamisliti najkasnije do ožujka 2022. godine",
-      "url" : "https://kurier.at/wirtschaft/kocher-corona-kurzarbeit-in-teilen-bis-maximal-maerz-2022-denkbar/401266155"
+      "articleLength" : 1572,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 232,
+      "id" : "4vOY8fLt",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/d/e/9/5955049/47FE3BF7-C953-49E8-AF4F-6EEF03AD9FF4_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Türkische Lira stürzt nach Absetzung des Notenbankchefs ab",
+      "titleTarget" : "Turska lira pada nakon što je smijenjen šef središnje banke",
+      "url" : "https://www.diepresse.com/5955049/Geldpolitik_Tuerkische-Lira-stuerzt-nach-Absetzung-des?from=rss"
     }, {
-      "articleLength" : 1190,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 170,
-      "id" : "fcgYvz5J",
-      "imgUrl" : "https://image.kurier.at/images/original/5639241/46-176488517.jpg",
+      "articleLength" : 790,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 99,
+      "id" : "TEKsIF21",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/d/c/a/5955018/7356C658-AEF6-4A05-8568-F58F53C96B7D_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "SNB kauft Fremdwährungen für 110 Milliarden Franken",
+      "titleTarget" : "SNB kupuje strane valute za 110 milijardi franaka",
+      "url" : "https://www.diepresse.com/5955018/Geldpolitik_SNB-kauft-Fremdwaehrungen-fuer-110-Milliarden-Franken?from=rss"
+    }, {
+      "articleLength" : 2416,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 317,
+      "id" : "TyoJTPWa",
+      "imgUrl" : "https://image.kurier.at/images/original/4362020/8078308.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "IWF: 90 Millionen mehr Menschen in extremer Armut",
-      "titleTarget" : "MMF: 90 milijuna ljudi više u ekstremnom siromaštvu",
-      "url" : "https://kurier.at/wirtschaft/iwf-90-millionen-mehr-menschen-in-extremer-armut/401266083"
+      "titleSource" : "Herkunft von Lebensmitteln weiter schwer zu erkennen",
+      "titleTarget" : "Podrijetlo hrane i dalje je teško identificirati",
+      "url" : "https://kurier.at/wirtschaft/herkunft-von-lebensmitteln-noch-immer-schwer-zu-erkennen/401327262"
+    }, {
+      "articleLength" : 2506,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 325,
+      "id" : "ILsbojbi",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Herkunft von Lebensmitteln noch immer schwer zu erkennen",
+      "titleTarget" : "Porijeklo hrane još je uvijek teško identificirati",
+      "url" : "https://www.diepresse.com/5955019/Konsumentenschutz_Herkunft-von-Lebensmitteln-noch-immer-schwer-zu?from=rss"
+    }, {
+      "articleLength" : 5733,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 795,
+      "id" : "SQeQyQRo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/d/8/9/5954953/55AB59D6-48CA-4F42-AA45-172B2DFCE138_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Kohlenstoffungleichheiten in Zeiten der Pandemie",
+      "titleTarget" : "Ugljične nejednakosti u doba pandemije",
+      "url" : "https://www.diepresse.com/5954953/Der-oekonomische-Blick_Kohlenstoffungleichheiten-in-Zeiten-der?from=rss"
+    }, {
+      "articleLength" : 3666,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 488,
+      "id" : "egp2reA4",
+      "imgUrl" : "https://image.kurier.at/images/original/5792586/46-176510627.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "VW will keine neuen Verbrennungsmotoren entwickeln",
+      "titleTarget" : "VW ne želi razvijati nove motore s unutarnjim izgaranjem",
+      "url" : "https://kurier.at/wirtschaft/vw-will-keine-neuen-verbrennungsmotoren-entwickeln/401276799"
     }, {
       "articleLength" : 4680,
       "articlePartsSize" : 20,
@@ -101,68 +140,10 @@
       "titleSource" : "Tod auf der Weide: Wie stressfreies Schlachten ermöglicht werden soll",
       "titleTarget" : "Smrt na pašnjaku: kako klanje bez stresa treba omogućiti",
       "url" : "https://www.derstandard.at/story/2000125211708/tod-auf-der-weide-wie-stressfreies-schlachten-ermoeglicht-werden-soll?ref=rss"
-    }, {
-      "articleLength" : 3810,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 541,
-      "id" : "IAR4Xp74",
-      "imgUrl" : "https://image.kurier.at/images/original/5008839/46-166627484.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Typisch Frauenberuf. Warum Soziales noch immer Frauensache ist",
-      "titleTarget" : "Tipično ženski posao. Zašto su socijalna pitanja i dalje posao žena",
-      "url" : "https://kurier.at/wirtschaft/karriere/typisch-frauenberuf-warum-soziales-noch-immer-frauensache-ist/401222538"
-    }, {
-      "articleLength" : 3650,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 543,
-      "id" : "bAaYb2om",
-      "imgUrl" : "https://image.kurier.at/images/original/5009163/46-176474887.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Vera Steinhäuser: Female Leadership ohne rosa Mascherl",
-      "titleTarget" : "Vera Steinhäuser: Žensko vodstvo bez ružičastih šavova",
-      "url" : "https://kurier.at/wirtschaft/karriere/vera-steinhaeuser-coacht-leadership-ohne-rosa-mascherl/401222556"
-    }, {
-      "articleLength" : 3329,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 471,
-      "id" : "F12NGM7X",
-      "publisher" : "derstandard.at",
-      "titleSource" : "GPA-Chefin Teiber will emotionale Debatte über Vermögenssteuern anfachen",
-      "titleTarget" : "Šef GPA Teiber želi potaknuti emotivnu raspravu o porezima na bogatstvo",
-      "url" : "https://www.derstandard.at/story/2000125197075/gpa-chefin-teiber-will-emotionale-debatte-ueber-vermoegenssteuern-anfachen?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 1962,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 265,
-      "id" : "lSDptyfd",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/8/f/5954703/EDBAEED6-84A9-44C7-AAD6-4E1EAC172520_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Intensivmediziner Markstaller: \"Die Lage ist zunehmend dramatisch\"",
-      "titleTarget" : "Liječnik intenzivne njege Markstaller: \"Situacija je sve dramatičnija\"",
-      "url" : "https://www.diepresse.com/5954703/Schwerere-Verlaeufe_Intensivmediziner-Markstaller_Die-Lage-ist?from=rss"
-    }, {
-      "articleLength" : 1530,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 219,
-      "id" : "BlaBbd4s",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/6/a/5954666/D820FCAE-216D-45CA-A07F-BB455FFF6571_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "2713 Corona-Neuinfektionen in Österreich gemeldet",
-      "titleTarget" : "U Austriji zabilježeno 2713 novih infekcija koronom",
-      "url" : "https://www.diepresse.com/5954666/Statistik_2713-CoronaNeuinfektionen-in-Oesterreich-gemeldet?from=rss"
-    }, {
-      "articleLength" : 4956,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 676,
-      "id" : "1qJxUrbc",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Corona-Maßnahmen lockern oder gar verschärfen?",
-      "titleTarget" : "Olabaviti ili čak pooštriti mjere korone?",
-      "url" : "https://www.derstandard.at/story/2000125236011/corona-massnahmen-lockern-oder-gar-verschaerfen?ref=rss"
-    }, {
       "articleLength" : 1590,
       "articlePartsSize" : 7,
       "articleWordCount" : 199,
@@ -173,25 +154,6 @@
       "titleTarget" : "I dalje se prekidaju vijesti o Haimbuchnerovom zdravstvenom stanju",
       "url" : "https://kurier.at/chronik/oesterreich/weiter-nachrichtensperre-zu-haimbuchners-gesundheitszustand/401275362"
     }, {
-      "articleLength" : 2523,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 342,
-      "id" : "6mLXUTzw",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wiens öffentlicher Raum soll grüner werden",
-      "titleTarget" : "Bečki javni prostor trebao bi postati zeleniji",
-      "url" : "https://www.derstandard.at/story/2000125233350/wiens-oeffentlicher-raum-soll-gruener-werden?ref=rss"
-    }, {
-      "articleLength" : 1702,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 239,
-      "id" : "oitvxbqX",
-      "imgUrl" : "https://image.kurier.at/images/original/5849502/46-176269174.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Weitere Ausreisetests für Tiroler Ort + AUA darf nicht mehr in China landen",
-      "titleTarget" : "Opuštenost za Rendi-Wagnera \"isključena\" + Njemačka suzi 100 maraka",
-      "url" : "https://kurier.at/chronik/oesterreich/vor-corona-beratungen-lockerungen-ausgeschlossen-deutschland-reisst-100er-marke/401266311"
-    }, {
       "articleLength" : 2631,
       "articlePartsSize" : 12,
       "articleWordCount" : 369,
@@ -201,48 +163,58 @@
       "titleSource" : "Austrian Airlines hat in Shanghai zwei Wochen Landeverbot",
       "titleTarget" : "Austrian Airlinesu zabranjeno je slijetanje u Šangaj već dva tjedna",
       "url" : "https://kurier.at/chronik/oesterreich/austrian-airlines-hat-in-shanghai-zwei-wochen-landeverbot/401273001"
+    }, {
+      "articleLength" : 3737,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 519,
+      "id" : "QqVp1ifX",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "2.713 Neuinfektionen in Österreich",
+      "titleTarget" : "2.713 novih infekcija u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2713-neuinfektionen-in-oesterreich/401270001"
+    }, {
+      "articleLength" : 4956,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 676,
+      "id" : "1qJxUrbc",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Corona-Maßnahmen lockern oder gar verschärfen?",
+      "titleTarget" : "Olabaviti ili čak pooštriti mjere korone?",
+      "url" : "https://www.derstandard.at/story/2000125236011/corona-massnahmen-lockern-oder-gar-verschaerfen?ref=rss"
+    }, {
+      "articleLength" : 3166,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 430,
+      "id" : "olN8mctE",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "2.412 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "2.412 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/2412-neue-corona-neuinfektionen-in-oesterreich/401327280"
+    }, {
+      "articleLength" : 2523,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 342,
+      "id" : "6mLXUTzw",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wiens öffentlicher Raum soll grüner werden",
+      "titleTarget" : "Bečki javni prostor trebao bi postati zeleniji",
+      "url" : "https://www.derstandard.at/story/2000125233350/wiens-oeffentlicher-raum-soll-gruener-werden?ref=rss"
+    }, {
+      "articleLength" : 1962,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 265,
+      "id" : "lSDptyfd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/8/f/5954703/EDBAEED6-84A9-44C7-AAD6-4E1EAC172520_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Intensivmediziner Markstaller: \"Die Lage ist zunehmend dramatisch\"",
+      "titleTarget" : "Liječnik intenzivne njege Markstaller: \"Situacija je sve dramatičnija\"",
+      "url" : "https://www.diepresse.com/5954703/Schwerere-Verlaeufe_Intensivmediziner-Markstaller_Die-Lage-ist?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1970,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 292,
-      "id" : "eFSak0ei",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/6/5954614/D6B0712A-D7A4-41AB-A5F8-8A3DE714BC1E_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Opern-Bass Nesterenko starb an Covid in Wien",
-      "titleTarget" : "Operni bas Nesterenko umro je od Covida u Beču",
-      "url" : "https://www.diepresse.com/5954614/Nachruf_OpernBass-Nesterenko-starb-an-Covid-in-Wien?from=rss"
-    }, {
-      "articleLength" : 6816,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 1099,
-      "id" : "4n4xEVpG",
-      "imgUrl" : "https://image.kurier.at/images/original/5466132/46-176469225.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kristina Inhof: Immer am Ball",
-      "titleTarget" : "Kristina Inhof: Uvijek na lopti",
-      "url" : "https://kurier.at/kultur/immer-am-ball/401259012"
-    }, {
-      "articleLength" : 10132,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1457,
-      "id" : "Mt7wu0OW",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mehr Theater machen: Marlene Streeruwitz fordert neue Kulturpolitik",
-      "titleTarget" : "Napravite više kazališta: Marlene Streeruwitz poziva na novu kulturnu politiku",
-      "url" : "https://www.derstandard.at/story/2000125162177/mehr-theater-macheneine-neue-kuturpolitik-muss-her?ref=rss"
-    }, {
-      "articleLength" : 2635,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 387,
-      "id" : "ihCgYROg",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Peter Turrinis \"Gemeinsam ist Alzheimer schöner\"",
-      "titleTarget" : "Peter Turrinis \"Alzheimerova bolest je ljepša zajedno\"",
-      "url" : "https://www.derstandard.at/story/2000125232178/peter-turrinis-gemeinsam-ist-alzheimer-schoener?ref=rss"
-    }, {
       "articleLength" : 421,
       "articlePartsSize" : 2,
       "articleWordCount" : 60,
@@ -253,15 +225,43 @@
       "titleTarget" : "Operni bas Jewgenij Nesterenko umro je od Corone u Beču",
       "url" : "https://kurier.at/kultur/opern-bass-jewgenij-nesterenko-starb-in-wien-an-corona/401272701"
     }, {
-      "articleLength" : 1571,
+      "articleLength" : 1608,
       "articlePartsSize" : 7,
-      "articleWordCount" : 237,
-      "id" : "4xcTN1dg",
-      "imgUrl" : "https://image.kurier.at/images/original/5029632/orf_kurier_20210319205929.jpg",
+      "articleWordCount" : 226,
+      "id" : "eIZB1nsV",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/b/3/5954995/1110C096-FE05-4DD9-86C2-80AA4EA6BCC5_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Polnischer Dichter Adam Zagajewski gestorben",
+      "titleTarget" : "Umro je poljski pjesnik Adam Zagajewski",
+      "url" : "https://www.diepresse.com/5954995/Todesfall_Polnischer-Dichter-Adam-Zagajewski-gestorben?from=rss"
+    }, {
+      "articleLength" : 1566,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 223,
+      "id" : "YPQLu2I6",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Neuer \"Borat\"-Film gewinnt Drehbuchpreis der US-Autorengilde",
+      "titleTarget" : "Novi film \"Borat\" dobitnik je nagrade za scenarij ceha američkih autora",
+      "url" : "https://www.diepresse.com/5954994/Auszeichnung_Neuer-BoratFilm-gewinnt-Drehbuchpreis-der-USAutorengilde?from=rss"
+    }, {
+      "articleLength" : 9517,
+      "articlePartsSize" : 41,
+      "articleWordCount" : 1419,
+      "id" : "g264vo0J",
+      "imgUrl" : "https://image.kurier.at/images/original/5679534/46-176527800.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "\"Starmania 21\", Folge 4: „Mama, du musst  es schaffen!“",
-      "titleTarget" : "\"Starmania 21\", epizoda 4: \"Mama, moraš to učiniti!\"",
-      "url" : "https://kurier.at/kultur/medien/mama-du-musst-es-schaffen/401267031"
+      "titleSource" : "... und wieder 19 Bücher, ganz kurz",
+      "titleTarget" : "... i opet 19 knjiga, vrlo kratko",
+      "url" : "https://kurier.at/kultur/buch/und-wieder-19-buecher-ganz-kurz/401272041"
+    }, {
+      "articleLength" : 4899,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 735,
+      "id" : "rri3JEPF",
+      "publisher" : "derstandard.at",
+      "titleSource" : "William Shatner wird 90: Happy Birthday, Captain Kirk!",
+      "titleTarget" : "William Shatner navršava 90 godina: Sretan rođendan, kapetane Kirk!",
+      "url" : "https://www.derstandard.at/story/2000125232560/william-shatner-wird-90-happy-birthday-captain-kirk?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -275,10 +275,58 @@
       "titleSource" : "\"Lage zunehmend dramatisch\": Intensivmediziner schlägt Alarm",
       "titleTarget" : "\"Situacija sve dramatičnija\": liječnik intenzivne njege oglašava uzbunu",
       "url" : "https://kurier.at/wissen/gesundheit/corona-intensivmediziner-lage-sei-zunehmend-dramatisch/401272131"
+    }, {
+      "articleLength" : 1639,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 227,
+      "id" : "t4LOXArk",
+      "imgUrl" : "https://image.kurier.at/images/original/4994169/46-176299984.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Neue Daten: Astra Zeneca 100 Prozent effektiv gegen schwere Verläufe",
+      "titleTarget" : "Novi podaci: Astra Zeneca 100 posto učinkovita protiv jakih nagiba",
+      "url" : "https://kurier.at/wissen/gesundheit/neue-daten-astra-zeneca-100-prozent-effektiv-gegen-schwere-verlaeufe/401327337"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 2899,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 445,
+      "id" : "B5TCC4Ei",
+      "imgUrl" : "https://image.kurier.at/images/original/5755527/46-176536370.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Perfekter Abschluss: Feller gewinnt den letzten Saison-Slalom",
+      "titleTarget" : "Savršen kraj: Feller pobjeđuje u posljednjem slalomu sezone",
+      "url" : "https://kurier.at/sport/wintersport/ski-alpin-oesv-star-manuel-feller-gewinnt-lenzerheide-slalom-vor-noel-und-pinturault/401270163"
+    }, {
+      "articleLength" : 1422,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 171,
+      "id" : "dyGGYxuW",
+      "imgUrl" : "https://image.kurier.at/images/original/5781195/46-175766817.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Niessl über Corona-Lockerungen: \"Tests für weitere Öffnungsschritte\"",
+      "titleTarget" : "Niessl o popuštanju Corone: \"Ispitivanja za daljnje korake otvaranja\"",
+      "url" : "https://kurier.at/sport/hans-niessl-ueber-corona-lockerungen-tests-fuer-weitere-oeffnungsschritte/401275857"
+    }, {
+      "articleLength" : 3294,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 514,
+      "id" : "RlUpfSxi",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kramer gewinnt auch zweites Springen in Nischnij Tagil",
+      "titleTarget" : "Kramer osvaja i drugo natjecanje u Nižnjem Tagilu",
+      "url" : "https://www.derstandard.at/story/2000125233054/kramer-gewinnt-auch-zweites-springen-in-nischnij-tagil?ref=rss"
+    }, {
+      "articleLength" : 5687,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 858,
+      "id" : "dMXAsrW0",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Hartberg fliegt in Nachspielzeit aus Meistergruppe",
+      "titleTarget" : "Hartberg izlijeće iz skupine prvaka u nadoknadi vremena",
+      "url" : "https://www.derstandard.at/story/2000125237392/hartberg-fliegt-in-nachspielzeit-aus-meistergruppe?ref=rss"
+    }, {
       "articleLength" : 1889,
       "articlePartsSize" : 8,
       "articleWordCount" : 279,
@@ -299,54 +347,15 @@
       "titleTarget" : "WAC je napredovao spektaklom od 5: 3 u Austriji u skupini prvaka",
       "url" : "https://www.diepresse.com/5954944/WAC-stiess-mit-5_3Spektakel-bei-Austria-in-Meistergruppe-vor?from=rss"
     }, {
-      "articleLength" : 2899,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 445,
-      "id" : "B5TCC4Ei",
-      "imgUrl" : "https://image.kurier.at/images/original/5755527/46-176536370.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Perfekter Abschluss: Feller gewinnt den letzten Saison-Slalom",
-      "titleTarget" : "Savršen kraj: Feller pobjeđuje u posljednjem slalomu sezone",
-      "url" : "https://kurier.at/sport/wintersport/ski-alpin-oesv-star-manuel-feller-gewinnt-lenzerheide-slalom-vor-noel-und-pinturault/401270163"
-    }, {
-      "articleLength" : 1185,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 179,
-      "id" : "VpOTYAq3",
-      "imgUrl" : "https://image.kurier.at/images/original/5679504/lunin.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Real-Madrid-Goalie heiratete im Jogginganzug",
-      "titleTarget" : "Golman Real Madrida oženio se u jogging odijelu",
-      "url" : "https://kurier.at/sport/fussball/real-madrid-goalie-andriy-lunin-heiratete-im-jogginganzug/401268651"
-    }, {
-      "articleLength" : 808,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 119,
-      "id" : "sskg17xE",
-      "imgUrl" : "https://image.kurier.at/images/original/5738424/46-176519455.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nächster Weltcupsieg für Skisprung-Star Marita Kramer",
-      "titleTarget" : "Sljedeća pobjeda Svjetskog kupa za zvijezdu skakačica Maritu Kramer",
-      "url" : "https://kurier.at/sport/wintersport/naechster-sieg-fuer-skisprung-star-marita-kramer/401272956"
-    }, {
-      "articleLength" : 3294,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 514,
-      "id" : "RlUpfSxi",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kramer gewinnt auch zweites Springen in Nischnij Tagil",
-      "titleTarget" : "Kramer osvaja i drugo natjecanje u Nižnjem Tagilu",
-      "url" : "https://www.derstandard.at/story/2000125233054/kramer-gewinnt-auch-zweites-springen-in-nischnij-tagil?ref=rss"
-    }, {
-      "articleLength" : 1633,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 241,
-      "id" : "2t3jH4Hm",
-      "imgUrl" : "https://image.kurier.at/images/original/5844828/46-176542024.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Dramatisches Finale: WSG Tirol und WAC fixieren die Meistergruppe",
-      "titleTarget" : "Dramatično finale: WSG Tirol i WAC popravljaju glavnu skupinu",
-      "url" : "https://kurier.at/sport/fussball/dramatisches-finale-in-der-bundesliga-wsg-tirol-und-wac-fixieren-die-meistergruppe/401269527"
+      "articleLength" : 1718,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 251,
+      "id" : "jN7d8tjL",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/9/5/5954709/CA9AAE4E-8106-4250-AD3C-4B35E7E3B8F2_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Kramer holte in Nischnij Tagil Doppel-Sieg",
+      "titleTarget" : "Kramer je odnio dvostruku pobjedu u Nižnjem Tagilu",
+      "url" : "https://www.diepresse.com/5954709/Kramer-holte-in-Nischnij-Tagil-DoppelSieg?from=rss"
     } ]
   } ],
   "country" : "austria",
