@@ -2,55 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 4483,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 623,
-      "id" : "4JAWx2ZP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/a/0/5957792/6BD79CDD-700A-4F94-9898-3A8B0EBAFE86_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Grüner Pass kommt Ende April",
-      "titleTarget" : "Green Pass dolazi krajem travnja",
-      "url" : "https://www.diepresse.com/5957792/Zertifikat_Gruener-Pass-kommt-Ende-April?from=rss"
-    }, {
-      "articleLength" : 3607,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 504,
-      "id" : "tThqmP13",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/d/4/5957332/0CE80DDF-2826-4970-911E-77095E26F513_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Rendi-Wagner zu Ost-Lockdown: \"Sechs Tage eindeutig zu wenig\"",
-      "titleTarget" : "Rendi-Wagner o istočnom zaključavanju: \"Šest dana očito nije dovoljno\"",
-      "url" : "https://www.diepresse.com/5957332/CovidMassnahmen_RendiWagner-zu-OstLockdown_Sechs-Tage-eindeutig?from=rss"
-    }, {
-      "articleLength" : 2509,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 312,
-      "id" : "uuV0XjAe",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/a/6/5957798/20785B97-A5BF-495A-945D-7F2A09EB4FFB_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Behörde: Pilnacek gehört nicht suspendiert",
-      "titleTarget" : "Autoritet: Pilnacek se ne smije suspendirati",
-      "url" : "https://www.diepresse.com/5957798/Behoerde_Pilnacek-gehoert-nicht-suspendiert?from=rss"
-    }, {
-      "articleLength" : 1899,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 240,
-      "id" : "JmWmDNWM",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Disziplinarbehörde gegen Suspendierung von Sektionschef Pilnacek",
-      "titleTarget" : "Disciplinska vlast protiv suspenzije šefa odsjeka Pilnaceka",
-      "url" : "https://www.derstandard.at/story/2000125401293/disziplinarkommission-gegen-suspendierung-von-sektionschef-pilnacek?ref=rss"
-    }, {
-      "articleLength" : 3017,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 408,
-      "id" : "SzXg1z06",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/e/f/5957615/184E968B-DE95-4CF8-B121-6013A93D66A7_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Anschober: \"Diesmal zu Ostern auf Reisen verzichten\"",
-      "titleTarget" : "Anschober: \"Ovaj put bez putovanja na Uskrs\"",
-      "url" : "https://www.diepresse.com/5957615/Ostoesterreich_Anschober_Diesmal-zu-Ostern-auf-Reisen-verzichten?from=rss"
-    }, {
       "articleLength" : 3951,
       "articlePartsSize" : 18,
       "articleWordCount" : 542,
@@ -70,19 +21,87 @@
       "titleSource" : "SPÖ und Neos verlängern Ibiza-U-Ausschuss um 3 Monate",
       "titleTarget" : "SPÖ i Neos produljuju Ibiza-U-odbor za 3 mjeseca",
       "url" : "https://kurier.at/politik/inland/spoe-und-neos-verlaengern-ibiza-untersuchungsausschuss-um-3-monate/401332674"
+    }, {
+      "articleLength" : 21061,
+      "articlePartsSize" : 93,
+      "articleWordCount" : 3099,
+      "id" : "3UsKiSZR",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Sanitätsratschef Müller: \"Föderales Prinzip reicht für die Pandemie nicht\"",
+      "titleTarget" : "Šef medicinskog vijeća Müller: \"Savezni princip nije dovoljan za pandemiju\"",
+      "url" : "https://www.derstandard.at/story/2000125389758/sanitaetsratschef-mueller-foederales-prinzip-reicht-fuer-die-pandemie-nicht?ref=rss"
+    }, {
+      "articleLength" : 1187,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 168,
+      "id" : "Bafo8uac",
+      "imgUrl" : "https://image.kurier.at/images/original/4925728/20210208-ABD0145-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Opposition will Eintrittstests für Handel blockieren",
+      "titleTarget" : "Oporba želi blokirati ulazne testove za trgovinu",
+      "url" : "https://kurier.at/politik/inland/opposition-will-eintrittstests-fuer-handel-blockieren/401333103"
+    }, {
+      "articleLength" : 3419,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 480,
+      "id" : "xCwCMjF5",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Ex-Mitarbeiter des BVT soll Daten dreier Spitzenbeamter abgesaugt haben",
+      "titleTarget" : "Navodi se da su bivši zaposlenici BVT-a izvukli podatke od troje najviših dužnosnika",
+      "url" : "https://www.derstandard.at/story/2000125402598/ex-mitarbeiter-des-bvt-soll-daten-dreier-spitzenbeamter-abgesaugt-haben?ref=rss"
+    }, {
+      "articleLength" : 4483,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 623,
+      "id" : "4JAWx2ZP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/a/0/5957792/6BD79CDD-700A-4F94-9898-3A8B0EBAFE86_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Grüner Pass kommt Ende April",
+      "titleTarget" : "Green Pass dolazi krajem travnja",
+      "url" : "https://www.diepresse.com/5957792/Zertifikat_Gruener-Pass-kommt-Ende-April?from=rss"
+    }, {
+      "articleLength" : 3017,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 408,
+      "id" : "SzXg1z06",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/e/f/5957615/184E968B-DE95-4CF8-B121-6013A93D66A7_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Anschober: \"Diesmal zu Ostern auf Reisen verzichten\"",
+      "titleTarget" : "Anschober: \"Ovaj put bez putovanja na Uskrs\"",
+      "url" : "https://www.diepresse.com/5957615/Ostoesterreich_Anschober_Diesmal-zu-Ostern-auf-Reisen-verzichten?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 5118,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 744,
-      "id" : "3TwiBOAT",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/7/0/1/5957377/A4CEC100-B065-45C1-ACDD-2B8DBEA5F029_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Erholung der Wirtschaft deutlich schwächer",
-      "titleTarget" : "Ekonomski oporavak znatno slabiji",
-      "url" : "https://www.diepresse.com/5957377/Konjunktur_Erholung-der-Wirtschaft-deutlich-schwaecher?from=rss"
+      "articleLength" : 3664,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 531,
+      "id" : "USJUW8Ge",
+      "imgUrl" : "https://image.kurier.at/images/original/14037/einfamilienhaus_pix.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Häuser und Wohnungen wurden 2020 um 7,6 Prozent teurer",
+      "titleTarget" : "Kuće i stanovi bili su skuplji za 7,6 posto u 2020. godini",
+      "url" : "https://kurier.at/wirtschaft/haeuser-und-wohnungen-wurden-2020-um-76-prozent-teurer/401332788"
+    }, {
+      "articleLength" : 6311,
+      "articlePartsSize" : 27,
+      "articleWordCount" : 931,
+      "id" : "HuIc02hQ",
+      "imgUrl" : "https://image.kurier.at/images/original/5930427/46-176625307.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Gesundheitsaktien: Eine Auffrischung fürs Portfolio",
+      "titleTarget" : "Dionice zdravlja: osvježenje za portfelj",
+      "url" : "https://kurier.at/wirtschaft/karriere/gesundheitsaktien-eine-auffrischung-fuers-portfolio/401333130"
+    }, {
+      "articleLength" : 1531,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "A313vTqs",
+      "imgUrl" : "https://image.kurier.at/images/original/3800357/78370011350764380_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Krach im VW-Konzern: Diess erteilt Porsche-Börsengang Absage",
+      "titleTarget" : "Pad u grupi VW: Diess odbija Porscheov IPO",
+      "url" : "https://kurier.at/wirtschaft/krach-im-vw-konzern-diess-erteilt-porsche-boersengang-absage/401333295"
     }, {
       "articleLength" : 3088,
       "articlePartsSize" : 14,
@@ -104,76 +123,29 @@
       "titleTarget" : "Pristupni testovi u maloprodaji izvan kontakta sa stvarnošću \"",
       "url" : "https://www.diepresse.com/5957616/CoronaMassnahmen_Zutrittstests-im-Handel-realitaetsfern?from=rss"
     }, {
-      "articleLength" : 5772,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 833,
-      "id" : "vjmzHorD",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zukunftsplan für MAN-Werk: \"Es ist alles besser als ganz zusperren\"",
-      "titleTarget" : "Budući plan za tvornicu MAN: \"Sve je bolje od potpunog zaključavanja\"",
-      "url" : "https://www.derstandard.at/story/2000125402071/zukunftsplan-fuer-man-werk-es-ist-alles-besser-als-ganz?ref=rss"
+      "articleLength" : 4420,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 620,
+      "id" : "sN11fsLK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/8/5/2/5957714/General-view-shows-the-ski-resort-of-The-Mourtis-as-the-ski-slopes-are-closed-due-to-lack-of-snow-in-Boutx_1616780016798664_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Tourismus: Staatliche Hilfen ungerechtfertigt",
+      "titleTarget" : "Turizam: Državna pomoć neopravdana",
+      "url" : "https://www.diepresse.com/5957714/Umfrage_Tourismus_Staatliche-Hilfen-ungerechtfertigt?from=rss"
     }, {
-      "articleLength" : 2606,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 363,
-      "id" : "mrpVtiZZ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Klimapolitik als demokratisches Experiment: Parlament ebnet Weg für Bürgerrat",
-      "titleTarget" : "Klimatska politika kao demokratski eksperiment: Parlament utire put vijeću građana",
-      "url" : "https://www.derstandard.at/story/2000125369666/klimapolitik-als-demokratisches-experiment-parlament-ebnet-weg-fuer-buergerrat?ref=rss"
-    }, {
-      "articleLength" : 1039,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 146,
-      "id" : "yEHJ9OL1",
-      "imgUrl" : "https://image.kurier.at/images/original/4925728/20210208-ABD0145-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Testpflicht im Handel gilt nicht für die Grundversorgung",
-      "titleTarget" : "Obveza testiranja u maloprodaji ne odnosi se na osnovnu uslugu",
-      "url" : "https://kurier.at/wirtschaft/testpflicht-im-handel-gilt-nicht-fuer-die-grundversorgung/401332332"
-    }, {
-      "articleLength" : 894,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 118,
-      "id" : "KhGAAl4l",
-      "imgUrl" : "https://image.kurier.at/images/original/4696611/tesla_0.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wiederholte arbeitsrechtliche Verstöße bei Tesla",
-      "titleTarget" : "Ponovljena kršenja zakona o radu u Tesli",
-      "url" : "https://kurier.at/wirtschaft/wiederholte-arbeitsrechtliche-verstoesse-bei-tesla/401332293"
+      "articleLength" : 1448,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 203,
+      "id" : "SAQP4P7i",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/8/5/b/5957723/359D807A-3486-4692-A428-EC9E402B69FB_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Wackelt der Eintrittstest im Handel?",
+      "titleTarget" : "Njiše li se ulazni test u maloprodaji?",
+      "url" : "https://www.diepresse.com/5957723/CoronaMassnahmen_Wackelt-der-Eintrittstest-im-Handel?from=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 4423,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 607,
-      "id" : "koZE3Kxi",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "Knapp 4.000 Corona-Neuinfektionen in Österreich",
-      "titleTarget" : "Gotovo 4.000 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/knapp-4000-corona-neuinfektionen-in-oesterreich/401332341"
-    }, {
-      "articleLength" : 1425,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 201,
-      "id" : "Xi06Ar0m",
-      "imgUrl" : "https://image.kurier.at/images/original/4939495/46-175730886.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Deutschland hebt Einreisebeschränkungen für Tirol auf + Fast 4.000 Neuinfektionen in Ö",
-      "titleTarget" : "Jednostavniji tečajevi CoV-a zahvaljujući cijepljenju protiv gripe + obveznom testiranju u maloprodaji: što vrijedi",
-      "url" : "https://kurier.at/chronik/oesterreich/rendi-wagner-besorgt-wir-stehen-vor-der-wand-hohes-fieber-doris-bures-im-spital/401332251"
-    }, {
-      "articleLength" : 3221,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 444,
-      "id" : "PVnEKkNZ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "FPÖ-Bürgermeister startet Petition für Aufnahme von Flüchtlingen",
-      "titleTarget" : "Gradonačelnik FPÖ pokrenuo je peticiju za prihvat izbjeglica",
-      "url" : "https://www.derstandard.at/story/2000125389347/fpoe-buergermeister-startet-petition-fuer-aufnahme-von-fluechtlingen?ref=rss"
-    }, {
       "articleLength" : 4642,
       "articlePartsSize" : 20,
       "articleWordCount" : 659,
@@ -184,47 +156,86 @@
       "titleTarget" : "Kako vladina retorika ometa akciju",
       "url" : "https://www.diepresse.com/5957452/Coronaregeln_Wie-die-Rhetorik-der-Regierung-die-Massnahmen-behindert?from=rss"
     }, {
-      "articleLength" : 1252,
+      "articleLength" : 4423,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 607,
+      "id" : "koZE3Kxi",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "Knapp 4.000 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "Gotovo 4.000 novih infekcija koronom u Austriji",
+      "url" : "https://kurier.at/chronik/oesterreich/knapp-4000-corona-neuinfektionen-in-oesterreich/401332341"
+    }, {
+      "articleLength" : 1372,
       "articlePartsSize" : 6,
-      "articleWordCount" : 168,
-      "id" : "GNlSaiNv",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kreuzfahrtschiffe dürfen nicht mehr in Venedigs Zentrum anlegen",
-      "titleTarget" : "Brodovi za krstarenje više ne smiju pristajati u središnjoj Veneciji",
-      "url" : "https://www.derstandard.at/story/2000125375622/kreuzfahrtschiffe-duerfen-nicht-mehr-in-venedigs-zentrum-anlegen?ref=rss"
-    }, {
-      "articleLength" : 781,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 111,
-      "id" : "KkBm3hrg",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/0/2/5957378/E9291F21-B830-4CA1-8962-A41D5BE14FE5_v0_h.jpg",
+      "articleWordCount" : 197,
+      "id" : "unIbkq0I",
       "publisher" : "diepresse.com",
-      "titleSource" : "Niederösterreich verlängert Intervalle zwischen erster und zweiter Impfdosis",
-      "titleTarget" : "Donja Austrija produljuje intervale između prve i druge doze cijepljenja",
-      "url" : "https://www.diepresse.com/5957378/Impfung_Niederoesterreich-verlaengert-Intervalle-zwischen-erster?from=rss"
+      "titleSource" : "1500 Wiener versuchten 300 Impfdosen zu ergattern",
+      "titleTarget" : "1500 Bečana pokušalo je doći do 300 doza cjepiva",
+      "url" : "https://www.diepresse.com/5957416/CoronaImpfung_1500-Wiener-versuchten-300-Impfdosen-zu-ergattern?from=rss"
     }, {
-      "articleLength" : 3545,
+      "articleLength" : 3221,
       "articlePartsSize" : 15,
-      "articleWordCount" : 479,
-      "id" : "MKVuFyau",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/6/5957734/Germany-Imposes-Strict-Border-Restrictions-For-Tyrol-And-The-Czech-Republic_1616771927083497_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Deutschland hebt Einreisebeschränkungen für Tirol auf",
-      "titleTarget" : "Njemačka ukida ograničenja ulaska za Tirol",
-      "url" : "https://www.diepresse.com/5957734/Deutschland-hebt-Einreisebeschraenkungen-fuer-Tirol-auf?from=rss"
+      "articleWordCount" : 444,
+      "id" : "PVnEKkNZ",
+      "publisher" : "derstandard.at",
+      "titleSource" : "FPÖ-Bürgermeister startet Petition für Aufnahme von Flüchtlingen",
+      "titleTarget" : "Gradonačelnik FPÖ pokrenuo je peticiju za prihvat izbjeglica",
+      "url" : "https://www.derstandard.at/story/2000125389347/fpoe-buergermeister-startet-petition-fuer-aufnahme-von-fluechtlingen?ref=rss"
+    }, {
+      "articleLength" : 434,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 57,
+      "id" : "FVLkfg4U",
+      "imgUrl" : "https://image.kurier.at/images/original/4939495/46-175730886.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Deutschland hebt strikte Einreisebeschränkungen für Tirol auf",
+      "titleTarget" : "Njemačka ukida stroga ograničenja ulaska za Tirol",
+      "url" : "https://kurier.at/chronik/oesterreich/coronavirus-deutschland-hebt-strikte-einreisebeschraenkungen-fuer-tirol-auf/401333109"
+    }, {
+      "articleLength" : 667,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 95,
+      "id" : "kl68Y6zX",
+      "imgUrl" : "https://image.kurier.at/images/original/3954530/78350011451914160_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Zweijähriger in Tirol von Auto erfasst",
+      "titleTarget" : "Dvogodišnjak je u Tirolu udario automobil",
+      "url" : "https://kurier.at/chronik/oesterreich/zweijaehriger-in-tirol-von-auto-erfasst/401333265"
+    }, {
+      "articleLength" : 922,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 140,
+      "id" : "6AowRd8S",
+      "imgUrl" : "https://image.kurier.at/images/original/3954530/78350011451914160_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Drei Todesopfer bei Autounfall in Salzburg",
+      "titleTarget" : "Tri smrtno stradala u prometnoj nesreći u Salzburgu",
+      "url" : "https://kurier.at/chronik/oesterreich/drei-todesopfer-bei-autounfall-in-salzburg/401333673"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 2604,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 375,
-      "id" : "uANPZwFC",
-      "imgUrl" : "https://image.kurier.at/images/original/5929317/46-167383694.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Vater an Corona gestorben: Thomas Maurer bewegt mit Kabarettauftritt",
-      "titleTarget" : "Otac umro od Corone: Thomas Maurer kreće se u izvedbi kabarea",
-      "url" : "https://kurier.at/kultur/medien/vater-an-corona-gestorben-thomas-maurer-bewegt-mit-kabarettauftritt/401332545"
+      "articleLength" : 1000,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 155,
+      "id" : "2PxsPY7V",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/7/3/5957747/fehlfarben_1616772772075781_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Impf mich\": Corona-Lied der Fehlfarben",
+      "titleTarget" : "\"Vakciniraj me\": Corona pjesma lažnih boja",
+      "url" : "https://www.diepresse.com/5957747/Pop_Impf-mich_CoronaLied-der-Fehlfarben?from=rss"
+    }, {
+      "articleLength" : 4750,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 679,
+      "id" : "b2QlhePJ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/2/2/5957666/living-in-oblivion1616769261848366_h.jfif",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Alles Amateure? Die besten Filme über Hollywood-Underdogs auf Netflix, Amazon & Co.",
+      "titleTarget" : "Svi amateri? Najbolji filmovi o holivudskim underdogovima na Netflixu, Amazonu & Co.",
+      "url" : "https://www.diepresse.com/5957666/Streamingtipps_Alles-Amateure-Die-besten-Filme-ueber?from=rss"
     }, {
       "articleLength" : 779,
       "articlePartsSize" : 4,
@@ -236,15 +247,24 @@
       "titleTarget" : "Recenzija knjige: Stephan Eibel skida pokrivač",
       "url" : "https://kurier.at/kultur/buch/buchkritik-stephan-eibel-nimmt-decke-weg/401332713"
     }, {
-      "articleLength" : 1000,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 155,
-      "id" : "2PxsPY7V",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/7/3/5957747/fehlfarben_1616772772075781_v0_l.jpg",
+      "articleLength" : 1043,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 156,
+      "id" : "bpTK7qFW",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/2/c/5957420/katze2_1616753784295449_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "\"Impf mich\": Corona-Lied der Fehlfarben",
-      "titleTarget" : "\"Vakciniraj me\": Corona pjesma lažnih boja",
-      "url" : "https://www.diepresse.com/5957747/Pop_Impf-mich_CoronaLied-der-Fehlfarben?from=rss"
+      "titleSource" : "Kinderbuch-Tipp: Im Bauch der Katze, die die Welt auffrisst",
+      "titleTarget" : "Savjet za dječju knjigu: U trbuhu mačke koja jede svijet",
+      "url" : "https://www.diepresse.com/5957420/KinderbuchTipp_Im-Bauch-der-Katze-die-die-Welt-auffrisst?from=rss"
+    }, {
+      "articleLength" : 1593,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 241,
+      "id" : "lzZ6gecb",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Vater an Covid-19 gestorben: Thomas Maurer bewegt mit Kabarettauftritt",
+      "titleTarget" : "Otac je umro od Covid-19: Thomas Maurer kreće se u izvedbi kabarea",
+      "url" : "https://www.derstandard.at/story/2000125391320/vater-an-covid-19-gestorben-thomas-maurer-bewegt-mit-galligem?ref=rss"
     }, {
       "articleLength" : 1098,
       "articlePartsSize" : 6,
@@ -265,38 +285,10 @@
       "titleSource" : "Starmania: Aufsteiger und Aussteiger der ersten Semifinalshow",
       "titleTarget" : "Starmania: penjači i ispadaju iz prvog polufinalnog showa",
       "url" : "https://kurier.at/kultur/medien/starmania-aufsteiger-und-aussteiger-der-ersten-semifinalshow/401333403"
-    }, {
-      "articleLength" : 1593,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 241,
-      "id" : "lzZ6gecb",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Vater an Covid-19 gestorben: Thomas Maurer bewegt mit Kabarettauftritt",
-      "titleTarget" : "Otac je umro od Covid-19: Thomas Maurer kreće se u izvedbi kabarea",
-      "url" : "https://www.derstandard.at/story/2000125391320/vater-an-covid-19-gestorben-thomas-maurer-bewegt-mit-galligem?ref=rss"
-    }, {
-      "articleLength" : 4157,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 621,
-      "id" : "E45tGxfK",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kiffen hinterm Zirkuszelt: Neues von Ernst Molden und Der Nino aus Wien",
-      "titleTarget" : "Pušenje trave iza cirkuskog šatora: vijesti Ernsta Moldena i Der Nina iz Beča",
-      "url" : "https://www.derstandard.at/story/2000125367633/kiffen-hinterm-zirkuszelt-neues-von-ernst-molden-und-der-nino?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 1340,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 177,
-      "id" : "ok2a9oFg",
-      "imgUrl" : "https://image.kurier.at/images/original/5928957/46-174133780.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Leichtere Covid-Verläufe dank Grippe-Impfung",
-      "titleTarget" : "Jednostavniji Covid tečajevi zahvaljujući cijepljenju protiv gripe",
-      "url" : "https://kurier.at/wissen/gesundheit/leichtere-covid-verlaeufe-dank-grippeimpfung/401332362"
-    }, {
       "articleLength" : 3003,
       "articlePartsSize" : 13,
       "articleWordCount" : 396,
@@ -306,16 +298,6 @@
       "titleSource" : "Warum Sie Paracetamol nicht vor der Covid-Impfung nehmen sollten",
       "titleTarget" : "Zašto ne biste trebali uzimati paracetamol prije cijepljenja Covidom",
       "url" : "https://kurier.at/wissen/gesundheit/warum-sie-paracetamol-nicht-vor-der-covid-impfung-nehmen-sollten/401332869"
-    }, {
-      "articleLength" : 1473,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 217,
-      "id" : "LHgr4C0a",
-      "imgUrl" : "https://image.kurier.at/images/original/5928885/46-168497883.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Noch kein \"Impfeffekt\" bei Sterbezahlen zu erkennen",
-      "titleTarget" : "U stopama smrtnosti ne može se uočiti \"učinak cijepljenja\"",
-      "url" : "https://kurier.at/wissen/gesundheit/noch-kein-impfeffekt-bei-sterbezahlen-zu-erkennen/401332335"
     }, {
       "articleLength" : 1086,
       "articlePartsSize" : 6,
@@ -336,49 +318,19 @@
       "titleSource" : "Studie zu Nasenspray als Coronaviren-Blocker in Österreich gestartet",
       "titleTarget" : "Studija o spreju za nos kao blokatoru koronavirusa započela je u Austriji",
       "url" : "https://kurier.at/wissen/gesundheit/studie-zu-nasensprays-als-coronaviren-blocker-in-oesterreich-gestartet/401333301"
-    }, {
-      "articleLength" : 2472,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 352,
-      "id" : "x0nbCb2t",
-      "imgUrl" : "https://image.kurier.at/images/original/5929152/46-168921097.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Forscher erklärt, wie die Regierung auch Regeltreue verunsichert",
-      "titleTarget" : "Istraživač objašnjava kako vlada također narušava usklađenost",
-      "url" : "https://kurier.at/wissen/gesundheit/forscher-erklaert-wie-die-regierung-auch-regeltreue-verunsichert/401332470"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2889,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 426,
-      "id" : "KNEmiJE6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/f/3/5957619/6026282F-A65A-4250-80D7-7298CA4C80E1_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Skispringen: Kramer fliegt in Tschaikowski zum nächsten Sieg",
-      "titleTarget" : "Skijaški skokovi: Kramer leti do sljedeće pobjede u Čajkovskom",
-      "url" : "https://www.diepresse.com/5957619/Weltcupfinale_Skispringen_Kramer-fliegt-in-Tschaikowski-zum?from=rss"
-    }, {
-      "articleLength" : 2333,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 333,
-      "id" : "bxk2OiSD",
-      "imgUrl" : "https://image.kurier.at/images/original/5926149/46-176621693.jpg",
+      "articleLength" : 1802,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 264,
+      "id" : "AQCNNhdI",
+      "imgUrl" : "https://image.kurier.at/images/original/5930175/46-176539001.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Innsbruck auf den Spuren legendärer Daviscup-Duelle",
-      "titleTarget" : "Innsbruck na tragu legendarnih dvoboja Davis Cupa",
-      "url" : "https://kurier.at/sport/tennis/die-daviscup-nation-oesterreich-grosse-tennis-spiele-grosse-helden/401331831"
-    }, {
-      "articleLength" : 1817,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 290,
-      "id" : "gpwHdEl7",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/a/5957738/88DE8159-FA0D-4F7A-B8D4-590B89F38B18_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Golf: Wiesberger bei Match Play ausgeschieden",
-      "titleTarget" : "Golf: Wiesberger je eliminiran u igri",
-      "url" : "https://www.diepresse.com/5957738/European-Tour_Golf_Wiesberger-bei-Match-Play-ausgeschieden?from=rss"
+      "titleSource" : "Weltcup-Hattrick: Marita Kramer springt weiter allen davon",
+      "titleTarget" : "Hat trick iz Svjetskog kupa: Marita Kramer neprestano skače od svih",
+      "url" : "https://kurier.at/sport/wintersport/weltcup-hattrick-marita-kramer-springt-weiter-allen-davon/401332986"
     }, {
       "articleLength" : 2893,
       "articlePartsSize" : 14,
@@ -390,35 +342,53 @@
       "titleTarget" : "Svjetsko prvenstvo u umjetničkom klizanju: Mikutina senzacionalno trči u svjetski vrh",
       "url" : "https://www.diepresse.com/5957379/Titelkaempfe_EiskunstlaufWM_Mikutina-laeuft-sensationell-in-die?from=rss"
     }, {
-      "articleLength" : 1802,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 264,
-      "id" : "AQCNNhdI",
-      "imgUrl" : "https://image.kurier.at/images/original/5930175/46-176539001.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Weltcup-Hattrick: Marita Kramer springt weiter allen davon",
-      "titleTarget" : "Hat trick iz Svjetskog kupa: Marita Kramer neprestano skače od svih",
-      "url" : "https://kurier.at/sport/wintersport/weltcup-hattrick-marita-kramer-springt-weiter-allen-davon/401332986"
+      "articleLength" : 6424,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 1021,
+      "id" : "yD2ymbZw",
+      "publisher" : "derstandard.at",
+      "titleSource" : "ORF-Expertin Kamper: \"Die Zeit für Brot und Spiele ist vorbei\"",
+      "titleTarget" : "Stručnjak za ORF Kamper: \"Vrijeme za kruh i igre je prošlo\"",
+      "url" : "https://www.derstandard.at/story/2000125400965/orf-expertin-kamper-die-zeit-fuer-brot-und-spiele-ist?ref=rss"
     }, {
-      "articleLength" : 3138,
+      "articleLength" : 2729,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 400,
+      "id" : "xFnExtMG",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Mikutina bei WM-Debüt Achte – Russischer Dreifachsieg",
+      "titleTarget" : "Mikutina je u Svjetskom kupu debitirao osmo - ruska trostruka pobjeda",
+      "url" : "https://www.derstandard.at/story/2000125409216/mikutina-bei-wm-debuet-achte-russischer-dreifachsieg?ref=rss"
+    }, {
+      "articleLength" : 2889,
       "articlePartsSize" : 13,
-      "articleWordCount" : 487,
-      "id" : "pgQRqgkI",
-      "imgUrl" : "https://image.kurier.at/images/original/5929089/46-176643494.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Gott wird zum Monarchen: Ibrahimovic krönt sich zu Schwedens König",
-      "titleTarget" : "Bog postaje monarh: Ibrahimović je okrunjen za švedskog kralja",
-      "url" : "https://kurier.at/sport/fussball/carl-xvii-guztaf-ibrahimovic-sang-bei-comeback-sogar-hymne-mit/401332419"
-    }, {
-      "articleLength" : 1111,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 166,
-      "id" : "bsewUSj2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/a/5957738/2CCEE772-DBC6-45EF-A7A8-BE64E029DA5F_v0_h.jpg",
+      "articleWordCount" : 426,
+      "id" : "KNEmiJE6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/f/3/5957619/6026282F-A65A-4250-80D7-7298CA4C80E1_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Golf: Schwab in Nairobi in den Top Ten",
-      "titleTarget" : "Golf: Schwab u Nairobiju u prvih deset",
-      "url" : "https://www.diepresse.com/5957738/European-Tour_Golf_Schwab-in-Nairobi-in-den-Top-Ten?from=rss"
+      "titleSource" : "Skispringen: Kramer fliegt in Tschaikowski zum nächsten Sieg",
+      "titleTarget" : "Skijaški skokovi: Kramer leti do sljedeće pobjede u Čajkovskom",
+      "url" : "https://www.diepresse.com/5957619/Weltcupfinale_Skispringen_Kramer-fliegt-in-Tschaikowski-zum?from=rss"
+    }, {
+      "articleLength" : 1817,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 290,
+      "id" : "gpwHdEl7",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/8/6/a/5957738/88DE8159-FA0D-4F7A-B8D4-590B89F38B18_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Golf: Wiesberger bei Match Play ausgeschieden",
+      "titleTarget" : "Golf: Wiesberger je eliminiran u igri",
+      "url" : "https://www.diepresse.com/5957738/European-Tour_Golf_Wiesberger-bei-Match-Play-ausgeschieden?from=rss"
+    }, {
+      "articleLength" : 2855,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 403,
+      "id" : "49ohAchv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/f/5/5957621/8AE57398-2D49-420B-9629-12E453BB04E3_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Gestürztem Tande geht es \"Umständen entsprechend gut\"",
+      "titleTarget" : "Ako su stvari pale, stvari idu \"dobro, s obzirom na okolnosti\"",
+      "url" : "https://www.diepresse.com/5957621/Skispringen_Gestuerztem-Tande-geht-es-Umstaenden-entsprechend-gut?from=rss"
     } ]
   } ],
   "country" : "austria",
