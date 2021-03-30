@@ -2,6 +2,26 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "articleLength" : 2498,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 349,
+      "id" : "kjYfpFyP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/7/5/5959029/AC9CEE95-2226-451E-B25C-CE6C09F60D78_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Mandatare fehlen: Keine Mehrheit für Tests vorm Einkaufen",
+      "titleTarget" : "Nedostaju mandati: Nema većine za testove prije kupnje",
+      "url" : "https://www.diepresse.com/5959029/Novelle_Keine-Mehrheit-fuer-Tests-vorm-Einkaufen?from=rss"
+    }, {
+      "articleLength" : 2816,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 384,
+      "id" : "csZKIP48",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/1/c/5958940/D55CD1F5-7799-4E9D-96FB-2301DDDC223B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Postenschacher? Grüne legen Öbag-Chef Rücktritt nahe",
+      "titleTarget" : "Predmeti varalice? Zeleni predlažu da šef Öbaga podnese ostavku",
+      "url" : "https://www.diepresse.com/5958940/Causa-Oebag_Postenschacher-Gruene-legen-OebagChef-Ruecktritt-nahe?from=rss"
+    }, {
       "articleLength" : 1169,
       "articlePartsSize" : 5,
       "articleWordCount" : 162,
@@ -12,115 +32,47 @@
       "titleTarget" : "Saborski službenici dali su pozitivan test, Sobotka u karanteni",
       "url" : "https://www.diepresse.com/5958937/CoronaInfektion_Parlamentsmitarbeiter-positiv-getestet-Sobotka-in?from=rss"
     }, {
-      "articleLength" : 4379,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 576,
-      "id" : "IhrHRauA",
-      "imgUrl" : "https://image.kurier.at/images/original/5937015/20210329-ABD0027-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nach Auftauchen von Chats: \"Schmid und Blümel rücktrittsreif\"",
-      "titleTarget" : "Nakon što se pojave chatovi: \"Schmid i Blümel spremni za povlačenje\"",
-      "url" : "https://kurier.at/politik/inland/nach-auftauchen-von-chats-schmid-und-bluemel-ruecktrittsreif/401335395"
-    }, {
-      "articleLength" : 1257,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 183,
-      "id" : "TpDK8rJM",
-      "imgUrl" : "https://image.kurier.at/images/original/5926203/46-176630912.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kurz wollte bei Kirchenprivilegien \"Vollgas geben\"",
-      "titleTarget" : "Kurz je htio \"dati pun gas\" crkvenim privilegijama",
-      "url" : "https://kurier.at/politik/inland/kurz-wollte-bei-kirchenprivilegien-vollgas-geben/401335593"
-    }, {
-      "articleLength" : 6458,
-      "articlePartsSize" : 29,
-      "articleWordCount" : 940,
-      "id" : "okR5ZFZm",
-      "publisher" : "derstandard.at",
-      "titleSource" : "\"Intervention erledigt\": Die Jobsuche des ÖVP-Umfelds im Finanzministerium",
-      "titleTarget" : "\"Intervencija gotova\": Traženje posla okoline ÖVP u Ministarstvu financija",
-      "url" : "https://www.derstandard.at/story/2000125446567/intervention-erledigt-die-jobsuche-des-oevp-umfelds-im-finanzministerium?ref=rss"
-    }, {
-      "articleLength" : 2690,
+      "articleLength" : 2867,
       "articlePartsSize" : 13,
-      "articleWordCount" : 351,
-      "id" : "xgr2EnHQ",
-      "imgUrl" : "https://image.kurier.at/images/original/5939292/46-153943714.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Fast drei Viertel der Häftlinge erleben im Strafvollzug Gewalt",
-      "titleTarget" : "Gotovo tri četvrtine zatvorenika doživljava nasilje u zatvoru",
-      "url" : "https://kurier.at/politik/inland/fast-drei-viertel-der-haeftlinge-erleben-im-strafvollzug-gewalt/401335785"
+      "articleWordCount" : 369,
+      "id" : "0JZsdaqp",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/1/0/5959184/A8099CDF-E193-471B-8541-8FAFCE648642_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Bundesheer will Frauenanteil steigern",
+      "titleTarget" : "Oružane snage žele povećati udio žena",
+      "url" : "https://www.diepresse.com/5959184/Tanner_Bundesheer-will-Frauenanteil-steigern?from=rss"
     }, {
-      "articleLength" : 9446,
-      "articlePartsSize" : 42,
-      "articleWordCount" : 1472,
-      "id" : "CiJGdz5Y",
+      "articleLength" : 1846,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 234,
+      "id" : "mskt32Oh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/7/a/5959034/DB102C1F-8456-410A-815D-A6DF79333F4B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Verfassungsschutz neu: Erster Lehrgang abgeschlossen",
+      "titleTarget" : "Zaštita Ustava novo: Završen prvi tečaj",
+      "url" : "https://www.diepresse.com/5959034/BVTReform_Verfassungsschutz-neu_Erster-Lehrgang-abgeschlossen?from=rss"
+    }, {
+      "articleLength" : 1805,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 244,
+      "id" : "mRjARxrC",
       "publisher" : "derstandard.at",
-      "titleSource" : "Richard David Precht: \"Es wird noch mehr Verlierer geben\"",
-      "titleTarget" : "Richard David Precht: \"Bit će još gubitnika\"",
-      "url" : "https://www.derstandard.at/story/2000125426448/richard-david-prechtes-wird-noch-mehr-verlierer-geben?ref=rss"
+      "titleSource" : "ÖVP-Abgeordneter Hanger verteidigt Schmids Bestellung: \"Nach internationalen Maßstäben\"",
+      "titleTarget" : "Član ÖVP-a Hanger brani Schmidovu naredbu: \"Prema međunarodnim standardima\"",
+      "url" : "https://www.derstandard.at/story/2000125457216/oevp-abgeordneter-hanger-verteidigt-schmids-bestellung-nach-internationalen-massstaeben?ref=rss"
     }, {
-      "articleLength" : 6353,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 897,
-      "id" : "bUS0Ggn4",
-      "imgUrl" : "https://image.kurier.at/images/original/4237988/46-163799493.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wien verschärft Lockdown vorerst im Alleingang - wie es dazu kam und was gilt",
-      "titleTarget" : "Beč zasad pojedinačno pooštrava zaključavanje - kako je došlo do toga i što se odnosi",
-      "url" : "https://kurier.at/politik/inland/wien-verschaerft-lockdown-vorerst-im-alleingang-wie-es-dazu-kam-und-was-gilt/401335590"
+      "articleLength" : 5532,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 751,
+      "id" : "DUO74zKR",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Hass im Netz: Gesetze ab Donnerstag scharf",
+      "titleTarget" : "Mržnja na mreži: Zakoni oštri od četvrtka",
+      "url" : "https://www.derstandard.at/story/2000125452691/hass-im-netz-gesetze-ab-donnerstag-scharf?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 2170,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 290,
-      "id" : "L7oRjGPn",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/c/e/2/5958882/THEMENBILD-ZOLL--ZOLLKONTROLLE_1617083559374790_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "2020 fast 57.000 Fälschungen in Österreich beschlagnahmt",
-      "titleTarget" : "U Austriji je 2020. godine zaplijenjeno gotovo 57 000 krivotvorina",
-      "url" : "https://www.diepresse.com/5958882/Zoll_2020-fast-57000-Faelschungen-in-Oesterreich-beschlagnahmt?from=rss"
-    }, {
-      "articleLength" : 1159,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 136,
-      "id" : "KZrwp9yJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4920112/20210205-ABD0139-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Sozialpartner drängen bei Ost-Lockdown weiter auf Entschärfung",
-      "titleTarget" : "Socijalni partneri i dalje zagovaraju ublažavanje zaključavanja na Istoku",
-      "url" : "https://kurier.at/wirtschaft/sozialpartner-draengen-bei-ost-lockdown-weiter-auf-entschaerfung/401335374"
-    }, {
-      "articleLength" : 7344,
-      "articlePartsSize" : 32,
-      "articleWordCount" : 994,
-      "id" : "JzqictsO",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kraftwerk und Schafweide: Zu Besuch auf der größten Solaranlage Österreichs",
-      "titleTarget" : "Elektrana i pašnjak ovaca: posjet najvećoj austrijskoj solarnoj elektrani",
-      "url" : "https://www.derstandard.at/story/2000125291254/kraftwerk-und-schafweide-zu-besuch-auf-der-groessten-solaranlage-oesterreichs?ref=rss"
-    }, {
-      "articleLength" : 4038,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 552,
-      "id" : "2xdV0RSV",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Ein Lebenszeichen der Industrie",
-      "titleTarget" : "Znak života za industriju",
-      "url" : "https://www.diepresse.com/5958542/Auftragsboom_Ein-Lebenszeichen-der-Industrie?from=rss"
-    }, {
-      "articleLength" : 2651,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 368,
-      "id" : "7SDm48eM",
-      "imgUrl" : "https://image.kurier.at/images/original/5937741/46-176041483.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Grüner Pass\": EU-Staaten wollen Tourismus-Prioritätenliste",
-      "titleTarget" : "\"Zeleni prolaz\": Zemlje EU žele listu prioriteta u turizmu",
-      "url" : "https://kurier.at/wirtschaft/corona-gruener-pass-eu-staaten-wollen-tourismus-prioritaetenliste/401335434"
-    }, {
       "articleLength" : 2240,
       "articlePartsSize" : 11,
       "articleWordCount" : 309,
@@ -131,28 +83,124 @@
       "titleTarget" : "Natjecanje: Austrijanci Helsinkiju čine budućnost održivijom",
       "url" : "https://kurier.at/wirtschaft/immobiz/wettbewerb-oesterreicher-machen-helsinkis-zukunft-nachhaltiger/401335272"
     }, {
-      "articleLength" : 1863,
+      "articleLength" : 2170,
       "articlePartsSize" : 9,
-      "articleWordCount" : 241,
-      "id" : "M02u9Kfk",
-      "imgUrl" : "https://image.kurier.at/images/original/3640760/78370011349609796_BLD_Online.jpg",
+      "articleWordCount" : 290,
+      "id" : "L7oRjGPn",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/c/e/2/5958882/THEMENBILD-ZOLL--ZOLLKONTROLLE_1617083559374790_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "2020 fast 57.000 Fälschungen in Österreich beschlagnahmt",
+      "titleTarget" : "U Austriji je 2020. godine zaplijenjeno gotovo 57 000 krivotvorina",
+      "url" : "https://www.diepresse.com/5958882/Zoll_2020-fast-57000-Faelschungen-in-Oesterreich-beschlagnahmt?from=rss"
+    }, {
+      "articleLength" : 1701,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 228,
+      "id" : "HAx4cKFT",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/e/4/7/5959239/09C5C7F6-DDF1-44C3-B387-95769D31BD28_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ökostrom: Zu hohe Kosten, zu niedrige Ziele?",
+      "titleTarget" : "Zelena struja: previsoki troškovi, preniski ciljevi?",
+      "url" : "https://www.diepresse.com/5959239/Strom_Oekostrom_Zu-hohe-Kosten-zu-niedrige-Ziele?from=rss"
+    }, {
+      "articleLength" : 1487,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 211,
+      "id" : "XUYHsAkQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4313711/46-158702275.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Streiks bei Amazon in Deutschland im Ostergeschäft",
-      "titleTarget" : "Štrajk na Amazonu u Njemačkoj u uskrsnom poslu",
-      "url" : "https://kurier.at/wirtschaft/streiks-bei-amazon-in-deutschland-im-ostergeschaeft/401335137"
+      "titleSource" : "Vorbild Volvo: 6 Monate bezahlte Elternteilzeit für alle",
+      "titleTarget" : "Model Volvo: 6 mjeseci plaćenog roditeljskog nepunog radnog vremena za sve",
+      "url" : "https://kurier.at/wirtschaft/vorbild-volvo-6-monate-bezahlte-elternteilzeit-fuer-alle/401336262"
+    }, {
+      "articleLength" : 3642,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 496,
+      "id" : "TjMJ58YF",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Baumwolle aus Zwangsarbeit: Manche Bekleidungsriesen ziehen die Reißleine, andere den Schwanz ein",
+      "titleTarget" : "Pamuk od prisilnog rada: neki odjevni divovi povlače uzicu, drugi rep",
+      "url" : "https://www.derstandard.at/story/2000125450781/baumwolleernte-mit-zwangsarbeitern-manche-bekleidungsriesen-ziehen-die-reissleine-andere-den?ref=rss"
+    }, {
+      "articleLength" : 5078,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 718,
+      "id" : "SHqFUsqM",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kurzausflüge sind heuer zu Ostern das höchste der Gefühle",
+      "titleTarget" : "Kratki izleti ovog Uskrsa najveći su osjećaj",
+      "url" : "https://www.derstandard.at/story/2000125451323/kurzausfluege-sind-heuer-zu-ostern-das-hoechste-der-gefuehle?ref=rss"
+    }, {
+      "articleLength" : 3072,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 398,
+      "id" : "zWmeSbLo",
+      "imgUrl" : "https://image.kurier.at/images/original/5940024/46-176737841.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurzarbeitsbonus: Umsetzung sorgt für Chaos und Verzweiflung",
+      "titleTarget" : "Kratkoročni radni bonus: Implementacija stvara kaos i očaj",
+      "url" : "https://kurier.at/wirtschaft/kurzarbeitsbonus-sorgt-fuer-umsetzungschaos/401336253"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2523,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 358,
-      "id" : "QWLvR8O2",
-      "imgUrl" : "https://image.kurier.at/images/original/4659040/20200925-ABD0010-1-1.jpg",
+      "articleLength" : 4847,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 641,
+      "id" : "SeVUjxmS",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/c/e/5959118/5288B239-47A3-48DD-ABD8-4FE17D584662_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Niederösterreich stockt Zahl der Intensivbetten auf, Wien transferiert \"derzeit\" keine Patienten",
+      "titleTarget" : "Donja Austrija povećava broj kreveta za intenzivnu njegu, Beč \"trenutno\" ne prebacuje nijednog pacijenta",
+      "url" : "https://www.diepresse.com/5959118/Coronavirus_Niederoesterreich-stockt-Zahl-der-Intensivbetten-auf?from=rss"
+    }, {
+      "articleLength" : 2831,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 408,
+      "id" : "1w5lu90b",
+      "imgUrl" : "https://image.kurier.at/images/original/5940216/46-176679509.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Wieso die Infektionszahlen in Vorarlberg stark steigen",
-      "titleTarget" : "Zašto se broj infekcija u Vorarlbergu naglo povećava",
-      "url" : "https://kurier.at/chronik/oesterreich/wieso-die-infektionszahlen-in-vorarlberg-stark-steigen/401335131"
+      "titleSource" : "Wien erwägt sogar Maskenpflicht im Freien",
+      "titleTarget" : "Beč čak razmišlja o tome da obavezno nosi masku na otvorenom",
+      "url" : "https://kurier.at/chronik/oesterreich/wien-erwaegt-eine-maskenpflicht-im-freien/401336358"
+    }, {
+      "articleLength" : 2784,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 395,
+      "id" : "hYrq5nX3",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/6/d/5959021/7AD212B8-5F4F-4557-9B00-A4648C54DD80_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Platter sieht keinen Grund für Lockdown in Tirol",
+      "titleTarget" : "Platter ne vidi razlog za zaključavanje u Tirolu",
+      "url" : "https://www.diepresse.com/5959021/Massnahmen_Platter-sieht-keinen-Grund-fuer-Lockdown-in-Tirol?from=rss"
+    }, {
+      "articleLength" : 3294,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 435,
+      "id" : "D8OiORT9",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Festnahmen bei Demo gegen Abschiebungen auf A4 und B9 nahe Schwechat",
+      "titleTarget" : "Uhićenja na demonstracijama protiv deportacija na A4 i B9 u blizini Schwechata",
+      "url" : "https://www.derstandard.at/story/2000125466484/ostautobahn-bei-schwechat-wegen-anti-abschiebungs-demo-gesperrt?ref=rss"
+    }, {
+      "articleLength" : 1627,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 233,
+      "id" : "nrJR4X8M",
+      "imgUrl" : "https://image.kurier.at/images/original/5938200/46-176564752.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Versand von Senioren-Masken hat mehr gekostet als Masken selbst",
+      "titleTarget" : "Otpremanje starijih maski košta više od samih maski",
+      "url" : "https://kurier.at/chronik/oesterreich/versand-von-senioren-masken-hat-mehr-gekostet-als-masken-selbst/401335692"
+    }, {
+      "articleLength" : 5219,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 737,
+      "id" : "ssGtkY1I",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Corona-Novelle wackelt im Bundesrat, weil türkis-grüne Mandatare fehlen",
+      "titleTarget" : "Amandman na Coronu klima se u Federalnom vijeću jer nedostaju tirkizno zeleni mandati",
+      "url" : "https://www.derstandard.at/story/2000125460631/tag-der-corona-novellen-neue-verordnung-und-gesetzesaenderung?ref=rss"
     }, {
       "articleLength" : 1636,
       "articlePartsSize" : 7,
@@ -163,107 +211,10 @@
       "titleSource" : "Österreich verschärft Testpflicht für Pendler",
       "titleTarget" : "Austrija je pooštrila zahtjeve za ispitivanje putnika",
       "url" : "https://kurier.at/chronik/oesterreich/oesterreich-verschaerft-testpflicht-fuer-pendler/401335743"
-    }, {
-      "articleLength" : 3293,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 444,
-      "id" : "rqlO5097",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Erstmals mehr als 200 Corona-Intensivpatienten in Wien",
-      "titleTarget" : "Po prvi puta više od 200 pacijenata s intenzivnom njegom korone u Beču",
-      "url" : "https://www.derstandard.at/story/2000125437121/erstmals-mehr-als-200-corona-intensivpatienten-in-wien?ref=rss"
-    }, {
-      "articleLength" : 950,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 126,
-      "id" : "rLRrbVAn",
-      "imgUrl" : "https://image.kurier.at/images/original/3445360/46-145665095.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die Lage im Morgenverkehr",
-      "titleTarget" : "Stanje u jutarnjem prometu",
-      "url" : "https://kurier.at/chronik/oesterreich/die-lage-im-morgenverkehr/401335764"
-    }, {
-      "articleLength" : 5505,
-      "articlePartsSize" : 25,
-      "articleWordCount" : 770,
-      "id" : "qNcoXiWm",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wien sperrt auch nach Ostern nicht auf",
-      "titleTarget" : "Ni Beč se ne otvara nakon Uskrsa",
-      "url" : "https://www.derstandard.at/story/2000125452910/wien-sperrt-auch-nach-ostern-nicht-auf?ref=rss"
-    }, {
-      "articleLength" : 571,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 83,
-      "id" : "5M4WaeUH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/9/2/5958802/KaerntnerStrasse_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Die Kärntner Straße wird persönlich",
-      "titleTarget" : "Kärntner Straße postaje osoban",
-      "url" : "https://www.diepresse.com/5958802/Einkaufserlebnis_Die-Kaerntner-Strasse-wird-persoenlich?from=rss"
-    }, {
-      "articleLength" : 2851,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 388,
-      "id" : "3PsYtIL4",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/f/9/5958649/C5C39A1B-DA78-4B44-ADDD-E8FA61432BB3_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Vier Spitäler im Burgenland gehen in Notbetrieb",
-      "titleTarget" : "Četiri bolnice u Gradišću kreću u hitnu operaciju",
-      "url" : "https://www.diepresse.com/5958649/Coronavirus_Vier-Spitaeler-im-Burgenland-gehen-in-Notbetrieb?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1450,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 202,
-      "id" : "SBSb1UsR",
-      "imgUrl" : "https://image.kurier.at/images/original/5937894/46-150196232.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Neue \"Grand Show\" mit Conchita Wurst in Berlin geplant",
-      "titleTarget" : "Novi \"Grand Show\" planiran s Conchitom Wurst u Berlinu",
-      "url" : "https://kurier.at/kultur/neue-grand-show-mit-tom-neuwirth-alias-conchita-wurst-in-berliner-friedrichstadt-palast-geplant/401335521"
-    }, {
-      "articleLength" : 1501,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 203,
-      "id" : "KT3EkUfh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/7/5/5958517/-ARCHIVBILD--KNSTLER-ARIK-BRAUER-MIT-92-JAHREN-VERSTORBEN_1617010136439698_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Park in Ottakring wird nach Arik Brauer benannt",
-      "titleTarget" : "Park u Ottakringu nazvan je po Ariku Braueru",
-      "url" : "https://www.diepresse.com/5958517/Wien_Park-in-Ottakring-wird-nach-Arik-Brauer-benannt?from=rss"
-    }, {
-      "articleLength" : 10232,
-      "articlePartsSize" : 48,
-      "articleWordCount" : 1479,
-      "id" : "b4sq7htn",
-      "imgUrl" : "https://image.kurier.at/images/original/5937663/reiterervonlaer.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ORF-Talk: Bei diesem Satz \"hat's mich schon a bissl g'rissen\"",
-      "titleTarget" : "ORF-Talk: Uz ovu rečenicu \"Već sam se malo rastrgao\"",
-      "url" : "https://kurier.at/kultur/medien/orf-talk-zu-corona-bei-dieser-nachricht-hats-mich-schon-a-bissl-grissen/401335299"
-    }, {
-      "articleLength" : 1330,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 200,
-      "id" : "LJksNtXr",
-      "imgUrl" : "https://image.kurier.at/images/original/5937609/46-150648534.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Ich bin dann mal wieder da: Kerkeling beendet Bildschirmpause",
-      "titleTarget" : "Onda ću se vratiti: Kerkeling završava razbijanje zaslona",
-      "url" : "https://kurier.at/kultur/medien/ich-bin-dann-mal-wieder-da-hape-kerkeling-beendet-bildschirmpause/401335347"
-    }, {
-      "articleLength" : 5760,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 825,
-      "id" : "8BtqM6hO",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Gorman-Gedicht: Deutsche Übersetzung in höchstem Maß missglückt",
-      "titleTarget" : "Gormanova pjesma: Njemački prijevod neuspješan u najvišem stupnju",
-      "url" : "https://www.derstandard.at/story/2000125448713/gorman-gedicht-deutsche-uebersetzung-in-hoechstem-mass-missglueckt?ref=rss"
-    }, {
       "articleLength" : 2958,
       "articlePartsSize" : 13,
       "articleWordCount" : 386,
@@ -274,6 +225,34 @@
       "titleTarget" : "Glazbeni algoritmi teško podnose hard rock i hip hop",
       "url" : "https://www.diepresse.com/5958878/Hoerer_MusikAlgorithmen-tun-sich-mit-Hardrock-und-Hiphop-schwer?from=rss"
     }, {
+      "articleLength" : 3816,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 548,
+      "id" : "LZjPztoC",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/2/5959250/5D34690C-0269-46BB-9751-CE618CA6558C_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Sherlock Holmes' Logik hat ausgedient",
+      "titleTarget" : "Logika Sherlocka Holmesa imala je svoj dan",
+      "url" : "https://www.diepresse.com/5959250/Neue-NetflixSerie_Sherlock-Holmes-Logik-hat-ausgedient?from=rss"
+    }, {
+      "articleLength" : 5760,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 825,
+      "id" : "8BtqM6hO",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Gorman-Gedicht: Deutsche Übersetzung in höchstem Maß missglückt",
+      "titleTarget" : "Gormanova pjesma: Njemački prijevod neuspješan u najvišem stupnju",
+      "url" : "https://www.derstandard.at/story/2000125448713/gorman-gedicht-deutsche-uebersetzung-in-hoechstem-mass-missglueckt?ref=rss"
+    }, {
+      "articleLength" : 4539,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 666,
+      "id" : "veNhYVQH",
+      "publisher" : "derstandard.at",
+      "titleSource" : "30 Jahre \"Losing My Religion\": Musik ist Glaubenssache",
+      "titleTarget" : "30 godina \"Losing My Religion\": Glazba je stvar vjere",
+      "url" : "https://www.derstandard.at/story/2000125445387/30-jahrelosing-my-religion-musik-ist-glaubenssache?ref=rss"
+    }, {
       "articleLength" : 2388,
       "articlePartsSize" : 11,
       "articleWordCount" : 329,
@@ -282,57 +261,58 @@
       "titleSource" : "Wahlkampfkosten: Urteil im Verfahren ÖVP gegen \"Falter\"",
       "titleTarget" : "Troškovi izborne kampanje: presuda u ÖVP postupku protiv \"Faltera\"",
       "url" : "https://www.diepresse.com/5958851/Handelsgericht_Wahlkampfkosten_Urteil-im-Verfahren-OeVP-gegen-Falter?from=rss"
+    }, {
+      "articleLength" : 1097,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 152,
+      "id" : "yOxHTSfb",
+      "imgUrl" : "https://image.kurier.at/images/original/5941062/fichnap_01.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"ZiB\"-Legende Peter Fichna ist tot",
+      "titleTarget" : "Legenda \"ZiB-a\" Peter Fichna je mrtav",
+      "url" : "https://kurier.at/kultur/medien/zib-legende-peter-fichna-ist-tot/401336694"
+    }, {
+      "articleLength" : 3357,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 501,
+      "id" : "fLspDDwN",
+      "imgUrl" : "https://image.kurier.at/images/original/4315688/46-164557183.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Weltweit 77% weniger Besucher in Museen im Jahr 2020",
+      "titleTarget" : "77% manje posjetitelja muzeja širom svijeta 2020. godine",
+      "url" : "https://kurier.at/kultur/weltweit-77-weniger-besucher-in-museen-im-jahr-2020/401336085"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 1577,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 216,
-      "id" : "Z0On5Zqn",
-      "imgUrl" : "https://image.kurier.at/images/original/5937963/46-176644158.jpg",
+      "articleLength" : 2110,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 316,
+      "id" : "GpV9PWUW",
+      "imgUrl" : "https://image.kurier.at/images/original/5940552/46-176412265.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Corona: Weitere Studie bekräftigt Wirksamkeit der mRNA-Vakzine",
-      "titleTarget" : "Corona: Još jedna studija potvrđuje učinkovitost cjepiva protiv mRNA",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-weitere-studie-bekraeftigt-wirksamkeit-der-mrna-vakzine/401335566"
+      "titleSource" : "Impfstoff von Astra Zeneca in Vaxzevria umbenannt",
+      "titleTarget" : "Cjepivo Astra Zeneca preimenovano je u Vaxzevria",
+      "url" : "https://kurier.at/wissen/gesundheit/still-und-leise-astra-zeneca-impfstoff-wurde-in-vaxzevria-umbenannt/401336451"
     }, {
-      "articleLength" : 979,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 144,
-      "id" : "o0m55IDQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4712127/46-168327256.jpg",
+      "articleLength" : 3217,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 439,
+      "id" : "oCErJgGb",
+      "imgUrl" : "https://image.kurier.at/images/original/5940279/46-176726679.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Diesen Weg nahm das Coronavirus",
-      "titleTarget" : "Koronavirus je krenuo ovom rutom",
-      "url" : "https://kurier.at/wissen/gesundheit/diesen-weg-nahm-das-coronavirus/401335284"
+      "titleSource" : "Berlin und München setzen Astra Zeneca bei Personen unter 60 aus",
+      "titleTarget" : "Berlin i München izlažu Astru Zenecu osobama mlađim od 60 godina",
+      "url" : "https://kurier.at/wissen/gesundheit/impfung-berlin-setzt-astra-zeneca-bei-personen-unter-60-aus/401336397"
     }, {
-      "articleLength" : 3965,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 554,
-      "id" : "8W6CWY0n",
+      "articleLength" : 968,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 138,
+      "id" : "GlVYWzp4",
       "publisher" : "derstandard.at",
-      "titleSource" : "Mutierte \"britische\" Virusvariante bereitet Sorgen",
-      "titleTarget" : "Mutirana \"britanska\" varijanta virusa zabrinjava",
-      "url" : "https://www.derstandard.at/story/2000125449999/mutierte-britische-virusvariante-bereitet-sorgen?ref=rss"
-    }, {
-      "articleLength" : 2369,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 324,
-      "id" : "U9uUkiql",
-      "imgUrl" : "https://image.kurier.at/images/original/3334933/46-144452983.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Schuldspruch im Prozess um Schlankheits-Tabletten in Frankreich",
-      "titleTarget" : "Krivična presuda u suđenju za tablete za mršavljenje u Francuskoj",
-      "url" : "https://kurier.at/wissen/gesundheit/schuldspruch-im-prozess-um-schlankheits-tabletten-in-frankreich/401335437"
-    }, {
-      "articleLength" : 1883,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 251,
-      "id" : "XtDPw6wM",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Schuldspruch in Prozess um tödliche Schlankheitspillen in Frankreich",
-      "titleTarget" : "Krivična presuda u suđenju smrtonosnim tabletama za mršavljenje u Francuskoj",
-      "url" : "https://www.derstandard.at/story/2000125442086/schuldspruch-im-prozess-um-toedliche-schlankheits-pillen-in-frankreich?ref=rss"
+      "titleSource" : "Wurden Ihre medizinischen Eingriffe und Operationen verschoben?",
+      "titleTarget" : "Jesu li vaši medicinski postupci i operacije odgođeni?",
+      "url" : "https://www.derstandard.at/story/2000125439051/wurden-ihre-medizinischen-eingriffe-und-operationen-verschoben?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
@@ -347,24 +327,25 @@
       "titleTarget" : "Stanje kicker saveza je veće nego ikad prije",
       "url" : "https://kurier.at/sport/fussball/der-stellenwert-der-kicker-gewerkschaft-ist-so-hoch-wie-nie/401335317"
     }, {
-      "articleLength" : 821,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 120,
-      "id" : "cdDWGQcu",
-      "imgUrl" : "https://image.kurier.at/images/original/5937021/46-176711282.jpg",
+      "articleLength" : 1413,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 216,
+      "id" : "ofJKgFCJ",
+      "imgUrl" : "https://image.kurier.at/images/original/5938191/46-176356135.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Alaba-Berater bestätigt: Vier Klubs buhlen noch um den ÖFB-Star",
-      "titleTarget" : "Savjetnik Alabe potvrđuje: četiri se kluba još uvijek natječu za zvijezdu ÖFB-a",
-      "url" : "https://kurier.at/sport/fussball/berater-von-david-alaba-bestaetigt-vier-klubs-buhlen-noch-um-den-oefb-star/401335047"
+      "titleSource" : "Play-off-Eishockey ist für Rotter auch eine Frage der Müdigkeit",
+      "titleTarget" : "Za Rottera je play-off hokej na ledu također pitanje umora",
+      "url" : "https://kurier.at/sport/wintersport/play-off-eishockey-ist-fuer-rotter-auch-eine-frage-der-muedigkeit/401335677"
     }, {
-      "articleLength" : 2319,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 329,
-      "id" : "SlWVD79V",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Impfung und Olympia: Sport als Risikopatient",
-      "titleTarget" : "Cijepljenje i Olimpijske igre: Sport kao rizični pacijent",
-      "url" : "https://www.derstandard.at/story/2000125427177/impfung-und-olympia-sport-als-risikopatient?ref=rss"
+      "articleLength" : 1068,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 171,
+      "id" : "mfKtel0b",
+      "imgUrl" : "https://image.kurier.at/images/original/5939379/46-173974199.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ex-Rapidler Schwab über Demir: \"Der Beste, den ich je gesehen habe\"",
+      "titleTarget" : "Bivši Rapidler Schwab o Demiru: \"Najbolje što sam ikad vidio\"",
+      "url" : "https://kurier.at/sport/fussball/ex-rapid-kapitaen-stefan-schwab-ueber-yusuf-demir-der-beste-den-ich-je-gesehen-habe/401335896"
     }, {
       "articleLength" : 5004,
       "articlePartsSize" : 22,
@@ -375,25 +356,34 @@
       "titleTarget" : "Revolucija: Kako su se žene borile za pravo sudjelovanja na Olimpijskim igrama",
       "url" : "https://www.derstandard.at/story/2000125423642/revolutionwie-frauen-um-die-olympia-teilnahme-kaempften?ref=rss"
     }, {
-      "articleLength" : 2618,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 399,
-      "id" : "UToySLO2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/2/6/5958694/661B64BF-A8B3-476D-AA4C-589145D7B837_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Wagner ereilt der Lockruf aus Toulouse",
-      "titleTarget" : "Wagner je primio poziv iz Toulousea",
-      "url" : "https://www.diepresse.com/5958694/Handball_Wagner-ereilt-der-Lockruf-aus-Toulouse?from=rss"
+      "articleLength" : 3585,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 514,
+      "id" : "b8Bpidtl",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Marathon: Rekorde wie am Fließband dank Carbon-Schuhen",
+      "titleTarget" : "Maraton: Snima kao na traci zahvaljujući karbonskim cipelama",
+      "url" : "https://www.derstandard.at/story/2000125468017/marathon-rekorde-wie-am-fliessband-dank-carbon-schuhen?ref=rss"
     }, {
-      "articleLength" : 4695,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 700,
-      "id" : "SwrmhJl7",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/2/c/5958700/49BFC0D7-03EE-4400-8D0F-FC402BFB59A0_v0_l.jpg",
+      "articleLength" : 1911,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 276,
+      "id" : "twEDtdsa",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/f/5959263/850DEF1E-52DE-40F4-9DCB-CE98C3D180C7_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Hamilton : \"Erwarte mir graue Haare im Duell mit Verstappen\"",
-      "titleTarget" : "Hamilton: \"Očekujte sijedu kosu u dvoboju s Verstappenom\"",
-      "url" : "https://www.diepresse.com/5958700/Formel-1_Hamilton_Erwarte-mir-graue-Haare-im-Duell-mit-Verstappen?from=rss"
+      "titleSource" : "Österreich-Gegner Dänemark: Eine Ansammlung von Legionären",
+      "titleTarget" : "Austrijski protivnik Danska: Okupljanje legionara",
+      "url" : "https://www.diepresse.com/5959263/WMQualifikation_OesterreichGegner-Daenemark_Ein-Ansammlung-von?from=rss"
+    }, {
+      "articleLength" : 2817,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 391,
+      "id" : "9bV44ibf",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/5/7/5959255/74227E35-BECD-43BD-B349-070F2F9F00C2_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Deutschland sucht sein EM-Team",
+      "titleTarget" : "Njemačka traži svoj EM tim",
+      "url" : "https://www.diepresse.com/5959255/WMQualifikation_Deutschland-sucht-sein-EMTeam?from=rss"
     } ]
   } ],
   "country" : "austria",
