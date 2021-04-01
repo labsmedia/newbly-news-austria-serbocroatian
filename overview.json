@@ -2,53 +2,15 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3154,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 400,
-      "id" : "udgxCCs3",
-      "imgUrl" : "https://image.kurier.at/images/original/5932860/46-176566460.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anschober warnt: \"Allerletzte Chance für eine Notbremsung\"",
-      "titleTarget" : "Anschober upozorava: \"Posljednja šansa za hitno zaustavljanje\"",
-      "url" : "https://kurier.at/politik/inland/anschober-warnt-allerletzte-chance-fuer-eine-notbremsung/401337414"
-    }, {
       "articleLength" : 3994,
       "articlePartsSize" : 19,
       "articleWordCount" : 551,
-      "id" : "HTPWevXA",
+      "id" : "QZtLiVEY",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/e/a/5959402/33C106C7-DA2E-408D-80E7-C4E5FACF8523_v0_l.jpg",
       "publisher" : "diepresse.com",
       "titleSource" : "Grüne pochen auf Rücktritt, FPÖ auf Öbag-Sondersitzung",
       "titleTarget" : "Zeleni inzistiraju na ostavci, FPÖ na posebnoj sjednici Öbaga",
-      "url" : "https://www.diepresse.com/5959402/Postenschacher_Gruene-Fraktionschefin_Thomas-Schmid-sollte-gehen?from=rss"
-    }, {
-      "articleLength" : 1384,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 183,
-      "id" : "zvrSGK5a",
-      "imgUrl" : "https://image.kurier.at/images/original/5918775/46-176045028.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "EU-Vorsitz sieht keine Extra-Impfstoff-Dosen für Österreich vor",
-      "titleTarget" : "Predsjedništvo EU ne predviđa nikakve dodatne doze cjepiva za Austriju",
-      "url" : "https://kurier.at/politik/inland/eu-vorsitz-sieht-keine-extra-impfstoff-dosen-fuer-oesterreich-vor/401336832"
-    }, {
-      "articleLength" : 2396,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 349,
-      "id" : "AQ9yh0Hs",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie sich die junge türkise ÖVP die Kirche vorknöpfte",
-      "titleTarget" : "Kako je mlada tirkizna ÖVP zakopčala crkvu",
-      "url" : "https://www.derstandard.at/story/2000125489229/wie-sich-die-junge-tuerkise-oevp-die-kirche-vorknoepfte?ref=rss"
-    }, {
-      "articleLength" : 6674,
-      "articlePartsSize" : 29,
-      "articleWordCount" : 905,
-      "id" : "uHRpyUR9",
-      "publisher" : "derstandard.at",
-      "titleSource" : "FPÖ-Versammlung im Jänner wurde von Polizei \"zu Unrecht\" untersagt",
-      "titleTarget" : "Sastanak FPÖ-a u siječnju policija je \"pogrešno\" zabranila",
-      "url" : "https://www.derstandard.at/story/2000125498596/fpoe-versammlung-im-jaenner-wurde-von-polizei-zu-unrecht-untersagt?ref=rss"
+      "url" : "https://www.diepresse.com/5959402/Postenschacher_Gruene-pochen-auf-Ruecktritt-FPOe-auf?from=rss"
     }, {
       "articleLength" : 3891,
       "articlePartsSize" : 17,
@@ -60,28 +22,66 @@
       "titleTarget" : "Revizorski sud poziva na kontrolu stranaka",
       "url" : "https://www.diepresse.com/5959537/Informationsfreiheit_Rechnungshof-draengt-auf-Kontrolle-der-Parteien?from=rss"
     }, {
-      "articleLength" : 1435,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 198,
-      "id" : "imkhNnrV",
-      "imgUrl" : "https://image.kurier.at/images/original/5919294/20210323-ABD0055-1-1.jpg",
+      "articleLength" : 2263,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 314,
+      "id" : "fC3yLOUU",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/f/f/5959679/20210331-Chancellors-working-meeting-with-Russian-ambassador-on-possible-procurement-of-Sputnik-V-VIENNA-AUSTRIA---MAR_1617194238880479.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Auf den letzten Metern\": Noch keine Entscheidung über Sputnik-Ankauf Österreichs",
+      "titleTarget" : "\"Na posljednjih nekoliko metara\": Još nije donesena odluka o austrijskoj akviziciji Sputnika",
+      "url" : "https://www.diepresse.com/5959679/Coronavirus_Auf-den-letzten-Metern_Noch-keine-Entscheidung-ueber?from=rss"
+    }, {
+      "articleLength" : 6674,
+      "articlePartsSize" : 29,
+      "articleWordCount" : 905,
+      "id" : "uHRpyUR9",
+      "publisher" : "derstandard.at",
+      "titleSource" : "FPÖ-Versammlung im Jänner wurde von Polizei \"zu Unrecht\" untersagt",
+      "titleTarget" : "Sastanak FPÖ-a u siječnju policija je \"pogrešno\" zabranila",
+      "url" : "https://www.derstandard.at/story/2000125498596/fpoe-versammlung-im-jaenner-wurde-von-polizei-zu-unrecht-untersagt?ref=rss"
+    }, {
+      "articleLength" : 3879,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 506,
+      "id" : "weMduNIV",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Anklage im Eurofighter-Komplex in Sachen \"Dr. Lüssel\", \"Dr. Laider\", \"K.-H. Lasser\"",
+      "titleTarget" : "Optužbe u kompleksu Eurofighter u slučaju \"Dr. Lüssel\", \"Dr. Laider\", \"K.-H. Lasser\"",
+      "url" : "https://www.derstandard.at/story/2000125505001/anklage-im-eurofighter-komplex-in-sachen-dr-luessel-dr-laider?ref=rss"
+    }, {
+      "articleLength" : 2943,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 423,
+      "id" : "WnIwvHGg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/1/3/5959443/DD8320F3-256D-4C62-9B44-81B16B2A0561_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Doskozil: Entscheidung über längeren Lockdown am Freitag",
+      "titleTarget" : "Doskozil: Odluka o dužem zaključavanju u petak",
+      "url" : "https://www.diepresse.com/5959443/Ostoesterreich_Doskozil_Entscheidung-ueber-laengeren-Lockdown-am?from=rss"
+    }, {
+      "articleLength" : 3154,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 400,
+      "id" : "udgxCCs3",
+      "imgUrl" : "https://image.kurier.at/images/original/5932860/46-176566460.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Doskozil will \"gemeinsamen Weg\" mit Niederösterreich finden",
-      "titleTarget" : "Doskozil želi pronaći \"zajednički način\" s Donjom Austrijom",
-      "url" : "https://kurier.at/politik/inland/doskozil-will-gemeinsamen-weg-mit-niederoesterreich-finden/401336829"
+      "titleSource" : "Anschober warnt: \"Allerletzte Chance für eine Notbremsung\"",
+      "titleTarget" : "Anschober upozorava: \"Posljednja šansa za hitno zaustavljanje\"",
+      "url" : "https://kurier.at/politik/inland/anschober-warnt-allerletzte-chance-fuer-eine-notbremsung/401337414"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 4277,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 592,
-      "id" : "en1cuRgT",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/4/b/5959243/BB1C2F69-EAB8-4F29-B985-6E118E285748_v1_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Pendler: Taxifahren für das Klima?",
-      "titleTarget" : "Putnici na posao: Vožnja taksijem za klimu?",
-      "url" : "https://www.diepresse.com/5959243/Umwelt_Pendler_Taxifahren-fuer-das-Klima?from=rss"
+      "articleLength" : 1278,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 179,
+      "id" : "bAtXGjER",
+      "imgUrl" : "https://image.kurier.at/images/original/5942301/46-176729045.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "USA und Deutschland mit Abstand größte Impfstoff-Investoren",
+      "titleTarget" : "SAD i Njemačka daleko najveći ulagači cjepiva",
+      "url" : "https://kurier.at/wirtschaft/usa-und-deutschland-mit-abstand-groesste-impfstoff-investoren/401336892"
     }, {
       "articleLength" : 2389,
       "articlePartsSize" : 11,
@@ -93,25 +93,15 @@
       "titleTarget" : "Nastavlja se rast cijena energije kućanstva",
       "url" : "https://www.diepresse.com/5959395/Statistik_Der-Preisanstieg-bei-Haushaltsenergie-setzt-sich-fort?from=rss"
     }, {
-      "articleLength" : 1258,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 160,
-      "id" : "i4kaExmG",
-      "imgUrl" : "https://image.kurier.at/images/original/5941236/46-176099525.jpg",
+      "articleLength" : 496,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 68,
+      "id" : "S9UiG6zl",
+      "imgUrl" : "https://image.kurier.at/images/original/4674265/46-167011006.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Arbeiterkammer bereitet Klage gegen Klarna vor",
-      "titleTarget" : "Komora rada priprema tužbu protiv Klarne",
-      "url" : "https://kurier.at/wirtschaft/arbeiterkammer-bereitet-klage-gegen-klarna-vor/401336817"
-    }, {
-      "articleLength" : 1278,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 179,
-      "id" : "bAtXGjER",
-      "imgUrl" : "https://image.kurier.at/images/original/5942301/46-176729045.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "USA und Deutschland mit Abstand größte Impfstoff-Investoren",
-      "titleTarget" : "SAD i Njemačka daleko najveći ulagači cjepiva",
-      "url" : "https://kurier.at/wirtschaft/usa-und-deutschland-mit-abstand-groesste-impfstoff-investoren/401336892"
+      "titleSource" : "Honda muss weltweit 761.000 Autos zurück rufen",
+      "titleTarget" : "Honda mora opozvati 761.000 automobila širom svijeta",
+      "url" : "https://kurier.at/wirtschaft/honda-muss-weltweit-761000-autos-zurueck-rufen/401336964"
     }, {
       "articleLength" : 4881,
       "articlePartsSize" : 24,
@@ -130,48 +120,19 @@
       "titleSource" : "Schmid-Nachrichten an Mahrer, Druck und ein Rücktritt aus dem OMV-Aufsichtsrat",
       "titleTarget" : "Schmid poručuje Mahreru, pritisak i ostavku Nadzornog odbora OMV-a",
       "url" : "https://www.derstandard.at/story/2000125478781/weiterechats-druck-und-ein-ruecktritt-aus-dem-omv-aufsichtsrat?ref=rss"
-    }, {
-      "articleLength" : 496,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 68,
-      "id" : "S9UiG6zl",
-      "imgUrl" : "https://image.kurier.at/images/original/4674265/46-167011006.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Honda muss weltweit 761.000 Autos zurück rufen",
-      "titleTarget" : "Honda mora opozvati 761.000 automobila širom svijeta",
-      "url" : "https://kurier.at/wirtschaft/honda-muss-weltweit-761000-autos-zurueck-rufen/401336964"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 6023,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 824,
-      "id" : "DM3RBgvd",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/9/f/5959583/5F2E8CD5-9A3E-42A4-B7D1-FF9181DCA029_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Donaukanal & Co: Wien verhängt Maskenpflicht an belebten Plätzen",
-      "titleTarget" : "Donaukanal & Co: Beč postavlja zahtjev za maskom na prometnim mjestima",
-      "url" : "https://www.diepresse.com/5959583/Wien_Donaukanal-Co_Wien-verhaengt-Maskenpflicht-an-belebten-Plaetzen?from=rss"
-    }, {
-      "articleLength" : 3928,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 569,
-      "id" : "000nEVHQ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/4/0/5959488/A9E3E36B-5F81-473D-9EF8-44F94446886D_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Tut mir sehr weh\": Hacker revidiert Wiener Impfplan",
-      "titleTarget" : "\"Jako me boli\": Hacker revidira plan cijepljenja u Beču",
-      "url" : "https://www.diepresse.com/5959488/Impfung_Tut-mir-sehr-weh_Hacker-revidiert-Wiener-Impfplan?from=rss"
-    }, {
-      "articleLength" : 28,
-      "articlePartsSize" : 1,
-      "articleWordCount" : 4,
-      "id" : "0R6Sz2zn",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Auch Burgenland und Niederösterreich verlängern Lockdown bis 11. April",
-      "titleTarget" : "Gradišće i Donja Austrija također produljuju zaključavanje do 11. travnja",
-      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125487589/regierung-beschliesst-schaerfere-testpflicht-fuer-pendler?ref=rss"
+      "articleLength" : 2584,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 344,
+      "id" : "M2kBa77u",
+      "imgUrl" : "https://image.kurier.at/images/original/5923017/46-176590368.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Oster-Lockdown: Niederösterreich und das Burgenland verlängern",
+      "titleTarget" : "Uskrsno zaključavanje: Prostiru se Donja Austrija i Gradišće",
+      "url" : "https://kurier.at/chronik/oesterreich/niederoesterreich-verlaengert-lockdown-ebenfalls-bis-11-april/401337807"
     }, {
       "articleLength" : 3375,
       "articlePartsSize" : 15,
@@ -183,6 +144,35 @@
       "titleTarget" : "3.687 novih infekcija koronom u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/3687-neue-corona-infektionen-in-oesterreich/401336910"
     }, {
+      "articleLength" : 6023,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 824,
+      "id" : "DM3RBgvd",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/9/f/5959583/5F2E8CD5-9A3E-42A4-B7D1-FF9181DCA029_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Donaukanal & Co: Wien verhängt Maskenpflicht an belebten Plätzen",
+      "titleTarget" : "Donaukanal & Co: Beč postavlja zahtjev za maskom na prometnim mjestima",
+      "url" : "https://www.diepresse.com/5959583/Wien_Donaukanal-Co_Wien-verhaengt-Maskenpflicht-an-belebten-Plaetzen?from=rss"
+    }, {
+      "articleLength" : 28,
+      "articlePartsSize" : 1,
+      "articleWordCount" : 4,
+      "id" : "0R6Sz2zn",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Ganz Österreich wieder rot auf Corona-Ampel, Ostregion bis 11. April im Lockdown",
+      "titleTarget" : "Gradišće i Donja Austrija također produljuju zaključavanje do 11. travnja",
+      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125487589/regierung-beschliesst-schaerfere-testpflicht-fuer-pendler?ref=rss"
+    }, {
+      "articleLength" : 3928,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 569,
+      "id" : "000nEVHQ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/4/0/5959488/A9E3E36B-5F81-473D-9EF8-44F94446886D_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Tut mir sehr weh\": Hacker revidiert Wiener Impfplan",
+      "titleTarget" : "\"Jako me boli\": Hacker revidira plan cijepljenja u Beču",
+      "url" : "https://www.diepresse.com/5959488/Impfung_Tut-mir-sehr-weh_Hacker-revidiert-Wiener-Impfplan?from=rss"
+    }, {
       "articleLength" : 2513,
       "articlePartsSize" : 12,
       "articleWordCount" : 329,
@@ -193,24 +183,15 @@
       "titleTarget" : "Upravni sud: netočna definicija \"oboljeli / zaraženi\"",
       "url" : "https://www.diepresse.com/5959566/Begriffsdurcheinander_Verwaltungsgericht_Definition-von?from=rss"
     }, {
-      "articleLength" : 1201,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 179,
-      "id" : "0b4AP8NQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4866156/46-173999873.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Astra Zeneca: Leiterin von Impfgremium gegen Impfstopp",
-      "titleTarget" : "Astra Zeneca: šefica odbora za cijepljenje protiv smrzavanja cijepljenja",
-      "url" : "https://kurier.at/chronik/oesterreich/astra-zeneca-leiterin-von-impfgremium-gegen-impfstopp/401336847"
-    }, {
-      "articleLength" : 390,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 52,
-      "id" : "9eGcMAc2",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wo in Wien draußen bald Maskenpflicht gilt",
-      "titleTarget" : "Gdje će u Beču uskoro biti obavezno nošenje maske vani",
-      "url" : "https://www.derstandard.at/story/2000125492282/wo-in-wien-draussen-bald-maskenpflicht-gelten-koennte?ref=rss"
+      "articleLength" : 3377,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 465,
+      "id" : "6hYrgdYN",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/3/1/5959729/1AF2012D-61F4-4B00-B9AD-D65CFD0BB704_v1_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Bisher zwei Millionen Impfdosen an Österreich ausgeliefert",
+      "titleTarget" : "Do sada je Austriji isporučeno dva milijuna doza cjepiva",
+      "url" : "https://www.diepresse.com/5959729/Corona_Bisher-zwei-Millionen-Impfdosen-an-Oesterreich-ausgeliefert?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
@@ -254,14 +235,14 @@
       "titleTarget" : "Corona aid: proširena podrška slobodnim umjetnicima",
       "url" : "https://www.derstandard.at/story/2000125495170/corona-hilfen-unterstuetzung-fuer-freischaffende-kuenstler-ausgeweitet?ref=rss"
     }, {
-      "articleLength" : 4243,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 581,
-      "id" : "xXlTSr8S",
+      "articleLength" : 5621,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 852,
+      "id" : "46PFq4zm",
       "publisher" : "derstandard.at",
-      "titleSource" : "\"Transformation und Wiederkehr\": Radikale Nationalismen im Lentos",
-      "titleTarget" : "\"Transformacija i povratak\": Radikalni nacionalizmi u Lentosu",
-      "url" : "https://www.derstandard.at/story/2000125480674/transformation-und-wiederkehr-radikale-nationalismen-im-lentos?ref=rss"
+      "titleSource" : "Reisereporter Altmann zu Corona: \"Der Mensch braucht Abwechslung\"",
+      "titleTarget" : "Turistički izvjestitelj Altmann o Coroni: \"Ljudima treba raznolikost\"",
+      "url" : "https://www.derstandard.at/story/2000125475354/reisereporter-altmann-im-lockdown-heimat-als-warmes-gefuehl?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -276,6 +257,16 @@
       "titleTarget" : "Mutacija brazilske korone prvi put potvrđena u Austriji",
       "url" : "https://kurier.at/wissen/gesundheit/brasilianische-corona-mutation-erstmals-in-oesterreich-bestaetigt/401337114"
     }, {
+      "articleLength" : 2292,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 297,
+      "id" : "xzdWXZzi",
+      "imgUrl" : "https://image.kurier.at/images/original/5926230/46-176502960.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Astra Zeneca vermarktet Coronavirus-Impfstoff künftig als Vaxzevria",
+      "titleTarget" : "Astra Zeneca će u budućnosti plasirati cjepivo protiv koronavirusa kao Vaxzevria",
+      "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-vermarktet-coronavirus-impfstoff-kuenftig-als-vaxzevria/401337165"
+    }, {
       "articleLength" : 1084,
       "articlePartsSize" : 5,
       "articleWordCount" : 146,
@@ -289,25 +280,35 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 1985,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 253,
-      "id" : "JPyyPFoH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/7/5/5959541/485F3DD2-8399-461D-9A0B-C8EF8ED207A8_v0_h.jpg",
+      "articleLength" : 3218,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 501,
+      "id" : "RNqkJUBL",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/a/5959898/84AAC4E8-5A76-40E5-B5F9-4A0936E8C818_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Mehr Trainerinnen und Funktionärinnen für den Spitzensport",
-      "titleTarget" : "Više trenera i službenika za vrhunski sport",
-      "url" : "https://www.diepresse.com/5959541/Sportpolitik_Mehr-Trainerinnen-fuer-den-Spitzensport?from=rss"
+      "titleSource" : "Deutschland blamiert sich gegen Nordmazedonien",
+      "titleTarget" : "Njemačka se sramoti protiv Sjeverne Makedonije",
+      "url" : "https://www.diepresse.com/5959898/WMQualifikation_Deutschland-blamiert-sich-gegen-Nordmazedonien?from=rss"
     }, {
-      "articleLength" : 1816,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 232,
-      "id" : "6VKXxynf",
-      "imgUrl" : "https://image.kurier.at/images/original/5942787/46-176450205.jpg",
+      "articleLength" : 3819,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 566,
+      "id" : "bxSi0v8G",
+      "imgUrl" : "https://image.kurier.at/images/original/5944329/46-176772432.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Sportpolitik: Kogler präsentierte Gender-Trainee-Programm",
-      "titleTarget" : "Sportska politika: Kogler je predstavio program obuke za spolove",
-      "url" : "https://kurier.at/sport/sportpolitik-kogler-praesentierte-gender-trainee-programm/401337228"
+      "titleSource" : "Historische Pleite: ÖFB-Team erleidet Heim-Debakel gegen Dänemark",
+      "titleTarget" : "Povijesni bankrot: ÖFB tim trpi domaći debakl protiv Danske",
+      "url" : "https://kurier.at/sport/fussball/heim-debakel-in-der-wm-qualifikation-oesterreich-verliert-gegen-daenemark-mit-04/401337375"
+    }, {
+      "articleLength" : 4024,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 603,
+      "id" : "0M0HAiEu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/3/5959891/816186D5-1181-4035-BB3D-4F3EC6E3B9DC_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "WM-Qualifikation: Österreich geht gegen Dänemark unter",
+      "titleTarget" : "Kvalifikacije za Svjetsko prvenstvo: Austrija pada protiv Danske",
+      "url" : "https://www.diepresse.com/5959891/Gruppe-F_WMQualifikation_Oesterreich-geht-gegen-Daenemark-unter?from=rss"
     }, {
       "articleLength" : 1072,
       "articlePartsSize" : 5,
@@ -319,43 +320,33 @@
       "titleTarget" : "Rukomet: Fiverri se eliminiraju nakon otkazivanja Corone",
       "url" : "https://www.diepresse.com/5959447/European-League_Handball_Fivers-scheiden-nach-CoronaAbsage-aus?from=rss"
     }, {
-      "articleLength" : 3495,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 536,
-      "id" : "hpfl0Mdz",
-      "imgUrl" : "https://image.kurier.at/images/original/5940933/46-176702821.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Das erste \"Spiel des Jahres\" für Österreich",
-      "titleTarget" : "Prva \"igra godine\" za Austriju",
-      "url" : "https://kurier.at/sport/fussball/das-erste-spiel-des-jahres-fuer-oesterreich/401336640"
-    }, {
-      "articleLength" : 4366,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 602,
-      "id" : "tUF8mNgk",
-      "imgUrl" : "https://image.kurier.at/images/original/5942346/46-164633890.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Dem Amateur-Fußball fehlt weiter jegliche Perspektive",
-      "titleTarget" : "Amaterskom nogometu još uvijek nedostaje bilo kakva perspektiva",
-      "url" : "https://kurier.at/sport/fussball/dem-amateur-fussball-fehlt-weiter-jegliche-perspektive/401336913"
-    }, {
-      "articleLength" : 4300,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 594,
-      "id" : "u30lZ6GO",
+      "articleLength" : 2591,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 353,
+      "id" : "n5hk0oML",
       "publisher" : "derstandard.at",
-      "titleSource" : "Amateurfußball wegen Pandemie weiter in Warteposition",
-      "titleTarget" : "Amaterski nogomet još uvijek je na čekanju zbog pandemije",
-      "url" : "https://www.derstandard.at/story/2000125494100/amateur-fussball-wegen-pandemie-weiter-in-warteposition?ref=rss"
+      "titleSource" : "ÖFB-Team mit Zeichen an WM-Ausrichter Katar, DFB-Spieler Kroos wählt klare Worte",
+      "titleTarget" : "ÖFB momčad s natpisima domaćinu Svjetskog kupa Kataru, igrač DFB-a Kroos odabire jasne riječi",
+      "url" : "https://www.derstandard.at/story/2000125516629/oefb-team-mit-zeichen-an-wm-gastgeber-katar-menschenrechte-schuetzen?ref=rss"
     }, {
-      "articleLength" : 6501,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 929,
-      "id" : "V9nB27zg",
+      "articleLength" : 616,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 87,
+      "id" : "1xIEXNEg",
       "publisher" : "derstandard.at",
-      "titleSource" : "Dänische Legende Elkjaer-Larsen: \"Habe die Zigarette danach gebraucht\"",
-      "titleTarget" : "Danska legenda Elkjaer-Larsen: \"Nakon toga sam upotrijebio cigaretu\"",
-      "url" : "https://www.derstandard.at/story/2000125488153/daenemarks-legende-elkjaer-larsenhabe-die-zigarette-danach-gebraucht?ref=rss"
+      "titleSource" : "Skispringer Tande verlässt Intensivstation",
+      "titleTarget" : "Skijaški skakač Tande napušta odjel intenzivne njege",
+      "url" : "https://www.derstandard.at/story/2000125514637/skispringer-tande-verlaesst-intensivstation?ref=rss"
+    }, {
+      "articleLength" : 3819,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 566,
+      "id" : "j7n0hOE3",
+      "imgUrl" : "https://image.kurier.at/images/original/5944287/46-176771635.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WM-Quali live: So steht es bei Österreich gegen Dänemark",
+      "titleTarget" : "Kvalifikacije za Svjetsko prvenstvo uživo: Tako je i s Austrijom protiv Danske",
+      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-live-spielstand-bei-oesterreich-gegen-daenemark/401337375"
     } ]
   } ],
   "country" : "austria",
