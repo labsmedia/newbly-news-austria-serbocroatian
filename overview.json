@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2784,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 399,
-      "id" : "SpGVT1xn",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/2/3/5960483/C40843F7-92E0-4AC5-8CEB-884EAC1F872A_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Caritas-Präsident fordert öffentliche Entschuldigung von Kurz",
-      "titleTarget" : "Predsjednik Caritasa poziva na Kurzovu javnu ispriku",
-      "url" : "https://www.diepresse.com/5960483/Postenschacher_CaritasPraesident-fordert-oeffentliche?from=rss"
-    }, {
       "articleLength" : 1253,
       "articlePartsSize" : 5,
       "articleWordCount" : 167,
@@ -22,33 +12,15 @@
       "titleTarget" : "Anschober apelira: \"Sada moramo preokrenuti trend\"",
       "url" : "https://kurier.at/politik/inland/anschober-appelliert-muessen-jetzt-die-trendwende-schaffen/401339880"
     }, {
-      "articleLength" : 3737,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 479,
-      "id" : "SEw2OIg8",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Info über Blümel-Hausdurchsuchung offenbar auf Pilnaceks Handy gefunden",
-      "titleTarget" : "Informacije o Blümelovoj pretrazi kuće očito su pronađene na Pilnacekovu mobitelu",
-      "url" : "https://www.derstandard.at/story/2000125563166/info-ueber-bluemel-hausdurchsuchung-offenbar-auf-pilnaceks-handy-gefunden?ref=rss"
-    }, {
-      "articleLength" : 13165,
-      "articlePartsSize" : 58,
-      "articleWordCount" : 1968,
-      "id" : "m44NJNvC",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kinderarzt zur Pandemie: \"Die soziale Isolation ist ein Riesenschaden\"",
-      "titleTarget" : "Pedijatar o pandemiji: \"Socijalna izolacija velika je šteta\"",
-      "url" : "https://www.derstandard.at/story/2000125520301/kinderarzt-zur-pandemie-die-soziale-isolation-ist-ein-riesenschaden?ref=rss"
-    }, {
-      "articleLength" : 1577,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 214,
-      "id" : "uWQ28ycs",
-      "imgUrl" : "https://image.kurier.at/images/original/5949459/46-132984980.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wegen Chats: Landau fordert öffentliche Entschuldigung von Kurz",
-      "titleTarget" : "Zbog chatova: Landau zahtijeva javno izvinjenje od Kurza",
-      "url" : "https://kurier.at/politik/inland/wegen-chats-landau-fordert-oeffentliche-entschuldigung-von-kurz/401339427"
+      "articleLength" : 1076,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 148,
+      "id" : "pMemYS1b",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/6/c/5960812/NATIONALRAT-RAAB_1617369919005253_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Bilanz: 75.000 besuchten online Deutschkurse",
+      "titleTarget" : "Saldo: 75 000 pohađalo mrežne tečajeve njemačkog jezika",
+      "url" : "https://www.diepresse.com/5960812/Integration_Bilanz_75000-besuchten-online-Deutschkurse?from=rss"
     }, {
       "articleLength" : 1684,
       "articlePartsSize" : 8,
@@ -59,6 +31,34 @@
       "titleSource" : "Österreich möchte Tschechien mit 30.000 Impfdosen unterstützen",
       "titleTarget" : "Austrija bi željela podržati Češku s 30 000 doza cjepiva",
       "url" : "https://kurier.at/politik/inland/oesterreich-gibt-30000-impfdosen-an-tschechien-ab/401339886"
+    }, {
+      "articleLength" : 2547,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 372,
+      "id" : "MAOeaMYy",
+      "imgUrl" : "https://image.kurier.at/images/original/5951028/kurz-corona.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurz stellt Öffnungen für Mai in Aussicht",
+      "titleTarget" : "Kurz obećava otvaranje za svibanj",
+      "url" : "https://kurier.at/politik/inland/osterbotschaft-des-kanzlers-rechnen-mit-corona-wendepunkt-im-mai/401340177"
+    }, {
+      "articleLength" : 3737,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 479,
+      "id" : "SEw2OIg8",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Info über Blümel-Hausdurchsuchung offenbar auf Pilnaceks Handy gefunden",
+      "titleTarget" : "Informacije o Blümelovoj pretrazi kuće očito su pronađene na Pilnacekovu mobitelu",
+      "url" : "https://www.derstandard.at/story/2000125563166/info-ueber-bluemel-hausdurchsuchung-offenbar-auf-pilnaceks-handy-gefunden?ref=rss"
+    }, {
+      "articleLength" : 7217,
+      "articlePartsSize" : 34,
+      "articleWordCount" : 1009,
+      "id" : "zv2PLdOk",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die türkise \"Familie\" und ihr intensiver Kontakt mit Sektionschef Pilnacek",
+      "titleTarget" : "Tirkizna \"obitelj\" i njihov intenzivan kontakt sa šefom odsjeka Pilnacekom",
+      "url" : "https://www.derstandard.at/story/2000125572465/die-tuerkise-familie-und-ihr-intensiver-kontakt-mit-sektionschef-pilnacek?ref=rss"
     }, {
       "articleLength" : 3458,
       "articlePartsSize" : 16,
@@ -73,43 +73,15 @@
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 3003,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 389,
-      "id" : "N64BhVSz",
-      "imgUrl" : "https://image.kurier.at/images/original/5942685/46-176715839.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Lenzing gibt Anteile an Maskenfirma Hygiene Austria an Palmers ab",
-      "titleTarget" : "Lenzing prodaje dionice kompanije za maske Hygiene Austria tvrtki Palmers",
-      "url" : "https://kurier.at/wirtschaft/lenzing-gibt-anteile-an-maskenfirma-hygiene-austria-an-palmers-ab/401339400"
-    }, {
-      "articleLength" : 2230,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 321,
-      "id" : "PrB8msRu",
-      "imgUrl" : "https://image.kurier.at/images/original/4903246/46-175102609.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "US-Automarkt erholte sich im ersten Quartal deutlich",
-      "titleTarget" : "Američko tržište automobila značajno se oporavilo u prvom tromjesečju",
-      "url" : "https://kurier.at/wirtschaft/us-automarkt-erholte-sich-im-ersten-quartal-deutlich/401339256"
-    }, {
-      "articleLength" : 3398,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 445,
-      "id" : "JcTkE3AW",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Lenzing steigt bei Hygiene Austria aus – Anteile an Palmers übertragen",
-      "titleTarget" : "Lenzing odlazi iz higijene Austrija - dionice prebačene na Palmers",
-      "url" : "https://www.derstandard.at/story/2000125552086/hygiene-austria-macht-weiter-aber-ohne-lenzing-beteiligung?ref=rss"
-    }, {
-      "articleLength" : 2339,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 303,
-      "id" : "lHnWNwPZ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Corona lässt Novomatic-Umsatz um ein Drittel einbrechen",
-      "titleTarget" : "Corona omogućuje da se prodaja Novomatic-a sruši za trećinu",
-      "url" : "https://www.derstandard.at/story/2000125579744/corona-laesst-novomatic-umsatz-um-ein-drittel-einbrechen?ref=rss"
+      "articleLength" : 2868,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 387,
+      "id" : "1Mil6Zk6",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/5/3/d/5961021/E0721DDD-E8E8-487A-BC73-04233474FED2_v0_h_v0.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Novomatic meldet für 2020 Verlust von 263 Millionen Euro",
+      "titleTarget" : "Novomatic izvještava o gubitku od 263 milijuna eura za 2020. godinu",
+      "url" : "https://www.diepresse.com/5961021/Umsatzeinbruch_Novomatic-meldet-fuer-2020-Verlust-von-263?from=rss"
     }, {
       "articleLength" : 1018,
       "articlePartsSize" : 4,
@@ -121,59 +93,47 @@
       "titleTarget" : "Duboko crvena bilanca: Novomatic je izgubio 263 milijuna",
       "url" : "https://kurier.at/wirtschaft/tiefrote-bilanz-263-millionen-verlust-bei-novomatic/401340162"
     }, {
-      "articleLength" : 4756,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 650,
-      "id" : "C0MukxY6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/3/7/d/5960573/Studying-Journalism_1617353923981585_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Älteste Zeitung der Welt: Fortbestand der \"Wiener Zeitung\" unwahrscheinlich",
-      "titleTarget" : "Najstarije novine na svijetu: nastavak \"Wiener Zeitung\" je malo vjerojatan",
-      "url" : "https://www.diepresse.com/5960573/Tageszeitung_Aelteste-Zeitung-der-Welt_Fortbestand-der-Wiener?from=rss"
+      "articleLength" : 1260,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 193,
+      "id" : "PWNPmAPl",
+      "imgUrl" : "https://image.kurier.at/images/original/5949759/nicolehermes.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kolumne 'Mein Wohnen': Vom Suchen und Finden",
+      "titleTarget" : "Stupac 'Moje življenje': O pretraživanju i pronalaženju",
+      "url" : "https://kurier.at/wirtschaft/immobiz/kolumne-mein-wohnen-vom-suchen-und-finden/401339022"
     }, {
-      "articleLength" : 2868,
+      "articleLength" : 3461,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 475,
+      "id" : "mpW9EZJg",
+      "imgUrl" : "https://image.kurier.at/images/original/4798059/46-169079952.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wohntelefon: Kann ich mich gegen Geruchsbelästigung wehren?",
+      "titleTarget" : "Telefon u dnevnoj sobi: mogu li se obraniti od neugodnih mirisa?",
+      "url" : "https://kurier.at/wirtschaft/immobiz/wohntelefon-kann-ich-mich-gegen-geruchsbelaestigung-wehren/401339550"
+    }, {
+      "articleLength" : 2339,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 303,
+      "id" : "lHnWNwPZ",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Corona lässt Novomatic-Umsatz um ein Drittel einbrechen",
+      "titleTarget" : "Corona omogućuje da se prodaja Novomatic-a sruši za trećinu",
+      "url" : "https://www.derstandard.at/story/2000125579744/corona-laesst-novomatic-umsatz-um-ein-drittel-einbrechen?ref=rss"
+    }, {
+      "articleLength" : 2938,
       "articlePartsSize" : 13,
-      "articleWordCount" : 387,
-      "id" : "1Mil6Zk6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/3/d/5961021/E0721DDD-E8E8-487A-BC73-04233474FED2_v0_h_v0.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Novomatic meldet für 2020 Verlust von 263 Millionen Euro",
-      "titleTarget" : "Novomatic izvještava o gubitku od 263 milijuna eura za 2020. godinu",
-      "url" : "https://www.diepresse.com/5961021/Umsatzeinbruch_Novomatic-meldet-fuer-2020-Verlust-von-263?from=rss"
+      "articleWordCount" : 413,
+      "id" : "R4zYRqkT",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Streit um Schadenersatz nach Schiffsbergung im Suezkanal",
+      "titleTarget" : "Spor oko odštete nakon sanacije u Sueskom kanalu",
+      "url" : "https://www.derstandard.at/story/2000125577402/streit-um-schadenersatz-nach-schiffsbergung-im-suezkanal?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2305,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 308,
-      "id" : "bJrpm0cB",
-      "imgUrl" : "https://image.kurier.at/images/original/5947530/46-176366158.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Grenzkontrollen sind schwer möglich",
-      "titleTarget" : "Graničnu kontrolu je teško izvesti",
-      "url" : "https://kurier.at/chronik/oesterreich/grenzkontrollen-sind-schwer-moeglich/401339004"
-    }, {
-      "articleLength" : 3704,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 507,
-      "id" : "9Pg6Y77O",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "3.137 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "3.137 novih infekcija koronom u Austriji",
-      "url" : "https://kurier.at/chronik/oesterreich/3137-neue-corona-infektionen-in-oesterreich/401339271"
-    }, {
-      "articleLength" : 3786,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 499,
-      "id" : "xfR8Y2uu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/d/5960557/25EFEA4C-7363-4C76-988E-EFAA3B05452A_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Die Rückkehr der Wildkatzen ins Thayatal",
-      "titleTarget" : "Povratak divljih mačaka u Thayatal",
-      "url" : "https://www.diepresse.com/5960557/Tierwelt_Die-Rueckkehr-der-Wildkatzen-ins-Thayatal?from=rss"
-    }, {
       "articleLength" : 3830,
       "articlePartsSize" : 16,
       "articleWordCount" : 521,
@@ -184,67 +144,115 @@
       "titleTarget" : "Šumski požar u Mödlingu u Štajerskoj poziva na oprez",
       "url" : "https://www.diepresse.com/5960591/Trockenheit_Waldbrand-in-Moedling-Steiermark-mahnt-zur-Vorsicht?from=rss"
     }, {
-      "articleLength" : 1449,
+      "articleLength" : 2481,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 326,
+      "id" : "ugCw6v5b",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/a/8/5960616/C613E262-1636-44E8-82B6-56BAADE4293D_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Nationale Zulassung von Sputnik noch unklar",
+      "titleTarget" : "Nacionalno odobrenje Sputnika i dalje je nejasno",
+      "url" : "https://www.diepresse.com/5960616/Impfstoff_Nationale-Zulassung-von-Sputnik-noch-unklar?from=rss"
+    }, {
+      "articleLength" : 1584,
       "articlePartsSize" : 7,
-      "articleWordCount" : 196,
-      "id" : "2B604bRS",
-      "imgUrl" : "https://image.kurier.at/images/original/4509815/78350011455418704_BLD_Online.jpg",
+      "articleWordCount" : 212,
+      "id" : "Y8i9CZZ7",
+      "imgUrl" : "https://image.kurier.at/images/original/5950641/46-173701300.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "50 Anzeigen nach Menschenansammlungen im Grazer Stadtpark",
-      "titleTarget" : "50 oglasa nakon okupljanja ljudi u gradskom parku Graz",
-      "url" : "https://kurier.at/chronik/oesterreich/50-anzeigen-nach-menschenansammlungen-im-grazer-stadtpark/401339283"
+      "titleSource" : "Corona: Nach Ostern Besuchslockerung für Alters- und Pflegeheime",
+      "titleTarget" : "Corona: Nakon Uskrsa posjetitelji će biti opušteni za umirovljeničke i staračke domove",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-nach-ostern-besuchslockerung-fuer-alters-und-pflegeheime/401339997"
     }, {
-      "articleLength" : 5655,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 756,
-      "id" : "VYsO38xB",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Als sich ein Richter zum Jubel der FPÖ als Corona-Experte inszenierte",
-      "titleTarget" : "Kad se sudac postavio za stručnjaka za koronu da razveseli FPÖ",
-      "url" : "https://www.derstandard.at/story/2000125520048/als-sich-ein-richter-zum-jubel-der-fpoe-als-corona?ref=rss"
+      "articleLength" : 2221,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 328,
+      "id" : "j2bOn3lb",
+      "imgUrl" : "https://image.kurier.at/images/original/5950845/46-176802065.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Osterbräuche: Vom \"Oarradln“ und \"Ratschen“",
+      "titleTarget" : "Uskrsni običaji: O \"Oarradlnu\" i \"Ratschenu\"",
+      "url" : "https://kurier.at/chronik/oesterreich/osterbraeuche-vom-oarradln-und-ratschen/401340090"
     }, {
-      "articleLength" : 2066,
+      "articleLength" : 1339,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 176,
+      "id" : "TWQnx4k0",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Ein einziger Österreicher hatte die Grippe",
+      "titleTarget" : "Samo je jedan Austrijanac imao gripu",
+      "url" : "https://www.diepresse.com/5960721/Gesundheit_Ein-einziger-Oesterreicher-hatte-die-Grippe?from=rss"
+    }, {
+      "articleLength" : 1982,
       "articlePartsSize" : 9,
       "articleWordCount" : 303,
-      "id" : "iPlB07GI",
-      "imgUrl" : "https://image.kurier.at/images/original/5949474/46-176798954.jpg",
+      "id" : "ry1mtSv5",
+      "imgUrl" : "https://image.kurier.at/images/original/5951076/46-163974996.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Tirol: Riesiger Felsblock kracht in Haus",
-      "titleTarget" : "Tirol: Ogromna stijena zabija se u kuću",
-      "url" : "https://kurier.at/chronik/oesterreich/tirol-riesiger-felsblock-kracht-in-haus/401339445"
+      "titleSource" : "So wird das Osterwetter: \"Garteln\" vorerst auf Eis gelegt",
+      "titleTarget" : "Tako je uskrsno vrijeme: \"Garteln\" zasad stavljeno na čekanje",
+      "url" : "https://kurier.at/chronik/oesterreich/so-wird-das-osterwetter-garteln-vorerst-auf-eis-gelegt/401340213"
+    }, {
+      "articleLength" : 630,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 96,
+      "id" : "HmHEtjVS",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/3/8/5960760/6A2A1ABD-7ECF-4074-9FA9-3FDCF7332C18_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Stadt Wien öffnet Impf-Anmeldung für 65-Jährige",
+      "titleTarget" : "Grad Beč otvorio registraciju cijepljenja za 65-godišnjake",
+      "url" : "https://www.diepresse.com/5960760/Impfung_Stadt-Wien-oeffnet-ImpfAnmeldung-fuer-65Jaehrige?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 703,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 102,
-      "id" : "2OsNLyDA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Musiksalon Nr. 57: Abenteuer Matthäus-Passion III",
-      "titleTarget" : "Glazbeni salon br. 57: Adventure St. Matthew Passion III",
-      "url" : "https://www.diepresse.com/5959872/Podcast_Musiksalon-Nr-57_Abenteuer-MatthaeusPassion-III?from=rss"
-    }, {
-      "articleLength" : 3992,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 557,
-      "id" : "UakiNpTv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/9/e/5960350/E1DEA982-A5F7-4A6F-A34B-B6248F353701_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Die schwarzen Cowboys aus der Großstadt",
-      "titleTarget" : "Crni kauboji iz velikog grada",
-      "url" : "https://www.diepresse.com/5960350/Film_Die-schwarzen-Cowboys-aus-der-Grossstadt?from=rss"
-    }, {
-      "articleLength" : 2607,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 344,
-      "id" : "rUPPL245",
-      "imgUrl" : "https://image.kurier.at/images/original/5949582/Wiener_Zeitung.jpg",
+      "articleLength" : 1141,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 170,
+      "id" : "LaCFzmRB",
+      "imgUrl" : "https://image.kurier.at/images/original/5948526/46-109508119.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "\"Wiener Zeitung\": Geschäftsführung will Stecker ziehen",
-      "titleTarget" : "\"Wiener Zeitung\": Uprava želi povući čep",
-      "url" : "https://kurier.at/kultur/medien/wiener-zeitung-geschaeftsfuehrung-will-stecker-ziehen/401339421"
+      "titleSource" : "Juli Zeh und der „Dorf-Nazi“, der sein Spielzeug verschenkte",
+      "titleTarget" : "Juli Zeh i \"seoski nacist\" koji je poklonio njegove igračke",
+      "url" : "https://kurier.at/kultur/buch/juli-zeh-und-der-dorf-nazi-der-sein-spielzeug-verschenkte/401339109"
+    }, {
+      "articleLength" : 1331,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 225,
+      "id" : "l1BqFlnC",
+      "imgUrl" : "https://image.kurier.at/images/original/3943106/46-149850139.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Peter Rosei erzählt \"Das Märchen vom Glück\"",
+      "titleTarget" : "Peter Rosei priča \"Bajku o sreći\"",
+      "url" : "https://kurier.at/kultur/buch/peter-rosei-erzaehlt-das-maerchen-vom-glueck/401339112"
+    }, {
+      "articleLength" : 2104,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 327,
+      "id" : "VbLmHzQD",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Bis der Kasperl mit dem Prügel kommt",
+      "titleTarget" : "Sve dok Kasperl ne dođe s batinama",
+      "url" : "https://www.derstandard.at/story/2000125551003/bis-der-kasperl-mit-dem-pruegel-kommt?ref=rss"
+    }, {
+      "articleLength" : 6411,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 900,
+      "id" : "cS0SBdwG",
+      "publisher" : "derstandard.at",
+      "titleSource" : "St. Petersburger Eremitage wegen Fabergé-Eiern in der Kritik",
+      "titleTarget" : "Sanktpeterburški Ermitaž u kritici zbog Fabergeovih jaja",
+      "url" : "https://www.derstandard.at/story/2000125556546/st-petersburger-eremitage-wegen-faberge-eiern-in-der-kritik?ref=rss"
+    }, {
+      "articleLength" : 2043,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 324,
+      "id" : "X9Ap4aT7",
+      "imgUrl" : "https://image.kurier.at/images/original/5948523/46-175739023.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Der Garten, der Jamaica Kincaid an das Meer erinnert",
+      "titleTarget" : "Vrt koji Jamaicu Kincaid podsjeća na more",
+      "url" : "https://kurier.at/kultur/buch/der-garten-der-jamaica-kincaid-an-das-meer-erinnert/401339106"
     }, {
       "articleLength" : 1421,
       "articlePartsSize" : 7,
@@ -256,16 +264,6 @@
       "titleTarget" : "Najbolje oružje je humor",
       "url" : "https://kurier.at/kultur/medien/die-beste-waffe-ist-humor/401340093"
     }, {
-      "articleLength" : 1141,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 170,
-      "id" : "LaCFzmRB",
-      "imgUrl" : "https://image.kurier.at/images/original/5948526/46-109508119.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Juli Zeh und der „Dorf-Nazi“, der sein Spielzeug verschenkte",
-      "titleTarget" : "Juli Zeh i \"seoski nacist\" koji je poklonio njegove igračke",
-      "url" : "https://kurier.at/kultur/buch/juli-zeh-und-der-dorf-nazi-der-sein-spielzeug-verschenkte/401339109"
-    }, {
       "articleLength" : 1490,
       "articlePartsSize" : 7,
       "articleWordCount" : 218,
@@ -275,29 +273,10 @@
       "titleSource" : "\"Rocketman\"-Regisseur Fletcher dreht TV-Serie über \"Der Pate\"",
       "titleTarget" : "Redatelj \"Rocketman\" Fletcher okrenuo je TV seriju o \"Kumu\"",
       "url" : "https://kurier.at/kultur/medien/rocketman-regisseur-fletcher-dreht-tv-serie-ueber-der-pate/401339964"
-    }, {
-      "articleLength" : 646,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 94,
-      "id" : "8ouSYyJ9",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Patti Smith kommt 2022",
-      "titleTarget" : "Patti Smith stiže 2022. godine",
-      "url" : "https://www.derstandard.at/story/2000125553612/patti-smith-kommt-2022?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 2844,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 362,
-      "id" : "lE182iuS",
-      "imgUrl" : "https://image.kurier.at/images/original/4949641/46-175868706.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "40 Lungentransplantationen bei Covid-19-Patienten durchgeführt",
-      "titleTarget" : "U bolesnika s Covid-19 izvedeno je 40 transplantacija pluća",
-      "url" : "https://kurier.at/wissen/gesundheit/40-lungentransplantationen-bei-covid-19-patienten-durchgefuehrt/401339361"
-    }, {
       "articleLength" : 1254,
       "articlePartsSize" : 6,
       "articleWordCount" : 167,
@@ -317,15 +296,6 @@
       "titleSource" : "30 Blutgerinnsel bei 18 Millionen Astra-Zeneca-Impfungen in London",
       "titleTarget" : "30 krvnih ugrušaka u 18 milijuna cijepljenja protiv Astra-Zenece u Londonu",
       "url" : "https://kurier.at/wissen/gesundheit/30-blutgerinnsel-bei-18-millionen-astra-zeneca-impfungen-in-london/401339541"
-    }, {
-      "articleLength" : 3642,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 503,
-      "id" : "zXx5A35p",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Warum die Covid-19-Impfung auch für Kinder wichtig ist",
-      "titleTarget" : "Zašto je cijepljenje Covid-19 također važno za djecu",
-      "url" : "https://www.derstandard.at/story/2000125536591/warum-die-covid-19-impfung-auch-fuer-kinder-wichtig-ist?ref=rss"
     }, {
       "articleLength" : 2129,
       "articlePartsSize" : 9,
@@ -355,40 +325,30 @@
       "titleSource" : "Experte zu Astra Zeneca: \"Guter Impfstoff\" und mögliche Risikopopulation",
       "titleTarget" : "Stručnjak za Astra Zeneca: \"Dobro cjepivo\" i moguća populacija u riziku",
       "url" : "https://kurier.at/wissen/gesundheit/experte-zu-astra-zeneca-guter-impfstoff-und-moegliche-risikopopulation/401339814"
+    }, {
+      "articleLength" : 2031,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 288,
+      "id" : "7wWgXDkF",
+      "imgUrl" : "https://image.kurier.at/images/original/5950971/46-176720973.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "US-Gesundheitsbehörde: Voll Geimpfte können wieder reisen",
+      "titleTarget" : "Američka zdravstvena agencija: Potpuno cijepljene osobe mogu ponovno putovati",
+      "url" : "https://kurier.at/wissen/gesundheit/us-gesundheitsbehoerde-voll-geimpfte-koennen-wieder-reisen/401340141"
+    }, {
+      "articleLength" : 1887,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 258,
+      "id" : "nAxtm2gb",
+      "imgUrl" : "https://image.kurier.at/images/original/5951007/46-176807066.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Niederlande stoppen Astra Zeneca für unter 60-Jährige",
+      "titleTarget" : "Nizozemska zaustavlja Astru Zenecu ispod 60 godina",
+      "url" : "https://kurier.at/wissen/gesundheit/niederlande-stoppen-astra-zeneca-fuer-unter-60-jaehrige/401340147"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2224,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 330,
-      "id" : "I59Q2BAP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/1/5960689/4683D937-98C0-45AD-9935-FCBDFE3189B8_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Rapid verlängert mit Kühbauer bis 2023",
-      "titleTarget" : "Rapid se proteže s Kühbauerom do 2023",
-      "url" : "https://www.diepresse.com/5960689/Bundesliga_Rapid-verlaengert-mit-Kuehbauer-bis-2023?from=rss"
-    }, {
-      "articleLength" : 1263,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 201,
-      "id" : "ygb1FUOZ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/c/b/5960907/C5A1E09C-2529-4730-9B78-3B481581351A_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Emma Spitz wieder im Augusta-Finale dabei",
-      "titleTarget" : "Emma Spitz vratila se u finale Auguste",
-      "url" : "https://www.diepresse.com/5960907/Golf_Emma-Spitz-wieder-im-AugustaFinale-dabei?from=rss"
-    }, {
-      "articleLength" : 2975,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 405,
-      "id" : "ZSDiX3Iv",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/b/f/5960639/CF595011-30E3-42A6-A298-C36058B4B483_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Drei ÖRV-Boote rudern um das Olympia-Ticket",
-      "titleTarget" : "Tri ÖRV čamca veslaju za olimpijsku kartu",
-      "url" : "https://www.diepresse.com/5960639/Tokio-2021_Drei-OeRVBoote-rudern-um-das-OlympiaTicket?from=rss"
-    }, {
       "articleLength" : 4270,
       "articlePartsSize" : 20,
       "articleWordCount" : 632,
@@ -398,6 +358,16 @@
       "titleSource" : "Rapid verlängert den Vertrag mit Trainer Didi Kühbauer bis 2023",
       "titleTarget" : "Rapid produžuje ugovor s trenerom Didi Kühbauer do 2023. godine",
       "url" : "https://kurier.at/sport/fussball/bundesliga-rapid-verlaengert-den-vertrag-mit-trainer-didi-kuehbauer-bis-sommer-2023/401339595"
+    }, {
+      "articleLength" : 2942,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 432,
+      "id" : "MaPtDIuJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4900801/46-175079358.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kühbauers Chance auf eine historische Trainer-Ära bei Rapid",
+      "titleTarget" : "Kühbauerova šansa za povijesnu trenersku eru u Rapidu",
+      "url" : "https://kurier.at/sport/fussball/didi-kuehbauers-chance-auf-eine-historische-trainer-aera-bei-rapid/401340081"
     }, {
       "articleLength" : 1094,
       "articlePartsSize" : 5,
@@ -426,6 +396,26 @@
       "titleSource" : "Verstoß gegen Corona-Regeln: Juventus-Star feierte Dinnerparty",
       "titleTarget" : "Kršenje pravila o koroni: Juventusova zvijezda proslavila je večeru",
       "url" : "https://kurier.at/sport/fussball/verstoss-gegen-corona-regeln-juventus-star-mckennie-feierte-dinnerparty/401339643"
+    }, {
+      "articleLength" : 902,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 120,
+      "id" : "a8YSM8x6",
+      "imgUrl" : "https://image.kurier.at/images/original/5950353/46-176693861.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kapitänsschleife von Superstar Ronaldo für 64.000 Euro versteigert",
+      "titleTarget" : "Kapetanski luk superzvijezde Ronalda na aukciji je iznosio 64.000 eura",
+      "url" : "https://kurier.at/sport/fussball/kapitaensschleife-von-superstar-cristiano-ronaldo-fuer-64000-euro-versteigert/401339799"
+    }, {
+      "articleLength" : 2224,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 330,
+      "id" : "I59Q2BAP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/f/1/5960689/4683D937-98C0-45AD-9935-FCBDFE3189B8_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Rapid verlängert mit Kühbauer bis 2023",
+      "titleTarget" : "Rapid se proteže s Kühbauerom do 2023",
+      "url" : "https://www.diepresse.com/5960689/Bundesliga_Rapid-verlaengert-mit-Kuehbauer-bis-2023?from=rss"
     } ]
   } ],
   "country" : "austria",
