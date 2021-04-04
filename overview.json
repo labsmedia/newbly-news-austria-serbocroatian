@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2547,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 372,
-      "id" : "MAOeaMYy",
-      "imgUrl" : "https://image.kurier.at/images/original/5951028/kurz-corona.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kurz stellt Öffnungen für Mai in Aussicht",
-      "titleTarget" : "Kurz obećava otvaranje za svibanj",
-      "url" : "https://kurier.at/politik/inland/osterbotschaft-des-kanzlers-rechnen-mit-corona-wendepunkt-im-mai/401340177"
-    }, {
       "articleLength" : 1666,
       "articlePartsSize" : 8,
       "articleWordCount" : 234,
@@ -21,26 +11,6 @@
       "titleSource" : "\"Virus sehr ernst nehmen\": Haimbuchner aus Spital entlassen",
       "titleTarget" : "\"Shvatite virus vrlo ozbiljno\": Haimbuchner pušten iz bolnice",
       "url" : "https://www.diepresse.com/5961079/Covid19_Virus-sehr-ernst-nehmen_Haimbuchner-aus-Spital-entlassen?from=rss"
-    }, {
-      "articleLength" : 3467,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 518,
-      "id" : "dXBsYXXH",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/7/5961063/5B043AA4-B9DA-4481-A551-5864148903F9_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Corona wird vorbeigehen\": Kurz rechnet mit Öffnungen im Mai",
-      "titleTarget" : "\"Corona će proći\": Kurz očekuje otvaranje u svibnju",
-      "url" : "https://www.diepresse.com/5961063/Videobotschaft_Corona-wird-vorbeigehen_Kurz-rechnet-mit?from=rss"
-    }, {
-      "articleLength" : 4877,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 686,
-      "id" : "160dVrcl",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/7/4/5961076/B43AFEE0-07C8-486B-97C5-3F10E28BCB90_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Chalupka kritisiert Kanzler-Chats: \"Freude an der Demütigung\"",
-      "titleTarget" : "Chalupka kritizira kancelarske razgovore: \"radost u poniženju\"",
-      "url" : "https://www.diepresse.com/5961076/Kirche-und-Politik_Chalupka-kritisiert-KanzlerChats_Freude-an?from=rss"
     }, {
       "articleLength" : 5414,
       "articlePartsSize" : 24,
@@ -52,15 +22,15 @@
       "titleTarget" : "Predsjednik Vijeća za osobe s invaliditetom Pichler imao je smrtnu nesreću",
       "url" : "https://www.diepresse.com/5961149/Todesfall_Praesident-des-Behindertenrats-Pichler-toedlich-verunglueckt?from=rss"
     }, {
-      "articleLength" : 1076,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 148,
-      "id" : "pMemYS1b",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/6/c/5960812/NATIONALRAT-RAAB_1617369919005253_v0_h.jpg",
+      "articleLength" : 3467,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 518,
+      "id" : "dXBsYXXH",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/6/7/5961063/5B043AA4-B9DA-4481-A551-5864148903F9_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Bilanz: 75.000 besuchten online Deutschkurse",
-      "titleTarget" : "Saldo: 75 000 pohađalo mrežne tečajeve njemačkog jezika",
-      "url" : "https://www.diepresse.com/5960812/Integration_Bilanz_75000-besuchten-online-Deutschkurse?from=rss"
+      "titleSource" : "\"Corona wird vorbeigehen\": Kurz rechnet mit Öffnungen im Mai",
+      "titleTarget" : "\"Corona će proći\": Kurz očekuje otvaranje u svibnju",
+      "url" : "https://www.diepresse.com/5961063/Videobotschaft_Corona-wird-vorbeigehen_Kurz-rechnet-mit?from=rss"
     }, {
       "articleLength" : 6152,
       "articlePartsSize" : 28,
@@ -70,30 +40,39 @@
       "titleSource" : "Treffen im Freien sind nicht unbedenklich",
       "titleTarget" : "Sastanci na otvorenom nisu sigurni",
       "url" : "https://www.derstandard.at/story/2000125572872/treffen-im-freien-sind-nicht-unbedenklich?ref=rss"
+    }, {
+      "articleLength" : 2547,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 372,
+      "id" : "MAOeaMYy",
+      "imgUrl" : "https://image.kurier.at/images/original/5951028/kurz-corona.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kurz stellt Öffnungen für Mai in Aussicht",
+      "titleTarget" : "Kurz obećava otvaranje za svibanj",
+      "url" : "https://kurier.at/politik/inland/osterbotschaft-des-kanzlers-rechnen-mit-corona-wendepunkt-im-mai/401340177"
+    }, {
+      "articleLength" : 1213,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 158,
+      "id" : "N8jmIcTO",
+      "imgUrl" : "https://image.kurier.at/images/original/5950287/46-175987909.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Raab: \"Nur wer gut Deutsch spricht, kann in Österreich Fuß fassen\"",
+      "titleTarget" : "Raab: \"Samo oni koji dobro govore njemački mogu se učvrstiti u Austriji\"",
+      "url" : "https://kurier.at/politik/inland/raab-nur-wer-gut-deutsch-spricht-kann-in-oesterreich-fuss-fassen/401339751"
+    }, {
+      "articleLength" : 11480,
+      "articlePartsSize" : 50,
+      "articleWordCount" : 1761,
+      "id" : "2MfBpt8j",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Bischof Michael Chalupka: \"Diese Regierung ist uns noch vieles schuldig\"",
+      "titleTarget" : "Biskup Michael Chalupka: \"Ova nam vlada još uvijek puno duguje\"",
+      "url" : "https://www.derstandard.at/story/2000125555507/bischof-michael-chalupka-diese-regierung-ist-uns-noch-vieles-schuldig?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 2868,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 387,
-      "id" : "1Mil6Zk6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/3/d/5961021/E0721DDD-E8E8-487A-BC73-04233474FED2_v0_h_v0.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Novomatic meldet für 2020 Verlust von 263 Millionen Euro",
-      "titleTarget" : "Novomatic izvještava o gubitku od 263 milijuna eura za 2020. godinu",
-      "url" : "https://www.diepresse.com/5961021/Umsatzeinbruch_Novomatic-meldet-fuer-2020-Verlust-von-263?from=rss"
-    }, {
-      "articleLength" : 2751,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 394,
-      "id" : "or2DWnU3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/5/a/e/5961134/E1472283-B758-4895-A205-AA08BE54173E_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Bundesweiter Lockdown \"von Interpretation der Zahlen abhängig\"",
-      "titleTarget" : "Nacionalno zaključavanje \"ovisi o tumačenju brojeva\"",
-      "url" : "https://www.diepresse.com/5961134/Arbeitsminister_Bundesweiter-Lockdown-von-Interpretation-der?from=rss"
-    }, {
       "articleLength" : 1481,
       "articlePartsSize" : 7,
       "articleWordCount" : 204,
@@ -103,15 +82,6 @@
       "titleSource" : "Chefwechsel bei Roboterauto-Firma Waymo",
       "titleTarget" : "Promjena šefa u tvrtki za robotske automobile Waymo",
       "url" : "https://www.diepresse.com/5961068/USA_Chefwechsel-bei-RoboterautoFirma-Waymo?from=rss"
-    }, {
-      "articleLength" : 2555,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 349,
-      "id" : "OXMRaIG5",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Behindertenrats-Präsident Pichler tödlich verunglückt",
-      "titleTarget" : "Predsjednik Vijeća za osobe s invaliditetom Pichler imao je smrtnu nesreću",
-      "url" : "https://www.derstandard.at/story/2000125585232/behindertenrats-praesident-pichler-toedlich-verunglueckt?ref=rss"
     }, {
       "articleLength" : 4453,
       "articlePartsSize" : 19,
@@ -133,19 +103,58 @@
       "titleTarget" : "Stupac 'Moje življenje': O pretraživanju i pronalaženju",
       "url" : "https://kurier.at/wirtschaft/immobiz/kolumne-mein-wohnen-vom-suchen-und-finden/401339022"
     }, {
-      "articleLength" : 2716,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 416,
-      "id" : "0ZznjoDr",
-      "imgUrl" : "https://image.kurier.at/images/original/5949534/46-176722941.jpg",
+      "articleLength" : 8890,
+      "articlePartsSize" : 39,
+      "articleWordCount" : 1303,
+      "id" : "ov80TQn5",
+      "imgUrl" : "https://image.kurier.at/images/original/5949039/46-176659277.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Rasend Schön: Pflegetipps für den perfekten Rasen im Garten",
-      "titleTarget" : "Izvanredno lijepo: savjeti za njegu savršenog travnjaka u vrtu",
-      "url" : "https://kurier.at/wirtschaft/immobiz/rasend-schoen-pflegetipps-fuer-den-perfekten-rasen-im-garten/401339469"
+      "titleSource" : "Warum wir gerade jetzt wieder gern auf Märkte gehen",
+      "titleTarget" : "Zašto trenutno volimo ponovno ići na tržnice",
+      "url" : "https://kurier.at/wirtschaft/karriere/treffpunkt-am-markt-was-uns-in-zeiten-von-corona-auf-maerkte-zieht/401338710"
+    }, {
+      "articleLength" : 1293,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 184,
+      "id" : "KuZ5JxbI",
+      "imgUrl" : "https://image.kurier.at/images/original/4731195/46-112005874.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Karriere-Netzwerk LinkedIn gibt der Belegschaft eine Woche frei",
+      "titleTarget" : "Karijerna mreža LinkedIn daje radnoj snage jedan tjedan odmora",
+      "url" : "https://kurier.at/wirtschaft/karriere-netzwerk-linkedin-gibt-der-belegschaft-eine-woche-frei/401340459"
+    }, {
+      "articleLength" : 1027,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 151,
+      "id" : "9fBisZ6g",
+      "imgUrl" : "https://image.kurier.at/images/original/319395/46-71463901.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Schiffs-Rückstau im Suezkanal hat sich komplett aufgelöst",
+      "titleTarget" : "Brodski brod u Sueskom kanalu potpuno se otopio",
+      "url" : "https://kurier.at/wirtschaft/stau-im-suezkanal-duerfte-sich-heute-aufloesen/401340561"
+    }, {
+      "articleLength" : 2555,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 349,
+      "id" : "OXMRaIG5",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Behindertenrats-Präsident Pichler tödlich verunglückt",
+      "titleTarget" : "Predsjednik Vijeća za osobe s invaliditetom Pichler imao je smrtnu nesreću",
+      "url" : "https://www.derstandard.at/story/2000125585232/behindertenrats-praesident-pichler-toedlich-verunglueckt?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 444,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 67,
+      "id" : "jSDfbZA7",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona: Kartenrunde in Kärntner Gasthaus angezeigt",
+      "titleTarget" : "Corona: Kartonsko kolo prikazano u gostionici Koruška",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-kartenrunde-in-kaerntner-gasthaus-angezeigt/401340438"
+    }, {
       "articleLength" : 3547,
       "articlePartsSize" : 17,
       "articleWordCount" : 530,
@@ -155,6 +164,24 @@
       "titleSource" : "3283 neue Corona-Infektionen in Österreich binnen 24 Stunden",
       "titleTarget" : "3283 nove infekcije koronom u Austriji u roku od 24 sata",
       "url" : "https://www.diepresse.com/5961125/Statistik_3283-neue-CoronaInfektionen-in-Oesterreich-binnen-24?from=rss"
+    }, {
+      "articleLength" : 3345,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 501,
+      "id" : "egW0HHKA",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kurz: Impfwillige sollen Erststich in nächsten 100 Tagen erhalten",
+      "titleTarget" : "Ukratko: oni koji se žele cijepiti trebali bi dobiti prvi bod u sljedećih 100 dana",
+      "url" : "https://www.derstandard.at/story/2000125582362/kurz-impfwillige-erhalten-erststich-in-naechsten-100-tagen?ref=rss"
+    }, {
+      "articleLength" : 894,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 118,
+      "id" : "eqHEOVck",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Corona-Maßnahmengegner veranstalten Autokorso im Bezirk Baden",
+      "titleTarget" : "Protivnici koronskih mjera organiziraju defile automobila u okrugu Baden",
+      "url" : "https://www.diepresse.com/5961168/Niederoesterreich_CoronaMassnahmengegner-veranstalten-Autokorso-im?from=rss"
     }, {
       "articleLength" : 5493,
       "articlePartsSize" : 24,
@@ -166,53 +193,25 @@
       "titleTarget" : "Corona: 3.283 nove infekcije u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/corona-3283-neuinfektionen-in-oesterreich/401340393"
     }, {
-      "articleLength" : 3345,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 501,
-      "id" : "egW0HHKA",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kurz: Impfwillige sollen Erststich in nächsten 100 Tagen erhalten",
-      "titleTarget" : "Ukratko: oni koji se žele cijepiti trebali bi dobiti prvi bod u sljedećih 100 dana",
-      "url" : "https://www.derstandard.at/story/2000125582362/kurz-impfwillige-erhalten-erststich-in-naechsten-100-tagen?ref=rss"
-    }, {
-      "articleLength" : 2274,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 320,
-      "id" : "f2CdL5Y5",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Jugendliche attackieren Polizei in St. Gallen",
-      "titleTarget" : "Mladi napadaju policiju u St.",
-      "url" : "https://www.derstandard.at/story/2000125581921/jugendliche-attackieren-polizei-in-st-gallen?ref=rss"
-    }, {
-      "articleLength" : 444,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 67,
-      "id" : "jSDfbZA7",
-      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona: Kartenrunde in Kärntner Gasthaus angezeigt",
-      "titleTarget" : "Corona: Kartonsko kolo prikazano u gostionici Koruška",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-kartenrunde-in-kaerntner-gasthaus-angezeigt/401340438"
-    }, {
       "articleLength" : 1560,
       "articlePartsSize" : 7,
       "articleWordCount" : 222,
       "id" : "mwpgoRda",
-      "imgUrl" : "https://image.kurier.at/images/original/5952159/46-176655013.jpg",
+      "imgUrl" : "https://image.kurier.at/images/original/5952675/46-176792968.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Sieben Tote nach Astra Zeneca-Impfung in England + 3.283 neue Fälle in Österreich",
       "titleTarget" : "Sedam mrtvih nakon cijepljenja protiv Astre Zenece u Engleskoj + 3.283 nova slučaja u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/niederlande-stoppen-astra-zeneca-fuer-unter-60-jaehrige/401340387"
     }, {
-      "articleLength" : 2018,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 288,
-      "id" : "5KfaavLD",
-      "imgUrl" : "https://image.kurier.at/images/original/5951070/46-176194331.jpg",
+      "articleLength" : 2179,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 313,
+      "id" : "FwurTsWW",
+      "imgUrl" : "https://image.kurier.at/images/original/3486238/46-145963523.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Wiederkehr kontert ÖVP im Streit um Kindergärten:  „Bund hört die Hilferufe nicht“",
-      "titleTarget" : "Vrati brojače ÖVP u sporu oko vrtića: \"Savezna vlada ne čuje pozive za pomoć\"",
-      "url" : "https://kurier.at/chronik/oesterreich/wiederkehr-kontert-oevp-im-streit-um-kindergaerten-bund-hoert-die-hilferufe-nicht/401340207"
+      "titleSource" : "Wals: Mann in Wohnung von sechs Tätern überfallen und ausgeraubt",
+      "titleTarget" : "Wals: Muškarac u stanu od šest počinitelja iz zasjede i pljačke",
+      "url" : "https://kurier.at/chronik/oesterreich/wals-mann-in-wohnung-von-sechs-taetern-ueberfallen-und-ausgeraubt/401340552"
     } ]
   }, {
     "category" : "CULTURE",
@@ -297,29 +296,29 @@
       "titleSource" : "Johnson & Johnson testet Impfstoff jetzt an Jugendlichen",
       "titleTarget" : "Johnson & Johnson sada testira cjepivo na tinejdžerima",
       "url" : "https://kurier.at/wissen/gesundheit/johnson-johnson-testet-impfstoff-jetzt-an-jugendlichen/401340489"
-    }, {
-      "articleLength" : 1887,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 258,
-      "id" : "nAxtm2gb",
-      "imgUrl" : "https://image.kurier.at/images/original/5951007/46-176807066.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Niederlande stoppen Astra Zeneca für unter 60-Jährige",
-      "titleTarget" : "Nizozemska zaustavlja Astru Zenecu ispod 60 godina",
-      "url" : "https://kurier.at/wissen/gesundheit/niederlande-stoppen-astra-zeneca-fuer-unter-60-jaehrige/401340147"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2942,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 432,
-      "id" : "MaPtDIuJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4900801/46-175079358.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kühbauers Chance auf eine historische Trainer-Ära bei Rapid",
-      "titleTarget" : "Kühbauerova šansa za povijesnu trenersku eru u Rapidu",
-      "url" : "https://kurier.at/sport/fussball/didi-kuehbauers-chance-auf-eine-historische-trainer-aera-bei-rapid/401340081"
+      "articleLength" : 3653,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 541,
+      "id" : "h6DgoUVg",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/1/e/5961246/B6DF713A-3DA8-4F84-A07E-77EE445A819E_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Späte Treffer bringen Austria Sieg über Altach",
+      "titleTarget" : "Kasni hitovi donose Austriji pobjedu nad Altachom",
+      "url" : "https://www.diepresse.com/5961246/Bundesliga_Spaete-Treffer-bringen-Austria-Sieg-ueber-Altach?from=rss"
+    }, {
+      "articleLength" : 1997,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 327,
+      "id" : "oQCzu1EP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/d/b/5961179/BE86FC61-3615-4EF3-9FEA-D60006BF451D_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Frankfurt nimmt Kurs auf die Champions League",
+      "titleTarget" : "Frankfurt ide prema Ligi prvaka",
+      "url" : "https://www.diepresse.com/5961179/Deutsche-Bundesliga_Frankfurt-nimmt-Kurs-auf-die-Champions-League?from=rss"
     }, {
       "articleLength" : 1899,
       "articlePartsSize" : 8,
@@ -331,6 +330,25 @@
       "titleTarget" : "Golf: Wiesbergerova kriza oblika prije Mastersa",
       "url" : "https://www.diepresse.com/5961167/PGATour_Golf_Wiesbergers-Formkrise-vor-dem-Masters?from=rss"
     }, {
+      "articleLength" : 5189,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 765,
+      "id" : "ygQ6gldT",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Eiskunstläuferin Olga Mikutina: Vom Dörfchen in den WM-Eispalast",
+      "titleTarget" : "Umetnička klizačica Olga Mikutina: Od sela do ledene palače Svjetskog kupa",
+      "url" : "https://www.derstandard.at/story/2000125572898/eiskunstlaeuferin-olga-mikutina-vom-doerfchen-in-den-wm-eispalast?ref=rss"
+    }, {
+      "articleLength" : 2942,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 432,
+      "id" : "MaPtDIuJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4900801/46-175079358.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Kühbauers Chance auf eine historische Trainer-Ära bei Rapid",
+      "titleTarget" : "Kühbauerova šansa za povijesnu trenersku eru u Rapidu",
+      "url" : "https://kurier.at/sport/fussball/didi-kuehbauers-chance-auf-eine-historische-trainer-aera-bei-rapid/401340081"
+    }, {
       "articleLength" : 1925,
       "articlePartsSize" : 9,
       "articleWordCount" : 268,
@@ -341,33 +359,14 @@
       "titleTarget" : "Istraživač trenda: \"Važnost nogometa je potpuno precijenjena\"",
       "url" : "https://kurier.at/sport/fussball/deutscher-trendforscher-eike-wenzel-der-fussball-ueberschaetzt-sich-total/401340465"
     }, {
-      "articleLength" : 1919,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 286,
-      "id" : "PEWRgs59",
-      "imgUrl" : "https://image.kurier.at/images/original/5950272/20180711_112359.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Der Drahtseilakt der Wiener Austria im Nebel von Favoriten",
-      "titleTarget" : "Čin žičare Bečke Austrije u magli Favoriten",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-der-drahtseilakt-der-wiener-austria-im-nebel-von-favoriten/401339724"
-    }, {
-      "articleLength" : 5189,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 765,
-      "id" : "ygQ6gldT",
+      "articleLength" : 5466,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 816,
+      "id" : "fUMtCg6L",
       "publisher" : "derstandard.at",
-      "titleSource" : "Eiskunstläuferin Olga Mikutina: Vom Dörfchen in den WM-Eispalast",
-      "titleTarget" : "Umetnička klizačica Olga Mikutina: Od sela do ledene palače Svjetskog kupa",
-      "url" : "https://www.derstandard.at/story/2000125572898/eiskunstlaeuferin-olga-mikutina-vom-doerfchen-in-den-wm-eispalast?ref=rss"
-    }, {
-      "articleLength" : 3494,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 548,
-      "id" : "7F20k3eQ",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Zweitliga-Spitzenreiter Lafnitz bezog Niederlage gegen Rapid",
-      "titleTarget" : "Čelnik drugoligaša Lafnitz poražen je od Rapida",
-      "url" : "https://www.derstandard.at/story/2000125580650/zweitliga-spitzenreiter-lafnitz-bezog-niederlage-gegen-rapid?ref=rss"
+      "titleSource" : "Austria nach Sieg gegen Altach Quali-Gruppen-Spitzenreiter",
+      "titleTarget" : "Austrija predvodi kvalifikacijsku skupinu nakon što je pobijedila Altach",
+      "url" : "https://www.derstandard.at/story/2000125586618/austria-startet-mit-sieg-gegen-altach-in-quali-gruppe?ref=rss"
     } ]
   } ],
   "country" : "austria",
