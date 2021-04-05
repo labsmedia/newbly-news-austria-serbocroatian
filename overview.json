@@ -32,6 +32,15 @@
       "titleTarget" : "\"Patetično što se trenutno događa\": Doskozilova nasilna kritika Kurza",
       "url" : "https://kurier.at/politik/inland/erbaermlich-doskozil-kritisiert-rueckzug-von-kurz-bei-corona-fragen/401340930"
     }, {
+      "articleLength" : 2717,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 397,
+      "id" : "iUR9kUMI",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Öbag-Chef Thomas Schmid verdient zwischen 400.000 und 610.000 Euro Gehalt",
+      "titleTarget" : "Šef Öbaga Thomas Schmid zarađuje između 400.000 i 610.000 eura plaće",
+      "url" : "https://www.derstandard.at/story/2000125592149/oebag-chef-thomas-schmid-verdient-zwischen-400-000-und-610?ref=rss"
+    }, {
       "articleLength" : 1457,
       "articlePartsSize" : 7,
       "articleWordCount" : 187,
@@ -53,6 +62,16 @@
       "titleSource" : "Interior-Designer über ein Wohnprojekt an der Weinstraße",
       "titleTarget" : "Dizajner interijera na stambenom projektu na Weinstrasse",
       "url" : "https://kurier.at/wirtschaft/immobiz/interior-designer-ueber-ein-wohnprojekt-an-der-weinstrasse/401337426"
+    }, {
+      "articleLength" : 6377,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 913,
+      "id" : "LCHaSml2",
+      "imgUrl" : "https://image.kurier.at/images/original/5950806/46-176800275.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wie IV-Präsident Knill dem Fachkräftemangel begegnen will",
+      "titleTarget" : "Kako se IV predsjednik Knill želi suprotstaviti nedostatku kvalificiranih radnika",
+      "url" : "https://kurier.at/wirtschaft/iv-praesident-knill-ueber-fachkraeftemangel-und-bildungsdefizite/401340084"
     }, {
       "articleLength" : 3717,
       "articlePartsSize" : 16,
@@ -85,25 +104,6 @@
       "titleTarget" : "Rođendanska zabava u Linzu: izložene 22 osobe",
       "url" : "https://kurier.at/chronik/oesterreich/geburtstagskind-feierte-corona-party-in-linz-22-leute-angezeigt/401340846"
     }, {
-      "articleLength" : 3956,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 549,
-      "id" : "4jXRySrL",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona: 2.743 Neuinfektionen in Österreich - deutlicher Anstieg bei Intensivpatienten",
-      "titleTarget" : "Corona: 2.743 nove infekcije u Austriji - značajan porast pacijenata na intenzivnoj njezi",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-2743-neuinfektionen-in-oesterreich/401340801"
-    }, {
-      "articleLength" : 423,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 61,
-      "id" : "bqJLwqIL",
-      "publisher" : "diepresse.com",
-      "titleSource" : "22 Anzeigen nach Geburtstagsfeier in Linz",
-      "titleTarget" : "22 reklame nakon proslave rođendana u Linzu",
-      "url" : "https://www.diepresse.com/5961297/CoronaMassnahmen_22-Anzeigen-nach-Geburtstagsfeier-in-Linz?from=rss"
-    }, {
       "articleLength" : 2343,
       "articlePartsSize" : 11,
       "articleWordCount" : 299,
@@ -122,6 +122,25 @@
       "titleSource" : "Risikopatienten ohne Impfung: \"Wir fühlen uns ungerecht behandelt\"",
       "titleTarget" : "Rizični pacijenti bez cijepljenja: \"Smatramo da smo postupali nepravedno\"",
       "url" : "https://www.derstandard.at/story/2000125561424/risikopatienten-ohne-impfung-wir-fuehlen-uns-ungerecht-behandelt?ref=rss"
+    }, {
+      "articleLength" : 423,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 61,
+      "id" : "bqJLwqIL",
+      "publisher" : "diepresse.com",
+      "titleSource" : "22 Anzeigen nach Geburtstagsfeier in Linz",
+      "titleTarget" : "22 reklame nakon proslave rođendana u Linzu",
+      "url" : "https://www.diepresse.com/5961297/CoronaMassnahmen_22-Anzeigen-nach-Geburtstagsfeier-in-Linz?from=rss"
+    }, {
+      "articleLength" : 3956,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 549,
+      "id" : "4jXRySrL",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona: 2.743 Neuinfektionen in Österreich - deutlicher Anstieg bei Intensivpatienten",
+      "titleTarget" : "Corona: 2.743 nove infekcije u Austriji - značajan porast pacijenata na intenzivnoj njezi",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-2743-neuinfektionen-in-oesterreich/401340801"
     }, {
       "articleLength" : 1155,
       "articlePartsSize" : 5,
@@ -166,15 +185,14 @@
       "titleTarget" : "Nalog za uhićenje repera ispričava se: \"Iskreno: Corona, postoji\"",
       "url" : "https://kurier.at/kultur/rapper-haftbefehl-leistet-abbitte-ganz-ehrlich-corona-das-gibts/401340894"
     }, {
-      "articleLength" : 4084,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 617,
-      "id" : "T1ubvK94",
-      "imgUrl" : "https://image.kurier.at/images/original/5952804/46-176556278.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corinna Milborn: \"Gebe den sozialen Medien die Schuld\"",
-      "titleTarget" : "\"Okriviti društvene medije\"",
-      "url" : "https://kurier.at/kultur/medien/gebe-den-sozialen-medien-die-schuld/401340768"
+      "articleLength" : 1303,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 199,
+      "id" : "szdmtmBf",
+      "publisher" : "derstandard.at",
+      "titleSource" : "US-Rapper DMX nach Herzanfall im Krankenhaus",
+      "titleTarget" : "Američki reper DMX nakon srčanog udara u bolnici",
+      "url" : "https://www.derstandard.at/story/2000125592820/us-rapper-dmx-nach-herzanfall-im-krankenhaus?ref=rss"
     }, {
       "articleLength" : 9012,
       "articlePartsSize" : 38,
@@ -184,15 +202,6 @@
       "titleSource" : "Essayist Franz Schuh: \"Dem Tod ins Gesicht lachen\"",
       "titleTarget" : "Esejist Franz Schuh: \"Smijeh u lice\"",
       "url" : "https://www.derstandard.at/story/2000125569318/essayist-franz-schuh-dem-tod-ins-gesicht-lachen?ref=rss"
-    }, {
-      "articleLength" : 5053,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 721,
-      "id" : "Icaz0Eur",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Harald Martensteins \"Wut\": Eine Kinderhölle",
-      "titleTarget" : "\"Wut\" Haralda Martensteina: Dječji pakao",
-      "url" : "https://www.derstandard.at/story/2000125551884/harald-martensteins-wut-eine-kinderhoelle?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -219,44 +228,24 @@
       "titleTarget" : "Gala gala od 8-1 na WAC-u: Rapid slavi svoju najveću pobjedu u 13 godina",
       "url" : "https://kurier.at/sport/fussball/bundesliga-meistergruppe-rapid-feiert-81-torgala-beim-wac-lask-verliert-in-tirol/401340843"
     }, {
-      "articleLength" : 3210,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 445,
-      "id" : "rVdftxJz",
-      "imgUrl" : "https://image.kurier.at/images/original/5952204/46-145080881.jpg",
+      "articleLength" : 831,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 132,
+      "id" : "tZ5paRKA",
+      "imgUrl" : "https://image.kurier.at/images/original/5954067/46-176840902.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Sport in Corona-Zeiten: Folgenschwerer als das 0:4 des ÖFB-Teams",
-      "titleTarget" : "Sport u vremenima Corone: Ozbiljniji od 0: 4 momčadi ÖFB",
-      "url" : "https://kurier.at/sport/sport-in-corona-zeiten-folgenschwerer-als-das-04-des-oefb-teams/401340606"
+      "titleSource" : "Rekord für Daka: Frühester Hattrick der Liga-Geschichte",
+      "titleTarget" : "Rekord za Daku: najraniji hat trick u povijesti lige",
+      "url" : "https://kurier.at/sport/fussball/rekord-fuer-salzburg-stuermer-daka-schnellster-hattrick-der-bundesliga-geschichte/401341059"
     }, {
-      "articleLength" : 2982,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 434,
-      "id" : "RhIOC3sp",
-      "imgUrl" : "https://image.kurier.at/images/original/5953524/46-167110913.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die Austria muss sparen: \"Vorsorgliche Kündigung\" von Mitarbeitern",
-      "titleTarget" : "Austrija mora uštedjeti: \"otkaz iz predostrožnosti\" zaposlenih",
-      "url" : "https://kurier.at/sport/fussball/die-wiener-austria-muss-sparen-vorsorgliche-kuendigung-von-mitarbeitern/401340831"
-    }, {
-      "articleLength" : 1035,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 152,
-      "id" : "BEsc9GOg",
-      "imgUrl" : "https://image.kurier.at/images/original/5952687/46-176824449.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Die Bayern stehen vor dem neunten Meistertitel in Folge",
-      "titleTarget" : "Bayernu predstoji deveti naslov prvaka zaredom",
-      "url" : "https://kurier.at/sport/fussball/die-bayern-stehen-vor-dem-neunten-meistertitel-in-folge/401340741"
-    }, {
-      "articleLength" : 2905,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 445,
-      "id" : "BnukeAqV",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Höchster Liga-Sieg für Rapid seit 13 Jahren mit 8:1-Sieg beim WAC",
-      "titleTarget" : "Najviša pobjeda lige za Rapid u posljednjih 13 godina s 8-1 pobjedom na WAC-u",
-      "url" : "https://www.diepresse.com/5961362/Fussball_Hoechster-LigaSieg-fuer-Rapid-seit-13-Jahren-mit-8_1Sieg?from=rss"
+      "articleLength" : 6626,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 1017,
+      "id" : "y0FoZEoz",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Eine Zerlegung: Rapid deklassiert den WAC mit 8:1",
+      "titleTarget" : "Slom: Brzi nadigravanje WAC-a za 8: 1",
+      "url" : "https://www.derstandard.at/story/2000125592959/rapid-deklassiert-den-wac-mit-71?ref=rss"
     }, {
       "articleLength" : 3013,
       "articlePartsSize" : 15,
@@ -266,6 +255,36 @@
       "titleSource" : "Austria kündigt vorsorglich Trainern: \"Jetzt ist das Haus im Sommer sauber\"",
       "titleTarget" : "Austrija iz predostrožnosti najavljuje trenere: \"Ljeti je kuća čista\"",
       "url" : "https://www.derstandard.at/story/2000125589269/austria-kuendigte-vorsorglich-club-trainern-jetzt-ist-das-haus-im?ref=rss"
+    }, {
+      "articleLength" : 857,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 121,
+      "id" : "NL1qhmpj",
+      "imgUrl" : "https://image.kurier.at/images/original/3423826/46-95631409.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Eierpecken statt Münzwurf: Schiedsrichterin sorgt für Lacher",
+      "titleTarget" : "Jaja umjesto bacanja novčića: sudac nasmijava ljude",
+      "url" : "https://kurier.at/sport/fussball/eierpecken-statt-muenzwurf-schiedsrichterin-in-der-frauen-bundesliga-sorgt-fuer-lacher/401341071"
+    }, {
+      "articleLength" : 3691,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 547,
+      "id" : "gId8XX9o",
+      "imgUrl" : "https://image.kurier.at/images/original/5954145/46-176841601.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Daka-Festspiele gegen Sturm Graz: Salzburg feiert 3:1-Heimsieg",
+      "titleTarget" : "Daka festival protiv Sturm Graza: Salzburg slavi 3-1 domaću pobjedu",
+      "url" : "https://kurier.at/sport/fussball/bundesliga-meistergruppe-salzburg-feiert-dank-daka-31-heimsieg-gegen-sturm-graz/401340855"
+    }, {
+      "articleLength" : 1262,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 177,
+      "id" : "9WvrBv6F",
+      "imgUrl" : "https://image.kurier.at/images/original/5953758/46-146560096.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Mitgliedervereine als \"Rarität\": \"Gibt nur noch Sturm und Rapid\"",
+      "titleTarget" : "Klubovi članova kao \"rijetkost\": \"Postoje samo Sturm i Rapid\"",
+      "url" : "https://kurier.at/sport/fussball/sturm-praesident-jauk-ueber-mitgliedervereine-gibt-nur-noch-sturm-und-rapid/401340972"
     } ]
   } ],
   "country" : "austria",
