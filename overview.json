@@ -2,6 +2,26 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "articleId" : "Nk6klUo2",
+      "articleLength" : 4764,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 675,
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/a/c/5961644/Austria-Launches-Easter-Shutdown_1617688105495837_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Wird der harte Lockdown im Osten Österreichs verlängert?",
+      "titleTarget" : "Hoće li se produžiti oštra blokada u istočnoj Austriji?",
+      "url" : "https://www.diepresse.com/5961644/CoronaGipfel_Wird-der-harte-Lockdown-im-Osten-Oesterreichs-verlaengert?from=rss"
+    }, {
+      "articleId" : "3hOVexrG",
+      "articleLength" : 3395,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 428,
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/0/4/5961476/D6A546E6-1E21-41F0-92EB-CDD9FF312993_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Justizministerium: Beschwerde gegen Entscheidung, Pilnacek nicht zu supendieren",
+      "titleTarget" : "Ministarstvo pravosuđa: žalba na odluku da se Pilnacek ne suspendira",
+      "url" : "https://www.diepresse.com/5961476/Beschwerde_Justizministerium_Beschwerde-gegen-Entscheidung?from=rss"
+    }, {
       "articleId" : "SGhqDk8q",
       "articleLength" : 645,
       "articlePartsSize" : 3,
@@ -22,46 +42,56 @@
       "titleTarget" : "Ministarstvo pravosuđa žali se na suspenziju Pilnaceka",
       "url" : "https://kurier.at/politik/inland/justizministerium-erhebt-beschwerde-in-sachen-pilnacek-suspendierung/401341341"
     }, {
-      "articleId" : "b3STkAbW",
-      "articleLength" : 3330,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 413,
+      "articleId" : "UwWn3DMf",
+      "articleLength" : 1017,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 150,
+      "imgUrl" : "https://image.kurier.at/images/original/5956155/46-175892542.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Vor Corona-Gipfel: Wie Experte Popper die aktuelle Situation einschätzt",
+      "titleTarget" : "Prije summita u Coroni: Kako stručnjak Popper procjenjuje trenutnu situaciju",
+      "url" : "https://kurier.at/politik/inland/vor-corona-gipfel-wie-experte-popper-die-aktuelle-situation-einschaetzt/401341701"
+    }, {
+      "articleId" : "Ww2LpG0w",
+      "articleLength" : 6067,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 908,
       "publisher" : "derstandard.at",
-      "titleSource" : "Justizministerium weiterhin für Suspendierung Pilnaceks",
-      "titleTarget" : "Ministarstvo pravosuđa nastavlja s suspenzijom Pilnaceka",
-      "url" : "https://www.derstandard.at/story/2000125599396/justizministerium-erhebt-beschwerde-in-sachen-pilnacek-suspendierung?ref=rss"
+      "titleSource" : "Türkis-grüne Koalition hat laut Umfrage ihre Mehrheit verloren",
+      "titleTarget" : "Prema anketi, tirkizno-zelena koalicija izgubila je većinu",
+      "url" : "https://www.derstandard.at/story/2000125587095/tuerkis-gruene-koalition-hat-laut-umfrage-ihre-mehrheit-verloren?ref=rss"
     }, {
       "articleId" : "V5h4SJ7n",
       "articleLength" : 4488,
       "articlePartsSize" : 20,
       "articleWordCount" : 620,
       "publisher" : "derstandard.at",
-      "titleSource" : "Rendi-Wagner fordert vor Dienstags-Gipfel \"österreichweiten Lockdown\"",
+      "titleSource" : "Rendi-Wagner fordert vor Dienstag-Gipfel \"österreichweiten Lockdown\"",
       "titleTarget" : "Rendi-Wagner poziva na \"zaključavanje za cijelu Austriju\" prije summita u utorak",
       "url" : "https://www.derstandard.at/story/2000125601048/rendi-wagner-fordert-vor-dienstags-gipfel-oesterreichweiten-lockdown?ref=rss"
-    }, {
-      "articleId" : "3hOVexrG",
-      "articleLength" : 3395,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 428,
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/0/4/5961476/D6A546E6-1E21-41F0-92EB-CDD9FF312993_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Justizministerium: Beschwerde gegen Entscheidung, Pilnacek nicht zu supendieren",
-      "titleTarget" : "Ministarstvo pravosuđa: žalba na odluku da se Pilnacek ne suspendira",
-      "url" : "https://www.diepresse.com/5961476/Beschwerde_Justizministerium_Beschwerde-gegen-Entscheidung?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleId" : "NPzNi7L1",
-      "articleLength" : 1400,
+      "articleId" : "g0OBhWm7",
+      "articleLength" : 1607,
       "articlePartsSize" : 7,
-      "articleWordCount" : 198,
-      "imgUrl" : "https://media.diepresse.com/images/uploads/6/d/a/5961434/48467F11-6DD5-46C1-A0FF-3600366D24D9_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Agenda Austria: Milliardenkosten durch langsames Impfen",
-      "titleTarget" : "Dnevni red Austrija: Milijardi troškova sporim cijepljenjem",
-      "url" : "https://www.diepresse.com/5961434/Agenda-Austria_Milliardenkosten-durch-langsames-Impfen?from=rss"
+      "articleWordCount" : 234,
+      "imgUrl" : "https://image.kurier.at/images/original/909240/Credit%252BSuisse.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Hedgefonds-Ausfall brockte Credit Suisse massiven Verlust ein",
+      "titleTarget" : "Credit Suisse pretrpio je velike gubitke kad je hedge fond propustio",
+      "url" : "https://kurier.at/wirtschaft/hedgefonds-ausfall-brockte-credit-suisse-massiven-verlust-ein/401341647"
+    }, {
+      "articleId" : "aJXzZ0qB",
+      "articleLength" : 1897,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 269,
+      "imgUrl" : "https://image.kurier.at/images/original/4607504/78370011356206148_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Firma zahlte Überstunden nicht: AK erstritt 1.700 Euro",
+      "titleTarget" : "Tvrtka nije platila prekovremeni rad: AK je osvojio 1.700 eura",
+      "url" : "https://kurier.at/wirtschaft/firma-zahlte-ueberstunden-nicht-ak-erstritt-1700-euro/401341383"
     }, {
       "articleId" : "n5RO8e75",
       "articleLength" : 2457,
@@ -73,6 +103,16 @@
       "titleTarget" : "Zatvaranje MAN-ove tvornice Steyr koštalo bi 8.400 radnih mjesta",
       "url" : "https://www.diepresse.com/5961462/Studie_Schliessung-von-MANWerk-Steyr-wuerde-8400-Jobs-kosten?from=rss"
     }, {
+      "articleId" : "UgByTxHz",
+      "articleLength" : 978,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 140,
+      "imgUrl" : "https://image.kurier.at/images/original/5954874/46-176766872.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Studie zu MAN-Werk Steyr: Schließung würde 8.400 Jobs kosten",
+      "titleTarget" : "Studija o MAN-ovoj tvornici Steyr: Zatvaranje bi koštalo 8.400 radnih mjesta",
+      "url" : "https://kurier.at/wirtschaft/studie-zu-man-werk-steyr-schliessung-wuerde-8400-jobs-kosten/401341314"
+    }, {
       "articleId" : "C6T47w5u",
       "articleLength" : 995,
       "articlePartsSize" : 4,
@@ -82,28 +122,18 @@
       "titleTarget" : "Prema studiji, zatvaranje tvornice MAN u Steyru koštalo bi 8.400 radnih mjesta",
       "url" : "https://www.derstandard.at/story/2000125600532/schliessung-des-man-werks-in-steyr-wuerde-laut-studie-8?ref=rss"
     }, {
-      "articleId" : "0IzJiJ0D",
-      "articleLength" : 1038,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 142,
+      "articleId" : "6zc4r6cS",
+      "articleLength" : 1309,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 185,
       "publisher" : "derstandard.at",
-      "titleSource" : "Am Massenmarkt für Smartphones ist China auf der Überholspur",
-      "titleTarget" : "LG Electronics odustaje od podjele pametnih telefona",
-      "url" : "https://www.derstandard.at/story/2000125596929/lg-electronics-gibt-smartphone-sparte-auf?ref=rss"
+      "titleSource" : "IWF gibt Verlängerung von Notfall-Hilfen für 28 Länder bekannt",
+      "titleTarget" : "MMF najavljuje produženje hitne pomoći za 28 zemalja",
+      "url" : "https://www.derstandard.at/story/2000125606565/iwf-gibt-verlaengerung-von-notfall-hilfen-fuer-28-laender-bekannt?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleId" : "FXZO61GW",
-      "articleLength" : 1909,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 280,
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/f/3/5961459/C3CF649E-BFDE-4AF0-B2BE-40894A66E16F_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Trafikantin erlag einen Monat nach Brandanschlag ihren Verletzungen",
-      "titleTarget" : "Tabaker je podlegao ozljedama mjesec dana nakon požara",
-      "url" : "https://www.diepresse.com/5961459/Wien_Trafikantin-erlag-einen-Monat-nach-Brandanschlag-ihren?from=rss"
-    }, {
       "articleId" : "czPb800B",
       "articleLength" : 3186,
       "articlePartsSize" : 15,
@@ -114,43 +144,15 @@
       "titleTarget" : "Corona: 524 izvještaja zbog nepoštivanja policijskog sata na Uskrs",
       "url" : "https://kurier.at/chronik/oesterreich/corona-524-anzeigen-wegen-missachtung-der-ausgangssperren-zu-ostern/401341443"
     }, {
-      "articleId" : "aZeglTby",
-      "articleLength" : 3186,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 449,
-      "publisher" : "derstandard.at",
-      "titleSource" : "Trafikantin nach Brandanschlag in Wien verstorben",
-      "titleTarget" : "Tabačar je umro nakon požara u Beču",
-      "url" : "https://www.derstandard.at/story/2000125598285/trafikantin-nach-brandanschlag-in-wien-verstorben?ref=rss"
-    }, {
-      "articleId" : "9m7cw1mt",
-      "articleLength" : 937,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 129,
+      "articleId" : "FXZO61GW",
+      "articleLength" : 1909,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 280,
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/f/3/5961459/C3CF649E-BFDE-4AF0-B2BE-40894A66E16F_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Maskenverweigerer attackierte Polizisten in Wiener-U-Bahnstation",
-      "titleTarget" : "Odbijači maski napali su policajce u bečkoj podzemnoj željeznici",
-      "url" : "https://www.diepresse.com/5961468/Wien_Maskenverweigerer-attackierte-Polizisten-in-WienerUBahnstation?from=rss"
-    }, {
-      "articleId" : "2kjwRRoc",
-      "articleLength" : 2469,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 335,
-      "imgUrl" : "https://image.kurier.at/images/original/5954745/46-176805975.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Hotspots in Österreich: Wien schon bei 7-Tages-Inzidenz von 340",
-      "titleTarget" : "Žarišna mjesta Corone u Austriji: Beč već ima 7-dnevnu incidenciju od 340",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-hotspots-in-oesterreich-wien-schon-bei-7-tages-inzidenz-von-340/401341212"
-    }, {
-      "articleId" : "3xpMbu3A",
-      "articleLength" : 6169,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 1000,
-      "imgUrl" : "https://image.kurier.at/images/original/5952015/46-176719185.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Werde diesen Tag nicht überleben\": Das Verschwinden von Adrian Lukas",
-      "titleTarget" : "\"Neću preživjeti ovaj dan\": Nestanak Adriana Lukasa",
-      "url" : "https://kurier.at/chronik/oesterreich/werde-diesen-tag-nicht-ueberleben-das-verschwinden-von-adrian-lukas/401340516"
+      "titleSource" : "Trafikantin erlag einen Monat nach Brandanschlag ihren Verletzungen",
+      "titleTarget" : "Tabaker je podlegao ozljedama mjesec dana nakon požara",
+      "url" : "https://www.diepresse.com/5961459/Wien_Trafikantin-erlag-einen-Monat-nach-Brandanschlag-ihren?from=rss"
     }, {
       "articleId" : "BSjb6XMP",
       "articleLength" : 3397,
@@ -161,47 +163,57 @@
       "titleSource" : "Corona: 2.217 Neuinfektionen in Österreich",
       "titleTarget" : "Corona: 2217 novih infekcija u Austriji",
       "url" : "https://kurier.at/chronik/oesterreich/corona-2217-neuinfektionen-in-oesterreich/401341203"
+    }, {
+      "articleId" : "LoNMgnCP",
+      "articleLength" : 10132,
+      "articlePartsSize" : 46,
+      "articleWordCount" : 1470,
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wie unser soziales Leben seit einem Jahr reguliert wird",
+      "titleTarget" : "Kako je naš društveni život reguliran godinu dana",
+      "url" : "https://www.derstandard.at/story/2000125275996/wie-unser-soziales-leben-seit-einem-jahr-reguliert-wird?ref=rss"
+    }, {
+      "articleId" : "9m7cw1mt",
+      "articleLength" : 937,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 129,
+      "publisher" : "diepresse.com",
+      "titleSource" : "Maskenverweigerer attackierte Polizisten in Wiener-U-Bahnstation",
+      "titleTarget" : "Odbijači maski napali su policajce u bečkoj podzemnoj željeznici",
+      "url" : "https://www.diepresse.com/5961468/Wien_Maskenverweigerer-attackierte-Polizisten-in-WienerUBahnstation?from=rss"
+    }, {
+      "articleId" : "ZhN7LuYk",
+      "articleLength" : 3267,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 491,
+      "imgUrl" : "https://image.kurier.at/images/original/5954928/46-175572472.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Warnung vor Schneefall bis in tiefe Lagen am Dienstag",
+      "titleTarget" : "Upozorenje na padanje snijega na male nadmorske visine u utorak",
+      "url" : "https://kurier.at/chronik/oesterreich/schneefall-bis-in-tiefe-lagen-am-dienstag/401341284"
+    }, {
+      "articleId" : "0HJco5ol",
+      "articleLength" : 1145,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 173,
+      "imgUrl" : "https://image.kurier.at/images/original/5954925/46-176713747.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Glück für Wiener zu Ostern: 3,8 Millionen Euro im Lotto gewonnen",
+      "titleTarget" : "Sreća za Bečane na Uskrs: 3,8 milijuna eura dobiveno na lutriji",
+      "url" : "https://kurier.at/chronik/oesterreich/glueck-fuer-wiener-zu-ostern-38-millionen-euro-im-lotto-gewonnen/401341335"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleId" : "UPQHL5ZO",
-      "articleLength" : 952,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 138,
-      "imgUrl" : "https://image.kurier.at/images/original/5954625/46-176775956.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Godzilla vs. Kong\" erzielt Kinokassenrekord in Pandemiezeiten",
-      "titleTarget" : "\"Godzilla vs. Kong\" doseže rekorde blagajni u pandemijskim vremenima",
-      "url" : "https://kurier.at/kultur/godzilla-vs-kong-erzielt-kinokassenrekord-in-pandemiezeiten/401341182"
-    }, {
-      "articleId" : "KHNeknkW",
-      "articleLength" : 1439,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 176,
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/c/f/5961423/CAAD5C5E-27F0-47F4-B1FD-DBF31BF498E5_v0_h.jpg",
+      "articleId" : "uAyALd1T",
+      "articleLength" : 575,
+      "articlePartsSize" : 2,
+      "articleWordCount" : 76,
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Nur staatliche Medien dürfen über Ungarns Impfkampagne berichten",
-      "titleTarget" : "Samo državni mediji smiju izvještavati o mađarskoj kampanji cijepljenja",
-      "url" : "https://www.diepresse.com/5961423/Kontrolle_Nur-staatliche-Medien-duerfen-ueber-Ungarns-Impfkampagne?from=rss"
-    }, {
-      "articleId" : "gvPrLgsW",
-      "articleLength" : 7792,
-      "articlePartsSize" : 35,
-      "articleWordCount" : 1105,
-      "publisher" : "derstandard.at",
-      "titleSource" : "Übersetzerin Nechyba: \"Bei ‚farbig‘ stellt es mir die Haare auf\"",
-      "titleTarget" : "Prevoditelj Nechyba: \"Uz 'obojeno' mi se kosa uspravlja\"",
-      "url" : "https://www.derstandard.at/story/2000125582884/daphne-nechybabei-farbig-stellt-es-mir-die-haare-auf?ref=rss"
-    }, {
-      "articleId" : "5lqPLbPq",
-      "articleLength" : 11749,
-      "articlePartsSize" : 52,
-      "articleWordCount" : 1802,
-      "publisher" : "derstandard.at",
-      "titleSource" : "Geheime Hotel-Karteikarten: \"Keine Ostergrüße mehr!\"",
-      "titleTarget" : "Tajne hotelske indeksne kartice: \"Nema više čestitki za Uskrs!\"",
-      "url" : "https://www.derstandard.at/story/2000125546885/geheime-hotel-karteikarten-keine-ostergruesse-mehr?ref=rss"
+      "titleSource" : "Musiksalon Nr. 58: Ein Strawinsky Klangportrait",
+      "titleTarget" : "Glazbeni salon br. 58: Zvučni portret Stravinskog",
+      "url" : "https://www.diepresse.com/5961591/Podcast_Musiksalon-Nr-58_Ein-Strawinsky-Klangportrait?from=rss"
     }, {
       "articleId" : "bSgrHio7",
       "articleLength" : 738,
@@ -213,15 +225,23 @@
       "titleTarget" : "\"Sloboda\": Justin Bieber iznenađuje mini gospel albumom",
       "url" : "https://www.diepresse.com/5961492/Pop_Freedom_Justin-Bieber-ueberrascht-mit-MiniGospelalbum?from=rss"
     }, {
-      "articleId" : "y7mVusbK",
-      "articleLength" : 1522,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 220,
-      "imgUrl" : "https://image.kurier.at/images/original/5954730/46-176276895.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Hollywoodstar Chadwick Boseman posthum mit Filmpreis geehrt",
-      "titleTarget" : "Holivudska zvijezda Chadwick Boseman posthumno je nagrađena filmskom nagradom",
-      "url" : "https://kurier.at/kultur/hollywoodstar-chadwick-boseman-posthum-mit-filmpreis-geehrt/401341215"
+      "articleId" : "gvPrLgsW",
+      "articleLength" : 7792,
+      "articlePartsSize" : 35,
+      "articleWordCount" : 1105,
+      "publisher" : "derstandard.at",
+      "titleSource" : "Übersetzerin Nechyba: \"Bei 'farbig' stellt es mir die Haare auf\"",
+      "titleTarget" : "Prevoditelj Nechyba: \"Uz 'obojeno' mi se kosa uspravlja\"",
+      "url" : "https://www.derstandard.at/story/2000125582884/daphne-nechybabei-farbig-stellt-es-mir-die-haare-auf?ref=rss"
+    }, {
+      "articleId" : "QBWTI52z",
+      "articleLength" : 4480,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 591,
+      "publisher" : "derstandard.at",
+      "titleSource" : "Sabine Haags fehlendes Gespür für die Quote im Kunsthistorischen Museum",
+      "titleTarget" : "Nedostatak osjećaja Sabine Haag za kvotu u Kunsthistorisches Museumu",
+      "url" : "https://www.derstandard.at/story/2000125604103/sabine-haags-fehlendes-gespuer-fuer-die-quote-im-kunsthistorischen?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -236,27 +256,37 @@
       "titleTarget" : "Vodeni autobus u Veneciji postaje centar za cijepljenje",
       "url" : "https://kurier.at/wissen/gesundheit/wasserbus-in-venedig-wird-zu-impfzentrum/401341470"
     }, {
-      "articleId" : "PiqcbiW5",
-      "articleLength" : 14971,
-      "articlePartsSize" : 65,
-      "articleWordCount" : 2365,
+      "articleId" : "EnPLB7zv",
+      "articleLength" : 7345,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 957,
       "publisher" : "derstandard.at",
-      "titleSource" : "Fastenarzt Michalsen: \"Speisen schmecken nach dem Fasten anders\"",
-      "titleTarget" : "Liječnik koji posti, Michalsen: \"Hrana ima drugačiji okus nakon posta\"",
-      "url" : "https://www.derstandard.at/story/2000125578835/fastenarzt-michalsen-speisen-schmecken-nach-dem-fasten-anders?ref=rss"
+      "titleSource" : "Versteckte Helfer im Kampf gegen Sars-CoV-2",
+      "titleTarget" : "Skriveni pomagači u borbi protiv Sars-CoV-2",
+      "url" : "https://www.derstandard.at/story/2000125362217/versteckte-helfer-im-kampf-gegen-sars-cov-2?ref=rss"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleId" : "XrytnG8W",
-      "articleLength" : 2697,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 412,
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/6/c/b/5961419/85050AA4-EFE1-48DD-B2F6-0D04FE1B0F7D_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Eva-Maria Brem tritt nach \"schwieriger Saison\" zurück",
-      "titleTarget" : "Eva-Maria Brem podnosi ostavku nakon \"teške sezone\"",
-      "url" : "https://www.diepresse.com/5961419/Ski-alpin_EvaMaria-Brem-tritt-nach-schwieriger-Saison-zurueck?from=rss"
+      "articleId" : "VhTOREqy",
+      "articleLength" : 2178,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 325,
+      "imgUrl" : "https://image.kurier.at/images/original/5955120/46-176849799.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Die Austria kann nicht mehr auf Zeit spielen",
+      "titleTarget" : "Austrija više ne može igrati na vrijeme",
+      "url" : "https://kurier.at/sport/die-austria-kann-nicht-mehr-auf-zeit-spielen/401341422"
+    }, {
+      "articleId" : "2WgDRQqN",
+      "articleLength" : 1115,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 168,
+      "imgUrl" : "https://image.kurier.at/images/original/5954892/olynikova.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Den Arm dieser Tennis-Spielerin können Sie jetzt kaufen",
+      "titleTarget" : "Možete odmah kupiti ruku ovog tenisača",
+      "url" : "https://kurier.at/sport/tennis/oleksandra-oliynykova-den-arm-dieser-tennis-spielerin-koennen-sie-jetzt-kaufen/401341326"
     }, {
       "articleId" : "HsCY87uP",
       "articleLength" : 2708,
@@ -268,14 +298,14 @@
       "titleTarget" : "Puki nezaustavljivi uspon Jannika Sinnera",
       "url" : "https://www.diepresse.com/5961551/Tennis_Jannik-Sinners-schier-unaufhaltsamer-Aufstieg?from=rss"
     }, {
-      "articleId" : "nGQlyVZd",
-      "articleLength" : 539,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 67,
-      "publisher" : "derstandard.at",
-      "titleSource" : "FC Barcelona siegte gegen Valladolid 1:0",
-      "titleTarget" : "FC Barcelona pobijedila je Valladolid 1-0",
-      "url" : "https://www.derstandard.at/story/2000125607595/fc-barcelona-siegte-gegen-valladolid-10?ref=rss"
+      "articleId" : "4WXT5Wp6",
+      "articleLength" : 3273,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 469,
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Du bist nicht allein\": Rassismus-Vorfall in Spaniens Fußball",
+      "titleTarget" : "\"Niste sami\": incidentni rasizam u španjolskom nogometu",
+      "url" : "https://kurier.at/sport/fussball/du-bist-nicht-allein-rassismus-vorfall-in-spaniens-fussball/401341371"
     }, {
       "articleId" : "zTpJlxuP",
       "articleLength" : 3082,
@@ -287,33 +317,24 @@
       "titleTarget" : "St. Pölten je na dopustu trenera Ibertsbergera",
       "url" : "https://www.diepresse.com/5961507/Bundesliga_St-Poelten-beurlaubt-Trainer-Ibertsberger?from=rss"
     }, {
-      "articleId" : "eKZWWxiJ",
-      "articleLength" : 3123,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 453,
+      "articleId" : "nGQlyVZd",
+      "articleLength" : 539,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 67,
       "publisher" : "derstandard.at",
-      "titleSource" : "\"Du bist nicht allein\": Rassismus-Vorfall in La Liga",
-      "titleTarget" : "\"Niste sami\": Incident rasizma u La Ligi",
-      "url" : "https://www.derstandard.at/story/2000125601007/du-bist-nicht-allein-rassismus-vorfall-in-la-liga?ref=rss"
+      "titleSource" : "FC Barcelona siegte gegen Valladolid 1:0",
+      "titleTarget" : "FC Barcelona pobijedila je Valladolid 1-0",
+      "url" : "https://www.derstandard.at/story/2000125607595/fc-barcelona-siegte-gegen-valladolid-10?ref=rss"
     }, {
-      "articleId" : "a0wmNhGx",
-      "articleLength" : 2258,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 332,
+      "articleId" : "sZmtpr10",
+      "articleLength" : 3658,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 533,
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/b/a/5961658/9ED0D4E1-58C2-4A5E-838A-FD6CEDCCA8BA_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "St. Pölten beurlaubte Fußballtrainer Ibertsberger",
-      "titleTarget" : "Nogometni trener St. Pöltena Ibertsberger je na dopustu",
-      "url" : "https://www.diepresse.com/5961513/Abstiegskampf_St-Poelten-beurlaubte-Fussballtrainer-Ibertsberger?from=rss"
-    }, {
-      "articleId" : "2WgDRQqN",
-      "articleLength" : 1115,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 168,
-      "imgUrl" : "https://image.kurier.at/images/original/5954892/olynikova.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Den Arm dieser Tennis-Spielerin können Sie jetzt kaufen",
-      "titleTarget" : "Možete odmah kupiti ruku ovog tenisača",
-      "url" : "https://kurier.at/sport/tennis/oleksandra-oliynykova-den-arm-dieser-tennis-spielerin-koennen-sie-jetzt-kaufen/401341326"
+      "titleSource" : "Liverpool sinnt gegen Real Madrid auf Revanche",
+      "titleTarget" : "Liverpool se osvećuje Real Madridu",
+      "url" : "https://www.diepresse.com/5961658/Champions-League-Viertelfinale_Liverpool-sinnt-gegen-Real-Madrid?from=rss"
     } ]
   } ],
   "country" : "austria",
